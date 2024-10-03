@@ -37,13 +37,15 @@ jobs:
       - name: Run Go script
         run: go run main.go
 
+      - name: Pull latest changes
+        run: |
+          git pull origin main
+          git fetch origin main
+
       - name: Setup Git
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-
-      - name: Pull latest changes
-        run: git pull origin main
 
       - name: Commit and push if changed
         run: |
