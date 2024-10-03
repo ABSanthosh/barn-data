@@ -37,10 +37,16 @@ jobs:
       - name: Run Go script
         run: go run main.go
 
-      - name: Commit and push if changed
+      - name: Setup Git
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Commit and push if changed
+        run: |
           git add .
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feeds" && git push)
 
