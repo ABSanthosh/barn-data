@@ -190,16 +190,16 @@
     "image": "https://assetsio.gnwcdn.com/crow-country-crop.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
+      "Horror",
       "Action Adventure",
-      "PS4",
-      "PC",
-      "PS5",
-      "Indie",
+      "Single Player",
       "Nintendo Switch",
       "Crow Country",
-      "Horror",
+      "Indie",
+      "PC",
+      "PS5",
       "Bird view / Isometric",
-      "Single Player"
+      "PS4"
     ]
   },
   {
@@ -211,27 +211,27 @@
     "image": "https://assetsio.gnwcdn.com/sakurai-creating-games.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
-      "Shooter",
-      "Xbox Series X/S",
-      "Nintendo",
-      "PS5",
-      "Kid Icarus: Uprising",
-      "BANDAI NAMCO Studios",
-      "Multiplayer Cooperative",
       "Multiplayer Competitive",
-      "Fighting",
-      "Side view",
-      "PS4",
       "Xbox One",
-      "Super Smash Bros. Ultimate",
-      "Single Player",
-      "Hack \u0026 Slash",
+      "Multiplayer Cooperative",
+      "HAL Laboratory",
       "Nintendo Switch",
-      "Platformer",
-      "Nintendo 3DS",
       "Third person",
-      "HAL Laboratory"
+      "PC",
+      "Hack \u0026 Slash",
+      "Platformer",
+      "Shooter",
+      "Fighting",
+      "PS5",
+      "PS4",
+      "Super Smash Bros. Ultimate",
+      "Xbox Series X/S",
+      "Single Player",
+      "Nintendo 3DS",
+      "BANDAI NAMCO Studios",
+      "Nintendo",
+      "Kid Icarus: Uprising",
+      "Side view"
     ]
   },
   {
@@ -243,18 +243,18 @@
     "image": "https://assetsio.gnwcdn.com/mario-tennis-switch-birdo.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
+      "Multiplayer Competitive",
+      "Platformer",
       "Action Adventure",
-      "Side view",
       "Nintendo",
       "Super Mario Bros. 2",
+      "Multiplayer Cooperative",
       "Nintendo Switch",
-      "Platformer",
+      "Single Player",
       "Super Mario Odyssey",
       "Third person",
-      "Multiplayer Cooperative",
-      "Multiplayer Competitive",
-      "Single Player",
-      "Super Mario Bros. Wonder"
+      "Super Mario Bros. Wonder",
+      "Side view"
     ]
   },
   {
@@ -266,17 +266,17 @@
     "image": "https://assetsio.gnwcdn.com/throne-and-liberty_RemR2wS.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
+      "RPG",
       "Throne and Liberty",
-      "PC",
-      "MMORPG",
-      "PS5",
+      "Multiplayer Competitive",
       "Xbox Series X/S",
-      "Third person",
+      "MMO",
       "NCsoft",
       "Multiplayer Cooperative",
-      "Multiplayer Competitive",
-      "MMO",
-      "RPG"
+      "Third person",
+      "PC",
+      "PS5",
+      "MMORPG"
     ]
   },
   {
@@ -288,10 +288,10 @@
     "image": "https://assetsio.gnwcdn.com/image-(387).png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Xbox Series X/S",
       "Nintendo Switch",
       "PC",
-      "PS5"
+      "PS5",
+      "Xbox Series X/S"
     ]
   },
   {
@@ -303,15 +303,15 @@
     "image": "https://assetsio.gnwcdn.com/20241002093031_1.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
       "Sandbox",
+      "Simulation",
+      "Digital Foundry",
+      "Single Player",
       "Indie",
       "Tiny Glade",
-      "Digital Foundry",
       "Pounce Light",
-      "Simulation",
-      "Bird view / Isometric",
-      "Single Player"
+      "PC",
+      "Bird view / Isometric"
     ]
   },
   {
@@ -323,13 +323,13 @@
     "image": "https://assetsio.gnwcdn.com/The-Alters-clones-of-Jan.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
+      "Simulation",
       "The Alters",
+      "Action Adventure",
+      "Single Player",
       "Third person",
       "11 Bit Studios",
-      "Simulation",
-      "Bird view / Isometric",
-      "Single Player"
+      "Bird view / Isometric"
     ]
   },
   {
@@ -341,28 +341,28 @@
     "image": "https://assetsio.gnwcdn.com/scmwna.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "DONTNOD Entertainment",
-      "Omega Force",
-      "PC",
-      "Shooter",
-      "Xbox Series X/S",
-      "Fantasy",
-      "Remnant 2",
-      "PS5",
-      "Multiplayer Cooperative",
       "Multiplayer Competitive",
       "Jusant",
       "Gearbox Publishing",
-      "Single Player",
-      "Hack \u0026 Slash",
-      "Persona 5 Strikers",
-      "Action Adventure",
-      "Exploration",
-      "Atlus",
-      "SEGA",
-      "Platformer",
+      "Multiplayer Cooperative",
       "Third person",
-      "RPG"
+      "Fantasy",
+      "PC",
+      "Remnant 2",
+      "Hack \u0026 Slash",
+      "Platformer",
+      "Shooter",
+      "PS5",
+      "SEGA",
+      "Xbox Series X/S",
+      "Action Adventure",
+      "Single Player",
+      "Exploration",
+      "RPG",
+      "Atlus",
+      "Persona 5 Strikers",
+      "DONTNOD Entertainment",
+      "Omega Force"
     ]
   },
   {
@@ -374,8 +374,8 @@
     "image": "https://assetsio.gnwcdn.com/Handheld-device-showing-a-pixelated-image-of-Zelda-Wind-Waker-on-the-screen.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Nintendo Wii U",
-      "Nintendo Switch"
+      "Nintendo Switch",
+      "Nintendo Wii U"
     ]
   },
   {
@@ -387,8 +387,8 @@
     "image": "https://assetsio.gnwcdn.com/XSX_XSS_Design_HERO.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Xbox Series X/S",
-      "Xbox One"
+      "Xbox One",
+      "Xbox Series X/S"
     ]
   },
   {
@@ -410,16 +410,16 @@
     "image": "https://assetsio.gnwcdn.com/image-(383).png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
+      "Rocksteady Studios",
+      "Multiplayer Competitive",
+      "Xbox Series X/S",
       "Action Adventure",
+      "Multiplayer Cooperative",
+      "Shooter",
+      "Single Player",
       "PC",
       "PS5",
-      "Rocksteady Studios",
-      "Shooter",
-      "Xbox Series X/S",
-      "Multiplayer Cooperative",
-      "Multiplayer Competitive",
-      "Suicide Squad: Kill the Justice League",
-      "Single Player"
+      "Suicide Squad: Kill the Justice League"
     ]
   },
   {
@@ -443,16 +443,16 @@
     "image": "https://assetsio.gnwcdn.com/shadows-of-doubt-review-header_Vp7UOl6.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
+      "RPG",
       "Fireshine Games",
-      "PC",
-      "Indie",
-      "Puzzle",
       "First person",
       "Multiplayer Competitive",
+      "Action Adventure",
       "Shadows of Doubt",
       "Single Player",
-      "RPG"
+      "Indie",
+      "PC",
+      "Puzzle"
     ]
   },
   {
@@ -464,17 +464,17 @@
     "image": "https://assetsio.gnwcdn.com/last-time-i-saw-you-wishlisted.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Wishlisted",
-      "PC",
+      "Maboroshi Artworks",
+      "Chorus Worldwide Limited",
+      "Horror",
+      "Story Rich",
+      "Platformer",
       "Wishlisted 2024",
       "Indie",
-      "Interactive Drama",
-      "Platformer",
-      "Maboroshi Artworks",
-      "Horror",
       "Last Time I Saw You",
-      "Chorus Worldwide Limited",
-      "Story Rich"
+      "PC",
+      "Interactive Drama",
+      "Wishlisted"
     ]
   },
   {
@@ -486,20 +486,20 @@
     "image": "https://assetsio.gnwcdn.com/Liam-Hemsworth-as-Geralt-in-Netflix-Witcher-series-cropped-header-image.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PS4",
+      "RPG",
+      "Bandai Namco Entertainment",
+      "Xbox Series X/S",
       "Warner Bros. Games",
+      "Action Adventure",
+      "Xbox One",
+      "Single Player",
+      "The Witcher 3: Wild Hunt",
+      "CD Projekt RED",
+      "Third person",
       "PC",
       "PS5",
-      "CD Projekt RED",
       "CD Projekt",
-      "Third person",
-      "Xbox One",
-      "Xbox Series X/S",
-      "The Witcher 3: Wild Hunt",
-      "Bandai Namco Entertainment",
-      "Single Player",
-      "RPG"
+      "PS4"
     ]
   },
   {
@@ -521,15 +521,15 @@
     "image": "https://assetsio.gnwcdn.com/Game-Boy-Advance-%E2%80%93-October-2024-Game-Update-%E2%80%93-Nintendo-Switch-Online-%2B-Expansion-Pack-0-14-screenshot-(1).png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Battle Royale",
-      "Nintendo",
-      "F-Zero 99",
       "Racing Arcade",
-      "Racing",
+      "Multiplayer Competitive",
+      "Nintendo",
       "Single Player",
       "Nintendo Switch",
+      "Racing",
+      "F-Zero 99",
+      "Battle Royale",
       "Third person",
-      "Multiplayer Competitive",
       "Nintendo GBA",
       "F-Zero: GP Legend"
     ]
@@ -543,22 +543,22 @@
     "image": "https://assetsio.gnwcdn.com/A-Pal-in-Palworld-with-large-wings-and-a-sailor-hat.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PS4",
+      "RPG",
       "Pocketpair",
-      "PC",
-      "MMORPG",
-      "PS5",
-      "Indie",
-      "Shooter",
-      "Xbox One",
-      "Third person",
-      "Xbox Series X/S",
-      "Multiplayer Cooperative",
       "Palworld",
+      "Xbox Series X/S",
+      "Action Adventure",
+      "Xbox One",
+      "Multiplayer Cooperative",
+      "Shooter",
       "Single Player",
+      "Indie",
+      "Third person",
+      "PC",
+      "PS5",
+      "MMORPG",
       "Hack \u0026 Slash",
-      "RPG"
+      "PS4"
     ]
   },
   {
@@ -570,9 +570,9 @@
     "image": "https://assetsio.gnwcdn.com/Ghost-of-Y%C5%8Dtei---Announce-Trailer-_-PS5-Games-2-11-screenshot-(1).png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
+      "Ghost of Yōtei",
       "PS5",
-      "Ghost of Yōtei"
+      "Action Adventure"
     ]
   },
   {
@@ -584,24 +584,24 @@
     "image": "https://assetsio.gnwcdn.com/destiny-2-echoes-crop.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PS4",
-      "PC",
-      "MMORPG",
-      "PS5",
       "RPG",
-      "Shooter",
-      "Xbox One",
       "First person",
-      "Third person",
-      "Xbox Series X/S",
-      "Bungie",
-      "Multiplayer Cooperative",
-      "Activision",
       "Multiplayer Competitive",
-      "Activision Blizzard",
+      "Xbox Series X/S",
+      "Action Adventure",
+      "Xbox One",
+      "Multiplayer Cooperative",
+      "Shooter",
       "Single Player",
-      "Destiny 2"
+      "Activision",
+      "PS4",
+      "Third person",
+      "PS5",
+      "PC",
+      "Activision Blizzard",
+      "MMORPG",
+      "Destiny 2",
+      "Bungie"
     ]
   },
   {
@@ -626,14 +626,14 @@
     "image": "https://assetsio.gnwcdn.com/smite-2_Wp7IRIv.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "Smite 2",
-      "PC",
       "Free-to-play",
-      "PS5",
-      "MOBA",
       "Xbox Series X/S",
-      "Fantasy"
+      "Action Adventure",
+      "MOBA",
+      "Smite 2",
+      "Fantasy",
+      "PC",
+      "PS5"
     ]
   },
   {
@@ -645,26 +645,26 @@
     "image": "https://assetsio.gnwcdn.com/hololens-engineer.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Virtual Reality",
-      "PC",
-      "Xbox Series X/S",
-      "Minecraft",
-      "Simulation",
-      "Mojang",
-      "MMORPG",
-      "PS5",
-      "Android",
-      "Multiplayer Cooperative",
-      "Multiplayer Competitive",
-      "PS4",
-      "Xbox One",
-      "First person",
-      "Single Player",
-      "Action Adventure",
-      "Nintendo Switch",
       "iOS",
+      "First person",
+      "Multiplayer Competitive",
+      "Xbox One",
+      "Multiplayer Cooperative",
+      "Nintendo Switch",
       "Third person",
-      "Microsoft Studios"
+      "PC",
+      "Android",
+      "Microsoft Studios",
+      "Minecraft",
+      "Virtual Reality",
+      "PS5",
+      "PS4",
+      "Simulation",
+      "Xbox Series X/S",
+      "Action Adventure",
+      "Single Player",
+      "Mojang",
+      "MMORPG"
     ]
   },
   {
@@ -676,16 +676,16 @@
     "image": "https://assetsio.gnwcdn.com/ACSH_4SeasonsScreenshot_210912_6pmCEST.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PC",
-      "Ubisoft Quebec",
-      "PS5",
-      "Assassin's Creed Shadows",
+      "RPG",
       "Xbox Series X/S",
+      "Ubisoft",
+      "Action Adventure",
       "Ubisoft Entertainment",
       "Mac",
-      "Ubisoft",
-      "RPG"
+      "Ubisoft Quebec",
+      "PC",
+      "PS5",
+      "Assassin's Creed Shadows"
     ]
   },
   {
@@ -697,21 +697,21 @@
     "image": "https://assetsio.gnwcdn.com/b86703733c076129eb3dd09f7aa67b902b850e76af995386.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Splash Damage",
-      "PS4",
-      "PC",
-      "CI Games",
-      "City Interactive",
-      "Android",
-      "iOS",
-      "Third person",
-      "Xbox One",
-      "WarChest",
-      "Lords of the Fallen",
+      "RPG",
       "Bandai Namco Entertainment",
+      "iOS",
+      "CI Games",
+      "Splash Damage",
+      "Xbox One",
       "Single Player",
+      "WarChest",
+      "Third person",
+      "Lords of the Fallen",
+      "PC",
+      "Android",
+      "City Interactive",
       "Hack \u0026 Slash",
-      "RPG"
+      "PS4"
     ]
   },
   {
@@ -723,14 +723,14 @@
     "image": "https://assetsio.gnwcdn.com/poppy-playtime-ch4.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PC",
-      "Indie",
-      "Poppy Playtime",
-      "Puzzle",
       "First person",
       "Horror",
-      "Single Player"
+      "Action Adventure",
+      "Single Player",
+      "Poppy Playtime",
+      "Indie",
+      "PC",
+      "Puzzle"
     ]
   },
   {
@@ -742,14 +742,14 @@
     "image": "https://assetsio.gnwcdn.com/hi-fi-rush-chai-and-808-on-his-shoulder.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "Hi-Fi Rush",
-      "Tango Gameworks",
-      "Platformer",
       "Rhythm",
       "Xbox Series X/S",
-      "Third person",
+      "Tango Gameworks",
+      "Platformer",
+      "Action Adventure",
       "Single Player",
+      "Third person",
+      "Hi-Fi Rush",
       "Hack \u0026 Slash"
     ]
   },
@@ -762,31 +762,31 @@
     "image": "https://assetsio.gnwcdn.com/HERO_GamePass_Announcement_16x9_10.1.2024-b8602d6e842a5d3d46c9-1024x576.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Sloclap",
+      "First person",
+      "Xbox One",
+      "Mac",
+      "Nintendo Switch",
+      "Sifu",
+      "Third person",
       "PC",
-      "Xbox Series X/S",
-      "Devolver Digital",
+      "Hack \u0026 Slash",
+      "Strategy",
+      "Daniel Mullins Games",
+      "Fighting",
+      "Card Games",
       "PS5",
       "Puzzle",
-      "Annapurna Interactive",
-      "Sifu",
-      "Fighting",
-      "Strategy",
       "PS4",
-      "Daniel Mullins Games",
-      "Strategy: Real-Time Strategy",
-      "Indie",
-      "Xbox One",
-      "First person",
-      "Mac",
-      "Single Player",
-      "Hack \u0026 Slash",
-      "Action Adventure",
-      "Card Games",
-      "Nintendo Switch",
       "Inscryption",
-      "Third person",
-      "Open Roads"
+      "Xbox Series X/S",
+      "Action Adventure",
+      "Single Player",
+      "Annapurna Interactive",
+      "Sloclap",
+      "Indie",
+      "Devolver Digital",
+      "Open Roads",
+      "Strategy: Real-Time Strategy"
     ]
   },
   {
@@ -798,12 +798,12 @@
     "image": "https://assetsio.gnwcdn.com/FF16---Clive-extreme-close-up.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PS5",
-      "Final Fantasy XVI",
-      "Third person",
-      "Square Enix",
+      "RPG",
       "Single Player",
-      "RPG"
+      "Square Enix",
+      "Third person",
+      "PS5",
+      "Final Fantasy XVI"
     ]
   },
   {
@@ -815,24 +815,24 @@
     "image": "https://assetsio.gnwcdn.com/1_vgMz8Zk.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
-      "Shooter",
-      "Xbox Series X/S",
-      "PS5",
-      "Android",
-      "Fortnite",
-      "Multiplayer Cooperative",
-      "Multiplayer Competitive",
-      "Strategy",
-      "PS4",
-      "Xbox One",
       "Epic Games",
-      "Mac",
-      "Single Player",
-      "Action Adventure",
-      "Nintendo Switch",
       "iOS",
+      "Multiplayer Competitive",
+      "Xbox One",
+      "Multiplayer Cooperative",
+      "Mac",
+      "Nintendo Switch",
       "Third person",
+      "PC",
+      "Android",
+      "Strategy",
+      "Shooter",
+      "PS5",
+      "PS4",
+      "Xbox Series X/S",
+      "Action Adventure",
+      "Fortnite",
+      "Single Player",
       "RPG"
     ]
   },
@@ -845,24 +845,24 @@
     "image": "https://assetsio.gnwcdn.com/EG24_CyberpunkLongread_MAIN_AW.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
-      "Shooter",
-      "Xbox Series X/S",
-      "PS5",
-      "CD Projekt RED",
-      "CD Projekt",
-      "Multiplayer Competitive",
-      "Story Rich",
-      "PS4",
-      "Cyberpunk 2077",
-      "Open World",
-      "Xbox One",
       "First person",
-      "Single Player",
-      "Action Adventure",
+      "Multiplayer Competitive",
+      "Xbox One",
+      "CD Projekt RED",
       "Third person",
-      "Science Fiction",
+      "PC",
+      "Cyberpunk 2077",
       "Cyberpunk 2077: Phantom Liberty",
+      "Shooter",
+      "PS5",
+      "PS4",
+      "Science Fiction",
+      "Xbox Series X/S",
+      "Story Rich",
+      "Action Adventure",
+      "Single Player",
+      "Open World",
+      "CD Projekt",
       "RPG"
     ]
   },
@@ -875,13 +875,13 @@
     "image": "https://assetsio.gnwcdn.com/DA_Neve_crt_q105_022_hub_eluvianbroken_03.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "Strategy",
-      "Electronic Arts",
+      "RPG",
       "Bioware",
-      "Dragon Age: The Veilguard",
+      "Electronic Arts",
+      "Action Adventure",
       "Single Player",
-      "RPG"
+      "Dragon Age: The Veilguard",
+      "Strategy"
     ]
   },
   {
@@ -893,24 +893,24 @@
     "image": "https://assetsio.gnwcdn.com/SHAQ-just-Leaked-his-own-Icon-Skin-%26-Emote-%F0%9F%92%80-0-5-screenshot.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
-      "Shooter",
-      "Xbox Series X/S",
-      "PS5",
-      "Android",
-      "Fortnite",
-      "Multiplayer Cooperative",
-      "Multiplayer Competitive",
-      "Strategy",
-      "PS4",
-      "Xbox One",
       "Epic Games",
-      "Mac",
-      "Single Player",
-      "Action Adventure",
-      "Nintendo Switch",
       "iOS",
+      "Multiplayer Competitive",
+      "Xbox One",
+      "Multiplayer Cooperative",
+      "Mac",
+      "Nintendo Switch",
       "Third person",
+      "PC",
+      "Android",
+      "Strategy",
+      "Shooter",
+      "PS5",
+      "PS4",
+      "Xbox Series X/S",
+      "Action Adventure",
+      "Fortnite",
+      "Single Player",
       "RPG"
     ]
   },
@@ -923,11 +923,11 @@
     "image": "https://assetsio.gnwcdn.com/GYxL2ccbQAEt3EA.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PS3",
-      "PS4",
-      "PS5",
+      "Sony PlayStation",
       "PlayStation Vita",
-      "Sony PlayStation"
+      "PS3",
+      "PS5",
+      "PS4"
     ]
   },
   {
@@ -939,21 +939,21 @@
     "image": "https://assetsio.gnwcdn.com/like-a-dragon-yakuza-amazon.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PS4",
-      "Like a Dragon: Infinite Wealth",
-      "PC",
-      "PS5",
-      "SEGA",
-      "Yakuza: Like a Dragon",
-      "Xbox One",
-      "Third person",
+      "RPG",
       "Strategy: Turn-Based Strategy",
+      "SEGA",
       "Xbox Series X/S",
       "Like A Dragon: Pirate Yakuza In Hawaii",
+      "Yakuza: Like a Dragon",
+      "Action Adventure",
+      "Like a Dragon: Infinite Wealth",
+      "Xbox One",
       "Single Player",
+      "Third person",
+      "PC",
+      "PS5",
       "Hack \u0026 Slash",
-      "RPG"
+      "PS4"
     ]
   },
   {
@@ -965,20 +965,20 @@
     "image": "https://assetsio.gnwcdn.com/Starfield_-Shattered-Space---Official-Trailer---Xbox-Games-Showcase-2024-1-46-screenshot.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "FPS",
+      "RPG",
       "PC",
-      "Shooter",
-      "Open World",
-      "Bethesda Game Studios",
-      "Xbox Series X/S",
+      "FPS",
       "First person",
+      "Science Fiction",
+      "Xbox Series X/S",
+      "Bethesda Game Studios",
+      "Action Adventure",
+      "Single Player",
+      "Shooter",
+      "Starfield",
       "Third person",
       "Bethesda Softworks",
-      "Science Fiction",
-      "Starfield",
-      "Single Player",
-      "RPG"
+      "Open World"
     ]
   },
   {
@@ -990,17 +990,17 @@
     "image": "https://assetsio.gnwcdn.com/pokemon-unite-tier-header.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "TiMi Studio Group",
-      "MOBA",
-      "Nintendo Switch",
-      "iOS",
-      "Android",
-      "Multiplayer Cooperative",
-      "Multiplayer Competitive",
       "Pokémon Unite",
-      "Bird view / Isometric",
       "The Pokémon Company International",
-      "Tencent Games"
+      "iOS",
+      "Multiplayer Competitive",
+      "Multiplayer Cooperative",
+      "Nintendo Switch",
+      "MOBA",
+      "Tencent Games",
+      "Android",
+      "TiMi Studio Group",
+      "Bird view / Isometric"
     ]
   },
   {
@@ -1024,20 +1024,20 @@
     "image": "https://assetsio.gnwcdn.com/Screenshot-2024-09-30-at-16.44.59.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "release dates",
       "Sports Interactive",
-      "PC",
-      "Management",
-      "PS5",
-      "SEGA",
-      "Nintendo Switch",
-      "iOS",
-      "Android",
-      "Sports",
-      "Xbox Series X/S",
       "Simulation",
+      "iOS",
+      "SEGA",
+      "Xbox Series X/S",
+      "Football Manager 2025",
       "Mac",
-      "Football Manager 2025"
+      "Nintendo Switch",
+      "Management",
+      "release dates",
+      "PC",
+      "PS5",
+      "Android",
+      "Sports"
     ]
   },
   {
@@ -1049,20 +1049,20 @@
     "image": "https://assetsio.gnwcdn.com/Sea-of-Stars-DLC.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
+      "RPG",
+      "Strategy: Turn-Based Strategy",
+      "Xbox Series X/S",
       "Action Adventure",
-      "PS4",
+      "Sabotage Studio",
+      "Xbox One",
+      "Single Player",
+      "Nintendo Switch",
+      "Sea of Stars",
+      "Indie",
       "PC",
       "PS5",
-      "Indie",
-      "Nintendo Switch",
-      "Xbox One",
-      "Xbox Series X/S",
-      "Strategy: Turn-Based Strategy",
-      "Sea of Stars",
-      "Sabotage Studio",
       "Bird view / Isometric",
-      "Single Player",
-      "RPG"
+      "PS4"
     ]
   },
   {
@@ -1074,20 +1074,20 @@
     "image": "https://assetsio.gnwcdn.com/Hell-is-Us-Preview-Header-1.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PC",
-      "Rogue Factor",
-      "PS5",
-      "Story Rich",
-      "Third person",
-      "Xbox Series X/S",
-      "Horror",
-      "Hell is Us",
-      "Nacon",
-      "Single Player",
-      "Hack \u0026 Slash",
       "RPG",
-      "Exploration"
+      "PC",
+      "Horror",
+      "Nacon",
+      "Xbox Series X/S",
+      "Story Rich",
+      "Action Adventure",
+      "Single Player",
+      "Rogue Factor",
+      "Third person",
+      "Exploration",
+      "PS5",
+      "Hack \u0026 Slash",
+      "Hell is Us"
     ]
   },
   {
@@ -1099,8 +1099,8 @@
     "image": "https://assetsio.gnwcdn.com/5PRO-DIRECT-SPECIAL-SITE.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Digital Foundry",
-      "PS5"
+      "PS5",
+      "Digital Foundry"
     ]
   },
   {
@@ -1112,14 +1112,14 @@
     "image": "https://assetsio.gnwcdn.com/ss_c50c394aa90d2107597e3e52e498553a2dfb66a0-scaled.webp?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Konami",
-      "PC",
-      "Silent Hill 2 Remake",
-      "PS5",
-      "Bloober Team",
-      "file size",
       "Horror",
-      "street date"
+      "Konami",
+      "street date",
+      "file size",
+      "Bloober Team",
+      "PC",
+      "PS5",
+      "Silent Hill 2 Remake"
     ]
   },
   {
@@ -1131,20 +1131,20 @@
     "image": "https://assetsio.gnwcdn.com/Ellie-plays-guitar-for-Dina-in-TLOU2.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PS4",
-      "The Last of Us Part II Remastered",
-      "PS5",
-      "Shooter",
-      "Third person",
-      "Post-apocalyptic",
       "Horror",
-      "Full product",
+      "Post-apocalyptic",
+      "Story Rich",
+      "The Last of Us Part II Remastered",
+      "Action Adventure",
       "Sony Computer Entertainment",
       "The Last of Us Part II",
-      "Naughty Dog",
       "Single Player",
-      "Story Rich"
+      "Shooter",
+      "Naughty Dog",
+      "PS4",
+      "Third person",
+      "PS5",
+      "Full product"
     ]
   },
   {
@@ -1156,24 +1156,24 @@
     "image": "https://assetsio.gnwcdn.com/The_Big_Bang_29_-_Loading_Screen_-_Fortnite.webp?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
-      "Shooter",
-      "Xbox Series X/S",
-      "PS5",
-      "Android",
-      "Fortnite",
-      "Multiplayer Cooperative",
-      "Multiplayer Competitive",
-      "Strategy",
-      "PS4",
-      "Xbox One",
       "Epic Games",
-      "Mac",
-      "Single Player",
-      "Action Adventure",
-      "Nintendo Switch",
       "iOS",
+      "Multiplayer Competitive",
+      "Xbox One",
+      "Multiplayer Cooperative",
+      "Mac",
+      "Nintendo Switch",
       "Third person",
+      "PC",
+      "Android",
+      "Strategy",
+      "Shooter",
+      "PS5",
+      "PS4",
+      "Xbox Series X/S",
+      "Action Adventure",
+      "Fortnite",
+      "Single Player",
       "RPG"
     ]
   },
@@ -1186,13 +1186,13 @@
     "image": "https://assetsio.gnwcdn.com/Dollman-in-Death-Stranding-2.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "Shooter",
-      "Single Player",
-      "Third person",
       "Death Stranding 2",
+      "Kojima Productions",
+      "Action Adventure",
       "Blockbuster",
-      "Kojima Productions"
+      "Single Player",
+      "Shooter",
+      "Third person"
     ]
   },
   {
@@ -1204,18 +1204,18 @@
     "image": "https://assetsio.gnwcdn.com/the-kfc-dating-game-is-dumb-fun-for-an-hour-1569409971153.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Side view",
-      "PC",
-      "Collaboration",
-      "PS5",
-      "Single Player",
+      "Bandai Namco Entertainment",
+      "Multiplayer Competitive",
       "Xbox Series X/S",
       "BANDAI NAMCO Studios",
       "Bandai Namco Games",
-      "Multiplayer Competitive",
+      "Collaboration",
+      "Single Player",
       "Tekken 8",
-      "Bandai Namco Entertainment",
-      "Fighting"
+      "Fighting",
+      "PC",
+      "PS5",
+      "Side view"
     ]
   },
   {
@@ -1227,16 +1227,16 @@
     "image": "https://assetsio.gnwcdn.com/IMG_5001.JPG?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "Collaboration",
-      "PS5",
-      "Collectibles",
       "Platformer",
-      "Third person",
-      "Astro Bot",
+      "Action Adventure",
+      "Collectibles",
       "Sony Computer Entertainment",
+      "Collaboration",
+      "Single Player",
+      "Third person",
       "Team Asobi",
-      "Single Player"
+      "PS5",
+      "Astro Bot"
     ]
   },
   {
@@ -1248,19 +1248,19 @@
     "image": "https://assetsio.gnwcdn.com/DEATH-STRANDING-2_-ON-THE-BEACH-%E2%80%93-State-of-Play-Announce-Trailer-_-%5BESRB%5D4K-7-55-screenshot.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "release dates",
       "release",
-      "PC",
-      "PS5",
-      "Hideo Kojima",
-      "Shooter",
-      "Single Player",
-      "Tokyo Game Show",
-      "Third person",
       "Death Stranding 2",
+      "Kojima Productions",
+      "Action Adventure",
       "Blockbuster",
-      "Kojima Productions"
+      "Single Player",
+      "Shooter",
+      "Tokyo Game Show",
+      "release dates",
+      "Hideo Kojima",
+      "Third person",
+      "PC",
+      "PS5"
     ]
   },
   {
@@ -1272,20 +1272,20 @@
     "image": "https://assetsio.gnwcdn.com/Dawntrail-FMV-13.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
+      "RPG",
+      "patches",
+      "RPG: Action",
+      "Xbox Series X/S",
+      "MMO",
       "Action Adventure",
+      "content update",
+      "Tokyo Game Show",
+      "Square Enix",
+      "Third person",
       "Final Fantasy XIV: Dawntrail",
       "PC",
-      "MMORPG",
       "PS5",
-      "RPG: Action",
-      "Tokyo Game Show",
-      "Xbox Series X/S",
-      "Third person",
-      "patches",
-      "content update",
-      "MMO",
-      "Square Enix",
-      "RPG"
+      "MMORPG"
     ]
   },
   {
@@ -1307,11 +1307,11 @@
     "image": "https://assetsio.gnwcdn.com/State-of-Play-_-January-31%2C-2024-42-30-screenshot.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Movies",
+      "Anime",
+      "Kojima Productions",
       "Development",
       "Indie",
-      "Anime",
-      "Kojima Productions"
+      "Movies"
     ]
   },
   {
@@ -1323,30 +1323,30 @@
     "image": "https://assetsio.gnwcdn.com/Jack-Black-as-Steve-in-Minecraft-film.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Virtual Reality",
-      "PC",
-      "Xbox Series X/S",
-      "Minecraft",
-      "Simulation",
-      "Mojang",
-      "Survival \u0026 Crafting",
-      "MMORPG",
-      "PS5",
-      "Android",
-      "Video Game Adaptation",
-      "Multiplayer Cooperative",
-      "Multiplayer Competitive",
-      "PS4",
-      "Open World",
-      "Xbox One",
-      "First person",
-      "Single Player",
-      "Action Adventure",
-      "Nintendo Switch",
       "iOS",
+      "First person",
+      "Multiplayer Competitive",
+      "Video Game Adaptation",
+      "Xbox One",
+      "Multiplayer Cooperative",
+      "Nintendo Switch",
       "Third person",
+      "PC",
+      "Survival \u0026 Crafting",
+      "Android",
+      "Microsoft Studios",
+      "Minecraft",
+      "Virtual Reality",
+      "PS5",
+      "PS4",
+      "Simulation",
+      "Xbox Series X/S",
       "Movie",
-      "Microsoft Studios"
+      "Action Adventure",
+      "Single Player",
+      "Open World",
+      "Mojang",
+      "MMORPG"
     ]
   },
   {
@@ -1358,15 +1358,15 @@
     "image": "https://assetsio.gnwcdn.com/ss_e4d078a7bf76b3f3df3d66646fa21a12768d1923.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
+      "RPG",
+      "GreedFall 2",
+      "Nacon",
       "early access",
+      "Community",
       "Development",
       "RPG: Action",
-      "Community",
-      "Spiders",
-      "Nacon",
-      "GreedFall 2",
-      "RPG"
+      "PC",
+      "Spiders"
     ]
   },
   {
@@ -1378,15 +1378,15 @@
     "image": "https://assetsio.gnwcdn.com/Metaphor_-ReFantazio-%E2%80%94-AWAKEN-_-Xbox-Series-X_S%2C-Windows-PC-0-41-screenshot.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PC",
-      "Atlus",
-      "Metaphor: ReFantazio",
-      "SEGA",
-      "Third person",
+      "RPG",
       "performance",
+      "SEGA",
+      "Atlus",
+      "Action Adventure",
       "Single Player",
-      "RPG"
+      "Metaphor: ReFantazio",
+      "Third person",
+      "PC"
     ]
   },
   {
@@ -1398,18 +1398,18 @@
     "image": "https://assetsio.gnwcdn.com/Screenshot-2024-07-19-at-13.01.34.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "mental health",
-      "PC",
-      "Indie",
-      "Research",
-      "First person",
+      "Simulation",
       "FuturLab",
+      "First person",
+      "Multiplayer Competitive",
       "PowerWash Simulator",
       "Multiplayer Cooperative",
-      "Simulation",
-      "Multiplayer Competitive",
+      "Single Player",
       "Square Enix",
-      "Single Player"
+      "Indie",
+      "PC",
+      "mental health",
+      "Research"
     ]
   },
   {
@@ -1421,15 +1421,15 @@
     "image": "https://assetsio.gnwcdn.com/DR-SITE.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
+      "Capcom",
+      "Digital Foundry",
+      "Dead Rising Deluxe Remaster",
+      "Xbox Series X/S",
       "Action Adventure",
+      "Single Player",
+      "Third person",
       "PC",
       "PS5",
-      "Xbox Series X/S",
-      "Third person",
-      "Dead Rising Deluxe Remaster",
-      "Digital Foundry",
-      "Capcom",
-      "Single Player",
       "Hack \u0026 Slash"
     ]
   },
@@ -1442,15 +1442,15 @@
     "image": "https://assetsio.gnwcdn.com/nine-sols_YANdkZr.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "Side view",
-      "PC",
-      "Nine Sols",
-      "Indie",
       "Platformer",
+      "Action Adventure",
       "Red Candle Games",
       "Single Player",
-      "Hack \u0026 Slash"
+      "Indie",
+      "Nine Sols",
+      "PC",
+      "Hack \u0026 Slash",
+      "Side view"
     ]
   },
   {
@@ -1462,22 +1462,22 @@
     "image": "https://assetsio.gnwcdn.com/Untitled-1_4a60yE6.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PS4",
+      "RPG",
       "Pocketpair",
-      "PC",
-      "MMORPG",
-      "PS5",
-      "Indie",
-      "Shooter",
-      "Xbox One",
-      "Third person",
-      "Xbox Series X/S",
-      "Multiplayer Cooperative",
       "Palworld",
+      "Xbox Series X/S",
+      "Action Adventure",
+      "Xbox One",
+      "Multiplayer Cooperative",
+      "Shooter",
       "Single Player",
+      "Indie",
+      "Third person",
+      "PC",
+      "PS5",
+      "MMORPG",
       "Hack \u0026 Slash",
-      "RPG"
+      "PS4"
     ]
   },
   {
@@ -1489,17 +1489,17 @@
     "image": "https://assetsio.gnwcdn.com/Yasuke-Assassins-Creed-Shadows-header.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PC",
-      "Ubisoft Quebec",
-      "PS5",
-      "Assassin's Creed Shadows",
+      "RPG",
       "Xbox Series X/S",
-      "EGX",
+      "Ubisoft",
+      "Action Adventure",
       "Ubisoft Entertainment",
       "Mac",
-      "Ubisoft",
-      "RPG"
+      "Ubisoft Quebec",
+      "PC",
+      "PS5",
+      "Assassin's Creed Shadows",
+      "EGX"
     ]
   },
   {
@@ -1511,18 +1511,18 @@
     "image": "https://assetsio.gnwcdn.com/y2J3y_Tw.jpeg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Monster Hunter Wilds",
+      "Capcom",
+      "RPG",
       "PC",
+      "Monster Hunter Wilds",
+      "Xbox Series X/S",
       "Collaboration",
-      "PS5",
+      "Single Player",
+      "Third person",
       "RPG: Action",
       "guitar",
-      "Xbox Series X/S",
-      "Third person",
-      "Capcom",
-      "Single Player",
-      "Hack \u0026 Slash",
-      "RPG"
+      "PS5",
+      "Hack \u0026 Slash"
     ]
   },
   {
@@ -1534,25 +1534,25 @@
     "image": "https://assetsio.gnwcdn.com/Screenshot-2024-09-27-at-15.16.42.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
-      "Mobile",
-      "The Game Kitchen",
-      "Android",
-      "Port",
-      "Side view",
-      "PS4",
-      "Team17",
-      "Indie",
-      "Xbox One",
-      "Blasphemous",
-      "Mac",
-      "Single Player",
-      "Hack \u0026 Slash",
-      "Action Adventure",
-      "Nintendo Switch",
-      "Platformer",
       "iOS",
-      "RPG"
+      "Team17",
+      "Xbox One",
+      "Mac",
+      "Nintendo Switch",
+      "Port",
+      "PC",
+      "Android",
+      "Hack \u0026 Slash",
+      "Platformer",
+      "Mobile",
+      "PS4",
+      "Blasphemous",
+      "The Game Kitchen",
+      "Action Adventure",
+      "Single Player",
+      "Indie",
+      "RPG",
+      "Side view"
     ]
   },
   {
@@ -1564,11 +1564,11 @@
     "image": "https://assetsio.gnwcdn.com/BLADE_RUNIC_ATTACK.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "Third person",
       "Digital Foundry",
-      "God of War Ragnarok",
+      "Action Adventure",
       "Single Player",
+      "God of War Ragnarok",
+      "Third person",
       "Hack \u0026 Slash"
     ]
   },
@@ -1581,16 +1581,16 @@
     "image": "https://assetsio.gnwcdn.com/Deadlock-cartoon-showing-a-character-sweating-as-they-debate-turning-a-cheater-into-a-frog.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Strategy",
+      "Valve",
+      "Multiplayer Competitive",
+      "Single Player",
+      "Shooter",
+      "MOBA",
+      "Deadlock",
+      "Third person",
       "Virtual Reality",
       "PC",
-      "Shooter",
-      "Valve",
-      "MOBA",
-      "Third person",
-      "Deadlock",
-      "Multiplayer Competitive",
-      "Single Player"
+      "Strategy"
     ]
   },
   {
@@ -1602,11 +1602,11 @@
     "image": "https://assetsio.gnwcdn.com/Logo_Steam.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
-      "Valve",
-      "Steam",
-      "Law",
       "Legal",
+      "Steam",
+      "Valve",
+      "Law",
+      "PC",
       "court"
     ]
   },
@@ -1619,40 +1619,40 @@
     "image": "https://assetsio.gnwcdn.com/Rose-in-Alan-Wake-2.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
-      "Shooter",
-      "Xbox Series X/S",
-      "Nordic Games",
-      "Control",
-      "Xbox 360",
-      "PS2",
-      "PS5",
-      "Rockstar Games",
-      "Horror",
-      "3D Realms",
-      "Max Payne",
-      "Nintendo GBA",
-      "Xbox",
-      "Alan Wake 2",
-      "Mystery",
-      "PS4",
-      "Namco Bandai Partners",
-      "Remedy",
-      "Remedy Entertainment",
-      "Xbox One",
       "Epic Games",
-      "Alan Wake Remastered",
+      "iOS",
       "Legacy Interactive",
-      "Single Player",
+      "3D Realms",
+      "Xbox",
+      "Rockstar Games",
+      "Xbox One",
+      "PS2",
+      "505 Games",
+      "Third person",
+      "PC",
+      "Microsoft Studios",
+      "Microsoft",
+      "Remedy Entertainment",
+      "Horror",
+      "Shooter",
+      "Xbox 360",
+      "Nintendo GBA",
+      "PS5",
+      "Remedy",
+      "PS4",
+      "Alan Wake",
+      "Nordic Games",
+      "Xbox Series X/S",
+      "Control",
+      "Max Payne",
       "Action Adventure",
+      "Single Player",
+      "Alan Wake Remastered",
       "Take-Two Interactive",
       "Control 2",
-      "iOS",
-      "Third person",
-      "Microsoft",
-      "505 Games",
-      "Microsoft Studios",
-      "Alan Wake"
+      "Alan Wake 2",
+      "Namco Bandai Partners",
+      "Mystery"
     ]
   },
   {
@@ -1664,15 +1664,15 @@
     "image": "https://assetsio.gnwcdn.com/wp9210939-1714835918.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "Konami",
-      "PC",
-      "Silent Hill 2 Remake",
-      "Single Player",
-      "Third person",
       "Xbox",
+      "Action Adventure",
+      "Single Player",
+      "Konami",
       "Silent Hill 4: The Room",
-      "PS2"
+      "PS2",
+      "Third person",
+      "PC",
+      "Silent Hill 2 Remake"
     ]
   },
   {
@@ -1684,19 +1684,19 @@
     "image": "https://assetsio.gnwcdn.com/fntastic-2.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "MyTona",
-      "PC",
-      "MMORPG",
-      "PS5",
-      "Shooter",
-      "Xbox Series X/S",
       "First person",
-      "Third person",
-      "Fntastic",
-      "Multiplayer Cooperative",
       "Multiplayer Competitive",
-      "The Day Before"
+      "Fntastic",
+      "Xbox Series X/S",
+      "MyTona",
+      "Action Adventure",
+      "Multiplayer Cooperative",
+      "Shooter",
+      "The Day Before",
+      "Third person",
+      "PC",
+      "PS5",
+      "MMORPG"
     ]
   },
   {
@@ -1708,23 +1708,23 @@
     "image": "https://assetsio.gnwcdn.com/the-crew-screen-crop.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "Asobo Studio",
-      "PS4",
-      "PC",
-      "MMORPG",
-      "Racing",
-      "Xbox One",
       "First person",
+      "Multiplayer Competitive",
+      "The Crew",
+      "Ubisoft",
+      "Action Adventure",
+      "Xbox One",
+      "Multiplayer Cooperative",
+      "Racing",
+      "Single Player",
+      "PS4",
       "Third person",
       "Xbox 360",
-      "Multiplayer Cooperative",
-      "The Crew",
-      "Multiplayer Competitive",
-      "Ubisoft",
+      "PC",
+      "MMORPG",
       "Ubisoft Reflections",
       "Ivory Tower",
-      "Single Player"
+      "Asobo Studio"
     ]
   },
   {
@@ -1736,25 +1736,25 @@
     "image": "https://assetsio.gnwcdn.com/20240916150957_1.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "The Plucky Squire",
-      "PC",
-      "Visual Novel \u0026 Dating",
-      "Devolver Digital",
       "Black Myth: Wukong",
+      "Nintendo Switch",
       "iFun4all S.A.",
+      "What we've been playing",
+      "Third person",
+      "PC",
+      "Platformer",
       "PS5",
       "Vampire: The Masquerade - Coteries of New York",
-      "All Possible Futures",
-      "What we've been playing",
-      "Indie",
-      "Text",
       "Bird view / Isometric",
-      "Single Player",
       "Action Adventure",
-      "Nintendo Switch",
-      "Platformer",
-      "Third person",
-      "RPG"
+      "The Plucky Squire",
+      "Single Player",
+      "Visual Novel \u0026 Dating",
+      "Indie",
+      "Devolver Digital",
+      "RPG",
+      "All Possible Futures",
+      "Text"
     ]
   },
   {
@@ -1776,16 +1776,16 @@
     "image": "https://assetsio.gnwcdn.com/the-simpsons-tapped-out.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "The Simpsons: Tapped Out",
-      "Free-to-play",
-      "Strategy: Builder",
       "EA Mobile",
-      "Android",
-      "iOS",
       "Simulation",
+      "Free-to-play",
+      "iOS",
+      "Strategy: Builder",
+      "Action Adventure",
+      "Single Player",
+      "Android",
       "Bird view / Isometric",
-      "Single Player"
+      "The Simpsons: Tapped Out"
     ]
   },
   {
@@ -1797,8 +1797,8 @@
     "image": "https://assetsio.gnwcdn.com/keyart2_final.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Hirogami",
-      "Platformer"
+      "Platformer",
+      "Hirogami"
     ]
   },
   {
@@ -1810,22 +1810,22 @@
     "image": "https://assetsio.gnwcdn.com/little-big-adventure-twinsens-quest-boat.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
+      "Xbox Series X/S",
+      "Electronic Arts",
+      "Little Big Adventure 2",
+      "Platformer",
       "Action Adventure",
+      "Xbox One",
+      "Single Player",
+      "Nintendo Switch",
+      "Activision",
+      "Little Big Adventure - Twinsen's Quest",
       "PS4",
+      "Third person",
       "PC",
       "PS5",
-      "Electronic Arts",
-      "Nintendo Switch",
-      "Platformer",
       "Puzzle",
-      "Third person",
-      "Xbox One",
-      "Xbox Series X/S",
-      "Little Big Adventure - Twinsen's Quest",
-      "Activision",
       "Bird view / Isometric",
-      "Single Player",
-      "Little Big Adventure 2",
       "Little Big Adventure"
     ]
   },
@@ -1838,16 +1838,16 @@
     "image": "https://assetsio.gnwcdn.com/space-marine-2.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Saber Interactive",
       "PC",
-      "Focus Entertainment",
-      "PS5",
-      "Shooter",
       "Xbox Series X/S",
-      "Third person",
       "Warhammer 40.000: Space Marine 2",
+      "Focus Entertainment",
       "Single Player",
-      "Focus Home Interactive"
+      "Shooter",
+      "Third person",
+      "Focus Home Interactive",
+      "PS5",
+      "Saber Interactive"
     ]
   },
   {
@@ -1859,23 +1859,23 @@
     "image": "https://assetsio.gnwcdn.com/Pedro-Pascal-as-Joel-in-The-Last-of-Us-season-two-holding-a-guitar.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PS4",
-      "The Last of Us Part II Remastered",
-      "TV adaptation",
-      "PS5",
-      "Shooter",
-      "Third person",
-      "HBO Max",
-      "Post-apocalyptic",
-      "Horror",
       "HBO",
-      "Full product",
+      "Horror",
+      "Post-apocalyptic",
+      "Story Rich",
+      "The Last of Us Part II Remastered",
+      "Action Adventure",
       "Sony Computer Entertainment",
       "The Last of Us Part II",
-      "Naughty Dog",
       "Single Player",
-      "Story Rich"
+      "Shooter",
+      "Naughty Dog",
+      "HBO Max",
+      "PS4",
+      "Third person",
+      "TV adaptation",
+      "PS5",
+      "Full product"
     ]
   },
   {
@@ -1887,16 +1887,16 @@
     "image": "https://assetsio.gnwcdn.com/Young-Aloy-in-Horizon-Zero-Dawn.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PS4",
-      "Horizon: Zero Dawn",
-      "PC",
-      "Shooter",
+      "RPG",
       "Guerrilla Games",
-      "Third person",
+      "Action Adventure",
       "Sony Computer Entertainment",
       "Single Player",
-      "RPG"
+      "Shooter",
+      "Horizon: Zero Dawn",
+      "Third person",
+      "PC",
+      "PS4"
     ]
   },
   {
@@ -1908,16 +1908,16 @@
     "image": "https://assetsio.gnwcdn.com/Untitled-1_Gl6tynN.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PC",
-      "Ubisoft Quebec",
-      "PS5",
-      "Assassin's Creed Shadows",
+      "RPG",
       "Xbox Series X/S",
+      "Ubisoft",
+      "Action Adventure",
       "Ubisoft Entertainment",
       "Mac",
-      "Ubisoft",
-      "RPG"
+      "Ubisoft Quebec",
+      "PC",
+      "PS5",
+      "Assassin's Creed Shadows"
     ]
   },
   {
@@ -1929,25 +1929,25 @@
     "image": "https://assetsio.gnwcdn.com/World-of-Warcraft_wKCR18y.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
-      "Diablo",
-      "Electronic Arts",
-      "Fantasy",
-      "Blockbuster",
-      "MMORPG",
-      "World of Warcraft",
-      "Multiplayer Cooperative",
       "Multiplayer Competitive",
-      "MMO",
-      "Strategy",
-      "Blizzard",
+      "Multiplayer Cooperative",
       "Mac",
-      "Bird view / Isometric",
-      "Single Player",
-      "Action Adventure",
       "Third person",
+      "Fantasy",
+      "PC",
+      "Blizzard",
+      "Strategy",
+      "Blockbuster",
+      "Bird view / Isometric",
+      "Electronic Arts",
+      "Action Adventure",
+      "Single Player",
+      "Diablo",
+      "RPG",
+      "MMO",
       "Blizzard Entertainment",
-      "RPG"
+      "World of Warcraft",
+      "MMORPG"
     ]
   },
   {
@@ -1959,14 +1959,14 @@
     "image": "https://assetsio.gnwcdn.com/ZELDA-SITE_fnCh0Ha.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
+      "Digital Foundry",
       "Action Adventure",
       "Nintendo",
-      "The Legend of Zelda: Echoes of Wisdom",
+      "Single Player",
       "Nintendo Switch",
+      "The Legend of Zelda: Echoes of Wisdom",
       "Puzzle",
-      "Digital Foundry",
-      "Bird view / Isometric",
-      "Single Player"
+      "Bird view / Isometric"
     ]
   },
   {
@@ -1978,11 +1978,11 @@
     "image": "https://assetsio.gnwcdn.com/ThreadsOfTime_KeyArt_NoLogo.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Threads of Time",
-      "PC",
-      "JRPG",
       "Xbox Series X/S",
-      "Fantasy"
+      "Threads of Time",
+      "JRPG",
+      "Fantasy",
+      "PC"
     ]
   },
   {
@@ -1994,18 +1994,18 @@
     "image": "https://assetsio.gnwcdn.com/starcraft-announcement-fire.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Strategy",
-      "PC",
-      "Strategy: Real-Time Strategy",
-      "Bird view / Isometric",
-      "StarCraft II: Wings Of Liberty",
+      "Multiplayer Competitive",
       "Blizzard Entertainment",
       "Multiplayer Cooperative",
-      "Multiplayer Competitive",
-      "StarCraft: Remastered",
       "Mac",
+      "Single Player",
+      "StarCraft: Remastered",
+      "StarCraft II: Wings Of Liberty",
+      "PC",
       "Activision Blizzard",
-      "Single Player"
+      "Strategy",
+      "Bird view / Isometric",
+      "Strategy: Real-Time Strategy"
     ]
   },
   {
@@ -2017,23 +2017,23 @@
     "image": "https://assetsio.gnwcdn.com/FINAL-FANTASY-Pixel-Remaster-_-PS4-%26-Nintendo-Switch-Launch-Date-Trailer-0-8-screenshot.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
+      "RPG",
+      "iOS",
+      "Multiplayer Competitive",
+      "Trials of Mana",
       "Action Adventure",
       "Legend of Mana",
-      "Final Fantasy Pixel Remaster",
-      "PS4",
+      "Multiplayer Cooperative",
+      "Nintendo Switch",
+      "Single Player",
+      "Square Enix",
+      "Third person",
       "PC",
       "Side view",
-      "Trials of Mana",
-      "Nintendo Switch",
-      "iOS",
       "Android",
-      "Third person",
-      "Multiplayer Cooperative",
-      "Multiplayer Competitive",
-      "Square Enix",
+      "Final Fantasy Pixel Remaster",
       "Bird view / Isometric",
-      "Single Player",
-      "RPG"
+      "PS4"
     ]
   },
   {
@@ -2057,22 +2057,22 @@
     "image": "https://assetsio.gnwcdn.com/thatchers-techbase-art-crop.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
-      "Shooter",
-      "SEGA",
-      "Nintendo Switch",
-      "First person",
-      "Atari",
       "Microsoft",
-      "Xbox 360",
-      "Nintendo GBA",
-      "Bethesda Softworks",
-      "Doom",
-      "Multiplayer Cooperative",
-      "Activision",
+      "Atari",
+      "First person",
       "Multiplayer Competitive",
+      "Nintendo GBA",
+      "SEGA",
       "id Software",
-      "Single Player"
+      "Multiplayer Cooperative",
+      "Nintendo Switch",
+      "Shooter",
+      "Activision",
+      "Single Player",
+      "Doom",
+      "Xbox 360",
+      "Bethesda Softworks",
+      "PC"
     ]
   },
   {
@@ -2084,12 +2084,12 @@
     "image": "https://assetsio.gnwcdn.com/Grado-Hemp-1.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
       "iOS",
-      "Android",
-      "Headphones",
       "Digital Foundry",
-      "Grado"
+      "Headphones",
+      "Grado",
+      "PC",
+      "Android"
     ]
   },
   {
@@ -2101,17 +2101,17 @@
     "image": "https://assetsio.gnwcdn.com/Ghost-of-Y%C5%8Dtei---Announce-Trailer-_-PS5-Games-2-48-screenshot-(1).png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
-      "PC",
-      "Ubisoft Quebec",
-      "PS5",
-      "Assassin's Creed Shadows",
+      "RPG",
       "Xbox Series X/S",
-      "Ubisoft Entertainment",
-      "Ghost of Yōtei",
-      "Mac",
       "Ubisoft",
-      "RPG"
+      "Action Adventure",
+      "Ubisoft Entertainment",
+      "Mac",
+      "Ubisoft Quebec",
+      "PC",
+      "PS5",
+      "Ghost of Yōtei",
+      "Assassin's Creed Shadows"
     ]
   },
   {
@@ -2123,10 +2123,10 @@
     "image": "https://assetsio.gnwcdn.com/The-Super-Mario-Bros.-Movie-Direct-%E2%80%93-11.29.2022-(Second-Trailer)-0-21-screenshot.png?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "AI",
-      "Nintendo",
       "Nintendo Switch",
-      "Switch 2"
+      "Nintendo",
+      "Switch 2",
+      "AI"
     ]
   },
   {
@@ -2150,18 +2150,18 @@
     "image": "https://assetsio.gnwcdn.com/b1_x2Ovpam.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
       "PC",
-      "PS5",
-      "Open World",
-      "Star Wars Outlaws",
-      "Xbox Series X/S",
-      "Third person",
-      "Ubisoft Entertainment",
       "Science Fiction",
+      "Xbox Series X/S",
       "Ubisoft",
+      "Action Adventure",
+      "Massive Entertainment",
+      "Star Wars Outlaws",
       "Single Player",
-      "Massive Entertainment"
+      "Ubisoft Entertainment",
+      "Third person",
+      "Open World",
+      "PS5"
     ]
   },
   {
@@ -2173,23 +2173,23 @@
     "image": "https://assetsio.gnwcdn.com/atari-50-crop-1.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Side view",
       "Atari 50: The Anniversary Celebration",
-      "PS4",
+      "Atari",
+      "Arcade",
+      "Multiplayer Competitive",
+      "Xbox Series X/S",
+      "Digital Eclipse",
+      "Platformer",
+      "Xbox One",
+      "Multiplayer Cooperative",
+      "Nintendo Switch",
+      "Shooter",
+      "Single Player",
       "PC",
       "PS5",
-      "Shooter",
-      "Nintendo Switch",
-      "Platformer",
-      "Digital Eclipse",
-      "Atari",
-      "Xbox One",
-      "Xbox Series X/S",
-      "Arcade",
-      "Multiplayer Cooperative",
-      "Multiplayer Competitive",
-      "Single Player",
-      "Hack \u0026 Slash"
+      "Hack \u0026 Slash",
+      "Side view",
+      "PS4"
     ]
   },
   {
@@ -2226,29 +2226,29 @@
     "image": "https://assetsio.gnwcdn.com/shadows-header_rKxn1pw.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "PC",
-      "Shooter",
-      "Assassin's Creed Shadows",
-      "Xbox Series X/S",
-      "Tom Clancy's XDefiant",
-      "PS5",
-      "Star Wars Outlaws",
+      "First person",
       "Multiplayer Competitive",
       "Ubisoft San Francisco",
-      "PS4",
-      "Ubisoft Quebec",
-      "Open World",
       "Xbox One",
-      "First person",
       "Mac",
-      "Single Player",
-      "Action Adventure",
       "Third person",
-      "Ubisoft Entertainment",
-      "Science Fiction",
+      "PC",
       "Ubisoft",
-      "Massive Entertainment",
-      "RPG"
+      "Ubisoft Entertainment",
+      "Shooter",
+      "Ubisoft Quebec",
+      "PS5",
+      "PS4",
+      "Tom Clancy's XDefiant",
+      "Science Fiction",
+      "Xbox Series X/S",
+      "Action Adventure",
+      "Star Wars Outlaws",
+      "Single Player",
+      "Open World",
+      "Assassin's Creed Shadows",
+      "RPG",
+      "Massive Entertainment"
     ]
   },
   {
@@ -2260,22 +2260,22 @@
     "image": "https://assetsio.gnwcdn.com/0x0_lEXCPGR.webp?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Action Adventure",
+      "RPG",
       "PC",
-      "Ubisoft Quebec",
-      "PS5",
-      "Assassin's Creed Shadows",
-      "Open World",
-      "Star Wars Outlaws",
-      "Xbox Series X/S",
-      "Third person",
-      "Ubisoft Entertainment",
       "Science Fiction",
+      "Xbox Series X/S",
       "Ubisoft",
-      "Mac",
-      "Single Player",
+      "Action Adventure",
       "Massive Entertainment",
-      "RPG"
+      "Star Wars Outlaws",
+      "Single Player",
+      "Mac",
+      "Ubisoft Entertainment",
+      "Ubisoft Quebec",
+      "Third person",
+      "Open World",
+      "PS5",
+      "Assassin's Creed Shadows"
     ]
   },
   {
@@ -2287,8 +2287,8 @@
     "image": "https://assetsio.gnwcdn.com/ps5-pro-sit.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Digital Foundry",
-      "PS5"
+      "PS5",
+      "Digital Foundry"
     ]
   },
   {
@@ -2300,12 +2300,12 @@
     "image": "https://assetsio.gnwcdn.com/Thronefall-Artikel-Thumb.jpg?width=1920\u0026height=1920\u0026fit=bounds\u0026quality=80\u0026format=jpg\u0026auto=webp",
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
-      "Strategy",
-      "PC",
-      "Indie",
       "Thronefall",
-      "Bird view / Isometric",
-      "Single Player"
+      "Single Player",
+      "Indie",
+      "PC",
+      "Strategy",
+      "Bird view / Isometric"
     ]
   },
   {
@@ -2330,9 +2330,9 @@
     "source": "https://www.eurogamer.net/?format=rss",
     "categories": [
       "Action Adventure",
-      "Third person",
-      "God of War Ragnarok",
       "Single Player",
+      "God of War Ragnarok",
+      "Third person",
       "Hack \u0026 Slash"
     ]
   },
