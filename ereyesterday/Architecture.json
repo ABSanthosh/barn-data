@@ -1509,14 +1509,14 @@
       "Architecture",
       "Infrastructure",
       "Videos",
+      "RIBA",
+      "Architecture videos",
       "Jamie Fobert",
       "Purcell",
       "London",
       "Stirling Prize",
       "UK",
-      "England",
-      "RIBA",
-      "Architecture videos"
+      "England"
     ]
   },
   {
@@ -1528,8 +1528,8 @@
     "image": "http://static.dezeen.com/uploads/2024/09/hill-house-california-donaldson-and-partners_dezeen_2364_sq-1-411x411.jpg",
     "source": "https://www.dezeen.com/architecture/feed/",
     "categories": [
-      "Residential",
       "all",
+      "Residential",
       "Architecture",
       "Underground architecture",
       "Californian houses",
@@ -1583,15 +1583,15 @@
     "source": "https://www.dezeen.com/architecture/feed/",
     "categories": [
       "all",
-      "Cultural",
       "Architecture",
+      "Cultural",
       "Public and leisure",
+      "Cultural buildings",
+      "Reims",
       "France",
       "Stone",
       "Visitor centres",
-      "Sou Fujimoto",
-      "Cultural buildings",
-      "Reims"
+      "Sou Fujimoto"
     ]
   },
   {
@@ -1627,13 +1627,13 @@
       "Architecture",
       "Infrastructure",
       "Videos",
-      "RIBA",
-      "Architecture videos",
       "London",
       "Grimshaw Architects",
       "Stirling Prize",
       "UK",
-      "England"
+      "England",
+      "RIBA",
+      "Architecture videos"
     ]
   },
   {
@@ -1685,15 +1685,15 @@
       "all",
       "Architecture",
       "Videos",
-      "Architecture videos",
-      "Social housing",
-      "Al-Jawad Pike",
-      "London",
       "Stirling Prize",
       "UK",
       "England",
       "RIBA",
-      "Housing"
+      "Housing",
+      "Architecture videos",
+      "Social housing",
+      "Al-Jawad Pike",
+      "London"
     ]
   },
   {
@@ -1705,14 +1705,14 @@
     "image": "http://static.dezeen.com/uploads/2024/09/wooden-house-moke-architecten-amsterdam-architecture-residential_dezeen_2364_sq-411x411.jpg",
     "source": "https://www.dezeen.com/architecture/feed/",
     "categories": [
-      "all",
       "Residential",
+      "all",
       "Architecture",
       "Highlights",
       "Houses of the month",
-      "Roundups",
       "Residential architecture and interiors",
-      "Houses"
+      "Houses",
+      "Roundups"
     ]
   },
   {
@@ -1836,9 +1836,10 @@
     "image": "http://static.dezeen.com/uploads/2024/09/allotment-cottage-pensaer-architecture-residential-london-houses-extensions_dezeen_2364_sq-411x411.jpg",
     "source": "https://www.dezeen.com/architecture/feed/",
     "categories": [
-      "Residential",
       "all",
+      "Residential",
       "Architecture",
+      "Extensions",
       "Residential extensions",
       "British houses",
       "Wooden architecture",
@@ -1847,8 +1848,7 @@
       "London",
       "Residential architecture and interiors",
       "UK",
-      "England",
-      "Extensions"
+      "England"
     ]
   },
   {
@@ -1981,12 +1981,12 @@
       "all",
       "Architecture",
       "Education",
+      "Terraces",
+      "Universities",
       "Campuses",
       "KoningEizenberg Architecture",
       "University of Melbourne",
-      "Concrete",
-      "Terraces",
-      "Universities"
+      "Concrete"
     ]
   },
   {
@@ -2056,10 +2056,10 @@
       "all",
       "Architecture",
       "Public and leisure",
-      "Qingdao",
       "China",
       "Extensions",
-      "Shopping centres"
+      "Shopping centres",
+      "Qingdao"
     ]
   },
   {
@@ -2075,13 +2075,13 @@
       "all",
       "Architecture",
       "Public and leisure",
-      "Mass timber",
       "Finland",
       "Wood",
       "Helsinki",
       "Office architecture",
       "Wooden architecture",
-      "Cross-laminated timber"
+      "Cross-laminated timber",
+      "Mass timber"
     ]
   },
   {
@@ -2113,8 +2113,8 @@
     "image": "http://static.dezeen.com/uploads/2024/08/perkins-vale-lemay-canada_dezeen_2364_sq-411x411.jpg",
     "source": "https://www.dezeen.com/architecture/feed/",
     "categories": [
-      "Residential",
       "all",
+      "Residential",
       "Architecture",
       "Highlights",
       "Lemay",
@@ -2137,11 +2137,11 @@
     "categories": [
       "all",
       "Architecture",
+      "New Zealand",
       "Polycarbonate",
       "Holiday homes",
       "Dezeen Debate",
-      "New Zealand houses",
-      "New Zealand"
+      "New Zealand houses"
     ]
   },
   {
@@ -2156,12 +2156,12 @@
       "all",
       "Architecture",
       "Education",
+      "USA",
       "Warehouses",
       "Studio Gang",
       "Adaptive reuse",
       "Kentucky",
-      "Jeanne Gang",
-      "USA"
+      "Jeanne Gang"
     ]
   },
   {
@@ -2173,8 +2173,8 @@
     "image": "http://static.dezeen.com/uploads/2024/08/sq-stay-under-the-radar-retreat-sander-van-schaik_dezeen_2364_col_0-411x411.jpg",
     "source": "https://www.dezeen.com/architecture/feed/",
     "categories": [
-      "all",
       "Residential",
+      "all",
       "Architecture",
       "Residential architecture and interiors",
       "Steel",
@@ -2215,10 +2215,10 @@
       "Architecture",
       "Design",
       "News",
+      "China",
       "Shanghai",
       "Exhibitions",
-      "Dezeen",
-      "China"
+      "Dezeen"
     ]
   },
   {
@@ -2246,8 +2246,8 @@
     "image": "http://static.dezeen.com/uploads/2024/08/casa-zacaticos-studio-campos-baja_dezeen_2364_sq-411x411.jpg",
     "source": "https://www.dezeen.com/architecture/feed/",
     "categories": [
-      "all",
       "Residential",
+      "all",
       "Architecture",
       "Mexican houses",
       "Campos Studio",
@@ -2312,12 +2312,12 @@
       "Architecture",
       "Public and leisure",
       "News",
-      "UK",
-      "England",
-      "Manchester",
       "Foster + Partners",
       "Stadiums",
-      "Manchester United"
+      "Manchester United",
+      "UK",
+      "England",
+      "Manchester"
     ]
   },
   {
@@ -2348,8 +2348,8 @@
     "image": "http://static.dezeen.com/uploads/2024/09/sq-dca-architects-of-transformation-new-zealand-architecture-residential_dezeen_2364_col_0-411x411.jpg",
     "source": "https://www.dezeen.com/architecture/feed/",
     "categories": [
-      "Residential",
       "all",
+      "Residential",
       "Architecture",
       "Highlights",
       "Residential architecture and interiors",
@@ -2371,10 +2371,10 @@
       "all",
       "Architecture",
       "Landscape and urbanism",
-      "Spain",
-      "Parks and gardens",
       "Landscape architecture",
-      "Steel"
+      "Steel",
+      "Spain",
+      "Parks and gardens"
     ]
   },
   {

@@ -14624,21 +14624,21 @@
     "categories": null
   },
   {
-    "title": "Type-erased generic functions for C: A modest non-proposal",
-    "link": "https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal",
-    "description": "Comments",
-    "author": "",
-    "published": "Mon, 30 Sep 2024 14:34:48 +0000",
-    "image": "",
-    "source": "https://news.ycombinator.com/rss",
-    "categories": null
-  },
-  {
     "title": "Gamma radiation is produced in large tropical thunderstorms",
     "link": "https://phys.org/news/2024-10-amount-variety-gamma-large-tropical.html",
     "description": "Comments",
     "author": "",
     "published": "Thu, 03 Oct 2024 02:17:02 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
+    "title": "Type-erased generic functions for C: A modest non-proposal",
+    "link": "https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal",
+    "description": "Comments",
+    "author": "",
+    "published": "Mon, 30 Sep 2024 14:34:48 +0000",
     "image": "",
     "source": "https://news.ycombinator.com/rss",
     "categories": null
@@ -14664,6 +14664,16 @@
     "categories": null
   },
   {
+    "title": "Salt Water Dimmers",
+    "link": "https://en.wikipedia.org/wiki/Salt_water_dimmers",
+    "description": "Comments",
+    "author": "",
+    "published": "Sun, 29 Sep 2024 15:16:38 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
     "title": "Why my apps will soon be gone from the Google Play Store",
     "link": "https://frozenfractal.com/blog/2024/9/6/why-my-apps-will-soon-be-gone-from-google-play/",
     "description": "Comments",
@@ -14684,16 +14694,6 @@
     "categories": null
   },
   {
-    "title": "I Taught My 8yo Subduction Zones with NotebookLM",
-    "link": "https://timkellogg.me/blog/2024/09/29/notebooklm",
-    "description": "Comments",
-    "author": "",
-    "published": "Sun, 29 Sep 2024 16:46:49 +0000",
-    "image": "",
-    "source": "https://news.ycombinator.com/rss",
-    "categories": null
-  },
-  {
     "title": "Who Pays for the Arts?",
     "link": "https://www.esquire.com/entertainment/books/a62394281/who-pays-for-the-arts/",
     "description": "Comments",
@@ -14704,11 +14704,11 @@
     "categories": null
   },
   {
-    "title": "Employers Say Students Need AI Skills. What If Students Don't Want Them?",
-    "link": "https://www.insidehighered.com/news/student-success/life-after-college/2024/10/03/are-ai-skills-key-part-career-preparation",
+    "title": "I Taught My 8yo Subduction Zones with NotebookLM",
+    "link": "https://timkellogg.me/blog/2024/09/29/notebooklm",
     "description": "Comments",
     "author": "",
-    "published": "Thu, 03 Oct 2024 07:35:34 +0000",
+    "published": "Sun, 29 Sep 2024 16:46:49 +0000",
     "image": "",
     "source": "https://news.ycombinator.com/rss",
     "categories": null
@@ -14719,6 +14719,16 @@
     "description": "Comments",
     "author": "",
     "published": "Wed, 02 Oct 2024 07:16:10 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
+    "title": "Employers Say Students Need AI Skills. What If Students Don't Want Them?",
+    "link": "https://www.insidehighered.com/news/student-success/life-after-college/2024/10/03/are-ai-skills-key-part-career-preparation",
+    "description": "Comments",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 07:35:34 +0000",
     "image": "",
     "source": "https://news.ycombinator.com/rss",
     "categories": null
@@ -14744,21 +14754,21 @@
     "categories": null
   },
   {
-    "title": "Bronze Age cheese reveals human-Lactobacillus interactions over history",
-    "link": "https://www.cell.com/cell/fulltext/S0092-8674(24)00899-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424008997%3Fshowall%3Dtrue",
-    "description": "Comments",
-    "author": "",
-    "published": "Mon, 30 Sep 2024 04:07:27 +0000",
-    "image": "",
-    "source": "https://news.ycombinator.com/rss",
-    "categories": null
-  },
-  {
     "title": "A Tour of Hell – Shell scripting Haskell dialect",
     "link": "https://chrisdone.com/posts/tour-of-hell/",
     "description": "Comments",
     "author": "",
     "published": "Mon, 30 Sep 2024 08:22:12 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
+    "title": "Bronze Age cheese reveals human-Lactobacillus interactions over history",
+    "link": "https://www.cell.com/cell/fulltext/S0092-8674(24)00899-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424008997%3Fshowall%3Dtrue",
+    "description": "Comments",
+    "author": "",
+    "published": "Mon, 30 Sep 2024 04:07:27 +0000",
     "image": "",
     "source": "https://news.ycombinator.com/rss",
     "categories": null
@@ -14774,11 +14784,11 @@
     "categories": null
   },
   {
-    "title": "Solving the Maker-Taker Problem",
-    "link": "https://dri.es/solving-the-maker-taker-problem",
+    "title": "Anatomy of an Internet Argument",
+    "link": "https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument",
     "description": "Comments",
     "author": "",
-    "published": "Thu, 03 Oct 2024 03:08:57 +0000",
+    "published": "Wed, 02 Oct 2024 20:53:47 +0000",
     "image": "",
     "source": "https://news.ycombinator.com/rss",
     "categories": null
@@ -14794,11 +14804,11 @@
     "categories": null
   },
   {
-    "title": "Tracking the historical events that lead to the interweaving of knowledge (2021)",
-    "link": "https://cacm.acm.org/research/knowledge-graphs/",
+    "title": "Solving the Maker-Taker Problem",
+    "link": "https://dri.es/solving-the-maker-taker-problem",
     "description": "Comments",
     "author": "",
-    "published": "Sun, 29 Sep 2024 21:42:35 +0000",
+    "published": "Thu, 03 Oct 2024 03:08:57 +0000",
     "image": "",
     "source": "https://news.ycombinator.com/rss",
     "categories": null
@@ -14814,21 +14824,21 @@
     "categories": null
   },
   {
-    "title": "Newton's financial misadventures in the South Sea Bubble (2018)",
-    "link": "https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018",
+    "title": "Tracking the historical events that lead to the interweaving of knowledge (2021)",
+    "link": "https://cacm.acm.org/research/knowledge-graphs/",
     "description": "Comments",
     "author": "",
-    "published": "Wed, 02 Oct 2024 17:54:58 +0000",
+    "published": "Sun, 29 Sep 2024 21:42:35 +0000",
     "image": "",
     "source": "https://news.ycombinator.com/rss",
     "categories": null
   },
   {
-    "title": "Microsoft: 'ever present' AI assistants are coming",
-    "link": "https://www.bbc.co.uk/news/articles/czj9vmnlv9zo",
+    "title": "Newton's financial misadventures in the South Sea Bubble (2018)",
+    "link": "https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0018",
     "description": "Comments",
     "author": "",
-    "published": "Thu, 03 Oct 2024 06:10:56 +0000",
+    "published": "Wed, 02 Oct 2024 17:54:58 +0000",
     "image": "",
     "source": "https://news.ycombinator.com/rss",
     "categories": null
@@ -14854,11 +14864,11 @@
     "categories": null
   },
   {
-    "title": "Salt Water Dimmers",
-    "link": "https://en.wikipedia.org/wiki/Salt_water_dimmers",
+    "title": "Microsoft: 'ever present' AI assistants are coming",
+    "link": "https://www.bbc.co.uk/news/articles/czj9vmnlv9zo",
     "description": "Comments",
     "author": "",
-    "published": "Sun, 29 Sep 2024 15:16:38 +0000",
+    "published": "Thu, 03 Oct 2024 06:10:56 +0000",
     "image": "",
     "source": "https://news.ycombinator.com/rss",
     "categories": null
@@ -14889,16 +14899,6 @@
     "description": "Comments",
     "author": "",
     "published": "Wed, 02 Oct 2024 15:22:11 +0000",
-    "image": "",
-    "source": "https://news.ycombinator.com/rss",
-    "categories": null
-  },
-  {
-    "title": "Show HN: RelayBeam – A new way of messaging using Ports",
-    "link": "https://relaybeam.com/about",
-    "description": "Comments",
-    "author": "",
-    "published": "Sat, 28 Sep 2024 12:41:01 +0000",
     "image": "",
     "source": "https://news.ycombinator.com/rss",
     "categories": null
@@ -16404,6 +16404,16 @@
     "categories": null
   },
   {
+    "title": "I went hands-on with the new Oura Ring 4: The Samsung Galaxy Ring's worst nightmare",
+    "link": "https://mashable.com/article/oura-ring-4-hands-on",
+    "description": "The Oura Ring 4 is here, and the Samsung Galaxy Ring has a lot of explaining to do.",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 07:00:00 +0000",
+    "image": "https://helios-i.mashable.com/imagery/articles/025Efx1eFuHul74HSCTA0Ao/hero-image.jpg",
+    "source": "http://feeds.mashable.com/Mashable",
+    "categories": null
+  },
+  {
     "title": "How to watch Twente vs. Fenerbahce online for free",
     "link": "https://mashable.com/article/twente-fenerbahce-europa-league-2024-live-stream-for-free",
     "description": "Live stream Twente vs. Fenerbahce in the Europa League for free from anywhere in the world.",
@@ -17390,16 +17400,6 @@
     "author": "",
     "published": "Tue, 01 Oct 2024 16:40:01 +0000",
     "image": "https://helios-i.mashable.com/imagery/articles/014eXSDqroD0c81oGiaQy5Q/hero-image.jpg",
-    "source": "http://feeds.mashable.com/Mashable",
-    "categories": null
-  },
-  {
-    "title": "Welcome to the 'Lover Girl' dating era. It's time to embrace romance.",
-    "link": "https://mashable.com/article/lover-girl-dating-trend",
-    "description": "Dating trend 'Lover Girl': what does it mean? People are embracing romance and ditching situationships in favour of intentional dating.",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 16:25:40 +0000",
-    "image": "https://helios-i.mashable.com/imagery/articles/064uZuA8rXm5FZ5IGs7S8bu/hero-image.jpg",
     "source": "http://feeds.mashable.com/Mashable",
     "categories": null
   },

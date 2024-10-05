@@ -121,11 +121,28 @@
     ]
   },
   {
+    "title": "What to Know if You Were Planning to Visit Western North Carolina",
+    "link": "https://www.nytimes.com/2024/10/03/travel/helene-rental-properties-asheville.html",
+    "description": "Airbnb and Vrbo have activated emergency cancellation policies in the western part of the state and other areas of the Southeast affected by the deadly hurricane.",
+    "author": "Shannon Sims",
+    "published": "Thu, 03 Oct 2024 22:56:51 +0000",
+    "image": "https://static01.nyt.com/images/2024/10/03/multimedia/03Helene-kcpt/03Helene-kcpt-mediumSquareAt3X.jpg",
+    "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+    "categories": [
+      "Travel and Vacations",
+      "Hurricanes and Tropical Storms",
+      "Airbnb",
+      "Expedia Inc",
+      "Urban Institute",
+      "Asheville (NC)"
+    ]
+  },
+  {
     "title": "Exploring Literary Dublin",
     "link": "https://www.nytimes.com/2024/10/02/travel/dublin-bookstores-libraries-pubs.html",
     "description": "The Irish city, once home to the likes of James Joyce and Oscar Wilde, is known for its bookstores, libraries and pubs, where writers found inspiration over pints of Guinness.",
     "author": "Dwight Garner",
-    "published": "Wed, 02 Oct 2024 09:01:07 +0000",
+    "published": "Fri, 04 Oct 2024 17:32:27 +0000",
     "image": "https://static01.nyt.com/images/2024/09/30/multimedia/00Dublin-hpbf/00Dublin-hpbf-mediumSquareAt3X.jpg",
     "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
     "categories": [
@@ -230,28 +247,11 @@
     ]
   },
   {
-    "title": "What to Know if You Were Planning to Visit Western North Carolina",
-    "link": "https://www.nytimes.com/2024/10/03/travel/helene-rental-properties-asheville.html",
-    "description": "Airbnb and Vrbo have activated emergency cancellation policies in the western part of the state and other areas of the Southeast affected by the deadly hurricane.",
-    "author": "Shannon Sims",
-    "published": "Thu, 03 Oct 2024 22:56:51 +0000",
-    "image": "https://static01.nyt.com/images/2024/10/03/multimedia/03Helene-kcpt/03Helene-kcpt-mediumSquareAt3X.jpg",
-    "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-    "categories": [
-      "Travel and Vacations",
-      "Hurricanes and Tropical Storms",
-      "Airbnb",
-      "Expedia Inc",
-      "Urban Institute",
-      "Asheville (NC)"
-    ]
-  },
-  {
     "title": "The S.S. United States May Soon Find New Life on the Florida Seafloor",
     "link": "https://www.nytimes.com/2024/10/03/us/ss-united-states-largest-artificial-reef.html",
     "description": "The S.S. United States, one of the fastest ships to ever cross the Atlantic Ocean, may be sunk off the coast and turned into a habitat to marine life as the world’s largest artificial reef.",
     "author": "Kate Christobek",
-    "published": "Thu, 03 Oct 2024 21:04:48 +0000",
+    "published": "Fri, 04 Oct 2024 02:02:05 +0000",
     "image": "https://static01.nyt.com/images/2024/10/02/multimedia/02xp-ship-03/02xp-ship-03-mediumSquareAt3X.jpg",
     "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
     "categories": [
@@ -380,8 +380,8 @@
     "link": "https://www.nytimes.com/2024/09/25/travel/fyodor-dostoyevsky-german-spa-towns.html",
     "description": "The Russian novelist, a compulsive gambler, lost everything in the opulent spa and gambling towns of Baden-Baden, Bad Homburg and Wiesbaden. An admirer of his books follows his footsteps.",
     "author": "Charly Wilder",
-    "published": "Fri, 27 Sep 2024 11:14:53 +0000",
-    "image": "https://static01.nyt.com/images/2024/09/17/multimedia/00Dostoyevsky-hmgq/00Dostoyevsky-hmgq-mediumSquareAt3X.jpg",
+    "published": "Fri, 27 Sep 2024 11:14:54 +0000",
+    "image": "https://static01.nyt.com/images/2024/10/05/travel/00Dostoyevsky-hmgq/00Dostoyevsky-hmgq-mediumSquareAt3X.jpg",
     "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
     "categories": [
       "Travel and Vacations",
@@ -485,6 +485,20 @@
       "Handbags and Purses",
       "Alps Mountains",
       "Hotels and Travel Lodgings"
+    ]
+  },
+  {
+    "title": "The 6 Best Hotels in Melbourne",
+    "link": "https://www.nomadicmatt.com/travel-blogs/best-hotels-melbourne/",
+    "description": "Melbourne is my favorite city in Australia. It’s a vibrant, multicultural city known for its rich arts scene, world-class dining, and lively atmosphere. It’s a hub for backpackers and travelers too. The mix of old-world architecture and modern skyscrapers gives the city a unique charm. I especially love strolling through Melbourne’s iconic laneways, enjoying the... The post The 6 Best Hotels in Melbourne appeared first on Nomadic Matt's Travel Site.",
+    "author": "Samantha Anthony",
+    "published": "Fri, 04 Oct 2024 13:00:40 +0000",
+    "image": "https://media.nomadicmatt.com/2024/melbournehotels.jpg",
+    "source": "https://www.nomadicmatt.com/travel-blog/feed/",
+    "categories": [
+      "Australia",
+      "hotels",
+      "melbourne"
     ]
   },
   {
@@ -625,18 +639,21 @@
     ]
   },
   {
-    "title": "AI, Search, and the Travel Creator",
-    "link": "https://www.nomadicmatt.com/travel-blogs/ai-search-creators/",
-    "description": "Last year, Google rolled out something called “the helpful-content update” (HCU). It felt that too many websites were over-optimized for search and not run by real people providing real answers based on firsthand experience. Instead, there were too many SEO farms pumping out bad content for search and ad revenue. Hence, the desire to put... The post AI, Search, and the Travel Creator appeared first on Nomadic Matt's Travel Site.",
-    "author": "Matthew Kepnes",
-    "published": "Thu, 22 Aug 2024 13:00:27 +0000",
-    "image": "https://media.nomadicmatt.com/2024/ai_creators.jpeg",
-    "source": "https://www.nomadicmatt.com/travel-blog/feed/",
+    "title": "‘A wildly beautiful place for autumn colour’: readers’ favourite UK forest trails",
+    "link": "https://www.theguardian.com/travel/2024/oct/04/readers-favourite-autumn-walks-in-the-woods-forests-uk",
+    "description": "From Japanese acers at Westonbirt arboretum to the pines of Loch Ard, our tipsters share their top woodland days outAutumn is often wet – so why not embrace this, and visit one of Britain’s temperate rainforests in Borrowdale, near Keswick. Such forests are rare globally as well as in Britain. Not only can you observe the gorgeous autumn hues from the leaves of ash, birch and oak but you can see all manner of mosses, liverworts and lichens. The latter proliferate because of the clean air and wet climate. There are plenty of forest paths to follow – and don’t forget to visit Ashness Bridge for a glorious view of Derwent Water and the fells beyond. Graham Lilley Continue reading...",
+    "author": "Guardian readers",
+    "published": "Fri, 04 Oct 2024 06:00:46 GMT",
+    "image": "",
+    "source": "https://www.theguardian.com/uk/travel/rss",
     "categories": [
-      "Blogging Tips",
-      "AI",
-      "blogging",
-      "seo"
+      "Walking holidays",
+      "United Kingdom holidays",
+      "Travel",
+      "Top 10s",
+      "Day trips",
+      "Walking",
+      "Life and style"
     ]
   },
   {
@@ -721,22 +738,6 @@
     ]
   },
   {
-    "title": "From grape stomping to truffle hunting: 10 great harvest festival trips in Europe",
-    "link": "https://www.theguardian.com/travel/2024/sep/29/10-of-the-best-autumn-food-gastro-trips-in-europe",
-    "description": "Autumn is a great time to join locals as they celebrate the fruits of the season, from the vineyards of Provence to the forests of TransylvaniaCroatia’s northernmost region is famous for its olives, and the Meneghetti hotel and winery produces four different varieties of oil from the 750 trees dotted across the estate. From early October to mid-November, guests can join the olive harvest and oil-making process, as well as oyster-shucking on the nearby fjords and truffle hunting (until the end of October). The hotel also offers wine tastings and tours, while the restaurant produces dishes created from the 1.5 hectare kitchen garden, with more than 44 species of fruits, vegetables and herbs. Doubles from £210 B\u0026B, meneghetti.hr Continue reading...",
-    "author": "Annabelle Thorpe",
-    "published": "Sun, 29 Sep 2024 10:00:29 GMT",
-    "image": "",
-    "source": "https://www.theguardian.com/uk/travel/rss",
-    "categories": [
-      "Travel",
-      "Food and drink",
-      "Europe holidays",
-      "Life and style",
-      "Working holidays"
-    ]
-  },
-  {
     "title": "Trainspotting from the bathtub: why Manchester’s newest bolthole is on the right track",
     "link": "https://www.theguardian.com/travel/2024/sep/25/my-stay-in-manchester-holiday-home-landmark-trust-station-agent",
     "description": "You don’t have to be a railway buff to enjoy the Station Agent’s House. The restored Georgian gem is a perfect base for exploring the historic Castlefield districtFor some, a stately home does it. For others, a converted barn. For me, anything rail-related hits the spot. It’s partly respect for transport and proper jobs. It’s also because I was born and raised 1.2 miles (or a mile and 16 chains in the parlance) south of the world’s first inter-city railway line – the Liverpool and Manchester, which opened on 15 September 1830. Though never a full-blown spotter, I got the transport bug watching 47s and Deltics rumbling along the tracks between St Helens Junction and Newton-le-Willows. Despite the delays and dysfunction that make rail travel so irksome today, I still love trains.It is then a childish buzz as well as a grown-up, heritage-inspired delight to be spending a couple of nights in the Station Agent’s House, the Landmark Trust’s new property in Castlefield, Manchester. The area, at the southern end of main drag Deansgate, is one of the city’s oldest, though its iron bridges and merchants’ warehouses are now overshadowed by high-rise apartment blocks. Continue reading...",
@@ -805,19 +806,29 @@
     ]
   },
   {
-    "title": "A last blast of summer: five cities in southern Europe perfect for late-season sun",
-    "link": "https://www.theguardian.com/travel/2024/sep/14/five-cities-southern-europe-late-season-sun-spain-italy-greece-france-portugal",
-    "description": "The sun is still shining brightly in southern Europe, but the crowds have gone, which makes these gorgeous seaside cities even more alluringSaying Genoa has a lot of palaces is like saying Venice is full of canals. Still, they are one of the defining features of a city that has one of the biggest old towns in Europe, ideal for exploring on warm autumn days. More than 100 Renaissance and baroque palaces are still standing, 42 of which comprise the Unesco-listed Palazzi del Rolli. Lots are open to the public. Continue reading...",
+    "title": "20 of the best UK foodie breaks for autumn",
+    "link": "https://www.theguardian.com/travel/2024/sep/28/20-of-the-best-uk-foodie-breaks-for-autumn",
+    "description": "Fancy a seasonal getaway? From cosy inns to restaurants with rooms, we’ve found the best boltholes – all with menus as enticing as the sceneryGlenfinnan House Hotel, overlooking Loch Shiel and the Jacobite monument, is one of Scotland’s most celebrated properties. On a clear day, you can see Ben Nevis from here, too. Glenfinnan viaduct, which attracts Harry Potter fans hoping to glimpse the steam train, is a short walk away. The family-owned country house dates from 1755 and has had a major refurbishment this year, reopening under new management. Continue reading...",
     "author": "Guardian Staff",
-    "published": "Sat, 14 Sep 2024 06:00:20 GMT",
+    "published": "Sat, 28 Sep 2024 10:00:12 GMT",
     "image": "",
     "source": "https://www.theguardian.com/uk/travel/rss",
     "categories": [
-      "Europe holidays",
-      "Life and style",
-      "City breaks",
+      "Food and drink",
+      "United Kingdom holidays",
+      "Hotels",
       "Short breaks",
-      "Travel"
+      "Weekend breaks",
+      "England holidays",
+      "Scotland holidays",
+      "Wales holidays",
+      "Northern Ireland holidays",
+      "Travel",
+      "Pubs",
+      "Bars, pubs and clubs",
+      "Restaurants",
+      "Restaurants",
+      "Food"
     ]
   },
   {

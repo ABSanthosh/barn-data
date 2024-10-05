@@ -166,15 +166,11 @@
       "Festivals",
       "Halloween",
       "Travel and Vacations",
-      "Culture (Arts)",
-      "Autumn (Season)",
-      "TCL Chinese Theater Imax (Los Angeles, Calif)",
-      "Warner Theater",
       "Erie (Pa)",
-      "Illinois",
       "Los Angeles (Calif)",
       "Telluride (Colo)",
-      "Ozark Mountains"
+      "Eureka Springs (Ark)",
+      "Gibson City (Ill)"
     ]
   },
   {
@@ -234,23 +230,55 @@
     ]
   },
   {
-    "title": "In the Footsteps of Dostoyevsky in Three German Spa Towns",
-    "link": "https://www.nytimes.com/2024/09/25/travel/fyodor-dostoyevsky-german-spa-towns.html",
-    "description": "The Russian novelist, a compulsive gambler, lost everything in the opulent spa and gambling towns of Baden-Baden, Bad Homburg and Wiesbaden. An admirer of his books follows his footsteps.",
-    "author": "Charly Wilder",
-    "published": "Fri, 27 Sep 2024 11:14:53 +0000",
-    "image": "https://static01.nyt.com/images/2024/09/17/multimedia/00Dostoyevsky-hmgq/00Dostoyevsky-hmgq-mediumSquareAt3X.jpg",
+    "title": "What to Know if You Were Planning to Visit Western North Carolina",
+    "link": "https://www.nytimes.com/2024/10/03/travel/helene-rental-properties-asheville.html",
+    "description": "Airbnb and Vrbo have activated emergency cancellation policies in the western part of the state and other areas of the Southeast affected by the deadly hurricane.",
+    "author": "Shannon Sims",
+    "published": "Thu, 03 Oct 2024 22:56:51 +0000",
+    "image": "https://static01.nyt.com/images/2024/10/03/multimedia/03Helene-kcpt/03Helene-kcpt-mediumSquareAt3X.jpg",
     "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
     "categories": [
       "Travel and Vacations",
-      "Writing and Writers",
-      "Books and Literature",
-      "Spas",
-      "Casinos",
-      "Dostoyevsky, Fyodor",
-      "Baden-Baden (Germany)",
-      "Wiesbaden (Germany)",
-      "Bad Homburg (Germany)"
+      "Hurricanes and Tropical Storms",
+      "Airbnb",
+      "Expedia Inc",
+      "Urban Institute",
+      "Asheville (NC)"
+    ]
+  },
+  {
+    "title": "The S.S. United States May Soon Find New Life on the Florida Seafloor",
+    "link": "https://www.nytimes.com/2024/10/03/us/ss-united-states-largest-artificial-reef.html",
+    "description": "The S.S. United States, one of the fastest ships to ever cross the Atlantic Ocean, may be sunk off the coast and turned into a habitat to marine life as the world’s largest artificial reef.",
+    "author": "Kate Christobek",
+    "published": "Thu, 03 Oct 2024 21:04:48 +0000",
+    "image": "https://static01.nyt.com/images/2024/10/02/multimedia/02xp-ship-03/02xp-ship-03-mediumSquareAt3X.jpg",
+    "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+    "categories": [
+      "Oceans and Seas",
+      "Reefs",
+      "Fish and Other Marine Life",
+      "SS United States Conservancy",
+      "Destin (Fla)",
+      "Delaware River",
+      "Philadelphia (Pa)"
+    ]
+  },
+  {
+    "title": "Tory Burch Shares Her Makeup and Skin-Care Essentials",
+    "link": "https://www.nytimes.com/2024/10/03/t-magazine/tory-burch-makeup-skin-care-beauty.html",
+    "description": "Plus: a new hotel on the Athens Riviera, salvaged jewelry and more recommendations from T Magazine.",
+    "author": "Laura Regensdorf",
+    "published": "Thu, 03 Oct 2024 09:07:43 +0000",
+    "image": "",
+    "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+    "categories": [
+      "Cosmetics and Toiletries",
+      "Fashion and Apparel",
+      "Ace Hotel",
+      "Burch, Tory",
+      "Jewels and Jewelry",
+      "Hermes International SA"
     ]
   },
   {
@@ -348,6 +376,26 @@
     ]
   },
   {
+    "title": "In the Footsteps of Dostoyevsky in Three German Spa Towns",
+    "link": "https://www.nytimes.com/2024/09/25/travel/fyodor-dostoyevsky-german-spa-towns.html",
+    "description": "The Russian novelist, a compulsive gambler, lost everything in the opulent spa and gambling towns of Baden-Baden, Bad Homburg and Wiesbaden. An admirer of his books follows his footsteps.",
+    "author": "Charly Wilder",
+    "published": "Fri, 27 Sep 2024 11:14:53 +0000",
+    "image": "https://static01.nyt.com/images/2024/09/17/multimedia/00Dostoyevsky-hmgq/00Dostoyevsky-hmgq-mediumSquareAt3X.jpg",
+    "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+    "categories": [
+      "Travel and Vacations",
+      "Writing and Writers",
+      "Books and Literature",
+      "Spas",
+      "Casinos",
+      "Dostoyevsky, Fyodor",
+      "Baden-Baden (Germany)",
+      "Wiesbaden (Germany)",
+      "Bad Homburg (Germany)"
+    ]
+  },
+  {
     "title": "5 Colorful Fall Trips To Inspire Your Own",
     "link": "https://www.nytimes.com/2024/09/24/travel/fall-trip-ideas.html",
     "description": "Among our favorite leaf-peeping road trips: A New Hampshire drive that avoids the state’s most crowded spots and a journey on the Blue Ridge Parkway, complete with ideas on where to get out of the car.",
@@ -437,64 +485,6 @@
       "Handbags and Purses",
       "Alps Mountains",
       "Hotels and Travel Lodgings"
-    ]
-  },
-  {
-    "title": "At a Remote Scottish Pub, a Pint Worth Hiking 20 Miles",
-    "link": "https://www.nytimes.com/2024/09/22/world/europe/britain-remote-pub-knoydart.html",
-    "description": "The Old Forge on the rugged peninsula of Knoydart is a community-owned meeting point for locals and visitors — at least those willing to trek across the wilderness.",
-    "author": "Isabella Kwai",
-    "published": "Sun, 22 Sep 2024 12:33:22 +0000",
-    "image": "https://static01.nyt.com/images/2024/09/20/multimedia/xp-remotepub-qlwg/xp-remotepub-qlwg-mediumSquareAt3X.jpg",
-    "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-    "categories": [
-      "Knoydart (Scotland)",
-      "Bars and Nightclubs",
-      "Hikes and Hiking",
-      "Wilderness Areas",
-      "Great Britain",
-      "Scotland",
-      "Historic Buildings and Sites"
-    ]
-  },
-  {
-    "title": "From the Tetons to the Caribbean, 6 Getaways for Grown-Ups",
-    "link": "https://www.nytimes.com/2024/09/20/travel/adults-only-hotels.html",
-    "description": "We found new and revamped adults-only hotels and resorts for those who want to get away from it all.",
-    "author": "Stephanie Rosenbloom",
-    "published": "Mon, 23 Sep 2024 19:35:37 +0000",
-    "image": "",
-    "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-    "categories": [
-      "Hotels and Travel Lodgings",
-      "Travel and Vacations",
-      "Sedona (Ariz)",
-      "Charleston (SC)",
-      "Cancun (Mexico)",
-      "Cabo San Lucas (Mexico)",
-      "Jackson Hole (Wyo)",
-      "Hatteras Island (NC)",
-      "Outer Banks (NC)"
-    ]
-  },
-  {
-    "title": "Online Passport Renewal and Digital Driver’s Licenses: A Travel Docs Update",
-    "link": "https://www.nytimes.com/2024/09/19/travel/passports-real-id-travelers.html",
-    "description": "New options have arrived, for both U.S. passports and driver’s licenses, that may give travelers more flexibility.or",
-    "author": "Christine Chung",
-    "published": "Fri, 27 Sep 2024 01:00:25 +0000",
-    "image": "https://static01.nyt.com/images/2024/09/19/multimedia/00Travel-Documents-jfvg/00Travel-Documents-jfvg-mediumSquareAt3X.jpg",
-    "source": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-    "categories": [
-      "Drivers Licenses",
-      "Passports",
-      "Airport Security",
-      "Mobile Applications",
-      "Travel and Vacations",
-      "Airports",
-      "Transportation Security Administration",
-      "Homeland Security Department",
-      "United States"
     ]
   },
   {

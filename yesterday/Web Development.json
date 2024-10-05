@@ -1,5 +1,32 @@
 [
   {
+    "title": "The Proliferation and Problem of the ✨ Sparkles ✨ Icon",
+    "link": "https://css-tricks.com/the-proliferation-and-problem-of-the-sparkles-icon/",
+    "description": "Kate Kaplan hits on something over at Nielsen Norman Group’s blog that’s been bugging me: The challenge with this icon is sparkle ambiguity: Participants in our recent research study generally agreed that it represented something a little special … The Proliferation and Problem of the ✨ Sparkles ✨ Icon originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Thu, 03 Oct 2024 15:18:16 +0000",
+    "image": "https://css-tricks.com/wp-content/uploads/2024/10/notion-ai-icon-animated.mp4",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Links",
+      "icons",
+      "UI/IX Design"
+    ]
+  },
+  {
+    "title": "Catching Up on the WordPress 🚫 WP Engine Sitch",
+    "link": "https://css-tricks.com/catching-up-on-the-wordpress-wp-engine-sitch/",
+    "description": "Many of you — perhaps most of you — have been sitting on the sidelines while WordPress and WP Engine trade legal attacks on one another. It’s been widely covered as we watch it unfold in the open; ironically, in … Catching Up on the WordPress 🚫 WP Engine Sitch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Thu, 03 Oct 2024 13:10:48 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/09/wp-five-for-future-contributions.jpg?resize=1158%2C908\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "WordPress"
+    ]
+  },
+  {
     "title": "CSS Anchor Positioning Guide",
     "link": "https://css-tricks.com/css-anchor-positioning-guide/",
     "description": "Learn about CSS Anchor Positioning, including its syntax, properties, how it is used to position one element next to another, and even how it's used to resize elements relative to other elements. CSS Anchor Positioning Guide originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -35,7 +62,7 @@
     "source": "https://css-tricks.com/feed/",
     "categories": [
       "Articles",
-      "Scroll Linked Animation"
+      "Scroll Driven Animation"
     ]
   },
   {
@@ -49,19 +76,6 @@
     "categories": [
       "Links",
       "content"
-    ]
-  },
-  {
-    "title": "Catching Up on the WordPress 🚫 WP Engine Sitch",
-    "link": "https://css-tricks.com/catching-up-on-the-wordpress-wp-engine-sitch/",
-    "description": "Many of you — perhaps most of you — have been sitting on the sidelines while WordPress and WP Engine trade legal attacks on one another. It’s been widely covered as we watch it unfold in the open; ironically, in … Catching Up on the WordPress 🚫 WP Engine Sitch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-    "author": "Geoff Graham",
-    "published": "Thu, 26 Sep 2024 17:29:27 +0000",
-    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/09/wp-five-for-future-contributions.jpg?resize=1158%2C908\u0026ssl=1",
-    "source": "https://css-tricks.com/feed/",
-    "categories": [
-      "Articles",
-      "WordPress"
     ]
   },
   {
@@ -183,19 +197,6 @@
     "categories": [
       "Links",
       "interview"
-    ]
-  },
-  {
-    "title": "Two CSS Properties for Trimming Text Box Whitespace",
-    "link": "https://css-tricks.com/two-css-properties-for-trimming-text-box-whitespace/",
-    "description": "The text-box-trim and text-box-edge properties in CSS enable developers to trim specifiable amounts of the whitespace that appear above the first formatted line of text and below the last formatted line of text in a text box, making the text … Two CSS Properties for Trimming Text Box Whitespace originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-    "author": "Daniel Schwarz",
-    "published": "Fri, 13 Sep 2024 14:11:32 +0000",
-    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/09/s_E1E080058CE547E0AE943D73C95F1DDF6B532B7E5B1E24BDE98684D14ED96D2D_1725557153250_1.png?resize=2880%2C1800\u0026ssl=1",
-    "source": "https://css-tricks.com/feed/",
-    "categories": [
-      "Articles",
-      "typography"
     ]
   },
   {

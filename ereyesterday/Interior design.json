@@ -1615,8 +1615,8 @@
     "categories": [
       "all",
       "Exhibitions",
-      "Design",
       "Products",
+      "Design",
       "Food",
       "Polyvinyl chloride (PVC)",
       "London",
@@ -1636,10 +1636,10 @@
       "all",
       "Exhibitions",
       "Design",
+      "Rio Kobayashi",
       "Andu Masebo",
       "London",
-      "Bird boxes",
-      "Rio Kobayashi"
+      "Bird boxes"
     ]
   },
   {
@@ -1670,13 +1670,13 @@
     "categories": [
       "all",
       "Interiors",
+      "New York City",
+      "Neri Oxman",
+      "Midtown Manhattan",
       "USA",
       "Studios",
       "Foster + Partners",
-      "Laboratories",
-      "New York City",
-      "Neri Oxman",
-      "Midtown Manhattan"
+      "Laboratories"
     ]
   },
   {
@@ -1708,8 +1708,8 @@
     "source": "https://www.dezeen.com/interiors/feed/",
     "categories": [
       "all",
-      "Residential",
       "Interiors",
+      "Residential",
       "Lookbooks",
       "Residential architecture and interiors",
       "Daybeds",
@@ -1728,10 +1728,10 @@
       "Restaurants and bars",
       "all",
       "Interiors",
-      "Virginia",
-      "Pink",
       "USA",
-      "Restaurants"
+      "Restaurants",
+      "Virginia",
+      "Pink"
     ]
   },
   {
@@ -1801,11 +1801,11 @@
       "Retail",
       "all",
       "Interiors",
-      "Refurbishments",
-      "Japan",
       "Schemata Architects",
       "Kyoto",
-      "Shops"
+      "Shops",
+      "Refurbishments",
+      "Japan"
     ]
   },
   {
@@ -1820,11 +1820,11 @@
       "Retail",
       "all",
       "Interiors",
-      "Shops",
-      "Los Angeles",
       "California",
       "USA",
-      "boutiques"
+      "boutiques",
+      "Shops",
+      "Los Angeles"
     ]
   },
   {
@@ -1874,8 +1874,8 @@
     "source": "https://www.dezeen.com/interiors/feed/",
     "categories": [
       "all",
-      "Interiors",
       "Residential",
+      "Interiors",
       "Lookbooks",
       "Roundups",
       "Flooring",
@@ -1912,12 +1912,12 @@
       "Restaurants and bars",
       "all",
       "Interiors",
+      "Retro design",
       "Australia",
       "Cork",
       "Sydney",
       "Cafes",
-      "YSG",
-      "Retro design"
+      "YSG"
     ]
   },
   {
@@ -1931,10 +1931,10 @@
     "categories": [
       "all",
       "Exhibitions",
-      "Products",
       "Design",
-      "London Design Festival",
-      "Wax"
+      "Products",
+      "Wax",
+      "London Design Festival"
     ]
   },
   {
@@ -1972,11 +1972,11 @@
       "all",
       "Interiors",
       "Hotels",
+      "Mid-century modern",
+      "Mid-century modern furniture",
       "Switzerland",
       "Winter retreats",
-      "Boutique hotels",
-      "Mid-century modern",
-      "Mid-century modern furniture"
+      "Boutique hotels"
     ]
   },
   {
@@ -1991,12 +1991,12 @@
       "all",
       "Architecture",
       "Interiors",
-      "Wyoming",
-      "CLB Architects",
       "USA",
       "Airports",
       "Renovations",
-      "Public and leisure"
+      "Public and leisure",
+      "Wyoming",
+      "CLB Architects"
     ]
   },
   {
@@ -2047,10 +2047,10 @@
       "Restaurants and bars",
       "all",
       "Interiors",
-      "Cafes",
       "Bakeries",
       "London",
-      "UK"
+      "UK",
+      "Cafes"
     ]
   },
   {
@@ -2106,13 +2106,13 @@
       "Interiors",
       "Public and leisure",
       "Highlights",
+      "Louisiana",
+      "American football",
+      "Atriums",
       "Restorations",
       "USA",
       "New Orleans",
-      "Stadiums",
-      "Louisiana",
-      "American football",
-      "Atriums"
+      "Stadiums"
     ]
   },
   {
@@ -2127,8 +2127,8 @@
       "all",
       "Interiors",
       "Promotions",
-      "Office interiors",
-      "Iosa Ghini Associati"
+      "Iosa Ghini Associati",
+      "Office interiors"
     ]
   },
   {
@@ -2238,8 +2238,8 @@
     "source": "https://www.dezeen.com/interiors/feed/",
     "categories": [
       "all",
-      "Residential",
       "Interiors",
+      "Residential",
       "Lookbooks",
       "Roundups",
       "Coffee tables",
@@ -2259,11 +2259,11 @@
       "all",
       "Exhibitions",
       "Collaborations",
+      "London",
+      "London Design Festival",
       "Materials",
       "Exhibition",
-      "Design",
-      "London",
-      "London Design Festival"
+      "Design"
     ]
   },
   {
@@ -2292,14 +2292,14 @@
       "Retail",
       "all",
       "Interiors",
-      "China",
-      "Shenzhen",
-      "Facades",
-      "Louvres",
       "Shops",
       "Drones",
       "DJI",
-      "Various Associates"
+      "Various Associates",
+      "China",
+      "Shenzhen",
+      "Facades",
+      "Louvres"
     ]
   },
   {
@@ -2333,6 +2333,7 @@
       "Residential",
       "Interiors",
       "Highlights",
+      "Architects' studios",
       "Architects' and designers' houses",
       "Residential architecture and interiors",
       "Québec City",
@@ -2341,8 +2342,7 @@
       "Québec",
       "Renovations",
       "Brutalism",
-      "Jean Verville",
-      "Architects' studios"
+      "Jean Verville"
     ]
   },
   {
@@ -2392,8 +2392,8 @@
     "source": "https://www.dezeen.com/interiors/feed/",
     "categories": [
       "all",
-      "Interiors",
       "Residential",
+      "Interiors",
       "Lookbooks",
       "Residential architecture and interiors",
       "Skylights",
@@ -2428,8 +2428,8 @@
     "source": "https://www.dezeen.com/interiors/feed/",
     "categories": [
       "all",
-      "Interiors",
       "Residential",
+      "Interiors",
       "London",
       "Residential architecture and interiors",
       "Apartments",
@@ -2544,8 +2544,8 @@
     "source": "https://www.dezeen.com/interiors/feed/",
     "categories": [
       "all",
-      "Interiors",
       "Residential",
+      "Interiors",
       "Micro apartments",
       "Intervention Architecture",
       "London apartments",

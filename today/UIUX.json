@@ -1,5 +1,15 @@
 [
   {
+    "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
+    "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
+    "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
+    "author": "Eleanor Hecks",
+    "published": "Fri, 04 Oct 2024 09:00:00 GMT",
+    "image": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
     "title": "Interview With Björn Ottosson, Creator Of The Oklab Color Space",
     "link": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
     "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
@@ -390,16 +400,6 @@
     "categories": null
   },
   {
-    "title": "Useful Email Newsletters For Designers",
-    "link": "https://smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/",
-    "description": "Whether you want to take your user research skills to the next level, get better at UX writing, or stay up-to-date on the latest design trends, a newsletter is the perfect opportunity to get the best of the best resources delivered straight to your inbox on a regular basis. In this post, we highlight some design newsletters that you might want to consider subscribing to.",
-    "author": "Cosima Mielke",
-    "published": "Mon, 17 Jun 2024 18:00:00 GMT",
-    "image": "http://files.smashing.media/articles/useful-email-newsletters-for-designers/newsletters-for-designers-opt.png",
-    "source": "https://www.smashingmagazine.com/feed",
-    "categories": null
-  },
-  {
     "title": "Hiatus…indefinitely",
     "link": "https://boxesandarrows.com/hiatus/",
     "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
@@ -667,6 +667,154 @@
     ]
   },
   {
+    "title": "10 Best HP Laptops for Graphic Designers in 2024 (Oct)",
+    "link": "https://justcreative.com/best-hp-laptops-for-graphic-designers",
+    "description": "Do you a preference for using an HP laptop to do your work? Check out our list of the best HP laptops for designers \u0026 creatives right here!",
+    "author": "Jacob Cass",
+    "published": "Fri, 04 Oct 2024 04:00:57 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2024/08/41QvGPHBo9L._SL500_.webp",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "Gear for Designers",
+      "HP",
+      "Laptops",
+      "Smart Devices",
+      "Tools",
+      "Video Gear"
+    ]
+  },
+  {
+    "title": "10+ Best FREE Graphic Design Courses Online",
+    "link": "https://justcreative.com/best-free-graphic-design-courses-online/",
+    "description": "Learn graphic design for free with these top free online graphic design courses and classes. Skip design school, self study and teach yourself graphic design!",
+    "author": "Jacob Cass",
+    "published": "Fri, 04 Oct 2024 04:00:41 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2023/04/coursera-logo.webp",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Courses",
+      "Graphic Design",
+      "Freebie"
+    ]
+  },
+  {
+    "title": "45+ Cool Fonts for Creating Refreshing Designs",
+    "link": "https://justcreative.com/best-cool-fonts/",
+    "description": "If you're on the lookout for all of the best cool fonts, then this feature is for you! Check out our roundup of all the best picks in the category here!",
+    "author": "Jacob Cass",
+    "published": "Fri, 04 Oct 2024 04:00:37 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-15-at-7.01.17-AM-1024x626.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "Cool",
+      "Fonts",
+      "Fun",
+      "Unique"
+    ]
+  },
+  {
+    "title": "10 Best Color Palette Generators for 2024",
+    "link": "https://justcreative.com/best-color-palette-generators",
+    "description": "Color Palette Generators can be an invaluable when working on a new design. To make things easier for you, see our list of the best color palette generators.",
+    "author": "Jacob Cass",
+    "published": "Fri, 04 Oct 2024 04:00:36 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2021/10/Adobe-Color-CC-1024x527.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Graphic Design",
+      "Color",
+      "Color Palettes",
+      "Color Schemes",
+      "Color Wheel Generators",
+      "Free",
+      "Online"
+    ]
+  },
+  {
+    "title": "10 Best Digital Notepads and Notebooks (Oct 2024)",
+    "link": "https://justcreative.com/best-digital-notepads-notebooks",
+    "description": "For many, traditional notebooks are things of the past. In this digital age, the Best Digital Notepads \u0026 Notebooks for Creatives will vault you into the future!",
+    "author": "Jacob Cass",
+    "published": "Fri, 04 Oct 2024 04:00:20 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2024/08/41xEuFwV4WL._SL500_.webp",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "Gear for Designers",
+      "Notepad",
+      "Sketching",
+      "Smart Devices",
+      "Tablet"
+    ]
+  },
+  {
+    "title": "14+ Best Free Logo Makers Online in 2024",
+    "link": "https://justcreative.com/best-free-logo-makers/",
+    "description": "Looking for the best free logo makers online? We have compiled a list sharing the best online logo software and tools to create your next logo design.",
+    "author": "Jacob Cass",
+    "published": "Fri, 04 Oct 2024 04:00:18 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2023/04/looka.webp",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Logo Design",
+      "Graphic Design",
+      "Logo",
+      "Logo Maker",
+      "Software",
+      "Tools"
+    ]
+  },
+  {
+    "title": "13+ Best Flip Phones of 2024 (Oct Update)",
+    "link": "https://justcreative.com/best-flip-phones/",
+    "description": "Don't scoff at our list of the best flip phones. WIth new technology, the flip phone is making a comeback and our list gives you the best options out there.",
+    "author": "Jacob Cass",
+    "published": "Fri, 04 Oct 2024 04:00:13 +0000",
+    "image": "https://m.media-amazon.com/images/I/41AHawOKWAL._SL160_.jpg",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "Best Flip Phones in 2022",
+      "Flip Phone",
+      "Phone",
+      "Smart Devices",
+      "smartphones"
+    ]
+  },
+  {
+    "title": "24+ Best Fancy Fonts for Embellished Designs",
+    "link": "https://justcreative.com/best-fancy-fonts/",
+    "description": "The best fancy fonts can give your project an air of class and sophistication. Our list can help add a great tool to your ever-growing toolbox.",
+    "author": "Jacob Cass",
+    "published": "Fri, 04 Oct 2024 04:00:07 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2022/05/fancy-1024x566.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "Branding",
+      "fancy",
+      "Fonts"
+    ]
+  },
+  {
+    "title": "10 Best Heat Press Machines in 2024 (Oct)",
+    "link": "https://justcreative.com/best-heat-press-machines/",
+    "description": "Looking for the best heat press machine? Don't worry! This article will provide you with a list of the best heat press machines to get you designing in no time!",
+    "author": "Jacob Cass",
+    "published": "Fri, 04 Oct 2024 04:00:00 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2023/09/411r4RBuwL._SL500_.webp",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "Cricut",
+      "heat press machine",
+      "Printer",
+      "Printing"
+    ]
+  },
+  {
     "title": "10+ Best Budget Laptops for Graphic Design — Expert Picks 2024 (Oct)",
     "link": "https://justcreative.com/best-budget-laptops-for-design/",
     "description": "A budget-friendly laptop shouldn't mean sacrificing quality for affordability. With our list of the Top Budget Laptops in 2024, you’re getting the best of both.",
@@ -714,146 +862,27 @@
     ]
   },
   {
-    "title": "Adobe Fonts Not Syncing – Troubleshooting Guide to Fix Font Activation in Creative Cloud",
-    "link": "https://justcreative.com/adobe-fonts-not-syncing",
-    "description": "“Adobe Fonts not Syncing” - Did you receive this error message? See our troubleshooting guide to get your Adobe fonts \u0026 Typekit fonts synced again.",
-    "author": "Jacob Cass",
-    "published": "Thu, 03 Oct 2024 04:00:50 +0000",
-    "image": "https://justcreative.com/wp-content/uploads/2022/03/Adobe-account-data-600x365.png",
-    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "title": "Icon Usability: When and How to Evaluate Digital Icons",
+    "link": "https://www.nngroup.com/articles/how-to-test-digital-icons/",
+    "description": "Effective icons depend on recognizability and interpretation. Evaluate them with methods appropriate for your specific research questions",
+    "author": "Kate Kaplan",
+    "published": "Fri, 04 Oct 2024 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
     "categories": [
-      "Graphic Design",
-      "Adobe",
-      "Fonts",
-      "Troubleshooting"
+      "Article"
     ]
   },
   {
-    "title": "Adobe Black Friday \u0026 Cyber Monday Sale 2023 — Ultimate Guide",
-    "link": "https://justcreative.com/adobe-black-friday",
-    "description": "Get the best deals during the Adobe Black Friday sale! Find all the 2023 Adobe Black Friday \u0026 Cyber Monday sale details here!",
-    "author": "Jacob Cass",
-    "published": "Thu, 03 Oct 2024 04:00:42 +0000",
-    "image": "https://justcreative.com/wp-content/uploads/2023/11/adobe-cyber-monday-sale-1024x466.png",
-    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "title": "Sneaking: The Deceptive UX Pattern You Never Saw Coming",
+    "link": "https://www.nngroup.com/articles/sneaking/",
+    "description": "Sneaking is a deceptive practice that includes three main patterns: forced continuity, hidden costs, and sneak into basket.",
+    "author": "Connor Chan",
+    "published": "Fri, 04 Oct 2024 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
     "categories": [
-      "Deals \u0026 Freebies",
-      "Adobe",
-      "2023",
-      "Black Friday",
-      "Creative Cloud",
-      "Cyber Monday"
-    ]
-  },
-  {
-    "title": "10+ Best AI Photo Editing Software in 2024 (Free and Premium)",
-    "link": "https://justcreative.com/best-ai-photo-editing-software/",
-    "description": "With this guide at your side, finding the best AI photo editing software for your needs should be a breeze!",
-    "author": "Jacob Cass",
-    "published": "Thu, 03 Oct 2024 04:00:38 +0000",
-    "image": "https://justcreative.com/wp-content/uploads/2022/05/1-Luminar-AI-1024x576.jpg",
-    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
-    "categories": [
-      "AI",
-      "Photography",
-      "Software",
-      "best AI photo editing software",
-      "Photo Editing"
-    ]
-  },
-  {
-    "title": "10+ Best 16GB RAM Laptops in 2024 (Oct)",
-    "link": "https://justcreative.com/best-16gb-ram-laptops",
-    "description": "If you are in search of best 16gb ram laptops, this blog will give you a list through which you can identify the best as per your needs.",
-    "author": "Jacob Cass",
-    "published": "Thu, 03 Oct 2024 04:00:36 +0000",
-    "image": "https://justcreative.com/wp-content/uploads/2024/08/31axa9UjZ3L._SL500_.webp",
-    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
-    "categories": [
-      "Tools \u0026 Gear",
-      "16GB",
-      "Laptops"
-    ]
-  },
-  {
-    "title": "14+ Best Adobe Acrobat Alternatives in 2024",
-    "link": "https://justcreative.com/adobe-acrobat-alternatives/",
-    "description": "Looking for the best alternative to Adobe Acrobat? We list out the best Adobe Acrobat alternatives for you, including free acrobat alternatives and premium.",
-    "author": "Jacob Cass",
-    "published": "Thu, 03 Oct 2024 04:00:13 +0000",
-    "image": "https://justcreative.com/wp-content/uploads/2023/03/Laptop-visual.webp",
-    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
-    "categories": [
-      "Adobe",
-      "Acrobat Pro",
-      "Alternatives",
-      "Tools"
-    ]
-  },
-  {
-    "title": "20+ Native American Fonts for Authentic Designs",
-    "link": "https://justcreative.com/native-american-fonts/",
-    "description": "America is known for its cultural diversity \u0026 rich heritage. One group is Native Americans. Find the best Native American fonts here.",
-    "author": "Jacob Cass",
-    "published": "Fri, 27 Sep 2024 04:00:55 +0000",
-    "image": "https://justcreative.com/wp-content/uploads/2023/08/best-native-american-fonts-1-1024x645.png",
-    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
-    "categories": [
-      "Typography",
-      "american",
-      "american fonts",
-      "Fonts",
-      "Indian",
-      "native",
-      "native american"
-    ]
-  },
-  {
-    "title": "The Best Printers for Graphic Designers (Oct 2024)",
-    "link": "https://justcreative.com/top-printers-for-graphic-designers/",
-    "description": "What is the best printer for a graphic designer? Here we we review the top best most effective printers on the market for graphic design in 2024.",
-    "author": "Jacob Cass",
-    "published": "Fri, 27 Sep 2024 04:00:53 +0000",
-    "image": "https://justcreative.com/wp-content/uploads/2021/04/designer-printer-1024x683-1.jpg",
-    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
-    "categories": [
-      "Graphic Design",
-      "Tools \u0026 Gear",
-      "Gear for Designers",
-      "Printer",
-      "Printing",
-      "scanners",
-      "Smart Devices"
-    ]
-  },
-  {
-    "title": "20+ Famous Logo Designers \u0026 Their Most Iconic Work (2024)",
-    "link": "https://justcreative.com/logo-designers/",
-    "description": "While vastly subjective, here is our list of the top 20 famous logo designers and their most iconic work. Discover the best logo designers here!",
-    "author": "Jacob Cass",
-    "published": "Fri, 27 Sep 2024 04:00:29 +0000",
-    "image": "https://justcreative.com/wp-content/uploads/2023/07/custom-logo-design.webp",
-    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
-    "categories": [
-      "Branding",
-      "Logo Design",
-      "Iconic Designers"
-    ]
-  },
-  {
-    "title": "25+ Best Masculine \u0026 Manly Fonts for Strong Designs",
-    "link": "https://justcreative.com/masculine-manly-fonts/",
-    "description": "Are you in search of the best masculine \u0026 manly fonts to give a strong look to your designs? If yes, we’ve got you covered! We are listing the best ... Read more",
-    "author": "Jacob Cass",
-    "published": "Fri, 27 Sep 2024 04:00:24 +0000",
-    "image": "https://justcreative.com/wp-content/uploads/2022/08/masculine-1024x567.png",
-    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
-    "categories": [
-      "Typography",
-      "best masculine \u0026 manly fonts",
-      "Fonts",
-      "Masculine",
-      "masculine fonts"
+      "Article"
     ]
   },
   {
@@ -1073,27 +1102,19 @@
     ]
   },
   {
-    "title": "UX Conference November Announced (Nov 17 - Nov 22)",
-    "link": "https://www.nngroup.com/training/november-asia-au/",
-    "description": "Take up to 3 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. November 18-23, 2024 (Asia/AU), November 17-22, 2024 (Americas).",
-    "author": "",
-    "published": "Tue, 13 Aug 2024 23:35:00 +0000",
-    "image": "",
-    "source": "https://www.nngroup.com/feed/rss/",
+    "title": "How LinkedIn went from creepy to cool",
+    "link": "https://uxdesign.cc/how-linkedin-went-from-creepy-to-cool-4cc0ed775bb0?source=rss----138adf9c44c---4",
+    "description": "First: Product vision, AI \u0026 feeds. Now? Notifications.Continue reading on UX Collective »",
+    "author": "Rosie Hoggmascall",
+    "published": "Fri, 04 Oct 2024 11:13:56 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1984/1*CEIHHzRuZeAT_4LqyfYtHw.png",
+    "source": "https://uxdesign.cc/feed",
     "categories": [
-      "Event"
-    ]
-  },
-  {
-    "title": "Handling Sensitive Questions in Surveys and Screeners",
-    "link": "https://www.nngroup.com/articles/sensitive-questions/",
-    "description": "Researchers often want to ask about sensitive topics in surveys and screeners. Handle them appropriately and delicately to avoid dropoffs and inaccurate data.",
-    "author": "Maddie Brown",
-    "published": "Fri, 09 Aug 2024 17:00:00 +0000",
-    "image": "",
-    "source": "https://www.nngroup.com/feed/rss/",
-    "categories": [
-      "Article"
+      "product",
+      "growth",
+      "startup",
+      "tech",
+      "ux"
     ]
   },
   {
@@ -1122,7 +1143,7 @@
     "source": "https://uxdesign.cc/feed",
     "categories": [
       "ux",
-      "figma",
+      "editor-picks",
       "artificial-intelligence",
       "ui",
       "design"
@@ -1232,27 +1253,11 @@
     "image": "https://cdn-images-1.medium.com/max/2600/1*eEQVlYu787yEH3eVZGxxJw.png",
     "source": "https://uxdesign.cc/feed",
     "categories": [
+      "editor-picks",
       "ux-writing",
       "design-thinking",
       "ux",
-      "writing",
-      "brand-strategy"
-    ]
-  },
-  {
-    "title": "Design system dilemmas: similar looks, different functions",
-    "link": "https://uxdesign.cc/design-system-dilemmas-similar-looks-different-functions-36a2f0e2dcbb?source=rss----138adf9c44c---4",
-    "description": "",
-    "author": "Dean Harrison",
-    "published": "Tue, 01 Oct 2024 22:24:51 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1024/1*-IEKFCrBH_F4dBIN48Of0A.png",
-    "source": "https://uxdesign.cc/feed",
-    "categories": [
-      "product-design",
-      "design",
-      "ui",
-      "ux",
-      "design-systems"
+      "writing"
     ]
   },
   {
