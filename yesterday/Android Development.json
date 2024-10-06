@@ -1,5 +1,15 @@
 [
   {
+    "title": "Building with AI on Android | Spotlight Week",
+    "link": "https://www.youtube.com/watch?v=o1wY5vnNVCc",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2024-10-04T16:30:56+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
+    "categories": null
+  },
+  {
     "title": "Integrating the Gemini API in Android | Android Build Time",
     "link": "https://www.youtube.com/watch?v=DDN2pJ0SzNw",
     "description": "",
@@ -135,16 +145,6 @@
     "description": "",
     "author": "Android Developers",
     "published": "2024-09-12T18:12:37+00:00",
-    "image": "",
-    "source": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
-    "categories": null
-  },
-  {
-    "title": "Flow layouts | Jetpack Compose Tips",
-    "link": "https://www.youtube.com/watch?v=QaMjBZCXHiI",
-    "description": "",
-    "author": "Android Developers",
-    "published": "2024-09-11T18:08:21+00:00",
     "image": "",
     "source": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
     "categories": null
@@ -9219,6 +9219,27 @@
     ]
   },
   {
+    "title": "Google Maps in Jetpack Compose: Markers",
+    "link": "https://joebirch.co/android/google-maps-in-jetpack-compose-markers/",
+    "description": "In a few recent projects, I’ve needed to utilise Google Maps within environments utilising Jetpack Compose. In the early days of compose this felt light a sought after piece of functionality – even though it is still being built on, it now seems to be in a place where I can confidently use it. In... Continue reading →",
+    "author": "hitherejoe",
+    "published": "Fri, 04 Oct 2024 09:20:53 +0000",
+    "image": "",
+    "source": "https://joebirch.co/feed",
+    "categories": [
+      "Android",
+      "Jetpack Compose",
+      "Android App Development",
+      "Android Apps",
+      "Android Development",
+      "AndroidDev",
+      "App Development",
+      "jetpack compose",
+      "jetpackcompose",
+      "Mobile App Development"
+    ]
+  },
+  {
     "title": "Google Maps in Jetpack Compose: Getting Started",
     "link": "https://joebirch.co/android/google-maps-in-jetpack-compose-getting-started/",
     "description": "In a few recent projects, I’ve needed to utilise Google Maps within environments utilising Jetpack Compose. In the early days of compose this felt light a sought after piece of functionality – even though it is still being built on, it now seems to be in a place where I can confidently use it. In... Continue reading →",
@@ -9377,27 +9398,6 @@
     "source": "https://joebirch.co/feed",
     "categories": [
       "Android",
-      "Android App Development",
-      "Android Apps",
-      "Android Development",
-      "AndroidDev",
-      "App Development",
-      "jetpack compose",
-      "jetpackcompose",
-      "Mobile App Development"
-    ]
-  },
-  {
-    "title": "Sharing Composables between Mobile and TV Apps",
-    "link": "https://joebirch.co/android/sharing-composables-between-mobile-and-tv-apps/",
-    "description": "For the past few years, we’ve been getting to grips with Jetpack Compose and how we can use it to build apps for Handheld and Wear OS devices. Late last year, Composables built for Android TV apps started to surface as Alpha releases and in this series of blog posts, I want to dive into... Continue reading →",
-    "author": "hitherejoe",
-    "published": "Fri, 08 Dec 2023 12:35:35 +0000",
-    "image": "",
-    "source": "https://joebirch.co/feed",
-    "categories": [
-      "Android",
-      "Jetpack Compose",
       "Android App Development",
       "Android Apps",
       "Android Development",
@@ -9795,6 +9795,22 @@
     "categories": null
   },
   {
+    "title": "Place Scope Handling on Auto-Pilot with Koin \u0026 Compose Navigation",
+    "link": "https://proandroiddev.com/place-scope-handling-on-auto-pilot-with-koin-compose-navigation-d40023b1ba6f?source=rss----c72404660798---4",
+    "description": "",
+    "author": "Mihai Batista",
+    "published": "Fri, 04 Oct 2024 18:20:00 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*SJ1T1qEVuB0yXzIs",
+    "source": "https://proandroiddev.com/feed",
+    "categories": [
+      "android",
+      "dependency-injection",
+      "compose",
+      "android-app-development",
+      "koin"
+    ]
+  },
+  {
     "title": "Upgrading from AGP 7.4.1 to 8.5.2: A Developer’s Diary",
     "link": "https://proandroiddev.com/upgrading-from-agp-7-4-1-to-8-5-2-a-developers-diary-eace00a48a3b?source=rss----c72404660798---4",
     "description": "",
@@ -9935,22 +9951,6 @@
       "space",
       "android",
       "android-app-development"
-    ]
-  },
-  {
-    "title": "Optimized Image Loading for Compose and Kotlin Multiplatform",
-    "link": "https://proandroiddev.com/optimized-image-loading-for-compose-and-kotlin-multiplatform-a45eb2e710c0?source=rss----c72404660798---4",
-    "description": "",
-    "author": "Jaewoong Eum",
-    "published": "Thu, 26 Sep 2024 21:10:06 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1024/1*X98vIYMmf1vKbcXrhKvzcQ.jpeg",
-    "source": "https://proandroiddev.com/feed",
-    "categories": [
-      "compose",
-      "andorid",
-      "kotlin-multiplatform",
-      "kotlin",
-      "image-loading"
     ]
   },
   {

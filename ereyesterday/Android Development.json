@@ -1,5 +1,15 @@
 [
   {
+    "title": "Integrating the Gemini API in Android | Android Build Time",
+    "link": "https://www.youtube.com/watch?v=DDN2pJ0SzNw",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2024-10-03T17:00:02+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
+    "categories": null
+  },
+  {
     "title": "Android Apps with Generative AI #SpotlightWeek",
     "link": "https://www.youtube.com/watch?v=5uyKvY2XndE",
     "description": "",
@@ -135,16 +145,6 @@
     "description": "",
     "author": "Android Developers",
     "published": "2024-09-11T18:08:21+00:00",
-    "image": "",
-    "source": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
-    "categories": null
-  },
-  {
-    "title": "Navigation Compose meet Type Safety #shorts",
-    "link": "https://www.youtube.com/watch?v=yQdGAAPvsJI",
-    "description": "",
-    "author": "Android Developers",
-    "published": "2024-09-10T23:00:36+00:00",
     "image": "",
     "source": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
     "categories": null
@@ -315,7 +315,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB210_v1.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "androiddevelopers",
@@ -331,7 +331,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB209_v1.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -349,7 +349,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB208_v4.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "androiddeveloper",
@@ -382,7 +382,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB206_v1.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -400,7 +400,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB205_v1.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -418,7 +418,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB203_V3.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "androiddeveloper",
       "androiddevelopers",
@@ -446,7 +446,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB201_final.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "Firebase",
       "androiddevelopers",
@@ -464,7 +464,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB200_v4.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -488,7 +488,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB199_v1.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "compose",
       "androiddeveloper",
@@ -510,7 +510,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB198_v1.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "androiddeveloper",
       "androiddevelopers",
@@ -527,7 +527,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB197_v2.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "androiddeveloper",
       "androiddevelopers",
@@ -545,7 +545,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB196_v1.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -566,7 +566,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB195_v2.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "androidpodcast",
@@ -584,7 +584,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB194_v1.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -627,7 +627,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB192_v1.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "androiddeveloper",
       "ADB",
@@ -644,7 +644,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB191_v2.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "androiddeveloper",
       "ADB",
@@ -661,8 +661,8 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB190_v1.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
-      "code",
+      "google",
+      "Code",
       "developer",
       "Android",
       "androiddevelopersbackstage"
@@ -677,7 +677,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB189_v2.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "androiddevelopers",
       "androiddevelopersbackstage"
@@ -692,7 +692,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB188_Android13_FINAL.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -716,7 +716,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB187_SystemUI_final.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -735,7 +735,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB186_LiveEdit_final.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "androiddevelopers",
       "androiddevelopersbackstage",
@@ -751,7 +751,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB185_Playstore_final.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -775,7 +775,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB184_Skia__AGSL_Final.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -898,7 +898,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB178_Photon.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -1011,7 +1011,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/2021-06-14-ADB169-1.0.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "testing",
       "Android",
       "androiddeveloper",
@@ -1027,7 +1027,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/2021-06-11-ADB168-1.0.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "androiddevelopers"
     ]
@@ -1041,7 +1041,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADBC167_Compose_Layouts.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "androiddevelopers"
     ]
   },
@@ -1054,7 +1054,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB166-1.0.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Security",
       "developer",
       "Android",
@@ -1077,7 +1077,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB165-Material_Witnesses.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -1095,7 +1095,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADBC_164-Compose_Compiler.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "androiddevelopers",
       "googledevelopers",
@@ -1111,7 +1111,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB163-1.7.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "androidpodcast",
       "androiddevelopers",
@@ -1129,7 +1129,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB162-1.5.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -1149,7 +1149,7 @@
     "image": "https://traffic.libsyn.com/secure/adbackstage/ADB161-1.0.mp3?dest-id=2710847",
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
-      "Google",
+      "google",
       "Android",
       "ADB",
       "androiddevelopers",
@@ -1169,7 +1169,7 @@
     "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
     "categories": [
       "art",
-      "Google",
+      "google",
       "developer",
       "Android",
       "developers",
@@ -1206,7 +1206,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1222,7 +1222,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1238,7 +1238,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1254,7 +1254,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1270,7 +1270,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1286,7 +1286,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1302,7 +1302,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1318,7 +1318,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1334,7 +1334,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1350,7 +1350,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1366,7 +1366,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1382,7 +1382,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1398,7 +1398,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1414,7 +1414,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1430,7 +1430,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1446,7 +1446,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1462,7 +1462,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1478,7 +1478,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1494,7 +1494,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1510,7 +1510,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1526,7 +1526,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1542,7 +1542,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1558,7 +1558,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1574,7 +1574,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1590,7 +1590,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1606,7 +1606,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1622,7 +1622,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1638,7 +1638,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1654,7 +1654,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1670,7 +1670,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1686,7 +1686,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1702,7 +1702,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1718,7 +1718,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1734,7 +1734,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1750,7 +1750,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1766,7 +1766,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1782,7 +1782,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1798,7 +1798,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1814,7 +1814,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1830,7 +1830,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1846,7 +1846,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1862,7 +1862,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1878,7 +1878,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1894,7 +1894,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1910,7 +1910,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1926,7 +1926,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1942,7 +1942,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1958,7 +1958,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1974,7 +1974,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -1990,7 +1990,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2006,7 +2006,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2022,7 +2022,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2038,7 +2038,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2054,7 +2054,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2070,7 +2070,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2086,7 +2086,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2102,7 +2102,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2118,7 +2118,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2134,7 +2134,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2150,7 +2150,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2166,7 +2166,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2182,7 +2182,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2198,7 +2198,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2214,7 +2214,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2230,7 +2230,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2246,7 +2246,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2262,7 +2262,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2278,7 +2278,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2294,7 +2294,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2310,7 +2310,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2326,7 +2326,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2342,7 +2342,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2358,7 +2358,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2374,7 +2374,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2390,7 +2390,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2406,7 +2406,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2422,7 +2422,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2438,7 +2438,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2454,7 +2454,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2470,7 +2470,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2486,7 +2486,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2502,7 +2502,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2518,7 +2518,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2534,7 +2534,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2550,7 +2550,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2566,7 +2566,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2582,7 +2582,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2598,7 +2598,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2614,7 +2614,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2630,7 +2630,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2646,7 +2646,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2662,7 +2662,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2678,7 +2678,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2694,7 +2694,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2710,7 +2710,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2726,7 +2726,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2742,7 +2742,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2758,7 +2758,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2774,7 +2774,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2790,7 +2790,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2806,7 +2806,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2822,7 +2822,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2838,7 +2838,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2854,7 +2854,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2870,7 +2870,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2886,7 +2886,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2902,7 +2902,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2918,7 +2918,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2934,7 +2934,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2950,7 +2950,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2966,7 +2966,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2982,7 +2982,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -2998,7 +2998,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3014,7 +3014,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3030,7 +3030,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3046,7 +3046,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3062,7 +3062,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3078,7 +3078,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3094,7 +3094,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3110,7 +3110,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3126,7 +3126,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3142,7 +3142,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3158,7 +3158,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3174,7 +3174,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3190,7 +3190,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3206,7 +3206,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3222,7 +3222,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3238,7 +3238,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3254,7 +3254,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3270,7 +3270,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3286,7 +3286,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3302,7 +3302,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3318,7 +3318,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3334,7 +3334,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3350,7 +3350,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3366,7 +3366,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3382,7 +3382,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3398,7 +3398,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3414,7 +3414,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3430,7 +3430,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3446,7 +3446,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3462,7 +3462,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3478,7 +3478,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3494,7 +3494,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3510,7 +3510,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3526,7 +3526,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3542,7 +3542,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3558,7 +3558,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3574,7 +3574,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3590,7 +3590,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3606,7 +3606,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3622,7 +3622,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3638,7 +3638,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3654,7 +3654,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3670,7 +3670,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3686,7 +3686,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3702,7 +3702,7 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
     ]
@@ -3718,9 +3718,37 @@
     "categories": [
       "mobile",
       "software",
-      "Development",
+      "development",
       "programming",
       "Android"
+    ]
+  },
+  {
+    "title": "Gemini API in action: showcase of innovative Android apps",
+    "link": "http://android-developers.googleblog.com/2024/10/gemini-api-showcase-of-innovative-android-apps.html",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2024-10-03T11:00:00.000-07:00",
+    "image": "",
+    "source": "http://feeds.feedburner.com/blogspot/hsDu",
+    "categories": [
+      "#GenerativeAI",
+      "AndroidAI",
+      "Gemini"
+    ]
+  },
+  {
+    "title": "Advanced capabilities of the Gemini API for Android developers",
+    "link": "http://android-developers.googleblog.com/2024/10/advanced-capabilities-of-gemini-api-for-android-developers.html",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2024-10-03T10:59:00.000-07:00",
+    "image": "",
+    "source": "http://feeds.feedburner.com/blogspot/hsDu",
+    "categories": [
+      "#GenerativeAI",
+      "AndroidAI",
+      "Gemini"
     ]
   },
   {
@@ -4093,35 +4121,6 @@
     "categories": [
       "#TheAndroidShow",
       "case study"
-    ]
-  },
-  {
-    "title": "The Recorder app on Pixel sees a 24% boost in engagement with Gemini Nano-powered feature",
-    "link": "http://android-developers.googleblog.com/2024/08/recorder-app-on-pixel-sees-boost-in-engagement-with-gemini-nano.html",
-    "description": "",
-    "author": "Android Developers",
-    "published": "2024-08-27T10:00:00.000-07:00",
-    "image": "",
-    "source": "http://feeds.feedburner.com/blogspot/hsDu",
-    "categories": [
-      "#TheAndroidShow",
-      "case study",
-      "GenerativeAI"
-    ]
-  },
-  {
-    "title": "#TheAndroidShow: diving into the latest from Made by Google, including wearables, Foldable, Gemini and more!",
-    "link": "http://android-developers.googleblog.com/2024/08/tas24-recap.html",
-    "description": "",
-    "author": "Android Developers",
-    "published": "2024-08-27T09:55:00.000-07:00",
-    "image": "",
-    "source": "http://feeds.feedburner.com/blogspot/hsDu",
-    "categories": [
-      "#TheAndroidShow",
-      "events",
-      "Gemini Nano",
-      "Pixel"
     ]
   },
   {
@@ -9796,6 +9795,38 @@
     "categories": null
   },
   {
+    "title": "Upgrading from AGP 7.4.1 to 8.5.2: A Developer’s Diary",
+    "link": "https://proandroiddev.com/upgrading-from-agp-7-4-1-to-8-5-2-a-developers-diary-eace00a48a3b?source=rss----c72404660798---4",
+    "description": "",
+    "author": "Ivan Dimitrov",
+    "published": "Thu, 03 Oct 2024 17:47:11 GMT",
+    "image": "https://cdn-images-1.medium.com/max/640/1*IEn64k7We7kAWoYDhzzWJA.jpeg",
+    "source": "https://proandroiddev.com/feed",
+    "categories": [
+      "sdk",
+      "gradle",
+      "android",
+      "obfuscation",
+      "gradle-plugin"
+    ]
+  },
+  {
+    "title": "Binary Compatibility: Simplified",
+    "link": "https://proandroiddev.com/binary-compatibility-simplified-6312a7cd6867?source=rss----c72404660798---4",
+    "description": "",
+    "author": "Sarah Maher",
+    "published": "Thu, 03 Oct 2024 17:45:55 GMT",
+    "image": "https://cdn-images-1.medium.com/max/640/1*sIQ4vdO1JQpXwiaR9KmtPw.jpeg",
+    "source": "https://proandroiddev.com/feed",
+    "categories": [
+      "sdk",
+      "libraries",
+      "kotlin-multiplatform",
+      "kotlin",
+      "android"
+    ]
+  },
+  {
     "title": "Mastering FileProvider in Android: Secure File Sharing Explained",
     "link": "https://proandroiddev.com/mastering-fileprovider-in-android-secure-file-sharing-explained-14932af1ec35?source=rss----c72404660798---4",
     "description": "",
@@ -9920,38 +9951,6 @@
       "kotlin-multiplatform",
       "kotlin",
       "image-loading"
-    ]
-  },
-  {
-    "title": "ImageVector vs painterResources — Under the hood.",
-    "link": "https://proandroiddev.com/imagevector-vs-painterresources-under-the-hood-6c002abbaaf1?source=rss----c72404660798---4",
-    "description": "",
-    "author": "Sahil Thakar",
-    "published": "Mon, 23 Sep 2024 08:31:09 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1024/1*kdyu4ELsyN0HDoI4K-OcCA.png",
-    "source": "https://proandroiddev.com/feed",
-    "categories": [
-      "kotlin",
-      "android-app-development",
-      "jetpack-compose",
-      "java",
-      "android"
-    ]
-  },
-  {
-    "title": "Expandable FlowRow with Indicator",
-    "link": "https://proandroiddev.com/expandable-flowrow-with-indicator-e6425f267c4c?source=rss----c72404660798---4",
-    "description": "",
-    "author": "Stefano Natali",
-    "published": "Mon, 23 Sep 2024 08:29:24 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1024/1*SmOmknHWnVuRFe75rsJ1ag.jpeg",
-    "source": "https://proandroiddev.com/feed",
-    "categories": [
-      "android",
-      "androiddev",
-      "jetpack-compose",
-      "android-app-development",
-      "kotlin"
     ]
   },
   {

@@ -300,18 +300,16 @@
     ]
   },
   {
-    "title": "Made by Google 2024",
-    "link": "https://blog.google/products/platforms-devices/made-by-google-2024-collection/",
-    "description": "Here’s everything we announced across Gemini and Android — plus, how we’re bringing these new capabilities to our latest Pixel devices.",
-    "author": "",
+    "title": "Android is reimagining your phone with Gemini",
+    "link": "https://blog.google/products/android/android-gemini-google-ai/",
+    "description": "With AI at the core of Android, we’ve rebuilt Gemini and tailored it for your device, in a private and secure way.",
+    "author": "Sameer SamatPresident, Android Ecosystem",
     "published": "Tue, 13 Aug 2024 17:00:00 +0000",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/MBG_Collection_Hero.gif",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-Header_Light-mode_No-text.max-600x600.format-webp.webp",
     "source": "https://blog.google/products/android/rss",
     "categories": [
       "Gemini App",
-      "Android",
-      "Pixel Buds",
-      "Pixel"
+      "Android"
     ]
   },
   {
@@ -329,16 +327,18 @@
     ]
   },
   {
-    "title": "Android is reimagining your phone with Gemini",
-    "link": "https://blog.google/products/android/android-gemini-google-ai/",
-    "description": "With AI at the core of Android, we’ve rebuilt Gemini and tailored it for your device, in a private and secure way.",
-    "author": "Sameer SamatPresident, Android Ecosystem",
+    "title": "Made by Google 2024",
+    "link": "https://blog.google/products/platforms-devices/made-by-google-2024-collection/",
+    "description": "Here’s everything we announced across Gemini and Android — plus, how we’re bringing these new capabilities to our latest Pixel devices.",
+    "author": "Rick OsterlohSenior Vice PresidentPlatforms \u0026 Devices",
     "published": "Tue, 13 Aug 2024 17:00:00 +0000",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-Header_Light-mode_No-text.max-600x600.format-webp.webp",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/MBG_Collection_Hero.gif",
     "source": "https://blog.google/products/android/rss",
     "categories": [
       "Gemini App",
-      "Android"
+      "Android",
+      "Pixel Buds",
+      "Pixel"
     ]
   },
   {
@@ -529,15 +529,116 @@
     ]
   },
   {
-    "title": "Oura Ring 4 arrives to take on the Samsung Galaxy Ring",
-    "link": "https://www.androidauthority.com/oura-ring-4-3368927/",
-    "description": "The market's top smart ring just got an upgraded sibling.",
+    "title": "I’ve seen an early version of One UI 7, and it has controversial changes",
+    "link": "https://www.androidauthority.com/one-ui-7-sneak-peek-3487575/",
+    "description": "This is an early build so who knows how much will make it to the final version.",
+    "author": "C. Scott Brown",
+    "published": "Thu, 03 Oct 2024 23:30:27 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/One-UI-7-Leak-Icons-scaled.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Features",
+      "Samsung",
+      "Samsung One UI"
+    ]
+  },
+  {
+    "title": "Oura Ring 4 vs Samsung Galaxy Ring: Which should you buy?",
+    "link": "https://www.androidauthority.com/oura-ring-4-vs-samsung-galaxy-ring-3487493/",
+    "description": "Finger-based wearables from two household names go head to head.",
     "author": "Kaitlyn Cimino",
-    "published": "Thu, 03 Oct 2024 07:05:32 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/Oura-Ring-4-Gold-scaled.jpg",
+    "published": "Thu, 03 Oct 2024 23:13:45 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/oura-ring-4-3.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Versus",
+      "fitness trackers",
+      "Oura",
+      "Samsung",
+      "Samsung Galaxy Ring",
+      "Smart Rings",
+      "Wearables"
+    ]
+  },
+  {
+    "title": "Google Meet’s new call screen makes it easier to hop into meetings with recent contacts",
+    "link": "https://www.androidauthority.com/google-meet-start-a-call-screen-3487298/",
+    "description": "The revamped call screen is accompanied by a shortcut to start meetings with a code.",
+    "author": "Pranob Mehrotra",
+    "published": "Thu, 03 Oct 2024 22:39:28 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Meet-logo-on-smartphone-stock-photo.jpg",
     "source": "https://www.androidauthority.com/feed",
     "categories": [
       "News",
+      "Google",
+      "Google Meet"
+    ]
+  },
+  {
+    "title": "Here’s how you’ll use your phone like a Wiimote to control Samsung TVs in 2025",
+    "link": "https://www.androidauthority.com/samsung-tv-wiimote-control-3487484/",
+    "description": "Samsung's bringing its TV owners some fun new ways to control their sets with their phones.",
+    "author": "Stephen Schenck",
+    "published": "Thu, 03 Oct 2024 22:25:04 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/samsung-sdc-2024-smartthings-remote.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Samsung"
+    ]
+  },
+  {
+    "title": "These Tracfone prepaid plans now get double the data and hotspot at no extra cost",
+    "link": "https://www.androidauthority.com/tracfone-plans-upgrade-3487552/",
+    "description": "Both new and existing customers will benefit from the upgrades.",
+    "author": "Rushil Agrawal",
+    "published": "Thu, 03 Oct 2024 21:42:35 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/04/Tracfone-logo-on-smartphone-next-to-cash-and-SIM-ejector-tool-1.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Phone Plans",
+      "Verizon"
+    ]
+  },
+  {
+    "title": "Android 16 might better protect your data with its Advanced Protection Mode",
+    "link": "https://www.androidauthority.com/android-16-advanced-protection-3487515/",
+    "description": "Android 16 could let security conscious users enroll into a new Android Advanced Protection Mode.",
+    "author": "Mishaal Rahman",
+    "published": "Thu, 03 Oct 2024 21:26:31 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/android-16-stock-photos-6.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Android 16",
+      "Google"
+    ]
+  },
+  {
+    "title": "Google is killing its one-click app to run Chrome OS in a VM on Android devices",
+    "link": "https://www.androidauthority.com/chrome-os-android-launcher-killed-3487486/",
+    "description": "Google was working on an app that would’ve made it easy to run Chrome OS in a virtual machine on select Android devices.",
+    "author": "Mishaal Rahman",
+    "published": "Thu, 03 Oct 2024 20:58:57 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/chrome-os-logo-google-pixel-8-pro-1.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Android 16",
+      "Google Chrome OS"
+    ]
+  },
+  {
+    "title": "Oura Ring 4 vs Oura Ring 3: Should you upgrade?",
+    "link": "https://www.androidauthority.com/oura-ring-4-vs-oura-ring-3-3486451/",
+    "description": "Oura's newest generation delivers a sleeker fit and updated sensors.",
+    "author": "Kaitlyn Cimino",
+    "published": "Thu, 03 Oct 2024 20:37:00 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/oura-ring-4-vs-oura-ring-3-sensors.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Versus",
       "fitness trackers",
       "Oura",
       "Smart Rings",
@@ -545,11 +646,218 @@
     ]
   },
   {
-    "title": "Uh oh: More ads are coming to Prime Video",
+    "title": "Samsung Passkey could be the next Google Password Manager and LastPass competitor",
+    "link": "https://www.androidauthority.com/samsung-passkey-smart-home-3487444/",
+    "description": "Samsung's extending Passkey support across its smart home ecosystem.",
+    "author": "Stephen Schenck",
+    "published": "Thu, 03 Oct 2024 20:30:05 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/samsung-sdc-2024-passkey.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Samsung"
+    ]
+  },
+  {
+    "title": "Google Pixel 9a rumors: Everything we know so far and what we want to see",
+    "link": "https://www.androidauthority.com/google-pixel-9a-3479179/",
+    "description": "We already have live image and render leaks, but is Google even planning to launch the Pixel 9a? Here's what we know!",
+    "author": "Aamir Siddiqui",
+    "published": "Thu, 03 Oct 2024 19:32:44 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-Pixel-8a-rear-hero.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Rumor hubs/Wishlists",
+      "Google",
+      "Google Pixel 9a"
+    ]
+  },
+  {
+    "title": "One UI 7 is almost here: What we know so far and what want to see",
+    "link": "https://www.androidauthority.com/one-ui-7-3429831/",
+    "description": "This is everything you need to know about Samsung's next big software update.",
+    "author": "Rushil Agrawal",
+    "published": "Thu, 03 Oct 2024 18:43:48 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2023/11/One-UI-6-software-update-screen.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Rumor hubs/Wishlists",
+      "Samsung",
+      "Samsung Galaxy AI",
+      "Samsung One UI"
+    ]
+  },
+  {
+    "title": "Samsung to rename all of its software to One UI in 2025",
+    "link": "https://www.androidauthority.com/samsung-one-ui-branding-3487421/",
+    "description": "Samsung is going all-in on the One UI branding.",
+    "author": "Ryan McNeal",
+    "published": "Thu, 03 Oct 2024 18:43:27 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-logo-stock-photo-from-CES-2024-3.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Samsung",
+      "Samsung One UI"
+    ]
+  },
+  {
+    "title": "The best new streaming movies this week: Wolfs and more",
+    "link": "https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/",
+    "description": "Explore our list of six must-see new movies.",
+    "author": "Annesha Basu",
+    "published": "Thu, 03 Oct 2024 18:26:05 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/apartment-7a.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Entertainment lists",
+      "Apple TV Plus",
+      "Hulu",
+      "Netflix",
+      "Shudder",
+      "Streaming"
+    ]
+  },
+  {
+    "title": "The Pixel 9a could launch months ahead of schedule, and it might not be the last Pixel to do so",
+    "link": "https://www.androidauthority.com/pixel-9a-launch-date-3487416/",
+    "description": "Forget May, the Pixel 9a could be coming in March.",
+    "author": "Rushil Agrawal",
+    "published": "Thu, 03 Oct 2024 18:00:49 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/Pixel-9a-render-scaled-e1727709849297.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Google",
+      "Google Pixel",
+      "Google Pixel 9a"
+    ]
+  },
+  {
+    "title": "Samsung shares One UI 7 schedule, and it’s just such a big letdown",
+    "link": "https://www.androidauthority.com/one-ui-7-schedule-3487420/",
+    "description": "Samsung won't have One UI 7 ready until the Galaxy S25 lands.",
+    "author": "Stephen Schenck",
+    "published": "Thu, 03 Oct 2024 18:00:46 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/samsung-sdc-2024-one-ui-7.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Samsung",
+      "Samsung One UI"
+    ]
+  },
+  {
+    "title": "Need a smart doorbell? The Blink Video Doorbell is just $30 right now, a 50% discount",
+    "link": "https://www.androidauthority.com/blink-video-doorbell-deal-3487259/",
+    "description": "Smart doorbells can get pricey, so you shouldn't ignore this Blink Video Doorbell deal.",
+    "author": "Edgar Cervantes",
+    "published": "Thu, 03 Oct 2024 17:20:18 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2022/02/Blink-Video-Doorbell-Head-On.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "security camera",
+      "Smart Home"
+    ]
+  },
+  {
+    "title": "Users report Google Discover is no longer showing new content",
+    "link": "https://www.androidauthority.com/google-discover-showing-old-content-3487381/",
+    "description": "A Google Discover issue may be causing the feed to only show old content for some users.",
+    "author": "Ryan McNeal",
+    "published": "Thu, 03 Oct 2024 17:05:22 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2023/02/Vivo-X90-Pro-Google-Discover-scaled-e1727974648135.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Google",
+      "Google Chrome"
+    ]
+  },
+  {
+    "title": "How to watch the Samsung Developer Conference 2024 keynote live",
+    "link": "https://www.androidauthority.com/samsung-developer-conference-keynote-3487372/",
+    "description": "Is it finally time to learn about Samsung's plans for One UI 7?",
+    "author": "Stephen Schenck",
+    "published": "Thu, 03 Oct 2024 16:15:20 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-logo-stock-photo-from-CES-2024-1.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Samsung",
+      "Samsung Galaxy AI",
+      "Samsung One UI"
+    ]
+  },
+  {
+    "title": "Spotify puts its song cache to good use with a new auto-offline playlist",
+    "link": "https://www.androidauthority.com/spotify-song-cache-offline-playlist-3487350/",
+    "description": "The feature lets you play select songs when offline, even if you haven't manually downloaded them.",
+    "author": "Mahmoud Itani",
+    "published": "Thu, 03 Oct 2024 16:07:24 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/google-pixel-buds-pro-2-spotify.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Music Apps",
+      "Music Streaming",
+      "Spotify"
+    ]
+  },
+  {
+    "title": "You can now ask Google Lens questions about your photos and videos",
+    "link": "https://www.androidauthority.com/google-lens-video-search-voice-input-3487202/",
+    "description": "Google Lens is also improving your shopping experience with a new results page for products.",
+    "author": "Pranob Mehrotra",
+    "published": "Thu, 03 Oct 2024 16:00:31 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/Google-Lens-new-shopping-results-page.mp4",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Google",
+      "Google Lens",
+      "Google Search"
+    ]
+  },
+  {
+    "title": "These Anker SOLIX power station deals are for those who need serious power",
+    "link": "https://www.androidauthority.com/anker-solix-deals-3487260/",
+    "description": "Need a charge? Check out these power station deals from Anker SOLIX. These are all awesome products!",
+    "author": "Edgar Cervantes",
+    "published": "Thu, 03 Oct 2024 15:52:59 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/Anker-SOLIX-C300-Portable-Power-Station.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "Anker",
+      "Battery",
+      "Battery Packs",
+      "Power bank"
+    ]
+  },
+  {
+    "title": "Google’s rivalry with OpenAI heats up as it works on a new reasoning AI model",
+    "link": "https://www.androidauthority.com/google-reasoning-ai-model-3487297/",
+    "description": "Google is working on a new AI that can challenge OpenAI's o1.",
+    "author": "Ryan McNeal",
+    "published": "Thu, 03 Oct 2024 15:48:12 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/08/wood-google-logo.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "AI",
+      "Google"
+    ]
+  },
+  {
+    "title": "Uh oh: More ads are coming to Prime Video (Update: Amazon statement)",
     "link": "https://www.androidauthority.com/prime-video-more-ads-3486001/",
     "description": "Amazon will ramp up the number of ads on its ad-supported tier next year.",
     "author": "Hadlee Simons",
-    "published": "Thu, 03 Oct 2024 06:36:24 +0000",
+    "published": "Thu, 03 Oct 2024 15:20:24 +0000",
     "image": "https://www.androidauthority.com/wp-content/uploads/2021/08/Amazon-Prime-Video-movies-and-shows-stock-image.jpg",
     "source": "https://www.androidauthority.com/feed",
     "categories": [
@@ -557,6 +865,230 @@
       "Amazon",
       "Amazon Prime Video",
       "Streaming"
+    ]
+  },
+  {
+    "title": "Missing incident reporting on Android Auto? Your car’s display is probably too short for it",
+    "link": "https://www.androidauthority.com/android-auto-google-maps-missing-incident-reporting-3487314/",
+    "description": "On shorter displays, the button is not visible at all, while Apple CarPlay uses a different button layout to avoid this.",
+    "author": "Aamir Siddiqui",
+    "published": "Thu, 03 Oct 2024 15:17:37 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Android-Auto-2024-Multiwindow.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Android Auto",
+      "Google",
+      "Google Maps"
+    ]
+  },
+  {
+    "title": "Samsung Galaxy S24 FE benchmarks: Just as good as the flagships?",
+    "link": "https://www.androidauthority.com/samsung-galaxy-s24-fe-benchmarks-3486904/",
+    "description": "Samsung's budget model goes head to head with the flagships.",
+    "author": "Robert Triggs",
+    "published": "Thu, 03 Oct 2024 15:00:40 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/samsung-galaxy-s24-fe-home-screen-scaled.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Features",
+      "Samsung Galaxy S24",
+      "Samsung Galaxy S24 FE"
+    ]
+  },
+  {
+    "title": "Ray-Ban Meta’s new reminder feature gives you photographic memory",
+    "link": "https://www.androidauthority.com/how-ray-ban-meta-reminder-works-3487249/",
+    "description": "Say goodbye to misplaced items.",
+    "author": "Mahmoud Itani",
+    "published": "Thu, 03 Oct 2024 14:06:10 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57 AM-1.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "AI",
+      "Meta"
+    ]
+  },
+  {
+    "title": "No, you’re not hacked: You can ignore that scary “You added a new card to your Google Account” email",
+    "link": "https://www.androidauthority.com/google-account-added-a-new-card-email-3487265/",
+    "description": "The email is likely just a bug, though you can change your password out of abundant caution.",
+    "author": "Aamir Siddiqui",
+    "published": "Thu, 03 Oct 2024 13:53:07 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2023/04/Google-Wallet-logo-on-smartphone-next-to-credit-cards-and-cash-Stock-photo-1.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Google",
+      "Google Pay",
+      "Google Wallet"
+    ]
+  },
+  {
+    "title": "The amazing Sony WH-1000XM5 headphones hit a record-low price!",
+    "link": "https://www.androidauthority.com/sony-wh-1000xm5-deal-2-3487261/",
+    "description": "These are the best headphones, and you can get them for a record-low price right now. Hurry up!",
+    "author": "Edgar Cervantes",
+    "published": "Thu, 03 Oct 2024 13:31:28 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2022/09/Sony-WH-1000XM5-scaled.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "Headphones",
+      "Sony",
+      "Sony WH-1000XM5"
+    ]
+  },
+  {
+    "title": "Gemini Live goes global with support for 40+ languages",
+    "link": "https://www.androidauthority.com/gemini-live-languages-3487021/",
+    "description": "Gemini Live's big language expansion is getting started.",
+    "author": "Stephen Schenck",
+    "published": "Thu, 03 Oct 2024 13:00:42 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/gemini-live-google-gif.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Google",
+      "Google Gemini"
+    ]
+  },
+  {
+    "title": "Who knew? Physical camera controls are great… for the most part",
+    "link": "https://www.androidauthority.com/iphone-16-camera-control-great-3486146/",
+    "description": "Or, how I learned to stop worrying and love the button.",
+    "author": "Ryan Haines",
+    "published": "Thu, 03 Oct 2024 13:00:04 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/iPhone-16-Camera-Control-from-side.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Features",
+      "Apple",
+      "Apple iPhone 16"
+    ]
+  },
+  {
+    "title": "Exclusive: Download the full-resolution Google Pixel 9a wallpapers here",
+    "link": "https://www.androidauthority.com/full-res-pixel-9a-wallpapers-3487229/",
+    "description": "This isn’t the first time we see these wallpapers, but now you can actually use them!",
+    "author": "Kamila Wojciechowska",
+    "published": "Thu, 03 Oct 2024 12:33:41 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/Pixel-9a-wallpaper-applied.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Features",
+      "Google",
+      "Google Pixel 9a",
+      "Wallpapers"
+    ]
+  },
+  {
+    "title": "After Samsung, even Verizon is shutting down its texting app in favor of Google Messages",
+    "link": "https://www.androidauthority.com/verizon-shutting-down-message-plus-3487219/",
+    "description": "Thanks to RCS adoption, Verizon has little reason left to compete in the messaging space.",
+    "author": "Aamir Siddiqui",
+    "published": "Thu, 03 Oct 2024 12:13:04 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Google Messages",
+      "Messaging Apps",
+      "Verizon"
+    ]
+  },
+  {
+    "title": "This crazy Samsung photo trick is coming to another flagship phone",
+    "link": "https://www.androidauthority.com/crazy-samsung-photo-trick-oppo-find-x8-3487207/",
+    "description": "The OPPO Find X8 series will fix photos ruined by reflections.",
+    "author": "Hadlee Simons",
+    "published": "Thu, 03 Oct 2024 11:43:38 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/OPPO-Find-X8-reflection-removal.mp4",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Oppo",
+      "OPPO Find"
+    ]
+  },
+  {
+    "title": "Oura Ring 4 launch triggers first deals on the Gen 3 models",
+    "link": "https://www.androidauthority.com/oura-ring-3-deals-3487105/",
+    "description": "For the first time, you can save $50 on several styles of the stylish smart ring.",
+    "author": "Matt Horne",
+    "published": "Thu, 03 Oct 2024 11:28:06 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2023/02/oura-ring-3-oura-app-sleep-stages-2-scaled.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "Oura",
+      "Smart Rings"
+    ]
+  },
+  {
+    "title": "Poll: Have you switched from Google Assistant to Gemini?",
+    "link": "https://www.androidauthority.com/switch-from-google-assistant-to-gemini-poll-3487194/",
+    "description": "Is Gemini your new default assistant or are you sticking with Google Assistant for now?",
+    "author": "Hadlee Simons",
+    "published": "Thu, 03 Oct 2024 10:06:33 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-4.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Polls",
+      "AI",
+      "Google Assistant",
+      "Google Gemini",
+      "Survey"
+    ]
+  },
+  {
+    "title": "Google Play Store makes searching for apps harder on tablets",
+    "link": "https://www.androidauthority.com/play-store-searching-apps-harder-tablets-3487177/",
+    "description": "The handy search bar on the main screen has been retired.",
+    "author": "Mahmoud Itani",
+    "published": "Thu, 03 Oct 2024 09:22:55 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2023/07/Tab-S9-and-Pixel-tablet-displays.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Android",
+      "Google Play Store",
+      "Tablets"
+    ]
+  },
+  {
+    "title": "You can now download One UI 6 watch faces on your older Galaxy Watch",
+    "link": "https://www.androidauthority.com/download-one-ui-6-watch-faces-old-galaxy-watch-3487169/",
+    "description": "Wear OS 5 still isn't available for older Galaxy Watch models, but at least you can grab these watch faces.",
+    "author": "Hadlee Simons",
+    "published": "Thu, 03 Oct 2024 08:41:14 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/07/Samsung-Galaxy-Watch-7-in-hand.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Google Wear OS",
+      "Samsung Galaxy Watch",
+      "Samsung One UI"
+    ]
+  },
+  {
+    "title": "Oura Ring 4 arrives to take on the Samsung Galaxy Ring",
+    "link": "https://www.androidauthority.com/oura-ring-4-3368927/",
+    "description": "The market's top smart ring just got an upgraded sibling.",
+    "author": "Kaitlyn Cimino",
+    "published": "Thu, 03 Oct 2024 07:05:32 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/oura-ring-4-and-box-2.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "fitness trackers",
+      "Oura",
+      "Smart Rings",
+      "Wearables"
     ]
   },
   {
@@ -584,21 +1116,6 @@
       "News",
       "Android Games",
       "Epic Games"
-    ]
-  },
-  {
-    "title": "One UI 7 is almost here: What we know so far and what want to see",
-    "link": "https://www.androidauthority.com/one-ui-7-3429831/",
-    "description": "This is everything you need to know about Samsung's next big software update.",
-    "author": "Rushil Agrawal",
-    "published": "Thu, 03 Oct 2024 04:16:48 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2023/11/One-UI-6-software-update-screen.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Rumor hubs/Wishlists",
-      "Samsung",
-      "Samsung Galaxy AI",
-      "Samsung One UI"
     ]
   },
   {
@@ -861,20 +1378,6 @@
     "categories": [
       "Software lists",
       "Wallpapers"
-    ]
-  },
-  {
-    "title": "Google Pixel 9a rumors: Everything we know so far and what we want to see",
-    "link": "https://www.androidauthority.com/google-pixel-9a-3479179/",
-    "description": "We already have live image and render leaks, but is Google even planning to launch the Pixel 9a? Here's what we know!",
-    "author": "Aamir Siddiqui",
-    "published": "Wed, 02 Oct 2024 14:10:44 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-Pixel-8a-rear-hero.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Rumor hubs/Wishlists",
-      "Google",
-      "Google Pixel 9a"
     ]
   },
   {
@@ -1182,493 +1685,24 @@
     ]
   },
   {
-    "title": "Chromebook Plus AI enhancements include Recorder app, Live Translate, and more",
-    "link": "https://www.androidauthority.com/chromebook-ai-upgrades-3486666/",
-    "description": "Gemini and Google AI have some powerful new tools for your Chromebook.",
-    "author": "Stephen Schenck",
-    "published": "Tue, 01 Oct 2024 21:26:27 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/ACER-Chromebook-Plus-516-GE-03-scaled.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Chromebooks",
-      "Google",
-      "Google Chrome OS"
-    ]
+    "title": "One UI 7 and Android 15 coming to Samsung phones LATER than usual 🫠 #samsung #oneui7 #android15",
+    "link": "https://www.youtube.com/watch?v=5lgrNh3c92k",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2024-10-03T20:28:16+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
   },
   {
-    "title": "Ryujinx, the other major Nintendo Switch emulator, is shut down by Nintendo",
-    "link": "https://www.androidauthority.com/ryujinx-shut-down-3486684/",
-    "description": "Although Yuzu was the more popular emulator out there, Ryujinx had its die-hards.",
-    "author": "C. Scott Brown",
-    "published": "Tue, 01 Oct 2024 21:18:57 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2022/05/Nintendo-Switch-Header-12.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Emulator",
-      "Nintendo",
-      "Nintendo Switch"
-    ]
-  },
-  {
-    "title": "AT\u0026T is displeased with T-Mobile Priority, calls it out as a confusing marketing campaign",
-    "link": "https://www.androidauthority.com/att-firstnet-t-mobile-priority-3486647/",
-    "description": "Sour grapes or does AT\u0026T have a point? Maybe a bit of both?",
-    "author": "Andrew Grush",
-    "published": "Tue, 01 Oct 2024 20:14:16 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/06/ATT-logo-on-smartphone-with-blue-background-stock-photo.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "AT\u0026T",
-      "T-Mobile"
-    ]
-  },
-  {
-    "title": "Save up to 60% on Ring and Blink security cameras",
-    "link": "https://www.androidauthority.com/ring-blink-security-camera-deals-3486623/",
-    "description": "Keep your home and wallet safe with these security camera deals.",
-    "author": "Edgar Cervantes",
-    "published": "Tue, 01 Oct 2024 20:11:04 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2023/11/Ring-camera-next-to-spices-cans-and-more-kitchen-items-stock-photo-1.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Deals",
-      "News",
-      "Ring",
-      "security camera"
-    ]
-  },
-  {
-    "title": "WhatsApp updates its video calling with new filters and backgrounds",
-    "link": "https://www.androidauthority.com/whatsapp-video-call-effects-3486641/",
-    "description": "Video calling on WhatsApp is getting much better.",
-    "author": "Rushil Agrawal",
-    "published": "Tue, 01 Oct 2024 20:07:03 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2023/05/WhatsApp-logo-on-smartphone-next-to-other-devices-Stock-photo-3.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "WhatsApp"
-    ]
-  },
-  {
-    "title": "The new Samsung Galaxy Chromebook Plus is the thinnest and lightest yet",
-    "link": "https://www.androidauthority.com/samsung-galaxy-chromebook-plus-lenovo-duet-3486631/",
-    "description": "Buyers on a budget may also be interested in the new $339 Lenovo Chromebook Duet.",
-    "author": "Matt Horne",
-    "published": "Tue, 01 Oct 2024 19:40:16 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/google-chromebook-Samsung-Galaxy-Chromebook-display.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Chromebooks",
-      "Lenovo",
-      "Samsung"
-    ]
-  },
-  {
-    "title": "Google’s new TV Streamer box is driving owners nuts with out-of-sync audio",
-    "link": "https://www.androidauthority.com/google-tv-streamer-sync-3486609/",
-    "description": "Pervasive sync problems seem to affect all corners of the streaming box's interface.",
-    "author": "Stephen Schenck",
-    "published": "Tue, 01 Oct 2024 19:28:01 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/08/Google-TV-Streamer-hazel-colorway.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Google",
-      "Google TV Streamer"
-    ]
-  },
-  {
-    "title": "Deal: The ASUS Vivobook 14 laptop is too affordable for what you get",
-    "link": "https://www.androidauthority.com/asus-vivobook-14-deal-2-3486624/",
-    "description": "The ASUS Vivobook 14 laptop is too good for just $220!",
-    "author": "Edgar Cervantes",
-    "published": "Tue, 01 Oct 2024 18:43:20 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/08/ASUS-VivoBook-14.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Deals",
-      "News",
-      "Asus",
-      "Laptops"
-    ]
-  },
-  {
-    "title": "YouTube TV now lets you listen even after locking your phone",
-    "link": "https://www.androidauthority.com/youtube-tv-background-play-3486594/",
-    "description": "YouTube TV is getting a previously exclusive YouTube Premium feature.",
-    "author": "Ryan McNeal",
-    "published": "Tue, 01 Oct 2024 18:29:59 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/YouTube-TV-logo-on-smartphone-stock-photo-3.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Android apps",
-      "Streaming",
-      "YouTube TV"
-    ]
-  },
-  {
-    "title": "Here’s the next Android manufacturer to offer Gemini Nano on its phones",
-    "link": "https://www.androidauthority.com/gemini-nano-motorola-edge-50-ultra-3486606/",
-    "description": "Motorola is rolling out Gemini Nano support to some of its flagship Android phones.",
-    "author": "Mishaal Rahman",
-    "published": "Tue, 01 Oct 2024 18:00:39 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/06/Motorola-Razr-2024-gemini-app.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Google Gemini",
-      "Motorola"
-    ]
-  },
-  {
-    "title": "The Apple Watch Series 10 is an improvement in every way — except the one we all wanted",
-    "link": "https://www.androidauthority.com/apple-watch-series-10-review-3484740/",
-    "description": "The latest smartwatch out of Cupertino delivers upgrades all over, except battery life.",
-    "author": "Kaitlyn Cimino",
-    "published": "Tue, 01 Oct 2024 18:00:29 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/Apple-Watch-Series-10-Reflections-Watch-Face-2-scaled.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Reviews",
-      "Apple",
-      "Apple Watch",
-      "Smartwatches",
-      "Wearables"
-    ]
-  },
-  {
-    "title": "Pixel 9a might debut with a thinner design and two new colors",
-    "link": "https://www.androidauthority.com/pixel-9a-dimensions-colors-leak-3486587/",
-    "description": "The Pixel 9a could be almost identical to the Pixel 9.",
-    "author": "Rushil Agrawal",
-    "published": "Tue, 01 Oct 2024 17:04:13 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/Pixel-9a-render-scaled-e1727709849297.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Google",
-      "Google Pixel",
-      "Google Pixel 9a"
-    ]
-  },
-  {
-    "title": "Samsung Galaxy Z Fold 6 Special Edition could land in weeks, but is it what you expect?",
-    "link": "https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-date-3486571/",
-    "description": "Is this the super-thin foldable we've been hearing about, or something else entirely?",
-    "author": "Stephen Schenck",
-    "published": "Tue, 01 Oct 2024 16:35:31 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/07/Samsung-Galaxy-Z-Fold6-10.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Samsung",
-      "Samsung Galaxy Z Fold 6"
-    ]
-  },
-  {
-    "title": "Here’s why YouTube TV didn’t let you watch the end of the Mets-Braves game",
-    "link": "https://www.androidauthority.com/youtube-tv-mets-braves-3486564/",
-    "description": "This is why the blackout was delayed.",
-    "author": "Ryan McNeal",
-    "published": "Tue, 01 Oct 2024 16:31:39 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/YouTube-TV-logo-on-smartphone-stock-photo-5.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Streaming",
-      "YouTube TV"
-    ]
-  },
-  {
-    "title": "Pebblebee’s new trackers let you say goodbye to platform restrictions",
-    "link": "https://www.androidauthority.com/pebblebee-universal-trackers-3486348/",
-    "description": "Pebblebee's new trackers won't force you to choose between Android and iOS.",
-    "author": "Ryan McNeal",
-    "published": "Tue, 01 Oct 2024 16:00:42 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/pebblebee-universal-lineup-1.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Bluetooth trackers",
-      "Find My Device"
-    ]
-  },
-  {
-    "title": "Google Pixel vs iPhone: The battle for smartphone supremacy",
-    "link": "https://www.androidauthority.com/pixel-vs-iphone-3388298/",
-    "description": "The mobile OS war between Google and Apple bleeds into the hardware segment",
-    "author": "Aamir Siddiqui",
-    "published": "Tue, 01 Oct 2024 15:48:12 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/iPhone-16-Pro-Max-Pixel-9-Pro-XL.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Versus",
-      "Apple",
-      "Apple iPhone",
-      "Google",
-      "Google Pixel"
-    ]
-  },
-  {
-    "title": "Google did not ask Samsung to create One UI’s controversial Auto Blocker",
-    "link": "https://www.androidauthority.com/google-no-collusion-samsung-one-ui-auto-blocker-epic-lawsuit-3486523/",
-    "description": "Auto Blocker is at the heart of Epic's latest lawsuit, but Samsung has not confirmed or denied working with Google on it.",
-    "author": "Aamir Siddiqui",
-    "published": "Tue, 01 Oct 2024 13:14:57 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/07/Samsung-Galaxy-Z-Flip-6-auto-blocker.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Epic Games",
-      "Google",
-      "Samsung",
-      "Samsung One UI"
-    ]
-  },
-  {
-    "title": "Meta won’t say if Ray-Ban Meta photos are used to train AI",
-    "link": "https://www.androidauthority.com/ray-ban-meta-ai-train-photos-3486511/",
-    "description": "This doesn't sound good if you're a Ray-Ban Meta owner. Then again, it's Meta after all.",
-    "author": "Hadlee Simons",
-    "published": "Tue, 01 Oct 2024 12:05:37 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57 AM-1.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News"
-    ]
-  },
-  {
-    "title": "The best new Android apps and games for October 2024",
-    "link": "https://www.androidauthority.com/new-android-apps-658839/",
-    "description": "There are plenty of excellent apps and games available for the month ahead.",
-    "author": "Andy Walker",
-    "published": "Tue, 01 Oct 2024 11:00:04 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/midnight-girl-game-android-001.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Software lists",
-      "Android apps",
-      "Best Apps"
-    ]
-  },
-  {
-    "title": "Wear OS could soon let you send RCS messages (APK teardown)",
-    "link": "https://www.androidauthority.com/wear-os-standalone-rcs-messages-apk-teardown-3486475/",
-    "description": "A future Google Messages update could enable standalone RCS for Wear OS smartwatches.",
-    "author": "Aamir Siddiqui",
-    "published": "Tue, 01 Oct 2024 09:29:25 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/08/Samsung-Galaxy-Watch-FE-app-drawer.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Google",
-      "Google Wear OS",
-      "RCS"
-    ]
-  },
-  {
-    "title": "PSN is back up and running after widespread outage (Updated)",
-    "link": "https://www.androidauthority.com/playstation-network-down-3486442/",
-    "description": "Put down your controllers and get outside because PSN is out of commission right now.",
-    "author": "Adamya Sharma",
-    "published": "Tue, 01 Oct 2024 08:38:47 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2022/04/PS5-PlayStation-5-controller-3.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Sony PlayStation"
-    ]
-  },
-  {
-    "title": "OPPO Find X8 Ultra wishlist: All the features I want to see",
-    "link": "https://www.androidauthority.com/oppo-find-x8-ultra-3458722/",
-    "description": "Here's our wishlist for the OPPO Find X8 Ultra.",
-    "author": "Andrew Grush",
-    "published": "Tue, 01 Oct 2024 07:20:59 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/oppo-magnetic-accessories.mp4",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Rumor hubs/Wishlists",
-      "Oppo"
-    ]
-  },
-  {
-    "title": "Gemini Live is now available to all, no subscription needed",
-    "link": "https://www.androidauthority.com/gemini-live-available-free-users-3486455/",
-    "description": "Now you can also see what the fuss is all about.",
-    "author": "Hadlee Simons",
-    "published": "Tue, 01 Oct 2024 06:09:13 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/08/google-gemini-live-fullscreen-hold.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "AI",
-      "Google",
-      "Google Gemini"
-    ]
-  },
-  {
-    "title": "Qualcomm Snapdragon 8 Gen 4: When’s it coming and what to expect?",
-    "link": "https://www.androidauthority.com/qualcomm-snapdragon-8-gen-4-3484492/",
-    "description": "A new custom CPU architecture is just the start.",
-    "author": "Robert Triggs",
-    "published": "Tue, 01 Oct 2024 06:00:43 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/qualcomm-snapdragon-x-plus-chip-in-hand.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Features",
-      "Qualcomm"
-    ]
-  },
-  {
-    "title": "Android’s Personal Safety app to introduce time extension for Safety Checks (APK Teardown)",
-    "link": "https://www.androidauthority.com/personal-safety-check-add-time-3486457/",
-    "description": "Currently, users have to stop a Safety Check if they need to change its duration.",
-    "author": "Adamya Sharma",
-    "published": "Tue, 01 Oct 2024 05:53:39 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-Personal-Safety-Safety-Check-3-scaled.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News"
-    ]
-  },
-  {
-    "title": "The Galaxy S25 Ultra doesn’t look like it will dig into your palm",
-    "link": "https://www.androidauthority.com/samsung-galaxy-s25-ultra-case-dummy-leaks-3486436/",
-    "description": "Case and dummy leaks of the Galaxy S25 Ultra show off more rounded corners and a flatter frame than the Galaxy S24 Ultra.",
-    "author": "Aamir Siddiqui",
-    "published": "Tue, 01 Oct 2024 04:37:55 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/Samsung-Galaxy-S25-Ultra-Dummy-Unit_11.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Samsung",
-      "Samsung Galaxy S25"
-    ]
-  },
-  {
-    "title": "The biggest Galaxy Ring competitor is just around the corner",
-    "link": "https://www.androidauthority.com/oura-ring-4-launch-3486422/",
-    "description": "The Oura Ring 4 will reportedly be the company's biggest product overhaul to date.",
-    "author": "Adamya Sharma",
-    "published": "Tue, 01 Oct 2024 02:59:25 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2023/09/Oura-Ring-3-Sensors-scaled.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Oura",
-      "Samsung",
-      "Samsung Galaxy Ring"
-    ]
-  },
-  {
-    "title": "Samsung Galaxy S24 FE teardown reveals a solidly repairable design",
-    "link": "https://www.androidauthority.com/samsung-galaxy-s24-fe-teardown-3486378/",
-    "description": "See what makes the Samsung Galaxy S24 FE tick in this new teardown video.",
-    "author": "Stephen Schenck",
-    "published": "Mon, 30 Sep 2024 22:25:28 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/samsung-galaxy-s24-fe-gray-cameras-scaled.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Samsung",
-      "Samsung Galaxy S24 FE"
-    ]
-  },
-  {
-    "title": "Can’t find your favorite music on YouTube? Here are some alternatives",
-    "link": "https://www.androidauthority.com/youtube-music-alternatives-3486203/",
-    "description": "Missing out on your favorite songs right now through YouTube or YouTube Music? You have options.",
-    "author": "Andrew Grush",
-    "published": "Mon, 30 Sep 2024 21:12:34 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/04/YouTube-Music-logo-on-smartphone-next-to-headphones-and-Nest-Mini-2.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Guides",
-      "Apple Music",
-      "Spotify",
-      "YouTube",
-      "YouTube Music"
-    ]
-  },
-  {
-    "title": "Many popular songs have vanished from YouTube and YouTube Music: Here’s why (Update: Coming back)",
-    "link": "https://www.androidauthority.com/youtube-sesac-licensing-expired-3485969/",
-    "description": "Hello, hello, hello, where'd the music go?",
-    "author": "Rushil Agrawal",
-    "published": "Mon, 30 Sep 2024 21:02:52 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/04/YouTube-Music-logo-on-smartphone-with-headphones.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Google",
-      "YouTube",
-      "YouTube Music"
-    ]
-  },
-  {
-    "title": "YouTube solves its missing music problem",
-    "link": "https://www.androidauthority.com/youtube-sesac-deal-3486337/",
-    "description": "Google has worked out a deal to bring back songs recently removed from YouTube and YouTube Music.",
-    "author": "Stephen Schenck",
-    "published": "Mon, 30 Sep 2024 20:58:32 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2022/11/YouTube-Music-home-screen-UI-1.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Google",
-      "YouTube",
-      "YouTube Music"
-    ]
-  },
-  {
-    "title": "Why YouTube is missing your favorite songs: What you must know",
-    "link": "https://www.androidauthority.com/youtube-sesac-music-dispute-3486212/",
-    "description": "Find out what happened to your top tracks and when they're coming back.",
-    "author": "Matt Horne",
-    "published": "Mon, 30 Sep 2024 20:52:31 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/04/YouTube-Music-logo-on-smartphone-next-to-headphones-and-Nest-Mini-1.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Guides",
-      "YouTube",
-      "YouTube Music"
-    ]
-  },
-  {
-    "title": "Android 16: Expected features, codename, leaks, and everything else we know so far",
-    "link": "https://www.androidauthority.com/android-16-features-3484159/",
-    "description": "Android 16 is expected to launch in 2025, but we already have a clue about some of the new features that it could bring.",
-    "author": "Aamir Siddiqui",
-    "published": "Mon, 30 Sep 2024 20:14:53 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/08/Android_15_screen_sharing_chip_demo.mp4",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "Guides",
-      "Android",
-      "Android 16",
-      "Google"
-    ]
-  },
-  {
-    "title": "Google may release Android 16 much earlier than expected",
-    "link": "https://www.androidauthority.com/android-16-release-date-rumor-3486336/",
-    "description": "Next year's big Android update could arrive a few months earlier than you'd guess.",
-    "author": "Mishaal Rahman",
-    "published": "Mon, 30 Sep 2024 20:12:36 +0000",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/android-16-stock-photos-4.jpg",
-    "source": "https://www.androidauthority.com/feed",
-    "categories": [
-      "News",
-      "Android 16",
-      "Google"
-    ]
+    "title": "Which chip leads the pack: Snapdragon 8 Gen 3 or Tensor G4? #Snapdragon8Gen3 #TensorG4 #shorts",
+    "link": "https://www.youtube.com/watch?v=519y_VNEmMc",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2024-10-03T10:49:41+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
   },
   {
     "title": "Pixel 9 Pro XL vs iPhone 16 Pro Max FACE-OFF | Can Apple's BEST beat Google?",
@@ -1796,26 +1830,6 @@
     "description": "",
     "author": "Android Authority",
     "published": "2024-09-24T17:52:18+00:00",
-    "image": "",
-    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
-    "categories": null
-  },
-  {
-    "title": "You've NEVER seen Nothing earbuds like this! #nothing #nothingear #earbuds #audio",
-    "link": "https://www.youtube.com/watch?v=x_wzccJQsdE",
-    "description": "",
-    "author": "Android Authority",
-    "published": "2024-09-24T13:01:12+00:00",
-    "image": "",
-    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
-    "categories": null
-  },
-  {
-    "title": "Hands-on with the HUAWEI Mate XT! #HUAWEI #MateXT #FoldablePhone #shorts",
-    "link": "https://www.youtube.com/watch?v=iOBJsRKFLSg",
-    "description": "",
-    "author": "Android Authority",
-    "published": "2024-09-24T12:09:18+00:00",
     "image": "",
     "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
     "categories": null
@@ -6810,124 +6824,123 @@
     ]
   },
   {
-    "title": "These gadgets got me through the worst hurricane of my life",
-    "link": "https://www.androidcentral.com/accessories/these-gadgets-got-me-through-the-worst-hurricane-of-my-life",
-    "description": "Hurricane Helene has ravaged my hometown of Asheville, North Carolina, but these small comforts have given me a taste of regular life through the hardships.",
+    "title": "OPPO's Find X8 series is borrowing a page from Samsung's camera playbook",
+    "link": "https://www.androidcentral.com/phones/oppos-find-x8-series-is-borrowing-a-page-from-samsungs-camera-playbook",
+    "description": "OPPO's Find X8 series is set to feature a camera trick we've seen Samsung do before.",
     "author": "",
-    "published": "Thu, 03 Oct 2024 06:00:40 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/MeuaeDT8T749H6g2RikBA4.jpg",
-    "source": "http://feeds.androidcentral.com/androidcentral",
-    "categories": [
-      "Accessories"
-    ]
-  },
-  {
-    "title": "HiDock H1 review: This USB-C dock uses AI to turbocharge meetings",
-    "link": "https://www.androidcentral.com/accessories/hidock-h1-review",
-    "description": "HiDock's H1 is a USB-C dock that integrates a built-in speaker, and it uses AI to automatically transcribe and summarize meetings.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 04:37:59 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/qtdamEEgZ4YpMjDTZmtVa4.jpg",
-    "source": "http://feeds.androidcentral.com/androidcentral",
-    "categories": [
-      "Accessories"
-    ]
-  },
-  {
-    "title": "Amazon beefs up the Fire HD 8 lineup with AI and more memory",
-    "link": "https://www.androidcentral.com/tablets/amazon-beefs-up-the-fire-hd-8-lineup-with-ai-and-more-memory",
-    "description": "The Fire HD 8, now packing 50% more RAM and generative AI features, is up for grabs at just $55 for a limited time.",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 23:58:37 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/GdDv2QhWa6hBaQB4nmC4qa.jpg",
-    "source": "http://feeds.androidcentral.com/androidcentral",
-    "categories": [
-      "Tablets"
-    ]
-  },
-  {
-    "title": "Your smartphone is more of a collaborative effort than you think",
-    "link": "https://www.androidcentral.com/phones/why-licensing-is-important",
-    "description": "Your phone uses technology from plenty of sources. Getting it all to play well together is only half the battle; doing it legally is equally important.",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 21:30:25 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/rndDsNbSySJFMhwDXetJ9.jpg",
+    "published": "Thu, 03 Oct 2024 22:10:06 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/hUSavqmWDbuwQHdeJnAj9m.jpg",
     "source": "http://feeds.androidcentral.com/androidcentral",
     "categories": [
       "Phones"
     ]
   },
   {
-    "title": "WhatsApp to make your video calls look cool with new filters and backgrounds",
-    "link": "https://www.androidcentral.com/apps-software/whatsapp-introduces-filters-and-backgrounds-for-video-calls",
-    "description": "With the new update, conventional video calls between friends and family on WhatsApp should likely be more engaging.",
+    "title": "YouTube highlights longer Shorts and a 'template' to hop on trends",
+    "link": "https://www.androidcentral.com/apps-software/youtube-shorts-longer-content-template-details",
+    "description": "YouTube offered insight into what's next for Shorts and community engagement.",
     "author": "",
-    "published": "Wed, 02 Oct 2024 19:59:50 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/GYjGeJAJUAEprxjsBfyysg.jpg",
+    "published": "Thu, 03 Oct 2024 21:06:07 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/oU5namDbUAVCZENPFa4Wrf.jpg",
     "source": "http://feeds.androidcentral.com/androidcentral",
     "categories": [
       "Apps \u0026amp; Software"
     ]
   },
   {
-    "title": "Google Messages on Wear OS could give watches total RCS texting support",
-    "link": "https://www.androidcentral.com/wearables/google-messages-wear-os-rcs-full-support-spotted",
-    "description": "A Google Messages beta showed Google is working to bring total RCS support to Wear OS devices.",
+    "title": "Best smart rings 2024",
+    "link": "https://www.androidcentral.com/wearables/best-smart-rings",
+    "description": "Smart rings are the hot new wearable on the block. Here are our favorite picks!",
     "author": "",
-    "published": "Wed, 02 Oct 2024 19:57:26 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/to9FczSGrrjWUQjNfCZHAm.jpg",
+    "published": "Thu, 03 Oct 2024 19:57:52 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/SWwUbxKG4Mu4RFkesBRxCd.jpg",
     "source": "http://feeds.androidcentral.com/androidcentral",
     "categories": [
       "Wearables"
     ]
   },
   {
-    "title": "October Prime Day Meta Quest deals 2024 — should you wait for Big Deal Days or buy now?",
-    "link": "https://www.androidcentral.com/gaming/virtual-reality/october-prime-day-meta-quest-deals-2024-should-you-wait-for-big-deal-days-or-buy-now",
-    "description": "Thinking about buying a new VR headset this fall? Here's everything we know about Meta Quest deals during October Prime Day 2024.",
+    "title": "Best USB-C charger 2024: Fastest phone chargers for Android and iPhone",
+    "link": "https://www.androidcentral.com/best-usb-c-phone-charger",
+    "description": "Power up your smartphone with these USB-C chargers. Here are the best options for Android or iOS.",
     "author": "",
-    "published": "Wed, 02 Oct 2024 18:17:49 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/snZ3fLKwjauXok7d3vfEuX.jpg",
+    "published": "Thu, 03 Oct 2024 19:56:29 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/A4fRHnJoXJddm7j9ebUgVR.jpg",
     "source": "http://feeds.androidcentral.com/androidcentral",
     "categories": [
-      "Virtual Reality",
-      "Gaming"
+      "Accessories"
     ]
   },
   {
-    "title": "Epic sues Google and Samsung in a new fight about third-party apps",
-    "link": "https://www.androidcentral.com/apps-software/epic-sues-google-and-samsung-anti-competitive-case",
-    "description": "Epic is reportedly suing Google and Samsung due to an \"anti-competitive\" feature on Galaxy devices.",
+    "title": "No service? Spotify's 'offline backup' saves your tunes for a rainy day",
+    "link": "https://www.androidcentral.com/apps-software/spotify-offline-back-up-cache-music-rollout",
+    "description": "Spotify detailed the debut of its \"Offline Backup\" feature for mobile devices without a signal.",
     "author": "",
-    "published": "Wed, 02 Oct 2024 17:16:31 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/ZQy35xwU77WcDvb9Gkc6AF.jpg",
+    "published": "Thu, 03 Oct 2024 19:06:04 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/nS4bjbyKmiSYtyq4VFAYJF.jpeg",
     "source": "http://feeds.androidcentral.com/androidcentral",
     "categories": [
       "Apps \u0026amp; Software"
     ]
   },
   {
-    "title": "Google is making Gemini Nano available for all Android apps",
-    "link": "https://www.androidcentral.com/apps-software/google-is-making-gemini-nano-available-for-all-android-apps",
-    "description": "Android app developers can now get hands-on with Gemini Nano on the Pixel 9 for experimental use.",
+    "title": "I just scored 50% OFF the Motorola Razr Plus (2023) and October Prime Day hasn't even started yet",
+    "link": "https://www.androidcentral.com/phones/i-just-got-50-percent-off-the-motorola-razr-plus-2023-and-october-prime-day-hasnt-even-started-yet",
+    "description": "Best Buy is currently slashing $500 off the Motorola Razr Plus (2023) when you activate the phone on its site. That's half off one of our favorite foldable phones from the past five years!",
     "author": "",
-    "published": "Wed, 02 Oct 2024 15:24:09 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/4sUeciYBZHaLoMa5KiYw7h.jpg",
+    "published": "Thu, 03 Oct 2024 18:55:59 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/3S8QFTpRzPa8aQLkLC4FqX.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Phones"
+    ]
+  },
+  {
+    "title": "One UI 7's stable version is coming with the Galaxy S25 next year",
+    "link": "https://www.androidcentral.com/apps-software/samsung-confirms-one-ui-7-wont-hit-beta-until-end-of-this-year",
+    "description": "Samsung has confirmed that One UI 7 beta won’t roll out until end of this year.",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 18:51:46 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/yFmLhsbp8G89X6TVQ6Twh5.jpg",
     "source": "http://feeds.androidcentral.com/androidcentral",
     "categories": [
       "Apps \u0026amp; Software"
     ]
   },
   {
-    "title": "Netflix and Disney Plus are on a password-sharing crackdown, and families are feeling the pinch",
-    "link": "https://www.androidcentral.com/streaming-tv/netflix-and-disney-plus-are-on-a-password-sharing-crackdown-and-families-are-feeling-the-pinch",
-    "description": "Disney Plus' password-sharing policies are being enforced as of now; here's what you need to know.",
+    "title": "Google brings recording to Lens and floods AI Overviews with ads",
+    "link": "https://www.androidcentral.com/apps-software/google-lens-search-ads-video-function-update",
+    "description": "Google detailed an October update for Lens and Search that brings recording functionality and more ads.",
     "author": "",
-    "published": "Wed, 02 Oct 2024 13:42:58 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/6Ze7QExVFdANRSMf5JVxwE.jpg",
+    "published": "Thu, 03 Oct 2024 18:27:32 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/Ki6VkQ9S5YboYwKkaNYP4W.jpg",
     "source": "http://feeds.androidcentral.com/androidcentral",
     "categories": [
-      "Streaming \u0026amp; TV"
+      "Apps \u0026amp; Software"
+    ]
+  },
+  {
+    "title": "Galaxy S10 phones bricked by recent update, Samsung quickly offers a fix",
+    "link": "https://www.androidcentral.com/phones/galaxy-s10-phones-smartthings-update-boot-loop",
+    "description": "Galaxy S10 owners reported a problem following a recent SmartThings update.",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 18:16:30 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/5CX9DHbzzyXhHkNHnUMcEf.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Phones"
+    ]
+  },
+  {
+    "title": "Does the Samsung Galaxy Tab S10 series support 5G?",
+    "link": "https://www.androidcentral.com/tablets/does-samsung-galaxy-tab-s10-series-support-5g",
+    "description": "Along with Wi-Fi, both sizes of the Samsung Galaxy Tab S10 series tablets come with 5G connectivity options to get online virtually anywhere.",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 17:35:17 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/6j72Dx7E2yDydzZ2tjwR4c.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Tablets"
     ]
   },
   {
@@ -8637,169 +8650,240 @@
     ]
   },
   {
-    "title": "Oura Ring 4 is here with better accuracy, more sizes, and a refreshed app",
-    "link": "https://www.androidpolice.com/oura-ring-4-announced/",
-    "description": "Now in sizes 4, 5, 14, and 15",
-    "author": "Taylor Kerns",
-    "published": "Thu, 03 Oct 2024 07:00:10 GMT",
-    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/10/oura-ring-4-lifestyle-app.jpg",
-    "source": "http://feeds.feedburner.com/AndroidPolice",
-    "categories": [
-      "Oura Ring 4",
-      "Smartwatches \u0026 Wearables"
-    ]
-  },
-  {
-    "title": "Best Samsung Galaxy Tab S10 deals: Save up to $800 with trade-in",
-    "link": "https://www.androidpolice.com/best-samsung-galaxy-tab-s10-deals/",
-    "description": "And score 50% off accessories",
+    "title": "Sony's headphones and earbuds are getting support for Google's Find My Device network",
+    "link": "https://www.androidpolice.com/sony-update-adds-google-find-my-device-network/",
+    "description": "Old dogs learn new tricks",
     "author": "Timi Cantisano",
-    "published": "Thu, 03 Oct 2024 06:45:10 GMT",
-    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/samsung-galaxy-s24-fe-tab-s10-hands-on-05.jpg",
+    "published": "Thu, 03 Oct 2024 23:26:16 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/11/sony-wh-1000xm5-in-case-1.jpg",
     "source": "http://feeds.feedburner.com/AndroidPolice",
     "categories": [
-      "Samsung Galaxy Tab S10 Ultra",
-      "Samsung Galaxy Tab S10+",
-      "deals",
-      "Tablets",
-      "Samsung Galaxy Tab S10",
-      "deals"
+      "Sony WF-1000XM5",
+      "Sony WH-1000XM5",
+      "Find My Device",
+      "Audio",
+      "Find My Device",
+      "Sony WF-1000XM5",
+      "Sony WH-1000XM5"
     ]
   },
   {
-    "title": "Advertisement fans rejoice as Amazon Prime Video promises more disruptive commercials",
-    "link": "https://www.androidpolice.com/great-news-for-fans-of-ads-in-paid-amazon-prime-video/",
-    "description": "At least you still get fast, free shipping. Oh, wait",
-    "author": "Chris Thomas",
-    "published": "Thu, 03 Oct 2024 02:52:52 GMT",
-    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/06/prime-video-hero-1-1.jpg",
-    "source": "http://feeds.feedburner.com/AndroidPolice",
-    "categories": [
-      "Amazon Prime Video",
-      "Advertisements",
-      "Industry",
-      "amazon prime video",
-      "Advertisements"
-    ]
-  },
-  {
-    "title": "Samsung's Galaxy Watch 4 Classic plummets to an all-time low at just $79",
-    "link": "https://www.androidpolice.com/galaxy-watch-4-classic-79-deal/",
-    "description": "An oldie but a goodie",
-    "author": "Timi Cantisano",
-    "published": "Thu, 03 Oct 2024 00:31:53 GMT",
-    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/169-1.png",
-    "source": "http://feeds.feedburner.com/AndroidPolice",
-    "categories": [
-      "Galaxy Watch 4 Classic",
-      "deals",
-      "Smartwatches \u0026 Wearables",
-      "Galaxy Watch 4 Classic",
-      "deals"
-    ]
-  },
-  {
-    "title": "Boost Mobile: Are you actually saving money with a phone and service bundle?",
-    "link": "https://www.androidpolice.com/boost-mobile-saving-money-with-a-phone-and-service-bundle/",
-    "description": "Orange is the new magenta",
-    "author": "Samuel Contreras",
-    "published": "Wed, 02 Oct 2024 23:48:10 GMT",
-    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/09/boost-mobile-plans-page-feature.jpg",
-    "source": "http://feeds.feedburner.com/AndroidPolice",
-    "categories": [
-      "Boost Mobile",
-      "Dish",
-      "data plans",
-      "Carriers",
-      "Boost Mobile",
-      "Dish",
-      "Data Plans"
-    ]
-  },
-  {
-    "title": "Gemini 1.5 Pro wants to help you explore topics with thoughtful conversations",
-    "link": "https://www.androidpolice.com/gemini-pro-002/",
-    "description": "Gemini just got a big update",
+    "title": "Get ready for One UI on your Samsung smart TV",
+    "link": "https://www.androidpolice.com/one-ui-tv/",
+    "description": "Also your fridge",
     "author": "Nathan Drescher",
-    "published": "Wed, 02 Oct 2024 22:44:55 GMT",
-    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/img_5687.jpg",
+    "published": "Thu, 03 Oct 2024 23:03:42 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/08/one-ui-7-samsung-ap24-hero-1.jpg",
     "source": "http://feeds.feedburner.com/AndroidPolice",
     "categories": [
-      "Google Gemini",
-      "AI \u0026 Machine Learning",
-      "Google Gemini"
-    ]
-  },
-  {
-    "title": "Samsung's next mainstream budget phone just had all its specs spoiled",
-    "link": "https://www.androidpolice.com/samsung-a16-budget-phone-spec-leak/",
-    "description": "Samsung's Galaxy A15 successor, the Galaxy A16, is reported to offer a bigger display and six years of OS updates",
-    "author": "Karandeep Singh Oberoi",
-    "published": "Wed, 02 Oct 2024 22:42:30 GMT",
-    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/04/img_2457.jpg",
-    "source": "http://feeds.feedburner.com/AndroidPolice",
-    "categories": [
-      "Samsung Galaxy A15 5G",
+      "One UI",
       "Samsung",
-      "Phones",
-      "Samsung Galaxy A15 5G",
+      "Operating Systems",
+      "One UI",
       "Samsung"
     ]
   },
   {
-    "title": "Turns out Meta's smart glasses were actually holding back on their spying potential",
-    "link": "https://www.androidpolice.com/meta-smart-glasses-spying-potential/",
-    "description": "You won't believe it until you see it",
-    "author": "Timi Cantisano",
-    "published": "Wed, 02 Oct 2024 22:39:44 GMT",
-    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/11/ray-ban-meta-review-android-police-5.jpg",
+    "title": "YouTube will soon let creators tell longer stories within the Shorts format",
+    "link": "https://www.androidpolice.com/youtube-shorts-video-duration-bump/",
+    "description": "YouTube is bumping Shorts' duration to 3 minutes",
+    "author": "Karandeep Singh Oberoi",
+    "published": "Thu, 03 Oct 2024 22:51:39 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/06/youtube-shorts-2-ap24-hero.jpg",
     "source": "http://feeds.feedburner.com/AndroidPolice",
     "categories": [
-      "Ray-Ban Meta",
-      "Ray-Ban Meta Smart Glasses",
-      "Gadgets"
-    ]
-  },
-  {
-    "title": "You can finally get Mozilla Thunderbird on your Android phone",
-    "link": "https://www.androidpolice.com/thunderbird-android-app/",
-    "description": "All essential features included",
-    "author": "Nathan Drescher",
-    "published": "Wed, 02 Oct 2024 22:00:49 GMT",
-    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/thunderbird-beta-android.jpg",
-    "source": "http://feeds.feedburner.com/AndroidPolice",
-    "categories": [
-      "Email",
+      "youtube",
+      "Google",
       "Applications",
-      "Email"
+      "YouTube",
+      "Google"
     ]
   },
   {
-    "title": "Xreal Beam Pro review: A small spatial computer at a reasonable price",
-    "link": "https://www.androidpolice.com/xreal-beam-pro-review/",
-    "description": "Compact and convenient, but is it necessary?",
-    "author": "Nirave Gondhia",
-    "published": "Wed, 02 Oct 2024 22:00:10 GMT",
-    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/xreal-beam-pro-13-1.jpg",
+    "title": "Apple CarPlay: 11 common problems you can fix in minutes",
+    "link": "https://www.androidpolice.com/common-apple-carplay-problems-solutions/",
+    "description": "From CarPlay failing to connect to Siri failing to respond, this guide will walk you through the steps to fix the most common CarPlay problems.",
+    "author": "Brady Snyder",
+    "published": "Thu, 03 Oct 2024 22:32:10 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/apple-carplay-iphone.jpg",
     "source": "http://feeds.feedburner.com/AndroidPolice",
     "categories": [
-      "Xreal",
-      "Xreal Beam Pro",
-      "Phones"
+      "CarPlay",
+      "Apple",
+      "Operating Systems",
+      "Apple"
     ]
   },
   {
-    "title": "Android 15 GApps Download",
-    "link": "https://cyanogenmods.org/android-15-gapps-download/",
-    "description": "Android 15 source code has been released and you will see custom ROMs such as the LineageOS 22, etc. for several phones in the coming months. Google Apps or GApps for Android 15 is needed to be installed separately after flashing or installing a custom ROM like LineageOS 22 based on Android 15. Now a ... Read more",
+    "title": "Your WhatsApp Status is getting more personal with likes and private mentions",
+    "link": "https://www.androidpolice.com/whatsapps-updates/",
+    "description": "Latest update rolling out to everyone",
+    "author": "Nathan Drescher",
+    "published": "Thu, 03 Oct 2024 22:25:05 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-4-ap24-hero.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "WhatsApp",
+      "Applications",
+      "WhatsApp"
+    ]
+  },
+  {
+    "title": "The best Android game controller you can buy is now at an all-time low price",
+    "link": "https://www.androidpolice.com/the-best-android-game-controller-you-can-buy/",
+    "description": "Grab it for an absolute steal",
+    "author": "Timi Cantisano",
+    "published": "Thu, 03 Oct 2024 22:00:51 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/10/169-2.png",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "game controller",
+      "deals",
+      "Accessories",
+      "game controller",
+      "deals"
+    ]
+  },
+  {
+    "title": "Review: The Eureka J20's innovative mopping system is key to its powerful performance",
+    "link": "https://www.androidpolice.com/eureka-j20-review/",
+    "description": "Great features with some downsides",
+    "author": "Hagop Kavafian",
+    "published": "Thu, 03 Oct 2024 22:00:10 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/eureka-j20-front-1.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Eureka J20",
+      "Robot Vacuum",
+      "Smart Home",
+      "Robot Vacuums"
+    ]
+  },
+  {
+    "title": "Google just set a new standard for baseband security with the Pixel 9",
+    "link": "https://www.androidpolice.com/google-baseband-pixel-9/",
+    "description": "It's a fortress against cellular attacks",
+    "author": "Nathan Drescher",
+    "published": "Thu, 03 Oct 2024 21:41:41 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/pixel-9-pro-xl-water.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Google Pixel 9",
+      "security",
+      "Phones",
+      "Google Pixel 9",
+      "Security"
+    ]
+  },
+  {
+    "title": "The Google Pixel 9a could hit store shelves earlier than usual",
+    "link": "https://www.androidpolice.com/google-might-be-targeting-a-march-launch-for-the-pixel-9a/",
+    "description": "The Pixel 9a is said to be on the fast track",
+    "author": "Jay Bonggolto",
+    "published": "Thu, 03 Oct 2024 20:53:34 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/05/google-pixel-8a-review-04.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Google Pixel 9a",
+      "Phones",
+      "Google Pixel 9a"
+    ]
+  },
+  {
+    "title": "How to Update Redmi Note 10 Pro to Android 12 (Custom ROM Build)",
+    "link": "https://cyanogenmods.org/redmi-note-10-pro-android-12-2/",
+    "description": "The latest Android 12 has been released and the same is now available for Redmi Note 10 Pro via an Android 12 custom ROM update build. This is a step-by-step guide that explains how to update Redmi Note 10 Pro to Android 12. [su_note note_color=”#F9D9D9″ text_color=”#AA4343″ radius=”3″ class=”” id=””]DISCLAIMER: Installing a custom ROM requires advanced ... Read more",
     "author": "Siba",
-    "published": "Wed, 25 Sep 2024 15:31:37 +0000",
+    "published": "Thu, 03 Oct 2024 17:46:30 +0000",
     "image": "",
     "source": "https://www.cyanogenmods.org/feed",
     "categories": [
-      "GApps",
+      "Android 12",
+      "Redmi Note 10 Pro",
+      "Xiaomi"
+    ]
+  },
+  {
+    "title": "Verizon Message+ is Shutting Down",
+    "link": "https://www.droid-life.com/2024/10/03/verizon-message-is-shutting-down/",
+    "description": "Verizon has had a text message app called Verizon Messages, that everyone referred to as Verizon Message+, for at least 8 years. The app isn’t something I ever considered using, as it has always been a bit behind in terms of UI trends, but it has at least 100 million downloads on Google Play. It’s … Continued Read the original post: Verizon Message+ is Shutting Down",
+    "author": "Kellen",
+    "published": "Thu, 03 Oct 2024 19:25:45 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/10/Verizon-980x652.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Apps",
+      "News",
+      "Google Messages",
+      "Verizon",
+      "Verizon Messages"
+    ]
+  },
+  {
+    "title": "DEAL: Galaxy Tab S10 Ultra Down to $399 With Eligible Trade-in ($800 Off)",
+    "link": "https://www.droid-life.com/2024/10/03/deal-galaxy-tab-s10-ultra-down-to-399-with-eligible-trade-in-800-off/",
+    "description": "Last week, Samsung made its newest line of Galaxy Tabs official. This week, they are now up for sale on the company’s website, and naturally, you can get some pretty great savings should you opt to buy them while they’re fresh. Max Savings: To get the best deal on the latest Galaxy Tab S10 Ultra, … Continued Read the original post: DEAL: Galaxy Tab S10 Ultra Down to $399 With Eligible Trade-in ($800 Off)",
+    "author": "Tim",
+    "published": "Thu, 03 Oct 2024 19:23:58 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/09/Galaxy-Tab-S10-Ultra-1-980x624.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "News",
+      "Deals",
+      "Galaxy Tab S10 Plus",
+      "Galaxy Tab S10 Ultra",
+      "Samsung"
+    ]
+  },
+  {
+    "title": "Samsung’s One UI 7 Won’t Hit Beta Until “End of This Year” (Updated)",
+    "link": "https://www.droid-life.com/2024/10/03/samsungs-one-ui-7-wont-hit-beta-until-end-of-this-year/",
+    "description": "Google offered up Android 15 in several preview and beta forms for a good chunk of 2024 before pushing it to AOSP at the beginning of September. While they didn’t release it for Pixel phones at that same time, they told us to expect it within the “coming weeks,” which we all assumed meant October. … Continued Read the original post: Samsung’s One UI 7 Won’t Hit Beta Until “End of This Year” (Updated)",
+    "author": "Kellen",
+    "published": "Thu, 03 Oct 2024 17:33:56 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/02/Samsung-Galaxy-S24-Galaxy-AI-3-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Featured",
+      "News",
       "Android 15",
-      "LiteGApps"
+      "Android Beta",
+      "Galaxy S24",
+      "Galaxy S24 Plus",
+      "Galaxy S24 Ultra",
+      "One UI",
+      "Samsung"
+    ]
+  },
+  {
+    "title": "Oura Ring 4 Official at $349 With Improvements Everywhere, Redesigned App",
+    "link": "https://www.droid-life.com/2024/10/03/oura-ring-4-official-at-349-with-improvements-everywhere-redesigned-a/",
+    "description": "Smart rings are a hot health tracking item at the moment and that’s mostly because Samsung has finally entered the arena. There are other players, though, one of which has been in the game for a number of years and has released multiple generations of its products. I’m talking about Oura, the smart ring maker … Continued Read the original post: Oura Ring 4 Official at $349 With Improvements Everywhere, Redesigned App",
+    "author": "Kellen",
+    "published": "Thu, 03 Oct 2024 17:14:41 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/10/Oura-Ring-Gen-4-1-980x686.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "News",
+      "Oura",
+      "Oura Ring"
+    ]
+  },
+  {
+    "title": "Gemini Live Will Soon Support More Than 40 Different Languages",
+    "link": "https://www.droid-life.com/2024/10/03/gemini-live-will-soon-support-more-than-40-different-languages/",
+    "description": "The Gemini team announced this morning that Gemini Live will soon support over 40 different languages, with different some language support starting today. This news follows the confirmation that Gemini Live is now available for all English users on Android, completely free of charge. Specifically, Google lists French, German, Portuguese, Hindi, and Spanish as languages … Continued Read the original post: Gemini Live Will Soon Support More Than 40 Different Languages",
+    "author": "Tim",
+    "published": "Thu, 03 Oct 2024 15:10:58 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/09/Google-Messages-Gemini-1-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Apps",
+      "News",
+      "Android",
+      "Gemini",
+      "Gemini Live",
+      "Google"
     ]
   },
   {
@@ -8963,84 +9047,159 @@
     ]
   },
   {
-    "title": "World of Warcraft Comes to Waze, Which is Just Plain Fun",
-    "link": "https://www.droid-life.com/2024/09/30/world-of-warcraft-comes-to-waze-which-is-just-plain-fun/",
-    "description": "The original Warcraft games have a special place in my heart. My older brother owned them and I would sometimes sneak onto his computer to play as the horde. I just thought the trolls throwing axes were so badass. Anyway, an all new World of Warcraft experience is coming to Waze, complete with Warchief Thrall, … Continued Read the original post: World of Warcraft Comes to Waze, Which is Just Plain Fun",
-    "author": "Tim",
-    "published": "Mon, 30 Sep 2024 15:32:18 +0000",
-    "image": "https://www.droid-life.com/wp-content/uploads/2024/09/Waze-WoW-980x653.jpg",
-    "source": "https://www.droid-life.com/feed",
+    "title": "YouTube Shorts are getting longer",
+    "link": "https://www.gsmarena.com/youtube_shorts_are_getting_longer-news-64786.php",
+    "description": "YouTube Shorts are getting longer. Starting on October 15, you can create Shorts that are up to 3 minutes long. This was apparently a top requested feature, and now it's almost here. The change obviously won't affect any videos uploaded before October 15, and applies to videos that are square or taller in aspect ratio. YouTube says it will also work hard to improve recommendations for longer Shorts \"in the coming months\". Shorts are also getting templates, which you can try by tapping Remix on a Short and then selecting Use this template. And, \"in the coming months\", you'll be able...",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 02:56:01 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
     "categories": [
-      "Apps",
-      "News",
-      "Google",
-      "Waze"
+      "news"
     ]
   },
   {
-    "title": "Weekly Recap: Pixel 9 Pro Fold Review, Update Bricking Pixel Watches",
-    "link": "https://www.droid-life.com/2024/09/27/weekly-recap-pixel-9-pro-fold-review-update-bricking-pixel-watches/",
-    "description": "It was another busy week for us, filled with reviews, new Samsung devices, as well as smartwatch updates. The highlights are of course our Pixel 9 Pro Fold review, Pixel Buds 2 Pro review, as well as our first impressions post on the new Google TV Streamer device. Props to Kellen for knocking all of … Continued Read the original post: Weekly Recap: Pixel 9 Pro Fold Review, Update Bricking Pixel Watches",
-    "author": "Tim",
-    "published": "Fri, 27 Sep 2024 20:41:17 +0000",
-    "image": "https://www.droid-life.com/wp-content/uploads/2024/09/Pixel-9-Pro-Fold-Review-15-980x653.jpg",
-    "source": "https://www.droid-life.com/feed",
+    "title": "Samsung phones will unlock your door with a tap, or even hands-free",
+    "link": "https://www.gsmarena.com/samsung_phones_will_unlock_your_door_with_a_tap_or_even_handsfree-news-64785.php",
+    "description": "Samsung smartphones will, from next year, be able to unlock smart locks with just a tap - or not even that, by going hands-free using UWB. The tap to unlock functionality will use NFC instead, as you may have expected. Samsung users will thus become on par with iPhone owners, who have had the ability to unlock smart locks in a fiddle-free way already. Samsung will support the new Aliro smart lock standard and add it to its Wallet's Digital Home Key. When that happens, tap to unlock and hands-free unlocking will become a reality, and both of these can work locally between your phone...",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 00:43:02 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
     "categories": [
-      "News",
-      "Android",
-      "Weekly Recap"
+      "news"
     ]
   },
   {
-    "title": "Gmail’s Smart Reply Gemini Injection Now Live",
-    "link": "https://www.droid-life.com/2024/09/27/gmails-smart-reply-gemini-injection-now-live/",
-    "description": "Gmail’s Smart Reply feature has received its Gemini upgrade this week, just like Google said it would earlier this month. Now, when supported users go to respond to an email, they will be prompted with contextually aware replies to use via Gemini. “After initiating an email reply, users will see a few response options at … Continued Read the original post: Gmail’s Smart Reply Gemini Injection Now Live",
-    "author": "Tim",
-    "published": "Fri, 27 Sep 2024 18:01:44 +0000",
-    "image": "https://www.droid-life.com/wp-content/uploads/2024/09/Google-Messages-Gemini-3-980x653.jpg",
-    "source": "https://www.droid-life.com/feed",
+    "title": "Google Pixel 9a to get an early launch",
+    "link": "https://www.gsmarena.com/google_pixel_9a_to_get_an_early_launch-news-64784.php",
+    "description": "The Pixel 9 family was launched back in August, around two months earlier than Google's previous events took place in past years. But the family still isn't complete - the Pixel 9a is left to join it. And it will do so sooner than you may have expected, according to a new rumor. The Pixel 9a will be available for pre-order in mid-March, multiple sources have allegedly said. This is about - you guessed it - two months early compared to previous a series releases which took place around Google I/O in May. Google Pixel 9a leaked CAD-based render The Pixel 9a is then said to ship and...",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 22:59:01 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
     "categories": [
-      "News",
-      "Android",
-      "Gemini",
-      "Gmail",
-      "Smart Reply"
+      "news"
     ]
   },
   {
-    "title": "Pixel Watch’s Wear OS 5 Update Pulled Following Soft Bricks",
-    "link": "https://www.droid-life.com/2024/09/27/pixel-watchs-wear-os-5-update-pulled-following-soft-bricks/",
-    "description": "We are seeing reports that Google has pulled the Wear OS 5 update for Pixel Watch and Pixel Watch 2 owners, following an issue with the software that is essentially bricking devices for a small number of users. We sadly even have one of our own readers experiencing the issue. Thankfully for users, the issue … Continued Read the original post: Pixel Watch’s Wear OS 5 Update Pulled Following Soft Bricks",
-    "author": "Tim",
-    "published": "Fri, 27 Sep 2024 15:52:08 +0000",
-    "image": "https://www.droid-life.com/wp-content/uploads/2023/06/Pixel-Watch-5-980x653.jpg",
-    "source": "https://www.droid-life.com/feed",
+    "title": "Gemini Live will be available in more than 40 languages",
+    "link": "https://www.gsmarena.com/gemini_live_will_be_available_in_more_than_40_languages-news-64780.php",
+    "description": "Google's Gemini Live conversational AI experience recently became available to everyone for free, and now the company has announced another development for this specific service. Starting today and \"rolling out over the coming weeks\", the conversational Gemini Live will suport more than 40 languages. Gemini Live supports conversations in up to two languages on the same device, and there are plans to expand this to more languages in the future. Unfortunately, Google hasn't shared a list of the 40+ languages Gemini Live will be available in soon, at least not yet. Before...",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 20:21:01 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
     "categories": [
-      "News",
-      "Android",
-      "Pixel Watch",
-      "Pixel Watch 2",
-      "Wear OS"
+      "news"
     ]
   },
   {
-    "title": "Pixel 9 Pro Fold Review: An Excellent Foldable That’s Tempting Me",
-    "link": "https://www.droid-life.com/2024/09/26/pixel-9-pro-fold-review-an-excellent-foldable-thats-tempting-me/",
-    "description": "Google certainly went big this year when it comes to smartphone releases and choices. Not only did they give us a Pixel 9, Pixel 9 Pro, and Pixel 9 Pro XL, we’ve got a 4th option – they gave us their newest foldable, the Pixel 9 Pro Fold. This is Google’s follow-up to the original … Continued Read the original post: Pixel 9 Pro Fold Review: An Excellent Foldable That’s Tempting Me",
-    "author": "Kellen",
-    "published": "Thu, 26 Sep 2024 22:33:23 +0000",
-    "image": "https://www.droid-life.com/wp-content/uploads/2024/09/Pixel-9-Pro-Fold-Review-10-980x653.jpg",
-    "source": "https://www.droid-life.com/feed",
+    "title": "The Samsung Galaxy S24 FE, Galaxy Tab S10+ and Tab S10 Ultra are now available around the world",
+    "link": "https://www.gsmarena.com/the_samsung_galaxy_s24_fe_galaxy_tab_s10_and_tab_s10_ultra_are_now_available_around_the_world-news-64782.php",
+    "description": "Samsung’s September 26 event introduced a new Galaxy S FE phone and two new premium tablets in the Tab S10 line, all of which went on pre-order immediately after the event. Here we are a week later and that’s over with – the new phone and tablets are now widely available around the world. The Samsung Galaxy S24 FE is equipped with the largest display in the series yet, 6.7”, and a slightly dialed back version of the Exynos 2400 chipset dubbed ‘2400e’, which is used globally (no regional variations this time). This chip shows promise in early benchmarks. We spent some hands-on time with the...",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 19:41:02 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
     "categories": [
-      "Editor's Choice",
-      "Featured",
-      "News",
-      "Phones",
-      "Reviews",
-      "Google",
-      "Pixel 9 Pro",
-      "Pixel 9 Pro Fold",
-      "Review"
+      "news"
+    ]
+  },
+  {
+    "title": "Apple iPhone 16 Pro review",
+    "link": "https://www.gsmarena.com/apple_iphone_16_pro-review-2752.php",
+    "description": "",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 19:11:08 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "reviews"
+    ]
+  },
+  {
+    "title": "Spotify Offline Backup automatically creates a playlist for when you're out of reach",
+    "link": "https://www.gsmarena.com/spotify_offline_backup_automatically_creates_a_playlist_for_when_youre_out_of_reach-news-64779.php",
+    "description": "Today Spotify is launching what it thinks is a solution to the problem of having forgotten to download your favorite playlist before hopping on a plane with no Wi-Fi. What to do? Well, there's nothing you need to do, as Spotify is taking care of things. If you have Premium, that is. With Offline Backup, the app will automatically create a playlist that's going to be available on your device, so you can listen to it even when you're out of reach. It includes your recently streamed and queued tracks, tracks that are already cached on your device. You can filter and sort songs in the...",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 18:06:01 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "title": "Oppo Find X8 series will remove reflections from your pictures",
+    "link": "https://www.gsmarena.com/oppo_find_x8_series_will_remove_reflections_from_your_pictures-news-64783.php",
+    "description": "Oppo keeps teasing its upcoming Find X8 series, and today a company exec announced a useful feature the devices would have. They will be able to remove reflections from your photos. You can take a look at the video below to see the process in action. There are also before and after images below, so you can see how well this actually works in practice. When capturing things through glass, reflections are always a possibility, but for owners of the upcoming Find X8 devices this won't be any issue at all, thanks to this feature. Reflection removal: before (left) and...",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 17:09:01 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "title": "Windows 11 24H2 update now rolling out with Wi-Fi 7 support, Recall and plenty of AI features",
+    "link": "https://www.gsmarena.com/windows_11_24h2_update_now_rolling_out_with_wifi_7_support_recall_and_plenty_of_ai_features-news-64778.php",
+    "description": "Microsoft has started rolling out the Windows 11 24H2 update, which is known simply as “Windows 11 2024 update”. This version improves security, brings new connectivity options and adds more AI capabilities to Copilot+ PCs. One handy change is that the Quick Settings is now a scrollable list, which you can customize by reordering the various options. The Wi-Fi selection UI has a Refresh button, so that you can easily re-scan for nearby networks. If your PC has the right hardware, this update adds Wi-Fi 7 support for much faster data transfers. Additionally, Windows 11 now works with...",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 15:53:02 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "title": "Samsung Galaxy S24 FE hands-on",
+    "link": "https://www.gsmarena.com/samsung_galaxy_s24_fe_handson-news-64775.php",
+    "description": "The Samsung Galaxy S FE was once a will-they-won't-they affair, but it is now an established early autumn release by Samsung that is hotly anticipated by Galaxy fans (especially those in North America). 2024's model brings upgrades in display, battery, and processing power that in turn opens the door for AI. And now that we spent some time with it here are our first impressions. It shouldn't come as a surprise that the Galaxy S24 FE looks like the Galaxy S24 and S24+. It packages a flat aluminum frame between two layers of Corning Gorilla Victus+. The three independent camera rings...",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 14:57:01 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "title": "Samsung US drops Galaxy Z Fold6 to just $1,200, if you pick one of the exclusive colors",
+    "link": "https://www.gsmarena.com/samsung_us_drops_galaxy_z_fold6_price_to_just_1200_if_you_pick_one_of_the_exclusive_colors-news-64777.php",
+    "description": "As you may know, Galaxy flagships often have exclusive color options that are available through Samsung.com and no other retailer. For the Samsung Galaxy Z Fold6, for example, they are White and Crafted Black (the latter has a carbon fiber look to it). Normally, the exclusive colors cost the same as the others – but not today. You can have the Galaxy Z Fold6 in White or Crafted Black for $300 less than the other colorways. This stacks with the $400 straight discount that Samsung US is offering if you choose not to trade-in. This $700 total discount applies to the 256GB model, which...",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 13:59:02 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "title": "Oura Ring 4 announced: sleeker design, updated sensors and redesigned app",
+    "link": "https://www.gsmarena.com/oura_ring_4_announced_sleeker_design_updated_sensors_and_redesigned_app_-news-64774.php",
+    "description": "The Oura Ring 4 is now official and it brings a slew of improvements compared to the outgoing Gen3 version from three years ago. Oura Ring 4 features a fully titanium exterior and interior ditching the epoxy interior of its predecessor. The new device is 2.88mm thick and weighs between 3.3 and 5.2 grams depending on the ring size. It is also water resistant up to 100m. The sensors inside are a lot slimmer measuring just 0.3mm compared to 1.3mm on the Ring Gen 3 and they don’t stick out. And while the sensors have shrunk, Oura is promising improved accuracy. Oura claims a 120%...",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 12:09:02 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "title": "Teardowns of new AirPods show no major repairability gains",
+    "link": "https://www.gsmarena.com/teardowns_of_new_airpods_show_no_major_repairability_gains_-news-64772.php",
+    "description": "Apple announced its AirPods 4 and AirPods Max with USB-C last month and the team over at iFixt has now shared their teardowns. Long story short, neither of the new AirPods offers improvements in terms of repairability. The small AirPods 4 require a specialized jig holder that keeps them in place while a heat gun helps loosen the adhesive to open up the top half of the buds. AirPods 4 teardown (iFixit) We can then see the speaker and battery components surrounded by heaps of glue. Opening up the bottom of the stem is a lot more challenging and requires a knife to cut...",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 10:31:01 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
     ]
   },
   {
@@ -9128,159 +9287,111 @@
     ]
   },
   {
-    "title": "Wear OS watches might soon be able to send RCS messages without your phone's help",
-    "link": "https://www.gsmarena.com/wear_os_watches_might_soon_be_able_to_send_rcs_messages_without_your_phones_help-news-64765.php",
-    "description": "Google has been pressing Apple to adopt RCS for years and even when Cupertino relented (perhaps when it became clear that the EU would get involved), Google still had the audacity to poke fun at Apple. But maybe Google should be focusing on its own garden instead of trying to be humorous. Did you know that Wear OS smartwatches with LTE cannot send RCS messages? Well, they can’t – RCS messaging from the watch only works when it is connected to a phone. That will change with an upcoming update to the Messages app. In a teardown of Google Messages v20240926 beta, the Android Authority team...",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 15:05:01 +0200",
-    "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "title": "This Deal Takes 10% OFF the OnePlus Watch 2!",
+    "link": "https://phandroid.com/2024/10/03/this-deal-takes-10-off-the-oneplus-watch-2/",
+    "description": "Grab OnePlus's flagship wearable for much less! The post This Deal Takes 10% OFF the OnePlus Watch 2! appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Thu, 03 Oct 2024 20:13:14 +0000",
+    "image": "https://m.media-amazon.com/images/I/41pr60DXwYL.jpg",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
     "categories": [
-      "news"
+      "Deals",
+      "Devices",
+      "amazon deals",
+      "oneplus watch 2"
     ]
   },
   {
-    "title": "Sony unveils LinkBuds Open with open design, LinkBuds Fit replace the LinkBuds S",
-    "link": "https://www.gsmarena.com/sony_unveils_linkbuds_open_with_open_design_linkbuds_fit_replace_the_linkbuds_s-news-64762.php",
-    "description": "Sony’s innovative open air LinkBuds have a sequel and so do the closed LinkBuds S. The new models are simply called LinkBuds Open and LinkBuds Fit. There is a speaker too (which makes a lot of sense, we’ll get to it). Sony LinkBuds Open The Sony LinkBuds Open have been redesigned for a more comfortable fit with the Air Fitting Supporters that allow you to wear them all day. Their open design allows you to hear ambient sounds and conversations instead of faking it with the ANC system. Not having your ear canal plugged up with a rubber tip also helps with long wear...",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 11:58:01 +0200",
-    "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "title": "Save up to $70 on the Amazon Fire HD 10 Tablet!",
+    "link": "https://phandroid.com/2024/10/03/save-up-to-70-on-the-amazon-fire-hd-10-tablet/",
+    "description": "Go big with Amazon's 10-inch tablet. The post Save up to $70 on the Amazon Fire HD 10 Tablet! appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Thu, 03 Oct 2024 20:11:05 +0000",
+    "image": "https://m.media-amazon.com/images/I/41XPxxyICOL.jpg",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
     "categories": [
-      "news"
+      "Deals",
+      "Devices",
+      "amazon deals",
+      "fire hd 10"
     ]
   },
   {
-    "title": "Oppo Find X8 breaks cover yet again",
-    "link": "https://www.gsmarena.com/oppo_find_x8_breaks_cover_yet_again-news-64761.php",
-    "description": "Oppo is looking to launch its Find X8 series flagship smartphones later this month in China and while we wait for the announcement, an image of the Find X8 has emerged revealing its design. We can see the back of the phone which houses a substantial camera island with what appears to be three camera sensors. Oppo Find X8 This is not the first sighting of the Find X8 in the wild. We’ve also seen it on two separate occasions but it was encased in a protective shell both times. Oppo is expected to launch at least three Find X8 versions with a vanilla, a Pro, and an Ultra. As per...",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 11:00:02 +0200",
-    "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "title": "Sony Unleashes a Wave of New Linkbuds Gear",
+    "link": "https://phandroid.com/2024/10/03/sony-unleashes-a-wave-of-new-linkbuds-gear/",
+    "description": "Meet the LinkBuds Fit, LinkBuds Open, and LinkBuds Speaker. The post Sony Unleashes a Wave of New Linkbuds Gear appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Thu, 03 Oct 2024 20:07:14 +0000",
+    "image": "https://phandroid.com/wp-content/uploads/2024/10/sony-linkbuds-2024-2.png",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
     "categories": [
-      "news"
+      "Accessories",
+      "Devices",
+      "linkbuds fit",
+      "linkbuds open",
+      "linkbuds speaker",
+      "Sony"
     ]
   },
   {
-    "title": "Gurman: Apple to launch new iPhone SE in 2025 with no home button",
-    "link": "https://www.gsmarena.com/gurman_apple_to_launch_new_iphone_se_in_2025_with_no_home_button-news-64760.php",
-    "description": "Apple is working on a new iPhone SE and will launch the affordable device in early 2025. The information comes from Bloomberg's Mark Gurman, who added that two new iPad Air models are also coming with an updated version of the Magic Keyboard. Time to say goodbye to the Home button The fourth iPhone SE will be based on the iPhone 14. This means Apple will ditch the home button and add Face ID. The phone should have one of the company's more recent chipsets, which means it might also get Apple Intelligence. Plans for 2025 also include revamped Mac minis, updated MacBook Pros...",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 10:00:01 +0200",
+    "title": "Looks like the Pixel 9a Might Arrive Earlier than Expected",
+    "link": "https://phandroid.com/2024/10/03/looks-like-the-pixel-9a-might-arrive-earlier-than-expected/",
+    "description": "Google might shake things up next year. The post Looks like the Pixel 9a Might Arrive Earlier than Expected appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Thu, 03 Oct 2024 19:39:25 +0000",
     "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
     "categories": [
-      "news"
+      "Devices",
+      "Smartphones",
+      "google pixel 9a",
+      "pixel 9a leaks"
     ]
   },
   {
-    "title": "Lava Agni 3's design and colors revealed",
-    "link": "https://www.gsmarena.com/lava_agni_3_design_colors-news-64759.php",
-    "description": "Lava will launch the Agni 3 on October 4, and a video teaser recently shared by Lava gave us a glimpse of the Agni 3, which is reminiscent of the Xiaomi Mi 11 Ultra. Now, Lava has dropped one more teaser, giving us our best look at the Lava Agni 3. It also shows the smartphone in two colors. You can watch it below. Lava is yet to detail the Agni 3's specs sheet, but the Indian handset maker previously confirmed the smartphone would come with the Dimensity 7300X SoC, a customizable Action Key, and Dolby Atmos. The triple camera setup on the rear would include a 50MP primary camera...",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 07:40:01 +0200",
+    "title": "Google Wants to Expand Gemini Live for More Languages",
+    "link": "https://phandroid.com/2024/10/03/google-wants-to-expand-gemini-live-for-more-languages/",
+    "description": "Expanded language support arrives for Gemini Live. The post Google Wants to Expand Gemini Live for More Languages appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Thu, 03 Oct 2024 19:31:24 +0000",
     "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
     "categories": [
-      "news"
+      "Apps",
+      "Software",
+      "ai",
+      "gemini live",
+      "Google"
     ]
   },
   {
-    "title": "Redmi Note 14 Pro+ joins the AnTuTu chart for September",
-    "link": "https://www.gsmarena.com/redmi_note_14_pro_joins_the_antutu_chart_for_september-news-64758.php",
-    "description": "On the first day of each month AnTuTu publishes two charts for the previous months, one showing the best performing top of the line smartphones, the other focusing on upper-midrange devices. October is upon us, so let's see what the situation in the charts is for September. The Red Magic 9S Pro+ has topped the high-end chart once again, while the Asus ROG Phone 8 Pro has managed to climb to second place. It's followed by the Redmi K70, iQOO Neo9S Pro+, iQOO Neo9S Pro, iQOO Z9 Turbo+, iQOO 12, vivo X100, OnePlus 12, and OnePlus Ace 3 Pro. Compared to August, the vivo X100 Ultra and...",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 05:59:01 +0200",
+    "title": "Spotify introduces new Offline Backup playlist feature",
+    "link": "https://phandroid.com/2024/10/03/spotify-introduces-new-offline-backup-playlist-feature/",
+    "description": "It looks like Spotify has decided to roll out a new feature for Premium users called Offline Backup that will work without the internet. The post Spotify introduces new Offline Backup playlist feature appeared first on Phandroid.",
+    "author": "Tyler Lee",
+    "published": "Thu, 03 Oct 2024 12:19:42 +0000",
     "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
     "categories": [
-      "news"
+      "News",
+      "Entertainment",
+      "Music",
+      "Spotify"
     ]
   },
   {
-    "title": "OnePlus is banned from selling smartphones in Germany yet again",
-    "link": "https://www.gsmarena.com/oneplus_banned_from_selling_in_germany_yet_again-news-64757.php",
-    "description": "OnePlus (and its parent Oppo) were embroiled in a very protracted patent dispute with Nokia in the past, which at one point saw OnePlus and Oppo devices banned from sale in Germany (and this only ended a few months ago), and now unfortunately history repeats itself. Though this time the problem isn't with Nokia, it's also a patent dispute, with InterDigital, over key patents for 5G and other mobile technologies. And that sounds pretty similar to what the Nokia kerfuffle was all about. The OnePlus 12 is among the victims OnePlus' online store in Germany once again has no smartphones...",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 04:31:02 +0200",
-    "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "title": "Best Samsung Galaxy Tab S10 Plus cases",
+    "link": "https://phandroid.com/2024/10/03/best-samsung-galaxy-tab-s10-plus-cases/",
+    "description": "Keep your Samsung Galaxy Tab S10 Plus safe and protected with these cases. The post Best Samsung Galaxy Tab S10 Plus cases appeared first on Phandroid.",
+    "author": "Ajit Singh",
+    "published": "Thu, 03 Oct 2024 11:30:57 +0000",
+    "image": "https://m.media-amazon.com/images/I/41sGXUrjbwL.jpg",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
     "categories": [
-      "news"
-    ]
-  },
-  {
-    "title": "More Google Pixel 9a details leak",
-    "link": "https://www.gsmarena.com/more_google_pixel_9a_details_leak-news-64756.php",
-    "description": "Google's upcoming Pixel 9a leaked in CAD-based renders yesterday, and today we have a new leak that gives us some more details about it. It will allegedly be offered in four colors, which Google will call Porcelain, Obsidian, Peony, and Iris. To translate into English, we are talking about white, black, pink-ish, and purple-blue-ish, respectively. This means no more Aloe and Bay, colors that were offered on the Pixel 8a. The Pixel 9a will be 154 mm tall and 73 mm wide, making it about 1.9 mm taller and 0.3 mm wider than its predecessor. On the other hand, the new phone will be...",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 03:00:01 +0200",
-    "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
-    "categories": [
-      "news"
-    ]
-  },
-  {
-    "title": "Realme GT7 Pro certification unearths its charging capacity",
-    "link": "https://www.gsmarena.com/realme_gt7_pro_certification_unearths_its_charging_capacity-news-64755.php",
-    "description": "The Realme GT7 Pro is coming, and ahead of its official announcement it has just been certified for sale in China by 3C. This process has revealed the fact that it will ship with a 120W fast charger in the box, which implies the phone itself will support 120W wired charging. However, past reports have claimed it would only go up to 100W, despite shipping with a more powerful charger. According to a recent rumor, the GT7 Pro will be announced in early November and released for purchase on Singles Day (November 11), China's biggest shopping day. The Realme GT7 Pro is alleged to...",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 01:27:01 +0200",
-    "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
-    "categories": [
-      "news"
-    ]
-  },
-  {
-    "title": "Android 16 could launch sooner than you'd expect",
-    "link": "https://www.gsmarena.com/android_16_could_launch_much_sooner_than_youd_expect-news-64754.php",
-    "description": "Google releases a new version of Android each year, and since 2013 the releases have all come between August and November. That, however, might be set to change with Android 16. While Android 15 is only expected to start rolling out to supported Pixels on October 15, Google seems to already be thinking about releasing Android 16 much sooner than usual - at some point in the second quarter of next year in fact, so between April and June. That would be a pretty significant shift in strategy, but then again Google has this year similarly switched its hardware announcement from the...",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 23:49:01 +0200",
-    "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
-    "categories": [
-      "news"
-    ]
-  },
-  {
-    "title": "Samsung Galaxy Z Fold3 and Flip3 One UI 6.1.1 update has no new AI features",
-    "link": "https://www.gsmarena.com/samsung_galaxy_z_fold3_and_flip3_one_ui_611_update_has_no_new_ai_features-news-64753.php",
-    "description": "AI is the buzzword of the year for sure, and it's also something a lot of smartphone makers (hi, Apple) are trying to gatekeep, only making it available on their latest devices. Samsung is kind of playing the same game too, it seems, but far less egregiously. Still, it's worth noting that the update to One UI 6.1.1 which brought new AI features to newer foldables is now rolling out to the Galaxy Z Fold3 and Galaxy Z Flip3 without those new AI features like Sketch to Image and PDF Overlay. There's also no Instant Slow-mo either. The update is a 2.2GB download, is identified by a...",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 22:11:01 +0200",
-    "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
-    "categories": [
-      "news"
-    ]
-  },
-  {
-    "title": "Oppo K12 Plus spotted in regulatory listing with huge battery",
-    "link": "https://www.gsmarena.com/oppo_k12_plus_spotted_in_regulatory_listing_with_huge_battery-news-64749.php",
-    "description": "Oppo is looking to launch a fourth member in its K12 series soon with the upcoming Oppo K12 Plus. The device (PKS110) was spotted on a regulatory listing in China, revealing its key specs include a monster 6,400 mAh battery. K12 Plus will also offer a 6.7-inch AMOLED display with FHD+ resolution and will be equipped with Qualcomm’s Snapdragon 7 Gen 3 with 8/12GB RAM and 256/512GB storage. The device measures 162.47 x 75.33 x 8.37 mm and weighs 193 grams. Oppo K12 Plus listing on TENAA It packs a 50MP main cam and 8MP ultrawide lens on the back while the front houses a 16MP...",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 20:33:01 +0200",
-    "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
-    "categories": [
-      "news"
-    ]
-  },
-  {
-    "title": "Samsung may cancel the Galaxy S26",
-    "link": "https://www.gsmarena.com/samsung_may_cancel_the_galaxy_s26-news-64751.php",
-    "description": "Something big may be happening in the flagship Galaxy S line, but not next year. The Galaxy S25, S25+, and S25 Ultra are all coming in January, as usual. But in 2026, the Korean company could bring a major change to its lineup, by giving up on the Galaxy S26. Samsung has already done something similar to its flagship tablet line. This year, only the Galaxy Tab S10+ and Galaxy Tab S10 Ultra were launched, with the 'vanilla' model going missing. And now a new rumor claims the same could happen to the Galaxy S26 series in 2026. Samsung Galaxy S24 Thus, only the Galaxy S26+ and Galaxy...",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 19:01:02 +0200",
-    "image": "",
-    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
-    "categories": [
-      "news"
+      "Evergreen",
+      "Tablets",
+      "Galaxy Tab S10 Plus",
+      "Samsung"
     ]
   },
   {
@@ -9418,113 +9529,185 @@
     ]
   },
   {
-    "title": "Android 16 could come much earlier than expected",
-    "link": "https://phandroid.com/2024/10/02/android-16-could-come-much-earlier-than-expected/",
-    "description": "According to a recent report, it has been suggested that Google could be planning to release Android 16 a lot earlier than expected. The post Android 16 could come much earlier than expected appeared first on Phandroid.",
-    "author": "Tyler Lee",
-    "published": "Wed, 02 Oct 2024 04:30:50 +0000",
+    "title": "Samsung’s Crazy-Expensive Z Fold 6 Now At Its Lowest Ever Price",
+    "link": "https://www.talkandroid.com/490939-z-fold-6-lowest-price/",
+    "description": "Samsung's newest big foldable has shed several hundreds of dollars off its price tag.",
+    "author": "Ayomide Sadiq",
+    "published": "Thu, 03 Oct 2024 18:00:00 +0000",
     "image": "",
-    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "title": "Board Kings Free Rolls – Updated Every Day!",
+    "link": "https://www.talkandroid.com/480056-board-kings-free-rolls-updated-daily/",
+    "description": "Run out of rolls for Board Kings? Find links for free rolls right here, updated daily!",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 03 Oct 2024 16:59:16 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "title": "Coin Tales Free Spins – Updated Every Day!",
+    "link": "https://www.talkandroid.com/478394-coin-tales-free-spins-updated-every-day/",
+    "description": "Tired of running out of Coin Tales Free Spins? We update our links daily, so you won't have that problem again!",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 03 Oct 2024 16:57:45 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "title": "Avatar World Codes – October 2024 – Updated Daily",
+    "link": "https://www.talkandroid.com/475772-avatar-world-codes-updated-daily/",
+    "description": "Find all the latest Avatar World Codes right here in this article! Read on for more!",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 03 Oct 2024 16:56:30 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Game Codes"
+    ]
+  },
+  {
+    "title": "Coin Master Free Spins \u0026 Coins Links",
+    "link": "https://www.talkandroid.com/467229-coin-master-free-spins-updated-daily/",
+    "description": "Find all the latest Coin Master free spins right here! We update daily, so be sure to check in daily!",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 03 Oct 2024 16:56:00 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "title": "Monopoly Go Events Schedule Today – Updated Daily",
+    "link": "https://www.talkandroid.com/451313-monopoly-go-events-schedule-today/",
+    "description": "Current active events are Cavern Quest Event, Tournament - Quartz Clash Event and Upcoming Special Event - Crystal Treasures. New Marvel Monopoly Go season has started. .",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 03 Oct 2024 16:54:15 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "title": "Monopoly Go – Free Dice Links Today (Updated Daily)",
+    "link": "https://www.talkandroid.com/451302-monopoly-go-free-dice-links-today/",
+    "description": "If you keep on running out of dice, we have just the solution! Find all the latest Monopoly Go free dice links right here!",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 03 Oct 2024 16:45:31 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "title": "Family Island Free Energy Links (Updated Daily)",
+    "link": "https://www.talkandroid.com/451291-family-island-free-energy/",
+    "description": "Tired of running out of energy on Family Island? We have all the latest Family Island Free Energy links right here, and we update these daily!",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 03 Oct 2024 16:43:32 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "title": "Crazy Fox Free Spins \u0026 Coins (Updated Daily)",
+    "link": "https://www.talkandroid.com/451279-crazy-fox-free-spins-coins/",
+    "description": "If you need free coins and spins in Crazy Fox, look no further! We update our links daily to bring you the newest working links!",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 03 Oct 2024 16:41:28 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "title": "Match Masters Free Gifts, Coins, And Boosters (Updated Daily)",
+    "link": "https://www.talkandroid.com/451270-match-masters-free-gifts-coins/",
+    "description": "Tired of running out of boosters for Match Masters? Find new Match Masters free gifts, coins, and booster links right here! Updated Daily!",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 03 Oct 2024 16:39:49 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "title": "Solitaire Grand Harvest – Free Coins (Updated Daily)",
+    "link": "https://www.talkandroid.com/451256-solitaire-grand-harvest-free-coins/",
+    "description": "Get Solitaire Grand Harvest free coins now, new links added daily. Only tested and working links, complete with a guide on how to redeem the links.",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 03 Oct 2024 16:38:14 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "title": "Dice Dreams Free Rolls – Updated Daily",
+    "link": "https://www.talkandroid.com/451239-dice-dreams-free-rolls-updated-daily/",
+    "description": "Get the latest Dice Dreams free rolls links, updated daily! Complete with a guide on how to redeem the links.",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 03 Oct 2024 16:36:21 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "title": "The Amazon Fire HD 8 Gets Revamped; Gets More RAM, More AI",
+    "link": "https://www.talkandroid.com/490929-amazon-fire-hd-8-2024/",
+    "description": "Amazon's Fire HD 8 has stuck to the same specs since 2022. Now, it's getting a couple of modern improvements.",
+    "author": "Ayomide Sadiq",
+    "published": "Thu, 03 Oct 2024 16:00:00 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Android Tablets",
+      "Manufacturer News"
+    ]
+  },
+  {
+    "title": "OnePlus Can’t Sell Phones In Germany, For A Second Time Now",
+    "link": "https://www.talkandroid.com/490925-oneplus-germany-ban/",
+    "description": "This is the Chinese manufacturers second time not being able to sell smartphones in Germany. Patents are at the root.",
+    "author": "Ayomide Sadiq",
+    "published": "Thu, 03 Oct 2024 14:10:53 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Manufacturer News"
+    ]
+  },
+  {
+    "title": "Garmin’s New Lily 2 Active is a Small Yet Versatile Smartwatch",
+    "link": "https://www.talkandroid.com/490913-garmin-lily-2-active/",
+    "description": "Meet Garmin's Lily 2 Active, the smartwatch that tracks your health and fitness without breaking your wrist.",
+    "author": "Irene Okpanachi",
+    "published": "Thu, 03 Oct 2024 09:29:12 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
     "categories": [
       "News",
-      "Software",
-      "Android 16",
-      "Android updates",
-      "Google"
-    ]
-  },
-  {
-    "title": "OnePlus finds themselves banned in Germany yet again",
-    "link": "https://phandroid.com/2024/10/02/oneplus-finds-themselves-banned-in-germany-yet-again/",
-    "description": "It seems that OnePlus has managed to get themselves banned from Germany again over another patent dispute with a different company. The post OnePlus finds themselves banned in Germany yet again appeared first on Phandroid.",
-    "author": "Tyler Lee",
-    "published": "Wed, 02 Oct 2024 04:15:32 +0000",
-    "image": "",
-    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
-    "categories": [
-      "Devices",
-      "Handsets",
-      "News",
-      "legal",
-      "OnePlus",
-      "patent"
-    ]
-  },
-  {
-    "title": "The new Motorola ThinkPhone 25 comes with five years of updates",
-    "link": "https://phandroid.com/2024/10/02/the-new-motorola-thinkphone-25-comes-with-five-years-of-updates/",
-    "description": "Motorola has announced its latest smartphone, the ThinkPhone 25 which seems to be aimed more towards business users. The post The new Motorola ThinkPhone 25 comes with five years of updates appeared first on Phandroid.",
-    "author": "Tyler Lee",
-    "published": "Wed, 02 Oct 2024 04:01:29 +0000",
-    "image": "",
-    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
-    "categories": [
-      "Devices",
-      "Handsets",
-      "News",
-      "Motorola"
-    ]
-  },
-  {
-    "title": "Save up to $80 with the Samsung Galaxy S24!",
-    "link": "https://phandroid.com/2024/10/01/save-up-to-80-with-the-samsung-galaxy-s24/",
-    "description": "The base model Galaxy S24 is on offer right now at Amazon. The post Save up to $80 with the Samsung Galaxy S24! appeared first on Phandroid.",
-    "author": "Mike Viray",
-    "published": "Tue, 01 Oct 2024 22:14:37 +0000",
-    "image": "https://m.media-amazon.com/images/I/41NWiqEWKKL.jpg",
-    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
-    "categories": [
-      "Deals",
-      "Devices",
-      "amazon deals",
-      "Samsung Galaxy S24"
-    ]
-  },
-  {
-    "title": "Could Samsung Ditch Small Phones Entirely?",
-    "link": "https://phandroid.com/2024/10/01/could-samsung-ditch-small-phones-entirely/",
-    "description": "We may no longer see a base-version Galaxy S26 model. The post Could Samsung Ditch Small Phones Entirely? appeared first on Phandroid.",
-    "author": "Mike Viray",
-    "published": "Tue, 01 Oct 2024 22:10:37 +0000",
-    "image": "",
-    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
-    "categories": [
-      "Devices",
-      "Smartphones",
-      "Android",
-      "OPPO",
-      "Samsung"
-    ]
-  },
-  {
-    "title": "Xiaomi’s SU7 is Selling Like Hotcakes",
-    "link": "https://phandroid.com/2024/10/01/xiaomis-su7-is-selling-like-hotcakes/",
-    "description": "The company now aims to sell 20,000 units in October. The post Xiaomi’s SU7 is Selling Like Hotcakes appeared first on Phandroid.",
-    "author": "Mike Viray",
-    "published": "Tue, 01 Oct 2024 21:58:21 +0000",
-    "image": "",
-    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
-    "categories": [
-      "automotive",
-      "News",
-      "electric vehicles",
-      "xiaomi su7"
-    ]
-  },
-  {
-    "title": "Gemini Live is Now Available for all Android Users, but There’s a Catch",
-    "link": "https://phandroid.com/2024/10/01/gemini-live-is-now-available-for-all-android-users-but-theres-a-catch/",
-    "description": "It's only available in English at the moment. The post Gemini Live is Now Available for all Android Users, but There’s a Catch appeared first on Phandroid.",
-    "author": "Mike Viray",
-    "published": "Tue, 01 Oct 2024 21:42:38 +0000",
-    "image": "",
-    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
-    "categories": [
-      "Apps",
-      "Software",
-      "Android",
-      "gemini live",
-      "Google"
+      "Manufacturer News"
     ]
   },
   {
@@ -9588,324 +9771,142 @@
     ]
   },
   {
-    "title": "Fortnite Free Codes – October 2024",
-    "link": "https://www.talkandroid.com/43794-fortnite-free-codes/",
-    "description": "Find the latest Fortnite Free codes here! Keep reading for more!",
-    "author": "Nazarii Verbitskiy",
-    "published": "Thu, 03 Oct 2024 06:35:37 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "title": "Galaxy Tab S9: Best cases, screen protectors, and accessories in 2024",
+    "link": "https://www.xda-developers.com/best-cases-samsung-galaxy-tab-s9-cases/",
+    "description": "The Galaxy Tab S9 is a stunning Android slate, and we've got you covered on the best accessories to go with it.",
+    "author": "Joe Rice-Jones",
+    "published": "Fri, 04 Oct 2024 01:00:15 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/samsung-galaxy-tab-s9-5.jpg",
+    "source": "https://www.xda-developers.com/feed/",
     "categories": [
-      "Game Codes"
+      "Android",
+      "Samsung Galaxy Tab S9",
+      "Samsung"
     ]
   },
   {
-    "title": "Seven Knights: Idle Adventure Codes + How To Redeem – Oct 2024",
-    "link": "https://www.talkandroid.com/26302-seven-knights-idle-adventure-codes/",
-    "description": "Find the latest Seven Knights: Idle Adventure codes here!",
-    "author": "Miguel Rondain",
-    "published": "Thu, 03 Oct 2024 06:33:52 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "Game Codes"
-    ]
-  },
-  {
-    "title": "The Best Cases for Galaxy S24 FE",
-    "link": "https://www.talkandroid.com/490580-best-case-galaxy-s24-fe/",
-    "description": "The S24 FE is bigger than the S24, with different dimensions. Grab a case from these top choices that fits the FE properly.",
-    "author": "Irene Okpanachi",
-    "published": "Wed, 02 Oct 2024 21:59:00 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "The Best",
-      "Best Cases"
-    ]
-  },
-  {
-    "title": "The Pixel 9a to Arrive in Spring With Redesigned Camera",
-    "link": "https://www.talkandroid.com/490768-pixel-9a-design-leak/",
-    "description": "The Pixel 9a is coming in Spring 2025 with a new camera design. It’ll run Android 15 and get updates for seven years.",
-    "author": "Irene Okpanachi",
-    "published": "Wed, 02 Oct 2024 20:14:00 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "News",
-      "Google News"
-    ]
-  },
-  {
-    "title": "October Will Be Busy: Honor Magic 7, Xiaomi 15 Launches Hinted At",
-    "link": "https://www.talkandroid.com/490870-october-flagship-launches/",
-    "description": "There's a reason they call it Techtober. This month is about to be packed with major flagship releases.",
-    "author": "Ayomide Sadiq",
-    "published": "Wed, 02 Oct 2024 18:00:00 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "Manufacturer News"
-    ]
-  },
-  {
-    "title": "AAWireless Is Back With Two Android Auto Wireless Adapter",
-    "link": "https://www.talkandroid.com/490857-aawireless-two-android-auto/",
-    "description": "AAWireless reveals their second product, the TWO adapter. It launches on October 20th this year.",
-    "author": "Irene Okpanachi",
-    "published": "Wed, 02 Oct 2024 16:29:48 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "News"
-    ]
-  },
-  {
-    "title": "Board Kings Free Rolls – Updated Every Day!",
-    "link": "https://www.talkandroid.com/480056-board-kings-free-rolls-updated-daily/",
-    "description": "Run out of rolls for Board Kings? Find links for free rolls right here, updated daily!",
-    "author": "Nivenka Stanton",
-    "published": "Wed, 02 Oct 2024 16:08:15 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "Gaming"
-    ]
-  },
-  {
-    "title": "Coin Tales Free Spins – Updated Every Day!",
-    "link": "https://www.talkandroid.com/478394-coin-tales-free-spins-updated-every-day/",
-    "description": "Tired of running out of Coin Tales Free Spins? We update our links daily, so you won't have that problem again!",
-    "author": "Nivenka Stanton",
-    "published": "Wed, 02 Oct 2024 16:06:42 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "Gaming"
-    ]
-  },
-  {
-    "title": "Here Are Leaked Oppo Find X8 Specs, Plus A Glimpse At The Device",
-    "link": "https://www.talkandroid.com/490856-leaked-oppo-find-x8-specs/",
-    "description": "The Oppo Find X8 is rumored for an eventual global launch, so its imminent Chinese launch has us excited.",
-    "author": "Ayomide Sadiq",
-    "published": "Wed, 02 Oct 2024 16:00:00 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "Android Leaks \u0026 Rumours"
-    ]
-  },
-  {
-    "title": "Avatar World Codes – October 2024 – Updated Daily",
-    "link": "https://www.talkandroid.com/475772-avatar-world-codes-updated-daily/",
-    "description": "Find all the latest Avatar World Codes right here in this article! Read on for more!",
-    "author": "Nivenka Stanton",
-    "published": "Wed, 02 Oct 2024 15:56:28 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "Game Codes"
-    ]
-  },
-  {
-    "title": "Coin Master Free Spins \u0026 Coins Links",
-    "link": "https://www.talkandroid.com/467229-coin-master-free-spins-updated-daily/",
-    "description": "Find all the latest Coin Master free spins right here! We update daily, so be sure to check in daily!",
-    "author": "Nivenka Stanton",
-    "published": "Wed, 02 Oct 2024 15:54:00 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "Gaming"
-    ]
-  },
-  {
-    "title": "Monopoly Go Events Schedule Today – Updated Daily",
-    "link": "https://www.talkandroid.com/451313-monopoly-go-events-schedule-today/",
-    "description": "Current active events are Cavern Quest Event, Tournament - Rail Rush Event and Upcoming Special Event - Crystal Treasures. New Marvel Monopoly Go season has started. .",
-    "author": "Nivenka Stanton",
-    "published": "Wed, 02 Oct 2024 15:51:31 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "Gaming"
-    ]
-  },
-  {
-    "title": "Monopoly Go – Free Dice Links Today (Updated Daily)",
-    "link": "https://www.talkandroid.com/451302-monopoly-go-free-dice-links-today/",
-    "description": "If you keep on running out of dice, we have just the solution! Find all the latest Monopoly Go free dice links right here!",
-    "author": "Nivenka Stanton",
-    "published": "Wed, 02 Oct 2024 15:34:35 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "Gaming"
-    ]
-  },
-  {
-    "title": "Family Island Free Energy Links (Updated Daily)",
-    "link": "https://www.talkandroid.com/451291-family-island-free-energy/",
-    "description": "Tired of running out of energy on Family Island? We have all the latest Family Island Free Energy links right here, and we update these daily!",
-    "author": "Nivenka Stanton",
-    "published": "Wed, 02 Oct 2024 15:33:00 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "Gaming"
-    ]
-  },
-  {
-    "title": "Crazy Fox Free Spins \u0026 Coins (Updated Daily)",
-    "link": "https://www.talkandroid.com/451279-crazy-fox-free-spins-coins/",
-    "description": "If you need free coins and spins in Crazy Fox, look no further! We update our links daily to bring you the newest working links!",
-    "author": "Nivenka Stanton",
-    "published": "Wed, 02 Oct 2024 15:30:33 +0000",
-    "image": "",
-    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-    "categories": [
-      "Gaming"
-    ]
-  },
-  {
-    "title": "One of our favorite tablets is now 50% off ahead of Prime Big Deal Days 2024",
-    "link": "https://www.xda-developers.com/amazon-fire-hd-8-kids-pro-75-deal/",
-    "description": "Prime Big Deal Days 2024 is coming up, but this 50% discount on this Fire HD tablet is a deal that you can get right now",
-    "author": "Timi Cantisano",
-    "published": "Thu, 03 Oct 2024 08:00:16 GMT",
-    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/10/169-1-1.png",
+    "title": "Here's why you should consider buying an Arm-powered NAS",
+    "link": "https://www.xda-developers.com/why-you-should-consider-using-arm-for-your-next-nas/",
+    "description": "Network-attached storage (NAS) hardware can be powered by x86 or Arm processors. Here are some reasons why an Arm NAS can make more sense.",
+    "author": "Rich Edmonds",
+    "published": "Fri, 04 Oct 2024 00:00:14 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/10/synoloy-diskstation-ds223j-hero.jpg",
     "source": "https://www.xda-developers.com/feed/",
     "categories": [
       "Other  Computing Devices",
-      "amazon fire",
-      "tablet",
-      "Deals"
+      "NAS",
+      "ARM"
     ]
   },
   {
-    "title": "Monitor your home on the cheap with this Wyze cam deal that knocks 33% off",
-    "link": "https://www.xda-developers.com/wyze-cam-og-20-deal/",
-    "description": "Grab the Wyze Cam OG for a stellar price as it drops to just $20",
-    "author": "Timi Cantisano",
-    "published": "Thu, 03 Oct 2024 03:01:20 GMT",
-    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/10/169-1.png",
-    "source": "https://www.xda-developers.com/feed/",
-    "categories": [
-      "Smart Home",
-      "Wyze",
-      "Deals"
-    ]
-  },
-  {
-    "title": "Best white GPUs in 2024",
-    "link": "https://www.xda-developers.com/best-white-gpus/",
-    "description": "When it comes to minimalist yet stunning gaming builds, white GPUs reign supreme. Here are the best ones to feature in your rig.",
-    "author": "Tanveer Singh",
-    "published": "Thu, 03 Oct 2024 01:00:14 GMT",
-    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/11/gigabyte-geforce-rtx-4070-aero-oc.jpg",
-    "source": "https://www.xda-developers.com/feed/",
-    "categories": [
-      "GPU",
-      "Zotac RTX 4080 Super Trinity OC White Edition",
-      "Nvidia"
-    ]
-  },
-  {
-    "title": "7 reasons Slack is better than Teams",
-    "link": "https://www.xda-developers.com/7-reasons-slack-is-better-than-teams/",
-    "description": "When looking for a communications tool for your team, you have plenty of options. Here are some reasons to consider Slack instead of Microsoft Teams.",
-    "author": "Jeff Butts",
-    "published": "Thu, 03 Oct 2024 00:00:15 GMT",
-    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/10/7-ways-slack-is-better-than-ms-teams.jpg",
+    "title": "Here's how Docker can simplify your home server setup",
+    "link": "https://www.xda-developers.com/heres-how-docker-can-simplify-your-home-server-setup/",
+    "description": "Docker is a powerful tool for keeping everything on a single server.",
+    "author": "Rich Edmonds",
+    "published": "Thu, 03 Oct 2024 23:00:15 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/casaos-docker.jpg",
     "source": "https://www.xda-developers.com/feed/",
     "categories": [
       "Software and Services",
-      "Slack",
-      "Microsoft Teams"
+      "NAS"
     ]
   },
   {
-    "title": "How to fix a stuck pixel on your monitor",
-    "link": "https://www.xda-developers.com/how-to-fix-a-stuck-pixel-on-your-monitor/",
-    "description": "Worried about that stuck pixel on your screen? Here are a few ways you can fix it without replacing the monitor entirely",
-    "author": "Dylan Turck",
-    "published": "Wed, 02 Oct 2024 23:00:14 GMT",
-    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/important-features-to-consider-when-buying-a-monitor.jpg",
+    "title": "You too can build this cool Raspberry Pi retro console with a Pokemon design",
+    "link": "https://www.xda-developers.com/cool-raspberry-pi-retro-console-pokemon-design/",
+    "description": "Why buy a console when you can make your own?",
+    "author": "Simon Batt",
+    "published": "Thu, 03 Oct 2024 22:39:22 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/10/pokepi-featured.jpg",
     "source": "https://www.xda-developers.com/feed/",
     "categories": [
-      "Monitors"
+      "Single-Board Computers",
+      "Raspberry Pi",
+      "Retro Gaming"
     ]
   },
   {
-    "title": "Top iOS 18 features to unleash productivity at your fingertips",
-    "link": "https://www.xda-developers.com/best-ios-18-features-to-unleash-productivity-at-your-fingertips/",
-    "description": "Stay organized and boost productivity with these handy add-ons in iOS 18",
-    "author": "Parth Shah",
-    "published": "Wed, 02 Oct 2024 22:00:14 GMT",
-    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/10/featured-image-ios-18.jpg",
-    "source": "https://www.xda-developers.com/feed/",
-    "categories": [
-      "Productivity",
-      "iOS 18",
-      "Apple"
-    ]
-  },
-  {
-    "title": "How to use integrated graphics instead of GPU",
-    "link": "https://www.xda-developers.com/how-to-use-integrated-graphics-instead-of-gpu/",
-    "description": "Let's look at a way few ways you can use integrated graphics instead of a dedicated GPU for your day-to-day workloads.",
-    "author": "Christopher Burke",
-    "published": "Wed, 02 Oct 2024 21:00:15 GMT",
-    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/10/teenage-engineering-computer-1.jpg",
-    "source": "https://www.xda-developers.com/feed/",
-    "categories": [
-      "GPU",
-      "dedicated graphics",
-      "Display",
-      "settings"
-    ]
-  },
-  {
-    "title": "What happens when Windows goes into sleep mode?",
-    "link": "https://www.xda-developers.com/what-happens-windows-goes-to-sleep/",
-    "description": "Learn what happens when Windows enters sleep mode, how it saves your work, conserves power, manages updates, and how it differs from hibernation",
-    "author": "Pranav Bhardwaj",
-    "published": "Wed, 02 Oct 2024 20:00:14 GMT",
-    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/10/windows-power-options-on-dell-pc-monitor.jpg",
+    "title": "Windows has a problem with real-time audio \u0026 video work - heres how to check and fix it",
+    "link": "https://www.xda-developers.com/how-to-fix-real-time-audio-and-video-windows/",
+    "description": "Follow these practical steps to test and improve how your Windows PC handles live audio and visual work",
+    "author": "Robert Brand",
+    "published": "Thu, 03 Oct 2024 22:00:15 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/10/traktor-pc-dj-moon-setup.jpg",
     "source": "https://www.xda-developers.com/feed/",
     "categories": [
       "Windows",
-      "Windows 11",
-      "Windows 10"
-    ]
-  },
-  {
-    "title": "7 tips for creating the perfect Personal Knowledge Management (PKM) system",
-    "link": "https://www.xda-developers.com/tips-for-creating-the-perfect-pkm-personal-knowledge-management-system/",
-    "description": "Essential ways to craft a powerful PKM system",
-    "author": "Parth Shah",
-    "published": "Wed, 02 Oct 2024 19:00:14 GMT",
-    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/09/how-to-use-notion-as-digital-journal.jpg",
-    "source": "https://www.xda-developers.com/feed/",
-    "categories": [
-      "Productivity",
-      "Obsidian"
-    ]
-  },
-  {
-    "title": "How to reset OneDrive when it won't sync",
-    "link": "https://www.xda-developers.com/how-to-reset-onedrive/",
-    "description": "Here are several methods you can try to get OneDrive working again if your data is not syncing.",
-    "author": "Fionna Agomuoh",
-    "published": "Wed, 02 Oct 2024 18:00:15 GMT",
-    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/08/onedrive-featured-1.jpg",
-    "source": "https://www.xda-developers.com/feed/",
-    "categories": [
-      "Windows",
-      "OneDrive",
       "Windows 11"
+    ]
+  },
+  {
+    "title": "I used a Mac with 8GB memory for 9 months in 2024, here's how it went",
+    "link": "https://www.xda-developers.com/8gb-enough-memory-on-mac-2024/",
+    "description": "Is the starting amount of unified memory enough on Apple silicon in 2024? We tested it.",
+    "author": "Brady Snyder",
+    "published": "Thu, 03 Oct 2024 21:30:15 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/10/mac-mini.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "macOS",
+      "Apple",
+      "Mac",
+      "Mac mini",
+      "Apple Silicon"
+    ]
+  },
+  {
+    "title": "How to enable Safari push notifications on iPhone or iPad",
+    "link": "https://www.xda-developers.com/how-enable-safari-notifications-iphone/",
+    "description": "iOS lets you optionally receive Safari push notifications, but the process isn't straightforward. We'll help make it easy.",
+    "author": "Brady Snyder",
+    "published": "Thu, 03 Oct 2024 21:00:15 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/iphone-16-17.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "iOS",
+      "Apple",
+      "iPhone",
+      "iOS 18"
+    ]
+  },
+  {
+    "title": "Do you even need Ethernet if you have a Wi-Fi 7 router and devices? It's complicated",
+    "link": "https://www.xda-developers.com/do-you-need-ethernet-if-you-have-wifi-7/",
+    "description": "Wi-Fi 7 is starting to catch on, and it might be good enough to replace a cable for some people at least, on paper.",
+    "author": "Brady Snyder",
+    "published": "Thu, 03 Oct 2024 20:00:15 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/tp-link-archer-be800-review-angle-top.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Networking",
+      "Wi-Fi 7",
+      "Ethernet"
+    ]
+  },
+  {
+    "title": "AI is the best and worst thing to happen to entry-level programmers",
+    "link": "https://www.xda-developers.com/ai-best-worst-thing-happen-entry-level-programmers/",
+    "description": "AI has somehow managed to lower and raise a skill bar at the same time.",
+    "author": "Simon Batt",
+    "published": "Thu, 03 Oct 2024 19:00:14 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/05/pexels-kevin-ku-577585-1.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "AI \u0026 Machine Learning",
+      " Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Google announces it's bringing ads to AI Overviews",
+    "link": "https://www.xda-developers.com/google-ads-ai-overview/",
+    "description": "Can we go back to when it was telling us to put glue on our pizza?",
+    "author": "Simon Batt",
+    "published": "Thu, 03 Oct 2024 18:49:17 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/05/ai-overview-live-hero.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "AI \u0026 Machine Learning",
+      "google"
     ]
   }
 ]
