@@ -1,20 +1,350 @@
 [
   {
-    "title": "'We will fight' - Ten Hag still defiant but is Man Utd boss on brink?",
-    "link": "https://www.bbc.com/sport/football/articles/ckgvy4jqnylo",
-    "description": "Erik ten Hag remains defiant after his side's dramatic draw at Porto but is the Manchester United boss still on the brink?",
+    "title": "Ten Hag decision 'not my call' - Ratcliffe",
+    "link": "https://www.bbc.com/sport/football/articles/cden69x385lo",
+    "description": "Manchester United co-owner Sir Jim Ratcliffe says the future of under-pressure manager Erik ten Hag is \"not my call\".",
     "author": "",
-    "published": "Thu, 03 Oct 2024 23:30:12 GMT",
+    "published": "Fri, 04 Oct 2024 15:12:14 GMT",
     "image": "",
     "source": "http://feeds.bbci.co.uk/sport/rss.xml",
     "categories": null
   },
   {
-    "title": "Clement laments Rangers profligacy - but are there bigger issues?",
-    "link": "https://www.bbc.com/sport/football/articles/cgq8lj5n44po",
-    "description": "Manager Philippe Clement laments Rangers' profligacy in their heavy Europa League defeat to Lyon - but are there bigger issues?",
+    "title": "Guardiola wants delayed start for Man City next season",
+    "link": "https://www.bbc.com/sport/football/articles/czxgp0epdq1o",
+    "description": "Pep Guardiola wants Manchester City's first matches of next season to be postponed but fears the Premier League are not interested in helping ease the burden on their players.",
     "author": "",
-    "published": "Thu, 03 Oct 2024 23:20:45 GMT",
+    "published": "Fri, 04 Oct 2024 21:38:16 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Meslier 'heartbroken' after howler costs Leeds victory",
+    "link": "https://www.bbc.com/sport/football/articles/c62dn898910o",
+    "description": "Leeds United head coach Daniel Farke admits he has never experienced a moment like Illan Meslier's mistake against Sunderland.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 22:52:08 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Hull KR beat Warrington to reach first Grand Final",
+    "link": "https://www.bbc.com/sport/rugby-league/articles/c5y8qvy4nv5o",
+    "description": "Hull KR reach their first Super League Grand Final after resisting a ferocious Warrington Wolves comeback at a rapturous Craven Park.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 21:17:37 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "'Nightmare is over' - Pogba doping ban reduced to 18 months",
+    "link": "https://www.bbc.com/sport/football/articles/cevy8xve9r8o",
+    "description": "Paul Pogba says his \"nightmare is over\" after his four-year ban for a doping offence was reduced to 18 months following a successful appeal to the Court of Arbitration for Sport (Cas).",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 19:38:21 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Great Britain end 60-year wait for America's Cup spot",
+    "link": "https://www.bbc.com/sport/sailing/articles/cqxrq8yeq4yo",
+    "description": "Great Britain will compete for the America's Cup for the first time in 60 years after beating Italy in a qualifying event.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 12:48:59 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Watch Devine's best shots as New Zealand stun India",
+    "link": "https://www.bbc.com/sport/cricket/videos/cd98z2jed1go",
+    "description": "Watch New Zealand captain Sophie Devine's best shots against India at the Women's T20 World Cup.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 16:10:18 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Diarra v Fifa: Some transfer rules break EU law - top court",
+    "link": "https://www.bbc.com/sport/football/articles/cjwdydnl3w0o",
+    "description": "After a long-running dispute between ex-Chelsea and Arsenal midfielder Lassana Diarra and Fifa, a court has ruled against the governing body.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 16:57:18 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "New Zealand break 10-match losing run to stun India",
+    "link": "https://www.bbc.com/sport/cricket/articles/c70w9kz14eno",
+    "description": "New Zealand beat India in their opening T20 World Cup match with a fine all-round performance in Dubai.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 17:32:52 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Glasgow see off Cardiff in 13-try 'rollercoaster'",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cdxr4ql5grko",
+    "description": "Man of the match Sione Tuipulotu scores twice and Tom Jordan grabs 20 points in thrilling game at Cardiff.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 20:32:48 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Roebuck \u0026 Cowan-Dickie score twice in Sale victory",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cy94n0gnx3xo",
+    "description": "Tom Roebuck and Luke Cowan-Dickie mark their call-ups to England's training squad with two tries apiece in Sale's 31-27 win over Gloucester.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 21:41:30 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Decision on Ten Hag 'not my call' - Ratcliffe",
+    "link": "https://www.bbc.com/sport/football/videos/cqxrq9ljwzro",
+    "description": "Manchester United co-owner Sir Jim Ratcliffe tells BBC sports editor Dan Roan the future of under-pressure manager Erik ten Hag is \"not my call\".",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 14:56:04 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "'I cannot believe that!' - How Kerr avoided controversial run out",
+    "link": "https://www.bbc.com/sport/cricket/videos/cvgdjepynzvo",
+    "description": "Watch as Amelia Kerr avoids an embarrassing run-out in New Zealand's T20 World Cup match against India - much to the annoyance of their opponents.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 16:48:26 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Great goals, but they get further away each time",
+    "link": "https://www.bbc.com/sport/football/videos/c07nmjr7kdgo",
+    "description": "BBC Sport looks back at some great Premier League goals scored from a variety of distances - from a Cristiano Ronaldo tap-in to Asmir Begovic's record-breaking 101-yard strike.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 09:51:32 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Falcons secure dramatic overtime win against Buccaneers",
+    "link": "https://www.bbc.com/sport/american-football/videos/cden6nd48nxo",
+    "description": "Watch highlights as the Atlanta Falcons secure a dramatic 36-30 overtime win against the Tampa Bay Buccaneers with quarterback Kirk Cousins throwing a career-high 509 yards for four touchdowns.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 10:05:45 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "South Africa's Mlaba takes four wickets against West Indies",
+    "link": "https://www.bbc.com/sport/cricket/videos/cwy9x4r1y78o",
+    "description": "Watch South Africa's Nonkululeko Mlaba take four wickets against West Indies at the Women's T20 World Cup.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 12:34:29 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Man Utd to revive Tuchel talks - Saturday's gossip",
+    "link": "https://www.bbc.com/sport/football/articles/cj4dq9k8dz0o",
+    "description": "Manchester United will turn to Thomas Tuchel if the club decide to sack manager Erik ten Hag, while Real Madrid are interested in Aston Villa's Jhon Duran.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 21:44:17 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Saints fight back to beat Quins and extend home run",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cj9jz38ndeeo",
+    "description": "Northampton Saints fight back to beat Harlequins 33-29 in a thrilling Premiership encounter to extend their long home winning run.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 21:59:58 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Confident England must stay in the moment - Knight",
+    "link": "https://www.bbc.com/sport/cricket/articles/c3dv0e94j20o",
+    "description": "England captain Heather Knight says her side has learned to 'stay present' since their semi-final exit at the previous T20 World Cup in South Africa.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 11:55:32 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Why 'face of baseball' is on cusp of global stardom",
+    "link": "https://www.bbc.com/sport/baseball/articles/cm29lvze0gyo",
+    "description": "As Shohei Ohtani prepares for his MLB play-off debut, BBC Sport looks at how he has become one of the world's highest-paid athletes.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 12:33:56 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Stokes doubtful for first Test against Pakistan",
+    "link": "https://www.bbc.com/sport/cricket/articles/cj6e9k22e88o",
+    "description": "England captain Ben Stokes is a doubt for the first Test against Pakistan in Multan as he continues to recover from a hamstring injury.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 10:24:27 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Late Forde kick clinches Connacht win against Scarlets",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cy89v58jgpjo",
+    "description": "Cathal Forde's 78th minute penalty gives Connacht a thrilling 24-23 United Rugby Championship victory against Scarlets in Llanelli.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 20:38:50 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "England's 'best chance' - why they can win T20 World Cup",
+    "link": "https://www.bbc.com/sport/cricket/articles/cn8y0mp874ko",
+    "description": "England have their \"best chance in a long time\" according to former World Cup winner Alex Hartley. BBC Sport and data analysts CricViz look at why they can win the T20 World Cup and who are their chief threats.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 18:41:31 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Rodgers 'not bothered' by critics after Celtic's 7-1 loss",
+    "link": "https://www.bbc.com/sport/football/articles/cgj4n23j44lo",
+    "description": "Brendan Rodgers would much rather \"go down with my own vision\" than listen to critics who suggest Celtic must change their tactics in the Champions League.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 15:38:09 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "South Africa cruise to statement World Cup win over Windies",
+    "link": "https://www.bbc.com/sport/cricket/articles/cz04nm47zj4o",
+    "description": "Last year's finalists South Africa start their T20 World Cup campaign with an impressive 10-wicket win over West Indies.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 13:14:21 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Colsaerts and John share lead at Dunhill Links",
+    "link": "https://www.bbc.com/sport/golf/articles/cp394yz4gnko",
+    "description": "Belgium's Nicolas Colsaerts and Australia's Cameron John share a one-shot lead at the halfway stage of the Alfred Dunhill Links Championship.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 18:24:12 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Eidevall criticises 'amateurish behaviour' with fixture schedule",
+    "link": "https://www.bbc.com/sport/football/articles/cyvyg4n7jy9o",
+    "description": "Arsenal boss Jonas Eidevall criticises the \"amateurish behaviour\" in handling fixture scheduling as a WSL game is postponed at a week's notice.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 16:59:54 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "South Africa beat Ireland to secure series victory",
+    "link": "https://www.bbc.com/sport/cricket/articles/c5y8qg850mmo",
+    "description": "Tristan Stubbs hits an unbeaten maiden one-day international century as South Africa defeat Ireland by 174 runs Dhabi to seal a series win in Abu Dhabi.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 19:10:11 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "'Bring me the bill' - Guardiola thanks Man City fans",
+    "link": "https://www.bbc.com/sport/football/articles/ceqn1l277zjo",
+    "description": "Manchester City manager Pep Guardiola jokes he will reimburse fans after hearing they are set to display a new banner on Saturday asking him to stay at the club.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 12:42:46 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Wales fall to second loss of WXV against Italy",
+    "link": "https://www.bbc.com/sport/rugby-union/videos/c9dy9e3q7lqo",
+    "description": "Watch highlights as Wales fail to break down a strong Italy defence in their second game of WXV 2 in Cape Town, South Africa.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 16:44:53 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Wolvaardt and Brits finish unbeaten as South Africa beat West Indies",
+    "link": "https://www.bbc.com/sport/cricket/videos/cy89jxr975no",
+    "description": "Watch the best shots from South Africa's Laura Wolvaardt and Tazmin Brits as the pair both strike impressive half-centuries against West Indies at the Women's T20 World Cup.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 14:27:37 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "I tried my hardest to dislodge Raya from team - Ramsdale",
+    "link": "https://www.bbc.com/sport/football/videos/cgj4n2841eno",
+    "description": "Aaron Ramsdale speaks to Football Focus about his move from Arsenal to Southampton and his previous competition with David Raya.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 14:11:30 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "'Bring me the bill' - Guardiola offers to pay for fan banner",
+    "link": "https://www.bbc.com/sport/football/videos/c0jwe1y5dyqo",
+    "description": "Manchester City manager Pep Guardiola jokes he would reimburse fans after hearing they are set to display a new banner asking him to stay at the club.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 13:25:37 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Man Utd players must take responsibility - Ten Hag",
+    "link": "https://www.bbc.com/sport/football/videos/cm2y13exrp8o",
+    "description": "Erik ten Hag says Manchester United will solve their defensive issues but wants players to take responsibility after their 3-3 draw at Porto in the Europa League.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 07:22:45 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "'Huge moment' - Kapp takes early Matthews wicket",
+    "link": "https://www.bbc.com/sport/cricket/videos/c4g5ev8xvdzo",
+    "description": "Watch as South Africa's Marizanne Kapp takes the early wicket of West Indies' Hayley Matthews at the Women's T20 World Cup.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 10:48:42 GMT",
     "image": "",
     "source": "http://feeds.bbci.co.uk/sport/rss.xml",
     "categories": null
@@ -25,36 +355,6 @@
     "description": "Watch the best of Bangladesh's spin bowlers as they beat Scotland by sixteen runs in the opening game of the Women's T20 World Cup.",
     "author": "",
     "published": "Thu, 03 Oct 2024 14:37:11 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "No 'copy and paste' England squads - Carsley",
-    "link": "https://www.bbc.com/sport/football/articles/cx2ky1n4wp4o",
-    "description": "Interim England manager Lee Carsley says his squad selections will not be \"copy and paste\" and players will only be picked on merit during his time in charge.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 21:46:47 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Aitchison returns at 10 to face Black Ferns",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c3rljzln2q4o",
-    "description": "England recall Holly Aitchison at fly-half for their WXV meeting with world champions New Zealand on Sunday.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 16:21:54 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Nobody said it was easy... can Sutton's predictions beat Coldplay's?",
-    "link": "https://www.bbc.com/sport/football/articles/cx20pk5zdmro",
-    "description": "BBC Sport football expert Chris Sutton takes on Will and Jonny from Coldplay with his predictions for this weekend's Premier League fixtures.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 17:54:16 GMT",
     "image": "",
     "source": "http://feeds.bbci.co.uk/sport/rss.xml",
     "categories": null
@@ -80,51 +380,181 @@
     "categories": null
   },
   {
-    "title": "'Absolute beauty!' - Pakistan's Omaima bowls Sri Lanka's Hasini",
-    "link": "https://www.bbc.com/sport/videos/cy94p2e2gj7o",
-    "description": "Watch Pakistan's Omaima Sohail's \"beautiful\" strike as she removes Sri Lanka's Hasini Perera in their opening Women's T20 World Cup match in Sharjah.",
+    "title": "Tragedy to triumph - how O'Connell helped Vikings overcome team-mate's death",
+    "link": "https://www.bbc.com/sport/american-football/articles/cz048v8ymd8o",
+    "description": "Kevin O'Connell, the Minnesota Vikings head coach, tells BBC Sport about the impact of the death of rookie Khyree Jackson and how he led his team through adversity to an unbeaten record.",
     "author": "",
-    "published": "Thu, 03 Oct 2024 18:07:16 GMT",
+    "published": "Fri, 04 Oct 2024 07:35:00 GMT",
     "image": "",
     "source": "http://feeds.bbci.co.uk/sport/rss.xml",
     "categories": null
   },
   {
-    "title": "Muneeba hits first six of the Women's T20 World Cup",
-    "link": "https://www.bbc.com/sport/videos/cwyvn932z9eo",
-    "description": "Watch as Pakistan's Muneeba Ali \"wonderfully\" strikes the first six of the Women's T20 World Cup against Sri Lanka in Sharjah.",
+    "title": "Tomkins signs deal with Catalans for 2025 season",
+    "link": "https://www.bbc.com/sport/rugby-league/articles/cx2m5jn5mn2o",
+    "description": "Former England captain Sam Tomkins signs a contract to remain with Catalans Dragons for the 2025 season.",
     "author": "",
-    "published": "Thu, 03 Oct 2024 14:45:01 GMT",
+    "published": "Fri, 04 Oct 2024 19:21:37 GMT",
     "image": "",
     "source": "http://feeds.bbci.co.uk/sport/rss.xml",
     "categories": null
   },
   {
-    "title": "Scotland take first wicket of T20 World Cup",
-    "link": "https://www.bbc.com/sport/videos/c9dy66nedq8o",
-    "description": "Watch as Bangladesh's Murshida Khatun is caught by Katherine Fraser off the bowling of Kathryn Bryce in the opening Women's T20 World Cup match in Dhaka.",
+    "title": "Stats and pads - Zaltzman delivering Smith's kit",
+    "link": "https://www.bbc.com/sport/cricket/articles/cr4xdr1xv2vo",
+    "description": "Test Match Special scorer Andy Zaltzman answers an SOS to deliver England wicketkeeper Jamie Smith's pads to Pakistan.",
     "author": "",
-    "published": "Thu, 03 Oct 2024 10:42:47 GMT",
+    "published": "Fri, 04 Oct 2024 13:13:13 GMT",
     "image": "",
     "source": "http://feeds.bbci.co.uk/sport/rss.xml",
     "categories": null
   },
   {
-    "title": "'Talent was obvious' - Solanke's England call rewards persistence",
-    "link": "https://www.bbc.com/sport/football/articles/c9vp1xvp9lyo",
-    "description": "Dominic Solanke's first England call-up in seven years is deserved reward for a striker now fulfilling his rich potential.",
+    "title": "How to watch Major League Baseball play-offs on the BBC",
+    "link": "https://www.bbc.com/sport/baseball/articles/c80e00x95evo",
+    "description": "The Major League Baseball post-season begins on Tuesday and you can watch two play-off games live on the BBC.",
     "author": "",
-    "published": "Thu, 03 Oct 2024 15:17:26 GMT",
+    "published": "Fri, 04 Oct 2024 16:17:20 GMT",
     "image": "",
     "source": "http://feeds.bbci.co.uk/sport/rss.xml",
     "categories": null
   },
   {
-    "title": "PSG lead race to sign Salah - Friday's gossip",
-    "link": "https://www.bbc.com/sport/football/articles/ckgnkjgeng8o",
-    "description": "Paris St-Germain lead the race to sign Mohamed Salah from Liverpool, who see Karim Adeyemi as a replacement, while Manchester United prepare a bid for Benfica's Kerem Akturkoglu.",
+    "title": "Leaving St James' Park would feel like betrayal - Howe",
+    "link": "https://www.bbc.com/sport/football/articles/c8rd3l75mypo",
+    "description": "Manager Eddie Howe says it would feel like a \"betrayal\" if Newcastle were to move away from St James' Park.",
     "author": "",
-    "published": "Thu, 03 Oct 2024 21:50:03 GMT",
+    "published": "Fri, 04 Oct 2024 11:48:55 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Ten Hag and Man Utd - what do the stats tell us?",
+    "link": "https://www.bbc.com/sport/football/articles/cdx9rgqnwexo",
+    "description": "As scrutiny on Erik ten Hag continues, we look at how his Manchester United record compares to Premier League rivals.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 10:23:49 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Cowan-Dickie \u0026 Lozowski in England training squad",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cjwdy0eq4v2o",
+    "description": "Sale hooker Luke Cowan-Dickie and Saracens back Alex Lozowski are in a 36-strong England squad for next week's training camp.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 11:39:02 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "The Englishman who saved Udinese, and the legends reviving them",
+    "link": "https://www.bbc.com/sport/football/articles/cd7x52p0lv3o",
+    "description": "English striker Keinan Davis saved Udinese from Serie A relegation in May - now two club legends are helping revive them.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 08:00:16 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Group stage of Davis Cup Finals scrapped",
+    "link": "https://www.bbc.com/sport/tennis/articles/czd1gl5e5jgo",
+    "description": "The group stage of the Davis Cup Finals is scrapped and replaced by a return to home or away ties.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 14:21:01 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Nobody said it was easy... can Sutton's predictions beat Coldplay's?",
+    "link": "https://www.bbc.com/sport/football/articles/cx20pk5zdmro",
+    "description": "BBC Sport football expert Chris Sutton takes on Will and Jonny from Coldplay with his predictions for this weekend's Premier League fixtures.",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 17:54:16 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Ball makes weight for homecoming world title defence",
+    "link": "https://www.bbc.com/sport/boxing/articles/c1wn9q82wjyo",
+    "description": "World champion Nick Ball and challenger Ronny Rios both successfully made weight for Saturday's WBA featherweight title contest in Liverpool.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 14:08:59 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Wigan, Peet and the pursuit of excellence",
+    "link": "https://www.bbc.com/sport/rugby-league/articles/c0r807447q5o",
+    "description": "Wigan Warriors target a second successive Super League Grand Final triumph as they begin their play-off campaign against Leigh on Saturday.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 10:40:47 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Saints target treble in Grand Final against York",
+    "link": "https://www.bbc.com/sport/rugby-league/articles/c870y7yy35xo",
+    "description": "Treble-chasing St Helens and holders York Valkyrie prepare for a huge Women's Super League Grand Final on Sunday.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 09:41:54 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Szczesny set for Barca bow and Conte faces Fabregas",
+    "link": "https://www.bbc.com/sport/football/articles/c4gq6w474l4o",
+    "description": "Wojciech Szczesny is set for his Barcelona bow, Bayern Munich play bogey side Eintracht Frankfurt and Antonio Conte faces Cesc Fabregas.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 13:50:10 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "'We will fight' - Ten Hag still defiant but is Man Utd boss on brink?",
+    "link": "https://www.bbc.com/sport/football/articles/ckgvy4jqnylo",
+    "description": "Erik ten Hag remains defiant after his side's dramatic draw at Porto but is the Manchester United boss still on the brink?",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 13:45:02 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "'Chelsea can't compete with Man City or Arsenal'",
+    "link": "https://www.bbc.com/sport/football/articles/c4gq6zqv1dpo",
+    "description": "Chelsea boss Enzo Maresca urges supporters and pundits not to get carried away by the club's positive start to the season.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 12:03:22 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Clement laments Rangers profligacy - but are there bigger issues?",
+    "link": "https://www.bbc.com/sport/football/articles/cgq8lj5n44po",
+    "description": "Manager Philippe Clement laments Rangers' profligacy in their heavy Europa League defeat to Lyon - but are there bigger issues?",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 23:20:45 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "'The strangest substitution' - how Maguire was Man Utd's unlikely hero",
+    "link": "https://www.bbc.com/sport/football/articles/c2ekmlnnwrdo",
+    "description": "Erik ten Hag turned to Harry Maguire and Jonny Evans to rescue Manchester United at Porto - and the centre-back pair delivered.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 07:32:36 GMT",
     "image": "",
     "source": "http://feeds.bbci.co.uk/sport/rss.xml",
     "categories": null
@@ -140,61 +570,11 @@
     "categories": null
   },
   {
-    "title": "Kick It Out founder Lord Ouseley dies aged 79",
-    "link": "https://www.bbc.com/sport/football/articles/cn0e9y5142do",
-    "description": "Anti-racism activist and Kick It Out founder Lord Ouseley dies at the age of 79.",
+    "title": "Five things about new Premiership Women's season",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cpdq22v5q25o",
+    "description": "Will Gloucester-Hartpury win a record-breaking third consecutive Premiership Women's Rugby title as the new season gets under way on Saturday?",
     "author": "",
-    "published": "Thu, 03 Oct 2024 13:39:49 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Ford targets All Blacks after England fitness boost",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/czxgk2qqp9ko",
-    "description": "England fly-half George Ford has been handed a fitness boost for the November internationals after it was confirmed his quad injury doesn’t need surgery.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 19:40:58 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Scotland beaten by Bangladesh in World Cup opener",
-    "link": "https://www.bbc.com/sport/cricket/articles/c3e9ppvklp5o",
-    "description": "Scotland suffer a 16-run defeat by Bangladesh in their first outing at a Women's T20 World Cup.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 13:12:47 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Phillips 'frustrated' by focus on weight after Guardiola comments",
-    "link": "https://www.bbc.com/sport/football/articles/c8djrp2682po",
-    "description": "Kalvin Phillips says that \"narratives\" which followed former manager Pep Guardiola's comments about his weight left him feeling \"frustrated\".",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 05:12:20 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "I have to move house after mayor comments - Morata",
-    "link": "https://www.bbc.com/sport/football/articles/cg78ny74rveo",
-    "description": "Alvaro Morata says comments made by a local mayor have compromised his family's safety.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 15:19:40 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Prem clubs block Morrow's England-Sarries job-share",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c749jrvgggno",
-    "description": "Premiership clubs have blocked Saracens' head of performance Phil Morrow from joining the England set-up following a series of meetings this week.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 19:10:52 GMT",
+    "published": "Fri, 04 Oct 2024 08:41:33 GMT",
     "image": "",
     "source": "http://feeds.bbci.co.uk/sport/rss.xml",
     "categories": null
@@ -205,326 +585,6 @@
     "description": "BBC Test Match Special will broadcast ball-by-ball commentary of England's Test tour of Pakistan after securing audio rights for the series.",
     "author": "",
     "published": "Thu, 03 Oct 2024 14:41:13 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Wales and Italy looking to bounce back in WXV2",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/c70wjwkjwpro",
-    "description": "History shows us that games between Wales and Italy are always close and Friday's encounter is expected to be no different.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 18:27:17 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Cheika accused doctor of being 'passive-aggressive'",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/crm2xp143wko",
-    "description": "Leicester boss Michael Cheika accused an independent matchday doctor of being \"passive-aggressive\" towards him in a row after their opening-weekend win over Exeter.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 19:18:15 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "I didn't have a lot of people I could look up to - Shaw",
-    "link": "https://www.bbc.com/sport/football/videos/cvglm528ereo",
-    "description": "Manchester City striker Khadija 'Bunny' Shaw tells BBC Sport she hopes to \"inspire a lot of the young girls back home in Jamaica that it is definitely possible\" to play football.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 05:29:15 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Kenny launches 2024 Unsung Hero award",
-    "link": "https://www.bbc.com/sport/videos/clyv0qpvz82o",
-    "description": "Unsung Hero ambassador Dame Laura Kenny announces nominations are now open.",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 06:00:23 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Gibbs-White on 'dream' England call-up",
-    "link": "https://www.bbc.com/sport/football/videos/cgq84z1w8yzo",
-    "description": "Nottingham Forest midfielder Morgan Gibbs-White tells Dion Dublin about his upbringing, style of play and the moment he found out he was being called up for England.",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 05:37:45 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "'Impressive' Arsenal still have more to give",
-    "link": "https://www.bbc.com/sport/football/videos/c62dzg9z6jwo",
-    "description": "Leon Osman and Ian Dennis tell the Football Daily Podcast how \"impressive\" Arsenal still have more to give in the Champions League following their 2-0 over Paris St Germain at the Emirates.",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 22:40:12 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "'We got punished. They were ruthless. It was incredible'",
-    "link": "https://www.bbc.com/sport/football/videos/cgk7n25xk6ro",
-    "description": "Brendan Rodgers says his Celtic side caused problems for themselves in their 7-1 defeat at Borussia Dortmund.",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 22:38:56 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Watch Lions' Goff's first career receiving touchdown",
-    "link": "https://www.bbc.com/sport/american-football/videos/c07nvdr2yp4o",
-    "description": "Watch Jared Goff's first career receiving touchdown as the quarterback sets an NFL record by completing all 18 of his passes to help the Detroit Lions beat the Seattle Seahawks 42-29.",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 12:52:42 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "You can't spend £600m and still play utter dross - Sutton",
-    "link": "https://www.bbc.com/sport/football/videos/cvgd49jpe0wo",
-    "description": "Chris Sutton, Rory Smith and Conor Coady discuss manager Erik ten Hag's future at Manchester United following Sunday's 3-0 defeat by Tottenham.",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 10:51:35 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Could PSG be a better team without Mbappe?",
-    "link": "https://www.bbc.com/sport/football/videos/c1k7zdlj9x1o",
-    "description": "BBC Sport's French football expert Julien Laurens discusses how Paris St-Germain will play this season, now that star striker Kylian Mbappe has left for Real Madrid.",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 05:21:59 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "I had an ambition to play at the highest level possible - Davis",
-    "link": "https://www.bbc.com/sport/football/videos/c0m0lem4m4no",
-    "description": "Kerry Davis speaks to BBC Sport about her experience being the first black player to play for England's women.",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 06:04:16 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Johnson, Palmer \u0026 Mbeumo to keep scoring - FPL tips \u0026 team of the week",
-    "link": "https://www.bbc.com/sport/football/articles/c7490p07dgdo",
-    "description": "It's not a week for many risks in Fantasy Premier League, writes Thomas Woods. Make Erling Haaland captain and have plenty of Arsenal assets.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 10:29:24 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Spinners dominate as Pakistan beat Sri Lanka",
-    "link": "https://www.bbc.com/sport/cricket/articles/c0r8pxg1rd4o",
-    "description": "Pakistan open their Women's T20 World Cup campaign with a low-scoring win over Sri Lanka.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 17:40:25 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Humphries lands first Players Championship title of 2024",
-    "link": "https://www.bbc.com/sport/darts/articles/c8j7r2g27zgo",
-    "description": "Luke Humphries claims his first Players Championship title of 2024 by beating Stephen Bunting 8-7 in Wigan.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 20:39:34 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Fifa to investigate alleged rule breaches by Israel",
-    "link": "https://www.bbc.com/sport/football/articles/cx2074nkly2o",
-    "description": "Fifa's disciplinary committee will investigate alleged breaches of its rules by Israel following a proposal by the Palestinian Football Association.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 16:10:10 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "World number 462 Fichardt leads Dunhill Links",
-    "link": "https://www.bbc.com/sport/golf/articles/cp957mgyl95o",
-    "description": "South African Darren Fichardt cards a superb 11-under-par 61 at Kingsbarns to lead by one stroke after day one of the Alfred Dunhill Links Championship.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 16:52:31 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Why does Prince William support Aston Villa?",
-    "link": "https://www.bbc.com/sport/football/articles/cje3kdekvz4o",
-    "description": "Prince William 'lost' his voice after Aston Villa's win against Bayern Munich.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 10:48:39 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Reid recalled for Northern Ireland double-header",
-    "link": "https://www.bbc.com/sport/football/articles/c62g0w9kpwdo",
-    "description": "Stevenage striker Jamie Reid returns to the Northern Ireland squad for the upcoming Nations League games against Belarus and Bulgaria.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 10:05:06 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "'Outstanding' and 'a revelation' - Gravenberch's Liverpool transformation",
-    "link": "https://www.bbc.com/sport/football/articles/czrm1lje4ero",
-    "description": "From being a squad player with his future at Liverpool in doubt, Ryan Gravenberch has turned into a key man for the Reds.",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 22:53:41 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "McGuinness earns first Republic of Ireland call-up",
-    "link": "https://www.bbc.com/sport/football/articles/cr4x3q39qexo",
-    "description": "Uncapped Luton defender Mark McGuinness is named in the Republic of Ireland squad for this month's Nations League games as Matt Doherty is left out.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 12:18:18 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Mbappe out of France squad despite injury return",
-    "link": "https://www.bbc.com/sport/football/articles/cd98kegnjkgo",
-    "description": "Kylian Mbappe will miss France's Uefa Nations League games despite recovering from a thigh injury.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 14:33:12 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Wire and Leigh aim for Hull KR and Wigan upsets",
-    "link": "https://www.bbc.com/sport/rugby-league/articles/c5y9q1nryzwo",
-    "description": "Facing Hull KR and Wigan respectively in Super League play-off semi-finals, Warrington and Leigh seek to cause upsets and reach the Grand Final.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 09:07:02 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "New Zealand query France plans to rest stars for tour",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/cwylpd9dz79o",
-    "description": "New Zealand ask World Rugby to clarify France's plans not to select some of their top stars for next summer's tour.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 16:31:32 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "From scaffolding site to world title tilt in two years",
-    "link": "https://www.bbc.com/sport/boxing/articles/c0lw63j5912o",
-    "description": "Jack Massey prepares to fight for the IBF cruiserweight world title - two years after working on a scaffolding site.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 07:26:03 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Liverpool's Ball might 'jog' to arena for world title defence",
-    "link": "https://www.bbc.com/sport/boxing/articles/cpv217xxljmo",
-    "description": "Nick Ball lives so close to the M\u0026S Bank Arena, he says he could \"jog\" to the venue for his world title defence on Saturday.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 14:26:32 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Man City's Shaw on inspiring Jamaica's footballers",
-    "link": "https://www.bbc.com/sport/football/articles/cwy9153l14wo",
-    "description": "Manchester City striker Khadija Shaw wants to \"stay true to who she is\" and inspire young black girls to play football.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 05:35:46 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "'His dream has come true' - the story of Duran's rise",
-    "link": "https://www.bbc.com/sport/football/articles/cr4xwxvvypeo",
-    "description": "Common themes emerge when discussing Jhon Duran's rise - the Aston Villa striker is a raw, supremely talented footballer, a family man, and somebody who needs to be guided.",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 22:20:00 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Your essential guide to the ICC Women's T20 World Cup",
-    "link": "https://www.bbc.com/sport/cricket/articles/c99vp4yyyyxo",
-    "description": "The Women's T20 World Cup in the United Arab Emirates starts on 3 October - here's everything you need to know about the ninth edition.",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 07:59:27 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Nominate your Unsung Hero for 2024",
-    "link": "https://www.bbc.com/sport/articles/cy0g8j00398o",
-    "description": "You can now make nominations for the 2024 BBC Sports Personality of the Year Unsung Hero.",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 06:00:12 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "Is once-in-a-generation chance lost for Bangladesh's women?",
-    "link": "https://www.bbc.com/sport/cricket/articles/c93y00lw37wo",
-    "description": "Why Bangladesh women's team could lose once-in-a-generation boost to the sport in their country after T20 World Cup was moved to UAE.",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 08:04:33 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "The Champions League's new table explained",
-    "link": "https://www.bbc.com/sport/football/articles/cyx693606wro",
-    "description": "The Champions League will follow a new format from 2024-25 - BBC Sport explains what will change and what will stay the same.",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 21:25:38 GMT",
-    "image": "",
-    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
-    "categories": null
-  },
-  {
-    "title": "'Am I a pioneer?' The Lionesses' first black player",
-    "link": "https://www.bbc.com/sport/football/articles/cwyl3z9zw13o",
-    "description": "In 1982, Kerry Davis became the first black woman to play for England, paving the way for future generations, but she has only recently received the recognition she deserves.",
-    "author": "",
-    "published": "Tue, 01 Oct 2024 06:05:21 GMT",
     "image": "",
     "source": "http://feeds.bbci.co.uk/sport/rss.xml",
     "categories": null
@@ -600,22 +660,102 @@
     "categories": null
   },
   {
-    "title": "Exeter boss unhappy with league and WXV clash",
-    "link": "https://www.bbc.com/sport/rugby-union/articles/cpv217x7vw8o",
-    "description": "Exeter boss Susie Appleby says the Premiership Women's Rugby season should not begin until the WXV competitions finish later this month.",
+    "title": "Saints fight back to beat Quins and extend home run",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cj9jz38ndeeo",
+    "description": "Northampton Saints fight back to beat Harlequins 33-29 in a thrilling Premiership encounter to extend their long home winning run.",
     "author": "",
-    "published": "Thu, 03 Oct 2024 15:34:58 GMT",
+    "published": "Fri, 04 Oct 2024 21:59:58 GMT",
     "image": "",
     "source": "http://feeds.bbci.co.uk/sport/rss.xml",
     "categories": null
   },
   {
-    "title": "Ten Hag explains shock Rashford sub",
-    "link": "https://news.sky.com/story/man-utd-boss-erik-ten-hag-explains-shock-marcus-rashford-half-time-substitution-in-3-3-draw-with-porto-we-need-to-rotate-13227490",
-    "description": "Erik ten Hag revealed rotation was the reason for Marcus Rashford's surprise substitution at half-time in Man Utd's 3-3 draw with Porto in the Europa League on Thursday.",
+    "title": "Rodgers 'not bothered' by critics after Celtic's 7-1 loss",
+    "link": "https://www.bbc.com/sport/football/articles/cgj4n23j44lo",
+    "description": "Brendan Rodgers would much rather \"go down with my own vision\" than listen to critics who suggest Celtic must change their tactics in the Champions League.",
     "author": "",
-    "published": "Thu, 03 Oct 2024 23:40:00 +0100",
-    "image": "https://e3.365dm.com/24/10/1920x1080/skysports-marcus-rashford-manchester-united_6705504.jpg?20241003223747",
+    "published": "Fri, 04 Oct 2024 15:38:09 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Glasgow see off Cardiff in 13-try 'rollercoaster'",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cdxr4ql5grko",
+    "description": "Man of the match Sione Tuipulotu scores twice and Tom Jordan grabs 20 points in thrilling game at Cardiff.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 20:32:48 GMT",
+    "image": "",
+    "source": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "categories": null
+  },
+  {
+    "title": "Hull KR beat Warrington to reach first Grand Final",
+    "link": "https://news.sky.com/story/hull-kr-10-8-warrington-wolves-robins-make-history-and-book-spot-in-first-ever-grand-final-with-close-victory-13227811",
+    "description": "Hull KR secured their spot in the Betfred Super League Grand Final for the first time with a nail-biting 10-8 victory over Warrington Wolves at Sewell Group Craven Park Stadium.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 21:50:00 +0100",
+    "image": "https://e3.365dm.com/24/10/1920x1080/skysports-james-batchelor-hull-kr_6706364.jpg?20241004203539",
+    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
+    "categories": null
+  },
+  {
+    "title": "Pogba declares 'nightmare is over' after drugs ban is reduced",
+    "link": "https://news.sky.com/story/paul-pogba-has-four-year-drug-ban-reduced-to-18-months-after-successful-appeal-at-court-of-arbitration-for-sport-13184314",
+    "description": "Paul Pogba's four-year drug ban has been reduced to 18 months following a successful appeal at the Court of Arbitration for Sport (CAS).",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 17:30:00 +0100",
+    "image": "https://e3.365dm.com/24/02/1920x1080/skysports-paul-pogba-france_6473427.jpg?20240229135050",
+    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
+    "categories": null
+  },
+  {
+    "title": "Eidevall: 'Amateurish' WSL harming clubs' European chances",
+    "link": "https://news.sky.com/story/jonas-eidevall-arsenal-boss-has-slammed-the-amateurish-behaviour-from-the-wsl-after-chelsea-fixture-postponed-13227770",
+    "description": "Jonas Eidevall has accused the WSL of \"amateurish behaviour\" that he believes has harmed English teams' chances in European competitions and put Arsenal at a disadvantage ahead of key games against Bayern Munich and Chelsea.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 15:42:00 +0100",
+    "image": "https://e3.365dm.com/24/10/1920x1080/skysports-arsenal-women-jonas-eidevall_6706120.jpg?20241004162139",
+    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
+    "categories": null
+  },
+  {
+    "title": "Knight: Sharing hotel with T20 World Cup rivals creates 'awkward' situations",
+    "link": "https://news.sky.com/story/womens-t20-world-cup-sharing-hotel-with-rival-nations-creates-awkward-situations-says-englands-heather-knight-13227626",
+    "description": "All 10 teams taking part in the Women's T20 World Cup are staying in the same hotel which has been creating awkward situations, according to England captain Heather Knight.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 11:01:00 +0100",
+    "image": "https://e3.365dm.com/24/07/1920x1080/skysports-heather-knight-england_6619704.jpg?20240706140917",
+    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
+    "categories": null
+  },
+  {
+    "title": "Tomkins to play on for Catalans in 2025",
+    "link": "https://news.sky.com/story/sam-tomkins-to-play-on-in-2025-for-catalans-dragons-after-coming-out-of-retirement-13227781",
+    "description": "Sam Tomkins has confirmed he will play again for the Catalans Dragons in 2025 after signing for another year with the club.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 16:12:00 +0100",
+    "image": "https://e3.365dm.com/24/08/1920x1080/skysports-rugby-league-super-league_6660695.jpg?20240819091637",
+    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
+    "categories": null
+  },
+  {
+    "title": "Man Utd's left-sided problem, Salah's rising creativity",
+    "link": "https://news.sky.com/story/marcus-rashford-only-one-part-of-man-utds-left-sided-problem-mohamed-salah-still-improving-for-liverpool-the-radar-13227558",
+    "description": "",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 13:00:00 +0100",
+    "image": "https://e3.365dm.com/24/10/1920x1080/skysports-the-radar-marcus-rashford_6705892.jpg?20241004123143",
+    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
+    "categories": null
+  },
+  {
+    "title": "Preston's Osmajic handed eight-match ban and fine for Blackburn bite",
+    "link": "https://news.sky.com/story/milutin-osmajic-preston-forward-handed-eight-match-ban-and-16315000-fine-after-biting-blackburns-rovers-defender-owen-beck-13227633",
+    "description": "Preston North End striker Mulatin Osmajic has been handed an eight-match ban and £15,000 fine for biting Blackburn defender Owen Beck.",
+    "author": "",
+    "published": "Fri, 04 Oct 2024 11:09:00 +0100",
+    "image": "https://e3.365dm.com/24/10/1920x1080/skysports-preston-north-end_6705811.jpg?20241004113001",
     "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
     "categories": null
   },
@@ -630,94 +770,394 @@
     "categories": null
   },
   {
-    "title": "Is the new Champions League format working?",
-    "link": "https://news.sky.com/story/champions-league-is-the-new-league-phase-format-for-uefas-top-club-competition-working-13226612",
-    "description": "The new Champions League format is now two gameweeks old - but has it been a success so far?",
+    "title": "Davis Cup home and away ties to return in 2025",
+    "link": "https://news.sky.com/story/davis-cup-home-and-away-ties-to-return-in-2025-while-billie-jean-king-cup-will-move-to-eight-team-finals-event-13227599",
+    "description": "Davis Cup home and away ties are set to return in 2025 while the Billie Jean King Cup will move to an eight-team finals event.",
     "author": "",
-    "published": "Wed, 02 Oct 2024 14:54:00 +0100",
-    "image": "https://e3.365dm.com/24/09/1920x1080/skysports-celtic-parkhead-champions-league_6689552.jpg?20240918183310",
+    "published": "Fri, 04 Oct 2024 15:22:00 +0100",
+    "image": "https://e3.365dm.com/24/10/1920x1080/skysports-jannik-sinner-davis-cup_6706103.jpg?20241004155012",
     "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
     "categories": null
   },
   {
-    "title": "FIFA to make clubs take strongest squads to Club World Cup",
-    "link": "https://news.sky.com/story/club-world-cup-fifa-to-make-clubs-take-strongest-squads-to-new-tournament-13227224",
-    "description": "Clubs participating in next summer's Club World Cup will have to take their strongest squads and field their strongest teams.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 18:00:00 +0100",
-    "image": "https://e3.365dm.com/24/10/1920x1080/skysports-cole-palmer-erling-haaland_6705259.jpg?20241003163622",
-    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
-    "categories": null
-  },
-  {
-    "title": "Nelson: Beterbiev and Bivol clash to decide 'perfect warrior'",
-    "link": "https://news.sky.com/story/artur-beterbiev-and-dmitry-bivol-undisputed-clash-to-decide-perfect-warrior-says-johnny-nelson-13226680",
-    "description": "As Artur Beterbiev and Dmitry Bivol fight to decide light-heavyweight supremacy, the Fabio Wardley versus Frazer Clarke heavyweight rematch is sure to be 'brutal'. Sky Sports' boxing expert Johnny Nelson appraises the big October 12 bill.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 17:00:00 +0100",
-    "image": "https://e3.365dm.com/24/09/1920x1080/skysports-artur-beterbiev-dmitry-bivol_6696491.jpg?20240925150838",
-    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
-    "categories": null
-  },
-  {
-    "title": "Defiant Ten Hag: We can turn this around and make season a success",
-    "link": "https://news.sky.com/story/erik-ten-hag-exclusive-man-utd-boss-confident-the-season-can-be-turned-around-despite-worrying-premier-league-start-13225833",
-    "description": "A defiant Erik ten Hag has insisted Manchester United will solve their problems and make a success of the season.",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 06:00:00 +0100",
-    "image": "https://e3.365dm.com/24/10/1920x1080/skysports-football-erik-ten-hag_6703660.jpg?20241002060832",
-    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
-    "categories": null
-  },
-  {
-    "title": "Brit Fearnley would definitely 'not say no' to advice from Murray",
-    "link": "https://news.sky.com/story/jacob-fearnley-scottish-tennis-player-would-definitely-not-say-no-to-advice-from-andy-murray-13227184",
-    "description": "Britain's latest top-100 tennis player Jacob Fearnley says he would \"definitely not say no\" to advice from Andy Murray.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 17:02:00 +0100",
-    "image": "https://e3.365dm.com/24/10/1920x1080/skysports-jacob-fearnley-tennis_6705279.jpg?20241003165803",
-    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
-    "categories": null
-  },
-  {
-    "title": "Alcaraz edges Sinner in Beijing blockbuster to claim China Open title",
-    "link": "https://news.sky.com/story/china-open-carlos-alcaraz-beats-jannik-sinner-in-a-thrilling-third-set-tie-break-to-claim-tournament-title-13226330",
-    "description": "Carlos Alcaraz came from behind to edge rival Jannik Sinner 6-7 (6-8) 6-4 7-6 (7-3) in a thrilling final to claim the China Open title in Beijing on Wednesday.",
-    "author": "",
-    "published": "Wed, 02 Oct 2024 14:29:00 +0100",
-    "image": "https://e3.365dm.com/24/10/1920x1080/skysports-carlos-alcaraz-wins_6704184.jpg?20241002140907",
-    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
-    "categories": null
-  },
-  {
-    "title": "Gauff books return to China Open semi-finals where Badosa awaits",
-    "link": "https://news.sky.com/story/coco-gauff-books-her-return-to-the-china-open-semi-finals-where-paolo-badosa-awaits-13227205",
-    "description": "Former Grand Slam champion Coco Gauff booked her return to the China Open semi-finals where in-form Paolo Badosa awaits.",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 15:56:00 +0100",
-    "image": "https://e3.365dm.com/24/10/1920x1080/skysports-coco-gauff-tennis_6705146.jpg?20241003150246",
-    "source": "http://feeds.skynews.com/feeds/rss/sports.xml",
-    "categories": null
-  },
-  {
-    "title": "Live updates: Buccaneers and Falcons clash on TNF",
-    "link": "https://sports.yahoo.com/live/buccaneers-vs-falcons-thursday-night-football-score-live-updates-tampa-bay-and-atlanta-face-off-in-nfc-south-clash-231500606.html",
-    "description": "Currently at 3-1, Tampa Bay can take a big leap in the NFC South race with a win over 2-2 Atlanta. Follow all the action here!",
+    "title": "Georgia can still make the College Football Playoff … but we see danger ahead",
+    "link": "https://sports.yahoo.com/georgia-can-still-make-the-college-football-playoff--but-rocky-roads-are-ahead-163638702.html",
+    "description": "After a close loss to the Tide, the Bulldogs can probably sneak into the expanded 12-team playoff with two losses. But there's a catch.",
     "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 23:15:00 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/QDFAeeG6FOfQ591rZ2DYwA--~B/aD0xNjkxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/71089420-81eb-11ef-bdbb-b50708c334a7",
+    "published": "Wed, 02 Oct 2024 16:36:38 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/xvQ4PBi6uF6oOkn9ZI7nEQ--~B/aD0yMjUwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/57d51470-82ad-11ef-aaf6-b96236ddce9d",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
     ]
   },
   {
-    "title": "Clemson-FSU may have lost luster, but Saturday's ACC clash will reveal plenty",
-    "link": "https://sports.yahoo.com/clemson-fsu-may-have-lost-luster-but-saturdays-acc-clash-will-reveal-plenty-195021002.html",
-    "description": "Clemson is on the upswing and has routed three straight opponents while the start of Florida State's season has been a disaster. Will things get ugly in Tallahassee on Saturday?",
+    "title": "Surprise! Mets name Kodai Senga starting pitcher for NLDS Game 1 vs. Phillies",
+    "link": "https://sports.yahoo.com/surprise-mets-name-kodai-senga-starting-pitcher-for-nlds-game-1-vs-phillies-000422765.html",
+    "description": "Kodai Senga will start Game 1 of the NLDS for the New York Mets versus the Philadelphia Phillies after starting only one game during the regular season.",
     "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 19:50:21 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/NS1gm1mFUOBr6_aHy1LYdQ--~B/aD0zODQ4O3c9NTc3MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/79232350-81be-11ef-bd6d-d16d1b12256d",
+    "published": "Sat, 05 Oct 2024 00:04:22 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/Mq5KenUV0vsRDkb8iwXzJg--~B/aD0yMzQ3O3c9MzUyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/200eab00-82ad-11ef-a93f-e65748a6d86e",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Bills Hall of Famer Billy Shaw dies at 85",
+    "link": "https://sports.yahoo.com/bills-hall-of-famer-billy-shaw-dies-at-85-233259367.html",
+    "description": "Shaw retired in 1969, a year before the NFL-AFL merger.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 23:32:59 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/bX7Zh7SH.nrexIp3yftJDw--~B/aD0xMjY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/ca1a42d0-82a8-11ef-bde4-fc96f28a3f10",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Hernández: Dodgers have the same problem that derailed their last two playoff appearances",
+    "link": "https://sports.yahoo.com/hern-ndez-dodgers-same-problem-100014818.html",
+    "description": "The Dodgers' move to have Yoshinobu Yamamoto start Game 1 of the NLDS against the Padres shows how vulnerable the team is to another early playoff exit.",
+    "author": "LA Times",
+    "published": "Fri, 04 Oct 2024 10:00:14 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/FxGhzQY.5pf6pLyAf1iNRw--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/la_times_articles_853/64d0f8107f6205899e859d034c138dce",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "San Jose State mired in controversy over alleged transgender volleyball player",
+    "link": "https://sports.yahoo.com/san-jose-state-mired-in-controversy-over-alleged-transgender-volleyball-player-220852898.html",
+    "description": "Teams are refusing to play the Spartans, and now the co-captain has joined a federal lawsuit challenging the NCAA’s transgender athlete participation policy.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 22:08:52 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/6UmtutT6i_JXnD2BAngxfA--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/74c87ce0-829c-11ef-bfef-ba481e19b961",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Cardinals fire hitting coach Turner Ward after season-long struggle to score runs",
+    "link": "https://sports.yahoo.com/cardinals-fire-hitting-coach-turner-ward-after-season-long-struggle-to-score-runs-215607668.html",
+    "description": "Turner Ward will not return as St. Louis Cardinals hitting coach after the team was one of the worst run-scoring clubs in the National League in 2024.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 21:56:07 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/OJSWE3Cq11LIvkEwF98J1g--~B/aD00MjY4O3c9NjM5OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/993fe6c0-8293-11ef-9fff-a226f592ba09",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "MLB playoffs 2024: Updated bracket for ALDS and NLDS, key matchups, previews and predictions",
+    "link": "https://sports.yahoo.com/mlb-playoffs-2024-updated-bracket-for-alds-and-nlds-key-matchups-previews-and-predictions-213616397.html",
+    "description": "The Yankees, Guardians, Dodgers and Phillies join the postseason action beginning Saturday.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 21:36:16 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/nqrwlrWYxHmicPyZcZoCXA--~B/aD0zNDcyO3c9NTIwODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/abec8cd0-8291-11ef-bdb3-85d5df0ee2e9",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Padres RHP Joe Musgrove to undergo Tommy John surgery after wild-card injury",
+    "link": "https://sports.yahoo.com/padres-rhp-joe-musgrove-to-undergo-tommy-john-surgery-after-wild-card-injury-212608901.html",
+    "description": "Joe Musgrove will miss the NLDS for the Padres and a whole lot more.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 21:26:08 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/_0WvdrQKTk28aCoIKbH6lQ--~B/aD0zNzY4O3c9NTY1MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/7451df90-8297-11ef-bfcb-c8c0f26fe74a",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Tigers vs. Guardians Game 1prediction: Odds, expert picks, playoff history, news, betting trends, and stats",
+    "link": "https://sports.yahoo.com/tigers-vs-guardians-game-1prediction-203851027.html",
+    "description": "Detroit Tigers vs. Cleveland Guardians ALDS Game 1 Preview",
+    "author": "NBC Sports",
+    "published": "Fri, 04 Oct 2024 20:38:51 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/Vjn0g5kc19fz68oi5XwMag--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbcsports.com/cad48a935bd958b07ad4ac513859bba2",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Aces guard Tiffany Hayes earns WNBA Sixth Player of the Year after coming out of retirement",
+    "link": "https://sports.yahoo.com/aces-guard-tiffany-hayes-earns-wnba-sixth-player-of-the-year-after-coming-out-of-retirement-203914031.html",
+    "description": "Hayes averaged 9.5 points, 2.8 rebounds and 2.1 assists off the bench for Las Vegas after announcing her retirement from the WNBA last December.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 20:39:14 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/dWCYJyPTWWAofoWnaiSe3w--~B/aD0yODE4O3c9NDIyODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/2dcb6a00-828d-11ef-affb-33359d289072",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Twins announce GM Thad Levine is leaving the organization after 8 years",
+    "link": "https://sports.yahoo.com/twins-announce-gm-thad-levine-is-leaving-the-organization-after-8-years-203507176.html",
+    "description": "The Minnesota Twins and general manager Thad Levine announced they are parting ways after eight years.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 20:35:07 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/_9yuC.O.oyy0fIRa3zq2Eg--~B/aD0yNjc1O3c9NDAxMjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/f84238a0-8287-11ef-af9f-d7660e12a00c",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Fantasy Football: How the 2024 NFL rookie class looks through four weeks",
+    "link": "https://sports.yahoo.com/fantasy-football-how-the-2024-nfl-rookie-class-looks-through-four-weeks-184503983.html",
+    "description": "It's time to check in on how the 2024 rookie class is stacking up for your fantasy football teams.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 18:45:03 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/QmI2EUB1T3lPCVuoLhEuCA--~B/aD0yOTIzO3c9NDM4NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/90087680-826b-11ef-af5e-5d31089501d0",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Colts' Jonathan Taylor out for Week 5 vs. Jaguars; Anthony Richardson questionable",
+    "link": "https://sports.yahoo.com/colts-jonathan-taylor-out-for-week-5-vs-jaguars-anthony-richardson-questionable-171028847.html",
+    "description": "Taylor has a high ankle sprain and will miss Sunday's matchup against Jacksonville.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 17:10:28 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/RnI7iltTPGji1JqvgP9tgA--~B/aD0zMTg3O3c9NDc4MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/03445230-826d-11ef-bf54-d663be4389ce",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Report: Warriors didn't draft Bronny out of ‘respect' for LeBron's wishes",
+    "link": "https://sports.yahoo.com/report-warriors-didnt-draft-bronny-161106130.html",
+    "description": "The Golden State Warriors reportedly passed on Bronny James in the 2024 NBA Draft to respect the wishes of Los Angeles Lakers superstar LeBron James.",
+    "author": "NBC Sports BayArea",
+    "published": "Fri, 04 Oct 2024 22:02:57 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/24rIiXBfA86Yk516r2ObBw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/csnbayarea.com/cbb54b9b7ee764d0fb2075cbdbcb9c60",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Fantasy Football: Week 5 predictions to count on",
+    "link": "https://sports.yahoo.com/fantasy-football-week-5-predictions-to-count-on-155626345.html",
+    "description": "The Yahoo Fantasy Football crew reveals the players they have the most conviction on for Week 5.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 15:57:08 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/y56AYtUxLzQ3.hNvsXCQJg--~B/aD0yNDU1O3c9MzY4MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/f584de70-8268-11ef-9bb5-7c886845bf06",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Giants WR Malik Nabers to miss game against Seahawks due to concussion",
+    "link": "https://sports.yahoo.com/giants-wr-malik-nabers-to-miss-game-against-seahawks-due-to-concussion-154225411.html",
+    "description": "Nabers suffered the injury during the Giants' Week 4 loss to the Cowboys.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 15:42:25 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/dyse4xDaoApN8LB9ILOsZw--~B/aD0yODg4O3c9NDMzMjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/2c8ff910-8267-11ef-aae2-c5cce2268954",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Fantasy Football: Our biggest draft mistakes in 2024",
+    "link": "https://sports.yahoo.com/fantasy-football-draft-mistakes-2024-153407809.html",
+    "description": "Fantasy football analyst Scott Pianowski takes a look back at some of his biggest regrets in 2024 drafts.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 15:34:07 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/v1SyoEIFq_iOlRKMP8birw--~B/aD0zNTgyO3c9NTM3MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/1599e650-8265-11ef-bde7-c62d4a45e10e",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "9 keys to a fantasy football victory in Week 5",
+    "link": "https://sports.yahoo.com/9-keys-to-a-fantasy-football-victory-in-week-5-151505010.html",
+    "description": "Fantasy football analyst Sal Vetri offers up his inside scoop on getting in the win column in Week 5.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 15:15:05 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/7q_dWlS67w1vd22C56duZQ--~B/aD01MjE5O3c9NzgyODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/4c01e750-825c-11ef-bdff-c8b5367bd21d",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Yankees vs. Royals 2024 ALDS Preview and Prediction",
+    "link": "https://sports.yahoo.com/yankees-vs-royals-2024-alds-162505273.html",
+    "description": "The latest World-Series-or-bust October for the Yankees begins Saturday against the Kansas City Royals in the ALDS.",
+    "author": "SNY",
+    "published": "Thu, 03 Oct 2024 16:25:05 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/T1hxUOGYixfkkEJTGDut1g--~B/aD0yNTA7dz00NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/sny_articles_235/d9c6303cd5316c99ac96f315a5045d6e",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Cleveland Cavaliers 2024-25 season preview: Can this core four hang with East elite?",
+    "link": "https://sports.yahoo.com/cleveland-cavaliers-2024-25-season-preview-can-this-core-four-hang-with-east-elite-144826600.html",
+    "description": "Breaking down Cleveland's biggest question, best- and worst-case scenarios, and fantasy outlook.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 14:48:26 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/Qgl.7YoRH7_r_d2zh9ZwEA--~B/aD0xODAwO3c9MzE4MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/7f742b80-8030-11ef-abef-b34f7a30d9de",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Los Angeles Clippers 2024-25 season preview: Their new arena is open, but title window is shut",
+    "link": "https://sports.yahoo.com/los-angeles-clippers-2024-25-season-preview-their-new-arena-is-open-but-title-window-is-shut-144814951.html",
+    "description": "Breaking down the Clippers' biggest question, best- and worst-case scenarios, and fantasy outlook.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 14:48:14 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/jy6NNngARVXNU3r6h7Rtqw--~B/aD0xODAwO3c9MzE4MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/e50c0db0-800c-11ef-b7fb-0e8fedfa305a",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Patrick Ewing hired by Knicks as basketball ambassador",
+    "link": "https://sports.yahoo.com/patrick-ewing-hired-by-knicks-as-basketball-ambassador-143012313.html",
+    "description": "The Hall of Famer played 15 of his 17 NBA seasons in New York.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 14:30:12 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/FldsJSXO3nhgxq19maxnxg--~B/aD0zNDU2O3c9NTE4NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/160f8c80-825a-11ef-8fa7-f1f11ab3f6f6",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Binge, Stream, Skip: Week 5 Fantasy Football",
+    "link": "https://sports.yahoo.com/binge-stream-skip-week-5-fantasy-football-140812758.html",
+    "description": "Fantasy football analyst Matt Harmon reveals his viewing guide for Week 5.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 14:08:12 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/2M8OpkUzcSoYCjsxO7J.Vg--~B/aD01NDk0O3c9ODI0MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/066aba20-825a-11ef-bdff-77cd27ab1aed",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Former Oilers Goalie Takes Indefinite Leave",
+    "link": "https://sports.yahoo.com/former-oilers-goalie-takes-indefinite-211325181.html",
+    "description": "Earlier today, an announcement was made that former Edmonton Oilers goalie had entered the NHLPA Player Assistance program.",
+    "author": "The Hockey News - Edmonton Oilers",
+    "published": "Fri, 04 Oct 2024 21:13:25 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/1z4J6LQ.erlZMzTKlbT5hQ--~B/aD04MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_hockey_news_edmonton_oilers_articles_905/860064ae1b62b4da21e9cdd11a1b13ff",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Fantasy Football Week 5 Start 'Em Sit 'Em",
+    "link": "https://sports.yahoo.com/fantasy-football-week-5-start-em-sit-em-140417263.html",
+    "description": "Week 5 is here! Fantasy football analyst Dalton Del Don delivers his lineup advice for every game.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 14:04:17 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/bR9uXVV6C2MAGO1cdoe.kQ--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/7376f210-8259-11ef-973a-11cde468d107",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Wisconsin RB Chez Mellusi stepping away from team 'to get his body healthy'",
+    "link": "https://sports.yahoo.com/wisconsin-rb-chez-mellusi-stepping-away-from-team-to-get-his-body-healthy-125954966.html",
+    "description": "Mellusi is the team's leading rusher and has dealt with myriad injuries in his college career.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 12:59:54 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/CIIg8c69gjcMlTDpOr4iBw--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/63acfa90-8250-11ef-9cff-4f6b2c3da57f",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "NFL injury tracker Week 5: Rashee Rice to IR, Nick Chubb returns to practice, Malik Nabers and Jonathan Taylor out",
+    "link": "https://sports.yahoo.com/nfl-injury-tracker-week-5-rashee-rice-to-ir-nick-chubb-returns-to-practice-malik-nabers-and-jonathan-taylor-out-121905049.html",
+    "description": "Here's everything you need to know injury-wise for Week 5.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 12:19:05 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/TaRAwhdXnrsQAtMxuIonMg--~B/aD00NzczO3c9NzE1OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/29e29280-824a-11ef-bfe7-cd475b0745cf",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Yahoo Sports AM: Alonso plays the hero",
+    "link": "https://sports.yahoo.com/yahoo-sports-am-alonso-plays-the-hero-120859459.html",
+    "description": "In today's edition: Alonso's blast sends the Mets to the NLDS, the Falcons win a thriller, Ashton Jeanty's Heisman case, MJ vs. NASCAR, the NHL and NFL go abroad, and more.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 12:08:59 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/NbkPBSxip7aTYFaUK.jp3g--~B/aD0yNTg4O3c9Mzg4MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/bdeeafc0-8247-11ef-9fbd-2c8096fe2291",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Celtics-Nuggets takeaways: ‘Preseason P' returns in C's win",
+    "link": "https://sports.yahoo.com/celtics-nuggets-takeaways-preseason-p-194122326.html",
+    "description": "Payton Pritchard and the Celtics' \"Stay Ready Crew\" propelled Boston to a 107-103 win in Friday's preseason opener in Abu Dhabi.",
+    "author": "NBC Sports Boston",
+    "published": "Fri, 04 Oct 2024 19:55:54 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/dvtlieL.3Q.923psRgkKXw--~B/aD02ODA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/csnne.com/6cd7b4d20872064e56e61e0362c853c8",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "WNBA Playoffs Game 3: How to watch the New York Liberty vs. Las Vegas Aces semi-final tonight",
+    "link": "https://sports.yahoo.com/wnba-playoffs-game-3-how-to-watch-the-new-york-liberty-vs-las-vegas-aces-semi-final-tonight-105509113.html",
+    "description": "The New York Liberty face the Las Vegas Aces for Game 3 of the WNBA semi-finals on Friday",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 10:55:09 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/Zm87eV49S_AwFFVCiI2ibQ--~B/aD0yMzUxO3c9MzUyNTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/3831f1a0-8187-11ef-b97f-028bd9066cb0",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Reds hire Terry Francona as manager one year after he stepped down from Guardians",
+    "link": "https://sports.yahoo.com/reds-hire-terry-francona-as-manager-one-year-after-he-stepped-down-from-guardians-021150710.html",
+    "description": "Francona, 65, is apparently feeling better. His MLB exit was presented as a retirement amid health concerns. He went as far as saying that he didn't see himself managing again, though he left some doors open",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 02:11:50 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/uSuZen0wbh9nTC1mMatnMQ--~B/aD01MTE3O3c9NzY3NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/636eb680-81f7-11ef-af7f-61eb51c044d2",
+    "source": "https://sports.yahoo.com/rss/",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "title": "Bills vs. Texans preview \u0026 2025 Mock Draft: will Travis Hunter go to the Dolphins? | Football 301",
+    "link": "https://sports.yahoo.com/bills-vs-texans-preview--2025-mock-draft-will-travis-hunter-go-to-the-dolphins--football-301-003459666.html",
+    "description": "Nate Tice and Charles McDonald preview the most interesting NFL matchups of Week 5 \u0026 give their first 2025 mock draft of the season.",
+    "author": "Yahoo Sports",
+    "published": "Fri, 04 Oct 2024 00:34:59 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/9iUWmeOT8H8fZGC9X4gE8A--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/1de2ee40-81e5-11ef-b66a-a6e78d105607",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
@@ -736,12 +1176,12 @@
     ]
   },
   {
-    "title": "Yankees vs. Royals 2024 ALDS Preview and Prediction",
-    "link": "https://sports.yahoo.com/yankees-vs-royals-2024-alds-162505273.html",
-    "description": "The latest World-Series-or-bust October for the Yankees begins Saturday against the Kansas City Royals in the ALDS.",
-    "author": "SNY",
-    "published": "Thu, 03 Oct 2024 16:25:05 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/T1hxUOGYixfkkEJTGDut1g--~B/aD0yNTA7dz00NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/sny_articles_235/d9c6303cd5316c99ac96f315a5045d6e",
+    "title": "Iowa Hawkeyes vs. Ohio State Buckeyes prediction: Odds, expert picks, player news, betting trends, and stats",
+    "link": "https://sports.yahoo.com/iowa-hawkeyes-vs-ohio-state-144612614.html",
+    "description": "Iowa Hawkeyes vs. Ohio State Buckeyes Game Preview",
+    "author": "NBC Sports",
+    "published": "Fri, 04 Oct 2024 14:46:12 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/CoQGnAyrp5KDD6DYU3PD1Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbcsports.com/dd75256c413cf0eaa9b297dc1e56c73d",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
@@ -796,12 +1236,12 @@
     ]
   },
   {
-    "title": "Yankees playoff schedule for 2024 ALDS vs. Royals",
-    "link": "https://sports.yahoo.com/yankees-playoff-schedule-2024-alds-002708386.html",
-    "description": "Here is the Yankees' ALDS schedule as they start their 2024 postseason campaign, and their pursuit of No. 28, at home against the Kansas City Royals.",
+    "title": "Anthony Rizzo won't be on Yankees 2024 ALDS roster; hopes to be back for ALCS",
+    "link": "https://sports.yahoo.com/anthony-rizzo-wont-yankees-2024-002035112.html",
+    "description": "Anthony Rizzo confirmed with the media that he will not be on the Yankees' ALDS roster due to his fractured fingers.",
     "author": "SNY",
-    "published": "Thu, 03 Oct 2024 00:27:08 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/Yk8Nqf6gvQfwk6gmGlJcjA--~B/aD0yNTA7dz00NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/sny_articles_235/a98fe1a714c7dcdc30522eb68b8e73f3",
+    "published": "Sat, 05 Oct 2024 00:20:35 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/8o4W7TsJc5crsLza3Nhfjg--~B/aD0yNTA7dz00NDQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/sny_articles_235/f4a648bdc415dbefdd620725116a14b1",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
@@ -856,767 +1296,407 @@
     ]
   },
   {
-    "title": "Eight concerns the Dodgers should have about facing the Padres in the NLDS",
-    "link": "https://sports.yahoo.com/eight-concerns-dodgers-facing-padres-034253350.html",
-    "description": "The Dodgers and San Diego Padres will meet in the National League Division Series. Here are eight things the Dodgers will need to be wary of in the series.",
-    "author": "LA Times",
-    "published": "Thu, 03 Oct 2024 03:42:53 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/yS19LjsZTHvZttsFlUjnKA--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/la_times_articles_853/dec451108bc88a2cc1b6ca4cc6d4d01e",
+    "title": "Kings Defensemen Has Successful Ankle Surgery",
+    "link": "https://sports.yahoo.com/kings-defensemen-successful-ankle-surgery-203000776.html",
+    "description": "The Los Angeles Kings have provided another injury update on their defensemen Drew Doughty. Doughty had successful surgery today to repair his fractured ankle and remains out month-to-month. He was hurt last week after an awkward fall into the boards puck battle with Golden Knights forward Tanner ...",
+    "author": "The Hockey News - Los Angeles Kings",
+    "published": "Fri, 04 Oct 2024 20:30:00 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/8M9LMttJ._noUQyEU1.l0w--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_hockey_news_los_angeles_kings_articles_947/58fb34ae82007020280983aa06bc12aa",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
     ]
   },
   {
-    "title": "Week 6 Race For The Case \u0026 four must win games | College Football Enquirer",
-    "link": "https://sports.yahoo.com/week-6-race-for-the-case--four-must-win-games--college-football-enquirer-211240455.html",
-    "description": "On today's show, Dan Wetzel, Ross Dellenger and SI's Pat Forde discuss four games in Week 6 that are must win situations for Ole Miss, Missouri, Florida State, and Rutgers. They break down what is on the line for each team to either revive their season or bolster their playoff resume.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 21:12:40 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/kBrFZEtSP28NDg2d6xBLKw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/d85df2e0-81c9-11ef-a743-fefd5ee8539b",
+    "title": "Sabres Cut Former First-Rounder From NHL Roster",
+    "link": "https://sports.yahoo.com/sabres-cut-former-first-rounder-150146952.html",
+    "description": "This Buffalo Sabres defenseman has been loaned to the Rochester Americans.",
+    "author": "The Hockey News - Buffalo Sabres",
+    "published": "Fri, 04 Oct 2024 15:01:46 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/6JRRSQaP0b15k1oja7kUCA--~B/aD04MDA7dz0xMTcxO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_hockey_news_buffalo_sabres_articles_890/5105863359a693d19a902ee146443138",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
     ]
   },
   {
-    "title": "Rashee Rice placed on injured reserve by Chiefs, will miss minimum of 4 games",
-    "link": "https://sports.yahoo.com/rashee-rice-placed-on-injured-reserve-by-chiefs-will-miss-minimum-of-4-games-195707192.html",
-    "description": "The Chiefs are down a few players on offense.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 19:57:07 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/RRJOP37WLiUQpZ_.tF9RQA--~B/aD01MDMzO3c9NzU0OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/91261cc0-81c1-11ef-a7df-110b786694bc",
+    "title": "Where to watch Sunday's NASCAR Cup playoff race at Talladega",
+    "link": "https://sports.yahoo.com/where-watch-sundays-nascar-cup-190000065.html",
+    "description": "The second round of the Cup playoffs continues Sunday at Talladega Superspeedway on NBC.",
+    "author": "NBC Sports",
+    "published": "Fri, 04 Oct 2024 19:00:00 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/rqNwtEyermEUfaJo7JUEjw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbcsports.com/2acf0b00237f7749e6187b4c9d23aa4f",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
     ]
   },
   {
-    "title": "Bills vs. Texans preview \u0026 2025 Mock Draft: will Travis Hunter go to the Dolphins? | Football 301",
-    "link": "https://sports.yahoo.com/bills-vs-texans-preview--2025-mock-draft-will-travis-hunter-go-to-the-dolphins--football-301-003459666.html",
-    "description": "Nate Tice and Charles McDonald preview the most interesting NFL matchups of Week 5 \u0026 give their first 2025 mock draft of the season.",
-    "author": "Yahoo Sports",
-    "published": "Fri, 04 Oct 2024 00:34:59 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/9iUWmeOT8H8fZGC9X4gE8A--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/1de2ee40-81e5-11ef-b66a-a6e78d105607",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Fantasy Football Week 5: Rankings, sleepers, start/sit advice and more",
-    "link": "https://sports.yahoo.com/fantasy-football-week-5-rankings-sleepers-startsit-advice-and-more-171809260.html",
-    "description": "Dominate your Week 5 matchups with all of our fantasy football content, all in one place!",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 17:18:09 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/FbHIazrDZjW9nayB5YlKEw--~B/aD0xOTk5O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/f358c4d0-81a6-11ef-bfce-c1b6aa573115",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Kerr details unique collaboration process for new-look Warriors",
-    "link": "https://sports.yahoo.com/kerr-details-unique-collaboration-process-213814233.html",
-    "description": "Steve Kerr believes in putting his pride aside to collaborate with his coaches to get the Golden State Warriors back to the standard they are used to.",
-    "author": "NBC Sports BayArea",
-    "published": "Thu, 03 Oct 2024 21:38:14 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/EFSRpHVU5IooSskGSlCWVg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/csnbayarea.com/827343a7d9e84c7a44277ec230cffa3a",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Fantasy Football Sleepers: Several backup RBs with potential to gain ground in Week 5",
-    "link": "https://sports.yahoo.com/fantasy-football-sleepers-week-5-tucker-kraft-tre-tucker-trey-sermon-171445970.html",
-    "description": "Fantasy football analyst Scott Pianowski offers up several sleepers to consider in Week 5 as bye weeks kick off.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 17:14:45 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/rt8HIhI2_Zsv1k_.IebvJQ--~B/aD0yODI5O3c9NDI0NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/b17a7230-81aa-11ef-b5de-a19d93ff1d8e",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Raiders coach Antonio Pierce given 8-year show-cause penalty by NCAA for recruiting violations during time at Arizona State",
-    "link": "https://sports.yahoo.com/raiders-coach-antonio-pierce-given-8-year-show-cause-penalty-by-ncaa-for-recruiting-violations-during-time-at-arizona-state-165006956.html",
-    "description": "The NCAA found that Pierce and another former ASU staff member violated recruitment rules during the COVID-19 dead period.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 16:50:06 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/H4XsSC2aihI32YH6_xxdXA--~B/aD0zNjQ4O3c9NTQ3MjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/5c154e80-81a2-11ef-9aef-015631223b41",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Fantasy Football: 6 players who will make or break your Week 5 lineups",
-    "link": "https://sports.yahoo.com/fantasy-football-6-players-who-will-make-or-break-your-week-5-lineups-163326747.html",
-    "description": "Fantasy football analyst Tera Roberts discusses several players she predicts will make or break your lineups in Week 5.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 16:33:26 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/wCDm1FfQlNsIFvs.TYOvew--~B/aD00NDkwO3c9NjczNTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/8c814870-81a3-11ef-af73-f8c734041776",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Fantasy Football Week 5: Breece (Hall) yourselves for another down game ...",
-    "link": "https://sports.yahoo.com/fantasy-football-week-5-breece-hall-yourselves-for-another-down-game-163050135.html",
-    "description": "Beware of these players with fantasy football bust potential in Week 6!",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 16:30:50 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/ZAXDfnrfkhZeNbsalBvczA--~B/aD00NTg1O3c9Njg3NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/649fd900-7ec1-11ef-b27b-f2e90eeb7395",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Warriors camp takeaways: Looney makes splash in scrimmage",
-    "link": "https://sports.yahoo.com/warriors-camp-takeaways-looney-makes-022203399.html",
-    "description": "Kevon Looney showcased what he has been working on over the summer on Day 2 of Golden State Warriors training camp on Wednesday in Hawaii.",
-    "author": "NBC Sports BayArea",
-    "published": "Thu, 03 Oct 2024 02:22:03 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/EKO2dUcRErAxhJPwNP1mng--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/csnbayarea.com/4e85b0a72a6151261bcc0c3818e93caf",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "MLB Wild Card Series Game 3: How to watch Milwaukee vs. New York today, game channels and more",
-    "link": "https://sports.yahoo.com/mlb-wild-card-series-game-3-how-to-watch-milwaukee-vs-new-york-today-game-channels-and-more-153232557.html",
-    "description": "Today is day 3 of the MLB Wild Card Series; here's how to watch the Mets vs. Brewers.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 15:32:32 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/QH6_6xPDSGiVYPoFT38fFw--~B/aD0yMDI3O3c9MzA0MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/d9630a40-812e-11ef-bc5f-b5f2bdcd8537",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Fantasy Football Trading Essentials: Tips on getting deals done with bye weeks here",
-    "link": "https://sports.yahoo.com/fantasy-football-trading-essentials-tips-on-getting-deals-done-with-bye-weeks-here-150934874.html",
-    "description": "Andy Behrens reveals four things to help seal the deal if you're looking to make a trade in your fantasy football league.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 15:09:34 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/puFUj86zwYc2tFuTDiXfig--~B/aD0yNjQyO3c9Mzk2MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/758737b0-8199-11ef-becf-1198a9275f45",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "The Fantasy Football Numbers Do Lie: Exposing stats for Week 5 and beyond",
-    "link": "https://sports.yahoo.com/the-fantasy-football-numbers-do-lie-exposing-stats-for-week-5-and-beyond-145749463.html",
-    "description": "With Week 5 of the fantasy football season here, it's a great time for Dalton Del Don to pull the curtain from some tricky stats.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 14:57:49 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/3vbbQcJD8u5SOEfV0vrVVQ--~B/aD00Mjg0O3c9NjQyNjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/ac1de5a0-8197-11ef-bd9b-70677f77af0d",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Fantasy Football Week 5 matchups to exploit: All systems go for these young WRs!",
-    "link": "https://sports.yahoo.com/fantasy-football-week-5-start-dontayvion-wicks-brian-thomas-jr-rome-odunze-144843833.html",
-    "description": "Be sure to target these favorable matchups from fantasy football analyst Sal Vetri when setting your lineups in Week 5!",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 14:48:43 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/ff5ygu_ZRPRqd4TWBfjnYg--~B/aD00OTMxO3c9NzM5NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/15620e80-8196-11ef-97ee-c21084251bcc",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Blackhawks Prospect Dazzles In AHL Debut",
-    "link": "https://sports.yahoo.com/blackhawks-prospect-dazzles-ahl-debut-130431795.html",
-    "description": "The recently demoted Chicago Blackhawks prospect wasted little time making an impact for the AHL team.",
+    "title": "More Former Blackhawks Hit The Waiver Wire",
+    "link": "https://sports.yahoo.com/more-former-blackhawks-hit-waiver-000326030.html",
+    "description": "Two more former Chicago Blackhawks hit the waiver wire on October 3rd.",
     "author": "The Hockey News - Chicago Blackhawks",
-    "published": "Thu, 03 Oct 2024 13:04:31 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/mLV5.eAtgDhAvdzygvEJYQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_hockey_news_chicago_blackhawks_articles_966/5a6fefc6b5172cd60e70dec17a766497",
+    "published": "Fri, 04 Oct 2024 00:03:26 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/xhU1COce0pdJoQOHDUksaA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_hockey_news_chicago_blackhawks_articles_966/8202c58b6894ae24da8ee1aec61e989f",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
     ]
   },
   {
-    "title": "Milwaukee Bucks 2024-25 season preview: How far can Giannis and an aging core go?",
-    "link": "https://sports.yahoo.com/milwaukee-bucks-2024-25-season-preview-how-far-can-giannis-and-an-aging-core-go-130930874.html",
-    "description": "Breaking down Milwaukee's biggest question, best- and worst-case scenarios, and fantasy outlook.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 13:10:14 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/ey6YGikhpY.pOGtrSRcO5g--~B/aD0xODAwO3c9MzE4MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/edd70480-8008-11ef-aedd-c3d411e91c84",
+    "title": "Former Flyers Forward Placed On Waivers",
+    "link": "https://sports.yahoo.com/former-flyers-forward-placed-waivers-214341790.html",
+    "description": "This former Philadelphia Flyers forward is available for the taking on waivers.",
+    "author": "The Hockey News - Philadelphia Flyers",
+    "published": "Fri, 04 Oct 2024 21:43:41 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/eobKWCvntdawHQzRJDvsHg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_hockey_news_philadelphia_flyers_articles_543/85db906c1d5b85e382ee1b9a1451c1b6",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
     ]
   },
   {
-    "title": "Minnesota Timberwolves 2024-25 season preview: It's Anthony Edwards and a lot of 'ifs' now",
-    "link": "https://sports.yahoo.com/minnesota-timberwolves-2024-25-season-preview-its-anthony-edwards-and-a-lot-of-ifs-now-130655852.html",
-    "description": "Breaking down Minnesota's biggest question, best- and worst-case scenarios, and fantasy outlook.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 13:06:55 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/anZkNL2EkHw54x3v1.mDsw--~B/aD0xODAwO3c9MzE4MzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/eeabaf00-80cb-11ef-9fae-2a09d2a075b8",
+    "title": "'Uncrowned queen' Harrison sets sights on UFC title",
+    "link": "https://sports.yahoo.com/uncrowned-queen-harrison-sets-sights-080711561.html",
+    "description": "Two-time Olympic gold medallist Kayla Harrison says she is the \"uncrowned queen\" in the UFC as she prepares for her second fight in the promotion.",
+    "author": "BBC",
+    "published": "Fri, 04 Oct 2024 08:07:11 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/00TLcbrifgp0q4lFcfvtWA--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bbc_us_articles_995/70d0fe6d31e139de61c2412119196fdd",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
     ]
   },
   {
-    "title": "What to watch: Week 6 college football viewing guide",
-    "link": "https://sports.yahoo.com/what-to-watch-week-6-college-football-viewing-guide-130238077.html",
-    "description": "There's just one game between ranked teams this week.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 13:02:38 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/OPSWO02PWPG5sGnuEWNUGA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/2e88cca0-8187-11ef-bf79-a1d421c0983a",
+    "title": "Boxing schedule and results 2024",
+    "link": "https://sports.yahoo.com/boxing-schedule-results-2024-111706210.html",
+    "description": "Schedule and results for the biggest boxing fights in 2024.",
+    "author": "BBC",
+    "published": "Fri, 04 Oct 2024 11:26:55 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/zoAIZLwZLYgbGqDM5BauzA--~B/aD00NjE7dz04MTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bbc_us_articles_995/08b3297e570379b6bb400a63700f70df",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
     ]
   },
   {
-    "title": "Padres, Tigers, Royals advance to divisional round, Mets-Brewers to play Game 3 | Baseball Bar-B-Cast",
-    "link": "https://sports.yahoo.com/padres-tigers-royals-advance-to-divisional-round-mets-brewers-to-play-game-3--baseball-bar-b-cast-065841758.html",
-    "description": "Jake Mintz and Jordan Shusterman recap all the action from the Wild Card round including the Padres, Tigers and Royals advancing to the divisional round and preview the Mets-Brewers do-or-die Game 3.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 06:58:41 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/ENeGWKuSOPnKxmbTjO3Biw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/42c6b750-8154-11ef-bf2f-70250ef89756",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Weekend schedule, broadcast info for NASCAR Cup, Xfinity, Trucks at Talladega",
-    "link": "https://sports.yahoo.com/weekend-schedule-broadcast-nascar-cup-110000722.html",
-    "description": "The playoffs continue for Cup, Xfinity and Trucks this weekend.",
-    "author": "NBC Sports",
-    "published": "Thu, 03 Oct 2024 11:00:00 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/ZAocmY4UAV0ck5s088.y3g--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbcsports.com/3abe220ac70c8dcecbe413f398114b5f",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "FC Cincinnati, MLS denounce alleged anti-gay slur targeted at player during game vs. NYCFC",
-    "link": "https://sports.yahoo.com/fc-cincinnati-mls-denounce-alleged-anti-gay-slur-targeted-at-player-during-game-vs-nycfc-045718452.html",
-    "description": "An MLS game got ugly at one point on Wednesday.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 04:57:18 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/i7Jx2bKglta6yjB9bi6YJw--~B/aD0zNTExO3c9NTI2NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/b3a71c00-8143-11ef-bbf4-a20d54c907f2",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Football 301 Playbook: 4 weeks into season, here are NFL's top standouts (welcome back, running backs!) and slumps (c'mon, Browns)",
-    "link": "https://sports.yahoo.com/football-301-playbook-4-weeks-into-season-here-are-nfls-top-standouts-welcome-back-running-backs-and-slumps-cmon-browns-045328747.html",
-    "description": "Also turning heads: Nico Collins entering the next tier of top wideouts, Jim Harbaugh's Chargers and the Commanders turning the tempo up with a rookie QB.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 04:53:28 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/4cgL5OM0XCNpXktwtyMO6g--~B/aD04MjA7dz0xNDUwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2024-10/9b5d4170-8133-11ef-b8bf-81e090cfd7fe",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Fantasy Film Room: Rookie check in for the QBs, RBs, WRs and TEs | Yahoo Fantasy Forecast",
-    "link": "https://sports.yahoo.com/fantasy-film-room-rookie-check-in-for-the-qbs-rbs-wrs-and-tes--yahoo-fantasy-forecast-040047607.html",
-    "description": "It's Thursday and 'Fantasy Film Room' is back with Nate Tice and Matt Harmon. With 4 weeks in the books it's time for a rookie check in at the season's quarter pole. The duo dive into the rookie QBs, RBs, WRs and TEs that are making an instant fantasy impact.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 04:00:47 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/EsPLzfuhkLus0H41sWG9xw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/c6a5c360-8125-11ef-b6af-9234053aa140",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Atlanta Braves 2024 offseason preview: Can the Braves win the World Series in 2025?",
-    "link": "https://sports.yahoo.com/atlanta-braves-2024-offseason-preview-can-the-braves-win-the-world-series-in-2025-032949704.html",
-    "description": "Injuries sabotaged the Braves' plans for 2024, but almost all of their key pieces will be back next year.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 03:29:49 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/.r_LVKnmUaWaJY0bbFFqaw--~B/aD0xOTc0O3c9Mjk2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/85dd40a0-80f4-11ef-9fff-38d9b86c5980",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "NCAA announces regional sites for 2027 and 2028 men’s and women’s basketball tournaments",
-    "link": "https://sports.yahoo.com/ncaa-announces-regional-sites-2027-185322415.html",
-    "description": "The NCAA is sticking with two regionals for the women’s basketball tournament through at least 2028.",
-    "author": "NBC Sports",
-    "published": "Wed, 02 Oct 2024 18:53:22 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/bp9N_g0TEgXNixl5CebQgw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbcsports.com/0413f0ccb07497636d06c9ecf003da1f",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "MLB playoffs 2024: Scrappy Tigers rally for comeback victory in Game 2, wild-card sweep of Astros",
-    "link": "https://sports.yahoo.com/mlb-playoffs-2024-scrappy-tigers-rally-for-comeback-victory-in-game-2-wild-card-sweep-of-astros-003000028.html",
-    "description": "Detroit's bats picked up rookie pitcher Jackson Jobe to clinch the series and end Houston's run of ALCS appearances.",
-    "author": "Yahoo Sports",
-    "published": "Thu, 03 Oct 2024 00:30:00 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/e4IM8DI971BmfdaQ6bmKUw--~B/aD00MzIwO3c9NjQ3OTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/b72bcb30-811d-11ef-bd3b-76e26f765e80",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Colts’ Zaire Franklin doubles down on Najee Harris criticism after middle finger gestures",
-    "link": "https://sports.yahoo.com/colts-zaire-franklin-doubles-down-on-najee-harris-criticism-after-middle-finger-gestures-233234109.html",
-    "description": "Najee Harris was seen flipping off Colts fans before the Steelers’ loss in Indianapolis on Sunday.",
-    "author": "Yahoo Sports",
-    "published": "Wed, 02 Oct 2024 23:32:34 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/ep4LgYJBMrFgMb.kkJJ_Vw--~B/aD0zMTEwO3c9NDY2NDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/4974d550-8113-11ef-8fff-fe6450daa3fb",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Houston Astros 2024 offseason preview: Can the Astros keep their window of contention open for 2025?",
-    "link": "https://sports.yahoo.com/houston-astros-2024-offseason-preview-can-the-astros-keep-their-window-of-contention-open-for-2025-213254013.html",
-    "description": "The rotation proved to be a strength this year, but the offense has some holes to fill.",
-    "author": "Yahoo Sports",
-    "published": "Wed, 02 Oct 2024 21:32:54 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/6N.yXBNJhx5nkr9Y_KPICQ--~B/aD00MjM2O3c9NjM1NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/242fd450-80f2-11ef-b5db-84b6e98e5665",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Atlanta Dream fire head coach Tanisha Wright after 3 seasons",
-    "link": "https://sports.yahoo.com/atlanta-dream-fire-head-coach-tanisha-wright-after-3-seasons-205422283.html",
-    "description": "Tanisha Wright went 48-68 in her three seasons leading the Dream.",
-    "author": "Yahoo Sports",
-    "published": "Wed, 02 Oct 2024 20:52:46 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/uAopgQer.A5NaQSc5bO62g--~B/aD0xOTcxO3c9Mjk1NzthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/277951a0-8100-11ef-bf0f-577ddccbfbea",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Robert Saleh: \"There is no cadence issue. There never was a cadence issue. It was created.\"",
-    "link": "https://sports.yahoo.com/robert-saleh-no-cadence-issue-103100901.html",
-    "description": "Yes, it's not easy to tiptoe around a delicate genius.",
-    "author": "ProFootball Talk on NBC Sports",
-    "published": "Thu, 03 Oct 2024 10:31:00 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/kPt00Vr_g5CUxm3YHFDeOA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/profootballtalk.nbcsports.com/47cf1cc4bffe55947b3e3c8f41b2b862",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Dolphins’ Jaelan Phillips out with season-ending knee injury after going down in loss to Titans",
-    "link": "https://sports.yahoo.com/dolphins-jaelan-phillips-out-with-season-ending-knee-injury-after-going-down-in-loss-to-titans-203456057.html",
-    "description": "Jaelan Phillips needs reconstructive surgery on his knee, and is now out for the rest of the year.",
-    "author": "Yahoo Sports",
-    "published": "Wed, 02 Oct 2024 20:34:56 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/IlJW8KXLva_xUAShA15Amw--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2024-09/97bd0ab0-80fb-11ef-b5ff-9db6f1128eb9",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Murphy Felt \"Partially Responsible\" After Korchinski Didn't Make Blackhawks",
-    "link": "https://sports.yahoo.com/murphy-felt-partially-responsible-korchinski-155939551.html",
-    "description": "Connor Murphy had nothing but great things to say about his main defense partner Kevin Korchinski after he didn't make the Blackhawks out of training camp.",
+    "title": "3 Former Blackhawks Placed on Waivers",
+    "link": "https://sports.yahoo.com/3-former-blackhawks-placed-waivers-212137963.html",
+    "description": "More players that were formerly on the Blackhawks have hit the waiver wire.",
     "author": "The Hockey News - Chicago Blackhawks",
-    "published": "Thu, 03 Oct 2024 15:59:39 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/G2spcqm7AlWao3zzHRl_UQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_hockey_news_chicago_blackhawks_articles_966/168d07dff637319d6840d324c5343b6e",
+    "published": "Fri, 04 Oct 2024 21:21:37 GMT",
+    "image": "https://s.yimg.com/uu/api/res/1.2/NILy5yPqZyNcno80jq84Tw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_hockey_news_chicago_blackhawks_articles_966/670f6987acede719c746b05f96ab7e9c",
     "source": "https://sports.yahoo.com/rss/",
     "categories": [
       "Sports"
     ]
   },
   {
-    "title": "Swayman sheds light on 2023 arbitration process in new NHL docuseries",
-    "link": "https://sports.yahoo.com/swayman-sheds-light-2023-arbitration-201600229.html",
-    "description": "Bruins goalie Jeremy Swayman is among the NHL stars featured in a new Amazon Prime Video docuseries.",
-    "author": "NBC Sports Boston",
-    "published": "Thu, 03 Oct 2024 22:03:58 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/mwmqmcAhga0tJTele.b3_w--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/csnne.com/c2676beec1e1f04535a77ba96da53752",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "LeBron, Bronny bringing energy, family rivalry to Lakers practices",
-    "link": "https://sports.yahoo.com/lebron-bronny-bringing-energy-family-151313548.html",
-    "description": "When Bronny hit a 3, other players started trash talking LeBron.",
-    "author": "NBC Sports",
-    "published": "Thu, 03 Oct 2024 15:13:13 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/_LDeuxPuIPlvwsoiSrheLQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbcsports.com/5d1176fd8c93dcdadd92e5d251a7d94c",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Sharks waive two veterans, assign one to Barracuda camp",
-    "link": "https://sports.yahoo.com/sharks-waive-two-veterans-assign-175150900.html",
-    "description": "Three veteran players are on the move after the San Jose Sharks' recent training camp roster moves.",
-    "author": "NBC Sports BayArea",
-    "published": "Thu, 03 Oct 2024 17:51:50 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/fJoFZxTdeT9gsnQEysz19A--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/csnbayarea.com/7fedc581e433183d7c1bbd1c62291fdd",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Matthew Berry's Love/Hate for Week 5 of 2024 season",
-    "link": "https://sports.yahoo.com/matthew-berrys-love-hate-week-164745973.html",
-    "description": "Matthew Berry breaks down his Love/Hate players for Week 5 and answers fans' questions from X/Twitter in a AMA... Ask Matthew Anything.",
-    "author": "NBC Sports",
-    "published": "Thu, 03 Oct 2024 16:47:45 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/CCH9Wht7bJ61ew.TNhKnqA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbcsports.com/2baecf7fcad1bc9097f0859bc5b489fe",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Chiasson Cut, Finnie Sent to WHL as Red Wings Trim Roster to 55",
-    "link": "https://sports.yahoo.com/chiasson-cut-finnie-sent-whl-202502224.html",
-    "description": "The Red Wings ended Alex Chiasson's professional tryout and sent prospect Emmitt Finnie back to the WHL's Kamloops Blazers heading into the final games of the preseason.",
-    "author": "The Hockey News - Detroit Red Wings",
-    "published": "Wed, 02 Oct 2024 20:25:02 GMT",
-    "image": "https://s.yimg.com/uu/api/res/1.2/s0JSnlcBkUFnyBmZz2Fo3Q--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_hockey_news_detroit_red_wings_articles_903/febb8c8c11685eaf73aacedb9484b37d",
-    "source": "https://sports.yahoo.com/rss/",
-    "categories": [
-      "Sports"
-    ]
-  },
-  {
-    "title": "Chiefs place leading receiver Rice (knee) on IR",
-    "link": "https://www.espn.com/nfl/story/_/id/41591760/chiefs-place-leading-receiver-rashee-rice-knee-ir",
-    "description": "The Chiefs placed wide receiver Rashee Rice on injured reserve Thursday, sidelining him for at least the next four games.",
-    "author": "",
-    "published": "Thu, 3 Oct 2024 20:43:29 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "Fan's spilled drink on RB Brown deemed accident",
-    "link": "https://www.espn.com/nfl/story/_/id/41593944/fan-spilled-drink-bengals-chase-brown-deemed-accident",
-    "description": "The NFL has determined that a drink-spilling incident involving a fan and Bengals running back Chase Brown was an accident.",
-    "author": "Ben Baby",
-    "published": "Thu, 3 Oct 2024 20:43:29 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "Saints' Carr would welcome reunion with Adams",
-    "link": "https://www.espn.com/nfl/story/_/id/41593008/saints-derek-carr-welcome-reunion-davante-adams",
-    "description": "Saints quarterback Derek Carr said he would love the chance to play with former teammate Davante Adams again.",
-    "author": "Katherine Terrell",
-    "published": "Thu, 3 Oct 2024 20:43:29 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "Rondo, eyeing coaching career, joins Bucks",
-    "link": "https://www.espn.com/nba/story/_/id/41593563/rajon-rondo-joins-bucks-guest-coach-training-camp",
-    "description": "Rajon Rondo has spent the week with the Bucks as a guest coach for their training camp and will remain with the team in an unspecified capacity this season.",
-    "author": "Baxter Holmes",
-    "published": "Thu, 3 Oct 2024 20:43:29 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "Bananas to hit 3 football, 18 MLB stadiums in '25",
-    "link": "https://www.espn.com/mlb/story/_/id/41595625/savannah-bananas-visit-3-football-18-mlb-stadiums-25",
-    "description": "The independent Savannah Bananas will take their unique brand of \"Banana Ball\" to 18 MLB and three football stadiums in 2025, with a goal of attracting 2 million fans.",
+    "title": "Musgrove needs TJ surgery, won't pitch for Padres",
+    "link": "https://www.espn.com/mlb/story/_/id/41610884/ahead-nlds-padres-say-joe-musgrove-needs-tommy-john",
+    "description": "Joe Musgrove needs Tommy John surgery and won't pitch for the Padres in the NL Division Series against the Dodgers.",
     "author": "Alden Gonzalez",
-    "published": "Thu, 3 Oct 2024 20:43:29 EST",
+    "published": "Fri, 4 Oct 2024 20:18:07 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "KAT: Thibodeau history helps transition to Knicks",
-    "link": "https://www.espn.com/nba/story/_/id/41591280/karl-anthony-towns-shock-ready-get-know-knicks",
-    "description": "Karl-Anthony Towns' familiarity with coach Tom Thibodeau could help him and the Knicks jell together following the blockbuster trade.",
-    "author": "Chris Herring",
-    "published": "Thu, 3 Oct 2024 20:43:29 EST",
+    "title": "Roberts 'expecting' Freeman for G1 despite ankle",
+    "link": "https://www.espn.com/mlb/story/_/id/41612436/dodgers-roberts-expecting-freddie-freeman-ankle-game-1",
+    "description": "Freddie Freeman was still favoring his tender ankle Friday, but Dodgers manager Dave Roberts said, \"I don't doubt that he'll be ready to go\" for Saturday's Game 1 against the Padres.",
+    "author": "Alden Gonzalez",
+    "published": "Fri, 4 Oct 2024 20:18:07 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "Clark crowned as top rookie after historic year",
-    "link": "https://www.espn.com/wnba/story/_/id/41589974/caitlin-clark-wins-wnba-rookie-year-honors",
-    "description": "Fever star Caitlin Clark was chosen as WNBA Rookie of the Year after setting multiple league records in her debut season.",
-    "author": "Michael Voepel",
-    "published": "Thu, 3 Oct 2024 20:43:29 EST",
+    "title": "In surprise, Mets' Senga given G1 nod vs. Phillies",
+    "link": "https://www.espn.com/mlb/story/_/id/41610646/mets-start-kodai-senga-game-1-nlds-vs-phillies",
+    "description": "Kodai Senga, who threw just 5 1/3 innings during the regular season due to multiple injuries, will start Game 1 for the Mets in Philly. \"I'm ready for whatever. If they say 10 pitches, I'm all-in for 10 pitches. If they say 200, I'm in for 200.\"",
+    "author": "Jeff Passan",
+    "published": "Fri, 4 Oct 2024 20:18:07 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "NCAA penalizes Raiders' Pierce for ASU violations",
-    "link": "https://www.espn.com/college-football/story/_/id/41588590/antonio-pierce-gets-show-cause-penalty-arizona-st-violations",
-    "description": "The NCAA slapped Raiders coach Antonio Pierce with a significant penalty that will take effect should he ever return to college coaching.",
-    "author": "Kyle Bonagura",
-    "published": "Thu, 3 Oct 2024 20:43:29 EST",
+    "title": "Tigers' Holton returns as G1 starter vs. Guardians",
+    "link": "https://www.espn.com/mlb/story/_/id/41612201/tigers-start-lefty-tyler-holton-open-alds-vs-guardians",
+    "description": "The Tigers will start lefty Tyler Holton in Game 1 of their American League Division Series against the Guardians on Saturday.",
+    "author": "Jesse Rogers",
+    "published": "Fri, 4 Oct 2024 20:18:07 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "Follow live: Bucs, Falcons meet in Atlanta for Week 5",
-    "link": "https://www.espn.com/nfl/game/_/gameId/401671815/buccaneers-falcons",
-    "description": "null",
-    "author": "",
-    "published": "Thu, 3 Oct 2024 20:59:51 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "The case of the Ohtani 50/50 home run ball and the legal quest to own it",
-    "link": "https://www.espn.com/mlb/story/_/id/41574091/shohei-ohtani-50-50-home-run-ball-los-angeles-dodgers-mlb",
-    "description": "Appraisers and legal experts address key questions over the fate of a famous ball potentially worth millions.",
-    "author": "Dan Hajducky and Xuan Thai",
-    "published": "Thu, 3 Oct 2024 14:51:20 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "'I know the student body is excited': Previewing Miami-Cal, a ranked SEC matchup and more ahead of Week 6",
-    "link": "https://www.espn.com/college-football/story/_/page/gamedaykickoff100324/2024-college-football-game-day-kickoff-week-6",
-    "description": "Our college football experts give insight on key players, matchups to know and more.",
-    "author": "ESPN",
-    "published": "Thu, 3 Oct 2024 16:39:30 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "'We live in the weird': How the Calgorithm became college football's newest sensation",
-    "link": "https://www.espn.com/college-football/story/_/id/41532952/cal-football-calgorithm-social-media-community-2024",
-    "description": "A new conference brought out the best in Cal's online community as the Bears are off to a 3-1 start.",
-    "author": "Kyle Bonagura",
-    "published": "Thu, 3 Oct 2024 18:04:59 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "A'ja Wilson unfiltered: The WNBA star opens up about her record-breaking season",
-    "link": "https://www.espn.com/wnba/story/_/id/41575088/aja-wilson-wnba-interview",
-    "description": "Wilson, the three-time MVP, talks about her historic season and the growth of the WNBA in an exclusive ESPN interview.",
-    "author": "Tyler R. Tynes",
-    "published": "Thu, 3 Oct 2024 14:20:17 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "New NFL kickoff rules: Have they increased return rates and player safety so far?",
-    "link": "https://www.espn.com/nfl/story/_/id/41569604/new-2024-nfl-kickoff-rules-learned-4-weeks",
-    "description": "Here's what we've learned after seeing the dramatic new special teams rules in action for a month.",
+    "title": "NFL will not mediate in Tua's potential return",
+    "link": "https://www.espn.com/nfl/story/_/id/41607477/nfl-not-role-tua-tagovailoa-potential-return",
+    "description": "As NFL officials touted a record low of preseason concussions Friday, they pledged that the league won't impose an outcome for its most notable concussion patient.",
     "author": "Kevin Seifert",
-    "published": "Thu, 3 Oct 2024 11:35:40 EST",
+    "published": "Fri, 4 Oct 2024 20:18:07 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "'We are going to build this the right way': How the Panthers rose to prominence on and off the ice",
-    "link": "https://www.espn.com/nhl/story/_/id/41575614/florida-panthers-rise-prominence-ice-2024-nhl-season",
-    "description": "Through smart hockey moves and making Florida a destination for players, the Panthers have gone from laughingstock to a model franchise.",
-    "author": "Emily Kaplan",
-    "published": "Thu, 3 Oct 2024 10:49:15 EST",
+    "title": "Adams among 7 Raiders out; Crosby questionable",
+    "link": "https://www.espn.com/nfl/story/_/id/41611395/davante-adams-7-raiders-vs-broncos-crosby-questionable",
+    "description": "Davante Adam and Zamir White are among seven Raiders players ruled out of Sunday's game in Denver, but defensive end Maxx Crosby could return.",
+    "author": "Paul Gutierrez",
+    "published": "Fri, 4 Oct 2024 20:18:07 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "As NASCAR comes together for Helene aid, notable teams sue the series",
-    "link": "https://www.espn.com/racing/nascar/story/_/id/41578374/as-nascar-teams-hurricane-helene-aid-north-carolina-tennessee-23xi-co-sue-sport",
-    "description": "While the NASCAR community is coming together to help its neighbors affected by Hurricane Helene, two teams felt the time was right to sue the series.",
-    "author": "Ryan McGee",
-    "published": "Thu, 3 Oct 2024 16:47:03 EST",
+    "title": "Man found guilty of cheating ex-NBAers of $8M",
+    "link": "https://www.espn.com/nba/story/_/id/41610771/georgia-man-guilty-cheating-ex-nba-players-howard-parsons-8m",
+    "description": "A Georgia businessman was convicted Friday of cheating former NBA players Dwight Howard and Chandler Parsons out of $8 million after a trial in Manhattan federal court.",
+    "author": "Brian Windhorst",
+    "published": "Fri, 4 Oct 2024 20:18:07 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "Maguire throws Ten Hag a late lifeline by rescuing Manchester United in Porto",
-    "link": "https://www.espn.com/soccer/story/_/id/41593483/harry-maguire-throws-erik-ten-hag-lifeline-rescuing-man-united-porto-uefa-europa-league",
-    "description": "Porto took advantage of Man United's ongoing defensive frailty, but Harry Maguire's stoppage-time equaliser likely saved Erik ten Hag's job -- for now.",
-    "author": "Mark Ogden, Rob Dawson",
-    "published": "Thu, 3 Oct 2024 19:23:07 EST",
+    "title": "Devils down Sabres in season opener in Prague",
+    "link": "https://www.espn.com/nhl/story/_/id/41609907/devils-top-sabres-4-1-nhl-regular-season-opener-prague",
+    "description": "The Devils opened the NHL season with a 4-1 win over the Sabres in Prague. Paul Cotter tallied two points for New Jersey, while Stefan Noesen scored the league's first goal of the season.",
+    "author": "",
+    "published": "Fri, 4 Oct 2024 20:18:07 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "Mbappé out of France squad to aid injury recovery",
-    "link": "https://www.espn.com/soccer/story/_/id/41584047/kylian-mbappe-france-squad-aid-thigh-recovery",
-    "description": "Kylian Mbappé has been left out of Didier Deschamps' France squad for the upcoming UEFA Nations League fixtures against Israel and Belgium to aid his recovery from a thigh injury.",
+    "title": "'I feel like I already won': How Aces' Plum has persevered through tough season",
+    "link": "https://www.espn.com/wnba/story/_/id/41570239/wnba-playoffs-2024-semifinals-las-vegas-aces-kelsey-plum",
+    "description": "Las Vegas trails 2-0 in the WNBA semifinals. But whatever the outcome of this season, the Aces guard said she is glad she has battled through it.",
+    "author": "Michael Voepel",
+    "published": "Fri, 4 Oct 2024 19:47:24 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "A'ja Wilson is done people-pleasing",
+    "link": "https://www.espn.com/wnba/story/_/id/41575088/aja-wilson-wnba-interview",
+    "description": "The three-time MVP talks about her historic season and the growth of the WNBA in an exclusive interview.",
+    "author": "Tyler R. Tynes",
+    "published": "Fri, 4 Oct 2024 19:47:24 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "Let’s preview all 13 remaining NFL Week 5 games: Picks, predictions, fantasy X factors and matchup nuggets",
+    "link": "https://www.espn.com/nfl/story/_/id/41589712/nfl-week-5-picks-schedule-fantasy-football-odds-injuries-stats-2024",
+    "description": "Which teams will win? Which storylines matter most? Here is everything you need to know.",
+    "author": "NFL Nation",
+    "published": "Fri, 4 Oct 2024 19:28:51 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "11 wins away from forever: Bryce Harper, built for October, begins another chase for his first title",
+    "link": "https://www.espn.com/mlb/story/_/id/41572104/mlb-2024-playoffs-bryce-harper-phillies-dominate-october-world-series",
+    "description": "As the Phillies try to bring a title to one of baseball's most passionate cities, they are fueled by a star who has been in the headlines since he was 15.",
+    "author": "Jeff Passan",
+    "published": "Fri, 4 Oct 2024 10:33:15 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "Bingo, movie nights and Mike Gundy! How Oklahoma State's radio show ended up at a retirement community",
+    "link": "https://www.espn.com/college-football/story/_/id/41554506/mike-gundy-oklahoma-state-football-radio-show-live-senior-retirement-community",
+    "description": "Coach radio shows might be outdated, but the longtime Oklahoma State coach has brought new life to his call-in hour by having it with a group of 70- and 80-year-olds.",
+    "author": "Eli Lederman",
+    "published": "Fri, 4 Oct 2024 18:15:45 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "From Jordy Nelson to Eddie Lacy, here's what the five 10K pass catchers for Aaron Rodgers had to say",
+    "link": "https://www.espn.com/nfl/story/_/id/40885459/new-york-jets-aaron-rodgers-10000-yard-milestones-60000-passing-yards",
+    "description": "As Aaron Rodgers sits 96 passing yards shy of 60,000. Here's what the five players who caught his 10,000-yard milestones had to say.",
+    "author": "Rich Cimini and Rob Demovsky",
+    "published": "Fri, 4 Oct 2024 10:51:24 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "Inside Lakers training camp: LeBron with Bronny, Redick and painful lessons from Kobe",
+    "link": "https://www.espn.com/nba/story/_/id/41594659/inside-lakers-training-camp-lebron-bronny-redick-painful-lessons-kobe",
+    "description": "Maximizing James' final years means two things: Playing with his son -- and avoiding the failings that stained Kobe's final playing days.",
+    "author": "Ramona Shelburne",
+    "published": "Fri, 4 Oct 2024 08:39:56 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "Lapsed fan's guide to the 2024-25 NHL season: Everything you need to know",
+    "link": "https://www.espn.com/nhl/story/_/id/41589474/nhl-2024-25-season-preview-guide-ovechkin-stamkos-panthers-oilers-utah",
+    "description": "It has been four months since the Panthers hoisted the Stanley Cup. Here are the key players, teams and storylines this season.",
+    "author": "Greg Wyshynski",
+    "published": "Fri, 4 Oct 2024 14:40:36 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "2024 MLB playoffs: Schedule, postseason bracket, standings",
+    "link": "https://www.espn.com/mlb/story/_/id/41459802/2024-mlb-playoffs-word-series-schedule-how-watch-postseason-bracket-standings",
+    "description": "We have your one-stop shop for everything you need to keep up with all the action this October.",
     "author": "ESPN",
-    "published": "Thu, 3 Oct 2024 15:52:37 EST",
+    "published": "Fri, 4 Oct 2024 07:30:11 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "USWNT to face Netherlands after England friendly",
-    "link": "https://www.espn.com/soccer/story/_/id/41577462/uswnt-face-netherlands-december-england-friendly",
-    "description": "The United States women's national team will end its 2024 campaign with an away match on Dec. 3 against the Netherlands, in a rematch of the 2019 World Cup final.",
-    "author": "Jeff Kassouf",
-    "published": "Thu, 3 Oct 2024 15:52:37 EST",
+    "title": "Pogba doping ban reduced; can return in March '25",
+    "link": "https://www.espn.com/soccer/story/_/id/41607386/paul-pogba-doping-ban-reduced-18-months-cas-appeal",
+    "description": "World Cup winner Paul Pogba's doping suspension has been cut to 18 months from an initial four years, the Court of Arbitration for Sport said on Friday.",
+    "author": "ESPN News Services",
+    "published": "Fri, 4 Oct 2024 19:28:41 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "Messi: Miami secured 'first objective' with Shield",
-    "link": "https://www.espn.com/soccer/story/_/id/41567047/lionel-messi-goals-inter-miami-clinch-mls-supporters-shield",
-    "description": "Inter Miami clinched the 2024 Supporters' Shield with a 3-2 victory over the Columbus Crew on Wednesday night at Lower.com Field in Ohio.",
-    "author": "Lizzy Becherano",
-    "published": "Thu, 3 Oct 2024 18:36:59 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "Morata fumes at mayor over 'violating privacy'",
-    "link": "https://www.espn.com/soccer/story/_/id/41584873/milans-alvaro-morata-fumes-mayor-violating-privacy",
-    "description": "AC Milan forward Álvaro Morata has expressed his anger after the mayor of the Italian town of Corbetta revealed his new residency there.",
-    "author": "Adriana Garcia",
-    "published": "Thu, 3 Oct 2024 19:13:42 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "Tottenham's Solanke named in England squad",
-    "link": "https://www.espn.com/soccer/story/_/id/41584525/england-squad-tottenhams-dominic-solanke-picked-carsley",
-    "description": "Tottenham forward Dominic Solanke has been named in Lee Carley's England squad for their upcoming UEFA Nations League matches against Greece and Finland.",
-    "author": "ESPN",
-    "published": "Thu, 3 Oct 2024 17:14:03 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "Emi: Villa Park noise 'hurting my ears' vs. Bayern",
-    "link": "https://www.espn.com/soccer/story/_/id/41575399/villa-park-noise-hurting-ears-win-bayern",
-    "description": "BIRMINGHAM -- Aston Villa goalkeeper Emiliano Martínez said the crowd was the loudest he'd ever heard it at Villa Park after helping his team beat Bayern Munich 1-0 in the Champions League on Wednesday evening.",
-    "author": "Tom Hamilton",
-    "published": "Thu, 3 Oct 2024 15:52:37 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "Endrick shrugs off critics: 'That's what football is'",
-    "link": "https://www.espn.com/soccer/story/_/id/41582271/endrick-real-madrid-criticism-football-is",
-    "description": "Real Madrid forward Endrick has revealed he isn't affected by criticism after a defeat, stating \"that's what football is.\"",
-    "author": "Adriana Garcia",
-    "published": "Thu, 3 Oct 2024 19:20:39 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "Germany name uncapped trio amid keeper crisis",
-    "link": "https://www.espn.com/soccer/story/_/id/41583396/germany-call-uncapped-trio-amid-goalkeeper-shortage",
-    "description": "Germany have selected three goalkeepers who are yet to make a senior international appearance ahead of their Nations League games against Bosnia and the Netherlands.",
+    "title": "USMNT's Reyna has recovery setback at Dortmund",
+    "link": "https://www.espn.com/soccer/story/_/id/41605422/usa-borussia-dortmund-winger-gio-reyna-recovery-setback",
+    "description": "null",
     "author": "Associated Press",
-    "published": "Thu, 3 Oct 2024 19:13:42 EST",
+    "published": "Fri, 4 Oct 2024 19:28:41 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "UCL talking points: Durán and Di Maria shine, Man City still favorites",
-    "link": "https://www.espn.com/soccer/story/_/id/41550047/champions-league-talking-points-duran-di-maria-shine-man-city-favorites",
-    "description": "Our writers answer the burning questions, provide analysis and break down performances.",
-    "author": "ESPN",
-    "published": "Thu, 3 Oct 2024 15:52:54 EST",
+    "title": "Suárez says Bielsa causing divide within Uruguay",
+    "link": "https://www.espn.com/soccer/story/_/id/41598921/luis-suarez-blasts-bielsa-lack-respect-uruguay-players",
+    "description": "Luis Suárez detailed the rigorous training protocols and team conducts established by coach Marcelo Bielsa upon his arrival at the Uruguay national team.",
+    "author": "Lizzy Becherano",
+    "published": "Fri, 4 Oct 2024 19:28:41 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "Answering big questions about QBs: How are 10 signal-callers looking after four weeks?",
-    "link": "https://www.espn.com/nfl/story/_/id/41536457/nfl-quarterback-questions-2024-allen-darnold-rodgers-hurts-daniels",
-    "description": "How is Josh Allen dealing with his new supporting cast? What's the latest in Pittsburgh?",
-    "author": "NFL Nation reporters",
-    "published": "Thu, 3 Oct 2024 10:02:44 EST",
+    "title": "Ratcliffe: Ten Hag's United future 'not my call'",
+    "link": "https://www.espn.com/soccer/story/_/id/41605792/erik-ten-hag-man-united-future-not-my-call-jim-ratcliffe",
+    "description": "Manchester United co-owner Sir Jim Ratcliffe has refused to give assurances to under-fire manager Erik ten Hag while insisting a decision on the Dutchman's future is out of his hands.",
+    "author": "Rob Dawson",
+    "published": "Fri, 4 Oct 2024 19:28:40 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "Patrick Mahomes thrilled to see playoff baseball return to Kansas City",
-    "link": "https://www.espn.com/nfl/story/_/id/41591371/patrick-mahomes-kansas-city-royals-playoff-home-game",
-    "description": "The Kansas City Chiefs quarterback, who is part of the Royals' ownership group, says October baseball in the city will be something special.",
-    "author": "Adam Teicher",
-    "published": "Thu, 3 Oct 2024 19:31:58 EST",
+    "title": "Martino: Miami deserves Club World Cup invite",
+    "link": "https://www.espn.com/soccer/story/_/id/41608519/inter-miami-deserves-club-world-cup-invite-martino",
+    "description": "Inter Miami coach Gerardo Martino confirmed FIFA has not selected the additional MLS participant for the 2025 Club World Cup yet, but insists the Herons now possess the \"football fundamentals\" to earn a spot in the tournament.",
+    "author": "Lizzy Becherano",
+    "published": "Fri, 4 Oct 2024 19:28:40 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "Baker Mayfield, Kirk Cousins team up to support Hurricane Helene relief efforts.",
-    "link": "https://www.espn.com/nfl/story/_/id/41593011/baker-mayfield-kirk-cousins-falcons-buccaneers-hurricane-helene-relief-pledge",
-    "description": "Mayfield and Cousins' families have pledged $50,000 toward a $100,000 donation to Team Rubicon.",
-    "author": "Jenna Laine",
-    "published": "Thu, 3 Oct 2024 19:31:58 EST",
+    "title": "Paolo Maldini's son, Daniel, gets 1st Italy call-up",
+    "link": "https://www.espn.com/soccer/story/_/id/41607521/paolo-maldini-son-daniel-cesare-1st-italy-squad-first",
+    "description": "Daniel Maldini was called up by Italy coach Luciano Spalletti on Friday for Nations League matches and could follow in the footsteps of his father Paolo and grandfather Cesare, both former Italy captains.",
+    "author": "Associated Press",
+    "published": "Fri, 4 Oct 2024 19:28:40 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "Sun's Marina Mabrey has a pretty simple philosophy: 'Don't get punked'",
-    "link": "https://www.espn.com/wnba/story/_/id/41569899/2024-wnba-playoffs-connecticut-sun-marina-mabrey-here-anyone-popularity-contest",
-    "description": "Marina Mabrey is one those players you love when she's on your team and not so much if she's on the opposing team.",
-    "author": "Myron Medcalf",
-    "published": "Thu, 3 Oct 2024 14:44:02 EST",
+    "title": "Fenerbahce's Jose Mourinho: I was a 's--- player'",
+    "link": "https://www.espn.com/soccer/story/_/id/41601834/fenerbahce-boss-jose-mourinho-was-s-player",
+    "description": "Fenerbahce coach Jose Mourinho gave a frank assessment of his playing career when asked about the performance of one of his defenders.",
+    "author": "Adriana Garcia",
+    "published": "Fri, 4 Oct 2024 17:43:24 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "How the Liberty put two-time defending champion Aces on brink of elimination",
-    "link": "https://www.espn.com/wnba/story/_/id/41549363/wnba-playoffs-2024-game-2-liberty-aces-sun-lynx-results-happened",
-    "description": "Behind another big performance from Sabrina Ionescu, New York is a win away from sweeping Las Vegas.",
-    "author": "Kevin Pelton, Katie Barnes, Charlie Creme",
-    "published": "Thu, 3 Oct 2024 14:44:02 EST",
+    "title": "Sources: Lauren Holiday in line for Courage role",
+    "link": "https://www.espn.com/soccer/story/_/id/41594776/uswnt-lauren-holiday-north-carolina-courage-role-sale",
+    "description": "Former World Cup champion Lauren Holiday is expected to play \"a very active role\" with the North Carolina Courage, should the sale of the team to Marc Lasry's Avenue Capital Group be finalized, sources told ESPN.",
+    "author": "Jeff Kassouf",
+    "published": "Fri, 4 Oct 2024 16:16:39 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "Meet the Penningtons: Raquel and Tecia take a title, partnership and parenthood to UFC 307",
+    "link": "https://www.espn.com/mma/story/_/id/41568812/ufc-307-raquel-tecia-pennington-title-partnership-parenthood-julianna-pena",
+    "description": "From managing motherhood to defending a title belt, their moment together in Salt Lake will be one-of-a-kind.",
+    "author": "Andreas Hale",
+    "published": "Fri, 4 Oct 2024 07:46:55 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "Naismith Hall of Fame to pay tribute to Spike Lee, Jack Nicholson and other superfans",
+    "link": "https://www.espn.com/nba/story/_/id/41610688/naismith-basketball-hall-fame-spike-lee-jack-nicholson-billy-crystal-alan-horwitz-superfans",
+    "description": "The Naismith Basketball Hall of Fame will honor the group with a ceremony on Oct. 13.",
+    "author": "Chris Herring",
+    "published": "Fri, 4 Oct 2024 19:52:42 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "Oregon's 'Heroes' uniforms among the best college football threads in Week 6",
+    "link": "https://www.espn.com/college-football/story/_/id/41597417/college-football-uniforms-week-6",
+    "description": "Oregon's \"Heroes\" uniform began composition in 2022, when Dan Lanning was first hired.",
+    "author": "Kalan Hooks",
+    "published": "Fri, 4 Oct 2024 19:52:43 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "From Chelsea to Jimenez: Premier League surprise teams, players",
+    "link": "https://www.espn.com/soccer/story/_/id/41569948/premier-league-2024-2025-surprise-teams-chelsea-fulham-raul-jimenez",
+    "description": "The 2024-25 Premier League season is full of surprises. Did anyone think Chelsea would finally find a winning consistency? And how about Raul Jimenez's renaissance after fracturing his skull?",
+    "author": "Ian Darke",
+    "published": "Fri, 4 Oct 2024 08:18:47 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "Transfer Talk: Barcelona shop for Ansu Fati replacement",
+    "link": "https://www.espn.com/soccer/story/_/id/41611798/transfer-talk-barcelona-shop-ansu-fati-replacement",
+    "description": "Barcelona are looking to send Ansu Fati out on loan again, but they need to find his replacement first. Transfer Talk has the latest.",
+    "author": "Danny Lewis",
+    "published": "Fri, 4 Oct 2024 19:43:22 EST",
+    "image": "",
+    "source": "https://www.espn.com/espn/rss/news",
+    "categories": null
+  },
+  {
+    "title": "Four draft trends you need to know about this season",
+    "link": "https://www.espn.com/fantasy/basketball/story/_/id/41592010/fantasy-basketball-draft-trends-follow-fade-2024-25-nba",
+    "description": "After taking part in many fantasy basketball mock drafts, Steve Alexander provides his key takeaways.",
+    "author": "Steve Alexander",
+    "published": "Fri, 4 Oct 2024 14:50:53 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
@@ -1624,59 +1704,19 @@
   {
     "title": "Should you draft Jokic or Wembanyama at No. 1 this season?",
     "link": "https://www.espn.com/fantasy/basketball/story/_/id/41589562/fantasy-basketball-roundtable-draft-nikola-jokic-victor-wembanyama-no-1-season",
-    "description": "With the incredible rise of Victor Wembanyama, it's no longer a slam dunk to pick Nikola Jokic with the No. 1 overall pick.",
+    "description": "With the incredible rise of Wemby, it's no longer a slam dunk to pick Nikola Jokic with the No. 1 pick.",
     "author": "ESPN Fantasy",
-    "published": "Thu, 3 Oct 2024 14:53:20 EST",
+    "published": "Fri, 4 Oct 2024 14:50:53 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null
   },
   {
-    "title": "Star-in-the-making Ekitike, Eintracht to test Bundesliga leaders Bayern",
-    "link": "https://www.espn.com/soccer/story/_/id/41570923/star-making-hugo-ekitike-eintracht-frankfurt-test-bundesliga-leaders-bayern-munich",
-    "description": "For the second straight weekend, Bundesliga leaders Bayern Munich will meet No. 2 in the table. Can Eintracht Frankfurt go one better than Leverkusen?",
-    "author": "Derek Rae",
-    "published": "Thu, 3 Oct 2024 15:27:01 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "10 goals in one game? Why Man United signed Chido Obi-Martin from Arsenal",
-    "link": "https://www.espn.com/soccer/story/_/id/40869145/man-united-sign-chido-obi-martin-arsenal-everything-need-know",
-    "description": "Manchester United have signed the 16-year-old striking sensation. What do we know about him?",
-    "author": "Sam Tighe",
-    "published": "Thu, 3 Oct 2024 15:27:39 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "Transfer Talk: Barcelona eye Neymar return if Haaland snubs them",
-    "link": "https://www.espn.com/soccer/story/_/id/41575510/transfer-talk-barcelona-eyeing-neymar-return",
-    "description": "Barcelona are reportedly trying to get former player Neymar to make a return to Spain from Al Hilal. Transfer Talk is with the latest.",
-    "author": "ESPN",
-    "published": "Thu, 3 Oct 2024 08:03:51 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "How to watch, stream Janibek vs. Mikhailovich, Ball vs. Rios",
-    "link": "https://www.espn.com/boxing/story/_/id/41567608/how-watch-stream-boxing-espn+-janibek-vs-mikhailovich-ball-vs-rios",
-    "description": "Looking to watch the two world title fight on ESPN+ this weekend? Here's how to do it.",
-    "author": "ESPN",
-    "published": "Wed, 2 Oct 2024 15:59:02 EST",
-    "image": "",
-    "source": "https://www.espn.com/espn/rss/news",
-    "categories": null
-  },
-  {
-    "title": "Real or not: Garcia-Haney? Joshua-Dubois? Canelo-Bivol? Will these rematches happen?",
-    "link": "https://www.espn.com/boxing/story/_/id/41588588/garcia-haney-joshua-dubois-canelo-bivol-boxing-rematches-happen",
-    "description": "Garcia-Haney, Joshua-Dubois and Canelo-Bivol lead a number of rematches that could be decided soon, but a few things have to happen first.",
-    "author": "",
-    "published": "Thu, 3 Oct 2024 17:40:27 EST",
+    "title": "Draft strategy: The best picks for each draft slot in Rounds 1 and 2",
+    "link": "https://www.espn.com/fantasy/hockey/story/_/id/41593226/espn-nhl-fantasy-hockey-two-round-draft-board-picks",
+    "description": "The top of your fantasy hockey draft is important, so we've mapped out how the top 20 picks should go.",
+    "author": "Victoria Matiash",
+    "published": "Fri, 4 Oct 2024 14:58:54 EST",
     "image": "",
     "source": "https://www.espn.com/espn/rss/news",
     "categories": null

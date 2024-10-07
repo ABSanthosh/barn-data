@@ -1140,6 +1140,23 @@
     "categories": null
   },
   {
+    "title": "European space mission to examine Nasa asteroid impact site",
+    "link": "https://www.theguardian.com/science/2024/oct/05/european-space-mission-hera-examine-nasa-dimorphos-asteroid-impact-site",
+    "description": "Hera to measure Dimorphos space rock that Dart probe deliberately hitFinal preparations are under way to send a European spacecraft to an asteroid to discover what happened when a Nasa probe deliberately slammed into the space rock two years ago.The European Space Agency’s Hera mission will survey the impact site and make detailed measurements of the battered rock, Dimorphos, to help researchers hone their strategies for defending Earth should a wayward asteroid ever threaten the planet in the future. Continue reading...",
+    "author": "Ian Sample Science editor",
+    "published": "Sat, 05 Oct 2024 05:00:15 GMT",
+    "image": "",
+    "source": "https://www.theguardian.com/science/space/rss",
+    "categories": [
+      "Asteroids",
+      "Space",
+      "European Space Agency",
+      "Nasa",
+      "Science",
+      "World news"
+    ]
+  },
+  {
     "title": "Asteroid that eradicated dinosaurs not a one-off, say scientists",
     "link": "https://www.theguardian.com/science/2024/oct/03/asteroid-that-eradicated-dinosaurs-not-a-one-off-say-scientists",
     "description": "Scans of underwater crater in West Africa suggest another large asteroid smashed into the planet around the same timeThe massive asteroid that brought about the end of the reign of the dinosaurs when it crashed into Earth 66m years ago was not a one-off, researchers say.Detailed scans of an underwater crater off the coast of Guinea in West Africa suggest that it was created when another large asteroid smashed into the planet around the same time at the end of the Cretaceous period. Continue reading...",
@@ -1445,18 +1462,56 @@
     ]
   },
   {
-    "title": "Astronomy photographer of the year 2024 – winners and finalists",
-    "link": "https://www.theguardian.com/science/gallery/2024/sep/13/astronomy-photographer-of-the-year-2024-winners-finalists",
-    "description": "The winners of Royal Observatory Greenwich’s annual competition have been announced. The images will be on display in the accompanying exhibition, opening at the National Maritime Museum in London on Friday Continue reading...",
-    "author": "Guardian Staff",
-    "published": "Fri, 13 Sep 2024 06:00:49 GMT",
-    "image": "",
-    "source": "https://www.theguardian.com/science/space/rss",
+    "title": "This Week In Space podcast: Episode 131 —The Star Wars vs. Star Trek Food Fight",
+    "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-131-star-wars-vs-star-trek-food-fight",
+    "description": "On Episode 131 of This Week In Space, Rod and Tariq tackle a question that rivals the meaning of life itself: which is better, Star Trek or Star Wars?",
+    "author": "",
+    "published": "Sat, 05 Oct 2024 13:37:45 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/mkpqri8v93kHfERYnGCTUZ.jpg",
+    "source": "https://www.space.com/feeds/all",
     "categories": [
-      "Astronomy",
-      "Photography",
-      "Space",
-      "Science"
+      "Space Movies \u0026amp; Shows",
+      "Entertainment"
+    ]
+  },
+  {
+    "title": "Ancient supermassive black hole is blowing galaxy-killing wind, James Webb Space Telescope finds",
+    "link": "https://www.space.com/james-webb-space-telescope-earliest-quasar-wind",
+    "description": "The James Webb Space Telescope has spotted the earliest supermassive black hole-driven quasar wind ever seen, pushing away matter at 6,000 times the speed of sound and killing its host galaxy.",
+    "author": "",
+    "published": "Sat, 05 Oct 2024 13:00:22 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/naziz24haeF7fpGtC9JLQ3.png",
+    "source": "https://www.space.com/feeds/all",
+    "categories": [
+      "Black Holes",
+      "The Universe"
+    ]
+  },
+  {
+    "title": "See Venus rendezvous with the crescent moon in the night sky tonight (Oct. 5)",
+    "link": "https://www.space.com/venus-moon-conjunction-october-52024",
+    "description": "On Saturday evening (Oct. 5) as darkness is falling, be sure to take a look low toward the west-southwest part of the sky for a beautiful celestial tableau formed by a lovely crescent moon and the brilliant planet Venus.",
+    "author": "",
+    "published": "Sat, 05 Oct 2024 11:00:32 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/3nQSwNbRMJQi5A79rBL66o.jpg",
+    "source": "https://www.space.com/feeds/all",
+    "categories": [
+      "Stargazing"
+    ]
+  },
+  {
+    "title": "How satellite data has proven climate change is a climate crisis",
+    "link": "https://www.space.com/satellite-data-climate-change-crisis",
+    "description": "In the fight against climate change, satellite data is an extremely valuable resource.",
+    "author": "",
+    "published": "Sat, 05 Oct 2024 10:00:01 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/Cfa6Mzs7vxXZzmfLiD84JC.jpg",
+    "source": "https://www.space.com/feeds/all",
+    "categories": [
+      "Climate Change",
+      "The Universe",
+      "Solar System",
+      "Earth"
     ]
   },
   {
@@ -1534,61 +1589,6 @@
     "categories": [
       "Launches \u0026amp; Spacecraft",
       "Space Exploration"
-    ]
-  },
-  {
-    "title": "Dangerous satellite air pollution exists in a legal loophole",
-    "link": "https://www.space.com/montreal-protocol-satellites-air-pollution",
-    "description": "Air pollution from re-entering satellites is a potential environmental disaster that evades Earth-based laws, experts say.",
-    "author": "",
-    "published": "Fri, 04 Oct 2024 13:00:01 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/66nAsxpJr7oyGUxf3BDYpA.jpg",
-    "source": "https://www.space.com/feeds/all",
-    "categories": [
-      "Satellites",
-      "Space Exploration"
-    ]
-  },
-  {
-    "title": "ULA's new Vulcan Centaur rocket launches on 2nd test flight (video)",
-    "link": "https://www.space.com/ula-vulcan-centaur-second-test-flight-launch-success",
-    "description": "United Launch Alliance's new Vulcan Centaur rocket just launched on its second-ever mission, a key test flight that keeps it on track for certification by the U.S. Space Force.",
-    "author": "",
-    "published": "Fri, 04 Oct 2024 12:05:29 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/EmY7XHmMS2JKMzQ7QZnj2j.jpg",
-    "source": "https://www.space.com/feeds/all",
-    "categories": [
-      "Launches \u0026amp; Spacecraft",
-      "Space Exploration"
-    ]
-  },
-  {
-    "title": "World Space Week 2024: How space technology arms scientists fighting climate change",
-    "link": "https://www.space.com/space-technology-climate-change-world-space-week",
-    "description": "World Space Week 2024 features events centered on \"Space \u0026 Climate Change,\" to celebrate the transformative impact of space technology in the ongoing battle against climate change.",
-    "author": "",
-    "published": "Fri, 04 Oct 2024 12:00:01 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/SxvwTTRjmHHLdGW8sZTtun.png",
-    "source": "https://www.space.com/feeds/all",
-    "categories": [
-      "Climate Change",
-      "The Universe",
-      "Solar System",
-      "Earth"
-    ]
-  },
-  {
-    "title": "James Webb Space Telescope finds supernova 'Hope' that could finally resolve major astronomy debate",
-    "link": "https://www.space.com/james-webb-space-telescope-hubble-tension-supernova-hope",
-    "description": "The James Webb Space Telescope has observed a distant cosmic explosion that erupted in the early universe called \"supernova Hope\" that could help resolve lingering \"Hubble trouble.\"",
-    "author": "",
-    "published": "Thu, 03 Oct 2024 21:00:01 +0000",
-    "image": "https://cdn.mos.cms.futurecdn.net/eQ6fEmbzR6NDtRPuQy3PV4.png",
-    "source": "https://www.space.com/feeds/all",
-    "categories": [
-      "James Webb Space Telescope",
-      "Space Exploration",
-      "Missions"
     ]
   },
   {
