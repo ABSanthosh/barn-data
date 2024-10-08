@@ -9412,6 +9412,16 @@
     ]
   },
   {
+    "title": "Migrating Kotlin Plugins to K2 Mode",
+    "link": "https://www.youtube.com/watch?v=HDyWQLNMJQ8",
+    "description": "",
+    "author": "IntelliJ IDEA, a JetBrains IDE",
+    "published": "2024-10-03T08:08:03+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy",
+    "categories": null
+  },
+  {
     "title": "Building Web Applications With Vaadin and the Kotlin DSL",
     "link": "https://www.youtube.com/watch?v=7jafQyCW07w",
     "description": "",
@@ -9547,16 +9557,6 @@
     "description": "",
     "author": "Kotlin by JetBrains",
     "published": "2023-05-04T15:00:58+00:00",
-    "image": "",
-    "source": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy",
-    "categories": null
-  },
-  {
-    "title": "Synthesising a Database with Kotlin | Talking Kotlin #122",
-    "link": "https://www.youtube.com/watch?v=Vq3Mmdl1Tyg",
-    "description": "",
-    "author": "Kotlin by JetBrains",
-    "published": "2023-05-02T16:00:08+00:00",
     "image": "",
     "source": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy",
     "categories": null

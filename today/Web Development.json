@@ -1,5 +1,33 @@
 [
   {
+    "title": "Recipes for Detecting Support for CSS At-Rules",
+    "link": "https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/",
+    "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using … Recipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Juan Diego Rodríguez",
+    "published": "Mon, 07 Oct 2024 19:46:07 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "accessibility",
+      "at-rules"
+    ]
+  },
+  {
+    "title": "Searching for a New CSS Logo",
+    "link": "https://css-tricks.com/searching-for-a-new-css-logo/",
+    "description": "There is an amazing community effort happening in search of a new logo for CSS. I was a bit skeptical at first, as I never really considered CSS a “brand.” Why does it need a logo? For starters, the current … Searching for a New CSS Logo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Ryan Trimble",
+    "published": "Mon, 07 Oct 2024 16:49:59 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/css3-logo.jpg?resize=1200%2C600\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "CSS",
+      "css5"
+    ]
+  },
+  {
     "title": "The Proliferation and Problem of the ✨ Sparkles ✨ Icon",
     "link": "https://css-tricks.com/the-proliferation-and-problem-of-the-sparkles-icon/",
     "description": "Kate Kaplan hits on something over at Nielsen Norman Group’s blog that’s been bugging me: The challenge with this icon is sparkle ambiguity: Participants in our recent research study generally agreed that it represented something a little special … The Proliferation and Problem of the ✨ Sparkles ✨ Icon originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -171,32 +199,6 @@
       "Articles",
       "browser",
       "DevTools"
-    ]
-  },
-  {
-    "title": "Multiple Anchors",
-    "link": "https://css-tricks.com/multiple-anchors/",
-    "description": "Only Chris, right? You’ll want to view this in a Chromium browser: CodePen Embed Fallback This is exactly the sort of thing I love, not for its practicality (cuz it ain’t), but for how it illustrates a concept. Generally, tutorials … Multiple Anchors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-    "author": "Geoff Graham",
-    "published": "Mon, 16 Sep 2024 16:38:08 +0000",
-    "image": "https://css-tricks.com/wp-content/uploads/2024/09/multiple-anchors.mov",
-    "source": "https://css-tricks.com/feed/",
-    "categories": [
-      "Links",
-      "anchor positioning"
-    ]
-  },
-  {
-    "title": "Smashing Hour With Lynn Fisher",
-    "link": "https://css-tricks.com/smashing-hour-with-lynn-fisher/",
-    "description": "I’m a big Lynn Fisher fan. You probably are, too, if you’re reading this. Or maybe you’re reading her name for the first time, in which case you’re in for a treat. That’s because I had a chance to sit … Smashing Hour With Lynn Fisher originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-    "author": "Geoff Graham",
-    "published": "Mon, 16 Sep 2024 16:35:18 +0000",
-    "image": "",
-    "source": "https://css-tricks.com/feed/",
-    "categories": [
-      "Links",
-      "interview"
     ]
   },
   {

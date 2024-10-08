@@ -1,5 +1,18 @@
 [
   {
+    "title": "London Fog Drink",
+    "link": "https://abeautifulmess.com/london-fog-drink/",
+    "description": "If you are looking for a cozy beverage that’s easy to make at home, look no further than this London Fog drink recipe. This is essentially an earl grey tea latte sweetened with honey and vanilla or lavender simple syrup. While earl grey tea contains less caffeine than coffee, this London Fog drink will still…",
+    "author": "Emma Chapman",
+    "published": "Mon, 07 Oct 2024 13:01:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2024/09/london-fog-drink.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Drinks",
+      "Food"
+    ]
+  },
+  {
     "title": "Candy Apples",
     "link": "https://abeautifulmess.com/candy-apples/",
     "description": "Red candy apples are a classic fall treat with their shiny bright color, hard candy coating, and sweet or tart crisp apple underneath. It’s the best thing to make after apple picking, for a Halloween party, or just when you feel nostalgic and want to be a kid again. Candy apples may look like an…",
@@ -126,151 +139,113 @@
     ]
   },
   {
-    "title": "Healthy Trail Mix",
-    "link": "https://abeautifulmess.com/healthy-trail-mix/",
-    "description": "This healthy trail mix recipe is filled with nutritious ingredients like almonds, peanuts, pecans, sunflower seeds, raisins, dried fruit and dark chocolate. The best part is this recipe is easy to customize to your preferences. You’ll love creating your own healthy trail mix! Related: Chex Mix, Puppy Chow, GORP Mix, 30+ Easy Finger Foods. Ingredients…",
-    "author": "Elsie Larson",
-    "published": "Fri, 27 Sep 2024 12:33:12 +0000",
-    "image": "https://abeautifulmess.com/wp-content/uploads/2024/08/Healthy-Trail-Mix.jpg",
-    "source": "https://abeautifulmess.com/feed",
+    "title": "The Piezoelectric Glitching Attack",
+    "link": "https://hackaday.com/2024/10/07/the-piezoelectric-glitching-attack/",
+    "description": "Many readers will be familiar with the idea of a glitching attack, introducing electrical noise into a computer circuit in the hope of disrupting program flow and causing unexpected behaviour …read more",
+    "author": "Jenny List",
+    "published": "Mon, 07 Oct 2024 23:00:07 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2024/10/piezo-glitch-featured.jpg",
+    "source": "https://hackaday.com/blog/feed/",
     "categories": [
-      "Food",
-      "Healthy",
-      "Snacks + Appetizers"
+      "Security Hacks",
+      "glitching",
+      "piezoelectric",
+      "virtual memory"
     ]
   },
   {
-    "title": "Hackaday Links: October 6, 2024",
-    "link": "https://hackaday.com/2024/10/06/hackaday-links-october-6-2024/",
-    "description": "Remember that time a giant cylindrical aquarium in a Berlin hotel bar catastrophically failed and left thousands of fish homeless? We sure do, and further recall that at the time, …read more",
-    "author": "Dan Maloney",
-    "published": "Sun, 06 Oct 2024 23:00:04 +0000",
-    "image": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg",
+    "title": "The Turing Machine Made Real, In LEGO",
+    "link": "https://hackaday.com/2024/10/07/the-turing-machine-made-real-in-lego/",
+    "description": "The British mathematician and pioneer of computing Alan Turing published a paper in 1936 which described a Universal Machine, a theoretical model of a computer processor that would later become …read more",
+    "author": "Jenny List",
+    "published": "Mon, 07 Oct 2024 20:00:12 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2024/10/turing-machine-featured.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "computer hacks",
+      "Toy Hacks",
+      "lego",
+      "Lego ideas",
+      "Turing machine"
+    ]
+  },
+  {
+    "title": "JawnCon 0x1 Kicks off Friday, Tickets Almost Gone",
+    "link": "https://hackaday.com/2024/10/07/jawncon-0x1-kicks-off-friday-tickets-almost-gone/",
+    "description": "Of all nature’s miraculous gifts, few can compare to the experience of witnessing a new hacker con grow. If you’re in the Philadelphia area this weekend, you can get a …read more",
+    "author": "Tom Nardi",
+    "published": "Mon, 07 Oct 2024 18:30:00 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2024/10/jawn01_feat.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "cons",
+      "hacker conference",
+      "JawnCon",
+      "philadelphia"
+    ]
+  },
+  {
+    "title": "Hack On Self: The Alt-Tab Annihilator",
+    "link": "https://hackaday.com/2024/10/07/hack-on-self-the-alt-tab-annihilator/",
+    "description": "Last time, I told you about a simple script I made to collect data about my laptop activity, talked about why collecting data about yourself is a moral imperative, and …read more",
+    "author": "Arya Voronova",
+    "published": "Mon, 07 Oct 2024 17:00:37 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2024/08/HackSelf.jpg",
     "source": "https://hackaday.com/blog/feed/",
     "categories": [
       "Hackaday Columns",
-      "Hackaday links",
-      "acrylic",
-      "Anthropause",
-      "aquarium",
-      "astronaut",
-      "berlin",
-      "collapse",
-      "corpse",
-      "COVID",
-      "death",
-      "elevator",
-      "forensic",
-      "hackaday links",
-      "iss",
-      "lockdown",
-      "lunar surface",
-      "pandemic",
-      "promession",
-      "structure failure"
+      "Lifehacks",
+      "Misc Hacks",
+      "attention tracking",
+      "data collection",
+      "sense of time"
     ]
   },
   {
-    "title": "Tinkering with Klipper: Making The ManiPilator Robotic Arm",
-    "link": "https://hackaday.com/2024/10/06/tinkering-with-klipper-making-the-manipilator-robotic-arm/",
-    "description": "[Leo Goldstien]’s entry into the world of robotics has been full of stops and starts. Like many beginners, he found traditional robotics instructions overwhelming and hard to follow, bogged down …read more",
-    "author": "Heidi Ulrich",
-    "published": "Sun, 06 Oct 2024 20:00:00 +0000",
-    "image": "https://hackaday.com/wp-content/uploads/2024/10/robot-arm-klipper-800_bright.png",
+    "title": "Vehicle-To-Everything: the Looming Smart Traffic Experience",
+    "link": "https://hackaday.com/2024/10/07/vehicle-to-everything-the-looming-smart-traffic-experience/",
+    "description": "Much of a car’s interaction with the world around it is still a very stand-alone, analog experience, regardless of whether said car has a human driver or a self-driving computer …read more",
+    "author": "Maya Posch",
+    "published": "Mon, 07 Oct 2024 14:00:54 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2020/04/traffic.jpeg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Current Events",
+      "Featured",
+      "Transportation Hacks",
+      "C-V2X",
+      "vehicle-to-everything"
+    ]
+  },
+  {
+    "title": "First Benchies in Stainless Steel, With Lasers",
+    "link": "https://hackaday.com/2024/10/07/first-benchies-in-stainless-steel-with-lasers/",
+    "description": "DIY 3D printing in metal is a lot more complicated than we thought. And this video from [Metal Matters] shows two approaches, many many false starts, and finally, a glorious …read more",
+    "author": "Elliot Williams",
+    "published": "Mon, 07 Oct 2024 11:00:35 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2024/10/diy-metal-3d-printing-success-swsatejn9k-webm-shot0001_featured.png",
     "source": "https://hackaday.com/blog/feed/",
     "categories": [
       "3d Printer hacks",
-      "Robots Hacks",
-      "3d printing",
-      "klipper",
-      "manipilator",
-      "robot arm",
-      "robotics"
+      "laser",
+      "metal 3d printer",
+      "sintering",
+      "stainless steel"
     ]
   },
   {
-    "title": "Tearing Down a Digital Scope from ’78",
-    "link": "https://hackaday.com/2024/10/06/tearing-down-a-digital-scope-from-78/",
-    "description": "If you’re a fan of vintage electronics and DIY tinkering, you’ll find this teardown by [Thomas Scherrer] fascinating. In a recent video, he delves into a rare piece of equipment: …read more",
-    "author": "Heidi Ulrich",
-    "published": "Sun, 06 Oct 2024 17:00:00 +0000",
-    "image": "https://hackaday.com/wp-content/uploads/2024/10/datalab-recorder-800.jpg",
+    "title": "WiFi Meets LoRa for Long Range",
+    "link": "https://hackaday.com/2024/10/07/wifi-meets-lora-for-long-range/",
+    "description": "What do you get when you cross WiFi and LoRa? Researchers in China have been doing this, and they call the result WiLo. They claim to get reliable connections over …read more",
+    "author": "Al Williams",
+    "published": "Mon, 07 Oct 2024 08:00:00 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2024/10/lora.png",
     "source": "https://hackaday.com/blog/feed/",
     "categories": [
-      "hardware",
-      "Teardown",
-      "analog",
-      "analog oscilloscope",
-      "datalab",
-      "digital scope",
-      "ieee",
-      "oscilloscope",
-      "scope",
-      "transient recorder"
-    ]
-  },
-  {
-    "title": "3D Printed Hydrofoil Goes From Model Scale To Human Scale With Flight Controller",
-    "link": "https://hackaday.com/2024/10/06/3d-printed-hydrofoil-goes-from-model-scale-to-human-scale-with-flight-controller/",
-    "description": "Hydrofoils have been around for several decades, but watching a craft slice through the water with almost no wake never get old. In the videos after the break, [rctestflight] showcases …read more",
-    "author": "Danie Conradie",
-    "published": "Sun, 06 Oct 2024 14:00:00 +0000",
-    "image": "https://hackaday.com/wp-content/uploads/2024/10/fullscalehydrofoil_featured.jpg",
-    "source": "https://hackaday.com/blog/feed/",
-    "categories": [
-      "Transportation Hacks",
-      "3d printed",
-      "dRehmFlight",
-      "e-foil",
-      "hydrofoil",
-      "rctestflight"
-    ]
-  },
-  {
-    "title": "2View: The Self-Erasing VHS Tape With Paperclip Hack",
-    "link": "https://hackaday.com/2024/10/06/2view-the-self-erasing-vhs-tape-with-paperclip-hack/",
-    "description": "Over the decades the video and music industries have tried a wide range of ways to get consumers to buy ‘cheaper’ versions of albums and music, but then limit the …read more",
-    "author": "Maya Posch",
-    "published": "Sun, 06 Oct 2024 11:00:00 +0000",
-    "image": "https://hackaday.com/wp-content/uploads/2024/10/2view_mechanism_inside_vhs_tape.jpg",
-    "source": "https://hackaday.com/blog/feed/",
-    "categories": [
-      "Teardown",
-      "Video Hacks",
-      "2view",
-      "drm",
-      "VHS"
-    ]
-  },
-  {
-    "title": "Automated Pixel Art With Marbles",
-    "link": "https://hackaday.com/2024/10/06/automated-pixel-art-with-marbles/",
-    "description": "Marble machines are a fun and challenging reason to do engineering for the sake of engineering. [Engineezy] adds some color to the theme, building a machine to create 16×16 marble …read more",
-    "author": "Danie Conradie",
-    "published": "Sun, 06 Oct 2024 08:00:00 +0000",
-    "image": "https://hackaday.com/wp-content/uploads/2024/10/marble_art_featured.png",
-    "source": "https://hackaday.com/blog/feed/",
-    "categories": [
-      "Art",
-      "Misc Hacks",
-      "color sensor",
-      "marble machine",
-      "sorting machine"
-    ]
-  },
-  {
-    "title": "Why Electric Trains Sound The Way They Do",
-    "link": "https://hackaday.com/2024/10/05/why-electric-trains-sound-the-way-they-do/",
-    "description": "If you’re a seasoned international rail traveler you will no doubt have become used to the various sounds of electric locomotives and multiple units as they start up. If you …read more",
-    "author": "Jenny List",
-    "published": "Sun, 06 Oct 2024 05:00:00 +0000",
-    "image": "https://hackaday.com/wp-content/uploads/2024/10/train-sound-featured.jpg",
-    "source": "https://hackaday.com/blog/feed/",
-    "categories": [
-      "Transportation Hacks",
-      "Electric motor",
-      "electric train",
-      "pwm"
+      "News",
+      "Wireless Hacks",
+      "LoRa",
+      "wifi"
     ]
   },
   {
@@ -566,123 +541,102 @@
     "categories": null
   },
   {
-    "title": "The 10 Greatest Nokia Symbian Phones in History",
-    "link": "https://www.howtogeek.com/the-greatest-nokia-symbian-phones-in-history/",
-    "description": "Back to the times of Symbian S60s splendor.",
-    "author": "Goran Damnjanovic",
-    "published": "Sun, 06 Oct 2024 22:00:12 GMT",
-    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/some-nokia-devices-with-the-symbian-logo-in-the-background.jpg",
-    "source": "https://www.howtogeek.com/feed/",
-    "categories": [
-      "Hardware",
-      "History",
-      "retro computing",
-      "Computer History"
-    ]
-  },
-  {
-    "title": "Apple Still Can't Get Window Snapping Right on the Mac",
-    "link": "https://www.howtogeek.com/apple-still-cant-get-window-snapping-right-on-the-mac/",
-    "description": "Not a snap to pull off after all.",
-    "author": "Sydney Butler",
-    "published": "Sun, 06 Oct 2024 21:30:13 GMT",
-    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-macbook-with-the-screen-split-into-three-windows.jpg",
-    "source": "https://www.howtogeek.com/feed/",
-    "categories": [
-      "Mac",
-      "Apple",
-      "macOS Sequoia",
-      "Macbook"
-    ]
-  },
-  {
-    "title": "Why I Never Buy Cutting-Edge Smartphones or PCs",
-    "link": "https://www.howtogeek.com/why-i-never-buy-cutting-edge-smartphones-or-pcs/",
-    "description": "Today's cutting-edge is tomorrow's \"meh\"!",
-    "author": "Dibakar Ghosh",
-    "published": "Sun, 06 Oct 2024 20:30:13 GMT",
-    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/an-iphone-with-a-wallet-full-of-money-next-to-it-and-a-cursor-on-a-buy-button-with-an-x-over-it.jpg",
-    "source": "https://www.howtogeek.com/feed/",
-    "categories": [
-      "Hardware",
-      "pc building",
-      "laptops",
-      "Android Phones \u0026 Tablets",
-      "iPhone"
-    ]
-  },
-  {
-    "title": "You Need a Separate Network To Protect Yourself From Your Smart Devices",
-    "link": "https://www.howtogeek.com/you-need-a-separate-network-to-protect-yourself-from-your-smart-devices/",
-    "description": "There is a quick and easy way to reduce your risk.",
-    "author": "Brad Morton",
-    "published": "Sun, 06 Oct 2024 20:15:12 GMT",
-    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2021/05/241daf9c.png",
-    "source": "https://www.howtogeek.com/feed/",
-    "categories": [
-      "Web",
-      "Cybersecurity",
-      "Privacy",
-      "Smart Home"
-    ]
-  },
-  {
-    "title": "Why Are AI Song Covers So Popular on YouTube?",
-    "link": "https://www.howtogeek.com/why-are-ai-song-covers-so-popular-on-youtube/",
-    "description": "Bopping to AI-generated song covers was not on my 2024 bingo card",
-    "author": "Demilade Adejola",
-    "published": "Sun, 06 Oct 2024 20:00:12 GMT",
-    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ai-music-feature.jpg",
-    "source": "https://www.howtogeek.com/feed/",
-    "categories": [
-      "Cutting Edge",
-      "ai",
-      "YouTube",
-      "Music Production"
-    ]
-  },
-  {
-    "title": "8 Outlook Search Tips to Find Emails Instantly",
-    "link": "https://www.howtogeek.com/outlook-search-tips-to-find-emails-instantly/",
-    "description": "Find emails in seconds!",
-    "author": "Shan Abdul",
-    "published": "Sun, 06 Oct 2024 19:15:12 GMT",
-    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/a-laptop-with-outlook-open-and-the-new-outlook-logo-on-the-right.jpg",
+    "title": "Is It Worth Using the Microsoft 365 Mobile App?",
+    "link": "https://www.howtogeek.com/is-it-worth-using-the-microsoft-365-mobile-app/",
+    "description": "One application brings together so many great functions.",
+    "author": "David Mosk",
+    "published": "Mon, 07 Oct 2024 22:00:12 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-phone-with-microsoft-365-and-the-logo-floating-above-the-screen.jpg",
     "source": "https://www.howtogeek.com/feed/",
     "categories": [
       "Microsoft",
-      "Microsoft Outlook",
       "Microsoft 365",
-      "Microsoft",
+      "Microsoft Office",
       "Productivity"
     ]
   },
   {
-    "title": "Rust Programming for Beginners: Building a Recipe Manager App",
-    "link": "https://www.howtogeek.com/rust-programming-for-beginners-building-a-recipe-manager-app/",
-    "description": "The best way to learn Rust is to build something.",
-    "author": "Jason Dookeran",
-    "published": "Sun, 06 Oct 2024 19:00:13 GMT",
-    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/a-laptop-on-a-table-with-some-ingredients-around-it-and-the-rust-logo-on-the-screen.jpg",
+    "title": "Forget 5G, People Were Once Scared of Monitor Radiation",
+    "link": "https://www.howtogeek.com/forget-5g-people-were-once-scared-of-monitor-radiation/",
+    "description": "Catching rays indoors.",
+    "author": "Sydney Butler",
+    "published": "Mon, 07 Oct 2024 21:15:12 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/vintage-desktop-pc-with-floppy-drive-keyboard-and-mouse-in-neon-lightning.jpg",
     "source": "https://www.howtogeek.com/feed/",
     "categories": [
-      "Programming",
-      "Programming",
-      "Apps \u0026 Web Apps"
+      "Hardware",
+      "Monitors",
+      "Computer History",
+      "retro computing"
     ]
   },
   {
-    "title": "The Best Google Pixel 7a Cases of 2023",
-    "link": "https://www.howtogeek.com/893035/best-google-pixel-7a-cases/",
-    "description": "Keep your brand new Google Pixel 7a looking that way with these cases.",
-    "author": "Kris Wouk",
-    "published": "Sun, 06 Oct 2024 18:15:12 GMT",
-    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52870111359_7b79857178_o.jpg",
+    "title": "Google Ordered to Open up Androids Play Store",
+    "link": "https://www.howtogeek.com/google-ordered-to-open-android-play-store/",
+    "description": "Google's Play Store has been ruled a monopoly.",
+    "author": "Jorge A. Aguilar",
+    "published": "Mon, 07 Oct 2024 21:11:11 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/34.jpg",
     "source": "https://www.howtogeek.com/feed/",
     "categories": [
       "Android",
-      "buying guide",
-      "Google Pixel"
+      "google play"
+    ]
+  },
+  {
+    "title": "Update to iOS 18 Before a Storm Hits You",
+    "link": "https://www.howtogeek.com/update-to-ios-18-before-a-storm-hits-you/",
+    "description": "Newer iPhones with iOS 18 can send and receive texts using satellites.",
+    "author": "Corbin Davenport",
+    "published": "Mon, 07 Oct 2024 21:06:07 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/ios-18.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Iphone",
+      "iOS 18"
+    ]
+  },
+  {
+    "title": "Raspberry Pi RAM: How Much Memory Do You Need?",
+    "link": "https://www.howtogeek.com/raspberry-pi-ram-how-much-memory-do-you-need/",
+    "description": "How much memory do you really need in a Raspberry Pi, and when is it worth upgrading?",
+    "author": "Derrik Diener",
+    "published": "Mon, 07 Oct 2024 21:00:13 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/a-hand-holding-a-raspberry-pi-with-the-logo-in-the-background-and-some-icons-indicating-ram-amounts.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Hardware",
+      "Raspberry Pi",
+      "Raspberry Pi 5",
+      "DIY"
+    ]
+  },
+  {
+    "title": "5 Ways Clippy Was Better Than Copilot",
+    "link": "https://www.howtogeek.com/ways-clippy-was-better-than-copilot/",
+    "description": "Microsoft, It looks like you're trying to create an office assistant. Do you need help with that? Select Yes or No.",
+    "author": "Margaret Samuels",
+    "published": "Mon, 07 Oct 2024 20:15:12 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/back-view-of-a-laptop-on-a-desk-with-the-microsoft-clippy-logo-attached-to-the-microsoft-copilot-logo-1.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Cutting Edge",
+      "Microsoft",
+      "ai",
+      "Microsoft Word"
+    ]
+  },
+  {
+    "title": "Target's Circle Week Tech Deals Are Worth Looking At",
+    "link": "https://www.howtogeek.com/target-circle-week-2024/",
+    "description": "Amazon isn't the only retailer having a sale this week.",
+    "author": "Kris Henges",
+    "published": "Mon, 07 Oct 2024 20:00:12 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/52730812096_4a78574380_o.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Hardware",
+      "Deals"
     ]
   },
   {
@@ -964,103 +918,134 @@
     ]
   },
   {
-    "title": "How Much Should You Spend on a Smartphone? 8 Price Points Compared",
-    "link": "https://www.makeuseof.com/how-much-should-you-spend-on-a-smartphone/",
-    "description": "You can buy a new smartphone from under $100 to over $1500. But what's the sweet spot between price and features?",
-    "author": "Ayush Jalan",
-    "published": "Sun, 06 Oct 2024 22:00:13 GMT",
-    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/samsung-galaxy-s24-in-a-samsung-store.jpg",
+    "title": "You'll Start Seeing Third-Party App Stores on Google Play: Here's Why",
+    "link": "https://www.makeuseof.com/start-seeing-third-party-app-stores-google-play/",
+    "description": "The Epic vs. Google lawsuit has come to an end, and you're going to love the result.",
+    "author": "Simon Batt",
+    "published": "Mon, 07 Oct 2024 20:38:30 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/08/game-of-the-week-tab-on-google-play-games.jpg",
     "source": "https://www.makeuseof.com/feed/",
     "categories": [
       "Android",
-      "Buying Tips",
-      "Smartphone"
+      "Google Play"
     ]
   },
   {
-    "title": "I Tried Adobe Express Premium, and It Was Worth It",
-    "link": "https://www.makeuseof.com/adobe-express-premium-review/",
-    "description": "Adobe Express Premium's features won me over... here's why.",
-    "author": "Danny Maiorca",
-    "published": "Sun, 06 Oct 2024 19:00:13 GMT",
-    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/man-holding-phone-with-adobe-express-logo.jpg",
-    "source": "https://www.makeuseof.com/feed/",
-    "categories": [
-      "Creative",
-      "Adobe",
-      "Graphic Design"
-    ]
-  },
-  {
-    "title": "How I Add Realistic Lens Flares to My Smartphone Photos Using These Free Apps",
-    "link": "https://www.makeuseof.com/add-realistic-lens-flares-smartphone-photos-free-apps/",
-    "description": "Adding natural-looking lens flare effects to your smartphone photos is easy with these free apps.",
-    "author": "Ruby Helyer",
-    "published": "Sun, 06 Oct 2024 17:30:12 GMT",
-    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/a-person-using-a-phone-and-a-lens-flare-effect.jpg",
-    "source": "https://www.makeuseof.com/feed/",
-    "categories": [
-      "Creative",
-      "Smartphone Photography",
-      "Image Editing Tips"
-    ]
-  },
-  {
-    "title": "I Tried Premiere Rush Premium: Is It Worth Upgrading?",
-    "link": "https://www.makeuseof.com/premiere-rush-premium-review/",
-    "description": "I tried Premiere Rush Premium to see if the extra features justify the cost.",
-    "author": "Danny Maiorca",
-    "published": "Sun, 06 Oct 2024 17:00:13 GMT",
-    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/man-holding-phone-with-premiere-rush-logo.jpg",
-    "source": "https://www.makeuseof.com/feed/",
-    "categories": [
-      "Creative",
-      "Video Editor",
-      "Adobe"
-    ]
-  },
-  {
-    "title": "4 Reasons Why I Don't Regret Buying Apple's Magic Keyboard for My iPad",
-    "link": "https://www.makeuseof.com/why-i-dont-regret-buying-apples-magic-keyboard-for-ipad/",
-    "description": "Apple's Magic Keyboard for iPad is better than third-party options in a few key areas.",
-    "author": "Hamlin Rozario",
-    "published": "Sun, 06 Oct 2024 15:00:13 GMT",
-    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/07/google-chrome-running-on-an-ipad-pro-attached-to-a-magic-keyboard.jpg",
-    "source": "https://www.makeuseof.com/feed/",
-    "categories": [
-      "IPhone",
-      "Apple Magic Keyboard Case",
-      "Buying Tips",
-      "iPad"
-    ]
-  },
-  {
-    "title": "I Generate Random Numbers in Excel With These Simple Formulas",
-    "link": "https://www.makeuseof.com/generate-random-numbers-excel-simple-formulas/",
-    "description": "Why guess when Excel can roll the dice for you?",
-    "author": "Tomisin Olujinmi",
-    "published": "Sun, 06 Oct 2024 14:00:13 GMT",
-    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/excel-logo-along-side-dice.jpg",
-    "source": "https://www.makeuseof.com/feed/",
-    "categories": [
-      "Productivity",
-      "Microsoft Excel",
-      "Microsoft Office 365"
-    ]
-  },
-  {
-    "title": "Here's the Actual Difference Hi-Res Music Streaming Offers and Why It's Worthwhile",
-    "link": "https://www.makeuseof.com/heres-the-actual-difference-hi-res-music-streaming-offers-and-why-its-worthwhile/",
-    "description": "Hi-Res sounds better, but how much better?",
-    "author": "Jack Mitchell",
-    "published": "Sun, 06 Oct 2024 12:00:13 GMT",
-    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/a-man-wearing-headphones-listening-to-music-with-a-hi-res-audio-icon-in-the-background-and-the-logos-of-some-music-streaming-services-blurred.jpg",
+    "title": "How I Boost My Spotify Listening Hours to Win Spotify Wrapped",
+    "link": "https://www.makeuseof.com/how-to-boost-spotify-listening-hours-spotify-wrapped/",
+    "description": "Want to rack up more listening time ahead of Spotify Wrapped? There are several ways to do so...",
+    "author": "Dave Parrack",
+    "published": "Mon, 07 Oct 2024 18:30:14 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/spotify-wrapped-listening-time.jpg",
     "source": "https://www.makeuseof.com/feed/",
     "categories": [
       "Entertainment",
-      "Streaming Music",
-      "Tidal",
-      "Apple Music"
+      "Spotify",
+      "Streaming Music"
+    ]
+  },
+  {
+    "title": "I'm Only Buying Laptops With This New Memory Type From Now On",
+    "link": "https://www.makeuseof.com/reasons-buy-laptop-integrated-lpddr5x-memory/",
+    "description": "It's amazing what a difference this memory type makes to your laptop performance.",
+    "author": "Yadullah Abidi",
+    "published": "Mon, 07 Oct 2024 18:00:13 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/samsung-lpddr5-ram-on-memory-stick-background.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Technology Explained",
+      "Computer Memory",
+      "Building PCs",
+      "Laptop Tips"
+    ]
+  },
+  {
+    "title": "6 Tech Habits I Use to Read More Books Every Year",
+    "link": "https://www.makeuseof.com/tech-habits-to-read-more-books-every-year/",
+    "description": "With a few smart tech habits, you can sneak in more pages than you think.",
+    "author": "Marissa Zupancic",
+    "published": "Mon, 07 Oct 2024 17:30:12 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/young-woman-reading-an-e-book-on-a-tablet.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Productivity",
+      "Reading",
+      "Ebooks",
+      "Goodreads"
+    ]
+  },
+  {
+    "title": "iPhone Not Showing Recent Calls? Try These 4 Fixes",
+    "link": "https://www.makeuseof.com/iphones-not-showing-recent-calls-fixes/",
+    "description": "Is your iPhone's recent call log empty? Here's how to get back your iPhone's call history.",
+    "author": "Pankil Shah",
+    "published": "Mon, 07 Oct 2024 17:00:13 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/a-man-trying-to-enter-a-phone-number-on-an-iphone.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "IPhone",
+      "iPhone Tips",
+      "Call Management",
+      "iPhone Troubleshooting"
+    ]
+  },
+  {
+    "title": "I Tried Using Free AI Tools to Replicate My Best Smartphone Photos: Here's What Happened",
+    "link": "https://www.makeuseof.com/replicate-smartphone-photos-with-ai-tools/",
+    "description": "Can free AI image generators match the quality of real-life smartphone photos? Here's the verdict.",
+    "author": "Ruby Helyer",
+    "published": "Mon, 07 Oct 2024 16:30:12 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/a-hand-holding-a-phone-with-a-picture-of-a-sunflower-and-a-prompt-field-indicating-that-the-image-was-ai-generated-with-some-sparkles-around.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Creative",
+      "Artificial Intelligence",
+      "Smartphone Photography"
+    ]
+  },
+  {
+    "title": "Philips Hue's New AR Feature Lets You Visualize Your Home's Next Smart Light",
+    "link": "https://www.makeuseof.com/philips-hue-smart-lighting-app-adds-ar-feature/",
+    "description": "Anyone with a modern iPhone Pro or iPad Pro can see how a Hue lamp will look in your home.",
+    "author": "Brent Dirks",
+    "published": "Mon, 07 Oct 2024 16:20:12 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/philips-hue-app.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Smart Home",
+      "Philips Hue",
+      "Smart Lighting"
+    ]
+  },
+  {
+    "title": "Can't Upgrade to Windows 11? Microsoft's Advice Is to \"Buy a New PC\"",
+    "link": "https://www.makeuseof.com/cant-upgrade-to-windows-11-microsoft-recommends-new-pc/",
+    "description": "As helpful advice goes, this doesn't quite hit the spot.",
+    "author": "Dave Parrack",
+    "published": "Mon, 07 Oct 2024 16:13:35 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/09/a-laptop-with-windows-11-on-the-screen-and-in-the-background-the-windows-10-logo-with-some-arrows-indicating-downgrade-and-a-cross-over-it.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Windows",
+      "Windows 11",
+      "Windows",
+      "Microsoft",
+      "PC"
+    ]
+  },
+  {
+    "title": "AI Products Integrations Are Stepping Up These Are the Ones I'm Hyped For",
+    "link": "https://www.makeuseof.com/best-ai-product-integrations/",
+    "description": "AI is appearing everywhere, and these are tech products where it'll work best.",
+    "author": "Jayric Maning",
+    "published": "Mon, 07 Oct 2024 16:00:12 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/two-robots-on-the-floor-of-a-room-and-a-blurred-woman-in-the-background.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Technology Explained",
+      "Artificial Intelligence",
+      "ChatGPT",
+      "Chatbot"
     ]
   },
   {

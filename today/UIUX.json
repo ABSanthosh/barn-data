@@ -1,5 +1,15 @@
 [
   {
+    "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
+    "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+    "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
+    "author": "Karin Hendrikse",
+    "published": "Mon, 07 Oct 2024 13:00:00 GMT",
+    "image": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
     "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
     "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
     "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
@@ -386,16 +396,6 @@
     "author": "Juan Diego Rodríguez",
     "published": "Thu, 20 Jun 2024 18:00:00 GMT",
     "image": "http://files.smashing.media/articles/uniting-web-native-apps-unknown-javascript-apis/uniting-web-native-apps-unknown-javascript-apis.jpg",
-    "source": "https://www.smashingmagazine.com/feed",
-    "categories": null
-  },
-  {
-    "title": "T-Shaped vs. V-Shaped Designers",
-    "link": "https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/",
-    "description": "Job openings typically cast a very restrictive frame for candidates, with long lists of expectations and requirements. But what if this narrow focus can overlook the value of “V”-shaped designers who excel by crossing boundaries, connecting dots, and innovating beyond rigid boxes?",
-    "author": "Vitaly Friedman",
-    "published": "Wed, 19 Jun 2024 12:00:00 GMT",
-    "image": "http://files.smashing.media/articles/t-shaped-vs-v-shaped-designers/t-shaped-vs-v-shaped-designers.jpg",
     "source": "https://www.smashingmagazine.com/feed",
     "categories": null
   },
@@ -1102,6 +1102,54 @@
     ]
   },
   {
+    "title": "Strengthening UX research amid uncertainty",
+    "link": "https://uxdesign.cc/strengthening-ux-research-amid-uncertainty-d959c27cb87e?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Brian Utesch",
+    "published": "Mon, 07 Oct 2024 22:44:50 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*GgezN4rmSjlG00gy0gRNRA.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ux-research",
+      "user-research",
+      "ux",
+      "design-research",
+      "design"
+    ]
+  },
+  {
+    "title": "How designers create alignment",
+    "link": "https://uxdesign.cc/how-designers-create-alignment-f3f11c36a16c?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Ed Orozco",
+    "published": "Mon, 07 Oct 2024 11:12:01 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*IB-eElcfiA5_rJQGZxseAw.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ux",
+      "strategic-design",
+      "leadership",
+      "design",
+      "project-management"
+    ]
+  },
+  {
+    "title": "What’s next for Figma, senior in 2 years, UX designer guide to prompting",
+    "link": "https://uxdesign.cc/whats-next-for-figma-senior-in-2-years-ux-designer-guide-to-prompting-b60c53653840?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Fabricio Teixeira",
+    "published": "Mon, 07 Oct 2024 09:27:16 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*dMbuc96j-t0bM-VP.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ux",
+      "artificial-intelligence",
+      "design",
+      "productivity",
+      "startup"
+    ]
+  },
+  {
     "title": "21 UX strategies to maximize user engagement without exploitation",
     "link": "https://uxdesign.cc/21-ux-strategies-to-maximize-user-engagement-without-exploitation-a39428cd66c5?source=rss----138adf9c44c---4",
     "description": "",
@@ -1210,53 +1258,6 @@
       "systems-thinking",
       "design",
       "product-management",
-      "ux"
-    ]
-  },
-  {
-    "title": "A UX designer guide to prompt",
-    "link": "https://uxdesign.cc/a-ux-designer-guide-to-prompt-f045cd839489?source=rss----138adf9c44c---4",
-    "description": "",
-    "author": "Paz Perez",
-    "published": "Wed, 02 Oct 2024 22:52:50 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1024/1*rseMR1StuAiqhRAoU-Mctg.png",
-    "source": "https://uxdesign.cc/feed",
-    "categories": [
-      "generative-ai",
-      "artificial-intelligence",
-      "ux",
-      "ai",
-      "design"
-    ]
-  },
-  {
-    "title": "How to build forms that don’t suck",
-    "link": "https://uxdesign.cc/how-to-build-forms-that-dont-suck-a6c443d9dcfa?source=rss----138adf9c44c---4",
-    "description": "A design decision-making framework with a few rhetorical techniques to help convince your stakeholders that simplicity is good for businessContinue reading on UX Collective »",
-    "author": "Ivan Schneiders",
-    "published": "Wed, 02 Oct 2024 22:51:42 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1312/1*QjN9fIwC0VQwhV-X8l_2Kw.jpeg",
-    "source": "https://uxdesign.cc/feed",
-    "categories": [
-      "interaction-design",
-      "ux",
-      "product-design",
-      "product-management"
-    ]
-  },
-  {
-    "title": "Ethical AI messaging: Crafting personalization with integrity",
-    "link": "https://uxdesign.cc/ethical-ai-messaging-crafting-personalization-with-integrity-c6a54d05487a?source=rss----138adf9c44c---4",
-    "description": "A blueprint for ethical engagement and innovationContinue reading on UX Collective »",
-    "author": "Stacy Ledesma Whitenight",
-    "published": "Wed, 02 Oct 2024 08:50:06 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1086/1*WgBUCjaRXo71xB3flOLaAg.jpeg",
-    "source": "https://uxdesign.cc/feed",
-    "categories": [
-      "marketing",
-      "women-in-technology",
-      "ethics",
-      "ai",
       "ux"
     ]
   },
