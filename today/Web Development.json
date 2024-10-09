@@ -1,5 +1,18 @@
 [
   {
+    "title": "Smashing Hour With Heydon Pickering",
+    "link": "https://css-tricks.com/smashing-hour-with-heydon-pickering/",
+    "description": "I sat down with Heydon Pickering in the most recent episode of the Smashing Hour. Full transparency: I was nervous as heck. I’ve admired Heydon’s work for years, and even though we run in similar circles, this was our first … Smashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Tue, 08 Oct 2024 15:22:02 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Links",
+      "interview"
+    ]
+  },
+  {
     "title": "Recipes for Detecting Support for CSS At-Rules",
     "link": "https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/",
     "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using … Recipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -185,20 +198,6 @@
     "categories": [
       "Articles",
       "css-tricks"
-    ]
-  },
-  {
-    "title": "Clever Polypane Debugging Features I’m Loving",
-    "link": "https://css-tricks.com/clever-polypane-debugging-features-im-loving/",
-    "description": "I’m working on a refresh of my personal website, what I’m calling the HD remaster. Well, I wouldn’t call it a “full” redesign. I’m just cleaning things up, and Polypane is coming in clutch. I wrote about how much … Clever Polypane Debugging Features I’m Loving originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-    "author": "Ryan Trimble",
-    "published": "Tue, 17 Sep 2024 13:49:04 +0000",
-    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/09/polypane-1.jpg?resize=1908%2C1019\u0026ssl=1",
-    "source": "https://css-tricks.com/feed/",
-    "categories": [
-      "Articles",
-      "browser",
-      "DevTools"
     ]
   },
   {
@@ -836,6 +835,36 @@
     ]
   },
   {
+    "title": "Catch prediction in Chrome DevTools: Why it's hard and how to make it better",
+    "link": "https://developer.chrome.com/blog/devtools-catch-prediction?hl=en",
+    "description": "Learn how the DevTools debugger predicts whether an exception is caught.",
+    "author": "",
+    "published": "Wed, 02 Oct 2024 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "title": "Join the Google Chrome Built-in AI Challenge",
+    "link": "https://developer.chrome.com/blog/ai-challenge?hl=en",
+    "description": "We're launching the Built-in AI Challenge, where we invite you to reimagine what's possible with Gemini Nano in Chrome.",
+    "author": "",
+    "published": "Tue, 01 Oct 2024 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "title": "What's new in DevTools, Chrome 130",
+    "link": "https://developer.chrome.com/blog/new-in-devtools-130?hl=en",
+    "description": "Recommendations for live metrics and breadcrumbs you can navigate in the Performance panel, network filters reimagined, sanitized HAR exports, and more.",
+    "author": "",
+    "published": "Mon, 30 Sep 2024 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
     "title": "Caching Demystified: Inspect, Clear, and Disable Caches",
     "link": "https://developer.chrome.com/blog/devtools-tips-36?hl=en",
     "description": "Inspect and troubleshoot cache with DevTools.",
@@ -901,36 +930,6 @@
     "description": "Test your site with the features and changes in the latest Chrome beta.",
     "author": "",
     "published": "Wed, 18 Sep 2024 07:00:00 GMT",
-    "image": "",
-    "source": "https://developer.chrome.com/static/blog/feed.xml",
-    "categories": null
-  },
-  {
-    "title": "Chrome Experiment: Process sharing",
-    "link": "https://developer.chrome.com/blog/process-sharing-experiment?hl=en",
-    "description": "The Process sharing experiment and its impact Chrome DevTools' developer experience.",
-    "author": "",
-    "published": "Tue, 17 Sep 2024 07:00:00 GMT",
-    "image": "",
-    "source": "https://developer.chrome.com/static/blog/feed.xml",
-    "categories": null
-  },
-  {
-    "title": "Monitor your local and real-user Core Web Vitals performance in DevTools",
-    "link": "https://developer.chrome.com/blog/devtools-realtime-cwv?hl=en",
-    "description": "The Performance panel in Chrome DevTools features a new way to monitor your local Core Web Vitals performance and compare it against real-user data from the field.",
-    "author": "",
-    "published": "Tue, 17 Sep 2024 07:00:00 GMT",
-    "image": "",
-    "source": "https://developer.chrome.com/static/blog/feed.xml",
-    "categories": null
-  },
-  {
-    "title": "New in Chrome 129",
-    "link": "https://developer.chrome.com/blog/new-in-chrome-129?hl=en",
-    "description": "Chrome 129 is rolling out now! You can yield in long tasks - to improve performance, you can animate elements with intrinsic sizes, there are some changes to anchor positioning syntax, and there's plenty more. Pete LePage has all the details about what's new for developers in Chrome 129.",
-    "author": "",
-    "published": "Tue, 17 Sep 2024 07:00:00 GMT",
     "image": "",
     "source": "https://developer.chrome.com/static/blog/feed.xml",
     "categories": null
