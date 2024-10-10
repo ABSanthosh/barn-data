@@ -11,6 +11,7 @@ type Topic struct {
 type Recommended map[string][]Topic
 
 type FeedItem struct {
+	ID          string   `json:"id"`
 	Title       string   `json:"title"`
 	Link        string   `json:"link"`
 	Description string   `json:"description"`
