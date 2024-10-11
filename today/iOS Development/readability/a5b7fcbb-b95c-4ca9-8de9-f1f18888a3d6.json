@@ -1,0 +1,21 @@
+{
+  "id": "a5b7fcbb-b95c-4ca9-8de9-f1f18888a3d6",
+  "title": "Deep Dive into Nuxt with Mike Gallagher - VUE 164",
+  "link": "https://devchat.tv/views-on-vue/deep-dive-into-nuxt-with-mike-gallagher-vue-164/",
+  "description": "Lindsay and Steve talk to Mike Gallagher, Software Architect at Hip eCommerce, about his blog post exploring server-side rendering and how Nuxt functions under the hood. They explore Mike's specific use case of needing to manage routing on the client, rather than the server, and how he was able to find a solution. They also discuss how Mike approaches difficult problems like this, and how he determines the next steps to find a solution. They explore some of the intricate details of Nuxt, including how Mike's company handles caching with Nuxt and other production use cases. Panel Lindsay Wardell Steve Edwards Guest Mike Gallagher Sponsors Dev Influencers Accelerator Level Up | Devchat.tv PodcastBootcamp.io Links Server-side rendering and the journey to the center of Nuxt.js GitHub | mikeapr4/vue-backbone Awesome Nuxt Modules  Plugins directory - NUXTJS Tracing or Debugging Vue.js Reactivity: The computed tree GitHub | GoogleChrome/rendertron GitHub | lindsaykwardell/nuxt-github-api Agility CMS Hip eCommerce Michael Gallagher - Medium LinkedIn: Michael Gallagher GitHub: Michael Gallagher ( mikeapr4 ) Picks Lindsay- GitHub | nuxt-community/module-template Lindsay- vitejs/awesome-vite Lindsay- Nuxt Nation Conference Mike- AST Explorer Steve- standup.trex - Instagram Steve- dadjokesallday - Instragram Steve- Failed Comedian Becomes Pastor Contact Lindsay: Twitter: Lindsay Wardell ( @lindsaykwardell ) Contact Steve: Twitter: Steve Edwards ( @wonder95 ) GitHub: Steve Edwards ( wonder95 ) LinkedIn: Steve Edwards",
+  "author": "",
+  "published": "Tue, 14 Sep 2021 06:00:00 -0400",
+  "source": "https://feeds.feedwrench.com/all-shows-devchattv.rss",
+  "categories": null,
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a2c8732e-a9b5-4a96-85f4-f6f7792f2361",
+  "title": "Swift Evolution proposals in Alfred",
+  "link": "https://oleb.net/2023/alfred-swift-evolution/",
+  "description": "",
+  "author": "Ole Begemann",
+  "published": "2023-03-09T22:33:14Z",
+  "source": "https://oleb.net/blog/atom.xml",
+  "categories": null,
+  "byline": "By Ole Begemann …",
+  "length": 1110,
+  "excerpt": "I fixed Karoy Lorentey’s swift-evolution workflow for Alfred.",
+  "siteName": "Ole Begemann",
+  "favicon": "",
+  "text": "I rarely participate actively in the Swift Evolution process, but I frequently refer to evolution proposals for my work, often multiple times per week. The proposals aren’t always easy to read, but they’re the most comprehensive (and sometimes only) documentation we have for many Swift features. For years, my tool of choice for searching Swift Evolution proposals has been Karoy Lorentey’s swift-evolution workflow for Alfred. The workflow broke recently due to data format changes. Karoy was kind enough to add me as a maintainer so I could fix it. The new version 2.1.0 is now available on GitHub. Download the .alfredworkflow file and double-click to install. Besides the fix, the update has a few other improvements: The proposal title is now displayed more prominently. New actions to copy the proposal title (hold down Command) or copy it as a Markdown link (hold down Shift + Command). The script forwards the main metadata of the selected proposal (id, title, status, URL) to Alfred. If you want to extend the workflow with your own actions, you can refer to these variables.",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n          \u003cp\u003eI rarely participate actively in the Swift Evolution process, but I frequently refer to \u003ca href=\"https://www.swift.org/swift-evolution/\"\u003eevolution proposals\u003c/a\u003e for my work, often multiple times per week. The proposals aren’t always easy to read, but they’re the most comprehensive (and sometimes only) documentation we have for many Swift features.\u003c/p\u003e\n\n\u003cp\u003eFor years, my tool of choice for searching Swift Evolution proposals has been \u003ca href=\"https://github.com/attaswift/alfred-swift-evolution\"\u003eKaroy Lorentey’s swift-evolution workflow\u003c/a\u003e for \u003ca href=\"https://www.alfredapp.com/\"\u003eAlfred\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe workflow broke recently due to data format changes. Karoy was kind enough to add me as a maintainer so I could fix it.\u003c/p\u003e\n\n\u003cdiv\u003e\n\u003cfigure\u003e\n  \u003ca href=\"https://oleb.net/media/2023-03-09-Alfred-Swift-Evolution-workflow.jpg\"\u003e\n  \u003cimg src=\"https://oleb.net/media/2023-03-09-Alfred-Swift-Evolution-workflow.jpg\" alt=\"Alfred window on macOS displaying a text field containing \u0026#39;se collection\u0026#39;. Below it is a list of 9 Swift Evolution proposals matching the search query. The sixth list item is selected.\"/\u003e\n  \u003c/a\u003e\n\u003c/figure\u003e\n\u003c/div\u003e\n\n\u003cp\u003e\u003ca href=\"https://github.com/attaswift/alfred-swift-evolution/releases/tag/v2.1.0\"\u003eThe new version 2.1.0 is now available on GitHub\u003c/a\u003e. Download the \u003ccode\u003e.alfredworkflow\u003c/code\u003e file and double-click to install. Besides the fix, the update has a few other improvements:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eThe proposal title is now displayed more prominently.\u003c/li\u003e\n  \u003cli\u003eNew actions to copy the proposal title (hold down \u003ckbd\u003eCommand\u003c/kbd\u003e) or copy it as a Markdown link (hold down \u003ckbd\u003eShift\u003c/kbd\u003e + \u003ckbd\u003eCommand\u003c/kbd\u003e).\u003c/li\u003e\n  \u003cli\u003eThe script forwards the main metadata of the selected proposal (id, title, status, URL) to Alfred. If you want to extend the workflow with your own actions, you can refer to these variables.\u003c/li\u003e\n\u003c/ul\u003e\n\n        \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2023-03-09T22:33:14Z",
+  "modifiedTime": "2023-03-09T22:33:14Z"
+}

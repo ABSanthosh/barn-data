@@ -1,0 +1,23 @@
+{
+  "id": "a4c24f9f-bfee-4a44-8c89-51db09c7ad36",
+  "title": "How to Delete a File or Folder in Python",
+  "link": "https://stackabuse.com/how-to-delete-a-file-or-folder-in-python/",
+  "description": "Deleting a file in Python is fairly easy to do. Let's discuss two methods to accomplish this task using different Python modules. Using the 'os' Module The os module in Python provides a method called os.remove() that can be used to delete a file. Here's a simple example: import",
+  "author": "Scott Robinson",
+  "published": "Mon, 23 Oct 2023 14:12:00 GMT",
+  "source": "https://stackabuse.com/rss/",
+  "categories": [
+    "python"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

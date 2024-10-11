@@ -1,0 +1,21 @@
+{
+  "id": "a414eacf-ce07-4c9d-8c3f-099d1cd84a34",
+  "title": "Show HN: HTML for People",
+  "link": "https://htmlforpeople.com",
+  "description": "Article URL: https://htmlforpeople.com Comments URL: https://news.ycombinator.com/item?id=41801334 Points: 274 # Comments: 91",
+  "author": "blakewatson",
+  "published": "Thu, 10 Oct 2024 17:47:42 +0000",
+  "source": "https://hnrss.org/frontpage",
+  "categories": null,
+  "byline": "",
+  "length": 676,
+  "excerpt": "HTML isn't only for people working in the tech field. It's for everyone. Learn how to make a website from scratch in this beginner friendly web book.",
+  "siteName": "",
+  "favicon": "https://htmlforpeople.com/assets/img/design/favicon.png",
+  "text": "HTML isn’t only for people working in the tech field. It’s for anybody, the way documents are for anybody. HTML is just another type of document. A very special one—the one the web is built on. I’m Blake Watson. I’ve been building websites since the early 2000s. Though I work professionally in the field, I feel strongly that anyone should be able to make a website with HTML if they want. This book will teach you how to do just that. It doesn’t require any previous experience making websites or coding. I will cover everything you need to know to get started in an approachable and friendly way. Ready? Let’s do it! Read the introduction Start coding already!",
+  "image": "/assets/img/design/og.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"main-content\"\u003e\n      \n  \n\u003cp\u003eHTML isn’t only for people working in the tech field. It’s for anybody, the way documents are for anybody. HTML is just another type of document. A very special one—the one the web is built on.\u003c/p\u003e\n\u003cp\u003eI’m \u003ca href=\"https://blakewatson.com/\"\u003eBlake Watson\u003c/a\u003e. I’ve been building websites since the early 2000s. Though I work professionally in the field, I feel strongly that \u003cem\u003eanyone\u003c/em\u003e should be able to make a website with HTML if they want. This book will teach you how to do just that. It doesn’t require any previous experience making websites or coding. I will cover everything you need to know to get started in an approachable and friendly way.\u003c/p\u003e\n\u003cp\u003eReady? Let’s do it!\u003c/p\u003e\n\n\n  \u003cp\u003e\n    \u003ca href=\"https://htmlforpeople.com/intro\"\u003eRead the introduction\u003c/a\u003e\n    \u003ca href=\"https://htmlforpeople.com/zero-to-internet-your-first-website\"\u003eStart coding already!\u003c/a\u003e\n  \u003c/p\u003e\n\n    \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

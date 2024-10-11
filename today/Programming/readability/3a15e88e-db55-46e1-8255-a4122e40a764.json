@@ -1,0 +1,27 @@
+{
+  "id": "3a15e88e-db55-46e1-8255-a4122e40a764",
+  "title": "Deploy CoreML Models on the Server with Vapor",
+  "link": "https://betterprogramming.pub/deploy-coreml-models-on-the-server-with-vapor-48809a853fae?source=rss----d0b105d10f0a---4",
+  "description": "Get the benefits of Apple’s ML tools server-side.Continue reading on Better Programming »",
+  "author": "Drew Althage",
+  "published": "Fri, 10 Nov 2023 17:30:15 GMT",
+  "source": "https://medium.com/feed/better-programming",
+  "categories": [
+    "swift",
+    "programming",
+    "ios",
+    "machine-learning",
+    "apple"
+  ],
+  "byline": "Drew Althage",
+  "length": 1281,
+  "excerpt": "Recently, at Sovrn, we had an AI Hackathon where we were encouraged to experiment with anything related to machine learning. The Hackathon yielded some fantastic projects from across the company…",
+  "siteName": "Better Programming",
+  "favicon": "https://miro.medium.com/v2/resize:fill:1000:1000/7*GAOKVe--MXbEJmV9230oOQ.png",
+  "text": "Get the benefits of Apple’s ML tools server-side.SwiftUI client showing image classification resultsRecently, at Sovrn, we had an AI Hackathon where we were encouraged to experiment with anything related to machine learning. The Hackathon yielded some fantastic projects from across the company. Everything from SQL query generators to chatbots that can answer questions about our products and other incredible work. I thought this would be a great opportunity to learn more about Apple’s ML tools and maybe even build something with real business value.A few of my colleagues and I teamed up to play with CreateML and CoreML to see if we could integrate some ML functionality into our iOS app. We got a model trained and integrated into our app in several hours, which was pretty amazing. But we quickly realized that we had a few problems to solve before we could actually ship this thing.The model was hefty. It was about 50MB. That’s a lot of space to take up in our app bundle.We wanted to update the model without releasing a new app version.We wanted to use the model in the web browser as well.We didn’t have time to solve all of these problems. But the other day I was exploring the Vapor web framework and the thought hit me, “Why not deploy CoreML models on the server?”",
+  "image": "https://miro.medium.com/v2/resize:fit:1200/1*XMjKfWYZYPikQ0pJ391YaA.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle\u003e\u003cdiv\u003e\u003cdiv\u003e\u003cdiv\u003e\u003ca href=\"https://medium.com/@drewalth?source=post_page-----48809a853fae--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"Drew Althage\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*ubFzu3Q-FC4GGp1yPZVjlw.jpeg\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003ca href=\"https://betterprogramming.pub/?source=post_page-----48809a853fae--------------------------------\" rel=\"noopener  ugc nofollow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"Better Programming\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*QNoA3XlXLHz22zQazc0syg.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003cp id=\"b9b5\"\u003eGet the benefits of Apple’s ML tools server-side.\u003c/p\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfigure\u003e\u003cfigcaption\u003eSwiftUI client showing image classification results\u003c/figcaption\u003e\u003c/figure\u003e\u003c/div\u003e\u003cdiv\u003e\u003cp id=\"c5ae\"\u003eRecently, at \u003ca href=\"https://www.sovrn.com/\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003eSovrn\u003c/a\u003e, we had an AI Hackathon where we were encouraged to experiment with anything related to machine learning. The Hackathon yielded some fantastic projects from across the company. Everything from SQL query generators to chatbots that can answer questions about our products and other incredible work. I thought this would be a great opportunity to learn more about Apple’s ML tools and maybe even build something with real business value.\u003c/p\u003e\u003cp id=\"597c\"\u003eA few of my colleagues and I teamed up to play with CreateML and CoreML to see if we could integrate some ML functionality into our iOS app. We got a model trained and integrated into our app in several hours, which was pretty amazing. But we quickly realized that we had a few problems to solve before we could actually ship this thing.\u003c/p\u003e\u003cul\u003e\u003cli id=\"40f2\"\u003eThe model was hefty. It was about 50MB. That’s a lot of space to take up in our app bundle.\u003c/li\u003e\u003cli id=\"71ca\"\u003eWe wanted to update the model without releasing a new app version.\u003c/li\u003e\u003cli id=\"5580\"\u003eWe wanted to use the model in the web browser as well.\u003c/li\u003e\u003c/ul\u003e\u003cp id=\"5b4a\"\u003eWe didn’t have time to solve all of these problems. But the other day I was exploring the \u003ca href=\"https://vapor.codes/\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003eVapor\u003c/a\u003e web framework and the thought hit me, “Why not deploy CoreML models on the server?”\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2023-11-07T20:06:54.91Z",
+  "modifiedTime": null
+}

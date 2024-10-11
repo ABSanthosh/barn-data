@@ -1,0 +1,29 @@
+{
+  "id": "196d8938-097b-4a84-b8df-c7d8ac764bda",
+  "title": "173: Mocking and Unit Tests",
+  "link": "https://www.programmingthrowdown.com/episodes/173-mocking-and-unit-tests/",
+  "description": "173: Mocking and Unit TestsIntro topic:  HeadphonesNews/Links:Texas A\u0026M University Physics Festivalhttps://physicsfestival.tamu.edu/Rust vs Cpp at GoogleLars Bergstrom (Google Director of Engineering): Rust teams at Google are as productive as the ones using Go and 2x those using Cpphttps://youtu.be/6mZRWFQRvmw?t=27012Is Cosine Similarity Really About Similarityhttps://arxiv.org/abs/2403.05440Xz utils supply chain attackAndres Freund at Microsofthttps://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/Book of the ShowPatrick:80/20 Running by Matt Fitzgeraldhttps://amzn.to/3xyEKLoJason: A Movie Making Nerdhttps://amzn.to/49ycDJjPatreon Plug https://www.patreon.com/programmingthrowdown?ty=hTool of the ShowPatrick: Shapez Android: https://play.google.com/store/apps/details?id=com.playdigious.shapez\u0026hl=en_US\u0026gl=USShapez iOS: https://apps.apple.com/us/app/shapez-factory-game/id6450830779Jason: Dwarf Fortresshttps://store.steampowered.com/app/975370/Dwarf_Fortress/Topic: Mocking and Unit TestsWhat are Unit TestsBalance between utility, maintenance, and coverageUnit Test: testing small functionsRegression Test: Testing larger functionsSystem Test: End-to-end testing of programsWhat are mocks \u0026 fakesWhen to use mock vs. fakeMocking libraries in various languagesPython: https://docs.python.org/3/library/unittest.mock.htmlJava: https://github.com/mockito/mockitoC++:  https://github.com/google/googletest ★ Support this podcast on Patreon ★",
+  "author": "Patrick Wheeler and Jason Gauci",
+  "published": "Mon, 29 Apr 2024 10:00:00 -0500",
+  "source": "http://feeds.feedburner.com/ProgrammingThrowdown",
+  "categories": [
+    "Programming Throwdown",
+    " Programming Languages",
+    "C",
+    "C",
+    "Java",
+    "Python",
+    "Objective C"
+  ],
+  "byline": "",
+  "length": 43,
+  "excerpt": "172: Transformers and Large Language Models",
+  "siteName": "",
+  "favicon": "",
+  "text": "172: Transformers and Large Language Models",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003ca href=\"https://www.programmingthrowdown.com/episodes/172-transformers-and-large-language-models/\"\u003e\u003cdiv\u003e\u003cp\u003e172: Transformers and Large Language Models\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

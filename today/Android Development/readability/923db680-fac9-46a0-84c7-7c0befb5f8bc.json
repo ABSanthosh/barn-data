@@ -1,0 +1,25 @@
+{
+  "id": "923db680-fac9-46a0-84c7-7c0befb5f8bc",
+  "title": "Android Studio's \"I'm Feeling Lucky\" Button",
+  "link": "https://www.zacsweers.dev/android-studios-im-feeling-lucky-button/",
+  "description": "Android Studio has a misleading \"Make project\" button that you shouldn't click.",
+  "author": "Zac Sweers",
+  "published": "Wed, 30 Nov 2022 19:20:37 GMT",
+  "source": "https://www.zacsweers.dev/rss/",
+  "categories": [
+    "AndroidDev",
+    "IntelliJ",
+    "Build Performance"
+  ],
+  "byline": "Zac Sweers",
+  "length": 1176,
+  "excerpt": "Android Studio has a misleading \"Make project\" button that you shouldn't click.",
+  "siteName": "Zac Sweers",
+  "favicon": "",
+  "text": "30 Nov 2022 • 1 min read Android Studio has a misleading \"Make project\" button that you shouldn't click. Android Studio (and by extension – IntelliJ) has this hammer icon button in the IDE.It's the \"Make/Build Project\" action and it's a trap!This button runs every assemble task in your project, including tests, applications, and subprojects that may have nothing to do with the subproject you're currently working on.If you have anything less than a nontrivial repo, this can often lead to surprisingly long and wasteful builds without realizing it when just iterating on a specific feature or API.Stick to the Run button to run your specific Run Configuration (the DenyListedApiDetectorTest.rxjava hide functions box in the above screenshot) or focus the desired file/project and hit Build \u003e Make Module \"\u003cyour focused module here\u003e\".Because many folks don't realize this (especially junior developers) and that icon is so enticing for a build-but-don't-run option, we've had to quite literally add a check in our root build file to fail the build if more than 25 tasks were requested because we just assume they must have clicked this icon.",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n  \u003cp\u003e\u003cspan\u003e30 Nov 2022\u003c/span\u003e\n    \u003ci\u003e•\u003c/i\u003e\n    \u003cspan\u003e1 min read\u003c/span\u003e\n  \u003c/p\u003e\n  \n    \u003cp\u003eAndroid Studio has a misleading \u0026#34;Make project\u0026#34; button that you shouldn\u0026#39;t click.\u003c/p\u003e\n    \n    \n\u003c/div\u003e\u003cdiv\u003e\n    \u003cp\u003eAndroid Studio (and by extension – IntelliJ) has this hammer icon button in the IDE.\u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://www.zacsweers.dev/content/images/2022/11/image-6.png\" alt=\"\" loading=\"lazy\" width=\"1552\" height=\"286\" srcset=\"https://www.zacsweers.dev/content/images/size/w600/2022/11/image-6.png 600w, https://www.zacsweers.dev/content/images/size/w1000/2022/11/image-6.png 1000w, https://www.zacsweers.dev/content/images/2022/11/image-6.png 1552w\" sizes=\"(min-width: 720px) 720px\"/\u003e\u003c/figure\u003e\u003cp\u003eIt\u0026#39;s the \u0026#34;Make/Build Project\u0026#34; action and it\u0026#39;s a trap!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eThis button runs \u003cem\u003eevery\u003c/em\u003e assemble task in your project, including tests, applications, and subprojects that may have nothing to do with the subproject you\u0026#39;re \u003cem\u003ecurrently\u003c/em\u003e working on.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIf you have anything less than a nontrivial repo, this can often lead to surprisingly long and wasteful builds without realizing it when just iterating on a specific feature or API.\u003c/p\u003e\u003cp\u003eStick to the Run button to run your specific Run Configuration (the \u003ccode\u003eDenyListedApiDetectorTest.rxjava hide functions\u003c/code\u003e box in the above screenshot) or focus the desired file/project and hit Build \u0026gt; Make Module \u0026#34;\u0026lt;your focused module here\u0026gt;\u0026#34;.\u003c/p\u003e\u003cp\u003eBecause many folks don\u0026#39;t realize this (especially junior developers) and that icon is so enticing for a build-but-don\u0026#39;t-run option, we\u0026#39;ve had to quite literally add a check in our root build file to fail the build if more than 25 tasks were requested because we just assume they must have clicked this icon.\u003c/p\u003e\n  \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2022-11-30T19:20:37Z",
+  "modifiedTime": "2022-11-30T19:21:34Z"
+}

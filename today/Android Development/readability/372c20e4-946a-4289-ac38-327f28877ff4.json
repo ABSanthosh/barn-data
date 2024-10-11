@@ -1,0 +1,23 @@
+{
+  "id": "372c20e4-946a-4289-ac38-327f28877ff4",
+  "title": "Persistence as the single source of truth",
+  "link": "https://saket.me/persistence-as-the-single-source-of-truth/",
+  "description": "Simple is better than complex. Complex is better than complicated. In the world of Android, where all sources of information and user interactions are asynchronous, UI state can become hard to reason about, especially in large apps. This is not only difficult to maintain but also increases complexity with the addition of every new feature. […] The post Persistence as the single source of truth appeared first on Saket Narayan.",
+  "author": "Saket Narayan",
+  "published": "Thu, 26 Jul 2018 14:51:38 +0000",
+  "source": "https://saket.me/feed/",
+  "categories": [
+    "Public speaking"
+  ],
+  "byline": "Saket Narayan",
+  "length": 1047,
+  "excerpt": "This talk explores the idea of “persistence as the single source of truth” as a way to simplify state management, where persistent storage becomes the source for all data changes, and the UI is reduced to a reactive representation of persisted data.",
+  "siteName": "Saket Narayan",
+  "favicon": "",
+  "text": "Simple is better than complex. Complex is better than complicated. In the world of Android, where all sources of information and user interactions are asynchronous, UI state can become hard to reason about, especially in large apps. This is not only difficult to maintain but also increases complexity with the addition of every new feature. This talk explores the idea of “persistence as the single source of truth” as a way to simplify state management, where persistent storage becomes the source for all data changes, and the UI is reduced to a reactive representation of persisted data. This forces the flow of data to be unidirectional which makes it easy to follow. The pattern is architecture agnostic and can be used in any MV-anything. It also talks about other benefits of persistence where screens can stop exchanging data through serialized Bundles, get state restoration across Activity recreations for free, and deliver offline support out-of-the-box. UI interactions receive immediate feedback and the user is never forced to wait.",
+  "image": "https://saket.me/wp-content/uploads/2018/09/Berlin.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n\n\t\t\t\t\u003cp\u003e\u003ci\u003eSimple is better than complex\u003c/i\u003e. \u003ci\u003eComplex\u003c/i\u003e is \u003ci\u003ebetter than complicated.\u003c/i\u003e\u003c/p\u003e\n\u003cp\u003eIn the world of Android, where all sources of information and user interactions are asynchronous, UI state can become hard to reason about, especially in large apps. This is not only difficult to maintain but also increases complexity with the addition of every new feature.\u003c/p\u003e\n\u003cp\u003eThis talk explores the idea of “persistence as the single source of truth” as a way to simplify state management, where persistent storage becomes the source for all data changes, and the UI is reduced to a reactive representation of persisted data. This forces the flow of data to be unidirectional which makes it easy to follow. The pattern is architecture agnostic and can be used in any MV-anything.\u003c/p\u003e\n\u003cp\u003eIt also talks about other benefits of persistence where screens can stop exchanging data through serialized Bundles, get state restoration across Activity recreations for free, and deliver offline support out-of-the-box. UI interactions receive immediate feedback and the user is never forced to wait.\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003e\u003ciframe type=\"text/html\" width=\"880\" height=\"525\" src=\"https://www.youtube.com/embed/vH0m8TqvR4M?version=3\u0026amp;rel=1\u0026amp;fs=1\u0026amp;autohide=2\u0026amp;showsearch=0\u0026amp;showinfo=1\u0026amp;iv_load_policy=1\u0026amp;wmode=transparent\" allowfullscreen=\"true\"\u003e\u003c/iframe\u003e\u003c/span\u003e\u003c/p\u003e\n\n\t\t\t\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2018-07-26T14:51:38Z",
+  "modifiedTime": "2018-09-12T13:21:30Z"
+}

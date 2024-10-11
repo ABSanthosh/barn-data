@@ -1,0 +1,21 @@
+{
+  "id": "2391276d-e4d9-4314-b8bd-12efd4849a76",
+  "title": "Podcast: “Swift concurrency in practice”, with special guest Ben Scheirman",
+  "link": "https://www.swiftbysundell.com/podcast/122",
+  "description": "Ben Scheirman returns to the show to discuss how Swift’s built-in concurrency features, such as async/await and tasks, can be used in practice when building apps for Apple’s platforms.",
+  "author": "",
+  "published": "Fri, 18 Nov 2022 20:30:00 +0100",
+  "source": "https://www.swiftbysundell.com/feed.rss",
+  "categories": null,
+  "byline": "",
+  "length": 118,
+  "excerpt": "Ben Scheirman returns to the show to discuss how Swift’s built-in concurrency features, such as async/await and tasks, can be used in practice when building apps for Apple’s platforms.",
+  "siteName": "Swift by Sundell",
+  "favicon": "https://www.swiftbysundell.com/images/favicon.png",
+  "text": "Articles, podcasts and news about Swift development, by John Sundell.ArticlesBasicsPodcastDiscoverSubscribeAboutSearch",
+  "image": "https://www.swiftbysundell.com/images/podcast/122.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cp\u003e\u003ca href=\"https://www.swiftbysundell.com/\"\u003e\u003cimg src=\"https://www.swiftbysundell.com/images/logo.png\" alt=\"Swift by Sundell\"/\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eArticles, podcasts and news about Swift development, by \u003cspan\u003e\u003ca href=\"https://mastodon.social/@johnsundell\" rel=\"nofollow\" target=\"_blank\"\u003eJohn Sundell\u003c/a\u003e.\u003c/span\u003e\u003c/p\u003e\u003cnav\u003e\u003cul\u003e\u003cli\u003e\u003ca href=\"https://www.swiftbysundell.com/articles\"\u003eArticles\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://www.swiftbysundell.com/basics\"\u003eBasics\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://www.swiftbysundell.com/podcast\"\u003ePodcast\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://www.swiftbysundell.com/discover\"\u003eDiscover\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://www.swiftbysundell.com/subscribe\"\u003eSubscribe\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://www.swiftbysundell.com/about\"\u003eAbout\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://www.swiftbysundell.com/search\"\u003eSearch\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e\u003c/nav\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

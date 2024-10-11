@@ -1,0 +1,29 @@
+{
+  "id": "fabdaa06-d68f-40db-b8c4-46ceface45ae",
+  "title": "171: Compilers and Interpreters",
+  "link": "https://www.programmingthrowdown.com/episodes/171-compilers-and-interpreters/",
+  "description": "Intro topic: Monitor setupsNews/Links:BlueScuti, Willis, beats Tetrishttps://www.youtube.com/watch?v=GuJ5UuknsHUPalWorld accused of being an AI Producthttps://www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/?sh=26a9651b42394 Billion if-statements to determine if a number is even or oddhttps://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.htmlSeamless M4Thttps://ai.meta.com/blog/seamless-m4t/Book of the ShowPatrick:Foundation by Isaac Asimovhttps://amzn.to/3SrmgnPJason: Propaganda by Edward Bernayshttps://amzn.to/47JUCXJPatreon Plug https://www.patreon.com/programmingthrowdown?ty=hTool of the ShowPatrick: The Room Gamehttps://www.fireproofgames.com/games/the-roomJason:Incredibuildhttps://www.incredibuild.com/Topic: Compilers and Interpreters (Request by Jessica W.)Machine CodeArchitecture SpecificAssemblySingle vs Two Pass CompilerHigh level LanguagesIntermediate RepresentationJVM ByteCode vs Machine Code for portabilityScripting/InterpretersJITProfile Guided OptimizationResourceshttps://www.craftinginterpreters.com/https://nandgame.com/Turing Complete ★ Support this podcast on Patreon ★",
+  "author": "Patrick Wheeler and Jason Gauci",
+  "published": "Mon, 12 Feb 2024 11:35:31 -0600",
+  "source": "http://feeds.feedburner.com/ProgrammingThrowdown",
+  "categories": [
+    "Programming Throwdown",
+    " Programming Languages",
+    "C",
+    "C",
+    "Java",
+    "Python",
+    "Objective C"
+  ],
+  "byline": "",
+  "length": 43,
+  "excerpt": "172: Transformers and Large Language Models",
+  "siteName": "",
+  "favicon": "",
+  "text": "172: Transformers and Large Language Models",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003ca href=\"https://www.programmingthrowdown.com/episodes/172-transformers-and-large-language-models/\"\u003e\u003cdiv\u003e\u003cp\u003e172: Transformers and Large Language Models\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

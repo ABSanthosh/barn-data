@@ -1,0 +1,29 @@
+{
+  "id": "3fbee1c8-3c70-4819-b84e-e769e8fa1dfa",
+  "title": "167: Desktop User Interfaces",
+  "link": "https://www.programmingthrowdown.com/episodes/167-desktop-ui",
+  "description": "Intro topic: Jogging MetricsNews/Links:Unholy LLMhttps://huggingface.co/Undi95/Unholy-v1-12L-13B The reverse red herring  https://www.blameless.com/blog/the-reverse-red-herringThe \"ens–tification\" of TikTokhttps://www.wired.com/story/tiktok-platforms-cory-doctorow/ Response letter to Godot is not the new Unityhttps://sampruden.github.io/posts/godot-is-not-the-new-unity/https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21Book of the ShowPatrick:Math Games with Bad Drawings by Ben Orlinhttps://amzn.to/48qlg9AJason: The Invisible Hook: The Hidden Economics of Pirateshttps://amzn.to/3LChBffPatreon Plug https://www.patreon.com/programmingthrowdown?ty=hTool of the ShowPatrick: Factorio (Desktop Game)Jason:AI Hero (iOS and Android)Topic: Desktop user interfacesWhat is a user interface?Web and Mobile UI toolkitsDesktop optionsQtCross platform, custom UI elementsQt creator, code generatorWxWidgetsCross platform, uses native UI elements WxFormDesigner, code generationCan look different on different operating systemsElectronLocal nodejs webserverHtml/JavaScript technologyRequires interprocess communication to use other languages  Jupyter notebooksMathematica-like notebook Not for distribution StreamlitPython to web compilerGame EnginesUnity, Godot, UnrealTips for building desktop UIUI is slow (startup time, interaction time)Separate the UI from the engine \u0026 business logic ★ Support this podcast on Patreon ★",
+  "author": "Patrick Wheeler and Jason Gauci",
+  "published": "Mon, 23 Oct 2023 10:00:00 -0500",
+  "source": "http://feeds.feedburner.com/ProgrammingThrowdown",
+  "categories": [
+    "Programming Throwdown",
+    " Programming Languages",
+    "C",
+    "C",
+    "Java",
+    "Python",
+    "Objective C"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

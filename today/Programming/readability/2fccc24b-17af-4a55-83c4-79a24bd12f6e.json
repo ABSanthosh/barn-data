@@ -1,0 +1,29 @@
+{
+  "id": "2fccc24b-17af-4a55-83c4-79a24bd12f6e",
+  "title": "169: HyperLogLog",
+  "link": "https://www.programmingthrowdown.com/episodes/169-hyperloglog",
+  "description": "Intro topic: Testing your car batteryNews/Links:Tech Layoffs still going onhttps://www.sfchronicle.com/tech/article/google-layoffs-california-companies-18465600.php Real-time dreamy Cloudscapes with Volumetric Raymarchinghttps://blog.maximeheckel.com/posts/real-time-cloudscapes-with-volumetric-raymarching/Robot Rascalshttps://en.wikipedia.org/wiki/Robot_Rascals Meta Quest 3 https://www.theverge.com/23906313/meta-quest-3-review-vr-mixed-reality-headsetBook of the ShowPatrick:HyperLogLog Paperhttps://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40671.pdf Jason: Eureka! NVIDIA Research Breakthrough Puts New Spin on Robot Learning https://blogs.nvidia.com/blog/2023/10/20/eureka-robotics-research/ Patreon Plug https://www.patreon.com/programmingthrowdown?ty=hTool of the ShowPatrick: Techtonica: https://store.steampowered.com/app/1457320/Techtonica/ Jason:ESP32 development board: https://amzn.to/3Qpmb20 WEMOSTopic: HyperLogLogMotivationCardinality CountingLinearCountingHash + expectation of collision based on how fullBloom FilterLogLogUse first N bits as bucketUse max sequential 0s in each bucketAverageHyperLogLogHandle empty bucketsUse correction factor like linear counting for low counts (number of empty buckets) and high countsDistributingTransfer bucket counts ★ Support this podcast on Patreon ★",
+  "author": "Patrick Wheeler and Jason Gauci",
+  "published": "Mon, 27 Nov 2023 09:00:00 -0600",
+  "source": "http://feeds.feedburner.com/ProgrammingThrowdown",
+  "categories": [
+    "Programming Throwdown",
+    " Programming Languages",
+    "C",
+    "C",
+    "Java",
+    "Python",
+    "Objective C"
+  ],
+  "byline": "",
+  "length": 30,
+  "excerpt": "170: 2023 Holiday Special Live",
+  "siteName": "",
+  "favicon": "",
+  "text": "170: 2023 Holiday Special Live",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003ca href=\"https://www.programmingthrowdown.com/episodes/170-2023-holiday-special-live/\"\u003e\u003cdiv\u003e\u003cp\u003e170: 2023 Holiday Special Live\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "f0045bd9-bbcb-49b1-b114-dc0124e0c3ab",
+  "title": "How to handle parameters and use @PreviewParameter in Jetpack Compose",
+  "link": "https://blog.kotlin-academy.com/slot-api-pattern-previewparameter-in-jetpack-compose-6308e46155e8?source=rss----e57b304801ef---4",
+  "description": "The article aims to show how to handle parameters of compose functions and use @PreviewParameter in Jetpack Compose UI. For any concerns…Continue reading on Kt. Academy »",
+  "author": "Caner Kaşeler",
+  "published": "Tue, 27 Aug 2024 05:13:14 GMT",
+  "source": "https://blog.kotlin-academy.com/feed",
+  "categories": [
+    "jetpack-compose",
+    "kotlin",
+    "android-app-development",
+    "compose-ui",
+    "preview-parameter"
+  ],
+  "byline": "Caner Kaşeler",
+  "length": 1011,
+  "excerpt": "The article aims to show how to handle parameters of compose functions and use @PreviewParameter in Jetpack Compose UI. For any concerns about the article, contact me here. 🤝 I create a basic…",
+  "siteName": "Kt. Academy",
+  "favicon": "https://miro.medium.com/v2/resize:fill:256:256/1*2grDGjzH0tfX8XiaF4Izaw.png",
+  "text": "The article aims to show how to handle parameters of compose functions and use @PreviewParameter in Jetpack Compose UI. For any concerns about the article, contact me here. 🤝The image has been created by Caner Kaşeler.I create a basic Android application with only Jetpack Compose in this article. This app includes a basic card design which includes text, image and button. It does not contain any network request, complex UI or business logic.Table of contents:Compose Design with Traditional Way (If you know compose, you can skip this part.)Management of parameters of compose functions in Jetpack Compose@PreviewParameter approach in Compose PreviewReferencesNote: Table of contents may not show bonus parts 🎁1) Compose Design with Traditional WayNow, we can start to create a basic card with some components. In addition, we need to create this card for common usages. For example, app uses this card component for informing users about different kind errors. Firstly, we should see screenshot of the app.",
+  "image": "https://miro.medium.com/v2/resize:fit:1000/1*aFCAeGF9H71VTxZogSfMkg.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle\u003e\u003cdiv\u003e\u003cdiv\u003e\u003ca href=\"https://medium.com/@canerkaseler?source=post_page-----6308e46155e8--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"Caner Kaşeler\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*3LgOFog4VxBs0HA5U1MQrg@2x.jpeg\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003ca href=\"https://blog.kotlin-academy.com/?source=post_page-----6308e46155e8--------------------------------\" rel=\"noopener  ugc nofollow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"Kt. Academy\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*2grDGjzH0tfX8XiaF4Izaw.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003cp id=\"43b9\"\u003eThe article aims to show how to handle parameters of compose functions and use @PreviewParameter in Jetpack Compose UI. For any concerns about the article, contact me \u003ca href=\"https://linktr.ee/canerkaseler\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003ehere\u003c/a\u003e. 🤝\u003c/p\u003e\u003cfigure\u003e\u003cfigcaption\u003eThe image has been created by Caner Kaşeler.\u003c/figcaption\u003e\u003c/figure\u003e\u003cp id=\"70eb\"\u003eI create a basic Android application with only Jetpack Compose in this article. This app includes a basic card design which includes text, image and button. It does not contain any network request, complex UI or business logic.\u003c/p\u003e\u003cp id=\"3b96\"\u003eTable of contents:\u003c/p\u003e\u003col\u003e\u003cli id=\"f67a\"\u003eCompose Design with Traditional Way (\u003cem\u003eIf you know compose, you can skip this part.\u003c/em\u003e)\u003c/li\u003e\u003cli id=\"cbbc\"\u003eManagement of parameters of compose functions in Jetpack Compose\u003c/li\u003e\u003cli id=\"5dc6\"\u003e@PreviewParameter approach in Compose Preview\u003c/li\u003e\u003cli id=\"c988\"\u003eReferences\u003c/li\u003e\u003c/ol\u003e\u003cblockquote\u003e\u003cp id=\"5bb4\"\u003eNote: Table of contents may not show bonus parts 🎁\u003c/p\u003e\u003c/blockquote\u003e\u003ch2 id=\"8e50\"\u003e1) Compose Design with Traditional Way\u003c/h2\u003e\u003cp id=\"a99b\"\u003eNow, we can start to create a basic card with some components. In addition, we need to create this card for common usages. For example, app uses this card component for informing users about different kind errors. Firstly, we should see screenshot of the app.\u003c/p\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2024-08-27T05:13:14.667Z",
+  "modifiedTime": null
+}

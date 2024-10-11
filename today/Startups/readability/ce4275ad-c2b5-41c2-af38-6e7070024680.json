@@ -1,0 +1,21 @@
+{
+  "id": "ce4275ad-c2b5-41c2-af38-6e7070024680",
+  "title": "Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel",
+  "link": "https://tenno.app",
+  "description": "Tenno is a web app that lets you create Markdown documents that can include computational cells. You can think of it as a mix of Word and Excel, some sort of \"literate programming\" environment.This is still an early version but I wanted to get some feedback from HN on what could be nice features to add.Check out the Docs and examples page, it has a ton of (in my humble opinion) cool stuff!Why did I build this? I was building some estimation for cloud costs in Google Sheets and I quickly ended up with a mess. I realized that if I wanted to analyze how a certain thing changes wrt to multiple variables by plotting it, I had to create a bunch of copies of data and copy my formulas everywhere... a SWE nightmare!Tenno simplifies this because you can essentially define a function you are interested in, and only the analyzing it using plots that explore various dimensions.BTW, you can also use Tenno to build dashboards by pulling data from APIs, checkout the weather data example. Comments URL: https://news.ycombinator.com/item?id=41798477 Points: 282 # Comments: 112",
+  "author": "deepmacro",
+  "published": "Thu, 10 Oct 2024 13:15:38 +0000",
+  "source": "https://hnrss.org/frontpage",
+  "categories": null,
+  "byline": "",
+  "length": 0,
+  "excerpt": "Tenno is an app that lets you create powerful dynamic documents where you can easily add and orchestrate computational elements. You can think of it as a mix between Word and Excel with a sprinkle of Javascript. You could also think of it as a more interactive and user friendly version of Jupyter notebooks. With Tenno you can build formulas like you do in spreadsheets, you can create charts, but you can also easily call APIs and mix and match everything. Tenno has an interactive live mode, where you see changes as you type, allowing for a very quick iteration loop. If you are into literate programming, Tenno could be something for you.",
+  "siteName": "",
+  "favicon": "https://tenno.app/apple-touch-icon.png",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

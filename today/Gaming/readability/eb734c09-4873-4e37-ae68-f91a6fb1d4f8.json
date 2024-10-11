@@ -1,0 +1,24 @@
+{
+  "id": "eb734c09-4873-4e37-ae68-f91a6fb1d4f8",
+  "title": "Team Fortress 2 Update Released",
+  "link": "https://store.steampowered.com/news/220641/",
+  "description": "",
+  "author": "Valve",
+  "published": "Mon, 22 Apr 2024 14:54:00 -0700",
+  "source": "https://store.steampowered.com/feeds/news.xml",
+  "categories": [
+    "Valve news update",
+    "Valve news update"
+  ],
+  "byline": "",
+  "length": 744,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "Product Update - Valve Apr 22 An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:Fixed a crash caused by using -dxlevel commandsFixed some ABI compatibility regressions for server plugins/modsFixed a crash under 64-bit caused by some custom HUDs using Half-Life 2 HUD elements which assume the player is Gordon FreemanFixed a crash when opening options/going into game (mostly affecting Windows 7 users)Fixed the snd_cull_duplicates command not workingFixed a hang when importing cosmetics into the Workshop tools to uploadFixed an issue selecting surround sound audio settings (Headphones, 4, 5.1, 7.1, etc.)",
+  "image": "https://store.akamai.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n\t\t\t\t\t\t\n\t\t\n\t\t\n\n\t\t\n\n\n\n\t\t\t\t\t\u003cdiv\u003e\n\t\t\t\t\t\u003cp\u003e\u003cimg src=\"https://store.akamai.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png\" height=\"100%\"/\u003e\n\t\t\t\t\t\t\t\t\t\t\t\u003c/p\u003e\n\t\t\t\t\t\u003cp\u003e\u003ca href=\"https://store.steampowered.com/?snr=1_oldnews_100004__global-responsive-menu\"\u003e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cimg src=\"https://store.akamai.steamstatic.com/public/shared/images/responsive/header_logo.png\" height=\"36\" alt=\"STEAM\"/\u003e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/a\u003e\n\t\t\t\t\t\u003c/p\u003e\n\t\t\t\t\u003c/div\u003e\n\t\t\n\t\t\n\n\t\t\n\t\n\t\u003cdiv\u003e\n\n\t\t\u003cdiv role=\"banner\" id=\"global_header\" data-panel=\"{\u0026#34;flow-children\u0026#34;:\u0026#34;row\u0026#34;}\"\u003e\n\t\t\u003cp\u003e\u003cspan id=\"logo_holder\"\u003e\n\t\t\t\t\t\t\t\t\t\u003ca href=\"https://store.steampowered.com/?snr=1_oldnews_100004__global-header\" aria-label=\"Link to the Steam Homepage\"\u003e\n\t\t\t\t\t\t\u003cimg src=\"https://store.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016\" width=\"176\" height=\"44\" alt=\"Link to the Steam Homepage\"/\u003e\n\t\t\t\t\t\u003c/a\u003e\n\t\t\t\t\t\t\t\u003c/span\u003e\n\t\t\u003c/p\u003e\n\n\t\t\t\n\t\n\n\t\t\n\t\t\t\u003c/div\u003e\n\n\t\t\u003cdiv id=\"responsive_page_template_content\" role=\"main\" data-panel=\"{\u0026#34;autoFocus\u0026#34;:true}\"\u003e\n\t\t\t\u003cdiv id=\"news\"\u003e\n\t\t\t\t\t\u003cdiv\u003e\n\t\t\t\t\u003cp\u003e\n\t\t\t\tProduct Update\t\t\t\t - Valve \n\t\t\t\t\u003c/p\u003e\n\t\t\t\t\u003cp\u003eApr 22\u003c/p\u003e\n\t\t\t\t\n\t\t\t\u003c/div\u003e\n\t\t\t\t\t\u003cdiv\u003e\u003cp\u003e\n\t\t\t\t\t\t\t\tAn update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:\u003c/p\u003e\u003cul\u003e\u003cli\u003eFixed a crash caused by using -dxlevel commands\u003cbr/\u003e\u003c/li\u003e\u003cli\u003eFixed some ABI compatibility regressions for server plugins/mods\u003cbr/\u003e\u003c/li\u003e\u003cli\u003eFixed a crash under 64-bit caused by some custom HUDs using Half-Life 2 HUD elements which assume the player is Gordon Freeman\u003cbr/\u003e\u003c/li\u003e\u003cli\u003eFixed a crash when opening options/going into game (mostly affecting Windows 7 users)\u003cbr/\u003e\u003c/li\u003e\u003cli\u003eFixed the snd_cull_duplicates command not working\u003cbr/\u003e\u003c/li\u003e\u003cli\u003eFixed a hang when importing cosmetics into the Workshop tools to upload\u003cbr/\u003e\u003c/li\u003e\u003cli\u003eFixed an issue selecting surround sound audio settings (Headphones, 4, 5.1, 7.1, etc.)\u003cbr/\u003e\u003c/li\u003e\u003c/ul\u003e\t\t\t\t\n\t\t\t\u003c/div\u003e\n\t\t\t\n\t\t\t\n\t\t\u003c/div\u003e\n\t\t\t\u003cbr/\u003e\n\t\t\t\t\t\u003c/div\u003e\t\n\n\t\t\n\n\n\t\u003c/div\u003e\t\n\n\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

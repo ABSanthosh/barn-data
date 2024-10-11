@@ -1,0 +1,21 @@
+{
+  "id": "9105dff0-b444-4d1d-a100-48ed139f4dd6",
+  "title": "A11y Box Android",
+  "link": "https://mobilea11y.com/blog/a11y-box-android/",
+  "description": "A few months ago I shared a project I’d been working on for iOS exploring the accessibility API available on that platform. The Android accessibility API is equally large and full featured, and really deserves the same treatment. So here’s A11y Box for Android. A11y Box for Android is an exploration of what is available on the Android accessibility api and how you can make use of it in your apps.",
+  "author": "",
+  "published": "Sun, 26 Apr 2020 07:30:56 +0000",
+  "source": "https://mobilea11y.com/index.xml",
+  "categories": null,
+  "byline": "",
+  "length": 554,
+  "excerpt": "A few months ago I shared a project I’d been working on for iOS exploring the accessibility API available on that platform. The Android accessibility API is equally large and full featured, and really deserves the same treatment. So here’s A11y Box for Android.",
+  "siteName": "",
+  "favicon": "https://mobilea11y.com/apple-touch-icon.png",
+  "text": "A few months ago I shared a project I’d been working on for iOS exploring the accessibility API available on that platform. The Android accessibility API is equally large and full featured, and really deserves the same treatment. So here’s A11y Box for Android. A11y Box for Android is an exploration of what is available on the Android accessibility api and how you can make use of it in your apps. It’s open source, and open for contributions. So please feel free to fork if there’s a feature I’ve missed or something that needs a little clarification.",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"main\"\u003e\n    \n    \u003cp\u003eA few months ago I \u003ca href=\"https://mobilea11y.com/blog/a11y-box-ios/\"\u003eshared\u003c/a\u003e a \u003ca href=\"https://github.com/rwapp/A11y-Box-iOS\"\u003eproject\u003c/a\u003e I’d been working on for iOS exploring the accessibility API available on that platform. The Android accessibility API is equally large and full featured, and really deserves the same treatment. So here’s \u003ca href=\"https://github.com/rwapp/A11y-Box-Android\"\u003eA11y Box for Android\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eA11y Box for Android is an exploration of what is available on the Android accessibility api and how you can make use of it in your apps. It’s open source, and open for contributions. So please feel free to fork if there’s a feature I’ve missed or something that needs a little clarification.\u003c/p\u003e\n\n    \n\n\n  \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "87e8839e-b957-4d74-8c3e-4f62889c028d",
+  "title": "Light Switch in a Dark Room",
+  "link": "https://tyler.io/2024/06/light-switch-in-a-dark-room/",
+  "description": "We're over a decade into the industry's voice assistant experiment, and given the same input, the output doesn't feel reliably deterministic. Voice is an interface that is not stable or discoverable.",
+  "author": "Tyler",
+  "published": "Sat, 08 Jun 2024 16:57:49 +0000",
+  "source": "https://tyler.io/feed/",
+  "categories": [
+    "Uncategorized"
+  ],
+  "byline": "",
+  "length": 1139,
+  "excerpt": "Prompted by this post from Mario Guzman, I was finally about to put into words what bothers me about Siri – and what I hope Apple’s upcoming A.I.-focused WWDC will improve.",
+  "siteName": "",
+  "favicon": "",
+  "text": "Prompted by this post from Mario Guzman, I was finally about to put into words what bothers me about Siri – and what I hope Apple’s upcoming A.I.-focused WWDC will improve. We’re over a decade into the industry’s voice assistant experiment, and given the same input, the output doesn’t feel reliably deterministic. Voice is an interface that is not stable or discoverable. Every morning, I say, “Hey, Siri. Turn on the office lights.” This morning, Siri responded, “Sure. What would you like them set to?” Did I misspeak? Did background noise throw off the voice recognition? Did a random number generator deep inside the HomePod choose the wrong code path? Was my Hue bridge momentarily offline, so Siri fell back to controlling my thermostat? I don’t know. And there’s no way to find out. Everything about Siri (and competing assistants) is unknowable. And even though the lights will turn on nine out of ten times, or even ninety-nine out of one hundred times, I still feel a little tension in my voice each time. My requests feel more like guesses than instructions. Every interaction feels like finding a light switch in a dark room.",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle id=\"post-2334\"\u003e\n\n\u003cdiv\u003e\n\u003cp\u003ePrompted by \u003ca href=\"https://mastodon.social/@marioguzman/112581875166287380\"\u003ethis post from Mario Guzman\u003c/a\u003e, I was finally about to \u003ca href=\"https://social.lol/@tylerhall/112581909491826799\"\u003eput into words what bothers me about Siri\u003c/a\u003e – and what I hope Apple’s upcoming A.I.-focused WWDC will improve.\u003c/p\u003e\n\u003chr/\u003e\n\u003cp\u003eWe’re over a decade into the industry’s voice assistant experiment, and given the same input, the output doesn’t feel reliably deterministic. Voice is an interface that is not stable or discoverable.\u003c/p\u003e\n\u003cp\u003eEvery morning, I say, “Hey, Siri. Turn on the office lights.”\u003c/p\u003e\n\u003cp\u003eThis morning, Siri responded, “Sure. What would you like them set to?”\u003c/p\u003e\n\u003cp\u003eDid I misspeak? Did background noise throw off the voice recognition? Did a random number generator deep inside the HomePod choose the wrong code path? Was my Hue bridge momentarily offline, so Siri fell back to controlling my thermostat?\u003c/p\u003e\n\u003cp\u003eI don’t know. And there’s no way to find out.\u003c/p\u003e\n\u003cp\u003eEverything about Siri (and competing assistants) is unknowable.\u003c/p\u003e\n\u003cp\u003eAnd even though the lights will turn on nine out of ten times, or even ninety-nine out of one hundred times, I still feel a little tension in my voice each time. My requests feel more like guesses than instructions.\u003c/p\u003e\n\u003cp\u003eEvery interaction feels like finding a light switch in a dark room.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": null,
+  "modifiedTime": null
+}

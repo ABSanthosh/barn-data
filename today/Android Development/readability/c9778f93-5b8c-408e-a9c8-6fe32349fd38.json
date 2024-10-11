@@ -1,0 +1,27 @@
+{
+  "id": "c9778f93-5b8c-408e-a9c8-6fe32349fd38",
+  "title": "Mockito vs MockK: Choosing the Best for Your Android Tests",
+  "link": "https://blog.kotlin-academy.com/mockito-vs-mockk-choosing-the-best-for-your-android-tests-9c3a6560e3b0?source=rss----e57b304801ef---4",
+  "description": "IntroductionContinue reading on Kt. Academy »",
+  "author": "Harman Khera",
+  "published": "Fri, 06 Sep 2024 06:00:47 GMT",
+  "source": "https://blog.kotlin-academy.com/feed",
+  "categories": [
+    "android",
+    "unit-testing",
+    "compose",
+    "kotlin-coroutines",
+    "kotlin"
+  ],
+  "byline": "Harman Khera",
+  "length": 1110,
+  "excerpt": "Testing is vital for ensuring code reliability and correctness. Mocking frameworks are key in unit testing, enabling developers to create mock objects and define their behavior. This article explores…",
+  "siteName": "Kt. Academy",
+  "favicon": "https://miro.medium.com/v2/resize:fill:256:256/1*2grDGjzH0tfX8XiaF4Izaw.png",
+  "text": "IntroductionTesting is vital for ensuring code reliability and correctness. Mocking frameworks are key in unit testing, enabling developers to create mock objects and define their behavior. This article explores two popular mocking frameworks: Mockito and MockK which are well-known libraries in unit testing, with Mockito tailored for Java and MockK for Kotlin. We will be emphasizing their key features, strengths, and use cases.Image Source: Meta AIMockitoMockito is a widely-used mocking framework for Java. It allows developers to create mock objects and define their behavior for unit testing.Key Features:Effortless Mocking: Create and configure mocks with a simple and intuitive API.Annotation Magic: Use @Mock, @InjectMocks, and @Spy to create and inject mocks with ease.Verify with Confidence: Ensure your mock objects behave as expected with verification capabilities.Flexible Expectations: Use argument matchers to specify custom expectations for method calls.Example:import org.junit.jupiter.api.Test;import org.mockito.Mockito;import static org.mockito.Mockito.*;class UserServiceTest { @Test…",
+  "image": "https://miro.medium.com/v2/resize:fit:1200/1*KxCpwTYAhJW1a_EgTCl3vg.jpeg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle\u003e\u003cdiv\u003e\u003cdiv\u003e\u003ca href=\"https://medium.com/@harmanpreet.khera?source=post_page-----9c3a6560e3b0--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"Harman Khera\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*z0eDkJYyTzE_ZZbY9Cy7KA@2x.jpeg\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003ca href=\"https://blog.kotlin-academy.com/?source=post_page-----9c3a6560e3b0--------------------------------\" rel=\"noopener  ugc nofollow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"Kt. Academy\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*2grDGjzH0tfX8XiaF4Izaw.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003ch2 id=\"d438\"\u003eIntroduction\u003c/h2\u003e\u003cp id=\"535f\"\u003eTesting is vital for ensuring code reliability and correctness. Mocking frameworks are key in unit testing, enabling developers to create mock objects and define their behavior. This article explores two popular mocking frameworks: \u003cstrong\u003e\u003cem\u003eMockito and MockK which are well-known libraries in unit testing, with Mockito tailored for Java and MockK for Kotlin.\u003c/em\u003e\u003c/strong\u003e We will be emphasizing their key features, strengths, and use cases.\u003c/p\u003e\u003cfigure\u003e\u003cfigcaption\u003eImage Source: Meta AI\u003c/figcaption\u003e\u003c/figure\u003e\u003ch2 id=\"3dc9\"\u003eMockito\u003c/h2\u003e\u003cp id=\"4237\"\u003eMockito is a widely-used mocking framework for Java. It allows developers to create mock objects and define their behavior for unit testing.\u003c/p\u003e\u003ch2 id=\"b81f\"\u003eKey Features:\u003c/h2\u003e\u003cul\u003e\u003cli id=\"60ba\"\u003e\u003cstrong\u003e\u003cem\u003eEffortless Mocking:\u003c/em\u003e\u003c/strong\u003e Create and configure mocks with a simple and intuitive API.\u003c/li\u003e\u003cli id=\"e031\"\u003e\u003cstrong\u003e\u003cem\u003eAnnotation Magic: \u003c/em\u003e\u003c/strong\u003eUse @Mock, @InjectMocks, and @Spy to create and inject mocks with ease.\u003c/li\u003e\u003cli id=\"77d0\"\u003e\u003cstrong\u003e\u003cem\u003eVerify with Confidence:\u003c/em\u003e\u003c/strong\u003e Ensure your mock objects behave as expected with verification capabilities.\u003c/li\u003e\u003cli id=\"de83\"\u003e\u003cstrong\u003e\u003cem\u003eFlexible Expectations: \u003c/em\u003e\u003c/strong\u003eUse argument matchers to specify custom expectations for method calls.\u003c/li\u003e\u003c/ul\u003e\u003ch2 id=\"925b\"\u003eExample:\u003c/h2\u003e\u003cpre\u003e\u003cspan id=\"92de\"\u003eimport org.junit.jupiter.api.Test;\u003cbr/\u003eimport org.mockito.Mockito;\u003cbr/\u003eimport static org.mockito.Mockito.*;\u003cp\u003eclass UserServiceTest {\u003cbr/\u003e    @Test…\u003c/p\u003e\u003c/span\u003e\u003c/pre\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2024-09-06T06:00:47.473Z",
+  "modifiedTime": null
+}

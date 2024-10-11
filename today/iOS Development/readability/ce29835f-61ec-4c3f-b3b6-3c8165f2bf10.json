@@ -1,0 +1,21 @@
+{
+  "id": "ce29835f-61ec-4c3f-b3b6-3c8165f2bf10",
+  "title": "Exploring Code Design - VUE 163",
+  "link": "https://devchat.tv/views-on-vue/exploring-code-design-vue-163/",
+  "description": "Lindsay, Luke, and Steve talk about different ways to organize Vue code. They discuss the Composition API, comparing it to the Options API, and the available options for abstracting code from components to be reusable. They also discuss Evan You’s comments about the Composition API becoming the recommended path for using Vue in the future. Panel Lindsay Wardell Luke Diebold Steve Edwards Sponsors Dev Influencers Accelerator Level Up | Devchat.tv PodcastBootcamp.io Links VueUse Sacrificing Simplicity  Migration Build Picks Luke- What is DDD - Eric Evans  Luke- Clickbait is Unreasonably Effective Luke- Laravel Lindsay- Rust Adventure Lindsay- Rockstar Steve- Dad Jokes - Instagram Steve- Dad Jokes by Pubity - Instagram Contact Lindsay: Twitter: Lindsay Wardell ( @lindsaykwardell ) Contact Luke: QuasarCast Twitter: Luke Diebold ( @LukeDiebold ) Contact Steve: Twitter: Steve Edwards ( @wonder95 ) GitHub: Steve Edwards ( wonder95 ) LinkedIn: Steve Edwards",
+  "author": "",
+  "published": "Tue, 07 Sep 2021 06:00:00 -0400",
+  "source": "https://feeds.feedwrench.com/all-shows-devchattv.rss",
+  "categories": null,
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

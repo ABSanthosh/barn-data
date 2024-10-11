@@ -1,0 +1,27 @@
+{
+  "id": "0c6042bc-eb25-4f00-960b-6a52d3f9a02c",
+  "title": "Integrating Psychology into Software Development",
+  "link": "https://betterprogramming.pub/integrating-psychology-into-software-development-c5f79fc8019e?source=rss----d0b105d10f0a---4",
+  "description": "Emotional Architecture in Software DesignContinue reading on Better Programming »",
+  "author": "Ulas Can Cengiz",
+  "published": "Fri, 10 Nov 2023 17:34:07 GMT",
+  "source": "https://medium.com/feed/better-programming",
+  "categories": [
+    "engineering",
+    "architecture",
+    "software-design",
+    "software-development",
+    "psychology"
+  ],
+  "byline": "Ulas Can Cengiz",
+  "length": 1299,
+  "excerpt": "Imagine sitting down at your desk to untangle a particularly complex piece of software code. Your eyes scan lines packed with logical operations and function calls. Somewhere in this intricate weave…",
+  "siteName": "Better Programming",
+  "favicon": "https://miro.medium.com/v2/resize:fill:1000:1000/7*GAOKVe--MXbEJmV9230oOQ.png",
+  "text": "Emotional Architecture in Software DesignPhoto by Bret Kavanaugh on UnsplashThe Psychological Underpinnings of Software DevelopmentImagine sitting down at your desk to untangle a particularly complex piece of software code. Your eyes scan lines packed with logical operations and function calls. Somewhere in this intricate weave, a bug lurks, derailing the application’s performance. This scenario, familiar to many developers, isn’t just a test of technical skill; it’s a psychological challenge. The frustration and cognitive fatigue that often accompany such tasks can cloud judgment and prolong resolution. It’s in moments like these that the intersection of psychology and software development comes into sharp focus.Cognitive load theory, originally applied to educational psychology, has profound implications for managing complexity in software projects. It posits that our working memory has a limited capacity for processing new information. In the context of software development, this translates to the need for clean, readable code and well-architected systems that minimize the cognitive load on developers. By understanding and applying this theory, we can create development environments that reduce unnecessary complexity and allow developers to allocate their cognitive resources…",
+  "image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*YZT1r-TMIRks5bXk",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle\u003e\u003cdiv\u003e\u003cdiv\u003e\u003ch2 id=\"1491\"\u003e\u003cem\u003eEmotional Architecture in Software Design\u003c/em\u003e\u003c/h2\u003e\u003cdiv\u003e\u003ca href=\"https://ulsc.medium.com/?source=post_page-----c5f79fc8019e--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"Ulas Can Cengiz\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*5uVw7T-nTL4h22mLO9uWlQ.jpeg\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003ca href=\"https://betterprogramming.pub/?source=post_page-----c5f79fc8019e--------------------------------\" rel=\"noopener  ugc nofollow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"Better Programming\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*QNoA3XlXLHz22zQazc0syg.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e\u003cfigure\u003e\u003cfigcaption\u003ePhoto by \u003ca href=\"https://unsplash.com/@bretkavanaugh?utm_source=medium\u0026amp;utm_medium=referral\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003eBret Kavanaugh\u003c/a\u003e on \u003ca href=\"https://unsplash.com/?utm_source=medium\u0026amp;utm_medium=referral\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003eUnsplash\u003c/a\u003e\u003c/figcaption\u003e\u003c/figure\u003e\u003ch2 id=\"d2eb\"\u003eThe Psychological Underpinnings of Software Development\u003c/h2\u003e\u003cp id=\"9d9b\"\u003eImagine sitting down at your desk to untangle a particularly complex piece of software code. Your eyes scan lines packed with logical operations and function calls. Somewhere in this intricate weave, a bug lurks, derailing the application’s performance. This scenario, familiar to many developers, isn’t just a test of technical skill; it’s a psychological challenge. The frustration and cognitive fatigue that often accompany such tasks can cloud judgment and prolong resolution. It’s in moments like these that the intersection of psychology and software development comes into sharp focus.\u003c/p\u003e\u003cp id=\"1d7b\"\u003eCognitive load theory, originally applied to educational psychology, has profound implications for managing complexity in software projects. It posits that our working memory has a limited capacity for processing new information. In the context of software development, this translates to the need for clean, readable code and well-architected systems that minimize the cognitive load on developers. By understanding and applying this theory, we can create development environments that reduce unnecessary complexity and allow developers to allocate their cognitive resources…\u003c/p\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2023-11-10T17:34:07.833Z",
+  "modifiedTime": null
+}

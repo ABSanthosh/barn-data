@@ -1,0 +1,24 @@
+{
+  "id": "0091d0f1-2ce5-47e8-b417-e688b6f1250d",
+  "title": "163: Recursion",
+  "link": "https://www.programmingthrowdown.com/episodes/163-recursion",
+  "description": "Episode 163 - RecursionIntro topic: Electric CarsNews/Links:Snake Game in 101 Bytes in a QR Codehttps://www.reddit.com/r/programming/comments/15ab4ct/my_qr_code_snake_game_is_now_only_101_bytes/Superconductor Rumors aboundhttps://arstechnica.com/science/2023/08/whats-going-on-with-the-reports-of-a-room-temperature-superconductor/OpenWormhttps://github.com/openworm/OpenWormCreator of vim passes awayhttps://news.itsfoss.com/vim-creator-passed-away/Book of the ShowPatrick:Little Book of Common Sense Investing by Jack Bogle https://amzn.to/43YqANRJason: Mistborn Saga: https://amzn.to/3DJkUN8Patreon Plug https://www.patreon.com/programmingthrowdown?ty=hTool of the ShowJason:reMarkable https://remarkable.com/Patrick: Stellarium (iOS and Android)Topic: RecursionWhat is itDivide-And-ConquerFibonacci numbersHow to (not) teach recursionPractical ApplicationsGraph operationsTree retrieval, balancingGraph SearchSpatial partitioningPitfallsStack sizeHow to solve problems with recursion(1) Consider the base cases(2) Build the recursive step(3) Look for ways the recursion will not terminate and fix(4) (rest are optional) Remove global contexts(5) Add memoization(6) Build solutions incrementally ★ Support this podcast on Patreon ★",
+  "author": "Patrick Wheeler and Jason Gauci",
+  "published": "Mon, 14 Aug 2023 10:15:25 -0500",
+  "source": "http://feeds.feedburner.com/ProgrammingThrowdown",
+  "categories": [
+    "Programming",
+    " Recursion"
+  ],
+  "byline": "",
+  "length": 55,
+  "excerpt": "164: Choosing a Database For Your Project With Kris Zyp",
+  "siteName": "",
+  "favicon": "",
+  "text": "164: Choosing a Database For Your Project With Kris Zyp",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003ca href=\"https://www.programmingthrowdown.com/episodes/164-choosing-a-database-for-your-project-with-kris-zyp/\"\u003e\u003cdiv\u003e\u003cp\u003e164: Choosing a Database For Your Project With Kris Zyp\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

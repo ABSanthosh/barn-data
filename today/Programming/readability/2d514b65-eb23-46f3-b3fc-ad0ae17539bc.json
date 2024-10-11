@@ -1,0 +1,29 @@
+{
+  "id": "2d514b65-eb23-46f3-b3fc-ad0ae17539bc",
+  "title": "166: Speedy Database Queries with Lukas Fittl",
+  "link": "https://www.programmingthrowdown.com/episodes/166-speedy-database-queries-with-lukas-fittl",
+  "description": "- pganalyze: https://pganalyze.com/- Weekly series \"5mins of Postgres\": https://www.youtube.com/channel/UCDV_1Dz2Ixgl1nT_3DUZVFw- How Postgres chooses which index to use: https://pganalyze.com/blog/how-postgres-chooses-index- CMU databases courses: https://db.cs.cmu.edu/courses/- Postgres community: https://www.postgresql.org/community/As well as social links:- Mastodon: https://hachyderm.io/@lukas- Twitter/X: @pganalyze, @LukasFittl- GitHub: @pganalyze, @lfittl- LinkedIn: https://www.linkedin.com/in/lfittl/ , https://www.linkedin.com/company/pganalyze/ ★ Support this podcast on Patreon ★",
+  "author": "Patrick Wheeler and Jason Gauci",
+  "published": "Mon, 16 Oct 2023 10:00:00 -0500",
+  "source": "http://feeds.feedburner.com/ProgrammingThrowdown",
+  "categories": [
+    "Programming Throwdown",
+    " Programming Languages",
+    "C",
+    "C",
+    "Java",
+    "Python",
+    "Objective C"
+  ],
+  "byline": "",
+  "length": 28,
+  "excerpt": "167: Desktop User Interfaces",
+  "siteName": "",
+  "favicon": "",
+  "text": "167: Desktop User Interfaces",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003ca href=\"https://www.programmingthrowdown.com/episodes/167-desktop-user-interfaces/\"\u003e\u003cdiv\u003e\u003cp\u003e167: Desktop User Interfaces\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
