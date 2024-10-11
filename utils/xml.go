@@ -64,7 +64,11 @@ func FetchFeed(fp *gofeed.Parser, source Topic) ([]FeedItem, error) {
 	}
 
 	feedItems := make([]FeedItem, 0)
-	for _, item := range feed.Items {
+	for i, item := range feed.Items {
+		if i >= 20 {
+			break
+		}
+
 		authorName := ""
 		if len(item.Authors) > 0 {
 			authorName = item.Authors[0].Name
