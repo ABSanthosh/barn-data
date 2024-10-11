@@ -65,7 +65,9 @@ func FetchFeed(fp *gofeed.Parser, source Topic) ([]FeedItem, error) {
 
 	feedItems := make([]FeedItem, 0)
 	for i, item := range feed.Items {
-		if i >= 20 {
+		// Its only 2 because we have 10 concurrent workers
+		// and it'll add up to 20 items
+		if i >= 2 {
 			break
 		}
 
