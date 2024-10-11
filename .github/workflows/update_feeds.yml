@@ -25,8 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           go get -v -t -d ./...
-          go get github.com/mmcdole/gofeed
-          go get golang.org/x/net/html
+          go mod tidy
 
       - name: Manage folders
         run: |
@@ -34,8 +33,11 @@ jobs:
           mv yesterday/* ereyesterday/ || true
           mv today/* yesterday/ || true
 
-      - name: Run Go script
-        run: go run main.go
+      - name: Run the feed script
+        run: go run main.go --feed
+
+      - name: Run the readability script
+        run: go run main.go --readability
 
       - name: Pull latest changes
         run: |
@@ -49,7 +51,12 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git add .
+          git rm --cached -r ./ereyesterday
+          git rm --cached -r ./yesterday
+          git rm --cached -r ./today
+          git commit -m "Remove old feeds" || true
+
+          git add ereyesterday yesterday today
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feeds" && git push)
 
   deploy:
