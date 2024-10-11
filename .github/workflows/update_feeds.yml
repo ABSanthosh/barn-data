@@ -56,8 +56,10 @@ jobs:
           git rm --cached -r ./today
           git commit -m "Remove old feeds" || true
 
+          current_date=$(date '+%Y-%m-%d %H:%M:%S')
+
           git add ereyesterday yesterday today
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feeds" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feeds on $current_date" && git push)
 
   deploy:
     environment:
