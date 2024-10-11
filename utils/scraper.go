@@ -1,6 +1,7 @@
 package utils
 
 import (
+	"context"
 	"crypto/tls"
 	"io"
 	"math"
@@ -82,13 +83,17 @@ func calculateBackoff(attempt int, baseDelay, maxDelay time.Duration) time.Durat
 	return time.Duration(math.Max(math.Min(backoff+jitter, float64(maxDelay)), float64(baseDelay)))
 }
 
-func fetchWebpage(url string, maxRetries int) (string, error) {
+func fetchWebpage(ctx context.Context, url string, maxRetries int) (string, error) {
 	client := createClient()
 	baseDelay := 1 * time.Second
 	maxDelay := 60 * time.Second
 
 	for i := 0; i < maxRetries; i++ {
-		req, err := http.NewRequest("GET", url, nil)
+		// Create a new context with a timeout for each request
+		reqCtx, cancel := context.WithTimeout(ctx, 30*time.Second)
+		defer cancel()
+
+		req, err := http.NewRequestWithContext(reqCtx, "GET", url, nil)
 		if err != nil {
 			return "", err
 		}
@@ -99,9 +104,13 @@ func fetchWebpage(url string, maxRetries int) (string, error) {
 
 		resp, err := client.Do(req)
 		if err != nil {
-			backoffDuration := calculateBackoff(i, baseDelay, maxDelay)
-			Chalk("Request failed, retrying in %v...\n", "cyan", backoffDuration)
-			time.Sleep(backoffDuration)
+			if reqCtx.Err() == context.DeadlineExceeded {
+				Chalk("Request timed out, retrying...\n", "cyan")
+			} else {
+				backoffDuration := calculateBackoff(i, baseDelay, maxDelay)
+				Chalk("Request failed, retrying in %v...\n", "cyan", backoffDuration)
+				time.Sleep(backoffDuration)
+			}
 			continue
 		}
 		defer resp.Body.Close()
@@ -152,9 +161,11 @@ func isMediaFile(rawURL string) bool {
 
 func FetchPage(url string) (string, error) {
 	maxRetries := 3
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Minute)
+	defer cancel()
 
 	for i := 0; i < maxRetries; i++ {
-		content, err := fetchWebpage(url, 3)
+		content, err := fetchWebpage(ctx, url, 3)
 		if err == nil {
 			return content, nil
 		}
