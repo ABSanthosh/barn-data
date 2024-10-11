@@ -65,6 +65,7 @@ jobs:
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feeds on $current_date" && git push)
 
   deploy:
+    needs: update-feeds
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -77,7 +78,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: "."
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
