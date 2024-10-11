@@ -5,6 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"path/filepath"
+	"strings"
 
 	"github.com/mmcdole/gofeed"
 )
@@ -44,7 +45,28 @@ func main() {
 			fmt.Println("Wrote", fileName)
 		}
 	} else if *isReadability {
-		// Run the readability command
+		topicFolders, err := filepath.Glob("today/*")
+		if err != nil {
+			fmt.Println("Error reading topic folders:", err)
+			return
+		}
+
+		for _, topicFolder := range topicFolders {
+			fileName := filepath.Join(topicFolder, strings.Split(topicFolder, "/")[1]+".json")
+			feedItems, _ := Util.ReadRssSource(fileName)
+			for _, feedItem := range feedItems {
+				savePath := filepath.Join(topicFolder, "readability", feedItem.ID+".json")
+				readability, err := Util.FetchReadability(feedItem)
+				if err != nil {
+					Util.Chalk("Error fetching readability for %s: %v\n", "red", feedItem.Link, err)
+					continue
+				}
+				Util.SaveJSONToFile(savePath, readability)
+			}
+
+			Util.Chalk("Wrote readability for %s\n", "green", topicFolder)
+		}
+
 	} else {
 		fmt.Println("Please specify a command: --feed or --readability")
 	}

@@ -8,6 +8,9 @@ import (
 	"net"
 	"net/http"
 	"net/http/cookiejar"
+	"net/url"
+	"path/filepath"
+	"strings"
 	"time"
 )
 
@@ -122,6 +125,29 @@ func fetchWebpage(url string, maxRetries int) (string, error) {
 
 	Chalk("↳ Failed to fetch webpage after %d retries\n", "red", maxRetries)
 	return "", nil
+}
+
+// isMediaFile checks if the URL points to a media file (like mp3 or mp4).
+func isMediaFile(rawURL string) bool {
+	parsedURL, err := url.Parse(rawURL)
+	if err != nil {
+		return false
+	}
+
+	// Get the file extension from the URL path
+	ext := strings.ToLower(filepath.Ext(parsedURL.Path))
+
+	// List of supported media file extensions
+	supportedExtensions := []string{".mp3", ".mp4", ".wav", ".avi", ".mov", ".mkv"}
+
+	// Check if the extension is in the supported list
+	for _, supportedExt := range supportedExtensions {
+		if ext == supportedExt {
+			return true
+		}
+	}
+
+	return false
 }
 
 func FetchPage(url string) (string, error) {

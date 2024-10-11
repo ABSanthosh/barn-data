@@ -25,6 +25,23 @@ func ReadRecommended() Recommended {
 	return recommended
 }
 
+func ReadRssSource(filePath string) ([]FeedItem, error) {
+	data, err := os.ReadFile(filePath)
+	if err != nil {
+		fmt.Println("error reading rss source file:", err)
+		return nil, err
+	}
+
+	var feedItems []FeedItem
+	if err := json.Unmarshal(data, &feedItems); err != nil {
+		fmt.Println("error unmarshaling rss source data:", err)
+		return nil, err
+	}
+
+	return feedItems, nil
+}
+
+// SaveJSONToFile saves the given data to the specified file.
 func SaveJSONToFile(fileName string, data interface{}) error {
 	feedItemJSON, err := json.MarshalIndent(data, "", "  ")
 	if err != nil {
