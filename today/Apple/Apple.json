@@ -1,0 +1,377 @@
+[
+  {
+    "id": "de1c3163-4612-4e3e-bb54-d914c5ef6968",
+    "title": "The Making of Submerged | Apple Vision Pro",
+    "link": "https://www.youtube.com/watch?v=eYJcUtVIB_g",
+    "description": "",
+    "author": "Apple",
+    "published": "2024-10-10T16:00:38+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "50b4600f-6892-4dd3-ac79-28b6d8672760",
+    "title": "Submerged — Official Trailer | Apple Vision Pro",
+    "link": "https://www.youtube.com/watch?v=HjvzQeqoGRg",
+    "description": "",
+    "author": "Apple",
+    "published": "2024-10-07T16:00:48+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "1b76a207-5dda-401f-a19b-19a8cf6850e1",
+    "title": "Apple debuts the first scripted film captured in Apple Immersive Video",
+    "link": "https://www.apple.com/newsroom/2024/10/apple-debuts-the-first-scripted-film-captured-in-apple-immersive-video/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2024-10-10T16:00:42.212Z",
+    "image": "https://www.apple.com/newsroom/images/2024/10/apple-debuts-the-first-scripted-film-captured-in-apple-immersive-video/tile/Apple-Vision-Pro-Submerged-The-Making-of-Submerged-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "5003dd27-5dd9-45c9-907a-69afeb976171",
+    "title": "Apple’s Swift Student Challenge to open in February 2025",
+    "link": "https://www.apple.com/newsroom/2024/10/apples-swift-student-challenge-to-open-in-february-2025/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2024-10-08T13:00:10.375Z",
+    "image": "https://www.apple.com/newsroom/images/logos/quick-reads-logos/Apple-Swift-Student-Challenge-logo.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "2794aa78-10a0-447e-a6fc-d115c173c871",
+    "title": "How to use the Show Library Folder option in macOS Sequoia's Finder",
+    "link": "https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-show-library-folder-option-in-macos-sequoias-finder?utm_medium=rss",
+    "description": "Apple has added a new option to Finder's Show View Options window, titled Show Library Folder items. Here's how to find it in macOS Sequoia.The macOS Finder iconThe Finder's View-\u003eShow View Options window has long held a range of controls for changing the way the macOS Finder Desktop displays items and windows.You can use Show View Options on the Desktop itself, or in Finder windows. You can also set the selection of settings as the default. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Chip Loder",
+    "published": "Fri, 11 Oct 2024 03:13:35 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/61257-126729-findersequoia-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "e2a68b77-79b7-4c2a-be4c-1498ca1df97c",
+    "title": "Asahi Linux enables AAA gaming on M-series Macs via a pile of workarounds",
+    "link": "https://appleinsider.com/articles/24/10/11/asahi-linux-enables-aaa-gaming-on-m-series-macs-via-a-pile-of-workarounds?utm_medium=rss",
+    "description": "If you're running Asahi Linux and want to game on your M-series Mac, then there's good news, but you'll probably want to play games literally in any other way until it is more streamlined — if then.Asahi Linux runs on M-series MacsThe Asahi Linux project continues to press forward with new features. It was able to become OpenGL 4.6 and OpenGL ES 3.2 conformant on Macs with Apple Silicon in February, and now there's a gaming push.An update from the Alyssa Rosenzweig blog says that Asahi Linux ships conformant OpenGL, OpenCL, and Vulkan drivers that can run games via the Asahi game playing toolkit. These tools integrate Vulkan 1.3 drivers with x86 emulation and Windows compatibility to run games — well, some of them in the existing alpha. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Wesley Hilliard",
+    "published": "Fri, 11 Oct 2024 02:18:34 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/61358-126776-IMG_1192-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "4e0e8447-a403-49b9-a552-726f65f58d82",
+    "title": "This iPad and MacBook stand stashes a USB-C hub in its aluminum arm",
+    "link": "https://www.cultofmac.com/daily-deals/macbook-dock-stand",
+    "description": "The Casa Hub 360 is an iPad and MacBook dock stand with a USB-C hub in the sturdy arm. Turn your device into a sunflower iMac G4! (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Cult of Mac Deals",
+    "published": "Thu, 10 Oct 2024 21:30:33 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2024/10/macbook-dock-stand-in-action.gif",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Daily deals",
+      "Adam Elements",
+      "Cult of Mac Deals",
+      "iPad stands",
+      "MacBook stands"
+    ]
+  },
+  {
+    "id": "03847b99-6b56-483f-be2e-974aa2bb593c",
+    "title": "How to set up automatic, scheduled Apple Cash payments",
+    "link": "https://www.cultofmac.com/how-to/apple-cash-automatic-payments",
+    "description": "Set up repeating, scheduled Apple Cash payments to send money to your friends or family on a regular basis. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "D. Griffin Jones",
+    "published": "Thu, 10 Oct 2024 20:30:13 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2023/11/Automatic-Apple-Cash-Payments.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "How-To",
+      "Apple Pay",
+      "iOS 17",
+      "Top stories"
+    ]
+  },
+  {
+    "id": "daf58557-02f4-445f-8065-7337df80f9dc",
+    "title": "Siri with the surprise affirmation at the end. 🤣 #siri #halloween #tedlasso",
+    "link": "https://www.youtube.com/watch?v=QvqGTpadVWw",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2024-10-10T16:51:10+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "fa6269c4-6d33-46de-850a-7e78cb4340a0",
+    "title": "iPad User Tries Samsung Galaxy Tab S10 Ultra (BETTER Than M4 iPad Pro?)",
+    "link": "https://www.youtube.com/watch?v=4sP-HOMFspM",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2024-10-09T19:08:17+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "dfffb47b-23bd-47ee-9c97-3efd9a3d8700",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 10:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "6ed30cc2-d966-4b7d-8d61-97789da602d9",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 06:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "b5827b7c-cd13-4c82-af88-8ee5a6738cda",
+    "title": "★ Consider the Plight of the VC-Backed Privacy Burglars",
+    "link": "https://daringfireball.net/2024/10/consider_the_plight_of_the_vc-backed_privacy_burglars",
+    "description": "The question to ask is, “Is this what users want and expect?” Sometimes it really is that simple. I’m not sure it’s ever worth asking “Is this what growth-hacking VC-backed social-media app makers want?”",
+    "author": "John Gruber",
+    "published": "2024-10-10T20:36:41Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "b45e1260-a402-494f-9a74-dc2db4eabad5",
+    "title": "Calvin’s Dad Explains the Pre-Color World",
+    "link": "https://www.gocomics.com/calvinandhobbes/2024/10/06",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2024-10-10T16:16:03Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "d13c9bcf-4308-482f-9aff-b486e8e56a93",
+    "title": "The better-than-AirPods Beats Fit Pro just dropped to an all-time-low price",
+    "link": "https://www.macworld.com/article/2486237/the-better-than-airpods-beats-fit-pro-just-dropped-to-an-all-time-low-price.html",
+    "description": "Macworld The fantastic Beats Fit Pro earbuds are at their best price now at Amazon, $150, 25 percent off their MSRP, and the best price we’ve seen. We reviewed the Beats Fit Pro and gave them an absolutely perfect score – an extremely rare occurrence. Plus, they also got our Editors’ Choice award, marking them for the awesome buds that they are. We found they fit fantastically, they have a good battery life, and they deliver good noise canceling and even an extremely useful transparency mode. Our only quibble is that there’s no wireless charging on the case, but we can very well survive this “ordeal” by sometimes plugging in that USB-C cable. “The Beats Fit Pro give you all the benefits of AirPods Pro with better fit, sound quality, and battery life. The call quality is slightly worse and there’s no wireless charging, but the comfort and fit alone are worth the tradeoff,” we wrote. As mentioned, the earbuds feature three listening modes, namely Active Noise Cancelling, Transparency Mode, and Adaptive EQ. While the first mode will block the world around you, the second will make it possible for you to listen in around you, which is ideal when you’re walking around at night or crossing the street, for instance. The Adaptive EQ mode will use the microphones on the earbuds to react to changes in your environment, modifying the sound output to maintain a good listening experience in all situations. SO Don’t miss the chance to save big on the Beats Fit Pro. Order them for $150 at Amazon before the price goes back up. Get some awesome Beats earbuds to exercise withBuy it at Amazon",
+    "author": "",
+    "published": "Thu, 10 Oct 2024 17:04:53 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2024/10/beats-fit-pro-case.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "Headphones"
+    ]
+  },
+  {
+    "id": "a4625345-8858-4ab3-8ed0-ed672e35ebc4",
+    "title": "Apple’s iPad Pro troubles return as demand for OLED panels crater",
+    "link": "https://www.macworld.com/article/2486230/apples-ipad-pro-troubles-return-as-demand-for-oled-panels-crater.html",
+    "description": "Macworld Following the announcement of surprisingly strong iPad revenue back in August, it’s looking like things are heading back to normal for Apple’s beleaguered tablet division. According to a new report, demand for the latest iPad Pro has fallen well below the numbers Apple initially projected. Earlier this week Display Supply Chain Consultants (DSCC) released an analysis (you’ll need to register to read the full article) indicating that demand for the OLED panels used in the new iPad Pro models “has really slowed down after a strong Q2 2024.” Shipments were down by 40% in the third quarter, and are expected to fall by another 30 percent by the end of the year. The larger 13-inch model is expected to see an astonishing 90 percent drop in shipments for Q4. DSCC sets this troubling decline against its view that the 2024 Pro has the best display and the thinnest design on the market. But having the best display and the thinnest design doesn’t get you very far if your tablet costs so much that people can’t afford it–and even the smaller of the two 2024 iPad Pro models starts at $999, far more than most potential customers would be looking to spend. The iPad user base is overwhelmingly dominated by casual users who absolutely do not require the high-end specs and features that the iPad Pro delivers, and for that matter do not need to regularly upgrade their devices, which is bad news for the latest edition of the iPad Air and the imminent new versions of the standard iPad and iPad mini. Shortly after those positive sales figures this summer, I argued that they were merely a temporary sales bump caused by bottled-up demand after a long period with no new models and that the fundamental problems–not enough pro customers, too many casual customers with little interest in upgrading regularly, iPadOS failing to convince as a work OS–remained. I challenged the iPad to keep the hot streak going into the next quarter and predicted that it would fail to do so. I take no pleasure in being right. Retailer Price $899 View Deal $899 View Deal $969.52 View Deal $999 View Deal $999 View Deal $1199 View Deal Price comparison from over 24,000 stores worldwide View more prices Product Price Price comparison from Backmarket",
+    "author": "",
+    "published": "Thu, 10 Oct 2024 17:00:33 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2024/10/iPad-Pro-M4.png",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "iPad"
+    ]
+  },
+  {
+    "id": "30187454-282e-4499-9043-72d5710c8153",
+    "title": "Apple once again cuts interest rate for Apple Card Savings Account",
+    "link": "https://9to5mac.com/2024/10/10/cuts-interest-rate-apple-card-savings-account/",
+    "description": "After cutting interest rates for the Apple Card Savings Account last month, Apple and Goldman Sachs are cutting interest rates again. Customers were notified of the change on Thursday night, and it will take effect on Friday, October 11. more…",
+    "author": "Filipe Espósito",
+    "published": "Fri, 11 Oct 2024 01:49:17 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/08/apple-card-savings-10B.webp?w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "51514bb1-5439-4cb0-9279-a9e8c1e6f9bc",
+    "title": "Ticketmaster announces support for richer event tickets in Apple Wallet with iOS 18",
+    "link": "https://9to5mac.com/2024/10/10/ticketmaster-tickets-apple-wallet-ios-18/",
+    "description": "With iOS 18, the Apple Wallet app has gained support for richer event tickets, which provide more details with useful information about the event. As iOS 18 is now available to the public, Ticketmaster announced on Thursday that it will soon be rolling out support for richer tickets in Apple Wallet. more…",
+    "author": "Filipe Espósito",
+    "published": "Fri, 11 Oct 2024 00:51:43 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-wallet-ticketmaster-ticket-ios-18.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "f589d0aa-5768-429e-a4d8-f98243578714",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "0902843c-eef5-4dc1-9082-f6107c917b75",
+    "title": "The Overcast Redesign: Part One",
+    "link": "https://marco.org/2022/03/25/overcast-redesign-2022",
+    "description": "Overcast’s latest update (2022.2) brings the largest redesign in its nearly-eight-year history, plus many of the most frequently requested features and lots of under-the-hood improvements. I’m pretty proud of this one. For this first and largest phase of the redesign, I focused on the home screen, playlist screen, typography, and spacing. (I plan to revamp the now-playing and individual-podcast screens in a later update.) The home screen is radically different: Home screen, before (left) and after (right). Playlists now have strong visual identities for nicer and easier navigation. Each playlist has a customizable color, and a custom icon can be selected from over 3,000 SF Symbols to match modern iOS design and the other icons within Overcast. And playlists can be manually reordered with drag-and-drop. Recently played and newly published episodes can now be displayed on the home screen for quick access, much like the widget and CarPlay experience. Podcasts can now be pinned to the top of the home-screen list. Pinned podcasts can also be manually reordered with drag-and-drop. I’ve also rethought the old stacked “Podcasts” and “Played Podcasts” sections to better match people’s needs and expectations. Now, the toggle atop the podcast list switches between three modes: podcasts with current episodes, all followed podcasts, and inactive podcasts (those that you don’t follow and therefore won’t get any more episodes from, or haven’t posted a new episode in a long time). The playlist screen’s structure remains mostly the same, while refining the design for the modern era: Playlist screen, before (left) and after (right). Here, it’s more apparent that I’ve replaced the system San Francisco font with an alternate variant, San Francisco Rounded, to increase legibility and better match the personality of the app. I’ve also added highly demanded features: By far, Overcast’s most-requested feature is a Mark as Played feature. That’s now available as a checkmark button on episode rows, as well as a left-side swipe action. The second-most-requested feature is a way to view all starred episodes. Special playlists for Starred, Downloaded, and In Progress can now be created. The light and dark themes now each have a customizable tint color from the modern iOS UI-color palette, including these favorites from beta testers: And throughout the app, I’ve made tons of tweaks and bug fixes, including: Notifications and background downloads are now much more reliable. Episode downloads can now be individually deleted or re-downloaded. Links can now be opened in Safari. (under Nitpicky Details) Performance is now significantly better with very large playlists and collections. Fixed bugs with episode-duration detection, CarPlay lists, Mac-app sharing, and much more. So much is better in this update that I can’t even remember it all. Thank you so much to everyone who helped me beta-test this massive update. As always, Overcast is free in the App Store. Go get it!",
+    "author": "",
+    "published": "Fri, 25 Mar 2022 10:57:51 EDT",
+    "image": "https://marco.org/media/2022/03/ocredesign2022-1-after.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "132beac5-2084-40d4-a96c-840bef4cc7b5",
+    "title": "Can’t Open Microsoft Office Files in MacOS Sequoia? Fix Microsoft Word, Excel, Office File Associations",
+    "link": "https://osxdaily.com/2024/10/10/cant-open-microsoft-office-files-in-macos-sequoia-fix-microsoft-word-excel-office-file-associations/",
+    "description": "Some Mac users have noticed that Microsoft Office files and documents, whether that’s Word docs, Excel spreadsheets, Powerpoint presentations, or otherwise, are not opening in the intended apps, or properly associating with the relevant Microsoft Office app, after updating their Mac to MacOS Sequoia. To make matters worse, some users report that when attempting to ... Read More",
+    "author": "Paul Horowitz",
+    "published": "Thu, 10 Oct 2024 22:15:54 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Mac OS",
+      "Tips \u0026 Tricks",
+      "Troubleshooting",
+      "Mac",
+      "macOS",
+      "MacOS Sequoia",
+      "microsoft office",
+      "tips",
+      "tricks"
+    ]
+  },
+  {
+    "id": "c5e4e571-c5e3-4351-8ff6-49185680d674",
+    "title": "How to Update MacOS Sonoma/Ventura Without Installing Sequoia",
+    "link": "https://osxdaily.com/2024/10/09/how-to-update-macos-sonoma-ventura-without-installing-sequoia/",
+    "description": "If you’re not yet interested in installing MacOS Sequoia for whatever reason – perhaps due to compatibility issues, waiting for specific features, or just holding off until Sequoia is more refined – you almost certainly still want to install other system software updates as they become available to your Mac, including installing any available security ... Read More",
+    "author": "Paul Horowitz",
+    "published": "Wed, 09 Oct 2024 22:06:49 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Mac OS",
+      "Tips \u0026 Tricks",
+      "Troubleshooting",
+      "install MacOS",
+      "Mac",
+      "macOS",
+      "MacOS Sequoia",
+      "MacOS Sonoma",
+      "MacOS Ventura",
+      "tips",
+      "tricks"
+    ]
+  },
+  {
+    "id": "d3996b23-95a8-4a6e-8e53-64a181ccbd7f",
+    "title": "∞ The Dalrymple Report: iPhone SE, AI generated podcasts, and Action button",
+    "link": "https://www.loopinsight.com/2024/10/04/the-dalrymple-report-iphone-se-ai-generated-podcasts-and-action-button/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-iphone-se-ai-generated-podcasts-and-action-button",
+    "description": "There are rumors Apple is getting set to release a new iPhone SE with the new model giving up TouchID. Dave and I were stunned to hear what an AI generated podcast sounded like. It was very life like listening to the banter of the two hosts. Dave talks about his likes of the iPhone Action button. Follow this podcast Show Notes: Happy 100 to Jimmy Carter Pete Rose died Verizon Experiences Major Outage Across the U.S. Rumored new iPhone SE AI generated podcasts Next up for Apple Intelligence: Visual Intelligence iPhone Action Button Uptake Best Ways to Use the iPhone 16 Action Button Best thing about the Camera Control Shows and movies we're watching Under the Banner of Heaven, Disney+ Lupin, Netflix Our top shows",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 04 Oct 2024 13:25:47 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "6776c99c-a851-411f-b8c7-5e8e965241b4",
+    "title": "∞ The Dalrymple Report: Dave’s new iPhone 16 and Apple Watch",
+    "link": "https://www.loopinsight.com/2024/09/27/the-dalrymple-report-daves-new-iphone-16-and-apple-watch/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-daves-new-iphone-16-and-apple-watch",
+    "description": "Dave was one of the many people that upgraded his phone, ordering the iPhone 16 and Apple Watch. He gives us his thoughts on everything from the screen to the new camera button and how much of a difference he sees upgrading from an iPhone 13 Pro. Follow this podcast Show Notes: iMore shutting down You can adjust the lightness of touch required to fire off the Camera Control submenu iOS 18.1beta5 Camera Control adds ability to switch to selfie mode How to Customize and Reorder the Photos App Shows and movies we're watching The Clearing, Hulu good behavior, Max The fall guy, peacock",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 27 Sep 2024 15:49:18 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "36d81d79-8d98-426d-9759-3953dec9bbdc",
+    "title": "New NPC and AppStories Additions to the MacStories YouTube Channel",
+    "link": "https://www.macstories.net/news/new-npc-and-appstories-additions-to-the-macstories-youtube-channel/",
+    "description": "We’ve begun publishing more than podcasts on YouTube. In addition to MacStories’ six podcasts, we’ve added bonus content for NPC: Next Portable Console listeners. Whether you watch the video version of the show or not, we kicked off a playlist of bonus content this week with two videos. The first is an unboxing and closer […]",
+    "author": "John Voorhees",
+    "published": "Thu, 10 Oct 2024 19:53:26 +0000",
+    "image": "",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "news",
+      "appstories",
+      "NPC",
+      "podcasts",
+      "youtube"
+    ]
+  },
+  {
+    "id": "f56bacd1-c582-4e8b-a00f-d50458e60900",
+    "title": "Apple Releases Immersive Short Film Submerged and Announces Upcoming Immersive Content",
+    "link": "https://www.macstories.net/news/apple-releases-immersive-short-film-submerged-and-announces-upcoming-immersive-content/",
+    "description": "Alongside today’s debut of Submerged, the first scripted film captured in Apple Immersive Video, Apple also released a behind-the-scenes look at the film as well as details of immersive content coming to Apple Vision Pro users in the U.S. later this year. The Making of Submerged offers an inside look at the process behind shooting […]",
+    "author": "Devon Dundee",
+    "published": "Thu, 10 Oct 2024 16:02:39 +0000",
+    "image": "https://cdn.macstories.net/apple-vision-pro-submerged-elevated-1728569342966.jpeg",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "news",
+      "Immersive Video",
+      "Vision Pro"
+    ]
+  },
+  {
+    "id": "e02fa290-9d79-4549-88b1-dbc74d13b772",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "85cc1600-3bfa-4595-9781-7646aafdd7a7",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  }
+]
