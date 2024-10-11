@@ -14,12 +14,15 @@ import (
 func main() {
 	isFeed := flag.Bool("feed", false, "Run the feed command")
 	isReadability := flag.Bool("readability", false, "Run the readability command")
+	isFix := flag.Bool("fix", false, "Run the fix command")
 	flag.Parse()
 
 	if *isFeed {
 		processFeed()
 	} else if *isReadability {
 		processReadability()
+	} else if *isFix {
+		Util.FixFeeds()
 	} else {
 		fmt.Println("Please specify a command: --feed or --readability")
 	}

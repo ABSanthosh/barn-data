@@ -39,6 +39,9 @@ jobs:
       - name: Run the readability script
         run: go run main.go --readability
 
+      - name: Fix the feeds
+        run: go run main.go --fix
+
       - name: Pull latest changes
         run: |
           git pull origin main
