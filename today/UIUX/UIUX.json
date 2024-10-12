@@ -1,0 +1,224 @@
+[
+  {
+    "id": "65c385c9-c973-4204-8284-5616df12b63d",
+    "title": "Using Multimodal AI Models For Your Applications (Part 3)",
+    "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
+    "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
+    "author": "Joas Pambou",
+    "published": "Fri, 11 Oct 2024 10:00:00 GMT",
+    "image": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "57a11274-26d7-4aae-80cf-4256b93a6270",
+    "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
+    "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+    "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
+    "author": "Karin Hendrikse",
+    "published": "Mon, 07 Oct 2024 13:00:00 GMT",
+    "image": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "fdb98af0-34af-4be3-91d7-780383f5510e",
+    "title": "InVision design collaboration services shutdown",
+    "link": "https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/",
+    "description": "InVision Community,  Today I am writing to share that after careful consideration we have made the difficult decision to discontinue […] The post InVision design collaboration services shutdown appeared first on Inside Design.",
+    "author": "Michael Shenkman",
+    "published": "Thu, 04 Jan 2024 12:00:50 +0000",
+    "image": "",
+    "source": "https://www.invisionapp.com/inside-design/feed",
+    "categories": [
+      "InVision"
+    ]
+  },
+  {
+    "id": "c1d79248-a106-49f8-8a83-9b2aee157f2f",
+    "title": "Freehand joins the Miro team",
+    "link": "https://www.invisionapp.com/inside-design/freehand-joins-the-miro-team/",
+    "description": "We’re thrilled to announce that Miro has acquired Freehand.  InVision has always been at the forefront of collaboration, by first […] The post Freehand joins the Miro team appeared first on Inside Design.",
+    "author": "Michael Shenkman",
+    "published": "Wed, 15 Nov 2023 18:02:53 +0000",
+    "image": "",
+    "source": "https://www.invisionapp.com/inside-design/feed",
+    "categories": [
+      "InVision"
+    ]
+  },
+  {
+    "id": "89a6642e-790b-489a-a217-41bf0430cb5e",
+    "title": "10 Best Brand Strategy Courses Online in 2024",
+    "link": "https://justcreative.com/best-brand-strategy-courses-resources/",
+    "description": "Want to learn brand strategy and earn more? Here are the best brand strategy courses online \u0026 in person to learn brand strategy.",
+    "author": "Jacob Cass",
+    "published": "Thu, 10 Oct 2024 04:53:16 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2021/11/brand-strategy-course-1024x642.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Branding",
+      "Courses",
+      "Brand Strategy"
+    ]
+  },
+  {
+    "id": "87648dbd-472d-43a9-b6de-80cd48c0b365",
+    "title": "Adobe MAX 2024 — The Creative Event of the Year (Oct 14-16 Miami)",
+    "link": "https://justcreative.com/adobe-max-2024/",
+    "description": "Discover Adobe MAX 2024: AI-powered creativity, hands-on training, inspiring keynotes \u0026 networking for designers \u0026 creatives from October 14-16 in Miami Beach!",
+    "author": "Jacob Cass",
+    "published": "Thu, 10 Oct 2024 00:17:57 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2024/10/adobe-max-panel-1024x618.jpg",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Adobe",
+      "Adobe Max",
+      "Conference"
+    ]
+  },
+  {
+    "id": "2d2678ee-01e8-42cc-bfd6-9f15807d045b",
+    "title": "Getting into the Discovery Mindset",
+    "link": "https://www.nngroup.com/articles/discovery-mindset/",
+    "description": "Successful discovery requires teams to be open to uncovering “unknown unknowns.” Center your discovery efforts around problems rather than solutions.",
+    "author": "Maria Rosala",
+    "published": "Fri, 11 Oct 2024 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "8ea6fd2b-4fb2-4fdd-9b47-cd6281ee38b6",
+    "title": "Icon Usability: When and How to Evaluate Digital Icons",
+    "link": "https://www.nngroup.com/articles/how-to-test-digital-icons/",
+    "description": "Effective icons depend on recognizability and interpretation. Evaluate them with methods appropriate for your specific research questions",
+    "author": "Kate Kaplan",
+    "published": "Fri, 04 Oct 2024 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "a749cb08-876e-41e9-abc5-7abce3d0287f",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "fa9d9787-aef8-4526-b48b-a29f00d663ff",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  },
+  {
+    "id": "54e12cb5-a9ca-46f7-86a8-37b828fcd536",
+    "title": "Onboarding a complex product: a case study of Grammarly",
+    "link": "https://uxdesign.cc/onboarding-a-complex-product-a-case-study-of-grammarly-8e700001053b?source=rss----138adf9c44c---4",
+    "description": "Conversational copy, progressive disclosure and great use of imageryContinue reading on UX Collective »",
+    "author": "Rosie Hoggmascall",
+    "published": "Fri, 11 Oct 2024 11:13:29 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1824/1*uyOMeNUGn_uzPfOnrTLMiA.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "growth",
+      "ux",
+      "editor-picks",
+      "startup",
+      "product-management"
+    ]
+  },
+  {
+    "id": "b24a7cc9-8bbf-482a-8ec0-eb797ae64472",
+    "title": "How Uber Eats makes you think you want to order food",
+    "link": "https://uxdesign.cc/how-uber-eats-makes-you-think-you-want-to-order-food-c943a9dbfb93?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Max Matsinger",
+    "published": "Fri, 11 Oct 2024 07:33:57 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*6vRPq6CgdtGldPqNJ_b7eg.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "design",
+      "behavioral-science",
+      "ux",
+      "psychology",
+      "technology"
+    ]
+  },
+  {
+    "id": "a05a96e6-f5cb-40f1-ad6f-e09812ea99fc",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "880007a8-1050-4bb9-a505-29a0362c9e01",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "606f1b6c-9815-4542-bf98-3700efb6a5d4",
+    "title": "How to Handle Large-Scale Item Groups in a Sidebar",
+    "link": "https://uxmovement.com/navigation/how-to-handle-large-scale-item-groups-in-a-sidebar/",
+    "description": "A sidebar navigation with a few items is simple to design. All you have to do is display them in a list with relevant icons. But what do you do when you have multiple large-scale item groups to display? The typical approach uses disclosure arrows to collapse each item group with an accordion functionality. However, […] The post How to Handle Large-Scale Item Groups in a Sidebar first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 28 Aug 2024 02:26:51 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "cb5cdd4f-a256-4bbb-b204-9fc6512e6b8b",
+    "title": "A Better Approach to Multi-Level Sidebar Navigation",
+    "link": "https://uxmovement.com/navigation/a-better-approach-to-multi-level-sidebar-navigation/",
+    "description": "Designers must stop using multi-level sidebar navigation. Grouping many items and subitems together in a small space creates visual clutter. As a result, users have trouble finding items when they navigate. For example, a sidebar with a navigation hierarchy with three levels will display many text labels. Users navigating between levels can easily misinterpret which […] The post A Better Approach to Multi-Level Sidebar Navigation first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Mon, 26 Aug 2024 14:33:28 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  }
+]
