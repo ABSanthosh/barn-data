@@ -1,0 +1,27 @@
+{
+  "id": "165deb1f-1b39-43a3-9a31-74808c579308",
+  "title": "Clean Strings Handling in Android",
+  "link": "https://proandroiddev.com/clean-strings-handling-in-android-483aa9aa0e94?source=rss----c72404660798---4",
+  "description": "",
+  "author": "Michal Ankiersztajn",
+  "published": "Tue, 08 Oct 2024 18:08:38 GMT",
+  "source": "https://proandroiddev.com/feed",
+  "categories": [
+    "stringholder",
+    "clean-architecture",
+    "kotlin",
+    "androiddev",
+    "android-app-development"
+  ],
+  "byline": "Michal Ankiersztajn",
+  "length": 1106,
+  "excerpt": "How to use String Resources in ViewModel or any other place in your project? Use StringHolder for Values, Resources and Plurals.",
+  "siteName": "ProAndroidDev",
+  "favicon": "https://miro.medium.com/v2/resize:fill:256:256/1*A8VytPZQhvUf_MG6hm_Dlw.png",
+  "text": "In this article, you’ll learn how to use string resources inside ViewModel or any place you want, no matter what the source of the string is!Why passing strings is problematic?We want to treat all strings in Android as equals, whether they’re from strings.xml , backend or user-created content. You’ll need an abstraction representing all of these values to do so. We’ll call it StringHolder .The StringHolder interfaceLuckily, in Kotlin, we can leverage sealed interface for that:StringHolder class diagramIn code, it’ll look like this:This can be a domain layer model if it has some dependencies on Android already. If you’re doing it the proper and fully clean way, then you can use it without the @StringRes annotation.Get the valueNow, we can pass these strings around as if they were equals, but we also need a way to get values through a single function. Here are 3 most common methods for that:Example usageNow that we have our extension functions in place, it’s very easy to use the class in our UI:If you need it in data layer classes or Framgents you can access it through Resources or Context :",
+  "image": "https://miro.medium.com/v2/resize:fit:1100/1*S-BLhokyB2XJqJoU_KAycA.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cfigure\u003e\u003c/figure\u003e\u003cdiv\u003e\u003ca href=\"https://medium.com/@michalankiersztajn?source=post_page-----483aa9aa0e94--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"Michal Ankiersztajn\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*wqtk16v3lv_e1Cu_dPyT2w.jpeg\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003ca href=\"https://proandroiddev.com/?source=post_page-----483aa9aa0e94--------------------------------\" rel=\"noopener  ugc nofollow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"ProAndroidDev\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*XVtdl45m8YaYrPI4buJ5yQ.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003cp id=\"e812\"\u003eIn this article, you’ll learn \u003cstrong\u003ehow to use string resources inside \u003c/strong\u003e\u003ccode\u003e\u003cstrong\u003eViewModel\u003c/strong\u003e\u003c/code\u003e or any place you want, no matter what the source of the string is!\u003c/p\u003e\u003ch2 id=\"9281\"\u003eWhy passing strings is problematic?\u003c/h2\u003e\u003cp id=\"5f7b\"\u003eWe want to treat all strings in Android as equals, whether they’re from \u003ccode\u003estrings.xml\u003c/code\u003e , backend or user-created content. You’ll need an abstraction representing all of these values to do so. We’ll call it \u003ccode\u003eStringHolder\u003c/code\u003e .\u003c/p\u003e\u003ch2 id=\"4651\"\u003eThe \u003ccode\u003eStringHolder\u003c/code\u003e interface\u003c/h2\u003e\u003cp id=\"ba56\"\u003eLuckily, in Kotlin, we can leverage \u003ccode\u003esealed interface\u003c/code\u003e for that:\u003c/p\u003e\u003cfigure\u003e\u003cfigcaption\u003eStringHolder class diagram\u003c/figcaption\u003e\u003c/figure\u003e\u003cp id=\"d468\"\u003eIn code, it’ll look like this:\u003c/p\u003e\u003cfigure\u003e\u003c/figure\u003e\u003cp id=\"a701\"\u003eThis can be a \u003ccode\u003edomain\u003c/code\u003e layer model if it has some dependencies on Android already. If you’re doing it the proper and fully clean way, then you can use it without the \u003ccode\u003e@StringRes\u003c/code\u003e annotation.\u003c/p\u003e\u003ch2 id=\"bf2a\"\u003eGet the value\u003c/h2\u003e\u003cp id=\"b27b\"\u003eNow, we can pass these strings around as if they were equals, but we also need a way to get values through a single function. Here are 3 most common methods for that:\u003c/p\u003e\u003cfigure\u003e\u003c/figure\u003e\u003ch2 id=\"3f8b\"\u003eExample usage\u003c/h2\u003e\u003cp id=\"6a4b\"\u003eNow that we have our extension functions in place, it’s very easy to use the class in our UI:\u003c/p\u003e\u003cfigure\u003e\u003c/figure\u003e\u003cp id=\"69db\"\u003eIf you need it in \u003ccode\u003edata\u003c/code\u003e layer classes or \u003ccode\u003eFramgents\u003c/code\u003e you can access it through \u003ccode\u003eResources\u003c/code\u003e or \u003ccode\u003eContext\u003c/code\u003e :\u003c/p\u003e\u003cfigure\u003e\u003c/figure\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2024-09-16T06:01:26.753Z",
+  "modifiedTime": null
+}
