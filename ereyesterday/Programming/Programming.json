@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "897e64aa-599f-4440-a925-419f4ac9585b",
+    "title": "Let a thousand programming publications bloom.",
+    "link": "https://betterprogramming.pub/let-a-thousand-programming-publications-bloom-bf37baef8f27?source=rss----d0b105d10f0a---4",
+    "description": "",
+    "author": "Tony Stubblebine",
+    "published": "Fri, 10 Nov 2023 18:18:10 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*tKikPWjE4MZ5WgdfZuyvEg.png",
+    "source": "https://medium.com/feed/better-programming",
+    "categories": null
+  },
+  {
+    "id": "c37a5b64-052b-45ee-8e9e-14aebc1112b5",
+    "title": "Calling AWS Bedrock from code",
+    "link": "https://betterprogramming.pub/calling-aws-bedrock-from-code-3f456a51ff99?source=rss----d0b105d10f0a---4",
+    "description": "Using Python in a Jupyter notebookContinue reading on Better Programming »",
+    "author": "Thomas Reid",
+    "published": "Fri, 10 Nov 2023 17:35:02 GMT",
+    "image": "https://cdn-images-1.medium.com/max/600/1*iltZoO6rmWj_AnfNpJ1m-A.png",
+    "source": "https://medium.com/feed/better-programming",
+    "categories": [
+      "bedrock",
+      "python",
+      "llm",
+      "boto3",
+      "ai"
+    ]
+  },
+  {
+    "id": "7aefb1c2-cd20-47bc-bf9c-1442cc4e60da",
+    "title": "Machine Learning in Content Moderation at Etsy",
+    "link": "https://www.etsy.com/codeascraft/machine-learning-in-content-moderation-at-etsy?utm_source=OpenGraph\u0026utm_medium=PageTools\u0026utm_campaign=Share",
+    "description": "At Etsy, we’re focused on elevating the best of our marketplace to help creative entrepreneurs grow their businesses. We continue to invest in making Etsy a safe and trusted place to shop, so sellers’ extraordinary items can shine. Today, there are more than 100 million unique items available for sale on our marketplace, and our vibrant global community is made up of over 90 million active buyers and 7 million active sellers, the majority of whom are women and sole owners of their creative businesses. To support this growing community, our Trust \u0026 Safety team of Product, Engineering, Data, and Operations experts are dedicated to keeping Etsy's marketplace safe by enforcing our policies and removing potentially violating or infringing items at scale For that, we make use of community reporting and automated controls for removing this potentially violating content. In order to continue to scale and enhance our detections through innovative products and technologies, we also leverage state-of-the-art Machine Learning solutions which we have already used to identify and remove over 100,000 violations during the past year on our marketplace. In this article, we are going to describe one of our systems to detect policy violations that utilizes supervised learning, a family of algorithms that uses data to train their models to recognize patterns and predict outcomes. Datasets In Machine Learning, data is one of the variables we have the most control over. Extracting data and building trustworthy datasets is a crucial step in any learning problem. In Trust \u0026 Safety, we are determined to keep our marketplace and users safe by identifying violations to our policies. For that, we log and annotate potential violations that enable us to collect datasets reliably. In our approach, these are translated into positives, these were indeed violations, and negatives, these were found not to be offending for a given policy. The latter are also known as hard negatives as they are close to our positives and can help us to better learn how to partition these two sets. In addition, we also add easy or soft negatives by adding random items to our datasets. This allows us to give further general examples to our models for listings that do not violate any policy, which is the majority in our marketplace and improve generalizability. The number of easy negatives to add is a hyper-parameter to tune, more will mean higher training time and fewer positive representations. For each training example, we extract multimodal signals, both textual and imagery from our listings. Then, we split our datasets by time using progressive evaluation, to mimic our production usecase and learn to adapt to recent behavior. These are split into training, used to train our models and learn patterns, validation to fine tune our training hyper-parameters such as learning rate and to evaluate over-fitting, and test to report our metrics in an unbiased manner. Model Architecture After usual transformations and extraction of a set of offline features from our datasets, we are all set to start training our Machine Learning model. The goal is to predict whether a given listing violates any of our predefined set of policies, or in contrast, it doesn’t violate any of them. For that, we added a neutral class that depicts the no violation class, where the majority of our listings fall into. This is a typical design pattern for these types of problems. Our model architecture includes a text encoder and an image encoder to learn representations (aka embeddings) for each modality. Our text encoder currently employs a BERT-based architecture to extract context-full representations of our text inputs. In addition, to alleviate compute time, we leverage ALBERT, a lighter BERT with 90% fewer parameters as the transformer blocks share them. Our initial lightweight representation used an in-house model trained for Search usecases. This allowed us to quickly start iterating and learning from this problem. Our image encoder currently employs EfficientNet, a very efficient and accurate Convolutional Neural Network (CNN). Our initial lightweight representation used an in-house model for category classification using CNNs. We are experimenting with transformer-based architectures, similar to our text encoders, with vision transformers but its performance has not been significantly improved. Inspired by EmbraceNet, our architecture then further learns more constrained representations for both text and image embeddings separately, before they are concatenated to form a unique multimodal representation. This is then sent to a final softmax activation that maps logits to probabilities for our internal use. In addition, in order to address the imbalanced nature of this problem, we leverage focal loss that penalizes more hard misclassified examples. Figure 1 shows our model architecture with late concatenation of our text and image encoders and final output probabilities on an example. Model Architecture. Image is obtained from @charlesdeluvio on Unsplash Model Evaluation First, we experimented and iterated by training our model offline. To evaluate its performance, we established certain benchmarks, based on the business goal of minimizing the impact of any well-intentioned sellers while successfully detecting any offending listings in the platform. This results in a typical evaluation trade-off between precision and recall, precision being the fraction of correct predictions over all predictions made, and recall being the fraction of correct predictions over the actual true values. However, we faced the challenge that recall is not possible to compute, as it’s not feasible to manually review the millions and millions of new listings per day so we had to settle for a proxy for recall from what has been annotated. Once we had a viable candidate to test in production, we deployed our model as an endpoint and built a service to perform pre-processing and post-processing steps before and after the call to our endpoint that can be called via an API. Then, we ran an A/B test to measure its performance in production using a canary release approach, slowly rolling out our new detection system to a small percentage of traffic that we keep increasing while we validate an increase in our metrics and no unexpected computation overload. Afterwards, we iterated and every time we had a promising offline candidate, named challenger, that improved our offline performance metrics, we A/B tested it with respect to our current model, named champion. We designed guidelines for model promotion to increase our metrics and our policy coverage. Now, we monitor and observe our model predictions and trigger re-training when our performance degrades. Results Our supervised learning system has been continually learning as we train frequently, run experiments with new datasets and model architectures, A/B test them and deploy them in production. We have added violations as additional classes to our model. As a result, we have identified and removed more than 100,000 violations using these methodologies, in addition to other tools and services that continue to detect and remove violations. This is one of our approaches to identify potentially offending content among others such as explicitly using the policy information and leverage the latest in Large Language Models (LLMs) and Generative AI. Stay tuned! \"To infinity and beyond!\" –Buzz Lightyear, Toy Story",
+    "author": "David Azcona",
+    "published": "Tue, 6 Aug 2024 07:15:03 -0400",
+    "image": "https://i.etsystatic.com/inv/68753a/6158554996/inv_fullxfull.6158554996_9u5voz5s.jpg?version=0",
+    "source": "https://codeascraft.com/feed/atom/",
+    "categories": null
+  },
+  {
+    "id": "bb00325f-73d9-41c9-ad58-d86e93653768",
+    "title": "Enhancing Cloud Usage Forecasting, Monitoring \u0026 Optimizing",
+    "link": "https://www.etsy.com/codeascraft/enhancing-cloud-usage-forecasting-monitoring--optimizing?utm_source=OpenGraph\u0026utm_medium=PageTools\u0026utm_campaign=Share",
+    "description": "In 2020, Etsy concluded its migration from an on-premise data center to the Google Cloud Platform (GCP). During this transition, a dedicated team of program managers ensured the migration's success. Post-migration, this team evolved into the Etsy FinOps team, dedicated to maximizing the organization's cloud value by fostering collaborations within and outside the organization, particularly with our Cloud Providers. Positioned within the Engineering organization under the Chief Architect, the FinOps team operates independently of any one Engineering org or function and optimizes globally rather than locally. This positioning, combined with Etsy's robust engineering culture focused on efficiency and craftsmanship, has fostered what we believe is a mature and successful FinOps practice at Etsy. Forecast Methodology A critical aspect of our FinOps approach is a strong forecasting methodology. A reliable forecast establishes an expected spending baseline against which we track actual spending, enabling us to identify deviations. We classify costs into distinct buckets: Core Infrastructure: Includes the costs of infrastructure and services essential for operating the Etsy.com website. Machine Learning \u0026 Product Enablement: Encompasses costs related to services supporting machine learning initiatives like search, recommendations, and advertisements. Data Enablement: Encompasses costs related to shared platforms for data collection, data processing and workflow orchestration. Dev: Encompasses non-production resources. The FinOps forecasting model relies on a trailing Cost Per Visit (CPV) metric. While CPV provides valuable insights into changes, it's not without limitations: A meaningful portion of web traffic to Etsy involves non-human activity, like web crawlers that’s not accounted for in CPV. Some services have weaker correlations to user visits. Dev, data, and ML training costs lack direct correlations to visits and are susceptible to short-term spikes during POCs, experiments or big data workflows. A/B tests for new features can lead to short-term CPV increases, potentially resulting in long-term CPV changes upon successful feature launches. Periodically, we run regression tests to validate if CPV should drive our forecasts. In addition to visits we have looked into headcount, GMV(Gross Merchandise Value) and revenue as independent variables. Thus far, visits have consistently exhibited the highest correlation to costs. Monitoring and Readouts We monitor costs using internal tools built on BigQuery and Looker. Customized dashboards for all of our Engineering teams display cost trends, CPV, and breakdowns by labels and workflows. Additionally, we've set up alerts to identify sudden spikes or gradual week-over-week/month-over-month growth. Collaboration with the Finance department occurs weekly to compare actual costs against forecasts, identifying discrepancies for timely corrections. Furthermore, the FinOps team conducts recurring meetings with major cost owners and monthly readouts for Engineering and Product leadership to review forecasted figures and manage cost variances. While we track costs at the organization/cost center level, we don't charge costs back to the teams. This both lowers our overhead and more importantly, provides flexibility to make tradeoffs that enable Engineering velocity. Cost Increase Detection \u0026 Mitigation Maintaining a healthy CPV involves swiftly identifying and mitigating cost increases, to achieve this we: Analysis: Gather information on the increase's source, whether from specific cloud products, workflows, or usage pattern changes (ie variance in resource utilization). Collaboration: Engage relevant teams, sharing insights and seeking additional context. Validation: Validate cost increases from product launches or internal changes, securing buy-in from leadership if needed. Mitigation: Unexpected increases undergo joint troubleshooting, where we outline and assign action items to owners, until issues are resolved. Communication: Inform our finance partners about recent cost trends and their incorporation into the expected spend forecast post-confirmation or resolution with teams and engineering leadership. Cost Optimization Initiatives Another side of maintaining a healthy CPV involves cost optimization, offsetting increases from product launches. Ideas for cost-saving come as a result of collaboration between FinOps and engineering teams, with the Architecture team validating and implementing efficiency improvements. Notably we focus on the engineering or business impact of the cost optimization rather than solely on savings, recognizing that inefficiencies often signal larger problems. Based on effort vs. value evaluations, some ideas are added to backlogs, while major initiatives warrant dedicated squads.Below is a breakout of some of the major wins we have had in the last year or so. GCS Storage Optimization - In 2023 we stood up a squad focused on optimizing Etsy’s use of GCS, as it has been one of the largest growth areas for us over the past few years. The squad delivered a number of improvements including improved monitoring of usage, automation features for Data engineers, implementation of TTLs that match data access patterns/business needs and the adoption of Intelligent tiering. Due to these efforts, Etsy’s GCS usage is now less than it was 2 years ago. Compute Optimization - Migrated over 90% of Etsy infrastructure that is serving traffic to the latest and greatest CPU platform. This improved our serving latency while reducing cost. Increased Automation for model deployment - In an effort to improve the developer experience, our machine learning enablement team developed a tool to automate the compute configurations for new models being deployed, which also ended up saving us money. Network Compression - Enabling network compression between our high throughput services both improved the latency profile and drastically reduced the networking cost. What's Next While our core infrastructure spend is well understood, our focus is on improving visibility into our Machine Learning platform's spend. As these systems are shared across teams, dissecting costs tied to individual product launches is challenging. Enhanced visibility will help us refine our ROI analysis of product experiments and pinpoint future areas of opportunity for optimization.",
+    "author": "Anthony Tambasco",
+    "published": "Mon, 17 Jun 2024 09:58:16 -0400",
+    "image": "",
+    "source": "https://codeascraft.com/feed/atom/",
+    "categories": null
+  },
+  {
+    "id": "545857b3-2fde-4a18-ac52-589cd7e12d57",
+    "title": "I Fight For The Users",
+    "link": "https://blog.codinghorror.com/i-fight-for-the-users/",
+    "description": "If you haven't been able to keep up with my blistering pace of one blog post per year, I don't blame you. There's a lot going on right now. It's a busy time. But let's pause and take a moment",
+    "author": "Jeff Atwood",
+    "published": "Thu, 30 Nov 2023 20:11:05 GMT",
+    "image": "https://blog.codinghorror.com/content/images/2023/11/image.png",
+    "source": "https://feeds.feedburner.com/codinghorror",
+    "categories": null
+  },
+  {
+    "id": "db812f90-c18c-4f57-817a-c025f20c84d9",
+    "title": "The 2030 Self-Driving Car Bet",
+    "link": "https://blog.codinghorror.com/the-2030-self-driving-car-bet/",
+    "description": "It's my honor to announce that John Carmack and I have initiated a friendly bet of $10,000* to the 501(c)(3) charity of the winner’s choice:By January 1st, 2030, completely autonomous self-driving cars meeting SAE J3016 level 5 will be commercially available for",
+    "author": "Jeff Atwood",
+    "published": "Fri, 04 Mar 2022 18:53:32 GMT",
+    "image": "https://blog.codinghorror.com/content/images/2022/03/image.png",
+    "source": "https://feeds.feedburner.com/codinghorror",
+    "categories": null
+  },
+  {
+    "id": "ac930b30-a816-4ddc-a21b-a1f2819348aa",
+    "title": "The Two Reacts",
+    "link": "https://overreacted.io/the-two-reacts/",
+    "description": "UI = f(data)(state)",
+    "author": "",
+    "published": "Thu, 04 Jan 2024 00:00:00 GMT",
+    "image": "",
+    "source": "https://overreacted.io/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "508a0b00-da5e-467b-9cd8-765f79de13bd",
+    "title": "A Chain Reaction",
+    "link": "https://overreacted.io/a-chain-reaction/",
+    "description": "The limits of my language mean the limits of my world.",
+    "author": "",
+    "published": "Mon, 11 Dec 2023 00:00:00 GMT",
+    "image": "",
+    "source": "https://overreacted.io/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "49e66fb3-e8ec-42a3-b7df-a5e354680de7",
+    "title": "S27:E8 - Learning AI (Matt Eland)",
+    "link": "https://www.codenewbie.org/podcast/learning-ai",
+    "description": "Meet Matt Eland, AI Specialist at Leading EDJE. Matt shares what sparked his passion for AI years ago, why he’s made the decision to go back to school for his master's degree and how he aims to continue spreading his expertise with the community. Show Links Partner with Dev \u0026 CodeNewbie! (sponsor) Matt on Data Science Central Ohio .NET Developer Group Matt's Twitter Matt's GitHub Matt's LinkedIn",
+    "author": "CodeNewbie",
+    "published": "Wed, 22 May 2024 03:00:00 -0400",
+    "image": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/FOR8835558149.mp3?updated=1716333932",
+    "source": "http://feeds.codenewbie.org/cnpodcast.xml",
+    "categories": [
+      "Podcast"
+    ]
+  },
+  {
+    "id": "0dd307f0-6659-4194-a505-0a3a36054292",
+    "title": "S27:E7 - Tech and Art (Chris Immel)",
+    "link": "https://www.codenewbie.org/podcast/tech-and-art",
+    "description": "Meet Chris Immel, AI Engineer and Digital Artist at Luminifera Projects. Chris shares how he works to create a symbiosis between software development and art and why he remains optimistic when it comes to the AI revolution. Show Links Partner with Dev \u0026 CodeNewbie! (sponsor) Chris' Instagram Chris' Website Chris' GitHub Chris' LinkedIn",
+    "author": "CodeNewbie",
+    "published": "Wed, 15 May 2024 03:00:00 -0400",
+    "image": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/FOR3677516133.mp3?updated=1715705940",
+    "source": "http://feeds.codenewbie.org/cnpodcast.xml",
+    "categories": [
+      "Podcast"
+    ]
+  },
+  {
+    "id": "08661a3f-8e62-41d9-b264-a2749ceb671e",
+    "title": "FLOSS Weekly: FLOSS Weekly Continues at Hackaday - Hackaday is the new home of FLOSS Weekly",
+    "link": "https://twit.tv/shows/floss-weekly/episodes/761b",
+    "description": "FLOSS Weekly continues with Jonathan Bennett at its new home at Hackaday Visit hackaday.com/floss or search your favorite podcatcher to subscribe. Host: Jonathan Bennett",
+    "author": "TWiT",
+    "published": "Thu, 11 Jan 2024 00:00:00 PST",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/audio/floss/floss_761b/floss_761b.mp3",
+    "source": "https://feeds.twit.tv/floss.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Open Source",
+      "Software",
+      "Open Source Software"
+    ]
+  },
+  {
+    "id": "86a31774-caf9-4067-b748-fee44462e068",
+    "title": "FLOSS Weekly 761: We Won! - The Victories of Free Software and Open Source",
+    "link": "https://twit.tv/shows/floss-weekly/episodes/761",
+    "description": "Doc Searls, Katherine Druckman, Dan Lynch, Simon Phipps, and Leo Laporte gather to celebrate the final victory of free software and open source—and the final FLOSS Weekly as well. Hosts: Doc Searls, Katherine Druckman, Dan Lynch, and Simon Phipps Guest: Leo Laporte Download or subscribe to this show at https://twit.tv/shows/floss-weekly Think your open source project should be on FLOSS Weekly? Email floss@twit.tv. Thanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music. Get episodes ad-free with Club TWiT at https://twit.tv/clubtwit Sponsors: bitwarden.com/twit kolide.com/floss",
+    "author": "TWiT",
+    "published": "Wed, 13 Dec 2023 13:30:00 PST",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/floss_761/3ccb17e9-1a70-473d-8703-0abed61f2d01/R1_floss0761.mp3",
+    "source": "https://feeds.twit.tv/floss.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Open Source",
+      "Software",
+      "TWiT",
+      " FLOSS Weekly",
+      " Doc Searls",
+      " Shawn Powers",
+      " Leo Laporte",
+      " Jonathan Bennett",
+      " dan lynch",
+      " simon phipps",
+      " Katherine Druckman",
+      " FLOSS",
+      " open source",
+      " open source podcast",
+      " free libre open source",
+      " open source victories",
+      " Open Source Software",
+      " eu open source"
+    ]
+  },
+  {
+    "id": "0e46188e-337d-4ae8-8ac4-c194ca028374",
+    "title": "Prioritization is the Ultimate Skill",
+    "link": "http://www.developertea.com",
+    "description": "Learn to prioritize, and everything else falls into place. This is clarity through perspective and purpose.📮 Ask a QuestionIf you enjoyed this episode and would like me to discuss a question that you have on the show, drop it over at: developertea.com.📮 Join the DiscordIf you want to be a part of a supportive community of engineers (non-engineers welcome!) working to improve their lives and careers, join us on the Developer Tea Discord community by visiting https://developertea.com/discord today!🧡 Leave a ReviewIf you're enjoying the show and want to support the content head over to iTunes and leave a review! It helps other developers discover the show and keep us focused on what matters to you.",
+    "author": "Jonathan Cutrell",
+    "published": "Fri, 4 Oct 2024 07:00:00 +0000",
+    "image": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/23ce2f83-0c8f-469b-a420-573226332dc7/audio/8bfba3a3-43f2-42f5-8d9e-b1e6dfe17aa0/default_tc.mp3?aid=rss_feed\u0026feed=dLRotFGk",
+    "source": "https://feeds.simplecast.com/dLRotFGk",
+    "categories": null
+  },
+  {
+    "id": "2e8481c4-b64b-42a6-8c9a-f83665fe5ee0",
+    "title": "Career Growth Comes From Finding Low Hanging Fruit in the Gaps",
+    "link": "http://www.developertea.com",
+    "description": "Your career growth will be directly correlated to your ability to solve critical unsolved problems in the gaps of your organization's problems. Focus on finding the problems that have a high chance of success for you specifically - the low hanging fruit.📮 Ask a QuestionIf you enjoyed this episode and would like me to discuss a question that you have on the show, drop it over at: developertea.com.📮 Join the DiscordIf you want to be a part of a supportive community of engineers (non-engineers welcome!) working to improve their lives and careers, join us on the Developer Tea Discord community by visiting https://developertea.com/discord today!🧡 Leave a ReviewIf you're enjoying the show and want to support the content head over to iTunes and leave a review! It helps other developers discover the show and keep us focused on what matters to you.",
+    "author": "Jonathan Cutrell",
+    "published": "Thu, 19 Sep 2024 07:00:00 +0000",
+    "image": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/bc6954de-fbf4-449c-8597-0188cadd17bc/audio/fe8b96bc-c49e-4498-aaee-a96e5330e7b3/default_tc.mp3?aid=rss_feed\u0026feed=dLRotFGk",
+    "source": "https://feeds.simplecast.com/dLRotFGk",
+    "categories": null
+  },
+  {
+    "id": "d554f17d-d671-4def-86b8-1d80d041be50",
+    "title": "How open source AI can improve population estimates, sustainable energy, and the delivery of climate change interventions",
+    "link": "https://engineering.fb.com/2024/10/03/ml-applications/open-source-ai-population-maps-meta/",
+    "description": "Data for Good at Meta is open-sourcing the data used to train our AI-powered population maps.  We’re hoping that researchers and other organizations around the world will be able to leverage these tools to assist with a wide range of projects including those on climate adaptation, public health and disaster response. The dataset and code [...] Read More... The post How open source AI can improve population estimates, sustainable energy, and the delivery of climate change interventions appeared first on Engineering at Meta.",
+    "author": "",
+    "published": "Thu, 03 Oct 2024 16:00:14 +0000",
+    "image": "https://engineering.fb.com/wp-content/uploads/2024/10/Meta-open-source-population-maps-1.png?w=1024",
+    "source": "https://engineering.fb.com/feed/",
+    "categories": [
+      "AI Research",
+      "ML Applications",
+      "Open Source"
+    ]
+  },
+  {
+    "id": "5f543ad9-65af-4f83-bde3-a54426cecce1",
+    "title": "React at Meta Connect 2024",
+    "link": "https://engineering.fb.com/2024/10/02/android/react-at-meta-connect-2024/",
+    "description": "At Meta, React and React Native are more than just tools; they are integral to our product development and innovation. With over five thousand people at Meta building products and experiences with React every month, these technologies are fundamental to our engineering culture and our ability to quickly build and ship high quality products. In [...] Read More... The post React at Meta Connect 2024 appeared first on Engineering at Meta.",
+    "author": "",
+    "published": "Wed, 02 Oct 2024 16:00:47 +0000",
+    "image": "https://engineering.fb.com/wp-content/uploads/2024/10/Meta-Horizon-React-Connect-2024-compressed.jpg?w=1024",
+    "source": "https://engineering.fb.com/feed/",
+    "categories": [
+      "Android",
+      "iOS",
+      "Open Source",
+      "Virtual Reality",
+      "Web"
+    ]
+  },
+  {
+    "id": "3941bff0-190f-46b8-b3c7-d6751a4d0973",
+    "title": "Want a smoother checkout with Google Pay? Configure your payment options!",
+    "link": "https://developers.googleblog.com/en/configure-google-pay-payment-options/",
+    "description": "Configure accepted payment methods for Google Pay, with options for authentication methods, card networks, and card types, and upcoming features for enhanced control and customization.",
+    "author": "",
+    "published": "",
+    "image": "",
+    "source": "http://feeds.feedburner.com/GDBcode",
+    "categories": null
+  },
+  {
+    "id": "75091529-3dc6-436f-942e-c5939cfa29ac",
+    "title": "Now in Developer Preview: Enhancing Chat apps to create spaces and memberships, using application identity, with the Google Chat API",
+    "link": "https://developers.googleblog.com/en/enhancing-chat-apps-with-the-google-chat-api/",
+    "description": "The Google Chat API has been launched, allowing developers to build Chat apps that enable real-time collaboration between Google Chat and other systems.",
+    "author": "",
+    "published": "",
+    "image": "",
+    "source": "http://feeds.feedburner.com/GDBcode",
+    "categories": null
+  },
+  {
+    "id": "9a0da11c-4f1c-42b9-874c-a517f21bab4f",
+    "title": "Remove Paywalls from Search Results",
+    "link": "https://medium.com/hackernoon/remove-paywalls-from-search-results-9b2a78053bec?source=rss----3a8144eabfe3---4",
+    "description": "",
+    "author": "#BlackLivesMatter",
+    "published": "Fri, 14 May 2021 13:35:18 GMT",
+    "image": "https://cdn-images-1.medium.com/max/784/1*kQx2xxgd7mjP6uTnYYjdgQ.png",
+    "source": "https://medium.com/feed/hackernoon",
+    "categories": [
+      "chrome-extension",
+      "paywall",
+      "search-results",
+      "remove-paywall",
+      "google"
+    ]
+  },
+  {
+    "id": "51003de5-2625-49a8-b856-46ab55f44b9b",
+    "title": "NBA Bubbleball and NBA Revenue [Podcast with Washington Post]",
+    "link": "https://medium.com/hackernoon/nba-bubbleball-and-nba-revenue-podcast-with-washington-post-75c03541f064?source=rss----3a8144eabfe3---4",
+    "description": "",
+    "author": "ArtMap Inc.",
+    "published": "Mon, 15 Feb 2021 20:13:06 GMT",
+    "image": "https://medium.com/_/stat?event=post.clientViewed\u0026referrerSource=full_rss\u0026postId=75c03541f064",
+    "source": "https://medium.com/feed/hackernoon",
+    "categories": [
+      "nba-revenue",
+      "nba-bubble",
+      "nba",
+      "podcast",
+      "nba-revenue-podcast"
+    ]
+  },
+  {
+    "id": "9aecea73-d5a9-4515-bcbc-475c97883579",
+    "title": "Seamlessly migrate from Jira to GitLab with Jira2Lab at scale",
+    "link": "https://about.gitlab.com/blog/2024/10/10/seamlessly-migrate-from-jira-to-gitlab-with-jira2lab-at-scale",
+    "description": "",
+    "author": "Maximilien Belinga",
+    "published": "2024-10-10T00:00:00.000Z",
+    "image": "",
+    "source": "https://about.gitlab.com/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "62f27fa4-57d2-47a8-a1cb-784da5646d9c",
+    "title": "Tutorial: Integrate GitLab Merge Request approvals with external systems",
+    "link": "https://about.gitlab.com/blog/2024/10/08/tutorial-integrate-gitlab-merge-request-approvals-with-external-systems",
+    "description": "",
+    "author": "Samer Akkoub",
+    "published": "2024-10-08T00:00:00.000Z",
+    "image": "",
+    "source": "https://about.gitlab.com/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "9d1c02e5-c48c-45dd-8ac5-854affd4dba8",
+    "title": "How I Wrote 10K Lines of Go in a Weekend",
+    "link": "https://www.youtube.com/watch?v=9XiVqfLVtIs",
+    "description": "",
+    "author": "Google TechTalks",
+    "published": "2024-08-15T16:09:01+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks",
+    "categories": null
+  },
+  {
+    "id": "dc0be5e8-38ab-41f6-bb8e-867dd8e81890",
+    "title": "Supply Chain Security with Go",
+    "link": "https://www.youtube.com/watch?v=ORVzCcX0gzE",
+    "description": "",
+    "author": "Google TechTalks",
+    "published": "2024-08-15T16:08:56+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks",
+    "categories": null
+  },
+  {
+    "id": "4884ef4e-01de-4ee7-83f2-ff6ae288ec3f",
+    "title": "Is it always DNS? with DNSimple's Anthony Eden",
+    "link": "https://www.hanselminutes.com",
+    "description": "",
+    "author": "Scott Hanselman",
+    "published": "Thu, 10 Oct 2024 21:00:00 +0000",
+    "image": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/afc649e2-db45-4d06-b2eb-90b8e0df87ae/audio/102056de-c75f-4285-a320-70de70fd483d/default_tc.mp3?aid=rss_feed\u0026feed=gvtxUiIf",
+    "source": "https://feeds.simplecast.com/gvtxUiIf",
+    "categories": null
+  },
+  {
+    "id": "39f17950-3e27-4245-ae50-cf855dc76a87",
+    "title": "Creating The Crimson Diamond with Julia Minamata",
+    "link": "https://www.hanselminutes.com",
+    "description": "The Crimson Diamond is a mystery adventure video game developed and published by Julia Minamata for the PC. The game features a text parser, requiring players to solve a mystery through inputting instructions via text to the game. Solo developer Julia Minamata designed the game featuring an EGA color palette!https://www.thecrimsondiamond.com",
+    "author": "Scott Hanselman",
+    "published": "Thu, 3 Oct 2024 00:00:00 +0000",
+    "image": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/96c2cd59-fab6-498b-9908-f4f0e552541f/audio/84caf8f5-6310-4958-81a7-623df4265b4d/default_tc.mp3?aid=rss_feed\u0026feed=gvtxUiIf",
+    "source": "https://feeds.simplecast.com/gvtxUiIf",
+    "categories": null
+  },
+  {
+    "id": "bcaf95fd-9450-4358-a30b-1a5961ed6307",
+    "title": "Join Us for JetBrains Plugin Developer Conf 2024",
+    "link": "https://blog.jetbrains.com/platform/2024/10/join-us-for-jetbrains-plugin-developer-conf-2024/",
+    "description": "Hey everyone! We’re introducing JetBrains Plugin Developer Conf 2024, the first-ever virtual event dedicated to plugin development for JetBrains products! We invite you to join us on Thursday, November 7 for a full day of engaging sessions and insightful discussions.  This conference brings together JetBrains experts and plugin developers to explore topics such as developing […]",
+    "author": "Elena Kerpeleva",
+    "published": "Thu, 10 Oct 2024 17:07:31 +0000",
+    "image": "https://blog.jetbrains.com/wp-content/uploads/2024/10/Social_Share_Blog_1280x720-1-2.png",
+    "source": "https://blog.jetbrains.com/feed",
+    "categories": [
+      "plugin-development",
+      "events",
+      "livestreams",
+      "marketplace",
+      "news",
+      "plugins",
+      "jetbrains-marketplace"
+    ]
+  },
+  {
+    "id": "0da1f491-1d76-4328-afa7-97b8d5e9692b",
+    "title": "Ktor 3.0 Is Now Available With New Features and Improved Performance",
+    "link": "https://blog.jetbrains.com/kotlin/2024/10/ktor-3-0/",
+    "description": "This new version uses Kotlin 2.0 and switches to kotlinx-io, making Ktor more up to date and better connected with other Kotlin tools. Ktor 3.0 works faster and gives you more options for building client-server applications. If you’re new to Ktor or need a reminder about how it works, our recent blog post, Ktor 101: […]",
+    "author": "Anton Arhipov",
+    "published": "Thu, 10 Oct 2024 15:18:14 +0000",
+    "image": "https://blog.jetbrains.com/wp-content/uploads/2024/10/ktor-3-io-benchmarks.png",
+    "source": "https://blog.jetbrains.com/feed",
+    "categories": [
+      "ktor",
+      "news",
+      "release"
+    ]
+  },
+  {
+    "id": "2eb030b5-6076-492b-9699-00878699cece",
+    "title": "The Instagram Engineering Blog has a new location",
+    "link": "https://instagram-engineering.com/the-instagram-engineering-blog-has-a-new-location-85de9ab8d90f?source=rss----37dc2a3034f2---4",
+    "description": "",
+    "author": "Ryan Peterman",
+    "published": "Tue, 12 Jul 2022 17:00:22 GMT",
+    "image": "https://medium.com/_/stat?event=post.clientViewed\u0026referrerSource=full_rss\u0026postId=85de9ab8d90f",
+    "source": "https://instagram-engineering.com/feed/",
+    "categories": [
+      "software-engineering",
+      "instagram",
+      "computer-science",
+      "engineering"
+    ]
+  },
+  {
+    "id": "ba5e79e4-0d9f-4163-84c9-1bae706ee354",
+    "title": "Five things I learned about working on content quality at Instagram",
+    "link": "https://instagram-engineering.com/five-things-i-learned-about-working-on-content-quality-at-instagram-5031b1342bea?source=rss----37dc2a3034f2---4",
+    "description": "",
+    "author": "Brunno Attorre",
+    "published": "Sat, 25 Jan 2020 01:13:36 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*M_vyOynSyXIXtH4V8kVMGg.png",
+    "source": "https://instagram-engineering.com/feed/",
+    "categories": [
+      "data",
+      "machine-learning",
+      "instagram"
+    ]
+  },
+  {
+    "id": "1d1ea6ab-3e29-4d0a-8048-3a583e825df4",
+    "title": "Progress on the Block Protocol",
+    "link": "https://www.joelonsoftware.com/2022/12/19/progress-on-the-block-protocol/",
+    "description": "Since the 1990s, the web has been a publishing place for human-readable documents. Documents published on the web are in HTML. HTML has a little bit of… Read more \"Progress on the Block Protocol\"",
+    "author": "Joel Spolsky",
+    "published": "Mon, 19 Dec 2022 13:01:40 +0000",
+    "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2022/12/IMG_0203.webp?resize=730%2C730\u0026ssl=1",
+    "source": "https://www.joelonsoftware.com/feed/",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "73a615b8-53dd-4cb9-a4a3-1887bef85741",
+    "title": "Making the web better. With blocks!",
+    "link": "https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/",
+    "description": "You’ve probably seen web editors based on the idea of blocks. I’m typing this in WordPress, which has a little + button that brings up a long… Read more \"Making the web better. With blocks!\"",
+    "author": "Joel Spolsky",
+    "published": "Thu, 27 Jan 2022 17:14:00 +0000",
+    "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2022/01/wordpressblocks.png?resize=260%2C573\u0026ssl=1",
+    "source": "https://www.joelonsoftware.com/feed/",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "f48256ce-53a6-46d5-9ac8-3cd8d9b52074",
+    "title": "Emulating SQL FILTER with Oracle JSON Aggregate Functions",
+    "link": "https://blog.jooq.org/emulating-sql-filter-with-oracle-json-aggregate-functions/",
+    "description": "A cool standard SQL:2003 feature is the aggregate FILTER clause, which is supported natively by at least these RDBMS: The following aggregate function computes the number of rows per group which satifsy the FILTER clause: This is useful for pivot style queries, where multiple aggregate values are computed in one go. For most basic types … Continue reading Emulating SQL FILTER with Oracle JSON Aggregate Functions →",
+    "author": "lukaseder",
+    "published": "Mon, 03 Jun 2024 12:17:41 +0000",
+    "image": "",
+    "source": "https://blog.jooq.org/feed",
+    "categories": [
+      "sql",
+      "aggregate functions",
+      "FILTER",
+      "FILTER clause",
+      "JSON",
+      "JSON aggregate functions",
+      "JSON_ARRAYAGG",
+      "JSON_OBJECTAGG",
+      "Oracle",
+      "SQL/JSON"
+    ]
+  },
+  {
+    "id": "c7d486f0-1099-4a46-abcb-3ebcc33dd15b",
+    "title": "Getting Top 1 Values Per Group in Oracle",
+    "link": "https://blog.jooq.org/getting-top-1-values-per-group-in-oracle/",
+    "description": "I’ve blogged about generic ways of getting top 1 or top n per category queries before on this blog. An Oracle specific version in that post used the arcane KEEP syntax: This is a bit difficult to read when you see it for the first time. Think of it as a complicated way to say … Continue reading Getting Top 1 Values Per Group in Oracle →",
+    "author": "lukaseder",
+    "published": "Fri, 01 Mar 2024 09:55:41 +0000",
+    "image": "",
+    "source": "https://blog.jooq.org/feed",
+    "categories": [
+      "sql",
+      "aggregate functions",
+      "ANY_VALUE",
+      "KEEP",
+      "Oracle",
+      "top-1-per-category"
+    ]
+  },
+  {
+    "id": "7ed480d1-281d-4bbf-b3b0-30cfbccb3ba5",
+    "title": "How We're Preventing Breaking Changes in GraphQL APIs at Buffer — and Why It's Essential for Our Customers",
+    "link": "https://buffer.com/resources/how-were-preventing-breaking-changes-in-graphql-apis-at-buffer-and-why-its-essential-for-our-customers/",
+    "description": "As part of our commitment to transparency and building in public, Buffer engineer Joe Birch shares how we’re doing this for our own GraphQL API via the use of GitHub Actions.",
+    "author": "Joe Birch",
+    "published": "Fri, 12 Jul 2024 11:28:34 GMT",
+    "image": "https://buffer.com/resources/content/images/2024/07/Changes-in-GraphQL-APIs.png",
+    "source": "https://buffer.com/resources/overflow/rss/",
+    "categories": [
+      "Overflow",
+      "Open"
+    ]
+  },
+  {
+    "id": "72620ce2-b73b-489f-8e3c-ccf4ee50247a",
+    "title": "Highlighting Text Input with Jetpack Compose",
+    "link": "https://buffer.com/resources/highlighting-text-input-with-jetpack-compose/",
+    "description": "We recently launched a new feature at Buffer, called Ideas. With Ideas, you can store all your best ideas, tweak them until they’re ready, and drop them straight into your Buffer queue. Now that Ideas has launched in our web and mobile apps, we have some time to",
+    "author": "Joe Birch",
+    "published": "Tue, 13 Dec 2022 18:32:36 GMT",
+    "image": "https://buffer.com/resources/content/images/2022/12/aaron-burden-Hzi7U2SZ2GE-unsplash.jpg",
+    "source": "https://buffer.com/resources/overflow/rss/",
+    "categories": [
+      "Overflow"
+    ]
+  },
+  {
+    "id": "8559609b-aa06-42d6-88e5-bb682bc3c440",
+    "title": "Interviewed by Book Overflow podcast on Refactoring",
+    "link": "https://www.youtube.com/watch?v=CjCJ76oZXTE",
+    "description": "",
+    "author": "",
+    "published": "2024-10-04T09:16:00+02:00",
+    "image": "",
+    "source": "https://martinfowler.com/feed.atom",
+    "categories": null
+  },
+  {
+    "id": "4a1ee45b-becf-40bc-8a80-9f14dce74ef6",
+    "title": "Using GenAI to build a capability map and translate legacy systems",
+    "link": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem",
+    "description": "",
+    "author": "",
+    "published": "2024-09-24T09:51:00-04:00",
+    "image": "",
+    "source": "https://martinfowler.com/feed.atom",
+    "categories": [
+      "skip-home-page"
+    ]
+  },
+  {
+    "id": "1a8ad5e3-3c75-4010-9dd5-f2039399440e",
+    "title": "Scaling Uber’s Batch Data Platform: A Journey to the Cloud with Data Mesh Principles",
+    "link": "https://www.infoq.com/news/2024/10/uber-batch-data-mesh/?utm_campaign=infoq_content\u0026utm_source=infoq\u0026utm_medium=feed\u0026utm_term=global",
+    "description": "Some months ago, Uber started the migration to the cloud, on Google Cloud Platform (GCP), of its batch data analytics and machine learning platform. In a recent post on its engineering blog, Uber provided additional information regarding its batch data cloud migration that incorporated crucial data mesh principles. By Claudio Masolo",
+    "author": "Claudio Masolo",
+    "published": "Sat, 12 Oct 2024 08:00:00 GMT",
+    "image": "https://res.infoq.com/news/2024/10/uber-batch-data-mesh/en/headerimage/generatedHeaderImage-1728637784486.jpg",
+    "source": "https://feed.infoq.com",
+    "categories": [
+      "Batch Processing",
+      "Google Cloud Platform",
+      "Apache Spark",
+      "Data Mesh",
+      "DevOps",
+      "news"
+    ]
+  },
+  {
+    "id": "477e8c50-e483-4214-8b37-e174aa08e3c8",
+    "title": "Article: Building a Global Caching System at Netflix: A Deep Dive to Global Replication",
+    "link": "https://www.infoq.com/articles/netflix-global-cache/?utm_campaign=infoq_content\u0026utm_source=infoq\u0026utm_medium=feed\u0026utm_term=global",
+    "description": "Netflix's EVCache system handles 400M ops/second across 22,000 servers, managing 14.3 PB of data. This infrastructure ensures global availability and resilience through intelligent data routing and flexible replication strategies. By implementing batch compression and switching to DNS-based discovery, Netflix optimizes efficiency, reduces bandwidth usage and significantly lowers operational costs. By Sriram Rangarajan, Prudhviraj Karumanchi",
+    "author": "Sriram Rangarajan, Prudhviraj Karumanchi",
+    "published": "Fri, 11 Oct 2024 11:00:00 GMT",
+    "image": "https://res.infoq.com/articles/netflix-global-cache/en/headerimage/building-global-caching-system-netflix-header-1728478672706.jpg",
+    "source": "https://feed.infoq.com",
+    "categories": [
+      "Caching",
+      "AWS",
+      "Memcached",
+      "Cloud Architecture",
+      "Distributed Cache",
+      "Netflix",
+      "Architecture \u0026 Design",
+      "article"
+    ]
+  },
+  {
+    "id": "dee90c50-6570-4c69-badd-7759911d716e",
+    "title": "The Insane Innovation of TI Calculator Hobbyists",
+    "link": "https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/",
+    "description": "Table of Contents The platform Programming model Software projects Phoenix Grayscale on the TI-84 Plus Game Boy emulator for the TI-84 Plus Shells TI-84+ USB mass storage driver KnightOS The Axe Parser project Unity: Native code on the TI-81 Operating system hacks Signing keys arTIfice Whence from here? Further reading In the mid-to-late 2000s, you either knew, or were, that kid in grade school. You know. The one who could put games on your graphing calculator. You may be surprised to learn that some of these people didn’t exist totally in a vaccuum. There was in fact a thriving scene of hackers who had bent these calculators to their will, writing games, math software, and more generally hacking on the platform just for the sake of it. True to my interests, it’s all deeply embedded, pushing the limits of platforms that were obsolete when they were released. I’ll take you through some of the highlights of Texas Instruments calculator hacking done over the past two and a half decades, along with an explanation of why these projects are so technically impressive. This is xkcd #768. There are also 768 bytes in the RAM buffer used to hold TI display bitmaps. This is not a coincidence because nothing is ever a coincidence with xkcd. (source) Note Wow, it’s been a while since I’ve written anything. In the space of a year I’ve gotten a new job, bought a house, moved. Life comes at you fast. Thanks to everyone who has emailed to check on me—and I apologize for not being super responsive over email. I do plan to continue the articles I’ve started! The platform Throughout the 90s and 2000s, TI released a succession of z80-based graphing calculators. You might have heard of the z80—it was an improved version of the Intel 8080 developed by Zilog. Yeah. It’s old.1 They were quite nice 45 years ago when they were released! All TI calculators generally had similar low-end specs: z80 processor usually clocked at 8 or 10MHz—and note that the z80 can only retire one instruction every 4 cycles. 96x64 black and white LCD (a few models had a larger screen but this was by far the most common. The latest models finally have higher resolution color screens.) A link port which (ab)used the 2.5mm headphone jack connector Generally, 32KB of RAM, and on the 83+ and later, anywhere from 100KB to 2MB of flash storage (“archive”) TI’s operating system “TI-OS” (they call it “EOS” but nobody else does). TI-OS has: Arithmetic and graphing engine TI-BASIC scripting language On the models with flash, support for launching large “apps” stored exclusively in flash Needless to say, this is the very definition of a constrained environment. The most popular graphing calculators were of course the TI-83/84 Plus, which every American student for the past decade and a half has probably seen. I will use “TI-84 Plus” throughout here because it’s very likely the model you’re familiar with; however, it was more often referred to as the TI-83 Plus because they were basically identical. The 84 Plus had USB and a redesigned case, but the system was the same. Programming model The z80 assembly2 programming environment was pretty spartan: there was no supervisor or memory protection, so if you had a bug you were probably going to crash the calculator (the dreaded “RAM Cleared” message). The z80 is an 8-bit machine, with 16-bit pointers, so although archive was technically memory mapped, it wouldn’t all fit—it was actually paged in to a 16KB “window”: This diagram is heavily simplified, but you’ll notice the lack of any horsepower at all. There were several guides for learning assembly, but the best was by Sean McLaughlin, Learn TI-83 Plus Assembly in 28 Days. TI provided a very good SDK documentation about subroutines provided by TI-OS (and official support for Asm() programs), and with that you pretty much had free rein over the system. Software projects Those who followed calculator hacking news will surely recognize the individuals I’m calling out here, either by their name or, more likely, by their handle. For my own part, I was almost entirely a lurker, largely due to the influence of my parents who were not keen on talking to people online. (Remember, high school.) I was, however, a pretty good self-taught calculator programmer—more on that in a later article… Note A fair number of these links are starting to rot because development happened 20 years ago. Please do email me with corrections if you find a newly dead link. And of course massive kudos to the Internet Archive for preserving it all! Phoenix Easily the most famous3 graphing calculator game is Phoenix by Patrick Davidson. It’s a top-down space shoot-em-up similar to the arcade game Galaxian. The reason it is famous is not because it is fun—although it is—nor because it’s well implemented—although it is. Rather, this game is famous because it is one of the oldest, and Patrick and others have ported it to nearly every single z80 calculator ever released. Grayscale on the TI-84 Plus The first thing I remember being really wowed by was an RPG game called Desolate by Patrick Prendergast (tr1p1ea), which boasted four level grayscale. On top of that the game was not just a tech demo; it had a fully featured storyline and pretty good sprite art.4 Most emulators were able to detect that the application was doing grayscale and produce a clean rendering of it How was this possible on a device with only a black and white screen? The answer was that if you flickered pixels on and off fast enough, they would appear gray. Naïve attempts at this led to horrible jittery messes and found it difficult to get over 3 colors (black, white, gray). In contrast, Durk Kingma’s grayscale library that Desolate used achieved really nice 4-gray art by careful timing and by dithering the flickered pixels so that not all were on or off at once. Graphics consumed the majority of the compute budget for the game—but such is life for most video games! Game Boy emulator for the TI-84 Plus TI wasn’t the only company using z80 processors. The original Game Boy used them too! A natural question arises: maybe, possibly, could you run a Game Boy game on a calculator in some sort of hypervisor? Brendan Fletcher (calc84maniac) put a ton of engineering into TI-Boy SE, which does exactly that! A Game Boy cartridge is fairly large—Pokémon Red’s ROM is 1MB—so TI-Boy solves this by packing the ROM into a “shell” flash app using a PC program. Of course, you had to bring your own Game Boy cartridge ROM. The next problem is that many Game Boy cartridges have more RAM (up to 128KiB) than the TI-84 Plus (32KiB). (The Game Boy had only 8KiB built in, but cartridges could supply extra.) Here we’d seem to be stuck: how can you possibly emulate extra RAM? Xavier Andréani (critor) observed that TI calculators did in fact have extra RAM because the ASIC containing the z80 had more RAM than was exposed by default. TI-Boy reverse engineered the special commands to the hardware to bank-switch these into address space! The result is impressive: TI-Boy playing Legend of Zelda (via ticalc.org) Shells On calculators released before the TI-83 Plus, there was no official way to launch assembly language programs. These calculators had to be hacked using various techniques. The solution for end users was a shell - a launcher program that handled the annoying bits of transferring control from the OS. Many shells also provided additional routines a program could call. On the TI-82, the Ash shell accomplished this by sending a specially-crafted memory backup to the calculator. When the calculator next handled a keypress, the memory image redirected the CPU into the setup code. In a sense, this technique is one of the oldest exploits for any TI calculator. The shell that you are most likely to remember is MirageOS for the 84+. MirageOS was a popular tag-along with games shared peer-to-peer with a link cable, because the games needed it to run. It was also a flash app, so it persisted through RAM clears. I remember not being entirely clear on why its splash screen was so elaborate when I first encountered it, but now I appreciate the artwork! Shells got more elaborate over time, culminating in Doors CS by Christopher Mitchell (KermMartian), which had icons for assembly programs, a cursor-based UI, and a bunch of routines for programs to use. TI-84+ USB mass storage driver The 84+ had a really wacky USB port: it was an On-the-Go port, very obscure when it was released. This technically meant that the 84+ could act as a USB host. Dan Englender’s Usb8x supplied the missing driver code, allowing you to use a mouse (of questionable utility), keyboard, or more importantly, a flash drive. The calculator’s boot code provided low-level USB routines for get/send, but the impressive part is the upper USB stack including the mass storage and FAT16 driver “msd8x”—all, of course, in z80 assembly! Usb8x enabled, among other things, a hilarious demo: Michael Vincent may be one of the only people to have ever watched The Matrix on his calculator. (via ticalc.org) KnightOS Drew DeVault (SirCmpwn) was working on a promising project replacing TI-OS entirely with a from-scratch Unix-inspired, multitasking system called KnightOS. The cool part about this system is that it drew a lot from the multitasking paradigms we take for granted on a Mac or Linux box, but did it all with barely any help from the hardware. Programs were relocatable, there was preemptive multitasking, and there were loadable libraries that worked exactly like shared objects do in Unix. There was also a “real” filesystem with directories, flash wear leveling, and a protocol to connect to a computer. (It even has its own USB PID—0xCA1C.) Of course, the whole thing was all carefully implemented in z80 assembly, and kernel and library routines documented the contents of each register. It’s not vaporware; there’s autogenerated builds you can download and install on your calculator, and the source is on GitHub. Unfortunately its broad scope prevented it from achieving a stable release, but the bones are there and they are cool. I actually contributed a little to this project: I remember just having learned about synchronization primitives (mutexes and condition variables) and I easily knew enough about the z80 to be able to implement them for KnightOS. The Axe Parser project As you might imagine, there are two problems with writing assembly programs. First, you generally need a PC to do it properly, and most budding programmers were in school for most of their day. Second, and more importantly, z80 assembly is pretty arcane if you’re coming from BASIC. With the Axe Parser5, Kevin Horowitz (Quigibo) attempted to solve these problems by creating a new programming language that compiled into native code on the calculator. Axe is an app that reads a “TI-BASIC program” written with the built-in editor, but Axe redefined the grammar and semantics to provide a language that was very well suited to writing games. It’s quite an elegant solution: using the built-in editor means Axe didn’t have to ship an editor for its language. Rather, Axe is a compiler—it spends its engineering budget on producing better assembly code, with pages and pages of forum threads devoted to optimization. And further, Axe is extensible with new primitives provided as “Axioms”—plugins that further manipulate the grammar of the language. Here’s a hello world program in Axe. The Str1 token has been co-opted into a 16-bit pointer variable—this compiles on-calculator to an assembly program called HELLO! :.HELLO :\"Hello World\"→Str1 :Disp Str1 Unity: Native code on the TI-81 The TI-81 was an absolute potato of a calculator. Not only did it lack archive memory, it also lacked a link port, and lacked the Asm() command, meaning you were stuck with TI-BASIC. Stuck, that is, until Ben Moody (floppusmaximus) released Unity, a loader that exploited a buffer overflow in the primitive TI-OS, then installed itself to help load other assembly programs. With no link port, how did you get Unity or other assembly programs on the calculator? You typed them in, by hand! The installation instructions are reminiscent of typing in BASIC programs out of BYTE magazine: I suspect Randy Compton, who originally discovered the OS bug, did so by dumping the ROM with physical disassembly. z80 assembly is extremely amenable to reverse engineering because it’s hand-written. Operating system hacks While most projects ran on TI-OS, some ran up against TI-OS in order to make the hardware do things that TI preferred they didn’t do. There were scruples. Most people wanted to avoid the ire of Texas Instruments because (a) even the threat of lawyers tends to have a chilling effect on high school students and (b) people generally wanted to avoid besmirching the community’s image. And so there were certain things that were mostly considered off-limits, namely programs that were designed to help cheat on tests. Signing keys Really all anyone wanted to do was run their own code on their own hardware. TI had a crude but effective cryptographic signature check for apps and operating systems, which used the Rabin cryptosystem. They had released the signing key for TI-83 Plus apps as part of the SDK. However, the other keys that allowed signing OS images for the 83+, 84+, and apps and operating systems for the TI-89, were still secret. Using math against calculator enthusiasts—what did TI expect to happen?! Ben Moody realized that the state of the art in 2009 was enough to directly crack the ten year old 512-bit keys. His post (enigmatically titled “Fun Number Theory Facts”) revealed that he had found the prime factors of the public key for the 83+ operating system. Initially flabbergasted, the community threw together a BOINC cluster which cracked all the remaining keys in a few weeks without breaking a sweat. Texas Instruments threw a tantrum, lobbing legal threats that were, frankly, 100% bullshit abuses of the DMCA. The Electronic Frontier Foundation intervened on the hobbyists' behalf, explaining to TI that there is nothing illegal about knowing the prime factors of certain integers. The whole thing earned its own Wikipedia article. Today, you can easily find these keys on any enthusiast site, including right here. arTIfice Fairly recently (late 2020), TI decided what everyone really needed was a cold shower, and announced they’d be disabling all this assembly business with a software update for the TI-84+ CE (the newest color calculator), dubiously claiming that this would improve exam security, etc, etc.6 To quote Lionel Debroux: This slam shuts [sic] a golden age of over two decades (!) of native code being officially supported on at least one actively maintained TI graphing calculator. […] Like all true calculator enthusiasts, we have hard feelings about the matter. The community had always been nice to TI - nothing really damaging for TI’s business was ever released over 20+ years! - but a moral barrier has probably been broken today… As an olive branch they offered Python bindings; everyone immediately pointed out that Python is wicked slow in embedded environments and absolutely cannot replicate what native code can do.7 If you’ve read this far, you’ll note this isn’t the first time TI has been a little tone-deaf toward enthusiasts. Enter arTIfice8 - a proper jailbreak for these calculators. You simply install the CabriJr geometry app, and open a special data file with it, and suddenly you’re presented with a menu allowing you to run whatever you like. What’s cool about this is that it’s a jailbreak, not just a sweet hack that uses the hardware. Just like you may be familiar with jailbreaking an iPhone or Xbox, starting from within the sandbox and getting out, this abuses bugs in the wildly complicated CabriJr geometry app (signed and blessed to run by TI) to reenable arbitrary code execution and literally pop a shell or install hooks into the OS.9 The arTIfice exploit is just 927 bytes, and it packs a simple UI and loader in behind the shellcode. Being this small, the underlying exploit is probably the lowest hanging fruit of plenty of zero-days in this and other TI software. So yeah, now exams are secure, or something. Whence from here? For every project I listed, there were ten others that I didn’t. (And if I missed yours, I mean no disrespect!) The breadth and depth of tinkering is staggering: I haven’t even touched the scene for the ARM-based Nspire. There are always challengers to Texas Instruments' entrenchment in high schools; Casio in particular has made some attractive devices. There has been a modest amount of scene releases for Casio calculators as well. The startup Numworks makes calculators based on a very capable STM32F429 microcontroller. Until recently, the Numworks had an open-source operating system and I had half-hoped that it might spark a renaissance of handheld calculators. The hardware is available and pretty nice, but they’ve closed the source code license, so I don’t think it will see any grassroots adoption by the calculator scene. But no matter the platform, the steady stream of bored nerds in high school cannot be quenched, and they will have the support of smart engineers with free time. In the true hacker spirit, I suspect people will continue to push the boundaries of whatever hardware they find in their hands. Further reading Casual readers may wish to browse ticalc.org’s news (which goes back to 1997) for the most interesting news, or spelunk in their massive archives. Or, dive into the phpBB rabbit holes of the community’s forums, some dead and some still thriving! ticalc.org: one part forum, one part news source, three parts massive archive of nearly all software released for any TI calculator Cemetech: fairly formal, moderate amount of chatter but with pretty good signal to noise ratio and with very knowledgeable people. Still very active. Omnimaga: less formal, lots of projects, with a sprawling offtopic section and very elaborate forum signatures. Datamath: a large “online museum” with hardware teardowns, reverse engineering, and documentation of nearly every calculator ever released. TI-Planet: a French forum that was linked a lot, with a large downloads section and active community; unfortunately I don’t know much about it firsthand because I don’t speak French. calc.org (Wayback link): also used to be called Dimension-TI. A now-defunct forum and download host. Unfortunately it was before my time and I don’t know much about it. Oh, and other calculator nerds: keep me honest. Corrections welcome by comment or email. A popular hobbyist project is to build your own homebrew z80 computer, precisely because it is so simple that you can understand the foundations of the system. My favorite is probably Jim MacAurthur’s beautiful minimal z80 in a laser cut case with a hand crank to single-step instructions! ↩︎ The z80 generally made life pretty difficult for people who attempted to make a good C compiler for it. I believe I have the only remaining copy of HITECH-C for DOS, which was actually a decent C compiler. As I said, more on that in a later article. ↩︎ Your fame results may vary. Seemed this way to me, anyway. ↩︎ It’s good enough to have garnered at least a few fan ports to ZX Spectrum and some old Soviet computers. ↩︎ Wow, the Axe user manual takes me back—it was my first exposure to xkcd! ↩︎ Feels like they got advice from the Playstation Linux team. ↩︎ As far as I can tell, they are likely using MicroPython—implementing a Python from scratch would be a huge task—but I can’t find any MIT license disclosure. ↩︎ Holy moly does this page cause my CPU fans to spin… ↩︎ I’ll point out that all these hooks were already possible and remain supported by the OS itself; it’s how apps like Inequalz (which graphs inequalities) work - they hook the graph equation screens and the drawing routines, using official APIs. ↩︎",
+    "author": "George Hilliard",
+    "published": "Wed, 06 Oct 2021 08:42:00 -0500",
+    "image": "https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/1996.png",
+    "source": "https://www.thirtythreeforty.net/posts/index.xml",
+    "categories": null
+  },
+  {
+    "id": "43c7c649-eb6c-4119-ac6f-71d2cf4ebbc8",
+    "title": "Hacking Reolink cameras for fun and profit",
+    "link": "https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/",
+    "description": "Table of Contents Sniffing traffic Dissecting traffic with Wireshark Inspecting the firmware Why doesn’t this camera support RTSP? Pwning the camera Low hanging fruit first Getting root Reversing the protocol Static analysis with Ghidra Strings: a bounty of information The Charlie Scrambler Dynamic analysis with gdb Feeding the watchdog Charlie strikes again A brief history of the Baichuan protocol Neolink: a new client Getting the video data Wrap it in maroon and white, er, RTSP Testing it with Blue Iris Future work Way back in late 2019, I dissected a Reolink B800 IP camera to demonstrate the various parts of an embedded Linux system. It’s fairly nice hardware, actually—it has a 4K video sensor, a microphone, power over Ethernet, and is nominally waterproof. And yes, it runs Linux. It came in a “kit” of six cameras and an NVR (a dedicated recording box that also powers the cameras). Unfortunately, the NVR is pretty anemic: it’s clearly an existing model with slight changes to support 4K cameras, and it struggles to support more than one viewer at a time. However, I bought these cameras because I believed they supported open standards such as ONVIF, so I’d just swap the NVR for a copy of Blue Iris running on my server. At the time, the Reolink support page clearly indicated that all of their non-battery-powered cameras supported RTSP. After the system was installed, it became apparent that the cameras did not in fact support RTSP—the only port open on them was port 9000. Then, barely outside my return window, Reolink updated their support page to say that the cameras would only work with their 8-channel NVR or proprietary viewer apps. This was, in the immortal words of Bill and Ted, bogus. Heinous. Most non-triumphant. Bogus enough that I decided to pwn the camera, reverse engineer the protocol, and write my own software to get the video stream. The end result is a new piece of open-source software called Neolink, which allows Blue Iris, Shinobi, or other NVR software to receive video from unmodified Reolink cameras. Here’s how I did it. Sniffing traffic As a first step, I fired up Wireshark and captured traffic between the camera and its official Reolink PC client1. The only thing that jumped out to me was the appearance of a sync word at the beginning of each packet, 0xf0debc0a. (In little endian, this is 0x0abcdef0.) On a lark, I Googled this, and actually found a project on GitHub from 2015 which was attempting to retrieve data from Swann cameras! A quick look at the code told me that although they share the sync word and packet header, the protocols for my camera and these older cameras were very different. The payload appeared to be encrypted in my captures. Furthermore, the code wouldn’t even run due to some questionable pointer juggling. Time to extract what I could—the header layout was correct—and move on. Dissecting traffic with Wireshark Always, always spend time developing debug or analysis tools. In my experience, such tools immediately pay back your time investment by a factor of 4 or more. With what I knew, I was able to write a “Baichuan” protocol dissector for Wireshark using Mika’s awesome tutorial. This was easy and fun: Wireshark lets you write dissectors in Lua (disclaimer: your definition of fun may vary). Now Wireshark could show me the payload lengths and message IDs. Not much, but it was a start. Inspecting the firmware In order to figure out whatever encryption and/or obfuscation the protocol was using, I planned to reverse engineer the firmware. I felt pretty confident that the underlying video was using a well-known protocol (especially since the camera seemed to have dedicated video encoding hardware). So “all” I’d have to do is reverse engineer the rest of the protocol. Easy peasy, right? Why doesn’t this camera support RTSP? As a quick aside, it’s natural to wonder why this camera doesn’t support RTSP and/or ONVIF. After all, plenty of other Reolink cameras do. Because I’d like to give them the benefit of the doubt, I’ll propose the possibility that Reolink ran out of storage on this camera and had to axe some features. After all, a 16MB flash chip would cost a whole 20 cents extra. This is just a cost-saving measure and definitely not vendor lock-in, hmmm? Pwning the camera Right, onward. With the protocol not immediately accessible, it was time to crack this camera open. My previous disassembly of the camera has already indicated that it uses SPI NOR flash—bog standard for a small Linux system like this. I was wanting to try out a really neat little SOIC socket I had discovered and ordered on Taobao a little while back. I desoldered the flash and soldered on a socket instead. The camera was now pwned, permanently—there was nothing I could do to brick it (I could always just reflash it with flashrom) and there was nothing Reolink could do to stop me from running my own code on it (since I had control of the first instruction executed, if need be2). With the flash now conveniently socketed, I dumped it and used binwalk to inspect the layout. Here’s the flash layout—the nice round byte offsets that engineers tend to pick.3 Bootloader, Linux uImage, squashfs rootfs, and JFFS2 persistent partition. DECIMAL HEXADECIMAL DESCRIPTION -------------------------------------------------------------------------------- 67266 0x106C2 eCos RTOS string reference 1769472 0x1B0000 uImage header 3604480 0x370000 Squashfs filesystem, little endian 7798784 0x770000 JFFS2 filesystem, little endian This also lines up nicely with this visualization of the flash image, made by a neat little tool called BinVis. binwalk also conveniently offers to unpack the filesystems it finds. Low hanging fruit first My first order of business was to find the actual camera binary. It was pretty easy to find; it’s sitting in its own directory at /mnt/app/dvr. The dvr binary also had an accompanying dvr.xml, which looked like a configuration file. A little grepping later, and… sure enough, here were the magic words ONVIF and RTSP! # .... push_server=\"pushx.reolink.com\" push_server_port=\"9501\" support_3gnet=\"0\" support_intelligence=\"0\" support_smartsearch=\"0\" support_onvif=\"0\" support_rtsp=\"0\" support_bc=\"1\" support_3dnr_config_interface=\"1\" default_3dnr_config=\"1\" # .... I suspected these were simply feature flags dictating to the software which features to enable. What if I just changed these zeros to ones? Rebuilding the rootfs wasn’t quite as easy as extracting it, but I cobbled together a command through trial and error. I wanted to get the squashfs format exactly the same as the one reported by binwalk, so that I could be sure that the stock kernel would mount it. Since I was mostly flying blind without a UART console, I didn’t want any trouble. $ mksquashfs new-squashfs-root/ new-squashfs.img -comp xz -b 262144 -all-root -noappend $ dd if=new-squashfs.img of=pwned.bin bs=1 seek=$((0x370000)) conv=notrunc $ flashrom -p ft2232_spi:type=2232H,port=A -w pwned.bin Alas, it was not to be this easy. The camera exhibited a remarkable lack of behavioral reform: no new ports opened, nothing. For comparison, I downloaded and unpacked a firmware update for a different Reolink camera that did support RTSP. The dvr binary for that camera was nearly 8 megabytes, while my victim’s was only a little over 3. Clearly, the engineers compiled out the unneeded bits. Getting root Fine. If Reolink has compiled the extra functionality out, then the least the camera could do is give me a shell. While I was here, I decided I’d make some, ahem, extra modifications. A quick Google did not yield prebuilt binaries of the tools I was looking for. Instead, I checked out a fresh copy of Buildroot and quickly set it up for a baseline MIPS configuration with static linking, then asked for copies of gdbserver, busybox with all the fixin’s, and strace: $ make qemu_mips32r2el_malta_defconfig $ make menuconfig # (with appropriate edits made) $ make busybox gdb strace Thirty minutes later, I had my tools. In the rootfs tree that binwalk had extracted, there’s the usual assortment of startup scripts in /etc/init.d. With my tricked-out Busybox copied to /bin, and a symlink created named telnetd, I added an extra line to one of the startup scripts: # Get a shell /bin/telnetd -l /bin/sh Fingers crossed, I reinstalled the flash and powered the camera. $ telnet 192.168.1.187 Trying 192.168.1.187... Connected to 192.168.1.187. Escape character is '^]'. /mnt/app # Mwahahaha. Reversing the protocol What to do with my newfound power? I planned to start with a static analysis of the firmware, first reverse engineering the encryption scheme. If I got stuck, I could interrogate the camera binary as it executed. Once I could undo the encryption, I’d be able to see what the actual protocol was like. Static analysis with Ghidra The traditional hobbyist tool for static analysis, IDA free edition, is no good here, because my binary is for MIPS, which the free IDA refuses to disassemble. Instead, the tool of choice is Ghidra, an astoundingly good open-source reverse engineering suite released by the NSA. Now, normally saying “I ran a binary the NSA gave me” will get you laughed out of the room. But Ghidra has been open source for a while now, so I feel reasonably safe installing it from the Arch Linux repository. If this website looks like it’s made by a government agency, it’s because it is. Ghidra is awesome. Seriously, this is a piece of software you’d have to pay $10000 for, and it should be your go-to for reverse engineering work. In addition to the disassembler and analyzer, Ghidra also includes a decompiler, which prints pseudo-C code instead of leaving you digging through MIPS assembly. It also re-analyzes in realtime as you annotate function arguments with type information and names. These features easily cut my time spent reverse engineering in half. So, armed with Ghidra and a false sense of confidence stemming from never having done any reverse engineering before, I went spelunking in the Baichuan binaries. Strings: a bounty of information There’s a reason most reverse engineers start by examining the strings in an unknown binary—it’s a technique that works. In my case, checking for strings in the desktop client and the firmware’s server yielded debug print statements, function names (which Ghidra automatically annotated), and a couple other oddball strings that I’ll talk about in a minute. Both codebases were clearly built around a shared proprietary “BCSDK” library. Searching for crypt yielded a couple of candidate functions that purported to perform encryption: Well, no RSA here, or anything resembling “real” encryption, except AES. (And I could find any AES keys embedded in the app in short order.) But what’s this string stuck nonchalantly in the middle of the others? That’s not a function name. I hit find-references and read the code that uses it. The Charlie Scrambler Ghidra took me to this gem of a function: Technically, this is the decryption function; there’s another one that works in reverse. It only takes a second to understand what’s going on here: the “encryption” scheme is simply: XOR the data with the string Charlie is the designer of P2P!!, then mix up the bytes. This isn’t encryption. This is just a scrambler. Bravo, Charlie, your “design” is permanently encoded in this protocol for all time. Don’t roll your own crypto, kids. Unfortunately, the Charlie Scrambler is only called from UDP functions (see the cross-reference at the bottom of the Ghidra window). This meant it wasn’t my pigeon; my camera uses TCP. At this point I had no idea which of the other “encryption” functions were the right one for my camera, so it was time to bring out my next weapon. Dynamic analysis with gdb With my shell access waiting, my next move was to attach a debugger and control the dvr program remotely from my workstation using my cross-compiled gdbserver and strace tools. My Busybox included an FTP server and a TCP wrapper: $ /bin/busybox tcpsvd -vE 0.0.0.0 21 ftpd / -w -A tcpsvd: listening on 0.0.0.0:21 With this setup I could push whatever tools I wanted to the camera filesystem, even though I hadn’t packed them into the firmware. I went through this process manually about twice before it became really tedious. This is the kind of thing it’s possible to automate with expect, a Tcl (!) program that pretends to be a console user. I scripted these interactions, which reduced the connect, tool push, and gdb setup to a simple: $ ./start-debug.exp An added benefit of this setup is that I could stick whatever gdb commands I wanted to run at startup at the end of the script, instead of writing a dedicated GDB script. These dynamic printf commands simply print in the GDB console when the camera hits a breakpoint, helpful for knowing which functions are being called without halting the camera: send_gdb \"dprintf *0x478908, \\\"_Nets_Without_Password_Login_V20\\\\n\\\"\" send_gdb \"dprintf *0x4780ac, \\\"FUN_004780ac\\\\n\\\"\" send_gdb \"dprintf *0x6310f0, \\\"Md5_string_encrypt\\\\n\\\"\" Feeding the watchdog After attaching and halting the dvr daemon, the camera promptly crashed and reset. After some quick investigation, the camera had a watchdog enabled at /dev/watchdog—a very common setup for embedded devices. I was doing open heart surgery on this software—I didn’t need some two-bit peripheral wandering by and hitting it with an AED! Busybox ships with a watchdog minder, so I simply fired it up: $ watchdog /dev/watchdog Problem solved. Charlie strikes again After my breakpoint was hit, I knew which encryption function I was dealing with: Nets_XmlEncryption. This was immediately good news, because after figuring out the encryption, I was likely dealing with nice ordinary XML, not some crazy half-baked bag of C structs. I took a look at the decompiled function in question in Ghidra, annotating as I went. Sure did look familiar… No engineering lessons had been learned during the redesign, and the influence of Charlie was alive and well! Here is the Charlie Scrambler back in force, but without the mixing step, and with a shorter key. Fine, whatever. Implementing the Scrambler in my Wireshark dissector didn’t take very long—although I was briefly baffled by a header of varying length depending on the message type. Once implemented, I was greeted with this glorious sight: Again, I highly recommend writing plugins for Wireshark. You can do it in Lua (or C if you’re that hardcore), and it only takes a couple hours to have a really nice debug tool. A brief history of the Baichuan protocol I won’t bore you with the gory details, but I’ll summarize my findings. The Baichuan protocol has had several iterations over the years. The very oldest seem to be UDP-based, using a proprietary SDK called TUTK, illicit copies of which can conveniently be found on GitHub. This is no longer used; it’s not even present in the camera code. The next variant is indeed a plaintext “bag of structs”, which consists of a header and a body specified by a message ID in the header. This “legacy variant” is briefly used on the B800 so that both clients can negotiate an upgrade to the “modern variant,” which is the scrambled XML-based scheme you see above. On top of this, modern messages can optionally have a payload. A certain XML message switches the entire message ID into “binary mode,” which supplies a raw data stream in subsequent messages. When the client sends a video-start command, the camera replies with a binary stream containing raw H.265 video. On top of that, the payload can also be more encrypted XML, separate from the main XML for some reason. On the whole, it’s really quite a pain to parse. Neolink: a new client Once my Wireshark dissector was humming along, it was time to write a new client. I wanted my software to be fast, high-level, and correct, since it would be part of a security system setup. That’s right: I rewrote Reolink’s software in Rust. Well, not exactly. Neolink is a new client completely from scratch. It speaks the same Baichuan protocol as the camera, and it extracts the video and forwards it to another real NVR client like Blue Iris over RTSP. The parsing code is somewhat hairy4, but other than that, it’s straightforward. Getting the video data Here’s all the client is capable of right now. It’s pretty easy to read if you want to look at the source. Send a legacy login message to get the camera to “upgrade” to modern messages. Note: this uses plain MD5 encryption for your password, another, um, interesting design choice. Use a password that isn’t in a rainbow table! Send a modern login message to actually authenticate to the camera. Send a start video request: let start_video = Bc::new_from_xml( BcMeta { msg_id: MSG_ID_VIDEO, client_idx: 0, encrypted: true, class: 0x6414, }, BcXml { preview: Some(Preview { version: xml_ver(), channel_id: 0, handle: 0, stream_type: \"mainStream\".to_string(), }), ..Default::default() }); sub_video.send(start_video)?; Spit out the binary data when it’s received: loop { let msg = sub_video.rx.recv_timeout(self.rx_timeout)?; if let BcBody::ModernMsg(ModernMsg { binary: Some(binary), .. }) = msg.body { data_out.write_all(binary.as_slice())?; } } Wrap it in maroon and white, er, RTSP5 For this part of the program I reached for Gstreamer, which ships with an RTSP server. Gstreamer is… complex. However, their examples are fantastic; they even provided a sample RTSP server in Rust! The general approach for feeding Gstreamer data from an arbitrary part of your program is to use a block called an appsrc. This lets you get a callback whenever Gstreamer wants data, or alternatively just push data whenever you have some and let Gstreamer handle scheduling it. The latter approach is the one I went with here, since the camera doesn’t wait for a signal to send video data. I wrapped everything in a Gstreamer pipeline: appsrc name=baichuan is-live=true emit-signals=false max-bytes=0 ! h265parse ! rtph265pay name=pay0 Testing it with Blue Iris The moment of truth arrived… could Blue Iris connect to my RTSP server and actually display the video? You bet. I present… me! In glorious 4K! Future work I’ve been soak-testing Neolink for a while now and I think it’s pretty stable. Going forward I’m packaging it up as a real Windows service (not a command line program) to run alongside Blue Iris on my server. Go look at it and download it for yourself! I’m also interested in getting Neolink working with other “NVR only” Reolink cameras, of which there are quite a few. So far I haven’t purchased any other hardware, so if you have one of these cameras, please get in touch so we can test it. It might Just Work out of the box. Port scan your cameras! If they have port 9000 available, chances are good that they speak the Baichuan protocol. This project was a “just right” intro to reverse engineering. Low-security systems like these let you teach yourself the principles without actively trying to thwart reverse engineering. I taught myself a lot, and I hope it provides a lot of value for folks who own these cameras. Finally, some shameless self-promotion: embedded Linux systems are actually pretty approachable! If you’d like to learn how to do this kind of thing, you might be interested in my Mastering Embedded Linux series, designed to help you become an expert in hacking low-cost embedded Linux systems just like this camera. If you enjoyed this, you can subscribe to my blog updates, or leave a comment below. Thanks for reading! The Reolink support forums always claim that their pages were “updated 8 hours ago.” This is obvious nonsense. They do update fairly frequently, but not constantly. ↩︎ This is exactly the point of secure boot schemes, where the immutable boot ROM validates code against immutable encryption keys, preventing tampering. Needless to say, this camera does not implement such niceties. ↩︎ binwalk also turns up a bunch of false positives, which are easy to ignore because they don’t have nice round offsets. ↩︎ Seriously, having packet decode be stateful is just ridiculous. ↩︎ Yes, I’m a proud Mississippi State University bulldog. You too can attend and become a computer engineer! ↩︎",
+    "author": "George Hilliard",
+    "published": "Sat, 16 May 2020 17:40:00 -0500",
+    "image": "https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/b800.jpg",
+    "source": "https://www.thirtythreeforty.net/posts/index.xml",
+    "categories": null
+  },
+  {
+    "id": "f2c97860-a336-4d96-bb06-b5f1d26c2de8",
+    "title": "Introducing Netflix’s TimeSeries Data Abstraction Layer",
+    "link": "https://netflixtechblog.com/introducing-netflix-timeseries-data-abstraction-layer-31552f6326f8?source=rss----2615bd06b42e---4",
+    "description": "",
+    "author": "Netflix Technology Blog",
+    "published": "Tue, 08 Oct 2024 17:05:36 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*jl30Jl559Fnd29in",
+    "source": "https://netflixtechblog.com/feed",
+    "categories": null
+  },
+  {
+    "id": "5e5ad118-2cc6-4c9b-b22c-828e22145e52",
+    "title": "Introducing Netflix’s Key-Value Data Abstraction Layer",
+    "link": "https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30?source=rss----2615bd06b42e---4",
+    "description": "",
+    "author": "Netflix Technology Blog",
+    "published": "Wed, 18 Sep 2024 22:49:04 GMT",
+    "image": "https://cdn-images-1.medium.com/max/755/0*9Ny8Uc-diSDnVGnk",
+    "source": "https://netflixtechblog.com/feed",
+    "categories": null
+  },
+  {
+    "id": "d3e2f5c6-7bf9-46d9-8597-e0c16d8185a4",
+    "title": "Identity and Access Management with Julianna Lamb",
+    "link": "https://softwareengineeringdaily.com/2024/10/09/identity-and-access-management-with-julianna-lamb/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=identity-and-access-management-with-julianna-lamb",
+    "description": "Authentication is a key requirement for any B2B software application, especially if software vendors are selling to enterprise clients who are likely to have strict authentication requirements for the vendors they use. However, building authentication for a B2B application is typically complex and resource-intensive due to the data models required, the provisioning and managing accounts, The post Identity and Access Management with Julianna Lamb appeared first on Software Engineering Daily.",
+    "author": "SEDaily",
+    "published": "Wed, 09 Oct 2024 09:00:00 +0000",
+    "image": "https://traffic.megaphone.fm/SED8999448795.mp3",
+    "source": "https://softwareengineeringdaily.com/category/podcast/feed",
+    "categories": [
+      "All Content",
+      "Exclusive Content",
+      "Gregor Vand",
+      "Hosts",
+      "Podcast",
+      "authentication",
+      "B2B software application",
+      "Julianna Lamb",
+      "Stytch"
+    ]
+  },
+  {
+    "id": "729d9ec5-7896-45ca-8198-0669b3ba8a10",
+    "title": "Building Secure Payments Infrastructure with Jack Gibson",
+    "link": "https://softwareengineeringdaily.com/2024/10/08/building-secure-payments-infrastructure-with-jack-gibson/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=building-secure-payments-infrastructure-with-jack-gibson",
+    "description": "J. P. Morgan Payments is one of the leaders in payments processing with a staggering $10 trillion in payments handled daily. The company recently released its Payments Developer Portal, or PDP, which serves as a gateway for developers to build and test payment APIs, and accept, manage, and send payments on their own platforms. Developing The post Building Secure Payments Infrastructure with Jack Gibson appeared first on Software Engineering Daily.",
+    "author": "SEDaily",
+    "published": "Tue, 08 Oct 2024 09:00:55 +0000",
+    "image": "https://traffic.megaphone.fm/SED1941872490.mp3",
+    "source": "https://softwareengineeringdaily.com/category/podcast/feed",
+    "categories": [
+      "All Content",
+      "Exclusive Content",
+      "Hosts",
+      "Podcast",
+      "Sean Falconer",
+      "financial APIs",
+      "J. P. Morgan",
+      "Jack Gibson",
+      "Payments Developer Portal"
+    ]
+  },
+  {
+    "id": "6f413220-38ba-436a-bbaf-af18b011070a",
+    "title": "176: MLOps at SwampUp",
+    "link": "https://www.programmingthrowdown.com/episodes/176-mlops-at-swampup/",
+    "description": "James Morse: Software Engineer at CiscoSystem Administrator to DevOpsDifference between DevOps and MLOpsGetting Started with DevOpsLuke Marsden: CEO of Helix MLHow to start a business at 15 years oldBTRFS vs ZFSMLOps: the intersection of software, DevOps and AIFine-tuning AI on the CloudSome advice for folks interested in ML OpsYuval Fernbach: CTO MLOps \u0026 JFrogStarting QwakGoing from a jupyter notebook to productionML Supply ChainGetting started in Machine LearningStephen Chin: VP of DevRel at Neo4JDeveloper Relations: The JobWhat is a Large Language Model?Knowledge graphs and the Linkage ModelHow to Use Graph databases in EnterpriseHow to get into ML Ops ★ Support this podcast on Patreon ★",
+    "author": "Patrick Wheeler and Jason Gauci",
+    "published": "Tue, 24 Sep 2024 10:00:00 -0500",
+    "image": "https://pdst.fm/e/media.transistor.fm/9258a4ac/f5edcaaa.mp3",
+    "source": "http://feeds.feedburner.com/ProgrammingThrowdown",
+    "categories": [
+      "Programming Throwdown",
+      " Programming Languages",
+      "C",
+      "C",
+      "Java",
+      "Python",
+      "Objective C"
+    ]
+  },
+  {
+    "id": "41b87cf1-b6e5-427e-b5fa-e9eea0ef715b",
+    "title": "175: Resume Writing",
+    "link": "https://www.programmingthrowdown.com/episodes/175-resume-writing",
+    "description": "175: Resume WritingIntro topic:  DSLR Photography vs Camera PhoneNews/Links:Free Internet while flying by abusing edits to your profile namehttps://robertheaton.com/pyskywifi/Making Animated Characters with AI Arthttps://www.youtube.com/watch?v=zSN76gb_Z28On 10x Engineershttps://stackoverflow.blog/2024/06/19/the-real-10x-developer-makes-their-whole-team-better/The Beauty and Challenges of AI-Generated Artistic Gymnasticshttps://www.youtube.com/watch?v=YwJIYj3hPAUBook of the ShowPatrick: The Three Body Problem by Cixin Liuhttps://amzn.to/3xNEoRBJason: The Checklist Manifestohttps://amzn.to/3W2JjpMPatreon Plug https://www.patreon.com/programmingthrowdown?ty=hTool of the ShowPatrick: Super Mario Bros. Wonder (Nintendo Switch)https://amzn.to/3S9VJLfJason: Amazon Qhttps://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscodeTopic: Resume Writing (Courtesy of Matthew C.)Why have a resume?Many jobs require it to get into the considerationToday many are screened for keywords automaticallyLog for future youWhat is a resume?One-page descriptionKey accomplishments \u0026 experiencesComparison to CVReferencesHow to write a good resume?Do’sInclude your github if it has good contributionsBe specific (dates, locations, skills)Isolate your specific contributionsBe accurate/honestBe conciseBe ready to discuss any point you have on the resumeList hobbies/activities/extracurricularsDon’tsHave mistakes (especially dates)Use images (most companies use text extraction)Use it as a design portfolioPut social qualities (e.gs. hard-working, motivated, friendly)Use fancy templates/toolsResourcesManager Tools: How to scan resumes https://www.manager-tools.com/2016/05/how-scan-resume-part-1 Google docsLatex/Lyx for CVsHow to think about your career and how it impacts your future resume writing (career planning)Technologies and architectures more than specifics of project detailsHow various choices may age over time ★ Support this podcast on Patreon ★",
+    "author": "Patrick Wheeler and Jason Gauci",
+    "published": "Fri, 16 Aug 2024 10:53:00 -0500",
+    "image": "https://pdst.fm/e/media.transistor.fm/c357d316/7edfb220.mp3",
+    "source": "http://feeds.feedburner.com/ProgrammingThrowdown",
+    "categories": [
+      "Programming Throwdown",
+      " Programming Languages",
+      "C",
+      "C",
+      "Java",
+      "Python",
+      "Objective C"
+    ]
+  },
+  {
+    "id": "3877eb6e-6bc4-4568-a9b5-75d18c0c30fb",
+    "title": "A Rare Insight Into The Daily Challenges Of An Experiments Team",
+    "link": "https://engineering.prezi.com/a-rare-insight-into-the-daily-challenges-of-an-experiments-team-349a94960b4f?source=rss----911e72786e31---4",
+    "description": "",
+    "author": "Attila Vágó",
+    "published": "Tue, 09 Jul 2024 13:21:02 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*n3VDMgH-u5OU5VAH",
+    "source": "https://engineering.prezi.com/feed",
+    "categories": [
+      "a-b-testing",
+      "prezi",
+      "product-development",
+      "software-development",
+      "engineering-culture"
+    ]
+  },
+  {
+    "id": "df3fc638-ebb9-4791-9b68-79d9e613c1e2",
+    "title": "How Prezi replaced a homegrown Log Management System with Grafana Loki",
+    "link": "https://engineering.prezi.com/how-prezi-replaced-a-homegrown-log-management-system-with-grafana-loki-15111174ff91?source=rss----911e72786e31---4",
+    "description": "",
+    "author": "Alex",
+    "published": "Thu, 08 Feb 2024 15:26:37 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*pmZClgRKPe7CZ0EI",
+    "source": "https://engineering.prezi.com/feed",
+    "categories": [
+      "logging",
+      "sre",
+      "technology",
+      "prezi",
+      "software-development"
+    ]
+  },
+  {
+    "id": "957dbfed-cb68-478a-896b-4cc80a98db97",
+    "title": "",
+    "link": "http://scripting.com/2024/10/12.html#a211940",
+    "description": "I would switch to any podcatcher that let me edit my subscription list outside their app, because I use that list in different contexts, also because I’d like to share my list with others, and would like that to be a dynamic connection, so I could add feeds as I learn about them, or remove feeds that have stopped updating. Also because there are lots of others, aka influencers who’d like to too. You’d own the market if you did this.",
+    "author": "",
+    "published": "Sat, 12 Oct 2024 21:19:40 GMT",
+    "image": "https://imgs.scripting.com/2021/12/12/zen.png",
+    "source": "http://scripting.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "660327b9-0262-4755-818b-b240ea6dd2a0",
+    "title": "",
+    "link": "http://scripting.com/2024/10/12.html#a165035",
+    "description": "Cynicism isn’t always the right explanation. Sometimes people just want to share something good with you, that doesn’t necessarily mean they’re stupid, maybe they just like you.",
+    "author": "",
+    "published": "Sat, 12 Oct 2024 16:50:35 GMT",
+    "image": "",
+    "source": "http://scripting.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "8fe1f5c7-b630-4e8f-aa29-ff2ce7ae8246",
+    "title": "Webcam randomly pausing in OBS, Discord, and websites - LSVCam and TikTok Studio",
+    "link": "http://feeds.hanselman.com/~/905963465/0/scotthanselman~Webcam-randomly-pausing-in-OBS-Discord-and-websites-LSVCam-and-TikTok-Studio",
+    "description": "I use my webcam constantly for streaming and I'm pretty familiar with all the internals and how the camera model on Windows works. I also use OBS extensively, so I regularly use the OBS virtual camera and flow everything through Open Broadcasting Studio. For my podcast, I use Zencastr which is a web-based app that talks to the webcam via the browser APIs. For YouTubes, I'll use Riverside or StreamYard, also webapps. I've done this reliably for the last several years without any trouble. Yesterday, I started seeing the most weird thing and it was absolutely perplexing and almost destroyed the day. I started seeing regular pauses in my webcam stream but only in two instances. The webcam would pause for 10-15 seconds every 90 or so seconds when access the Webcam in a browser I would see a long pause/hang in OBS when double clicking on my Video Source (Webcam) to view its properties Micah initially said USB but my usb bus and hubs have worked reliably for years. Thought something might have changed in my El Gato capture device, but that has also been rock solid for 1/2 a decade. Then I started exploring virtual cameras and looked in the windows camera dialog under settings for a list of all virtual cameras. Interestingly, virtual cameras don't get listed under Cameras in Settings in Windows: From what I can tell, there's no user interface to list out all of your cameras - virtual or otherwise - in windows. Here's a quick PowerShell script you can run to list out anything 'connected' that also includes the string \"cam\" in your local devicesGet-CimInstance -Namespace root\\cimv2 -ClassName Win32_PnPEntity | Where-Object { $_.Name -match 'Cam' } | Select-Object Name, Manufacturer, PNPDeviceID and my outputName Manufacturer PNPDeviceID---- ------------ -----------Cam Link 4K Microsoft USB\\VID_0FD9\u0026PID_0066\u0026MI_00\\7\u00263768531A\u00260\u00260000Digital Audio Interface (2- Cam Link 4K) Microsoft SWD\\MMDEVAPI\\{0.0.1.00000000}.{AF1690B6-CA2A-4AD3-AAFD-8DDEBB83DD4A}Logitech StreamCam WinUSB Logitech USB\\VID_046D\u0026PID_0893\u0026MI_04\\7\u0026E36D0CF\u00260\u00260004Logitech StreamCam (Generic USB Audio) USB\\VID_046D\u0026PID_0893\u0026MI_02\\7\u0026E36D0CF\u00260\u00260002Logitech StreamCam Logitech USB\\VID_046D\u0026PID_0893\u0026MI_00\\7\u0026E36D0CF\u00260\u00260000Remote Desktop Camera Bus Microsoft UMB\\UMB\\1\u0026841921D\u00260\u0026RDCAMERA_BUSCam Link 4K (Generic USB Audio) USB\\VID_0FD9\u0026PID_0066\u0026MI_03\\7\u00263768531A\u00260\u00260003Windows Virtual Camera Device Microsoft SWD\\VCAMDEVAPI\\B486E21F1D4BC97087EA831093E840AD2177E046699EFBF62B27304F5CCAEF57 However, when I list out my cameras using JavaScript enumerateDevices() like this// Put variables in global scope to make them available to the browser console.async function listWebcams() { try { const devices = await navigator.mediaDevices.enumerateDevices(); const webcams = devices.filter(device =\u003e device.kind === 'videoinput'); if (webcams.length \u003e 0) { console.log(\"Connected webcams:\"); webcams.forEach((webcam, index) =\u003e { console.log(`${index + 1}. ${webcam.label || `Camera ${index + 1}`}`); }); } else { console.log(\"No webcams found.\"); } } catch (error) { console.error(\"Error accessing media devices:\", error); }}listWebcams(); I would get:Connected webcams: test.html:11 1. Logitech StreamCam (046d:0893) test.html:11 2. OBS Virtual Camera (Windows Virtual Camera) test.html:11 3. Cam Link 4K (0fd9:0066) test.html:11 4. LSVCam test.html:11 5. OBS Virtual Camera So, what, what's LSVCam? And depending on how I'd call it I'd get the pause and getUserMedia error: NotReadableError NotReadableError: Could not start video source Some apps could see this LSVCam and others couldn't. OBS really dislikes it, browsers really dislike it and it seemed to HANG on enumeration of cameras. Why can parts of Windows see this camera and others can't? I don't know. Do you? Regardless, it turns that it appears once in my registry, here (this is a dump of the key, you just care about the Registry PATH)Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\\CLSID\\{860BB310-5D01-11d0-BD3B-00A0C911CE86}\\Instance\\LSVCam]\"FriendlyName\"=\"LSVCam\"\"CLSID\"=\"{BA80C4AD-8AED-4A61-B434-481D46216E45}\"\"FilterData\"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\\ 08,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\\ 00,00,00,38,00,00,00,48,00,00,00,76,69,64,73,00,00,10,00,80,00,00,aa,00,38,\\ 9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00 If you want to get rid of it, delete HKEY_CLASSES_ROOT\\CLSID\\{860BB310-5D01-11d0-BD3B-00A0C911CE86}\\Instance\\LSVCam WARNING: DO NOT delete the \\Instance, just the LSVCam and below. I am a random person on the internet and you got here by googling, so if you mess up your machine by going into RegEdit.exe, I'm sorry to this man, but it's above me now. Where did LSVCam.dll come from, you may ask? TikTok Live Studio, baby. Live Studio Video/Virtual Cam, I am guessing.Directory of C:\\Program Files\\TikTok LIVE Studio\\0.67.2\\resources\\app\\electron\\sdk\\lib\\MediaSDK_V109/18/2024 09:20 PM 218,984 LSVCam.dll 1 File(s) 218,984 bytes This is a regression that started recently for me, so it's my opinion that they are installing a virtual camera for their game streaming feature but they are doing it poorly. It's either not completely installed, or hangs on enumeration, but the result is you'll see hangs on camera enumeration in your apps, especually browser apps that poll for cameras changes or check on a timer. Nothing bad will happen if you delete the registry key BUT it'll show back up when you run TikTok Studio again. I still stream to TikTok, I just delete this key each time until someone on the TikTok Studio development team sees this blog post. Hope this helps!© 2021 Scott Hanselman. All rights reserved.",
+    "author": "Scott Hanselman",
+    "published": "Wed, 09 Oct 2024 19:32:28 GMT",
+    "image": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/730f6664b802_E062/image_thumb.png",
+    "source": "http://feeds.hanselman.com/ScottHanselman",
+    "categories": [
+      "Bugs"
+    ]
+  },
+  {
+    "id": "13f434d5-41c3-4052-9e76-9d407fb08d5a",
+    "title": "Open Sourcing DOS 4",
+    "link": "http://feeds.hanselman.com/~/882544025/0/scotthanselman~Open-Sourcing-DOS",
+    "description": "See the canonical version of this blog post at the Microsoft Open Source Blog! Ten years ago, Microsoft released the source for MS-DOS 1.25 and 2.0 to the Computer History Museum, and then later republished them for reference purposes. This code holds an important place in history and is a fascinating read of an operating system that was written entirely in 8086 assembly code nearly 45 years ago. Today, in partnership with IBM and in the spirit of open innovation, we're releasing the source code to MS-DOS 4.00 under the MIT license. There's a somewhat complex and fascinating history behind the 4.0 versions of DOS, as Microsoft partnered with IBM for portions of the code but also created a branch of DOS called Multitasking DOS that did not see a wide release. https://github.com/microsoft/MS-DOS A young English researcher named Connor \"Starfrost\" Hyde recently corresponded with former Microsoft Chief Technical Officer Ray Ozzie about some of the software in his collection. Amongst the floppies, Ray found unreleased beta binaries of DOS 4.0 that he was sent while he was at Lotus. Starfrost reached out to the Microsoft Open Source Programs Office (OSPO) to explore releasing DOS 4 source, as he is working on documenting the relationship between DOS 4, MT-DOS, and what would eventually become OS/2. Some later versions of these Multitasking DOS binaries can be found around the internet, but these new Ozzie beta binaries appear to be much earlier, unreleased, and also include the ibmbio.com source.  Scott Hanselman, with the help of internet archivist and enthusiast Jeff Sponaugle, has imaged these original disks and carefully scanned the original printed documents from this \"Ozzie Drop\". Microsoft, along with our friends at IBM, think this is a fascinating piece of operating system history worth sharing.  Jeff Wilcox and OSPO went to the Microsoft Archives, and while they were unable to find the full source code for MT-DOS, they did find MS DOS 4.00, which we're releasing today, alongside these additional beta binaries, PDFs of the documentation, and disk images. We will continue to explore the archives and may update this release if more is discovered.  Thank you to Ray Ozzie, Starfrost, Jeff Sponaugle, Larry Osterman, our friends at the IBM OSPO, as well as the makers of such digital archeology software including, but not limited to Greaseweazle, Fluxengine, Aaru Data Preservation Suite, and the HxC Floppy Emulator. Above all, thank you to the original authors of this code, some of whom still work at Microsoft and IBM today! If you'd like to run this software yourself and explore, we have successfully run it directly on an original IBM PC XT, a newer Pentium, and within the open source PCem and 86box emulators.  © 2021 Scott Hanselman. All rights reserved.",
+    "author": "Scott Hanselman",
+    "published": "Thu, 25 Apr 2024 16:46:13 GMT",
+    "image": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/Open-Sourcing-DOS-4_E712/clip_image002_5b6e1c02-95d8-4ee1-87af-ca53a8b0bd56.png",
+    "source": "http://feeds.hanselman.com/ScottHanselman",
+    "categories": [
+      "Open Source"
+    ]
+  },
+  {
+    "id": "84e06624-5ed7-47b5-9087-0cc7b5a31916",
+    "title": "Mac vs Windows for Programming",
+    "link": "https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html",
+    "description": "The programming world is quite thrilling and daily there are many new software’s to exploit computer resources. When it comes to choosing the right operating system for your programming needs, MacOS \u0026 Windows are two operating systems that have their benefits and drawbacks. However, depending on what type of developer you are, one can be … Mac vs Windows for Programming Read More » The post Mac vs Windows for Programming appeared first on The Crazy Programmer.",
+    "author": "Zainab Sutarwala",
+    "published": "Mon, 06 Nov 2023 11:30:46 +0000",
+    "image": "http://thecrazyprogrammer.com/wp-content/uploads/2023/11/Mac-vs-Windows-for-Programming.png",
+    "source": "https://www.thecrazyprogrammer.com/category/programming/feed",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": "b07e4290-4f93-4bf8-a304-b809e7d9c4f9",
+    "title": "10 Best Laptops for Coding and Programming in India 2024",
+    "link": "https://www.thecrazyprogrammer.com/2023/08/best-laptop-for-programming.html",
+    "description": "This article will guide you to choose the best laptop for coding and programming and some of my top laptop picks for developers and students in India. I have also given the best picks based on prices under 1 Lakh, 70000, 60000, 50000, 40000, etc. As a programmer or developer, it becomes really confusing to … 10 Best Laptops for Coding and Programming in India 2024 Read More » The post 10 Best Laptops for Coding and Programming in India 2024 appeared first on The Crazy Programmer.",
+    "author": "Neeraj Mishra",
+    "published": "Sun, 20 Aug 2023 15:38:06 +0000",
+    "image": "http://thecrazyprogrammer.com/wp-content/uploads/2016/12/How-to-Choose-Best-Laptop-for-Programming-in-2017.jpeg",
+    "source": "https://www.thecrazyprogrammer.com/category/programming/feed",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": "6a72da58-0f75-4c35-9e02-7c7ebd0a6a55",
+    "title": "Generating infinite, age-appropriate Cat Crimes puzzles",
+    "link": "https://robertheaton.com/cat-crimes/",
+    "description": "A few weeks ago my 5-year-old and I tried playing Cat Crimes, a puzzle game in which you work out which of your cats ate your shoes. We had a wonderful time - for about 20 minutes. In each round of Cat Crimes you get a puzzle card with a list of clues on it. You have to use the clues to figure out where in your front room each of your 6 cats were sitting. This tells you which one of them was responsible for your ruined stilettos. The game comes with 40 puzzle cards, ranging from the very easy to the mind-crushingly difficult. However, the problem is that “very easy” to “mind-crushingly difficult” is a lot of ground to cover in 40 puzzles, and by the fifth puzzle the clues had become too abstract and difficult for my little man. In the first few puzzles each new clue allowed us to immediately place a new cat and then forget about it. For example, a clue might have told us that Mr. Mittens was sitting opposite Pip Squeak. We already knew where Pip Squeak was sitting, so we could work out exactly where Mr. Mittens was sitting too. This is the perfect level of complexity for a small child and his aging father at 6am. However, as the puzzles get harder the clues stopped neatly resolving like this. They still narrowed down the possible pussy permutations, but they didn’t necessarily allow us to definitively place a new cat straightway. For example, a clue might have told us that Mr Mittens was sitting next to Pip Squeak. We know that Mr Mittens must have been on either Pip Squeak’s left or right, but we couldn’t say for sure which until we’d processed more clues. We might later learn that Duchess was sitting to Pip Squeak’s left, which in turn would tell us that Mr. Mittens must be sitting to her right. To follow this extended chain of logic you need to hold multiple simultaneous superpositions in your head. This is fun and challenging and good puzzle design, but my kid hasn’t done superpositions at school yet so he didn’t get it. I tried drawing some pictures for him, but they made no sense even to me. We got angry with each other and eventually gave up on the game altogether. But we’d really had a great time with those first few puzzles, so that evening I wrote us a computer program that generated an infinite number of new beginner level Cat Crimes challenges. I ran it 20 times and printed out the challenges and their solutions. The next day we continued happily solving age-appropriate cat mysteries together. Downloads You can download: A PDF of 20 more beginner-level challenges The code for my challenge generator. You can use it to generate more challenges, or add new clue types, or update the rules used to select new challenges The program works by generating random challenges until it finds one that has a single unique solution and meets certain constraints. The constraints ensure that the challenges are easy but not too easy. For example, a maximum of 3 cats can be asleep (meaning that they are out of the round), and a maximum of 2 clues are allowed to tell you a cat’s exact position. In order to play the puzzles you’ll need to buy the Cat Crimes game. Good luck, and let me know how you get on! ChatGPT mode At first I tried asking ChatGPT to generate puzzles for me. My puzzles are guaranteed to be solvable and probably about the right difficulty, but since they’re randomly generated their solutions don’t generally have much of a careful narrative behind them. I thought that ChatGPT might be able to do better. “Absolutely!” it said when I asked it, but it kept giving me back puzzles that had either several different solutions or no solutions at all. No dice! To fix this I added a ChatGPT mode to my tool. In this mode the tool gives you a prompt to paste into ChatGPT. The prompt asks ChatGPT it to give you a Cat Crimes puzzle formatted in a specific way. You paste ChatGPT’s output back into the tool, and the tool checks whether the puzzle is valid. If it is then the tool converts the puzzle into printable card; if it’s not then it prints an error message for you to give to ChatGPT to help it fix the problem. You continue this debugging loop until you have a valid (and hopefully more fun) puzzle. Disclaimer I’m not associated with Cat Crimes in any way; this is a completely unofficial fan project. Cat Crimes is owned and published by Thinkfun Inc. Go and buy it from them!",
+    "author": "",
+    "published": "Mon, 02 Sep 2024 00:00:00 +0000",
+    "image": "/images/cc-cards.jpg",
+    "source": "https://robertheaton.com/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "1f30ca9b-68e6-4063-90fa-08cc7c253843",
+    "title": "PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights",
+    "link": "https://robertheaton.com/pyskywifi/",
+    "description": "The plane reached 10,000ft. I took out my laptop, planning to peruse the internet and maybe do a little work if I got really desperate. I connected to the in-flight wi-fi and opened my browser. The network login page demanded credit card details. I fumbled for my card, which I eventually discovered had hidden itself inside my passport. As I searched I noticed that the login page was encouraging me to sign in to my airmiles account, free of charge, even though I hadn’t paid for anything yet. A hole in the firewall, I thought. It’s a long way from London to San Francisco so I decided to peer through it. I logged in to my JetStreamers Diamond Altitude account and started clicking. I went to my profile page, where I saw an edit button. It looked like a normal button: drop shadow, rounded corners, nothing special. I was supposed to use it to update my name, address, and so on. But suddenly I realised that this was no ordinary button. This clickable rascal would allow me to access the entire internet through my airmiles account. This would be slow. It would be unbelievably stupid. But it would work. Several co-workers were asking me to review their PRs because my feedback was “two weeks late” and “blocking a critical deployment.” But my ideas are important too so I put on my headphones and smashed on some focus tunes. I’d forgotten to charge my headphones so Limp Bizkit started playing out of my laptop speakers. Fortunately no one else on the plane seemed to mind so we all rocked out together. Before I could access the entire internet through my airmiles account I’d need to write a few prototypes. At first I thought that I’d write them using Go, but then I realised that if I used Python then I could call the final tool PySkyWiFi. Obviously I did that instead. Prototype 1: Instant Messaging Here’s the basic idea: suppose that I logged into my airmiles account and updated my name. If you were also logged in to my account then you could read my new name, from the ground. You could update it again, and I could read your new value. If we kept doing this then the name field of my airmiles account could serve as a tunnel through the airplane’s wi-fi firewall to the real world. This tunnel could support a simple instant messaging protocol. I could update my name to “Hello how are you.” You could read my message and then send me a reply by updating my name again to “Im fine how are you.” I could read that, and we could have a stilted conversation. This might not sound like much, but it would be the first step on the road to full internet access. I paid for the internet on my old laptop. I hadn’t finished migrating my data off this computer, so it still had to come everywhere with me. I messaged my wife to ask her to help me with my experiments. no, what are you talking about, i'm busy she replied, lovingly. So instead I took out my new laptop, which still had no internet access. I created a test airmiles account and logged into it on both computers. I found that I could indeed chat with myself by updating the name field in the UI. sequenceDiagram participant Computer1 participant AirmilesAccount as Airmiles AccountName Field participant Computer2 Computer1-\u003e\u003eAirmilesAccount: TYPE: Hello how are you AirmilesAccount-\u003e\u003eComputer2: READ: Hello how are you Computer2-\u003e\u003eAirmilesAccount: TYPE: Im fine how are you AirmilesAccount-\u003e\u003eComputer1: READ: Im fine how are you This was a lousy user experience though. So I wrote a command line tool to automate it. My tool asked the user for a message, and then behind the scenes it logged into my airmiles account via the website, using my credentials. The tool updated the name field of my test account with the user’s message. It then polled the name field every few seconds to see if my account’s name had changed again, which would indicate that the other person had sent a message back. Once the tool detected a new value it printed that value and asked the user for their next reply, and so on. sequenceDiagram actor Me participant AirmilesAccount as Airmiles AccountName Field actor You You-\u003e\u003eAirmilesAccount: (poll for new data) AirmilesAccount--\u003e\u003eYou: (no new data) Me-\u003e\u003eAirmilesAccount: WRITE: Hello how are you You-\u003e\u003eAirmilesAccount: (poll for new data) AirmilesAccount-\u003e\u003eYou: READ: Hello how are you Me-\u003e\u003eAirmilesAccount: (poll for new data) AirmilesAccount--\u003e\u003eMe: (no new data) You-\u003e\u003eAirmilesAccount: WRITE: Im fine how are you Me-\u003e\u003eAirmilesAccount: (poll for new data) AirmilesAccount-\u003e\u003eMe: READ: Im fine how are you Using this tool I could chat with someone on the ground, via my terminal. I wouldn’t have to pay for wifi, and neither of us would have to know or care that the messages were being sent via my SkyVenture Premium Gold Rewards account. I still needed to find someone who would chat with me. But this was a good start! NB: at this point I didn’t want to send any more automated data through my airmiles account in case that got me in trouble somehow. Nothing I was doing could possibly cause any damage, but some companies get jumpy about this kind of thing. I therefore proved to myself that PySkyWiFi would work on my airmiles accounts too by updating my name ten or so times in quick succession. They all succeeded, which suggested to me that my airmiles account probably wasn’t rate-limiting the speed or number of requests I could send to it. I then wrote the rest of my code by sending my data through friendly services like GitHub Gists and local files on my computer, using the same principles as if I were sending it through an airmiles account. If PySkyWiFi worked through GitHub then it would work through my Star Power UltimateBlastOff account too. This had the secondary advantage of being much faster and easier for iteration too. I’m going to keep talking about sending data through an airmiles account, because that’s the point I’m trying to make. Prototype 2: Live headlines, stock prices, and football scores The tunnel I’d constructed through my airmiles account would be useful for more than IMing. For my next prototype I wrote a program that would run on a computer back at my house or in the cloud, and would automatically send information from the real world up to me on the plane, through my airmiles account. I could deploy it before I left for my next flight and have it send me the latest stock prices or football scores while I was in the sky. To do this I wrote a daemon that would run on a computer that was on the ground and connected to the internet. The daemon constantly polled the name field in my airmiles account, looking for structured messages that I sent to it from the plane (such as STOCKPRICE: APPL or SCORE: MANUNITED). When the daemon saw a new request it parsed it, retrieved the requested information using the relevant API, and sent it back to me via my airmiles account. It worked perfectly. Now I could use my first prototype to send IMs through my airmiles account, and I could use my second prototype tio follow the markets and the sports. It was time to squeeze the entire internet through my airmiles account. The real thing: PySkyWiFi During the rest of the flight I wrote PySkyWiFi. PySkyWiFi is a highly simplified version of the TCP/IP protocol that squeezes whole HTTP requests through an airmiles account, out of the plane, and down to a computer connected to the internet on the ground. A daemon running on this ground computer makes the HTTP requests for me, and then finally squeezes the completed HTTP responses back through my airmiles account, up to me on my plane. This meant that on my next flight I could technically have full access to the internet, via my airmiles account. Depending on network conditions on the plane I might be able to hit speeds of several bytes per second. DISCLAIMER: you obviously shouldn’t actually do any of this Here’s how it works (and here’s the source code). How PySkyWiFi works PySkyWiFi has two components: The sky proxy - a proxy that runs on your laptop, on a plane The ground daemon - a daemon that runs on a computer connected to the internet, at your home on the ground or in the cloud Here’s a simplified diagram: sequenceDiagram actor Me participant SkyProxy as Sky Proxy participant AirmilesAccount1 as Airmiles Account participant GroundDaemon as Ground Daemon participant Website as example.com Me-\u003e\u003eSkyProxy: HTTP request SkyProxy-\u003e\u003eAirmilesAccount1: HTTP request AirmilesAccount1-\u003e\u003eGroundDaemon: HTTP request GroundDaemon-\u003e\u003eWebsite: HTTP request Website-\u003e\u003eGroundDaemon: HTTP response GroundDaemon-\u003e\u003eAirmilesAccount1: HTTP response AirmilesAccount1-\u003e\u003eSkyProxy: HTTP response SkyProxy-\u003e\u003eMe: HTTP response Setup starts before you leave your house. First you start up the ground daemon. Then you get a taxi to the airport, get on the plane, and connect to the plane’s wi-fi network. You boot up the sky proxy on your laptop. Your PySkyWiFi relay is now ready to go. You use a tool like curl to make an HTTP request to the sky proxy that you’ve started on your laptop. You address your request to the proxy (eg. localhost:1234/) and you put the actual URL that you want to query inside a custom HTTP header called X-PySkyWiFi. For example: curl localhost:1234 -H \"X-PySkyWiFi: example.com\"` The X-PySkyWiFi header will be stripped by the ground daemon and used to route your request to your target website. Everything else about the request (including the body and other headers) will be forwarded exactly as-is. Once you make your request it will hang for several minutes. If by some miracle nothing breaks then you’ll eventually get back an HTTP response, exactly as if you’d sent the request over the normal internet like a normal person. The only difference is that it didn’t cost you anything. You will now almost certainly pay for wi-fi, because your curiosity has been satisfied and your time on this earth is very short. Step-by-step Here’s what happens behind the scenes: sequenceDiagram actor Me participant SkyProxy as Sky Proxy participant AirmilesAccount1 as Airmiles Account 1Name Field participant AirmilesAccount2 as Airmiles Account 2Name Field participant GroundDaemon as Ground Daemon participant Website as example.com Me-\u003e\u003eSkyProxy: curl localhost:1234 \\n -H \"X-PySkYWiFi: example.com\" SkyProxy-\u003e\u003eAirmilesAccount1: Write request chunk 1 GroundDaemon--\u003e\u003eAirmilesAccount1: (poll for new data) AirmilesAccount1-\u003e\u003eGroundDaemon: Read request chunk 1 GroundDaemon-\u003e\u003eAirmilesAccount2: Ack request chunk 1 SkyProxy--\u003e\u003eAirmilesAccount2: (poll for new data) AirmilesAccount2-\u003e\u003eSkyProxy: Read ack for request chunk 1 SkyProxy-\u003e\u003eAirmilesAccount1: Write request chunk 2 GroundDaemon--\u003e\u003eAirmilesAccount1: (poll for new data) AirmilesAccount1-\u003e\u003eGroundDaemon: Read request chunk 2 Note over SkyProxy,GroundDaemon: Repeat until the whole HTTP request has been transferred GroundDaemon-\u003e\u003eWebsite: GET / HTTP/1.1Host: example.com Website-\u003e\u003eGroundDaemon: HTTP/1.1 200 OKContent-Type: text/html GroundDaemon-\u003e\u003eAirmilesAccount2: Write response chunk 1 SkyProxy--\u003e\u003eAirmilesAccount2: (poll for new data) AirmilesAccount2-\u003e\u003eSkyProxy: Read response chunk 1 SkyProxy-\u003e\u003eAirmilesAccount1: Ack request chunk 1 GroundDaemon--\u003e\u003eAirmilesAccount1: (poll for new data) AirmilesAccount1-\u003e\u003eGroundDaemon: Read ack for request chunk 1 GroundDaemon-\u003e\u003eAirmilesAccount2: Write response chunk 2 SkyProxy--\u003e\u003eAirmilesAccount2: (poll for new data) AirmilesAccount2-\u003e\u003eSkyProxy: Read response chunk 2 Note over GroundDaemon,SkyProxy: Repeat until the whole HTTP response has been transferred SkyProxy-\u003e\u003eMe: HTTP/1.1 200 OKContent-Type: text/html In order: The sky proxy receives the HTTP request from your curl call. It splits the request into chunks, because the entire request is too large to fit into you airmiles account in one go The sky proxy writes each chunk one-by-one to the name field in your airmiles account. The ground daemon polls your airmiles account. When it detects that the name field has changed to a new chunk, it reads that chunk and sends an acknowledgement to the sender so that the sender knows it’s safe to send the next chunk. The receiver sticks the chunks back together and rebuilds the original HTTP request Once the ground daemon has received and rebuilt the full HTTP request, it sends the request out over the internet. The ground daemon receives an HTTP response. The ground daemon sends the HTTP response up to the sky proxy using the same process as before, in reverse. This time the ground daemon splits the HTTP response up into chunks and writes each chunk one-by-one to the name field in your airmiles account (it actually writes these response chunks using a second airmiles account to make the protocol simpler) The sky proxy polls the second airmiles account. It reads each chunk and sticks them back together to rebuild the HTTP response The sky proxy returns the HTTP response to the original call to curl. As far as curl is concerned this is a perfectly normal HTTP response, just a little slow. curl has no idea about the silliness that just transpired The sky proxy and the ground daemon are relatively simple: they send HTTP requests and parse HTTP responses. The magic is in how they squeeze these requests and responses through an airmiles account. Let’s look closer. Squeezing HTTP requests through an airmiles account PySkyWiFi’s communication logic is split into two layers: a transport layer, and a network layer. The transport layer’s job is to decide what data clients should send to each other. It dictates how senders should split up long messages into manageable chunks, as well as how senders and receivers should signal information like “I am ready to receive another chunk.” The PySkyWiFi transport layer is somewhat similar to the TCP protocol that powers much of the internet, if you squint very hard and don’t know much about TCP. By contrast, the network layer’s job is to actually send data between clients, once the transport protocol has decided what that data should be. It’s vaguely similar to the IP protocol, if you squint even harder and know even less what you’re talking about. This division of responsibility between layers is useful because the transport layer doesn’t have to care about how the network layer sends its data, and the network layer doesn’t care what the data it sends means or where it came from. The transport layer just hands the network layer some data, and the network layer sends it however it likes. This separation makes it easy to add support for new airmiles platforms, because all we have to do is implement a new network layer that reads and writes to the new type of airmiles account. This separation also allows us to write test versions of the network protocol that write and read from local files instead of airmiles accounts. In each case the network layer changes, but the transport layer stays exactly the same. Here’s how they work. The transport layer A PySkyWiFi transport connection between two clients consists of two “pipes” (or “airmiles accounts”). Each client has a “SEND” pipe that it can write data to, and a “RECV” pipe that it can read from. Clients write to their SEND pipe by writing data to it, and they read from their RECV pipe by constantly polling it and seeing if anything has changed. flowchart LR Client1 --\u003e Client2 Client2 --\u003e Client1 From the transport layer’s point of view, a pipe is just something that it can write and read data from. Beyond that the transport layer doesn’t care how its pipes work. At any given moment a PSWF (PySkYWiFi) client can only either send or receive data, but not both. A client in send mode will not see data sent by the other client, and a client in receive mode should never send data because the other client won’t see it. This is unlike TCP, where clients can send or receive data at ay time. When squeezing HTTP requests and responses through an airmiles account, the sky proxy sends the first message and the ground daemon receives it. Once the sky proxy has finished sending its HTTP request it switches to receive mode and the ground daemon switches to send. The ground daemon makes the HTTP request and sends back the response, at which point the two switch roles again so that the sky proxy can send another HTTP request. How are long messages sent through such a small pipe? PSWF uses small pipes (such as an airmiles name field) that can’t fit much data in them at once. This means that it takes some work and care to squeeze long messages (like HTTP requests) through them. To send a long message, the sender first splits up their message into chunks that will fit into their SEND pipe. They then send each chunk down the pipe one at a time. To begin a message, a sender starts by sending its first chunk of message data inside a DATA segment: A DATA segment consists of: The letter D The sequence number of the chunk (a number that uniquely identifies the chunk, padded to 6 digits) The actual chunk of data. For example, a data segment in the middle of a message might read: D000451adline\": \"Mudslide in Wigan causes m Once the sender has sent a DATA segment, it pauses. It wants to send its next DATA segment, but it can’t overwrite the airmiles account name field until it knows that the receiver has received and processed the previous one. The receiver tells the sender that it’s safe for to send a new DATA segment by acknowledging every segment that it reads. The receiver does this by writing an ACK segment to its own SEND pipe: An ACK segment consists of: The letter A The sequence number of the segment that is being acknowledged (padded to 6 digits) For example: A000451 The sender is constantly polling its own RCV pipe to check for changes, and so it reads this new ACK segment promptly. Once the sender reads the ACK, it knows that the receiver has received the segment corresponding to the ACK’s sequence number. For example, if a sender receives an ACK segment with sequence number 000451, the sender knows that it’s safe to send the next DATA segment with sequence number 000452. The sender therefore pulls the next chunk from its message and constructs a new DATA segment using this chunk and sequence number. The sender writes the new segment to its SEND pipe, and then pauses waits for another ACK. This loop continues until the sender has sent all the data in its message. To tell the recipient that it’s finished, the sender sends an END segment. An END segment is just the letter E. When a receiver sees an END segment it knows that the sender’s message is over. The sender and the receiver swap roles. The old sender starts polling its RECV pipe for DATA segments, and the old receiver starts chunking up its response message and sending it through its pipe, exactly as before. None of this transport logic cares about the details of the network layer through which the segments are sent. The transport layer just needs the network layer to provide two pipes that it can read and write to. The network layer can pipe this data around via local files, a Discord profile, or an airmiles account. This genericness is what allows PySkyWiFi to work with any airline’s airmiles account, so long as the airline allows you to login to it from the plane without paying. Here’s how PSWF uses transport protocol segments to exchange long messages: sequenceDiagram actor Me participant SkyProxy as Sky Proxy participant AirmilesAccount1 as Airmiles Account 1Name Field participant AirmilesAccount2 as Airmiles Account 2Name Field participant GroundDaemon as Ground Daemon participant Website as robertheaton.com Me-\u003e\u003eSkyProxy: curl localhost:1234 \\n -H \"X-PySkYWiFi: robertheaton.com\" SkyProxy-\u003e\u003eAirmilesAccount1: Write DATA segmentsequence number=000000:contents=`GET / HTTP/1.1 X-PySkyW` GroundDaemon--\u003e\u003eAirmilesAccount1: (poll for new data) AirmilesAccount1-\u003e\u003eGroundDaemon: Read DATA segmentsequence number=000000:contents=`GET / HTTP/1.1 X-PySkyW` GroundDaemon-\u003e\u003eAirmilesAccount2: Write ACK segmentsequence number=000000 SkyProxy--\u003e\u003eAirmilesAccount2: (poll for new data) AirmilesAccount2-\u003e\u003eSkyProxy: Read ACK segmentsequence number=000000 SkyProxy-\u003e\u003eAirmilesAccount1: Write DATA segmentsequence number=000001contents=`iFi: www.robertheaton.co` GroundDaemon--\u003e\u003eAirmilesAccount1: (poll for new data) AirmilesAccount1-\u003e\u003eGroundDaemon: Read DATA segmentsequence number=000001contents=`iFi: www.robertheaton.co` Note over SkyProxy,GroundDaemon: Repeat until the whole HTTP request has been transferred GroundDaemon-\u003e\u003eWebsite: GET / HTTP/1.1Host: robertheaton.com Website-\u003e\u003eGroundDaemon: HTTP/1.1 200 OKContent-Type: text/html, charset=UTF-8 GroundDaemon-\u003e\u003eAirmilesAccount2: Write DATA segmentsequence number=000000contents=HTTP/1.1 200 OK\\nCont SkyProxy--\u003e\u003eAirmilesAccount2: (poll for new data) AirmilesAccount2-\u003e\u003eSkyProxy: Read DATA segmentsequence number=000000contents=HTTP/1.1 200 OK\\nCont SkyProxy-\u003e\u003eAirmilesAccount1: Write ACK segmentsequence number=000000 GroundDaemon--\u003e\u003eAirmilesAccount1: (poll for new data) AirmilesAccount1-\u003e\u003eGroundDaemon: Read ACK segmentsequence number=000000 Note over GroundDaemon,SkyProxy: Repeat until the whole HTTP response has been transferred SkyProxy-\u003e\u003eMe: HTTP/1.1 200 OKContent-Type: text/html, charset=UTF-8 The transport layer decides what data the clients should send each other, but it doesn’t say anything about how they should send it. That’s where the network protocol comes in. The network layer The network layer’s job is to send data between clients. It doesn’t care about where the data came from or what it means; it just receives some data from the transport layer and sends it to the other client (typically via an airmiles account). This means that the network layer is quite simple. It also means that adding a new network layer for a new airmiles platform is straightforward. You use the new platform to implement a few operations and a few properties (see below), and then the transport layer can automatically to use your new airmiles platform with no extra work. A network layer consists of two operations: send(msg: str) - write msg to storage. For an airmiles-based implementation, this writes the value of msg to the name field in the user’s airmiles account recv() -\u003e str - read the message from storage. For an airmiles-based implementation, this reads the value of the name field from the user’s airmiles account. A network layer implementation must also define two properties: sleep_for - the number of seconds that the transport layer should sleep for in between polling for new segments from a RECV pipe. sleep_for can be very low for test implementations like files, but it should be at least several seconds for an implementation like an airmiles account. This is in order to avoid hammering remote server with too many requests. segment_data_size - the number of characters that the transport layer should send in a single segment. Should be equal to the maximum size of the airmiles account field being used to transfer segments (often around 20 characters). A network layer implementation can also optionally provide two more operations: connect_send() - a hook called by the sender when a SEND pipe is initialised. In an airmiles-based implementation this allows the client to login to the platform using a username and password. This gives the client a cookie that it can use to authenticate future send and recv calls. connect_recv() - a hook called by the receiver when a RECV pipe is initialised If you fill in all these methods, you’ll be able to use PySkyWiFi on a new airline. But again, don’t. Tips and tricks When writing a network layer that uses a new airmiles provider, there are a couple of tricks that can make your implementation faster and more reliable. 1. Encode messages to make sure the airmiles account accepts them Airmiles HTML forms usually don’t let users include non-alphabetic characters in their name. Stephen will probably be allowed, but GET /data?id=5 will probably be rejected. To work around this, the network layer should encode segments using base26 before writing them to an airmiles account. base26 is a way of representing a string using only the letters A to Z . In order to convert a byte string to base26, you convert the bytes to a single large number, then you represent that number using a counting system with base 26 (hence the name) where the digits are the letters A to Z. def b26_encode(input_string: str) -\u003e int: # Convert input string to a base-256 integer base256_int = 0 for char in input_string: base256_int = base256_int * 256 + ord(char) # Convert base-256 integer to base26 string if base256_int == 0: return 'A' # Special case for empty input or input that equals zero base26_str = \"\" while base256_int \u003e 0: base26_str = chr(base256_int % 26 + 65) + base26_str base256_int //= 26 return base26_str b26_encode(\"Hello world\") # =\u003e 'CZEZINADXFFTZEIDPKM' The transport layer never needs to know about this encoding. The network layer receives some bytes, encodes them using base26, and writes this encoded string of A to Z to the airmiles account. When the network layer reads the base26 value back out of the airmiles account, it decodes the encoded string back into a number and then back into bytes, and then returns those bytes to the transport layer. Encoding a string using base 26 makes it significantly longer, just like how it takes many more digits to represent a number using binary than decimal. This reduces the bandwidth of our protocol. We could increase our bandwidth by using base52 (using both upper- and lower-case letters) instead of base26, which would shorten it somewhat. This is left as an enhancement for version 2. 2. Increase bandwidth by using more account fields Another way to increase our PSWF bandwidth is to increase the segment size that a network layer can handle. If we double the size of our segments, we double the bandwidth of our protocol. Fields in airmiles accounts usually have length limits. For example, you might not be allowed to set a name longer than 20 characters. However, we can maximise our bandwidth by: Using the full length of the field Spreading out a segment across multiple fields Suppose we have control over 5 fields that can each store 20 characters. Instead of using one field to transmit segments of 20 characters, we can split a 100 character segment into 5 chunks of 20 and update them all at once in a single request. The receiver can then read all 5 fields, again in a single request, and stitch them back together to reconstruct the full segment. Further enhancements HTTP CONNECT It would be better if PySkyWiFi used HTTP CONNECT requests to set up the tunnel from the sky proxy to the target site, instead of manually tossing around HTTP requests. CONNECT requests are how most HTTP proxies work, and using them would allow PySkyWiFi to act as the system-level proxy and so handle requests from a web browser. It would also mean that PySkyWiFi would negotiate TLS connections with the target website directly, so its traffic would be encrypted as it passed through the airmiles account. On the other hand, using CONNECT would also be a lot more work and I’ve already taken this joke way too far. In conclusion When I was done with all of this I used PySkyWiFi to load the homepage of my blog using curl, tunneling the data via a GitHub Gist. Several minutes later I got a response back. I scrolled around the HTML and reflected that this had been both the most and least productive flight of my life. (PySkyWiFi source code here)",
+    "author": "",
+    "published": "Tue, 09 Jul 2024 00:00:00 +0000",
+    "image": "",
+    "source": "https://robertheaton.com/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "f46ec91d-9a9e-4ead-9960-c19f21c3352d",
+    "title": "Testimony before the North Dakota Senate Industry, Business and Labor Committee",
+    "link": "https://signalvnoise.com/svn3/testimony-before-the-north-dakota-senate-industry-business-and-labor-committee/",
+    "description": "Chairman Klein and members of the Senate Industry, Business and Labor Committee- My name is David Heinemeier Hansson, and I’m the CTO and co-founder of Basecamp, a small internet company from Chicago that sells project-management software and email services. I first testified on the topic of big tech monopolies at the House Antitrust Subcommittee’s field… keep reading",
+    "author": "DHH",
+    "published": "Tue, 09 Feb 2021 18:04:30 +0000",
+    "image": "",
+    "source": "https://signalvnoise.com/posts.rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "f69e7172-af4d-422c-8593-398ca5a1cffe",
+    "title": "Reiterating our Use Restrictions Policy",
+    "link": "https://signalvnoise.com/svn3/reiterating-our-use-restrictions-policy/",
+    "description": "The attack on the US Capitol, and subsequent threats of violence surrounding the inauguration of the new US administration, has moved us to reflect and reacquaint ourselves with the reality that however good the maker’s intentions, technology can amplify the ability to cause great harm. This includes us and our products at Basecamp. Therefore, we… keep reading",
+    "author": "Jason Fried",
+    "published": "Mon, 18 Jan 2021 17:11:00 +0000",
+    "image": "",
+    "source": "https://signalvnoise.com/posts.rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "5454acca-da1b-48ca-8329-67695e5b00fb",
+    "title": "We’re All Just Looking for Connection",
+    "link": "https://slack.engineering/were-all-just-looking-for-connection/",
+    "description": "We’ve been working to bring components of Quip’s technology into Slack with the canvas feature, while also maintaining the stand-alone Quip product. Quip’s backend, which powers both Quip and canvas, is written in Python. This is the story of a tricky bug we encountered last July and the lessons we learned along the way about […] The post We’re All Just Looking for Connection appeared first on Slack Engineering.",
+    "author": "Brett Wines",
+    "published": "Thu, 10 Oct 2024 21:39:15 +0000",
+    "image": "https://slack.engineering/wp-content/uploads/sites/7/2024/10/Image.jpg?w=640",
+    "source": "https://slack.engineering/feed",
+    "categories": [
+      "Uncategorized",
+      "database",
+      "infrastructure",
+      "networking",
+      "python"
+    ]
+  },
+  {
+    "id": "766b3112-4a12-45a0-aaf8-e8003a52b87c",
+    "title": "Driving a Project: Intern Edition",
+    "link": "https://slack.engineering/driving-a-project-intern-edition/",
+    "description": "After a lot of hard work, you’ve landed that coveted internship. Now comes the next big challenge: delivering a meaningful project over the summer. Leading a project independently is an opportunity to sharpen your skills, demonstrate your capabilities, and experience personal growth. As you drive the project on your own, the support from your mentor […] The post Driving a Project: Intern Edition appeared first on Slack Engineering.",
+    "author": "Dylan Steen",
+    "published": "Mon, 23 Sep 2024 07:00:03 +0000",
+    "image": "https://slack.engineering/wp-content/uploads/sites/7/2024/09/sravya.jpeg?w=640",
+    "source": "https://slack.engineering/feed",
+    "categories": [
+      "Uncategorized",
+      "internships"
+    ]
+  },
+  {
+    "id": "dde77e74-f14a-4553-9788-6c6401e23f5a",
+    "title": "SE Radio 637: Steve Smith on Software Quality",
+    "link": "http://se-radio.net/se-radio-637-steve-smith-on-software-quality",
+    "description": "Steve Smith, founder and principal architect at Nimble Pros, joins host Jeff Doolittle for a conversation about software quality. The episode begins with a discussion of why software quality matters for businesses, customers, and developers. Steve explains some patterns and practices that help teams design for quality. They discuss in detail the practices of testing and quality assurance, and the conversation wraps up with suggestions for fostering a culture of quality in teams and organizations. Brought to you by IEEE Computer Society and IEEE Software magazine.",
+    "author": "SE-Radio Team",
+    "published": "Thu, 10 Oct 2024 21:33:00 +0000",
+    "image": "https://traffic.libsyn.com/secure/seradio/637-steve-smith-software-quality.mp3?dest-id=23379",
+    "source": "http://feeds.feedburner.com/se-radio",
+    "categories": [
+      "design",
+      "quality",
+      "code",
+      "lean",
+      "testing",
+      "tests",
+      "refactoring",
+      "encapsulation",
+      "information hiding"
+    ]
+  },
+  {
+    "id": "6eaad7ac-fe57-4567-a5b8-a1a72509360a",
+    "title": "SE Radio 636: Sriram Panyam on SaaS Control Planes",
+    "link": "http://se-radio.net/se-radio-636-sriram-panyam-on-saas-control-planes",
+    "description": "Sriram Panyam, CTO at DagKnows, discusses SaaS Control Planes with SE Radio host Brijesh Ammanath. The discussion starts off with the basics, examining what control planes are and why they're important. Sriram then discusses reasons for building a control plane and the challenges in designing one. They explore design and architectural considerations when building a SaaS control plane, as well as the key differences between a control plane and a data plane. This episode is sponsored by QA Wolf.",
+    "author": "SE-Radio Team",
+    "published": "Wed, 02 Oct 2024 07:36:00 +0000",
+    "image": "https://traffic.libsyn.com/secure/seradio/636-sriram-panyam-saas-control-planes.mp3?dest-id=23379",
+    "source": "http://feeds.feedburner.com/se-radio",
+    "categories": [
+      "Architecture",
+      "saas",
+      "distributed systems",
+      "control plane"
+    ]
+  },
+  {
+    "id": "19f5cac6-3abc-4a0d-9d0d-71e1dd4663c6",
+    "title": "Are You a Dalia? How We Created Data Science Personas for Spotify’s Analytics Platform",
+    "link": "https://engineering.atspotify.com/2024/09/are-you-a-dalia-how-we-created-data-science-personas-for-spotifys-analytics-platform/",
+    "description": "On Spotify’s Analytics Platform, we’re dedicated to building products that empower data practitioners to discover, analyze, and share insights — [...] The post Are You a Dalia? How We Created Data Science Personas for Spotify’s Analytics Platform appeared first on Spotify Engineering.",
+    "author": "Spotify Engineering",
+    "published": "Thu, 05 Sep 2024 19:15:45 +0000",
+    "image": "",
+    "source": "https://labs.spotify.com/feed/",
+    "categories": [
+      "Data",
+      "Data Science",
+      "People",
+      "Platform",
+      "engineering culture"
+    ]
+  },
+  {
+    "id": "118fa8bd-42c7-4e3e-9496-cb24f2b28e62",
+    "title": "Unlocking Insights with High-Quality Dashboards at Scale",
+    "link": "https://engineering.atspotify.com/2024/08/unlocking-insights-with-high-quality-dashboards-at-scale/",
+    "description": "We have a lot of dashboards at Spotify. Our Insight teams and analysts from across the company are constantly whipping [...] The post Unlocking Insights with High-Quality Dashboards at Scale appeared first on Spotify Engineering.",
+    "author": "Spotify Engineering",
+    "published": "Wed, 28 Aug 2024 19:29:39 +0000",
+    "image": "",
+    "source": "https://labs.spotify.com/feed/",
+    "categories": [
+      "Data",
+      "Data Science",
+      "Design",
+      "Platform",
+      "engineering culture"
+    ]
+  },
+  {
+    "id": "32dbb8b7-ecf3-4754-a956-d04e836e2bb8",
+    "title": "Is this the real life? Training autonomous cars with simulations",
+    "link": "https://stackoverflow.blog/2024/10/11/is-this-the-real-life-training-autonomous-cars-with-simulations/",
+    "description": "Ben Popper interviews Vladislav Voroninski, CEO of Helm.ai, about unsupervised learning and the future of AI in autonomous driving. They discuss GenAI’s role in bridging the gap between simulation and reality, the challenges of scaling autonomous driving systems, the commercial potential of partial autonomy, and why software is emerging as a key differentiator in vehicle sales. Vlad spotlights the value of multimodal foundation models and how compute shortages affect AI startups.",
+    "author": "Eira May",
+    "published": "Fri, 11 Oct 2024 07:40:00 GMT",
+    "image": "",
+    "source": "https://stackoverflow.blog/feed/",
+    "categories": [
+      "se-tech",
+      "se-stackoverflow",
+      "podcast",
+      "ai",
+      "self-driving-cars"
+    ]
+  },
+  {
+    "id": "8d176c34-b643-4abd-b414-e28e8287cc5b",
+    "title": "Rust is evolving from system-level language to UI and frontend development",
+    "link": "https://stackoverflow.blog/2024/10/08/think-you-don-t-need-observability-think-again/",
+    "description": "Ben and Ryan chat with Daniela Miao, cofounder and CTO of Momento, a real-time data platform. They discuss the advantages of real-time observability, the challenges of multi-tenancy in databases and caching, the use of WebAssembly in UI development, and the benefits of Rust. Daniela also shares her experiences working at AWS and a startup focused on observability, which led to the creation of Momento.",
+    "author": "Eira May",
+    "published": "Tue, 08 Oct 2024 07:40:00 GMT",
+    "image": "",
+    "source": "https://stackoverflow.blog/feed/",
+    "categories": [
+      "se-tech",
+      "se-stackoverflow",
+      "podcast",
+      "rust",
+      "observability"
+    ]
+  },
+  {
+    "id": "f6ce9208-1f44-48b3-ab64-f428644ab4f1",
+    "title": "Sandcastle: data/AI apps for everyone",
+    "link": "https://medium.com/airbnb-engineering/sandcastle-data-ai-apps-for-everyone-439f3b78b223?source=rss----53c7c27702d5---4",
+    "description": "",
+    "author": "Daniel Miller",
+    "published": "Tue, 24 Sep 2024 17:01:45 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*eGkAsMkZXIEKQGhLiQyCTw.jpeg",
+    "source": "https://medium.com/feed/airbnb-engineering",
+    "categories": [
+      "ai",
+      "data-science",
+      "technology",
+      "machine-learning",
+      "engineering"
+    ]
+  },
+  {
+    "id": "302fbb65-d15e-466d-8398-27bd9d9741d1",
+    "title": "Riverbed Data Hydration — Part 1",
+    "link": "https://medium.com/airbnb-engineering/riverbed-data-hydration-part-1-e7011d62d946?source=rss----53c7c27702d5---4",
+    "description": "",
+    "author": "Xiangmin Liang",
+    "published": "Tue, 10 Sep 2024 16:01:29 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*7kF7y_GLrhJyalhRpaHgTg.jpeg",
+    "source": "https://medium.com/feed/airbnb-engineering",
+    "categories": [
+      "data",
+      "infrastructure",
+      "data-science",
+      "engineering",
+      "architecture"
+    ]
+  },
+  {
+    "id": "5ab2f98b-4ee5-4abf-a929-e944b4f85d4c",
+    "title": "More Pro Apps for Non-Pros - WWDC Keynote Recap with Kathy Campbell",
+    "link": "https://share.transistor.fm/s/88e9d51b",
+    "description": "Follow Kathy Campbell@mrssoupCheck out the Productivity in Tech YouTube Channelhttps://www.youtube.com/c/kjaymillerFollow Jay@kjaymillerMore Episodes and Things at https://podcast.productivityintech.com.Want to Support the Show?While you can't support the show directly you can support all the things Jay is up to by sponsoring him on GitHub!https://github.com/sponsors/kjaymiller/",
+    "author": "Jay Miller",
+    "published": "Tue, 08 Jun 2021 16:55:08 -0700",
+    "image": "https://media.transistor.fm/88e9d51b/25d5dd7b.mp3",
+    "source": "https://feeds.transistor.fm/productivity-in-tech-podcast",
+    "categories": [
+      "Productivity",
+      " Technology"
+    ]
+  },
+  {
+    "id": "de2e04bb-fafb-4977-a66a-2e298cc56964",
+    "title": "The Queen of Apple Automation: Rosemary Orchard",
+    "link": "https://share.transistor.fm/s/f6991b0b",
+    "description": "Markers---00:00:00 - Rosemary Orchard00:04:54 - iOS Today00:06:50 - Nested Folders00:10:10 - Automator and Automating00:17:40 - Automating as a Developer00:31:38 - Closing00:34:24 - AftershowLinks iOS TodayNested FoldersAutomators.fmThe Podcast AnswermanBunches of Automation - AutomatorszapierIntegromatStreamDeckBunchFollow Rose- @Rosemaryorchard- WebsiteFollow Jayhttps://www.youtube.com/c/kjaymiller@kjaymillerMore Episodes and Things at https://podcast.productivityintech.com.Want to Support the Show?Support all the things Jay is up to by sponsoring him on GitHub!https://github.com/sponsors/kjaymiller/",
+    "author": "Jay Miller",
+    "published": "Tue, 01 Jun 2021 20:21:14 -0700",
+    "image": "https://media.transistor.fm/f6991b0b/03be8858.mp3",
+    "source": "https://feeds.transistor.fm/productivity-in-tech-podcast",
+    "categories": [
+      "Productivity",
+      " Technology"
+    ]
+  },
+  {
+    "id": "500847f4-3ca0-49a6-9b10-19a394d38121",
+    "title": "Episode 159 - JetBrains Space",
+    "link": "https://cynical.dev/159",
+    "description": "In this episode we talk about JetBrains Space, with Valerie Andrianova.   Contacting Valerie Andrianova Website: https://www.jetbrains.com/ Twitter: https://twitter.com/va_leriya LinkedIn: https://www.linkedin.com/in/valerie-andrianova-1172031a/ Blog: https://blog.jetbrains.com/author/valerie-andrianova/ Episode Editing by - RJJ Software Ltd (https://rjj-software.co.uk/ )",
+    "author": "",
+    "published": "Mon, 28 Jun 2021 07:00:00 +0000",
+    "image": "https://archive.org/download/CynicalDeveloper/episode-159.mp3",
+    "source": "https://cynicaldeveloper.com/feed/podcast",
+    "categories": null
+  },
+  {
+    "id": "fa6b1adc-c3c6-4a4b-860d-a9430ac15d0e",
+    "title": "Episode 158 - Code Reviews",
+    "link": "https://cynical.dev/158",
+    "description": "In this episode we talk about Code Reviews with Jordan Ambra   Contacting Jordan Ambra   Website: https://www.serenity.software Twitter: https://twitter.com/jordanambra LinkedIn: https://www.linkedin.com/in/jordanambra/   Episode Editing by - RJJ Software Ltd (https://rjj-software.co.uk/)",
+    "author": "",
+    "published": "Mon, 14 Jun 2021 07:00:00 +0000",
+    "image": "https://archive.org/download/CynicalDeveloper/episode-158.mp3",
+    "source": "https://cynicaldeveloper.com/feed/podcast",
+    "categories": null
+  },
+  {
+    "id": "df190517-714c-4e06-ad8c-9e3cbf25b013",
+    "title": "Is this the real life? Training autonomous cars with simulations",
+    "link": "https://stackoverflow.blog/podcast/",
+    "description": "Helm.ai licenses AI software throughout the L2-L4 autonomous driving stack, which includes perception, intent modeling, path planning, and vehicle control. They’re hiring!Connect with Vlad on LinkedIn.Stack Overflow user user3330840 won a Lifeboat badge for their answer to My commits appear as another user in GitHub?.",
+    "author": "Ben Popper, Vladislav Voroninski",
+    "published": "Fri, 11 Oct 2024 04:20:00 +0000",
+    "image": "https://chrt.fm/track/G8F1AF/pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/a2d36557-12bf-4fc5-9eb9-e81358394a90/audio/128/default.mp3?aid=rss_feed\u0026awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b\u0026awEpisodeId=a2d36557-12bf-4fc5-9eb9-e81358394a90\u0026feed=XA_851k3",
+    "source": "https://feeds.simplecast.com/XA_851k3",
+    "categories": [
+      "deep teaching",
+      " partial autonomy",
+      " helm.ai",
+      " computer vision",
+      " ai",
+      " unsupervised learning",
+      " simulation",
+      " self-driving cars",
+      " autonomous driving"
+    ]
+  },
+  {
+    "id": "706f5f31-47b9-4636-b8e0-bd2dfbde6f82",
+    "title": "Think you don’t need observability? Think again",
+    "link": "https://stackoverflow.blog/podcast/",
+    "description": "Memento is a real-time data platform designed to help developers ship better products faster. Explore the platform here or get started in the docs. Connect with Daniela on LinkedIn and follow Momento on X.Stack Overflow user Simon Juhl won a Lifeboat badge for dropping some knowledge on HTMLCSS change Date input highlight color.",
+    "author": "Ben Popper, Ryan Donovan, Daniela Miao",
+    "published": "Tue, 8 Oct 2024 04:20:00 +0000",
+    "image": "https://chrt.fm/track/G8F1AF/pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/a76a8c55-2430-44e1-9537-4708424aaab3/audio/128/default.mp3?aid=rss_feed\u0026awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b\u0026awEpisodeId=a76a8c55-2430-44e1-9537-4708424aaab3\u0026feed=XA_851k3",
+    "source": "https://feeds.simplecast.com/XA_851k3",
+    "categories": [
+      "rust",
+      " momento",
+      " availability",
+      " observability",
+      " uptime",
+      " data platform",
+      " aws",
+      " real-time observability",
+      " multi-tenancy",
+      " webassembly",
+      " ui",
+      " caching"
+    ]
+  },
+  {
+    "id": "fec9cb56-3e8f-4371-9e1f-9eac666aac4f",
+    "title": "Securing Your Email Sending With Python: Authentication and Encryption",
+    "link": "https://stackabuse.com/securing-your-email-sending-with-python-authentication-and-encryption/",
+    "description": "Email encryption and authentication are modern security techniques that you can use to protect your emails and their content from unauthorized access. Everyone, from individuals to business owners, uses emails for official communication, which may contain sensitive information. Therefore, securing emails is important, especially when cyberattacks like phishing, smishing, etc.",
+    "author": "Ivan Djuric",
+    "published": "Thu, 19 Sep 2024 02:29:13 GMT",
+    "image": "",
+    "source": "https://stackabuse.com/rss/",
+    "categories": [
+      "python",
+      "email"
+    ]
+  },
+  {
+    "id": "9d8d7ab3-8f55-497a-a22b-241afbae58cc",
+    "title": "Using Proxies in Web Scraping – All You Need to Know",
+    "link": "https://stackabuse.com/using-proxies-in-web-scraping-all-you-need-to-know/",
+    "description": "Introduction Web scraping typically refers to an automated process of collecting data from websites. On a high level, you're essentially making a bot that visits a website, detects the data you're interested in, and then stores it into some appropriate data structure, so you can easily analyze and access it",
+    "author": "Leonardo Rodriguez",
+    "published": "Thu, 12 Sep 2024 13:23:00 GMT",
+    "image": "/assets/images/icon-information-circle-solid.svg",
+    "source": "https://stackabuse.com/rss/",
+    "categories": [
+      "node",
+      "web scraping"
+    ]
+  },
+  {
+    "id": "cba9d50e-1d77-41f5-a803-b12b0df2a1bf",
+    "title": "GitHub Availability Report: September 2024",
+    "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2024/",
+    "description": "In September, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: September 2024 appeared first on The GitHub Blog.",
+    "author": "Jakub Oleksy",
+    "published": "Thu, 10 Oct 2024 20:54:17 +0000",
+    "image": "",
+    "source": "https://github.blog/feed/",
+    "categories": [
+      "Company news",
+      "News \u0026 insights",
+      "GitHub Availability Report"
+    ]
+  },
+  {
+    "id": "816bf395-1232-4866-827b-1edb6e285f53",
+    "title": "5 tips and tricks when using GitHub Copilot Workspace",
+    "link": "https://github.blog/ai-and-ml/github-copilot/5-tips-and-tricks-when-using-github-copilot-workspace/",
+    "description": "GitHub Next launched the technical preview for GitHub Copilot Workspace in April 2024. Since then, we’ve been listening to the community, learning, and have some tips to share on how to get the most out of it! The post 5 tips and tricks when using GitHub Copilot Workspace appeared first on The GitHub Blog.",
+    "author": "Chris Reddington",
+    "published": "Wed, 09 Oct 2024 16:00:44 +0000",
+    "image": "https://github.blog/wp-content/uploads/2024/10/rust-example.png?w=1024\u0026resize=1024%2C575",
+    "source": "https://github.blog/feed/",
+    "categories": [
+      "AI \u0026 ML",
+      "GitHub Copilot",
+      "AI",
+      "artificial intelligence",
+      "GitHub Copilot Workspace"
+    ]
+  },
+  {
+    "id": "202229eb-b13d-4463-806d-193fa30eeb48",
+    "title": "315. Happy Holidays from the definitive developers podcast",
+    "link": "https://sites.libsyn.com/96306/315-happy-holidays-from-the-definitive-developers-podcast",
+    "description": "In this special holiday episode, we reflect on the year gone by. In a time full of challenges, we extend warm holiday wishes to our listeners, acknowledging the turmoil present in the tech industry and the world at large.",
+    "author": "",
+    "published": "Fri, 22 Dec 2023 12:00:00 +0000",
+    "image": "https://chtbl.com/track/25G9BG/traffic.libsyn.com/secure/therabbithole/EP_315_Happy_Holidays_from_the_definitive_developers_podcast.mp3?dest-id=495327",
+    "source": "http://therabbithole.libsyn.com/rss",
+    "categories": null
+  },
+  {
+    "id": "92fe6184-49fe-440a-9a50-ecf93e053c6f",
+    "title": "314. XP Value - Respect",
+    "link": "https://sites.libsyn.com/96306/314-xp-value-respect",
+    "description": "Following our series of discussions on XP values, this conversation covers the idea of respect and how things change when it is upheld. Tune in to hear a breakdown of why it is so integral to success and what it means for our relationship with code as well as one another.",
+    "author": "",
+    "published": "Tue, 12 Dec 2023 08:00:00 +0000",
+    "image": "https://chtbl.com/track/25G9BG/traffic.libsyn.com/secure/therabbithole/EP_314_XP_Value_--_Respect.mp3?dest-id=495327",
+    "source": "http://therabbithole.libsyn.com/rss",
+    "categories": null
+  },
+  {
+    "id": "d58cb466-ac2f-4374-9f24-b3d05eebdd82",
+    "title": "Migration to Oauth 2.1",
+    "link": "https://developers.soundcloud.com/blog/oauth-migration",
+    "description": "Earlier this year, we updated our API Guide to let developers know that SoundCloud authentication is now operating on the OAuth 2.1 protocol…",
+    "author": "",
+    "published": "Tue, 23 Apr 2024 00:00:00 GMT",
+    "image": "",
+    "source": "https://developers.soundcloud.com/blog/blog.rss",
+    "categories": null
+  },
+  {
+    "id": "aecf45d6-9f69-4855-a4e8-09af9a039164",
+    "title": "Android Large Screen Optimization",
+    "link": "https://developers.soundcloud.com/blog/soundcloud-android-large-screen",
+    "description": "Large Screen Devices - The New Frontier SoundCloud large screen optimized Recently, the Android team at SoundCloud took on a project to…",
+    "author": "",
+    "published": "Mon, 31 Jul 2023 00:00:00 GMT",
+    "image": "/blog/49926d7e44d44ca3f84a67148412ba7b/after_vid_.gif",
+    "source": "https://developers.soundcloud.com/blog/blog.rss",
+    "categories": null
+  },
+  {
+    "id": "bfc3d46a-5d92-4efb-a858-914f8b6eb218",
+    "title": "Microsoft Build: Responsible AI (Sarah Bird)",
+    "link": "https://thewomenintechshow.com/2023/08/01/microsoft-build-responsible-ai-sarah-bird/",
+    "description": "Sarah Bird, Engineering Lead at Microsoft talked about what responsible AI is and its main components and best practices. Sarah also explained what generative AI is and example metrics to evaluate systems that use it. At the end we talked about existing tools that can assist in developing AI systems.",
+    "author": "edaena",
+    "published": "Tue, 01 Aug 2023 15:18:20 +0000",
+    "image": "http://media.blubrry.com/thewomenintechshow/wintshow.files.wordpress.com/2023/08/5-sarah-bird.mp3",
+    "source": "https://thewomenintechshow.com/category/podcast/feed/",
+    "categories": [
+      "Microsoft",
+      "podcast",
+      "Artificial Intelligence",
+      "Generative AI",
+      "Microsoft Build",
+      "Program Manager",
+      "Software Development"
+    ]
+  },
+  {
+    "id": "ed6ca695-91c7-48eb-9ea1-d75a622c2cef",
+    "title": "Microsoft Build: Application Security with Redis Cache (Shruti Pathak)",
+    "link": "https://thewomenintechshow.com/2023/07/24/microsoft-build-application-security-with-redis-cache-shruti-pathak/",
+    "description": "Shruti Pathak, Senior Product Manager at Microsoft, talked about optimizing web applications by using Redis cache and things to consider to make it secure. Shruti also explained what in-memory databases are and how they improve performance. At the end we also talked about the program manager and her experience transitioning from a software development role.",
+    "author": "edaena",
+    "published": "Tue, 25 Jul 2023 01:42:17 +0000",
+    "image": "http://media.blubrry.com/thewomenintechshow/wintshow.files.wordpress.com/2023/07/4_shruti_pathak.mp3",
+    "source": "https://thewomenintechshow.com/category/podcast/feed/",
+    "categories": [
+      "Microsoft",
+      "podcast",
+      "Microsoft Build",
+      "Program Manager",
+      "Software Development"
+    ]
+  },
+  {
+    "id": "7204867b-b422-4c48-9b89-28ea555ff5ef",
+    "title": "Deeper Dive into NX with Juri Strumpflohner",
+    "link": "https://6figuredev.com/podcast/deeper-dive-into-nx-with-juri-strumpflohner/",
+    "description": "Episode 250 Juri has been working as a software developer and architect for 10+ years, with technologies like Java, .Net, Node.js on the desktop, mobile as well as web. Lately he has mostly been focusing on frontend web development with JavaScript, on writing technical articles, and teaching.   Links https://juristr.com/ https://github.com/juristr https://twitter.com/juristr https://www.linkedin.com/in/juristr/ https://www.youtube.com/c/JuriStrumpflohner […] The post Deeper Dive into NX with Juri Strumpflohner appeared first on The 6 Figure Developer.",
+    "author": "John Callaway",
+    "published": "Mon, 15 Aug 2022 13:11:40 +0000",
+    "image": "https://media.blubrry.com/6figuredev/content.blubrry.com/6figuredev/6_Figure_Developer-250-Juri_Strumpflohner.mp3",
+    "source": "http://6figuredev.com/feed/rss/",
+    "categories": [
+      "Podcast",
+      ".net",
+      "dotnet",
+      "Juri Strumpflohner",
+      "lerna",
+      "nx"
+    ]
+  },
+  {
+    "id": "3d211405-7e8b-4e81-9539-af3e48dee171",
+    "title": "4 Essential AWS Solutions with Chris Judd",
+    "link": "https://6figuredev.com/podcast/4-essential-aws-solutions-with-chris-judd/",
+    "description": "Episode 249 Chris is CTO and partner at Manifest Solutions, Author, Java User Group leader, Java Champion, Trusted Technical Advisor, and Talent Developer.   Links https://javajudd.net/ https://twitter.com/javajudd https://www.juddsolutions.com/ https://www.linkedin.com/in/christophermjudd/   Resources https://aws.amazon.com/ https://aws.amazon.com/cdk/ https://aws.amazon.com/lambda/ https://aws.amazon.com/step-functions/ https://aws.amazon.com/ecs/ https://aws.amazon.com/eks/ https://www.terraform.io/ https://docs.aws.amazon.com/ https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html   “Tempting Time” by Animals As Leaders used with permissions – All Rights Reserved […] The post 4 Essential AWS Solutions with Chris Judd appeared first on The 6 Figure Developer.",
+    "author": "John Callaway",
+    "published": "Mon, 01 Aug 2022 13:11:00 +0000",
+    "image": "https://media.blubrry.com/6figuredev/content.blubrry.com/6figuredev/6_Figure_Developer-249-Chris_Judd.mp3",
+    "source": "http://6figuredev.com/feed/rss/",
+    "categories": [
+      "Podcast",
+      "aws",
+      "chris judd",
+      "java"
+    ]
+  }
+]
