@@ -1,0 +1,27 @@
+{
+  "id": "4c01812b-98c9-4ed2-ac7c-611d941384fd",
+  "title": "Is this the real life? Training autonomous cars with simulations",
+  "link": "https://stackoverflow.blog/2024/10/11/is-this-the-real-life-training-autonomous-cars-with-simulations/",
+  "description": "Ben Popper interviews Vladislav Voroninski, CEO of Helm.ai, about unsupervised learning and the future of AI in autonomous driving. They discuss GenAI’s role in bridging the gap between simulation and reality, the challenges of scaling autonomous driving systems, the commercial potential of partial autonomy, and why software is emerging as a key differentiator in vehicle sales. Vlad spotlights the value of multimodal foundation models and how compute shortages affect AI startups.",
+  "author": "Eira May",
+  "published": "Fri, 11 Oct 2024 07:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "se-tech",
+    "se-stackoverflow",
+    "podcast",
+    "ai",
+    "self-driving-cars"
+  ],
+  "byline": "Eira May",
+  "length": 528,
+  "excerpt": "Ben Popper interviews Vladislav Voroninski, CEO of Helm.ai, about unsupervised learning and the future of AI in autonomous driving. They discuss GenAI’s role in bridging the gap between simulation and reality, the challenges of scaling autonomous driving systems, the commercial potential of partial autonomy, and why software is emerging as a key differentiator in vehicle sales. Vlad spotlights the value of multimodal foundation models and how compute shortages affect AI startups.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "October 11, 2024Ben Popper interviews Vladislav Voroninski, CEO of Helm.ai, about unsupervised learning and the future of AI in autonomous driving. They discuss GenAI’s role in bridging the gap between simulation and reality, the challenges of scaling autonomous driving systems, the commercial potential of partial autonomy, and why software is emerging as a key differentiator in vehicle sales. Vlad spotlights the value of multimodal foundation models and how compute shortages affect AI startups. Credit: Alexandra Francis",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle itemscope=\"\" itemtype=\"https://schema.org/Article\"\u003e\u003cheader\u003e\u003ctime datetime=\"2024-10-11T07:40:00.000Z\" itemprop=\"datePublished\"\u003e October 11, 2024\u003c/time\u003e\u003cp itemprop=\"abstract\"\u003eBen Popper interviews Vladislav Voroninski, CEO of Helm.ai, about unsupervised learning and the future of AI in autonomous driving. They discuss GenAI’s role in bridging the gap between simulation and reality, the challenges of scaling autonomous driving systems, the commercial potential of partial autonomy, and why software is emerging as a key differentiator in vehicle sales. Vlad spotlights the value of multimodal foundation models and how compute shortages affect AI startups.\u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026amp;h=630\u0026amp;auto=format\u0026amp;dpr=2\" width=\"1200\" height=\"630\" alt=\"Article hero image\" itemprop=\"image\"/\u003e\u003cfigcaption\u003e  \u003cspan\u003e Credit: Alexandra Francis\u003c/span\u003e\u003c/figcaption\u003e\u003c/figure\u003e\u003c/header\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
