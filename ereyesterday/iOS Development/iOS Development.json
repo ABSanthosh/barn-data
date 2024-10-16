@@ -1,0 +1,412 @@
+[
+  {
+    "id": "63999f8b-e9d7-4074-9ae7-363eff114f34",
+    "title": "Little Known macOS Sequoia System Extensions",
+    "link": "https://tyler.io/2024/09/little-known-macos-sequoia-system-extensions/",
+    "description": "",
+    "author": "Tyler",
+    "published": "Wed, 18 Sep 2024 15:33:49 +0000",
+    "image": "https://cdn.tyler.io/wp-content/uploads/2024/09/arc-extension.jpeg",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "9f946b35-b815-46a4-9470-5e2846f30d59",
+    "title": "Here",
+    "link": "https://tyler.io/2024/07/here/",
+    "description": "Yesterday, we entered a new timeline. I don’t know if it’s a better one or a much worse one. But it’s something new. This evening, we arrived home from touring a new city — checking out neighborhoods and schools — and found the unspeakable had marched on our hometown. Filth and venom, spewing. The kids watched a movie, and I...",
+    "author": "Tyler",
+    "published": "Mon, 15 Jul 2024 04:40:31 +0000",
+    "image": "",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "2d1d4b3c-d226-4048-879e-3b2056925ec8",
+    "title": "Scalable Continuous Integration for iOS",
+    "link": "https://albertodebortoli.com/2024/01/03/scalable-continuous-integration-for-ios/",
+    "description": "How Just Eat Takeaway.com leverage AWS, Packer, Terraform and GitHub Actions to manage a CI stack of macOS runners.",
+    "author": "Alberto De Bortoli",
+    "published": "Wed, 03 Jan 2024 22:26:50 GMT",
+    "image": "https://albertodebortoli.com/content/images/2024/01/1_SaGE67XSSeflkTKknVOHbg.webp",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": [
+      "CI",
+      "mobile",
+      "iOS",
+      "AWS",
+      "macOS"
+    ]
+  },
+  {
+    "id": "ef36bf08-c2f8-40e3-aca3-0c947c50cb6a",
+    "title": "The idea of a Fastlane replacement",
+    "link": "https://albertodebortoli.com/2023/10/29/the-idea-of-a-fastlane-replacement/",
+    "description": "PreludeFastlane is widely used by iOS teams all around the world. It became the standard de facto to automate common tasks such as building apps, running tests, and uploading builds to App Store Connect. Fastlane has been recently moved under the Mobile Native Foundation which is amazing as Google",
+    "author": "Alberto De Bortoli",
+    "published": "Sun, 29 Oct 2023 22:57:38 GMT",
+    "image": "https://images.unsplash.com/photo-1647118762210-393b52e96fbc?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxzdGVsbGFyfGVufDB8fHx8MTY5ODYxODcwNXww\u0026ixlib=rb-4.0.3\u0026q=80\u0026w=2000",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": null
+  },
+  {
+    "id": "fcc1150d-f422-43ac-a8ce-c0c9b0875789",
+    "title": "From Engineer to Manager: A Year of Growth and Transformation",
+    "link": "https://benoitpasquier.com/2023/06/from-engineer-to-manager-a-year-of-growth-and-transformation/",
+    "description": "It feels like it was yesterday when I became an engineering manager but it has been almost a year. I want to take this time to reflect on the challenges and learnings from this journey.",
+    "author": "",
+    "published": "Sun, 11 Jun 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "456deed2-1bd0-4807-abfb-4c13c9cd52da",
+    "title": "Things to know before becoming an Engineering Manager",
+    "link": "https://benoitpasquier.com/2023/02/things-to-know-before-becoming-an-engineering-manager/",
+    "description": "The journey from individual contributor to engineering manager isn’t always straightforward. Today, I’ll share what it means to become an engineering manager from my point of view, and a few important points to be aware of before making this transition.",
+    "author": "",
+    "published": "Sun, 19 Feb 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "0860d2e6-2fc3-4df5-ad7d-46e06bbfec8e",
+    "title": "Sorting arrays in Swift: multi-criteria",
+    "link": "https://augmentedcode.io/2024/10/07/sorting-arrays-in-swift-multi-criteria/",
+    "description": "Swift’s foundation library provides a sorted(by:) function for sorting arrays. The areInIncreasingOrder closure needs to return true if the closure’s arguments are increasing, false otherwise. How to use the closure for sorting by multiple criteria? Let’s take a look at an example of sorting an array of Player structs. As said before, the closure should […]",
+    "author": "Toomas Vahter",
+    "published": "Mon, 07 Oct 2024 15:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "Foundation",
+      "iOS",
+      "Swift",
+      "localizedCaseInsensitiveCompare",
+      "sort",
+      "sorted(by:)"
+    ]
+  },
+  {
+    "id": "f796ad16-6b04-476a-b3a5-dc5641f63939",
+    "title": "How to keep Date’s microseconds precision in Swift",
+    "link": "https://augmentedcode.io/2024/09/23/how-to-keep-dates-microseconds-precision-in-swift/",
+    "description": "DateFormatter is used for converting string representation of date and time to a Date type and visa-versa. Something to be aware of is that the conversion loses microseconds precision. This is extremely important if we use these Date values for sorting and therefore ending up with incorrect order. Let’s consider an iOS app which uses […]",
+    "author": "Toomas Vahter",
+    "published": "Mon, 23 Sep 2024 15:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "Foundation",
+      "iOS",
+      "Swift",
+      "ISO8601DateFormatter"
+    ]
+  },
+  {
+    "id": "4c360a04-9caf-4bc8-83bb-da3d4c8795d7",
+    "title": "RUX: JSX-Style Rails View Components - RUBY 517",
+    "link": "https://rubyrogues.com/rux-jsx-style-rails-view-components-ruby-517",
+    "description": "Cameron Dutro joins the Rogues to discuss RUX, a system for managing your View Components in Rails in a similar way to how React uses JSX to manage its Component views. He discusses how it works, how it goes together, and what inspired it. Panel Charles Max Wood Darren Broemmer Luke Stutters Valentino Stoll Guest Cameron Dutro Sponsors Dev Influencers Accelerator Raygun | Click here to get started on your free 14-day trial PodcastBootcamp.io Links GitHub | camertron/rux Primer Design System ViewComponent GitHub | opal/opal Matestack Reimagined Rails views using Matestack with Jonas Jabari Ruby 2.5 allows creating structs with keyword arguments GitHub: Cameron Dutro ( camertron ) Twitter: Кэмерон Дутро ( @camertron ) Picks Cameron- GitHub | camertron/erb2rux Charles- PodcastBootcamp.io Charles- JavaScript Picks Charles- Ready Player Two Charles- Masters of Doom Charles- Top End Devs Darren- Is Ruby Dead Darren- 16 New ML Gems for Ruby Luke- GitHub | jeremyevans/sequel_postgresql_triggers Luke- DEF CON 29 - James Kettle - HTTP2: The Sequel is Always Worse Luke- The Wire  Valentino- Flux Valentino- Add strict_loading mode to optionally prevent lazy loading Contact Charles: Devchat.tv DevChat.tv | Facebook Twitter: DevChat.tv ( @devchattv ) Contact Darren: Twitter: Darren Broemmer ( @DarrenBroemmer ) Contact Luke: GitHub: Luke Stutters ( lukestuts ) Contact Valentino: Doximity Technology Blog Work @ Doximity GitHub: Valentino Stoll ( codenamev ) Twitter: V ( @thecodenamev )",
+    "author": "",
+    "published": "Wed, 06 Oct 2021 06:00:00 -0400",
+    "image": "https://media.devchat.tv/ruby-rogues/RUBY_517.mp3",
+    "source": "https://feeds.feedwrench.com/all-shows-devchattv.rss",
+    "categories": null
+  },
+  {
+    "id": "b3c5a401-c123-47b8-8108-808fc10ee1e9",
+    "title": "React Do's and Don't's - RRU 158",
+    "link": "https://reactroundup.com/react-do-s-and-don-t-s-rru-158",
+    "description": "This week the panel discusses several Do's and Don't's for your React Apps that are lessons they've learned building React applications over the years. Panel Jack Herrington Paige Niedringhaus TJ Vantoll Sponsors Dev Influencers Accelerator Raygun | Click here to get started on your free 14-day trial PodcastBootcamp.io Links GitHub | welldone-software/why-did-you-render Picks Jack- Hades Paige- Versailles (TV series) TJ- Land of the Giants Contact Jack: Jack Herrington – YouTube Blue Collar Coder Twitter: Jack Herrington ( @jherr ) Contact Paige: Paige Niedringhaus Paige Niedringhaus – Medium Twitter: Paige Niedringhaus ( @pniedri ) GitHub: Paige Niedringhaus ( paigen11 ) Contact TJ: TJ VanToll's Blog Progress Software KendoReact Twitter: TJ VanToll ( @tjvantoll )",
+    "author": "",
+    "published": "Wed, 06 Oct 2021 06:00:00 -0400",
+    "image": "https://media.devchat.tv/reactroundup/RRU_158.mp3",
+    "source": "https://feeds.feedwrench.com/all-shows-devchattv.rss",
+    "categories": null
+  },
+  {
+    "id": "0121404a-3259-4279-b09d-8b38a1cc5031",
+    "title": "iOS Accessibility Values",
+    "link": "https://mobilea11y.com/blog/accessibility-values/",
+    "description": "For iOS, Accessibility values are one of the building blocks of how Accessibility works on the platform, along with traits, labels, hints, and showing/hiding elements. If you’re familiar with WCAG or web accessibility, accessibility values are the value part of WCAG 4.1.2: Name, Role, Value. Values Not every element in your view will have a value - in fact, most won’t. Any element that ‘contains’ some data, data that is not included in the element’s label requires an accessibility value to be set.",
+    "author": "",
+    "published": "Sun, 19 Jun 2022 10:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "1ba30b0f-af08-4d90-9c06-63f729afec54",
+    "title": "iOS UIKit Accessibility traits",
+    "link": "https://mobilea11y.com/blog/traits/",
+    "description": "Accessibility traits on iOS is the system by which assistive technologies know how to present your interface to your users. The exact experience will vary between assistive technologies, in some cases they may change the intonation of what VoiceOver reads, or add additional options for navigation, sometimes they will disable that assistive technology from accessing the element, or change how the assistive tech functions. They are the ‘Role’ part of the fundamental rule of making something accessible to screen readers - WCAG’s 4.",
+    "author": "",
+    "published": "Fri, 13 Aug 2021 07:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "e8976ef6-a0ec-4a11-b220-a440d591a6a2",
+    "title": "Building with nightly Swift toolchains on macOS",
+    "link": "https://oleb.net/2024/swift-toolchains/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-03-05T18:54:44Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "c3da4a9b-ebf5-480b-93c1-0abc0c9ff7ea",
+    "title": "How the Swift compiler knows that DispatchQueue.main implies @MainActor",
+    "link": "https://oleb.net/2024/dispatchqueue-mainactor/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-02-29T18:54:47Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "0ba90e85-ec19-4165-96f7-5ce3eed19424",
+    "title": "Introducing Plinky: My Love Letter To Links",
+    "link": "https://fabisevi.ch/2024/05/09/introducing-plinky/",
+    "description": "The post below was written by me, originally featured on the Plinky blog. To celebrate the launch of Plinky you can get 50% off of a yearly subscription by redeeming this offer: plinky.app/offer/REDPANDA There are few words I've ever said more excitedly than these: I want to tell you about my latest app, Plinky. Plinky makes it incredibly easy to do something we do every day, save links for later. You may already have a way to save links, I know I've tried every method under the sun, to the point where I decided to build my own app. That app is Plinky, and today it's available to download on the App Store. Over the last 18 months people have been loving Plinky, because it fixes the same problems I ran into when I've tried to save links in the past.",
+    "author": "Joe Fabisevich",
+    "published": "Thu, 09 May 2024 00:00:00 GMT",
+    "image": "/static/c3d9146a8edf380ee267c61558f3a91b/ec7ce/plinky-screenshots.jpg",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "0956b2bb-b4ed-4efc-8538-f3ba4ec38fa8",
+    "title": "The Reasoning Computer",
+    "link": "https://fabisevi.ch/2023/11/10/the-reasoning-computer/",
+    "description": "The Turing test is dead, and we killed it. The Turing test is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. From the 1940s 1 to the 2010s people programmed computers, and computers could only do what they were programmed to do in a rules-based deterministic manner. Sometimes a person would program the computer and it would do something unexpected, but 100 out of 100 times the computer was doing what it was programmed to do whether the person liked it or not. While there has been experimentation with what today we call AI since the 1950s, those machines were a long ways away from passing the Turing test. Why does using ChatGPT feel more like a conversation with the smartest person you know than a computer? It's because ChatGPT doesn't solve problems deterministically the way a programmed computer does, it solves them probabilistically. 2 ChatGPT demonstrates the ability to think about something in a logical, sensible way, the definition of reasoning. 3 We've created something completely new here, a reasoning computer. 4",
+    "author": "Joe Fabisevich",
+    "published": "Fri, 10 Nov 2023 00:00:00 GMT",
+    "image": "",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "746c1376-6dab-40b3-a1bc-28dfe81481f9",
+    "title": "Hello Developer: October 2024",
+    "link": "https://developer.apple.com/news/?id=tdh8tuh0",
+    "description": "Get your app up to speed, meet the team behind Lies of P, explore new student resources, and more.Read the full article",
+    "author": "",
+    "published": "Thu, 10 Oct 2024 08:01:36 PDT",
+    "image": "https://devimages-cdn.apple.com/wwdc-services/articles/images/943A87F6-7281-4353-9695-BC1729C56C96/2048.jpeg",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "8a573f38-b9ee-4776-bcce-997ec3a2a9fc",
+    "title": "Masters of puppets: How ROUND8 Studio carved out a niche for Lies of P",
+    "link": "https://developer.apple.com/news/?id=jimo1g6z",
+    "description": "Lies of P is closer to its surprising source material than you might think.Based on Carlo Collodi’s 1883 novel The Adventures of Pinocchio, the Apple Design Award-winning game is a macabre reimagining of the story of a puppet who longs to be a real boy. Collodi’s story is still best known as a children’s fable. But it’s also preprogrammed with more than its share of darkness — which made it an appealing foundation for Lies of P director Jiwon Choi.“When we were looking for stories to base the game on, we had a checklist of needs,” says Choi. “We wanted something dark. We wanted a story that was familiar but not entirely childish. And the deeper we dove into Pinocchio, the more we found that it checked off everything we were looking for.”ADA FACT SHEETLies of P Winner: Visuals and Graphics Team: ROUND8 Studio (developer), NEOWIZ (publisher) Available on: Mac Team size: 100 Previous accolades: App Store 2023 Mac Game of the Year, App Store Editors’ Choice Developed by the South Korea-based ROUND8 Studio and published by its parent company, NEOWIZ, Lies of P is a lavishly rendered dark fantasy adventure and a technical showpiece for Mac with Apple silicon. Yes, players control a humanoid puppet created by Geppetto. But instead of a little wooden boy with a penchant for little white lies, the game’s protagonist is a mechanical warrior with an array of massive swords and a mission to battle through the burned-out city of Krat to find his maker — who isn’t exactly the genial old woodcarver from the fable.“The story is well-known, and so are the characters,” says Choi. “We knew that to create a lasting memory for gamers, we had to add our own twists.”Those twists abound. The puppet is accompanied by a digital lamp assistant named Gemini — pronounced “jim-i-nee,” of course. A major character is a play on the original’s kindly Blue Fairy. A game boss named Mad Donkey is a lot more irritable than the donkeys featured in Collodi’s story. And though nobody’s nose grows in Lies of P, characters have opportunities to lie in a way that directly affects the storyline — and potentially one of the game’s multiple endings.We knew that to create a lasting memory for gamers, we had to add our own twists.Jiwon Choi, Lies of P director“If you play without knowing the original story, you might not catch all those twists,” says Choi. “But it goes the other way, too. We’ve heard from players who became curious about the original story, so they went back and found out about our twists that way.”There’s nothing curious about the game’s success: In addition to winning a 2024 Apple Design Award for Visuals and Graphics, Lies of P was named the App Store’s 2023 Mac Game of the Year and has collected a bounty of accolades from the gaming community. Many of those call out the game’s visual beauty, a world of rich textures, detailed lighting, and visual customization options like MetalFX upscaling and volumetric fog effects that let you style the ruined city to your liking. For that city, the ROUND8 team added another twist by moving the story from its original Italian locale to the Belle Èpoque era of pre-WWI France. “Everyone expected Italy, and everyone expected steampunk,” says Choi, “but we wanted something that wasn’t quite as common in the gaming industry. We considered a few other locations, like the wild west, but the Belle Èpoque was the right mix of beauty and prosperity. We just made it darker and gloomier.”We considered a few other locations, like the wild west, but the Belle Èpoque was the right mix of beauty and prosperity. We just made it darker and gloomier.Jiwon Choi, Lies of P directorTo create the game’s fierce (and oily) combat, Choi and the team took existing Soulslike elements and added their own touches, like customizable weapons that can be assembled from items lying around Krat. “We found that players will often find a weapon they like and use it until the ending,” says Choi. “We found that inefficient. But we also know that everyone has a different taste for weapons.”The system, he says, gives players the freedom to choose their own combinations instead of pursuing a “best” pre-ordained weapon. And the strategy worked: Choi says players are often found online discussing the best combinations rather than the best weapons. “That was our intention when creating the system,” he says.Also intentional: The game’s approach to lying, another twist on the source material. “Lying in the game isn’t just about deceiving a counterpart,” says Choi. “Humans are the only species who can lie to one another, so lying is about exploring the core of this character.” It’s also about the murky ethics of lying: Lies of P suggests that, at times, nothing is as human — or humane — as a well-intentioned falsehood.“The puppet of Geppetto is not human,” says Choi. “But at the same time, the puppet acts like a human and occasionally exhibits human behavior, like getting emotional listening to music. The idea was: Lying is something a human might do. That’s why it’s part of the game.”The Lies of P story might not be done just yet. Choi and team are working on downloadable content and a potential sequel — possibly starring another iconic character who’s briefly teased in the game’s ending. But in the meantime, the team is taking a moment to enjoy the fruits of their success. “At the beginning of development, I honestly doubted that we could even pull this off,” says Choi. “For me, the most surprising thing is that we achieved this. And that makes us think, ‘Well, maybe we could do better next time.’”Meet the 2024 Apple Design Award winnersBehind the Design is a series that explores design practices and philosophies from finalists and winners of the Apple Design Awards. In each story, we go behind the screens with the developers and designers of these award-winning apps and games to discover how they brought their remarkable creations to life.",
+    "author": "",
+    "published": "Thu, 10 Oct 2024 08:00:50 PDT",
+    "image": "https://devimages-cdn.apple.com/wwdc-services/articles/images/58B1D4A7-C03F-42A6-BAFB-33B5BD6F040C/2048.jpeg",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "f429e79e-31da-40aa-b47a-ead3722fa776",
+    "title": "Magical Particle Effects with SwiftUI Canvas",
+    "link": "https://nerdyak.tech/development/2024/06/27/particle-effects-with-SwiftUI-Canvas.html",
+    "description": "In one of the previous posts, I shared a simple way of Creating particle effects in SwiftUI. The approach is super easy and utilizes the power of viewModifiers, but I would not recommend it for production use as it is performance-greedy when having a bigger amount of particles in place (because each particle is a single view)",
+    "author": "Pavel Zak",
+    "published": "2024-06-27T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "Canvas",
+      "Particles",
+      "BlendMode",
+      "TimelineView"
+    ]
+  },
+  {
+    "id": "443f5284-ccbf-45d9-bf87-dd1dc11ed6ac",
+    "title": "SwiftUI transitions with distortion effect and Metal Shaders",
+    "link": "https://nerdyak.tech/development/2023/06/16/distortionEffect-with-Metal-shaders-for-better-transitions.html",
+    "description": "This year DubDub is over and I am very excited about the new developer treats that iOS17 will bring us that expand the animation possibilities of SwiftUI. I am talking mainly about the PhaseAnimator, KeyframeAnimator and the ability to utilize Metal shaders on SwiftUI views through modifiers .distortionEffect, .layerEffect, and .colorEffect (docs).",
+    "author": "Pavel Zak",
+    "published": "2023-06-16T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "distortionEffect",
+      "Metal",
+      "Shaders",
+      "transitions"
+    ]
+  },
+  {
+    "id": "29167ae2-5120-407d-a2db-30733ee4b971",
+    "title": "SwiftUI views versus modifiers",
+    "link": "https://www.swiftbysundell.com/articles/swiftui-views-versus-modifiers",
+    "description": "What’s really the difference between building a piece of UI as a view versus a modifier, and how to choose between those two solutions?",
+    "author": "",
+    "published": "Mon, 27 Feb 2023 11:05:00 +0100",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "88108d5e-4bd1-4c9a-a19c-6085557b855f",
+    "title": "Observing the content offset of a SwiftUI ScrollView",
+    "link": "https://www.swiftbysundell.com/articles/observing-swiftui-scrollview-content-offset",
+    "description": "How the content offset of a SwiftUI ScrollView can be observed without bridging to UIKit.",
+    "author": "",
+    "published": "Mon, 30 Jan 2023 12:50:00 +0100",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "5a89dc2c-173c-494e-aed6-9c2f342f0d9f",
+    "title": "My process for learning new languages",
+    "link": "https://swiftrocks.com/my-process-for-learning-new-languages",
+    "description": "Throughout my life, I have met several people who struggle to learn a new language, with some of them being unable to communicate at a basic level despite having studied for several years. I believe that learning a language is not a matter of talent, but that of dedication and following a good process. In this article, I would like to share the process I used more than once (and am still using) to tackle the challenge of learning a new language with great success. I currently speak three languages (native Portuguese, English, Swedish), and am in the process of learning a fourth (Japanese). My process For me, learning a new language consists of three major steps: Learning basic grammar Becoming good at reading and listening Becoming good at speaking Learning basic grammar My first step towards learning a new language consists of understanding the basics of the language. This includes things like learning how sentences are structured, how words should be pronounced, how to count, and any other language-specific basics that may apply (for example, for Swedish, learning the difference between en / ett, or the concept of soft / hard vowels). The word \"basic\" here is very important. I want to have a good understanding of how things work in that language, but I don't want to waste time reasoning about complex grammar rules. Think of the sorts of things a mom would correct a child for; my mom would correct me if I used a word in the wrong place, but she wouldn't lecture me about the theory of participle clauses. Knowledge of basic grammar massively pays off because later on it will simplify the process of expanding the vocabulary. Although at this point I will not know many words, my knowledge of basic grammar will allow me to more easily figure out how to pronounce any new words that I may encounter in the future, to properly classify them (subject? verb? noun? adjective? present? past tense?) based on their format and position in a sentence, and in some cases even accurately guess their meaning based on this information. Although in the next section I'm going to complain about traditional language learning books / schools, I think they are one of the best resources for learning basic grammar. It's also usually straightforward and can be mastered in just a couple of months. Becoming good at reading and listening But this is about as far as those language schools and books will help you out, because in my opinion they massively fuck up pretty much everything beyond this point. In my experience, after learning basic grammar, schools and books usually follow up by teaching advanced grammar. I think this is a complete waste of time and is why in my opinion many adults struggle with learning a language despite attending classes for multiple years. Learning complex grammar rules will not help you learn the language, even natives don't know this stuff! What natives know is vocabulary, and this is what I believe is the right focus at this stage. My goal then becomes to expand my vocabulary as much as possible by immersing myself in the language, consuming as much media as I can and as frequently as possible. This is something that is usually referred to as the immersion method. Here are some examples of things I do in this step: Changing the language of my phone / computer Watching shows with either sound or subtitles in that language, preferably both if available Listening to podcasts, sometimes actively and sometimes passively as background noise Finding internet forums / subreddits / YouTube channels for topics I like Reading the news You might think that this doesn't make sense because you won't understand anything, but that's exactly the point. Children also don't understand anything at first, yet magically they seem to just \"get it\" after one point, simply by being exposed to the language. This is because our brains are big pattern-matching machines; the more you expose yourself to a language, the more patterns / words you discover, which leads to further discoveries until you eventually reach a point where everything just clicks. In other words, the purpose of this step is to try to replicate how a child would learn a language at home. I find watching shows / YouTube videos to be particularly excellent for this because you can usually guess what a word means based on the context of the scene, meaning you don't need to spend as much time translating words as you would when compared to other types of media. Duolingo can also be a good tool to expand your vocabulary, as long as you don't use it in isolation. This is because although Duolingo is a good way to learn new words, it tends to be quite bad at everything else (e.g grammar), so I think it's important to back it up with the other methods mentioned in this section. It's important to note also that the quality of Duolingo's exercises varies greatly between languages, so looking for reviews before getting started is a must here. If you tend to quickly forget things like I do, a spaced repetition system can greatly assist you with fixating all of this new knowledge. In my case I quite enjoyed using Readwise for this, but I know many who have used Anki / traditional flashcards with great success. This entire process is very painful at first, but gets easier with time as your vocabulary improves. The unfortunate part is that this is a lengthy process; it can take several years of doing this before reaching a point where reading / listening to the language becomes effortless, and I think there's no way around it. Becoming good at speaking Although the previous step is excellent at making me good at reading and listening, in my experience it doesn't necessarily help me become good at speaking. When I was learning Swedish for example, although I had an easy time understanding what people were saying and knew in theory what to answer back, I still had a very hard time doing so, mostly because I just wasn't used to it. Although I knew the vocabulary in theory, it would still take several seconds for the right words to emerge in my mind when having a conversation with someone. Unlike the other steps, I don't think there is any special method that one can use to become good at speaking a new language. This is something you just have to keep doing until your brain gets used to it. It's a massive advantage if you actually live in the country in question, but this is doable even if you don't as there are many online services designed around connecting you with native speakers of a particular language. I personally never used them though, so I cannot comment on their efficiency. Another interesting to mention is that nowadays there are websites that connect LLMs to voice recognition models, allowing you to chat with something like ChatGPT with your voice for the purpose of language learning. I've tried one but personally didn't like the experience as talking to a robot felt completely different from talking to a real person, but if you'd like to try it out, you can easily find them on Google (there are hundreds of websites for this as of writing). I think the most important part here is to resist the urge to switch to another language when you start to struggle, especially if you live in a country like Sweden where the natives are good at English. (In fact I would say that the hardest thing about learning a language like Swedish is not the language itself, but rather that Swedes are so good at English that they automatically switch to it when they see you struggling with Swedish, making it almost impossible for you to improve!) Conclusion Although we can divide the process of learning a new language in logical steps, we're still talking about a multi-year effort. That's just how it works, there are no shortcuts. If you struggle with learning a new language, I hope this post was able to teach you something new that can help you in your journey!",
+    "author": "Bruno Rocha",
+    "published": "Sun, 1 Sep 2024 10:00:00 GMT+2",
+    "image": "",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "40411dc4-a6a6-4a80-8fdd-3558bd274388",
+    "title": "What are mobile release engineering teams and when do you need one? (Runway)",
+    "link": "https://www.runway.team/blog/what-are-mobile-release-engineering-teams-and-when-do-you-need-one",
+    "description": "The early (and also not-so-early) days of building a tech startup means hiring and working with people who are capable of wearing a lot of hats. There are a ton of things to do and nowhere near an equal amount of resources to do them. Even if you join as a specialist, chances are you'll find yourself getting deep into other areas. This is true across the organization, including in mobile engineering. Early engineers don’t just write the code that builds the foundation for the app’s future success (while building up the tech debt that future engineers will pull their hair out over) but also the initial infrastructure both for how teams get things done and how they ship code out the door. This doesn’t last forever though. As teams grow they make the transition out of generalist, jack-of-all-trades roles and begin focusing on specialization. But one part of the org where there is often a lag in making this transition — and sometimes a very long one — is on the mobile team. Very few mobile engineers will have time to support both their team's app features and the series of Ruby scripts that support their release process, yet the expectation that they do both often lingers far beyond when other teams in the organization have fully specialized. In this article, we'll look at why this happens and how big tech companies follow-up on this problem.",
+    "author": "Bruno Rocha",
+    "published": "Fri, 28 Jun 2024 09:00:00 GMT+2",
+    "image": "",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "f9ca9d3f-7ad5-4f02-ad73-2fb407f7bba2",
+    "title": "302: Artificial Walls",
+    "link": "http://relay.fm/radar/302",
+    "description": "Holding the line for our own standards, while being open to the possibility that we've chosen the wrong lines.",
+    "author": "Marco Arment and David Smith",
+    "published": "Thu, 26 Sep 2024 15:30:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar302.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  },
+  {
+    "id": "376d98ff-544f-42ac-ba84-6ef3009c01a5",
+    "title": "301: Pending Apple Release",
+    "link": "http://relay.fm/radar/301",
+    "description": "Submitting our iOS 18 updates, and considering what this OS means for our apps and our customers.",
+    "author": "Marco Arment and David Smith",
+    "published": "Thu, 12 Sep 2024 14:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar301.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  },
+  {
+    "id": "a7f4d19b-64f5-4cbc-bcc3-9b5bdd46e71a",
+    "title": "Solar Powered Birdhouse",
+    "link": "https://atomicbird.com/blog/birdhouse-solar-power/",
+    "description": "In my last couple of posts I’ve talked about the hardware and software behind my birdhouse camera project. I haven’t previously covered how I’m giving it all enough power to operate, and therein lies a tale. No Power? No Problem If I had a power outlet located anywhere near the bird house, this would have been easy. Pretty much any micro-USB power adapter would plug into the Raspberry Pi, and I’d be set.",
+    "author": "",
+    "published": "Thu, 19 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "4c2d97bc-5429-4de3-90ec-5f7ee0b7d725",
+    "title": "Raspberry Pi Birdhouse Software",
+    "link": "https://atomicbird.com/blog/birdhouse-software/",
+    "description": "In my last post I went over the components of the bird house camera I set up this year to get a better look at the local black-capped chickadees. Today I’ll talk about the software that makes it work. Initial Setup Being relatively new to Raspberry Pi, I started off with a full install of Raspbian Deskop. It’s more than I need, since I won’t have anything like a desktop setup, but with a 64GB SD card I wasn’t concerned about the space.",
+    "author": "",
+    "published": "Mon, 09 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "0e154f34-8c8a-4bb6-8f18-a975f7bf5d6b",
+    "title": "iPhone 16 Screen Sizes",
+    "link": "https://useyourloaf.com/blog/iphone-16-screen-sizes/",
+    "description": "Two new sizes as the Pro phones grow in size, and weight, and get even smaller bezels. Here’s what you need to know about the iPhone 16. The New Models in a Nutshell As in earlier years, Apple has discontinued the iPhone 15 Pro models and added features to the base iPhone 16 models. Apple also continues to sell the base iPhone 15, iPhone 14, and the iPhone SE. The Pro models increase in size from last year given us four different screen sizes across the iPhone 16 range: The base models have the same screen sizes as last years iPhone 15 models, but still lack ProMotion and the Always-on display. They keep the aluminium body where the Pro models are Titanium. Support for USB-3 (10Gbp/s) transfer speeds is still limited to the Pro models. The displays have the same peak brightness as last year but now have a 1 nit minimum brightness and the latest generation Ceramic Shield. All models now have the Action button and the new Camera Control button. iPhone 16 The iPhone 16 gains new colours, the Action, and Camera Control buttons, and the A18 chip with support for Apple Intelligence. A18 chip (6-core CPU, 5-core GPU, 16-core Neural Engine) Display: 6.1\" Super Retina XDR OLED with Dynamic Island Screen resolution (points): 393 x 852 Native resolution (pixels): 1179 x 2556 (460 ppi) Native Scale factor: 3x Portrait size classes: w: Compact, h: Regular Landscape size classes: w: Compact, h: Compact There’s no change to the dynamic island design this year so the iPhone 16 keeps the same 54 point high status bar. The top safe area inset is 59 points reducing the height of the safe area in portrait to 759 points: Safe Area Insets (portrait): top: 59, bottom: 34, left: 0, right: 0 Safe Area Insets (landscape): top: 0, bottom: 21, left: 59, right: 59 iPhone 16 Plus Other than the larger screen size (and battery life) the iPhone 16 Plus shares the same specs as the iPhone 16. A18 Bionic chip (6-core CPU, 5-core GPU, 16-core Neural Engine) Display: 6.7\" Super Retina XDR OLED with Dynamic Island Screen resolution (points): 430 x 932 Native resolution (pixels): 1290 x 2796 (460 ppi) Scale factor: 3x Portrait size classes: w: Compact, h: Regular Landscape size classes: w: Regular, h: Compact The status bar is 54 points high with a top safe area inset of 59 points which gives the following safe area insets (same as the iPhone 16): Safe Area Insets (portrait): top: 59, bottom: 34, left: 0, right: 0 Safe Area Insets (landscape): top: 0, bottom: 21, left: 59, right: 59 iPhone 16 Pro The iPhone 16 Pro is 3mm taller, 0.9mm wider, and has smaller bezels than the iPhone 15 Pro. The screen size increases from 6.1\" to 6.3\" and it has the Pro version of the A18 chip: A18 Pro chip (6-core CPU, 6-core GPU, 16-core Neural Engine). Display: 6.3\" Super Retina XDR OLED with ProMotion, Always-On display, and Dynamic Island. Screen resolution (points): 402 x 874 Native resolution (pixels): 1206 x 2622 (460 ppi) Native Scale factor: 3x Portrait size classes: w: Compact, h: Regular Landscape size classes: w: Compact, h: Compact The status bar is 54 points high with a top safe area inset of 62 points which gives the following safe area insets: Safe Area Insets (portrait): top: 62, bottom: 34, left: 0, right: 0 Safe Area Insets (landscape): top: 0, bottom: 21, left: 62, right: 62 iPhone 16 Pro Max The iPhone 16 Pro Max is 3.1mm taller, 0.9mm wider, and has smaller bezels than the iPhone 15 Pro Max. The screen size increases from 6.7\" to 6.9\" and it has the Pro version of the A18 chip: A18 Pro chip (6-core CPU, 6-core GPU, 16-core Neural Engine). Display: 6.9\" Super Retina XDR OLED with ProMotion, Always-On display, and Dynamic Island. Screen resolution (points): 440 x 956 Native resolution (pixels): 1320 x 2868 (460 ppi) Scale factor: 3x Portrait size classes: w: Compact, h: Regular Landscape size classes: w: Regular, h: Compact The status bar is 54 points high with a top safe area inset of 62 points which gives the following safe area insets: Safe Area Insets (portrait): top: 62, bottom: 34, left: 0, right: 0 Safe Area Insets (landscape): top: 0, bottom: 21, left: 62, right: 62 The Complete List of iPhones (and an iPod) Apple added new 6.3\" and 6.9\" Pro model sizes this year. By my count, that means there are 13 different iPhone screen sizes that you need to support with a minimum deployment target of iOS 13 (new models in bold): 6.9\" (440 x 956 points at @3x) iPhone 16 Pro Max 6.7\" (430 x 932 points @3x) iPhone 16 Plus, iPhone 15 Pro Max, iPhone 15 Plus, iPhone 14 Pro Max 6.7\" (428 x 926 points @3x) iPhone 14 Plus, iPhone 13 Pro Max, iPhone 12 Pro Max 6.5\" (414 x 896 points @3x) iPhone 11 Pro Max, iPhone XS Max 6.3\" (402 x 874 points at @3x) iPhone 16 Pro 6.1\" (393 x 852 points @3x) iPhone 16, iPhone 15 Pro, iPhone 15, iPhone 14 Pro 6.1\" (390 x 844 points @3x) iPhone 14, iPhone 13 Pro, iPhone 13, iPhone 12 Pro, iPhone 12 6.1\" (414 x 896 points @2x) iPhone 11, iPhone XR 5.8\" (375 x 812 points @3x) iPhone 11 Pro, iPhone XS, iPhone X 5.5\" (414 x 736 points @3x) iPhone 8 Plus, iPhone 7 Plus, iPhone 6S Plus 5.4\" (375 x 812 points @3x) iPhone 13 mini, iPhone 12 mini 4.7\" (375 x 667 points @2x) iPhone SE (3rd \u0026 2nd Gen), iPhone 8, iPhone 7, iPhone 6S 4\" (320 x 568 @2x) iPhone SE (1st Gen), iPod Touch (7th Gen) App Store Screenshots Apple confirmed during WWDC24 that App Store Connect now requires just one set of screenshots for iPhone (and one for iPad). That screenshot can be for either the 6.9\" or 6.5\" iPhone display. You can upload either of the following sizes for the 6.9\" display (portrait sizes, reverse for landscape): 6.9\" 1320 x 2868 pixels (iPhone 16 Pro Max) 6.7\" 1290 x 2796 pixels (iPhone 16 Plus) If you don’t upload screenshots for the 6.9\" display you can provide either of the following for the 6.5\" display: 6.7\" 1284 x 2778 pixels (iPhone 14 Plus) 6.5\" 1242 x 2688 pixels (iPhone 11 Pro Max) All other iPhone display sizes can use scaled versions of the above. See Also iPhone 15 Screen Sizes Want To Learn More? If you’re struggling to build layouts with UIKit that work across the growing range of iOS devices you might like my book - Modern Auto Layout. iPhone 16 Screen Sizes was originally posted 16 Sep 2024 on useyourloaf.com. Want this direct to your inbox? Sign up and get my free WWDC viewing guide PDF.",
+    "author": "",
+    "published": "Mon, 16 Sep 2024 10:44:39 +0100",
+    "image": "https://useyourloaf.com/blog/iphone-16-screen-sizes/001.png",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "900c49fa-19e8-4a1e-842f-2f62d4e4ed6c",
+    "title": "SwiftData Expressions",
+    "link": "https://useyourloaf.com/blog/swiftdata-expressions/",
+    "description": "SwiftData gained support for predicate expression in iOS 18. How does it compare to the expressions we can use with Core Data? Core Data Queries with NSExpression When Apple launched SwiftData with iOS 17 there were some gaps compared to Core Data. A big one for me was the ability to create an aggregate query (FB12292503). For example, to fetch the minimum, maximum, sum, or average of a property. I first wrote about using a Core Data expression to query for min and max values back in 2012. Here’s an updated example with a Core Data log entity that contains a set of markers: public final class CDLog: NSManagedObject { @NSManaged public var name: String? @NSManaged public var timestamp: Date? @NSManaged public var markers: NSSet? ... } The markers also contain a timestamp: public final class CDMarker: NSManagedObject { @NSManaged public var timestamp: Date? @NSManaged public var log: CDLog? ... } I want to know the range (min…max) of timestamps for the markers in a log entry. One way would be to fetch the markers, sorted by timestamp, and return the timestamps of the first, and last markers. A better way is to have SQLite calculate and directly return the values. Core Data has long supported creating fetch requests and predicates with the Foundation type NSExpression. It takes a lot of code but here’s a request that fetches the minimum (earliest) and maximum (latest) dates of markers in a log entry: public class func boundsRequest( _ timeline: NSManagedObjectID ) -\u003e NSFetchRequest\u003cNSFetchRequestResult\u003e { let request = NSFetchRequest\u003cNSFetchRequestResult\u003e( entityName: CDMarker.entityName) request.predicate = CDMarker.inTimeline(timeline) request.resultType = .dictionaryResultType let keyPathExpression = NSExpression(forKeyPath: \\CDMarker.timestamp) let earliestDescription = NSExpressionDescription() earliestDescription.name = \"earliestDate\" earliestDescription.expression = NSExpression(forFunction: \"min:\", arguments: [keyPathExpression]) earliestDescription.expressionResultType = .dateAttributeType let latestDescription = NSExpressionDescription() latestDescription.name = \"latestDate\" latestDescription.expression = NSExpression(forFunction: \"max:\", arguments: [keyPathExpression]) latestDescription.expressionResultType = .dateAttributeType request.propertiesToFetch = [ earliestDescription, latestDescription ] return request } The two NSExpression properties apply a function (min or max) to a keypath returning the two values in a dictionary. Core Data translates the expressions to an SQLite statement performing the work at the database level. SwiftData Predicate Expressions In iOS 18, SwiftData can make use of Foundation’s new #Expression macro to make it easier to build more complex predicates. From the WWDC session: Expressions allow for reference values that do not produce true or false but instead allow for arbitrary types. You can then evaluate the expression as part of more complex predicate. Let’s see an example. I have an Item model class that can contain one or more Record items: @Model final class Item { var name: String var timestamp: Date var record: [Record] } The Record model includes a score: @Model final class Record { var score: Int ... } Suppose I want to find all items with three or more records of which at least two are a passing score of 90 or more. We can write an expression that counts the number of passing records: let passingScore = #Expression\u003c[Record], Int\u003e { records in records.filter { $0.score \u003e= 90 }.count } Note: The body of the expression is restricted to a single expression. We can then evaluate this expression in a compound item predicate: let highScoring = #Predicate\u003cItem\u003e { item in item.records.count \u003e 2 \u0026\u0026 passingScore.evaluate(item.records) \u003e 1 } The resulting SQL query: CoreData: sql: SELECT 0, t0.Z_PK, t0.Z_OPT, t0.ZNAME, t0.ZTIMESTAMP FROM ZITEM t0 WHERE ( (SELECT COUNT(t1.Z_PK) FROM ZRECORD t1 WHERE ( t0.Z_PK = t1.Z1RECORDS) ) \u003e ? AND (SELECT COUNT(t2.Z_PK) FROM ZRECORD t2 WHERE ( t0.Z_PK = t2.Z1RECORDS AND ( t2.ZSCORE \u003e= ?)) ) \u003e ? ) This look promising but I could already write this predicate without the expression: let highScoring = #Predicate\u003cItem\u003e { item in item.records.count \u003e 2 \u0026\u0026 item.records.filter { $0.score \u003e= 90 }.count \u003e 1 } If you expand the expression macro or check the Expression documentation you’ll see it’s creating PredicateExpressions which appear to support a wide range of methods. Unfortunately I can’t seem to get most of them to work either in predicates or expressions. For example, similar to my earlier Core Data example, here’s an expression to return the maximum score in a collection of records: let maxScore = #Expression\u003c[Record], Int\u003e { records in records.map { $0.score }.max() ?? 0 } That fails to compile: The map() function is not supported in this expression So maybe this will improve in future updates but right now I’m not sure I’m gaining anything from using expressions? Let me know if you’ve had more success. Learn More What’s new in SwiftData SwiftData Expressions was originally posted 09 Sep 2024 on useyourloaf.com. Want this direct to your inbox? Sign up and get my free WWDC viewing guide PDF.",
+    "author": "",
+    "published": "Mon, 09 Sep 2024 13:03:47 +0100",
+    "image": "",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "595acb9e-e907-4d84-96a4-2806c27f1718",
+    "title": "NetNewsWire and Conditional GET Issues",
+    "link": "https://inessential.com/2024/08/03/netnewswire_and_conditional_get_issues.html",
+    "description": "I had thought that NetNewsWire’s conditional GET support was rock-solid — and so my first reaction was to be very surprised to learn that it’s not! My second reaction was to be appreciative — Rachel’s work here on setting up a test server and reporting on the results is really great. My goal has always been to make NetNewsWire a model net citizen, and learning where it’s not is super valuable. So: much respect and thanks to Rachel for this. The Data Let’s look at some data and try to figure out what’s happening. Here’s Rachel’s report for NetNewsWire. Things to know: these are all requests for a NetNewsWire-specific feed, and the copy of NetNewsWire making these requests is on my personal laptop. That laptop is occasionally used for development, which can throw things off, but not often. You can even see in the data a gap lasting just over two weeks where there were no requests (I was on vacation). (You can also see some anomalies from when I had it on my dev machine also — ignore every row where ip is v6, since that’s my dev machine.) Another thing to know: this is testing direct feed-reading, as with the On My Mac (or iPhone/iPad) and iCloud accounts. With systems such as Feedly, Feedbin, and so on, we get the data from the sync system and not directly from the site. Ignoring Timing Issues Let’s set aside, at least for today, the timing issues. That situation could be improved, but it very much reflects that this is a desktop app with a command that allows you to refresh feeds manually, without having to wait for the next poll. Conditional GET Issues First, a refresher on how this should work. When a server returns a Last-Modified header, the client should return that exact same string in follow-up requests in an If-Modified-Since header. The server then looks at the If-Modified-Since header and decides to either return a 200 plus the feed — if it has been modified since — or return a 304 Not Modified response and an empty body. It’s the same story with the Etag header. The client should save it and return it in follow-up requests in an If-None-Match header. This is great because it can save a ton of bandwidth, which is great for server and app alike. And NetNewsWire’s been doing this since the early 2000s. But clearly there’s a bug! In some cases, NetNewsWire is not picking up and saving the changed Last-Modified and Etag headers. Sometimes it does, and sometimes it keeps using whatever it already had and ignores the new ones. What could account for this? Let’s look at the logic. Feed processing logic Here’s what happens when a feed download completes without errors and the content is non-empty: First we check the hash of the raw feed data against the hash of the raw feed data the last time it actually changed. If those hashes match, then the app stops processing, because the feed hasn’t changed: it’s exactly the same as last time. This is an optimization that deals with the fact that many servers unfortunately don’t support conditional GET. It allows the app to skip feed parsing and updating the database. Saves a bunch of work. Good for battery life. If the hashes don’t match, then processing continues: it parses the feed and then sends the parsed articles to the code that updates the database. After that it updates and saves the hash of the raw feed data, and finally it stores the conditional GET info — it saves any Last-Modified and Etag header values to send with the next request. This isn’t actually the code, but it’s what the logic looks like: downloadDidComplete(httpResponse, feed, feedData) hash = feedData.md5 if hash == feed.previousHash then return parsedFeed = parse(feedData) updateDatabase(feed, parsedFeed) feed.previousHash = hash feed.conditionalGetInfo = conditionalGetInfoFromResponse(httpResponse) My theory There’s a great chance you’ve already spotted what I think is the issue: it’s that optimization where we check the hash of the raw feed data and return if it matches the previous hash. Here’s what I think has happened in some of the tests: the raw feed data was unchanged, but one or both of the Last-Modified and Etag header values did change. NetNewsWire never picked up the changes to those headers, because that code didn’t run — it had already bailed when it saw that the raw feed data was unchanged. The assumption I made when I wrote this code was that if the raw feed data was unchanged then of course the Last-Modified and Etag header values would be unchanged too, so there was no need to check to see if they were new. And I think that in real-world situations this is probably true pretty much all the time, and it’s only in tests like this where my assumption wouldn’t be true. But I can’t say that for sure! This is a real bug, and we’ll fix it and add a test or tests to make sure it doesn’t happen again. Here’s what the new logic should look like: downloadDidComplete(httpResponse, feedData, feed) hash = feedData.md5 if hash != feed.previousHash { parsedFeed = parse(feedData) updateDatabase(feed, parsedFeed) feed.previousHash = hash } feed.conditionalGetInfo = conditionalGetInfoFromResponse(httpResponse) With the above logic, conditionalGetInfo gets updated no matter what. PS There could be other bugs My theory does point to a bug that should get fixed. But is it the only bug? Is it even the bug that causes the issues in these tests? Though I’m pretty confident that this is the bug — seems pretty obvious, right? — more investigation and testing is warranted.",
+    "author": "",
+    "published": "Sat, 03 Aug 2024 14:21:37 -0700",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "051f8952-9bd8-4709-934e-4202f56fa4b8",
+    "title": "Reruns",
+    "link": "https://inessential.com/2024/02/08/reruns.html",
+    "description": "It’s not a bug in your RSS reader if recent articles in this feed all suddenly appeared as unread. You may even have seeming duplicates. Sorry about that! It’s due to my changing settings in my blog generator. Pages now have a .html suffix where before they had none. This change impacts permalinks, which also changes the guids in my RSS feed — and NetNewsWire and other RSS readers use the guid property to identify articles, which means these will show up as new articles. (Note: I’ve created redirects so that old links pointing in will still work.)",
+    "author": "",
+    "published": "Thu, 08 Feb 2024 08:16:00 -0800",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "ba4f1c7d-9d73-4ef8-abb5-90d6f341bbea",
+    "title": "SwiftUI views versus modifiers",
+    "link": "https://www.swiftbysundell.com/articles/swiftui-views-versus-modifiers",
+    "description": "What’s really the difference between building a piece of UI as a view versus a modifier, and how to choose between those two solutions?",
+    "author": "",
+    "published": "Mon, 27 Feb 2023 11:05:00 +0100",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "82b4585c-d353-4a7b-8a0e-3d04a7066220",
+    "title": "Observing the content offset of a SwiftUI ScrollView",
+    "link": "https://www.swiftbysundell.com/articles/observing-swiftui-scrollview-content-offset",
+    "description": "How the content offset of a SwiftUI ScrollView can be observed without bridging to UIKit.",
+    "author": "",
+    "published": "Mon, 30 Jan 2023 12:50:00 +0100",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  }
+]

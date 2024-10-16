@@ -1,0 +1,27 @@
+{
+  "id": "55087345-5b53-4bcc-a3aa-09f9718394ab",
+  "title": "Learn Jetpack Compose for Android by Examples",
+  "link": "https://medium.com/mindorks/learn-jetpack-compose-for-android-by-examples-a1461f6388a?source=rss----f1a763fc7443--android",
+  "description": "",
+  "author": "Amit Shekhar",
+  "published": "Mon, 02 Nov 2020 05:02:09 GMT",
+  "source": "https://medium.com/feed/mindorks/tagged/android",
+  "categories": [
+    "kotlin",
+    "android",
+    "jetpack",
+    "compose",
+    "androiddev"
+  ],
+  "byline": "Amit Shekhar",
+  "length": 1195,
+  "excerpt": "Hi,",
+  "siteName": "MindOrks",
+  "favicon": "https://miro.medium.com/v2/resize:fill:1000:1000/7*GAOKVe--MXbEJmV9230oOQ.png",
+  "text": "Hi,We just open-sourced a project to learn Jetpack Compose for Android by Examples.Jetpack Compose is Android’s modern toolkit for building native UI.Project Link: Jetpack-Compose-Android-ExamplesYou will be learning:How to build UI using Jetpack Compose in Android?How to display a Text and apply various styles to a Text?How to display a TextField(EditText) and apply various styles on it?How to use the Preview and PreviewParameter feature offered by Android Studio?Learn how to use various layouts such as Column, ScrollableColumn, LazyColumn, Row, ScrollableRow, Box, Stack, and ConstraintLayout in Jetpack Compose?Learn the usage of Clickable in Jetpack Compose with the help of examples.How to use Buttons, Card, Images, AlertDialog in Jetpack Compose?Through the Jetpack Compose tutorial, you will learn various Material Design UI elements such as BottomAppBar, TopAppBar, BottomNavigation, Checkbox, CircularProgressIndicator, LinearProgressIndicator, RadioButton, Slider, Snackbar, and Switch.Learn how to make Custom Views in Jetpack Compose?How to add animation such as Crossfade and Shape Rotation in Jetpack Compose?Project Link: Jetpack-Compose-Android-ExamplesThanksTeam MindOrks",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle\u003e\u003cdiv\u003e\u003cdiv\u003e\u003ca rel=\"noopener follow\" href=\"https://medium.com/@amitshekhar?source=post_page-----a1461f6388a--------------------------------\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"Amit Shekhar\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*XZjBZDgyKHTT2jkpYg5LiQ.png\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003ca href=\"https://medium.com/mindorks?source=post_page-----a1461f6388a--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"MindOrks\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*CWnVPd6NnwpcBIJdoUmkYg.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003cp id=\"97d5\"\u003eHi,\u003c/p\u003e\u003cp id=\"94e2\"\u003eWe just open-sourced a project to learn Jetpack Compose for Android by Examples.\u003c/p\u003e\u003cp id=\"d5ad\"\u003eJetpack Compose is Android’s modern toolkit for building native UI.\u003c/p\u003e\u003cp id=\"6a36\"\u003eProject Link: \u003ca href=\"https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003e\u003cstrong\u003eJetpack-Compose-Android-Examples\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e\u003cp id=\"c6a7\"\u003eYou will be learning:\u003c/p\u003e\u003cul\u003e\u003cli id=\"07cb\"\u003eHow to build UI using Jetpack Compose in Android?\u003c/li\u003e\u003cli id=\"9c9b\"\u003eHow to display a Text and apply various styles to a Text?\u003c/li\u003e\u003cli id=\"724e\"\u003eHow to display a TextField(EditText) and apply various styles on it?\u003c/li\u003e\u003cli id=\"9b6b\"\u003eHow to use the Preview and PreviewParameter feature offered by Android Studio?\u003c/li\u003e\u003cli id=\"0409\"\u003eLearn how to use various layouts such as Column, ScrollableColumn, LazyColumn, Row, ScrollableRow, Box, Stack, and ConstraintLayout in Jetpack Compose?\u003c/li\u003e\u003cli id=\"b852\"\u003eLearn the usage of Clickable in Jetpack Compose with the help of examples.\u003c/li\u003e\u003cli id=\"5bb2\"\u003eHow to use Buttons, Card, Images, AlertDialog in Jetpack Compose?\u003c/li\u003e\u003cli id=\"6324\"\u003eThrough the Jetpack Compose tutorial, you will learn various Material Design UI elements such as BottomAppBar, TopAppBar, BottomNavigation, Checkbox, CircularProgressIndicator, LinearProgressIndicator, RadioButton, Slider, Snackbar, and Switch.\u003c/li\u003e\u003cli id=\"a158\"\u003eLearn how to make Custom Views in Jetpack Compose?\u003c/li\u003e\u003cli id=\"eee3\"\u003eHow to add animation such as Crossfade and Shape Rotation in Jetpack Compose?\u003c/li\u003e\u003c/ul\u003e\u003cp id=\"8e1f\"\u003eProject Link: \u003ca href=\"https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003e\u003cstrong\u003eJetpack-Compose-Android-Examples\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e\u003cp id=\"e55c\"\u003eThanks\u003c/p\u003e\u003cp id=\"21ea\"\u003e\u003cstrong\u003eTeam MindOrks\u003c/strong\u003e\u003c/p\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2020-11-02T05:02:09.605Z",
+  "modifiedTime": null
+}

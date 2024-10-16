@@ -1,0 +1,27 @@
+{
+  "id": "1f23b51f-4cff-4f2e-a6e0-043b1f301102",
+  "title": "Are you considering the developer’s mental model?",
+  "link": "https://uxdesign.cc/are-you-considering-the-developers-mental-model-306c49104a27?source=rss----138adf9c44c---4",
+  "description": "How implementation models hinder good design.Continue reading on UX Collective »",
+  "author": "Maria Kovalevich",
+  "published": "Tue, 15 Oct 2024 23:23:00 GMT",
+  "source": "https://uxdesign.cc/feed",
+  "categories": [
+    "startup",
+    "product-management",
+    "user-research",
+    "product-design",
+    "ux"
+  ],
+  "byline": "Maria Kovalevich",
+  "length": 1213,
+  "excerpt": "I’ve noticed a recurring mistake that most early-stage startup founders tend to make. My experience working with over a dozen startups has consistently highlighted this issue. This is mostly intended…",
+  "siteName": "UX Collective",
+  "favicon": "https://miro.medium.com/v2/resize:fill:256:256/1*dn6MbbIIlwobt0jnUcrt_Q.png",
+  "text": "How implementation models hinder good design.Illustration by Maria KovalevichI’ve noticed a recurring mistake that most early-stage startup founders tend to make. My experience working with over a dozen startups has consistently highlighted this issue. This is mostly intended for founders and early teams. It will also be useful to those working on something new. I’ve seen positive results in my work with early products, and some of the ideas and discussions have been helpful to the founders I’ve worked with. That’s why I decided to write it all down and share it. The text came out quite lengthy, but hopefully, you’ll find something useful in it.Before we begin, let me give you a brief overview of what you’ll find here:What is a founder’s mistake: an analysis of a common mistake founders make when designing interfaces.What are mental models: a brief overview of mental models and their importance for product design.My experience of exploring mental models: personal impressions of applying mental models in developing a biotech platform.Frameworks and tips for using mental models: practical advice for founders on how to incorporate mental models into their work, even without a designer on the team.",
+  "image": "https://miro.medium.com/v2/da:true/resize:fit:883/1*nGwPJ-iXiUy90jtmwmKCvQ.gif",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle\u003e\u003cdiv\u003e\u003cdiv\u003e\u003ch2 id=\"3707\"\u003eHow implementation models hinder good design.\u003c/h2\u003e\u003cdiv\u003e\u003ca href=\"https://medium.com/@mariakovalevich?source=post_page-----306c49104a27--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"Maria Kovalevich\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*p4fT18dWds_ZO0HsZR46kA.png\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003ca href=\"https://uxdesign.cc/?source=post_page-----306c49104a27--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003cp\u003e\u003cimg alt=\"UX Collective\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*mDhF9X4VO0rCrJvWFatyxg.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e\u003cfigure\u003e\u003cfigcaption\u003eIllustration by Maria Kovalevich\u003c/figcaption\u003e\u003c/figure\u003e\u003cp id=\"da5e\"\u003eI’ve noticed a recurring mistake that most early-stage startup founders tend to make. My experience working with over a dozen startups has consistently highlighted this issue. This is mostly intended for founders and early teams. It will also be useful to those working on something new. I’ve seen positive results in my work with early products, and some of the ideas and discussions have been helpful to the founders I’ve worked with. That’s why I decided to write it all down and share it. The text came out quite lengthy, but hopefully, you’ll find something useful in it.\u003c/p\u003e\u003cp id=\"2ad0\"\u003eBefore we begin, let me give you a brief overview of what you’ll find here:\u003c/p\u003e\u003cul\u003e\u003cli id=\"9366\"\u003e\u003cstrong\u003eWhat is a founder’s mistake\u003c/strong\u003e: an analysis of a common mistake founders make when designing interfaces.\u003c/li\u003e\u003cli id=\"87a0\"\u003e\u003cstrong\u003eWhat are mental models\u003c/strong\u003e: a brief overview of mental models and their importance for product design.\u003c/li\u003e\u003cli id=\"cce1\"\u003e\u003cstrong\u003eMy experience of exploring mental models\u003c/strong\u003e: personal impressions of applying mental models in developing a biotech platform.\u003c/li\u003e\u003cli id=\"c079\"\u003e\u003cstrong\u003eFrameworks and tips for using mental models\u003c/strong\u003e: practical advice for founders on how to incorporate mental models into their work, even without a designer on the team.\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2024-10-15T23:23:00.544Z",
+  "modifiedTime": null
+}
