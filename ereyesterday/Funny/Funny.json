@@ -1,0 +1,394 @@
+[
+  {
+    "id": "f3bbefca-b514-40fd-ab8f-932253ad3794",
+    "title": "Bad Map Projection: The United Stralia",
+    "link": "https://xkcd.com/2999/",
+    "description": "",
+    "author": "",
+    "published": "Wed, 16 Oct 2024 04:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/bad_map_projection_the_united_stralia.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "c72eb32e-f33c-4bba-8602-f00df9cd5d42",
+    "title": "Ravioli-Shaped Objects",
+    "link": "https://xkcd.com/2998/",
+    "description": "",
+    "author": "",
+    "published": "Mon, 14 Oct 2024 04:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/ravioli_shaped_objects.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "bc93edb1-6b98-4157-878e-7c8f177fd2da",
+    "title": "Am I a good witch or a bad witch?",
+    "link": "https://thebloggess.com/2024/10/10/am-i-a-good-witch-or-a-bad-witch/",
+    "description": "This morning Victor came out of the house to stare at me because I was standing on a chair with my head in the trees and he just sighed a little so I explained that I was just painting the trees for Halloween and then he sighed louder. But then I explained that I’d noticedContinue reading \"Am I a good witch or a bad witch?\"",
+    "author": "thebloggess",
+    "published": "Thu, 10 Oct 2024 18:28:30 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  },
+  {
+    "id": "b95b69f5-2ead-4804-b9f5-544b4d7a3c65",
+    "title": "October reads…so spooky…so good.",
+    "link": "https://thebloggess.com/2024/10/07/october-reads-so-spooky-so-good/",
+    "description": "I have ketamine treatment tonight so I can’t have caffeine or my ADD meds or even food and so that’s probably why I just emailed thousands of people an email with a 500-year-old drawing of a medieval cat carrying off what seems to be a dismembered penis (my substack is weirder than normal today, I’mContinue reading \"October reads…so spooky…so good.\"",
+    "author": "thebloggess",
+    "published": "Mon, 07 Oct 2024 21:07:25 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  },
+  {
+    "id": "f8ef846f-c967-4c94-ad50-8871d7cda0f8",
+    "title": "Therapy is now horrible",
+    "link": "http://theoatmeal.com/blog/horrible_therapist_game?no_popup=1",
+    "description": "Intrusive thoughts and more.View on my website",
+    "author": "Matthew Inman",
+    "published": "2024-10-10T17:56:32+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/horrible_therapist_game_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "9e4458de-a972-4f8e-9725-92d6a8d267b6",
+    "title": "Do you need to settle a dispute?",
+    "link": "http://theoatmeal.com/blog/swords?no_popup=1",
+    "description": "Let's hit each other with fake swords.View on my website",
+    "author": "Matthew Inman",
+    "published": "2024-08-08T18:54:47+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/swords_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "0df4464d-844f-4a0f-adcd-4aedaf22bcba",
+    "title": "CodeSOD: Time to Change",
+    "link": "https://thedailywtf.com/articles/time-to-change",
+    "description": "Dennis found this little nugget in an application he inherited. function myTime(){ $utc_str = gmdate(\"M d Y H:i:s\", time()); $utc = strtotime($utc_str); return $utc; } time() returns the current time as a Unix timestamp. gmdate then formats that, with the assumption that the time is in GMT. strtotime then parses that string back into a timestamp, and returns that timestamp. Notably, PHP pins the Unix timestamp to UTC+00:00, aka GMT. So this function takes a time, formats it, parses the format to get what should be the same time back. And we call the function myTime because of course we do. When reinventing a wheel, but square, please do let everyone know that it's yours. [Advertisement] Keep the plebs out of prod. Restrict NuGet feed privileges with ProGet. Learn more.",
+    "author": "Remy Porter",
+    "published": "Wed, 16 Oct 2024 06:30:00 GMT",
+    "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "CodeSOD"
+    ]
+  },
+  {
+    "id": "404fc7a8-19b9-4c8b-a264-37491673825f",
+    "title": "CodeSOD: An Overloaded Developer",
+    "link": "https://thedailywtf.com/articles/an-overloaded-developer",
+    "description": "\"Oh, I see what you mean, I'll just write an overloaded function which takes the different set of parameters,\" said the senior dev. That got SB's attention. You see, they were writing JavaScript, which doesn't have function overloading. \"Um,\" SB said, \"you're going to do what?\" \"Function overloading,\" the senior dev said. \"It's when you write multiple versions of the same method with different signatures-\" \"I know what it is,\" SB said. \"I'm just wondering how you're going to do that in JavaScript.\" \"Ah,\" the senior dev said with all the senior dev wisdom in the world. \"It's a popular misconception that function overloading isn't allowed in JavaScript. See this?\" function addMarker(lat,lng,title,desc,pic,link,linktext,cat,icontype) { addMarker(lat,lng,title,desc,pic,link,linktext,cat,icontype,false); } function addMarker(lat,lng,title,desc,pic,link,linktext,cat,icontype,external) { /* preparation code */ if (external){ /* glue code */ } else { /* other glue code */ } } This, in fact, did not overload the function. This first created a version of addMarker which called itself with the wrong number of parameters. It then replaced that definition with a new one that actually did the work. That it worked at all was a delightful coincidence- when you call a JavaScript function with too few parameters, it just defaults the remainders to null, and null is falsy. [Advertisement] Picking up NuGet is easy. Getting good at it takes time. Download our guide to learn the best practice of NuGet for the Enterprise.",
+    "author": "Remy Porter",
+    "published": "Tue, 15 Oct 2024 06:30:00 GMT",
+    "image": "",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "CodeSOD"
+    ]
+  },
+  {
+    "id": "b643ba78-a1d1-4953-b5d4-467862b68474",
+    "title": "Saturday Morning Breakfast Cereal - Jurassic",
+    "link": "https://www.smbc-comics.com/comic/jurassic-2",
+    "description": "Click here to go see the bonus panel!Hovertext:It's literally not even close. Look at the unlabeled graph.Today's News:",
+    "author": "Zach Weinersmith",
+    "published": "Wed, 16 Oct 2024 16:48:46 -0400",
+    "image": "https://www.smbc-comics.com/comics/1729111734-20241016.png",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  },
+  {
+    "id": "3dbfead3-24a2-443a-8ef2-a252d30769ee",
+    "title": "Saturday Morning Breakfast Cereal - Jung Science",
+    "link": "https://www.smbc-comics.com/comic/jung-science",
+    "description": "Click here to go see the bonus panel!Hovertext:The best part of the book is his descriptions of Freud fainting because Jung didn't believe sex was the cause of everything.Today's News:",
+    "author": "Zach Weinersmith",
+    "published": "Tue, 15 Oct 2024 13:29:43 -0400",
+    "image": "https://www.smbc-comics.com/comics/1729013393-20241015.png",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  },
+  {
+    "id": "93ba2084-6d67-4a68-afbc-45af8d276a18",
+    "title": "Sunday Secret",
+    "link": "https://postsecret.com/2024/10/13/sunday-secret-2/",
+    "description": "If you live in Pennsylvania, Michigan, Wisconsin or Nevada, you’re lucky. You can still register online this week to vote in the Presidential election. vote411.org/register The post Sunday Secret appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sun, 13 Oct 2024 00:09:00 +0000",
+    "image": "https://i0.wp.com/postsecret.com/wp-content/uploads/2024/10/Jeopardy.jpg?resize=526%2C344\u0026ssl=1",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "ba5c5d05-f2d8-4520-9429-dbebb785c358",
+    "title": "PostSecret Live! Secrets, Animated",
+    "link": "https://postsecret.com/2024/10/13/postsecret-live-secrets-animated/",
+    "description": "The post PostSecret Live! Secrets, Animated appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sun, 13 Oct 2024 00:06:00 +0000",
+    "image": "",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "c42b51a5-2d99-4133-b2d2-c80b95f393a6",
+    "title": "Julia Cunningham and Tommy Zubritzky",
+    "link": "https://theonion.com/julia-cunningham-and-tommy-zubritzky/",
+    "description": "Rumor has it the wedding cost $60,000. $60,000! Can you believe that? That’s two Honda Accords.  The post Julia Cunningham and Tommy Zubritzky appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Wed, 16 Oct 2024 17:09:06 +0000",
+    "image": "",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "Weddings",
+      "Former Print Exclusive",
+      "Vol 60: Issue 42"
+    ]
+  },
+  {
+    "id": "b62ac424-3cf1-45de-b139-6d812ba81506",
+    "title": "‘New York Times’ To Cease Publication",
+    "link": "https://theonion.com/new-york-times-to-cease-publication/",
+    "description": "NEW YORK—With the struggling newspaper admitting this was the final nail in its coffin, The New York Times announced this week that it would permanently cease publication, saying there was no way it could compete with The Onion’s newly relaunched print edition. In an internal memo sent to the paper’s 5,800 employees, publisher A.G. Sulzberger […] The post ‘New York Times’ To Cease Publication appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Wed, 16 Oct 2024 15:29:18 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2024/10/Member_Testimonial_100824_2-Candace_Humphrey_IHA-GR_NEW-SITE_400px.jpg",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "News",
+      "Former Print Exclusive",
+      "Vol 60: Issue 42"
+    ]
+  },
+  {
+    "id": "5fe682d1-38a8-4c2d-b8cc-4fd7deaf22a8",
+    "title": "Cries and Dolls",
+    "link": "https://awkwardfamilyphotos.com/2024/criesanddolls",
+    "description": "“My great aunt had some interesting babysitting techniques.” (submitted by IG @mangum_manor) The post Cries and Dolls appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Team Awkward",
+    "published": "Wed, 16 Oct 2024 21:27:35 +0000",
+    "image": "https://s3.awkwardfamilyphotos.com/wp-content/uploads/2024/10/16142632/730a-1024x614.jpg",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Babies"
+    ]
+  },
+  {
+    "id": "3abfd6f4-5840-47e2-ad54-40ef606db51f",
+    "title": "Mother Time",
+    "link": "https://awkwardfamilyphotos.com/2024/mother-time/",
+    "description": "“My mother, pointing out that the camera timer wasn’t working. And my brother, sleeping on the assignment.” (submitted by IG @patrick.of.all.trades) The post Mother Time appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Team Awkward",
+    "published": "Wed, 16 Oct 2024 21:24:58 +0000",
+    "image": "https://s3.awkwardfamilyphotos.com/wp-content/uploads/2024/10/16142359/230f.jpg",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Family Portrait"
+    ]
+  },
+  {
+    "id": "87acfff2-9e33-41f3-b40a-1077fe11cd37",
+    "title": "Obliviator, Part Four",
+    "link": "https://www.penny-arcade.com/news/post/2024/10/16/obliviator-part-four",
+    "description": "It's hard to say goodbye. So Silent Hill, but maybe also to Australia, parts of which clearly overlap.",
+    "author": "",
+    "published": "Wed, 16 Oct 2024 20:02:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "037d4c37-020a-4844-ba7f-a44dbe28687b",
+    "title": "Darksiders II Deathinitive Edition",
+    "link": "https://www.penny-arcade.com/news/post/2024/10/16/darksiders-ii-deathinitive-edition",
+    "description": "This is just a quick post to mention that the Darksiders II Deathinitive edition just dropped yesterday and so far I’m really impressed.  I love all the games in the Darksiders series but I think the second one is probably my favorite. It’s always been a beautiful game with excellent combat, fun traversal and awesome Zelda style puzzles. This new Deathinitive edition makes the game run in 4k at 60FPS, adds Raytracing, DuelSense controller integration and quicker load times. I’ve spent a few hours with the game so far and the upgrades are great! If you never played it I highly recommend grabbing this new version if you’re looking for a slick hack and slash action RPG. If you already played it like me these upgrades make going back totally worth it. These days it feels like a lot of games are trying to be an HBO series instead of a game and Darksiders II is simply a kick ass fucking videogame.   -Gabe Out",
+    "author": "",
+    "published": "Wed, 16 Oct 2024 19:19:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "40bce63f-bf62-4e90-b30c-d1b015c58efc",
+    "title": "Jerry Seinfeld Awkwardly Explains His Eulogy for ‘Dominant Masculinity’",
+    "link": "https://www.cracked.com/article_44000_jerry-seinfeld-awkwardly-explains-his-eulogy-for-dominant-masculinity.html?newsletter-cat=movies-tv",
+    "description": "By JM McNab Published: October 16th, 2024",
+    "author": "",
+    "published": "Wed, 16 Oct 2024 15:30:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "0c6b4a7b-1b35-49fc-b742-09072fd4dc57",
+    "title": "Bernie Mac’s Daughter Didn’t Always Appreciate Being Part of His Act",
+    "link": "https://www.cracked.com/article_43994_bernie-macs-daughter-didnt-always-appreciate-being-part-of-his-act.html?newsletter-cat=movies-tv",
+    "description": "By Matt Solomon Published: October 16th, 2024",
+    "author": "",
+    "published": "Wed, 16 Oct 2024 15:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "f5793b5c-4827-460d-bbda-f5ddaabb8d1e",
+    "title": "Comic for 2021.12.21",
+    "link": "http://explosm.net/comics/6060/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Tue, 21 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "7a24b8b3-9513-42ac-ab8d-348bb0b5a450",
+    "title": "Comic for 2021.12.20",
+    "link": "http://explosm.net/comics/6059/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Mon, 20 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "cc7e23d6-38a0-4fac-a489-ce5058915df7",
+    "title": "'You can haz watermelon juice?': Person Adopts a Senior Cat Who Loves to Eat Jalapeno and Spicy Chili, X Users Chime in with Their Own Felines’ Favorite Funky Foods",
+    "link": "https://cheezburger.com/37316357/you-can-haz-watermelon-juice-person-adopts-a-senior-cat-who-loves-to-eat-jalapeno-and-spicy-chili-x",
+    "description": "One thing that you will inevitably learn about cats over your time as a cat owner is that… cats are not what you initially expect them to be. Cats have purrsonalities. They have likes and dislikes, and the same way that there are some weird things that you like, there are also some weird things that they like. And that is certainly true when it comes to food. Every cat has some non-meat food that they are obsessed with, that they will fight you for. Some cats are obsessed with bread. Other cats love cucumbers for no reason. We have even seen this one cat who is obsessed with an almond. We don't know why cats are like this, and you will not know what your kitty is obsessed with until said obsessed surfaces. And then, there will be no going back. Once your cat gets that system update, they will fight, tooth and nail, to get that piece of jalapeno off your plate.",
+    "author": "Marielru",
+    "published": "Wed, 16 Oct 2024 07:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "hilarious",
+      "cat",
+      "lol",
+      "funny cats",
+      "ridiculous",
+      "silly",
+      "Cats",
+      "funny"
+    ]
+  },
+  {
+    "id": "294ff0d4-cca1-466c-8284-46efabfb71a5",
+    "title": "22 Feisty Feline Memes Fetching Cat Craze For a Fuzzy Whimsical Wednesday",
+    "link": "https://cheezburger.com/37306373/22-feisty-feline-memes-fetching-cat-craze-for-a-fuzzy-whimsical-wednesday",
+    "description": "We know it's only Wednesday, but our office has already had enough of this week, and that's all thanks to our office cats, who went completely coo-coo. They were all led by Mr. Whiskers, the whimsical gent. Don't let his tuxie exterior fool you - he might look like a gentleman, but he's a coo-coo cat guy. He gathered Greta, the fluffy grey lady that usually naps by the sunny window, and Bug, the single-brain-celled orange who has a rubber chicken for a brain. Together, they tried to make all of us get up from our seats so they could sneak to the kitchen and steal all the treats.We don't really want to disclose how the events have folded (cats won, hoomans lost.) and we have only one way to deal with it, as we deal with every whimsical event on this Wednesday - a healthy load of fuzzy feisty feline memes to fetch some more of this cat craze.",
+    "author": "Ayala Sorotsky",
+    "published": "Wed, 16 Oct 2024 08:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "funny cat memes",
+      "funny memes",
+      "Memes",
+      "funny cats",
+      "hilarious memes",
+      "Cats",
+      "hilarious cats",
+      "funny",
+      "cat memes"
+    ]
+  },
+  {
+    "id": "48df671e-3089-425f-b3ee-10cc0d6b8633",
+    "title": "Boss gives manager more work after they complain about their workload which includes covering vacant positions: 'Those employees quit 8 months ago'",
+    "link": "https://cheezburger.com/37349125/boss-gives-manager-more-work-after-they-complain-about-their-workload-which-includes-covering-vacant",
+    "description": "Being consistently overloaded with work in an organization where the expectations are completely out of touch with reality is a soul-sucking experience… always falling short, no matter how much time and effort you put in.Let's face it: if your team is \"understaffed\" for a long enough period of time, it's pretty safe to say that your employer has no intentions of hiring anyone else, and they consider it to be an ideal staffing level. It's only when productivity and customer satisfaction start slipping that they might consider doing something about it, and they'll probably still just blame their exhausted and burned-out, overstretched workers first.This manager, who is responsible for 35 employees, shared with their boss how they felt extremely overwhelmed by the amount of work they had to do, which included \"specialized\" positions that had been vacant for eight months. Their complaints fell on deaf ears, with their boss choosing instead to throw their weight around, writing up their team members and giving the manager more to do.",
+    "author": "Brad Dickson",
+    "published": "Wed, 16 Oct 2024 15:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "workplace discussion",
+      "employment issues",
+      "antiwork",
+      "workplace-stories",
+      "jobs",
+      "employee",
+      "employment-discussion",
+      "job",
+      "work",
+      "employees",
+      "overworked-employees",
+      "workplace",
+      "Horrible Bosses",
+      "employment",
+      "in the workplace"
+    ]
+  },
+  {
+    "id": "fd1b1002-9c8a-4868-a766-eba984f97a37",
+    "title": "‘He didn’t even challenge [me]’: Entitled hotel guest makes one false move and gets kicked out before he can even make it to his room, still gets charged",
+    "link": "https://cheezburger.com/37346053/he-didnt-even-challenge-me-entitled-hotel-guest-makes-one-false-move-and-gets-kicked-out-before-he",
+    "description": "When you are checking into a hotel, you should already know to be on your best behavior while at the front desk. Not only are you being judged on how you will be as a guest, but you are also in front of other guests who are also doing the judging. Unfortunately, hotels bring out a lot of male and female Karens who think they own the place and people who work there the second they walk in. Apparently, if you pay $60 a night, you're allowed to treat everyone else like dirt. Take for instance this guest who ended up being kicked out barely two minutes after checking in—he didn't even make it to his room before he had to return the key. Why? Because he tried to score some (at the time) illegal substances from the bellhop. He wasn't even trying to be sneaky about it… Like, come on dude, at least try to whisper. Read the whole ordeal below!",
+    "author": "Elna McHilderson",
+    "published": "Wed, 16 Oct 2024 14:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "karens",
+      "hotel guest",
+      "hotel",
+      "hospitality",
+      "reddit karen",
+      "hotel employee",
+      "what goes around comes around",
+      "entitled people karma",
+      "concierge",
+      "pay back",
+      "karens in the wild",
+      "justice served",
+      "entitled",
+      "karen karma",
+      "r-entitled",
+      "Reddit",
+      "karen story",
+      "karma",
+      "karen",
+      "entitled people"
+    ]
+  },
+  {
+    "id": "dfaf79a5-8c35-48a3-8abc-a66660477821",
+    "title": "08/31/23 PHD comic: 'New Book! Oliver's Great Big Universe!'",
+    "link": "http://www.phdcomics.com/comics.php?f=2050",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"New Book! Oliver's Great Big Universe!\" - originally published 8/31/2023 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Tue, 14 Dec 2021 11:53:03 -0800",
+    "image": "http://www.phdcomics.com/comics/archive/phd083123s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  },
+  {
+    "id": "8510948a-abd0-47d0-9b6b-525649bf3737",
+    "title": "10/22/21 PHD comic: 'Current Status'",
+    "link": "http://www.phdcomics.com/comics.php?f=2049",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"Current Status\" - originally published 10/22/2021 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Mon, 25 Oct 2021 02:09:47 -0700",
+    "image": "http://www.phdcomics.com/comics/archive/phd102221s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  }
+]

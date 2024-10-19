@@ -1,0 +1,31 @@
+{
+  "id": "a97d0e02-73e9-45fd-a220-08da86e1c9c1",
+  "title": "SE Radio 637: Steve Smith on Software Quality",
+  "link": "http://se-radio.net/se-radio-637-steve-smith-on-software-quality",
+  "description": "Steve Smith, founder and principal architect at Nimble Pros, joins host Jeff Doolittle for a conversation about software quality. The episode begins with a discussion of why software quality matters for businesses, customers, and developers. Steve explains some patterns and practices that help teams design for quality. They discuss in detail the practices of testing and quality assurance, and the conversation wraps up with suggestions for fostering a culture of quality in teams and organizations. Brought to you by IEEE Computer Society and IEEE Software magazine.",
+  "author": "SE-Radio Team",
+  "published": "Thu, 10 Oct 2024 21:33:00 +0000",
+  "source": "http://feeds.feedburner.com/se-radio",
+  "categories": [
+    "design",
+    "quality",
+    "code",
+    "lean",
+    "testing",
+    "tests",
+    "refactoring",
+    "encapsulation",
+    "information hiding"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
