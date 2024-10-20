@@ -1,0 +1,29 @@
+{
+  "id": "e89a6c1d-f51c-4cc7-8709-355cb5f2c09b",
+  "title": "How API security is evolving for the GenAI era",
+  "link": "https://stackoverflow.blog/2024/10/18/how-api-security-is-evolving-for-the-genai-era/",
+  "description": "Ben Popper chats with Keith Babo, Head of Product at Solo.io, about how the API security landscape is changing in the era of GenAI. They talk through the role of governance in AI, the importance of data protection, and the role API gateways play in enhancing security and functionality. Keith shares his insights on retrieval-augmented generation (RAG) systems, protecting PII, and the necessity of human-in-the-loop AI development.",
+  "author": "Eira May",
+  "published": "Fri, 18 Oct 2024 16:00:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "podcast",
+    "se-tech",
+    "se-stackoverflow",
+    "ai",
+    "api",
+    "security",
+    "retrieval-augmented-generation"
+  ],
+  "byline": "Eira May",
+  "length": 1015,
+  "excerpt": "Ben Popper chats with Keith Babo, Head of Product at Solo.io, about how the API security landscape is changing in the era of GenAI. They talk through the role of governance in AI, the importance of data protection, and the role API gateways play in enhancing security and functionality. Keith shares his insights on retrieval-augmented generation (RAG) systems, protecting PII, and the necessity of human-in-the-loop AI development.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "October 18, 2024Ben Popper chats with Keith Babo, Head of Product at Solo.io, about how the API security landscape is changing in the era of GenAI. They talk through the role of governance in AI, the importance of data protection, and the role API gateways play in enhancing security and functionality. Keith shares his insights on retrieval-augmented generation (RAG) systems, protecting PII, and the necessity of human-in-the-loop AI development. Credit: Alexandra FrancisSolo.io provides API gateway, service mesh, and internal developer portal solutions.Follow Solo.io on X or LinkedIn or dig into the docs.Want to brush up on RAG? Our Guide to AI walks you through the concept and includes a practical example. Or check out one expert’s practical tips for RAG on our blog.Connect with Keith on LinkedIn.Shoutout to Stack Overflow user MrSimpleMind: their helpful answer to the question – How to run jq from gitbash in windows? – has been viewed by more than 213,000 people and won a Populist badge.TRANSCRIPT",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003ctime datetime=\"2024-10-18T16:00:00.000Z\" itemprop=\"datePublished\"\u003e October 18, 2024\u003c/time\u003e\u003cp itemprop=\"abstract\"\u003eBen Popper chats with Keith Babo, Head of Product at Solo.io, about how the API security landscape is changing in the era of GenAI. They talk through the role of governance in AI, the importance of data protection, and the role API gateways play in enhancing security and functionality. Keith shares his insights on retrieval-augmented generation (RAG) systems, protecting PII, and the necessity of human-in-the-loop AI development.\u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026amp;h=630\u0026amp;auto=format\u0026amp;dpr=2\" width=\"1200\" height=\"630\" alt=\"Article hero image\" itemprop=\"image\"/\u003e\u003cfigcaption\u003e  \u003cspan\u003e Credit: Alexandra Francis\u003c/span\u003e\u003c/figcaption\u003e\u003c/figure\u003e\u003c/div\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003e\u003ca href=\"http://solo.io\"\u003eSolo.io\u003c/a\u003e provides API gateway, service mesh, and internal developer portal solutions.\u003c/p\u003e\u003cp\u003eFollow Solo.io on \u003ca href=\"https://twitter.com/soloio_inc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\"\u003eX\u003c/a\u003e or \u003ca href=\"https://www.linkedin.com/company/solo.io/\"\u003eLinkedIn\u003c/a\u003e or dig into the \u003ca href=\"https://docs.solo.io/\"\u003edocs\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eWant to brush up on RAG? Our \u003ca href=\"https://stackoverflow.co/teams/resources/ai-industry-guide/key-tools-technologies-terms/rag/\"\u003eGuide to AI\u003c/a\u003e walks you through the concept and includes a practical example. Or check out one expert’s \u003ca href=\"https://stackoverflow.blog/2024/08/15/practical-tips-for-retrieval-augmented-generation-rag/\"\u003epractical tips for RAG\u003c/a\u003e on our blog.\u003c/p\u003e\u003cp\u003eConnect with Keith on \u003ca href=\"https://www.linkedin.com/in/babo/\"\u003eLinkedIn\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eShoutout to Stack Overflow user \u003ca href=\"https://stackoverflow.com/users/1223532/mrsimplemind\"\u003eMrSimpleMind\u003c/a\u003e: their helpful answer to the question – \u003ca href=\"https://stackoverflow.com/questions/53967693/how-to-run-jq-from-gitbash-in-windows\"\u003eHow to run jq from gitbash in windows?\u003c/a\u003e – has been viewed by more than 213,000 people and won a \u003ca href=\"https://stackoverflow.com/help/badges/62/populist\"\u003ePopulist badge\u003c/a\u003e.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://the-stack-overflow-podcast.simplecast.com/episodes/how-api-security-is-evolving-for-the-genai-era/transcript\" rel=\"noopener\" target=\"_blank\"\u003eTRANSCRIPT\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": null,
+  "modifiedTime": null
+}
