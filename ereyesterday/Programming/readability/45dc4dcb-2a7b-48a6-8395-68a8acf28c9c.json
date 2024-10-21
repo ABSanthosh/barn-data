@@ -1,0 +1,26 @@
+{
+  "id": "45dc4dcb-2a7b-48a6-8395-68a8acf28c9c",
+  "title": "SE Radio 638: Nick Tune and Jean-Georges Perrin on Architecture Modernization",
+  "link": "http://se-radio.net/se-radio-638-nick-tune-and-jean-georges-perrin-on-architecture-modernization",
+  "description": "Nick Tune and Jean-Georges Perrin join host Giovanni Asproni to talk about their proposed approach to modernizing legacy systems. The episode starts with some high-level perspective to set context for the approach described in their book, Architecture Modernization (Manning, 2024). From there, the discussion turns to important details, including criteria for deciding which aspects to revisit; some of the activities, processes, and tools; and the importance of data engineering in modernization efforts. Nick and Jean-Georges describe how to successfully implement an architecture-modernization effort, and how to fit that work with the teams' other priorities. The episode finishes with some warnings about the typical risks associated with modernizing a legacy system, and suggestions on how to mitigate them. This episode is sponsored by QA Wolf.",
+  "author": "SE-Radio Team",
+  "published": "Thu, 17 Oct 2024 20:51:00 +0000",
+  "source": "http://feeds.feedburner.com/se-radio",
+  "categories": [
+    "architecture",
+    "legacy",
+    "modernization",
+    "refactoring\\"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
