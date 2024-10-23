@@ -1,0 +1,377 @@
+[
+  {
+    "id": "135f0b51-512c-4498-91fe-ce13c3c9a9d4",
+    "title": "Apple celebrates 10 years of Apple Pay",
+    "link": "https://www.apple.com/newsroom/2024/10/apple-celebrates-10-years-of-apple-pay/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2024-10-17T12:59:31.014Z",
+    "image": "https://www.apple.com/newsroom/images/2024/10/apple-celebrates-10-years-of-apple-pay/tile/Apple-Pay-10-years-icon-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "9d15f3fc-42e9-4fa5-b246-65586dc703d2",
+    "title": "Apple expands tools to help businesses connect with customers",
+    "link": "https://www.apple.com/newsroom/2024/10/apple-expands-tools-to-help-businesses-connect-with-customers/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2024-10-16T18:59:46.605Z",
+    "image": "https://www.apple.com/newsroom/images/2024/10/apple-expands-tools-to-help-businesses-connect-with-customers/tile/Apple-Business-Connect-3up-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "9ac33319-1078-448e-b30b-f09aace48af4",
+    "title": "The Making of Submerged | Apple Vision Pro",
+    "link": "https://www.youtube.com/watch?v=eYJcUtVIB_g",
+    "description": "",
+    "author": "Apple",
+    "published": "2024-10-10T16:00:38+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "13e4a5dd-9946-4bb2-9948-e991661ef45d",
+    "title": "Submerged — Official Trailer | Apple Vision Pro",
+    "link": "https://www.youtube.com/watch?v=HjvzQeqoGRg",
+    "description": "",
+    "author": "Apple",
+    "published": "2024-10-07T16:00:48+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "41a7c940-b946-405f-ad55-351a566f40b2",
+    "title": "iPad mini 7 can also be restored wirelessly from another iOS device",
+    "link": "https://9to5mac.com/2024/10/22/ipad-mini-7-restored-wirelessly/",
+    "description": "As we reported last month, feature a new system that lets users restore the device’s firmware wirelessly from another iPhone or iPad. Now we’ve learned that Apple is also expanding this system to the recently announced . more…",
+    "author": "Filipe Espósito",
+    "published": "Tue, 22 Oct 2024 23:45:41 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/restore-ipad-wireless.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "5133e276-8df0-444a-932a-fdbca6052937",
+    "title": "CAE showcases new pilot training solution for Apple Vision Pro",
+    "link": "https://9to5mac.com/2024/10/22/cae-pilot-training-apple-vision-pro/",
+    "description": "Canadian Aviation Electronics (CAE), a company specializing in flight simulation and training technologies, announced on Tuesday that it has been working on a new app that will use Apple Vision Pro’s special computing to train pilots. more…",
+    "author": "Filipe Espósito",
+    "published": "Tue, 22 Oct 2024 22:50:41 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/cae-pilot-training-vision-pro.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "5df1d060-672e-43f1-a6a4-ecd88ebb45d9",
+    "title": "Apple quietly releases second visionOS 2.1 RC to developers",
+    "link": "https://appleinsider.com/articles/24/10/22/apple-quietly-releases-second-visionos-21-rc-to-developers?utm_medium=rss",
+    "description": "The visionOS 2.1 release candidate has been updated just one day after its release with a fix for Apple Music.Apple releases visionOS 2.1 RC 2Apple Intelligence is set to launch with iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 on or around October 28, so Apple is gearing up for those operating system releases. The release candidates went out to developers on Monday for nearly every OS, including visionOS 2.1, but it introduced a minor bug.On Tuesday, Apple patched that bug with a quiet visionOS 2.1 RC 2 release. The release notes state that the new RC fixes an Apple Music bug that prevented songs and videos from playing. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Wesley Hilliard",
+    "published": "Tue, 22 Oct 2024 22:06:59 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/61495-127022-visionOS-2-Lake-Vrangla-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "f7e1c172-8335-463d-ac34-4f05ba21c751",
+    "title": "Apple rumored to be working on new game-focused App Store \u0026 launcher",
+    "link": "https://appleinsider.com/articles/24/10/22/apple-rumored-to-be-working-on-new-game-focused-app-store-launcher?utm_medium=rss",
+    "description": "Apple is allegedly working on an entirely new App Store-type application made specifically for games, in an effort to make its products more appealing to gamers.Apple allegedly working on game focused App StoreCurrently, iPhone games can only be downloaded from the existing App Store, or through Apple Arcade, which is the company's subscription-only approach to mobile gaming.Apple's new application is said to combine aspects of the existing App Store and Game Center in one place. Specific details about the alleged application as well as its content, layout, and features were all revealed via a dedicated report. Rumor Score: 🤔 Possible Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Marko Zivkovic",
+    "published": "Tue, 22 Oct 2024 21:18:07 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/61494-127021-Backbone3-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "3cdab8c4-873c-4205-be82-f996e37d761b",
+    "title": "Meet friends, track kids, send your ETA: How to use Find My",
+    "link": "https://www.cultofmac.com/how-to/share-location-iphone",
+    "description": "Location sharing is a highly versatile and useful feature of iOS. It proves super-handy in big public spaces like malls, amusement parks and stadiums. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "D. Griffin Jones",
+    "published": "Tue, 22 Oct 2024 21:31:45 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2022/04/Find-the-Whole-Fam.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "How-To",
+      "Find My",
+      "iMessage",
+      "Messages app",
+      "Top stories"
+    ]
+  },
+  {
+    "id": "1468e43b-6284-40d4-beb8-a735ffeac4ff",
+    "title": "Price drop: Elevate your iPad with an adjustable 8-port docking stand",
+    "link": "https://www.cultofmac.com/daily-deals/ipad-docking-station",
+    "description": "Why search for an iPad dongle? This adjustable tablet stand and dock station combo comes with eight useful ports to keep your iPad connected. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Cult of Mac Deals",
+    "published": "Tue, 22 Oct 2024 21:30:31 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2024/05/COM-Docking-Stand.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Daily deals",
+      "Cult of Mac Deals",
+      "iPad stands"
+    ]
+  },
+  {
+    "id": "9c1cce71-489b-4ca1-9139-7f2f7c496c35",
+    "title": "iOS 18.1: Testing NEW AirPods Pro Hearing Aid Features!",
+    "link": "https://www.youtube.com/watch?v=_sdRS6A0iLM",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2024-10-22T00:01:01+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "244865dc-8478-46be-80fd-2c80a6e4d09f",
+    "title": "Wanna fly under the radar? From friends… or whoever 🤷🏻‍♂️#findmy #tipsandtricks #iphone",
+    "link": "https://www.youtube.com/watch?v=dr9WUpNlDlA",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2024-10-21T16:30:22+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "77b36e7e-6406-49dc-8470-123861725391",
+    "title": "★ The Sordid Tale of Rudy Giuliani’s Yankees World Series Rings",
+    "link": "https://daringfireball.net/2024/10/the_sordid_tale_of_rudy_giulianis_yankees_world_series_rings",
+    "description": "The real story is — shocker — a scandal. An embarrassment for the Yankees, but almost certainly a crime on Giuliani’s part.",
+    "author": "John Gruber",
+    "published": "2024-10-22T23:17:29Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "2b383df6-6ee3-4c5e-851f-f19b20b55a8c",
+    "title": "Rudy Giuliani Is Losing Everything to the Georgia Election Workers He Defamed",
+    "link": "https://www.cnn.com/2024/10/22/politics/rudy-giuliani-bankruptcy-georgia-election-workers/index.html",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2024-10-22T21:39:20Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "f11e338e-059e-406f-89d5-043379b72504",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 10:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "5418fce4-7b60-44cd-ba0d-a9024279d5f5",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 06:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "11e5eaff-edd1-45ae-b43a-b76096dcb072",
+    "title": "Apple updates firmware on older AirPods models version 6F21",
+    "link": "https://www.macworld.com/article/2497821/apple-updates-firmware-on-older-airpods-models-version-6f21.html",
+    "description": "Macworld Apple has updated the firmware for several older AirPods models. The new firmware revision is 6F21, the prior firmware was 6A326. The affected models are as follows: AirPods Max (lightning only) AirPods 2 AirPods 3 AirPods Pro 1 It’s everything but the new AirPods 4, the AirPods Pro 2, and the USB-C version of the AirPods Max. Apple stopped updating the original AirPods firmware some time ago, as it was discontinued and replaced by 2nd-generation AirPods (now called AirPods 2) in 2019. According to Apple’s AirPods Firmware page, this release offers only “Bug fixes and other improvements.” We expect the AirPods Pro 2 to get a firmware update any day now, to version 7B19 (or later) to enable the new Hearing Health features in iOS 18.1. Updating your AirPods firmware There isn’t a way to force an upgrade to the new firmware; it will automatically install when the AirPods are in their case and charging. It can take hours or even days to get the latest firmware. If you haven’t used your AirPods in a long time, taking them out of their case and using them for a few minutes before putting them back in and on the charger may help speed things up. To see what firmware version your AirPods are running, you can open the Settings app, select your connected AirPods (near the top), scroll down past all the options to the About section, and look at the Version line. You can also find this information in General \u003e About \u003e [name of your AirPods].",
+    "author": "",
+    "published": "Tue, 22 Oct 2024 21:52:50 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2024/10/airpods_3.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "Headphones"
+    ]
+  },
+  {
+    "id": "8779eb31-d057-4418-87d0-c6039e3b88a9",
+    "title": "This foldable Anker charger looks like a UFO and keeps everything juiced up",
+    "link": "https://www.macworld.com/article/2497512/this-foldable-anker-charger-looks-like-a-ufo-and-keeps-everything-juiced-up.html",
+    "description": "Macworld Charging all your devices at once can be a nightmare to manage due to all the cables you need and all the wall plugs. Well, not with this cute Anker portable wireless charging station that can easily handle all your Apple gear. And wouldn’t you know it, but the Anker UFO 3-in-1 charger is $72 at Amazon right now, 20% under its $90 MSRP. This Anker charger will look great on your desk, clearing out the madness that is usually required to charge your gear. This 3-in-1 charger is super versatile, allowing you to charge your iPhone, Apple Watch, and AirPods in one go. The UFO charger features three magnetic plates specifically made for your devices. The iPhone goes to the left, your AirPods go in the middle, and the Apple Watch on the right—all neatly in line. The whole thing only needs one wire and wall plug, both of which are included in your purchase. And when not in use or when you’re traveling, you can just fold them one over the other in a super compact format. So don’t waste any time and get yourself a tiny UFO for all your Apple gear for just $72 at Amazon. Snatch this 3-in-1 chargerBuy it now at Amazon",
+    "author": "",
+    "published": "Tue, 22 Oct 2024 18:08:49 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2024/10/Anker-UFO-1.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "Mobile Phone Chargers"
+    ]
+  },
+  {
+    "id": "583ae6b1-c57d-42af-99e4-20f49a6923c3",
+    "title": "How to Use iPhone Mirroring on MacOS Sequoia",
+    "link": "https://osxdaily.com/2024/10/22/how-use-iphone-mirroring-mac/",
+    "description": "iPhone Mirroring is a powerful feature introduced with MacOS Sequoia that allows you to control your iPhone from your Mac, using your Mac cursor and keyboard to interact with the iPhone. It’s an incredibly useful feature in MacOS, and it allows full usage of your iPhone even if it’s not next to you or in ... Read More",
+    "author": "Paul Horowitz",
+    "published": "Tue, 22 Oct 2024 20:28:33 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "iPhone",
+      "Mac OS",
+      "Tips \u0026 Tricks",
+      "iOS",
+      "iOS 18",
+      "iPhone mirroring",
+      "Mac",
+      "macOS",
+      "MacOS Sequoia",
+      "tips",
+      "tricks"
+    ]
+  },
+  {
+    "id": "55079fc0-633b-4a9f-8e8f-a2f251ce0915",
+    "title": "How to Re-Enable Slow Motion Effects on MacOS",
+    "link": "https://osxdaily.com/2024/10/21/how-enable-slow-motion-effects-mac/",
+    "description": "If you’re a long time Mac user, you might recall the Slow Motion effect that could be applied by holding the Shift key while minimizing and maximizing windows, as well as for other animations like opening Launchpad or using Mission Control. Some of the fun eye-candy effects on Mac go way the early days of ... Read More",
+    "author": "Paul Horowitz",
+    "published": "Mon, 21 Oct 2024 21:25:15 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Mac OS",
+      "Tips \u0026 Tricks",
+      "animations",
+      "defaults",
+      "defaults write",
+      "eyecandy",
+      "Mac",
+      "macOS",
+      "slow motion",
+      "tips",
+      "tricks"
+    ]
+  },
+  {
+    "id": "31a92c40-41e7-4f49-b9f0-515509c34cfe",
+    "title": "∞ The Dalrymple Report: Watch Charging Stands, iPad mini 7, Submerged",
+    "link": "https://www.loopinsight.com/2024/10/18/the-dalrymple-report-watch-charging-stands-ipad-mini-7-submerged/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-watch-charging-stands-ipad-mini-7-submerged",
+    "description": "Dave and I talk about his new Apple Watch Series 10 and specifically how he charges the device. With the new version, Apple Watch seems to have changed the recognition of some stands on the market. Apple released a new iPad mini 7, so we take a look at its features and what we like. A new trailer of \"Submerged\" was released for the Vision Pro this week. Follow this podcast Brought to you by: LinkedIn Jobs: LinkedIn Jobs helps you find the candidates you want to talk to, faster. Did you know every week, nearly 40 million job seekers visit LinkedIn? Post your job for free at LinkedIn.com/DALRYMPLE. Terms and conditions apply. Show Notes: iPad mini 7 iPad Mini 7 Has These 6 Smaller Changes Does this mean no Mac event Apple expands tools to help businesses connect with customers Apple drops Apple Vision Pro trailer for \"Submerged\" Shows and movies we're watching Most watched television shows",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 18 Oct 2024 12:33:03 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "b8fd5fb1-2649-4d03-85bd-a9ae42119c18",
+    "title": "∞ The Dalrymple Report: Pinball Wizard, MacBook Pro leak, new Apple products",
+    "link": "https://www.loopinsight.com/2024/10/11/the-dalrymple-report-pinball-wizard-macbook-pro-leak-new-apple-products/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-pinball-wizard-macbook-pro-leak-new-apple-products",
+    "description": "Who knew that Dave was an actual pinball wizard? Maybe not the one The Who wrote the song about, but who knows! Apple is dealing with what could be the worst product leak since the iPhone 4 when that device was found in a bar. There appears to be two M4 MacBook Pros that Russian Youtubers got their hands on. There are a bunch of new products rumored to be released over the next few months—Dave and I take a look at what's coming. Follow this podcast Show Notes: PSA: Install iOS 18 with Messages via satellite for your Hurricane Milton prep Apple Potentially Facing Worst Leak Since iPhone 4 Was Left in a Bar Apple eyes Nov. 1 as date for its next product release Here's Why You Shouldn't Use iPhone Mirroring on a Corporate Mac Apple Hosted a ‘Cozy’ Mini WWDC for VisionOS Could there come a day when Apple licensed iOS or iPadOS and we got 3rd party iPhones? 'Ted Lasso' to Return to Apple TV+ as Season Four Allegedly 'Confirmed' Shows and movies we're watching Music by John Williams, Disney+",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 11 Oct 2024 09:33:05 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "35dc5705-6f6a-4158-ba47-5bfe25feade0",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "926f9ad1-e400-4df2-82b3-cc63f4497763",
+    "title": "The Overcast Redesign: Part One",
+    "link": "https://marco.org/2022/03/25/overcast-redesign-2022",
+    "description": "Overcast’s latest update (2022.2) brings the largest redesign in its nearly-eight-year history, plus many of the most frequently requested features and lots of under-the-hood improvements. I’m pretty proud of this one. For this first and largest phase of the redesign, I focused on the home screen, playlist screen, typography, and spacing. (I plan to revamp the now-playing and individual-podcast screens in a later update.) The home screen is radically different: Home screen, before (left) and after (right). Playlists now have strong visual identities for nicer and easier navigation. Each playlist has a customizable color, and a custom icon can be selected from over 3,000 SF Symbols to match modern iOS design and the other icons within Overcast. And playlists can be manually reordered with drag-and-drop. Recently played and newly published episodes can now be displayed on the home screen for quick access, much like the widget and CarPlay experience. Podcasts can now be pinned to the top of the home-screen list. Pinned podcasts can also be manually reordered with drag-and-drop. I’ve also rethought the old stacked “Podcasts” and “Played Podcasts” sections to better match people’s needs and expectations. Now, the toggle atop the podcast list switches between three modes: podcasts with current episodes, all followed podcasts, and inactive podcasts (those that you don’t follow and therefore won’t get any more episodes from, or haven’t posted a new episode in a long time). The playlist screen’s structure remains mostly the same, while refining the design for the modern era: Playlist screen, before (left) and after (right). Here, it’s more apparent that I’ve replaced the system San Francisco font with an alternate variant, San Francisco Rounded, to increase legibility and better match the personality of the app. I’ve also added highly demanded features: By far, Overcast’s most-requested feature is a Mark as Played feature. That’s now available as a checkmark button on episode rows, as well as a left-side swipe action. The second-most-requested feature is a way to view all starred episodes. Special playlists for Starred, Downloaded, and In Progress can now be created. The light and dark themes now each have a customizable tint color from the modern iOS UI-color palette, including these favorites from beta testers: And throughout the app, I’ve made tons of tweaks and bug fixes, including: Notifications and background downloads are now much more reliable. Episode downloads can now be individually deleted or re-downloaded. Links can now be opened in Safari. (under Nitpicky Details) Performance is now significantly better with very large playlists and collections. Fixed bugs with episode-duration detection, CarPlay lists, Mac-app sharing, and much more. So much is better in this update that I can’t even remember it all. Thank you so much to everyone who helped me beta-test this massive update. As always, Overcast is free in the App Store. Go get it!",
+    "author": "",
+    "published": "Fri, 25 Mar 2022 10:57:51 EDT",
+    "image": "https://marco.org/media/2022/03/ocredesign2022-1-after.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "ddff71c2-3eee-471f-a63a-bf6e4980a498",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "6cb39656-bce1-4609-8d70-2b4529e45b9e",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  },
+  {
+    "id": "0b6ad07b-6fe5-4dba-977d-5844e9a4ed0b",
+    "title": "A Video Version of AppStories Debuts Today on the MacStories YouTube Channel",
+    "link": "https://www.macstories.net/news/a-video-version-of-appstories-debuts-today-on-the-macstories-youtube-channel/",
+    "description": "Today, we’re expanding our podcast AppStories to include video on YouTube. AppStories debuted in 2017, and with over 400 episodes recorded, it’s long past due for a video version. So beginning today, you can watch AppStories on the MacStories YouTube channel: Today’s episode was a great place to start because Federico and I discussed his iPad mini review, and […]",
+    "author": "John Voorhees",
+    "published": "Tue, 22 Oct 2024 13:40:31 +0000",
+    "image": "",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "news",
+      "appstories",
+      "podcast",
+      "youtube"
+    ]
+  },
+  {
+    "id": "aa19f6e7-c1cb-4af7-8050-a84cb8e6cc6f",
+    "title": "iPad mini Review: The Third Place",
+    "link": "https://www.macstories.net/stories/ipad-mini-review-the-third-place/",
+    "description": "The new iPad mini. My first reaction when I picked up the new iPad mini last Thursday morning was that it felt heavier than my 11” iPad Pro. Obviously, that was not the case – it’s nearly 150 grams lighter, in fact. But after several months of intense usage of the new, incredibly thin iPad […]",
+    "author": "Federico Viticci",
+    "published": "Tue, 22 Oct 2024 13:00:14 +0000",
+    "image": "https://cdn.macstories.net/img_0197-1729523853862.jpeg",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "stories",
+      "iPad",
+      "ipad mini"
+    ]
+  }
+]
