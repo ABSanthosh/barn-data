@@ -1,0 +1,117 @@
+[
+  {
+    "id": "e7223505-ceed-49b0-ac4e-fd8d508eb6ad",
+    "title": "5 Cool Things To Do with DevTools AI Assistance",
+    "link": "https://developer.chrome.com/blog/5-cool-things-to-do-with-ai-assistance?hl=en",
+    "description": "Learn about fun and exciting use-cases of the new AI assistance panel in DevTools",
+    "author": "",
+    "published": "Mon, 21 Oct 2024 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "fb5c8120-55df-414b-b7d7-7399b55b5585",
+    "title": "Chrome 131 beta",
+    "link": "https://developer.chrome.com/blog/chrome-131-beta?hl=en",
+    "description": "Discover the features that are coming to Chrome with the latest beta.",
+    "author": "",
+    "published": "Wed, 16 Oct 2024 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "9915aab8-a123-4e90-a608-3d6da37124ba",
+    "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+    "link": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+    "description": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models (LLMs) on your own hardware. Learn more about the updates and how to get involved with this cutting-edge project. The post Llamafile v0.8.14: a new UI, performance gains, and more appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Stephen Hood",
+    "published": "Wed, 16 Oct 2024 13:32:30 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/10/llamafile_8.1.14_release_image.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "llamafile",
+      "open source"
+    ]
+  },
+  {
+    "id": "ecd5a4f5-daa3-4e99-8f73-66e7879bdf1f",
+    "title": "0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together",
+    "link": "https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/",
+    "description": "As AI continues to evolve, so do the threats against it. As these GenAI systems become more sophisticated and widely adopted, ensuring their security and ethical use becomes paramount. 0Din is a groundbreaking GenAI bug bounty program dedicated specifically to help secure GenAI systems and beyond. In this blog, you'll learn about 0Din, how it works, and how you can participate and make a difference in securing our AI future. The post 0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Marco Figueroa",
+    "published": "Thu, 08 Aug 2024 18:39:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/08/BountyPayout.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Artificial Intelligence",
+      "Featured Article",
+      "AI",
+      "bounty",
+      "bug bounty",
+      "bugs",
+      "coding"
+    ]
+  },
+  {
+    "id": "9dcc0716-62ca-4a93-a8fe-4a83d3dc26ff",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "ae3f77b6-0d6d-418c-a519-e20a067a5480",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "e30becf7-2471-49f3-9e2b-d9b99e391943",
+    "title": "Clarifying the Relationship Between Popovers and Dialogs",
+    "link": "https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/",
+    "description": "The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to … Clarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Zell Liew",
+    "published": "Wed, 23 Oct 2024 13:20:46 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/popover-accessible-roles.jpg?resize=1024%2C997\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "accessibility",
+      "dialog",
+      "popover"
+    ]
+  },
+  {
+    "id": "8060a0f1-fe0e-48e3-b892-a404dce2dad8",
+    "title": "Clamp it! VS Code extension",
+    "link": "https://css-tricks.com/clamp-it-vs-code-extension/",
+    "description": "There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often … Clamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Wed, 23 Oct 2024 13:15:20 +0000",
+    "image": "https://css-tricks.com/wp-content/uploads/2024/10/clamp-it_fng4a5.mp4",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Links",
+      "clamp",
+      "typography"
+    ]
+  }
+]
