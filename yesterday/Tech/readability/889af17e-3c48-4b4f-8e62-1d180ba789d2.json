@@ -1,0 +1,23 @@
+{
+  "id": "889af17e-3c48-4b4f-8e62-1d180ba789d2",
+  "title": "Intel Arrow Lake Core Ultra 200S Tested: Competitively Priced With Creator Performance",
+  "link": "https://hardware.slashdot.org/story/24/10/24/211234/intel-arrow-lake-core-ultra-200s-tested-competitively-priced-with-creator-performance?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+  "description": "MojoKid writes: Intel has lifted the embargo on independent reviews of its new Core Ultra 200S series Arrow Lake-S processors, which mark a shift in its desktop CPU strategy with symmetrical core/thread counts (no Hyperthreading) and a dedicated 13 TOPS NPU. This series features a disaggregated tiled design for the first time in Intel's desktop chips, focusing on efficiency and power reduction. The Core Ultra 5 245, priced around $300, and the Ultra 9 285K at $589 deliver strong performance, particularly in creator workloads, competing well with AMD's Ryzen CPUs, while the Ultra 9 285K's price undercuts AMD's Ryzen 9 9950X significantly. While gaming performance shows slight regression in spots, the new chips are much more power-efficient than their predecessors. Overall, the platform offers leading-edge features, competitive pricing, and solid performance for creators, gamers and workstation pros. Read more of this story at Slashdot.",
+  "author": "BeauHD",
+  "published": "2024-10-25T00:20:00+00:00",
+  "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "categories": [
+    "intel"
+  ],
+  "byline": "",
+  "length": 911,
+  "excerpt": "MojoKid writes: Intel has lifted the embargo on independent reviews of its new Core Ultra 200S series Arrow Lake-S processors, which mark a shift in its desktop CPU strategy with symmetrical core/thread counts (no Hyperthreading) and a dedicated 13 TOPS NPU. This series features a disaggregated tile...",
+  "siteName": "",
+  "favicon": "",
+  "text": "MojoKid writes: Intel has lifted the embargo on independent reviews of its new Core Ultra 200S series Arrow Lake-S processors, which mark a shift in its desktop CPU strategy with symmetrical core/thread counts (no Hyperthreading) and a dedicated 13 TOPS NPU. This series features a disaggregated tiled design for the first time in Intel's desktop chips, focusing on efficiency and power reduction. The Core Ultra 5 245, priced around $300, and the Ultra 9 285K at $589 deliver strong performance, particularly in creator workloads, competing well with AMD's Ryzen CPUs, while the Ultra 9 285K's price undercuts AMD's Ryzen 9 9950X significantly. While gaming performance shows slight regression in spots, the new chips are much more power-efficient than their predecessors. Overall, the platform offers leading-edge features, competitive pricing, and solid performance for creators, gamers and workstation pros.",
+  "image": "https://a.fsdn.com/sd/topics/intel_64.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"fhbody-175319131\"\u003e\n\t\n\t\t\n\t\n\n\t\n\t\t\n\t\t\u003cp\u003e\u003ca href=\"https://hardware.slashdot.org/~MojoKid\"\u003eMojoKid\u003c/a\u003e writes: \u003ci\u003eIntel has lifted the embargo on independent reviews of its new Core Ultra 200S series Arrow Lake-S processors, which mark a shift in its desktop CPU strategy with symmetrical core/thread counts (no Hyperthreading) and a dedicated 13 TOPS NPU. This series features a disaggregated tiled design for the first time in Intel\u0026#39;s desktop chips, focusing on efficiency and power reduction. The Core Ultra 5 245, priced around $300, and the Ultra 9 285K at $589 \u003ca href=\"https://hothardware.com/reviews/intel-core-ultra-200s-arrow-lake-cpu-review\"\u003edeliver strong performance, particularly in creator workloads\u003c/a\u003e, competing well with AMD\u0026#39;s Ryzen CPUs, while the Ultra 9 285K\u0026#39;s price undercuts AMD\u0026#39;s Ryzen 9 9950X significantly. While gaming performance shows slight regression in spots, the new chips are much more power-efficient than their predecessors. Overall, the platform offers leading-edge features, competitive pricing, and solid performance for creators, gamers and workstation pros.\u003c/i\u003e\u003cbr/\u003e\n\t\t \t\n\t\t\u003c/p\u003e\n\n\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\n\t\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": null,
+  "modifiedTime": null
+}
