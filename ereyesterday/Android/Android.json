@@ -1,0 +1,471 @@
+[
+  {
+    "id": "d874b3ab-8ac3-40b6-9f55-9740db6a8423",
+    "title": "This flexible Raspberry Pi board can be yours for cheap - if you act fast",
+    "link": "https://www.xda-developers.com/flexible-raspberry-pi-board-kickstarter/",
+    "description": "A Raspberry Pi with a twist.",
+    "author": "Simon Batt",
+    "published": "Sun, 27 Oct 2024 01:00:38 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/10/brave_venhrbeexx.png",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Single-Board Computers",
+      "Raspberry Pi Pico 2"
+    ]
+  },
+  {
+    "id": "d5156efe-7414-4584-8707-d6c79b5a2f6e",
+    "title": "Best laptops in 2024",
+    "link": "https://www.xda-developers.com/best-laptops/",
+    "description": "Planning to upgrade to a new laptop? Here are some of the best and highly recommended laptop options across different price points!",
+    "author": "Joo Carrasqueira",
+    "published": "Sun, 27 Oct 2024 01:00:15 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/08/best-laptops-in-2024.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Laptops",
+      "dell",
+      "Apple",
+      "Microsoft"
+    ]
+  },
+  {
+    "id": "8de75109-ec56-4cd2-b6b6-160d733237d2",
+    "title": "AAA: Android Faithful is Your New Android Home! - With Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635b",
+    "description": "All About Android fans, listen up! If you were disappointed when the show went away, then you'll be happy to know that Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman brought the AAA fun to a new home called Android Faithful. Each week, the AF crew discusses the latest news, hardware, and apps for the world's biggest mobile operating system. Special guests, from journalists, to industry big wigs, to execs from inside the Google mothership join the crew to detail the ongoing evolution of Google's Android. Join us and be a part of the Android Faithful! Hosts: Jason Howell, Ron Richards, and Huyen Tue Dao Co-Host: Mishaal Rahman Visit AndroidFaithful.com or search your favorite podcatcher to subscribe!",
+    "author": "TWiT",
+    "published": "Tue, 02 Jan 2024 14:45:00 PST",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa_635b/aaa_635b.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android"
+    ]
+  },
+  {
+    "id": "d7541e21-b0ec-4bac-840b-322f8a2ed419",
+    "title": "AAA 635: Hall of Fame - A long awaited look at the very best Android hardware and apps since the beginning",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635",
+    "description": "Sharing news regarding the future of All About Android. Huyen just got her Pixel Tablet! She shares her thoughts. Android Hardware Hall of Fame. Android App Hall of Fame. All About All About Android. Read our show notes here: https://bit.ly/42V2ymq Hosts: Jason Howell, Ron Richards, Huyen Tue Dao, and Florence Ion Subscribe to All About Android at https://twit.tv/shows/all-about-android. Get episodes ad-free with Club TWiT at https://twit.tv/clubtwit Sponsor: decisions.com/twit",
+    "author": "TWiT",
+    "published": "Tue, 20 Jun 2023 21:59:06 PDT",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa0635/aaa0635.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android",
+      " all about android",
+      " Jason Howell",
+      " Ron Richards",
+      " Florence Ion",
+      " huyen tue dao",
+      " all about android last episode",
+      " all about android final episode",
+      " all about android dead",
+      " pixel tablet first impressions",
+      " pixel tablet hands on",
+      " pixel tablet preview"
+    ]
+  },
+  {
+    "id": "06978c6e-3fae-4bf9-840b-244ce227438c",
+    "title": "What’s new in Android 15, plus more updates",
+    "link": "https://blog.google/products/android/android-15/",
+    "description": "We’re launching new security tools, large screen features and app improvements with Android 15 and Google Play System updates.",
+    "author": "Seang ChauVP and GM of Android Platform",
+    "published": "Tue, 15 Oct 2024 16:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-header_android15.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Android"
+    ]
+  },
+  {
+    "id": "bdf0f125-6e6b-4507-b3ea-4accf54437ab",
+    "title": "New updates to help you do more with Google TV",
+    "link": "https://blog.google/products/google-tv/google-tv-home-ai-sports-features/",
+    "description": "New home controls, AI-generated screensavers and easier ways to find and watch content are coming to all Google TV devices",
+    "author": "Rob CarusoDirector of Product Management and UX, Google TV",
+    "published": "Mon, 23 Sep 2024 14:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GTV_2_Launch_Hero_Thumbnail_1.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Google TV",
+      "Android",
+      "Gemini Features",
+      "Google Nest"
+    ]
+  },
+  {
+    "id": "384d9afd-0597-4449-98db-295a86152aa6",
+    "title": "Google updates Quick Share for Windows, fixing several issues",
+    "link": "https://www.androidauthority.com/quick-share-windows-update-oct-24-3494484/",
+    "description": "The latest Quick Share for Windows update focuses on stability and performance.",
+    "author": "Rushil Agrawal",
+    "published": "Sat, 26 Oct 2024 21:44:25 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/01/Quick-Share.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Google",
+      "Quick Share"
+    ]
+  },
+  {
+    "id": "a66bc31b-c811-4195-9e38-44fa96c0d988",
+    "title": "Using an old Samsung phone? Your device could be at risk from a serious vulnerability",
+    "link": "https://www.androidauthority.com/samsung-exynos-vulnerability-attack-3494479/",
+    "description": "Hackers are targeting older Samsung phones with this security flaw.",
+    "author": "Rushil Agrawal",
+    "published": "Sat, 26 Oct 2024 21:14:46 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/samsung-galaxy-stock-photo.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Google",
+      "Samsung",
+      "Samsung Galaxy"
+    ]
+  },
+  {
+    "id": "f1432c41-0bef-4a04-885d-c996735da4cc",
+    "title": "Snapdragon 8 Elite REAL-WORLD BENCHMARKS VS Apple A18 Pro, Tensor G4, Snapdragon 8 Gen 3",
+    "link": "https://www.youtube.com/watch?v=gCgMxsKlaDw",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2024-10-26T13:00:49+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "56496a8c-2e16-4e2a-922b-1e01603baa89",
+    "title": "Quick tips every Pixel 9 user should know! #GooglePixel #GooglePixel9 #shorts",
+    "link": "https://www.youtube.com/watch?v=JJWVvuBJKRI",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2024-10-25T18:37:41+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "788ce7fd-7c60-44ff-8212-e3b13d8ce683",
+    "title": "Motorola is using the Razr to come after your iPhones, and it's working",
+    "link": "https://www.androidcentral.com/phones/motorola-razr-stealing-away-iphone-users",
+    "description": "Motorola has highlighted the success of the Razr series and how it's attracting many new users, particularly from iOS.",
+    "author": "",
+    "published": "Sat, 26 Oct 2024 18:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/GwKmAwiQxZYh9Ko3dffT8i.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Phones"
+    ]
+  },
+  {
+    "id": "af6f5e01-9c4d-44e7-a2dc-2bfa0e3c8426",
+    "title": "When is a photo not a photo?",
+    "link": "https://www.androidcentral.com/phones/when-is-a-photo-not-a-photo",
+    "description": "Google will add metadata that says AI was used whenever you do any of its fancy tricks on your Pixel phone. That's a good thing.",
+    "author": "",
+    "published": "Sat, 26 Oct 2024 15:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/dX3baX2z5Ut7Sg5VAeMXC7.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Phones"
+    ]
+  },
+  {
+    "id": "b5d26a31-c700-43d3-9885-29168030c580",
+    "title": "Galaxy Tab S8 series new leak reveals almost everything",
+    "link": "https://androidcommunity.com/galaxy-tab-s8-series-new-leak-reveals-almost-everything-20220203/",
+    "description": "February 9 is expected to be an exciting one for Samsung. As it unfolds the Unpacked event with enthusiasm, there will be some devices we would be looking forward to. Of course, the Galaxy S22 flagship series is on everyone’s radar, if you’re someone waiting for a decent, feature-packed Android tablet, you should look out […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:51:26 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Samsung",
+      "Tablets"
+    ]
+  },
+  {
+    "id": "7213566d-75b9-4be1-ae15-a4da82f9b5fb",
+    "title": "Malicious authenticator app removed from Google Play Store",
+    "link": "https://androidcommunity.com/malicious-authenticator-app-removed-from-google-play-store-20220203/",
+    "description": "Seems like Google Play cannot shave off its curse of hosting undetected malware apps. In a recent development, an authenticator app going by the name 2FA Authenticator remained under the radar for 15 days on the Play Store and more than 10,000 people downloaded the malicious app capable of stealing financial information. Now the app […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:11:31 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Apps",
+      "Google",
+      "Google Play",
+      "malware",
+      "Phones"
+    ]
+  },
+  {
+    "id": "8c76f280-8d1b-409e-8d2e-8f0848623830",
+    "title": "The Pirate Queen: Interview With Lucy Liu \u0026 Eloise Singer",
+    "link": "https://sites.libsyn.com/23914/the-pirate-queen-interview-with-lucy-liu-eloise-singer",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar and Nick Sutrich chat with Hollywood legend Lucy Liu and Pirate Queen director Eloise Singer about their amazing new VR game The Pirate Queen: A Forgotten Legend... Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu",
+    "author": "Android Central",
+    "published": "Thu, 28 Mar 2024 22:50:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_280324_MIXDOWN_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "gaming",
+      "quest",
+      "Android",
+      "Meta",
+      "VR",
+      "lucyliu",
+      "thepiratequeen",
+      "eloisesinger"
+    ]
+  },
+  {
+    "id": "b9217768-903d-4f34-8857-c83384bd45e6",
+    "title": "Could The US BAN TikTok?!",
+    "link": "https://sites.libsyn.com/23914/could-the-us-ban-tiktok",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar, Nick Sutrich, and Jerry Hildenbrand discuss just how good the Honor Magic 6 Pro's camera really is, why more people are buying the Galaxy S24 Plus, why US lawmakers want TikTok banned, how Apple acquiring DarwinAI could give Google Gemini some serious competition, and more! Links:  The Honor Magic 6 Pro camera seriously blows me away - Android Central The Galaxy S24 Plus is a hit, and I'm not surprised - Android Central Why US lawmakers want TikTok banned - Android Central Apple's latest AI acquisition might give Google Gemini some serious competition - Android Central Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu @gbhil",
+    "author": "Android Central",
+    "published": "Mon, 18 Mar 2024 17:00:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_150324_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "iPhone",
+      "Google",
+      "honor",
+      "Galaxy",
+      "microsoft",
+      "Apple",
+      "samsung",
+      "AI",
+      "Android",
+      "Gemini",
+      "TikTok",
+      "darwinai"
+    ]
+  },
+  {
+    "id": "5fae15bc-a71f-4120-a466-cc496ca1f389",
+    "title": "Fin Part Deux",
+    "link": "http://podcasts.androidauthority.com/fin-part-deux",
+    "description": "This is the last episode of the second season of the Android Authority podcast. That sucks. But that doesn’t mean we don’t have tech to talk about. Adam, Joe, and Jonathan gather for one last time to talk about Motorola’s upcoming flagship, and care for your RAZR. LG is keeping the headphone jack flame a’burnin. And finally, we look back on some other operating systems that have come and gone over the years. RIP webOS, RIP Windows Phone, RIP #AAPodcast Podcast Pick: Real Graphene Power Bank 10,000 mAh Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 30, 2020 Topics Huawei rep allegedly says company won't use Google apps even if it can Graphene batteries: What are they and why are they a big deal? Motorola says 'bumps and lumps are normal' on Razr screen Motorola tipped to unveil new flagship smartphone at MWC 2020 LG headphone jacks are sticking around, but need your financial support Android alternatives that tried and failed over the last decade The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Check out the other podcasts in our network!The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Fri, 31 Jan 2020 23:48:40 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/aapod_fin_part_deux_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": null
+  },
+  {
+    "id": "8ec40313-4b9b-4624-b15a-b54b8225e76d",
+    "title": "LG’s promise and Google’s experiments",
+    "link": "http://podcasts.androidauthority.com/lgs-promise-and-googles-experiments",
+    "description": "We have a ton of housecleaning to take care of right off the bat including the Moto RAZR, Whatsapp’s dark mode, MWC 2020 and more. Plus, we take a look at LG’s implementation of Android 10 on the LG V50 with dual screen. Speaking of dual screens, Microsoft has some thoughts on how to implement dual screens. Google is experimenting with ways to help you use your phone less, and one of our editors wants you to update apps less often. What’s up with that? Podcast Pick: LG G8x Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 23, 2020 Topics Motorola Razr preorders start on January 26 at Verizon Many 2020 Chromebooks will see 8 years of updates WhatsApp dark mode is finally here (for some users) MWC 2020: What to expect Who is BBK, the world's second largest phone manufacturer? Juan Carlos Bagnell - LG V50 on Android 10: New OS, New UX, AND A DESKTOP MODE! Microsoft outlines dual screen possibilities with Surface Duo These Google experimental apps help you develop healthy phone habits Shadowgun War Games is mobile games' version of Overwatch Why you might want to disable automatic app updates on the Play Store The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Special appearance by:Juan Carlos Bagnell - @Somegadgetguy www.somegadgetguy.com Check out the other podcasts in our network! The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Sat, 25 Jan 2020 00:30:34 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/Aapod_week4_2020_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": [
+      "Microsoft",
+      "moto",
+      "duo",
+      "surface",
+      "motorola",
+      "2020",
+      "lg",
+      "vivo",
+      "MWC",
+      "razr",
+      "Chromebooks",
+      "whatsapp",
+      "v50",
+      "oneplus",
+      "mwc2020",
+      "bbk"
+    ]
+  },
+  {
+    "id": "17e46afa-6ab9-4b80-a531-83fc4b264ea2",
+    "title": "CRKD Atom review: Pocket-sized gaming with limited functionality",
+    "link": "https://www.androidpolice.com/crkd-atom-review/",
+    "description": "Small and fun but its basic nature might give some pause",
+    "author": "Jon Gilbert",
+    "published": "Sat, 26 Oct 2024 22:00:10 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/crkd-atom-controller-2-2.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "game controller",
+      "CRKD",
+      "Accessories",
+      "game controller"
+    ]
+  },
+  {
+    "id": "285e4177-bf22-4dc7-b1a8-e4b80e8e3f9e",
+    "title": "How to change the default Google account on a web browser",
+    "link": "https://www.androidpolice.com/change-default-google-account-on-web-browser/",
+    "description": "Tired of opening the wrong Gmail account in Chrome? Here's how to change your default Google ID on Chrome.",
+    "author": "Parth Shah",
+    "published": "Sat, 26 Oct 2024 21:35:10 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/10/change-default-google-account-on-web-browser.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Google",
+      "Google Chrome",
+      "Browsers",
+      "Google Chrome",
+      "Google"
+    ]
+  },
+  {
+    "id": "67ca8ef2-4200-4a0d-85cc-cdfe6670626c",
+    "title": "Red Magic’s Next Phones Might be Ridiculously Large",
+    "link": "https://phandroid.com/2024/10/25/red-magics-next-phones-might-be-ridiculously-large/",
+    "description": "Other details such as pricing and availability are a mystery at the moment. The post Red Magic’s Next Phones Might be Ridiculously Large appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Fri, 25 Oct 2024 19:29:02 +0000",
+    "image": "https://phandroid.com/wp-content/uploads/2024/10/redmagic-10-teaser.png",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Devices",
+      "Smartphones",
+      "Red Magic",
+      "snapdragon 8 elite"
+    ]
+  },
+  {
+    "id": "a9e7fb6e-d0d7-47dc-8022-60e7476186e8",
+    "title": "Grab the TicWatch Pro 3 Ultra for Half the Price!",
+    "link": "https://phandroid.com/2024/10/25/grab-the-ticwatch-pro-3-ultra-for-half-the-price/",
+    "description": "The TicWatch Pro 3 Ultra comes with Wear OS, in addition to pretty good battery life. The post Grab the TicWatch Pro 3 Ultra for Half the Price! appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Fri, 25 Oct 2024 18:58:22 +0000",
+    "image": "https://m.media-amazon.com/images/I/41vyZTEa2-L.jpg",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Deals",
+      "Devices",
+      "amazon deals",
+      "TicWatch Pro 3 Ultra"
+    ]
+  },
+  {
+    "id": "aff8ee36-69ca-4ee4-aa63-2b9eeab1456a",
+    "title": "Board Kings Free Rolls – Updated Every Day!",
+    "link": "https://www.talkandroid.com/480056-board-kings-free-rolls-updated-daily/",
+    "description": "Run out of rolls for Board Kings? Find links for free rolls right here, updated daily!",
+    "author": "Nivenka Stanton",
+    "published": "Sat, 26 Oct 2024 15:13:37 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "c2b00efa-eb2b-420c-a3d0-44fe5ee274fb",
+    "title": "Coin Tales Free Spins – Updated Every Day!",
+    "link": "https://www.talkandroid.com/478394-coin-tales-free-spins-updated-every-day/",
+    "description": "Tired of running out of Coin Tales Free Spins? We update our links daily, so you won't have that problem again!",
+    "author": "Nivenka Stanton",
+    "published": "Sat, 26 Oct 2024 15:12:00 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "718307b4-5041-4562-9d6f-60160ebca744",
+    "title": "The Blackmagic Camera app for iPhones now supports Camera Control, adds new features",
+    "link": "https://www.gsmarena.com/the_blackmagic_camera_app_for_iphones_now_supports_camera_control_adds_new_features-news-65088.php",
+    "description": "Blackmagic Design has updated its popular Camera app for iOS, with version 2.1 bringing notable new features primarily aimed at iPhone 16 users. Key among these is the addition of Camera Control support, allowing users to adjust settings like zoom, exposure, focus, and ISO by simply swiping the Camera Control button. The update follows version 2.0, which introduced native iPad support back in August. The app now also supports direct access from the Control Center, Lock Screen, or iPhone’s Camera Control, streamlining how users can launch and access its functions. Blackmagic has also...",
+    "author": "",
+    "published": "Sun, 27 Oct 2024 00:33:01 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "8f4f2523-60e3-4108-8596-b25659fa9f99",
+    "title": "Deals: the new iPad mini is now available, the old one is still around and other Apple deals",
+    "link": "https://www.gsmarena.com/deals_the_new_ipad_mini_is_now_available_the_old_one_is_still_around_and_other_apple_deals-news-65068.php",
+    "description": "The new iPad mini became available globally earlier this week, so let’s check out the prices and some alternatives. The Apple iPad mini (2024) now has 128GB storage in its base configuration and 8GB of RAM. The latter is paired with a downgraded A17 Pro chipset to support Apple Intelligence. These AI features will arrive soon as part of the iPadOS 18.1 update (and will initially be limited to the US). There are some other upgrades over the old mini, like faster Wi-Fi 6E and USB-C connectivity (10Gbps, up from 5Gbps). But you’re still getting an 8.3” 60Hz IPS LCD, even though this chip ran...",
+    "author": "",
+    "published": "Sat, 26 Oct 2024 21:44:01 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "ea772d26-fec9-4c82-8afe-1836ec210c84",
+    "title": "Google Calendar Might Replace Google Tasks",
+    "link": "https://www.droid-life.com/2024/10/25/google-calendar-might-replace-google-tasks/",
+    "description": "Google Tasks has undergone quite the evolution from its initial launch many years ago. It’s a pretty great app these days, but in typical Google fashion, the company might be eyeing a way to replace it with an already existing service. Spotted in a recent app teardown, it looks as though Google is working to … Continued Read the original post: Google Calendar Might Replace Google Tasks",
+    "author": "Tim",
+    "published": "Fri, 25 Oct 2024 21:14:14 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2023/06/Google-Tasks-Reminders-1-2-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Apps",
+      "News",
+      "Android",
+      "Google",
+      "Google Calendar",
+      "Google Tasks"
+    ]
+  },
+  {
+    "id": "8540c590-2e9a-4ea6-a343-4152420a96f2",
+    "title": "DEAL: Galaxy Z Flip 6 for as Low as $349 ($809 Off)",
+    "link": "https://www.droid-life.com/2024/10/25/deal-galaxy-z-flip-6-for-as-low-as-349-809-off/",
+    "description": "If the Galaxy Z Fold 6 is too big for you, then maybe you’d prefer the Galaxy Z Flip 6? If you’ve been holding out, your patience has paid off, with Samsung currently selling the foldable for as low as $349, thanks to instant credits and enhanced trade-in values. Buy Galaxy Z Fold 6 at … Continued Read the original post: DEAL: Galaxy Z Flip 6 for as Low as $349 ($809 Off)",
+    "author": "Tim",
+    "published": "Fri, 25 Oct 2024 16:32:40 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/08/Galaxy-Z-Flip-6-Review-8-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "Galaxy Z Flip 6",
+      "Samsung"
+    ]
+  },
+  {
+    "id": "daf79a96-9b2c-499c-9f43-0548e9aefabe",
+    "title": "How to Update Redmi Note 10 Pro to Android 12 (Custom ROM Build)",
+    "link": "https://cyanogenmods.org/redmi-note-10-pro-android-12-2/",
+    "description": "The latest Android 12 has been released and the same is now available for Redmi Note 10 Pro via an Android 12 custom ROM update build. This is a step-by-step guide that explains how to update Redmi Note 10 Pro to Android 12. [su_note note_color=”#F9D9D9″ text_color=”#AA4343″ radius=”3″ class=”” id=””]DISCLAIMER: Installing a custom ROM requires advanced ... Read more",
+    "author": "Siba",
+    "published": "Thu, 03 Oct 2024 17:46:30 +0000",
+    "image": "",
+    "source": "https://www.cyanogenmods.org/feed",
+    "categories": [
+      "Android 12",
+      "Redmi Note 10 Pro",
+      "Xiaomi"
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "ba3f1725-f5df-4f10-b7d8-f4565010acca",
+    "title": "5 Cool Things To Do with DevTools AI Assistance",
+    "link": "https://developer.chrome.com/blog/5-cool-things-to-do-with-ai-assistance?hl=en",
+    "description": "Learn about fun and exciting use-cases of the new AI assistance panel in DevTools",
+    "author": "",
+    "published": "Mon, 21 Oct 2024 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "d6b8f73f-1494-48c3-9c25-f77917e8c4bf",
+    "title": "Chrome 131 beta",
+    "link": "https://developer.chrome.com/blog/chrome-131-beta?hl=en",
+    "description": "Discover the features that are coming to Chrome with the latest beta.",
+    "author": "",
+    "published": "Wed, 16 Oct 2024 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "4ea8f889-78b6-4767-99b4-4f27653e6ec9",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "932134b2-c0f1-4305-939a-a9e4d3bad2e9",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "bd503443-d1d6-45b8-a0e8-0b8a5fa8b313",
+    "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+    "link": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+    "description": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models (LLMs) on your own hardware. Learn more about the updates and how to get involved with this cutting-edge project. The post Llamafile v0.8.14: a new UI, performance gains, and more appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Stephen Hood",
+    "published": "Wed, 16 Oct 2024 13:32:30 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/10/llamafile_8.1.14_release_image.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "llamafile",
+      "open source"
+    ]
+  },
+  {
+    "id": "f6f078ee-f73f-49c2-bb35-6d15cfcda838",
+    "title": "0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together",
+    "link": "https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/",
+    "description": "As AI continues to evolve, so do the threats against it. As these GenAI systems become more sophisticated and widely adopted, ensuring their security and ethical use becomes paramount. 0Din is a groundbreaking GenAI bug bounty program dedicated specifically to help secure GenAI systems and beyond. In this blog, you'll learn about 0Din, how it works, and how you can participate and make a difference in securing our AI future. The post 0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Marco Figueroa",
+    "published": "Thu, 08 Aug 2024 18:39:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/08/BountyPayout.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Artificial Intelligence",
+      "Featured Article",
+      "AI",
+      "bounty",
+      "bug bounty",
+      "bugs",
+      "coding"
+    ]
+  },
+  {
+    "id": "3a05ffad-71da-4a3e-88ae-0ae9aa3153fc",
+    "title": "Come to the light-dark() Side",
+    "link": "https://css-tricks.com/come-to-the-light-dark-side/",
+    "description": "You’d be forgiven for thinking coding up both a dark and a light mode at once is a lot of work. You have to remember @media queries based on prefers-color-scheme as well as extra complications that arise when letting visitors … Come to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Sara Joy",
+    "published": "Fri, 25 Oct 2024 14:08:20 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/z9EfegD9q.png.jpeg?resize=572%2C549\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "dark mode",
+      "functions",
+      "UI/IX Design"
+    ]
+  },
+  {
+    "id": "e95d4206-ed97-4310-9ffb-87fbf8f23c40",
+    "title": "Left Half and Right Half Layout – Many Different Ways",
+    "link": "https://css-tricks.com/left-and-right/",
+    "description": "A whole bunch of years ago, we posted on this idea here on CSS-Tricks. We figured it was time to update that and do the subject justice. Imagine a scenario where you need to split a layout in half. Content … Left Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Fri, 25 Oct 2024 11:51:02 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles"
+    ]
+  }
+]

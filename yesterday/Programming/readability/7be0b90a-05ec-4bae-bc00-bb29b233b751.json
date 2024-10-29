@@ -1,0 +1,28 @@
+{
+  "id": "7be0b90a-05ec-4bae-bc00-bb29b233b751",
+  "title": "Tragedy of the (data) commons",
+  "link": "https://stackoverflow.blog/2024/10/25/tragedy-of-the-data-commons/",
+  "description": "Ben chats with Shayne Longpre and Robert Mahari of the Data Provenance Initiative about what GenAI means for the data commons. They discuss the decline of public datasets, the complexities of fair use in AI training, the challenges researchers face in accessing data, potential applications for synthetic data, and the evolving legal landscape surrounding AI and copyright.",
+  "author": "Eira May",
+  "published": "Fri, 25 Oct 2024 07:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "se-tech",
+    "se-stackoverflow",
+    "podcast",
+    "ai",
+    "llm",
+    "data"
+  ],
+  "byline": "Eira May",
+  "length": 868,
+  "excerpt": "The Data Provenance Initiative is a collective of volunteer AI researchers from around the world. They conduct large-scale audits of the massive datasets that power state-of-the-art AI models with a goal of mapping the landscape of AI training data to improve transparency, documentation, and informed use of data. Their Explorer tool allows users to filter and analyze the training datasets typically used by large language models.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "The Data Provenance Initiative is a collective of volunteer AI researchers from around the world. They conduct large-scale audits of the massive datasets that power state-of-the-art AI models with a goal of mapping the landscape of AI training data to improve transparency, documentation, and informed use of data. Their Explorer tool allows users to filter and analyze the training datasets typically used by large language models.Shayne and Robert are the authors of a new study called Consent in Crisis: The Rapid Decline of the AI Data Commons: the first large-scale, longitudinal audit of the consent protocols for the web domains underlying AI training sets.Connect with Shayne via his website.Connect with Robert via his website or on LinkedIn.Stack Overflow user George Hawkins earned a Populist badge by explaining How to get base url in angular 5?.TRANSCRIPT",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003eThe \u003ca href=\"https://www.dataprovenance.org/\"\u003eData Provenance Initiative\u003c/a\u003e is a collective of volunteer AI researchers from around the world. They conduct large-scale audits of the massive datasets that power state-of-the-art AI models with a goal of mapping the landscape of AI training data to improve transparency, documentation, and informed use of data. Their \u003ca href=\"https://www.dataprovenance.org/data-provenance-explorer\"\u003eExplorer tool\u003c/a\u003e allows users to filter and analyze the training datasets typically used by large language models.\u003c/p\u003e\u003cp\u003eShayne and Robert are the authors of a new study called \u003ca href=\"https://arxiv.org/abs/2407.14933\"\u003eConsent in Crisis: The Rapid Decline of the AI Data Commons\u003c/a\u003e: the first large-scale, longitudinal audit of the consent protocols for the web domains underlying AI training sets.\u003c/p\u003e\u003cp\u003eConnect with Shayne via \u003ca href=\"https://www.shaynelongpre.com/\"\u003ehis website\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eConnect with Robert via \u003ca href=\"https://robertmahari.com/\"\u003ehis website\u003c/a\u003e or on \u003ca href=\"https://www.linkedin.com/in/robert-mahari-874310157/\"\u003eLinkedIn\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eStack Overflow user \u003ca href=\"https://stackoverflow.com/users/245602/george-hawkins\"\u003eGeorge Hawkins\u003c/a\u003e earned a \u003ca href=\"https://stackoverflow.com/help/badges/62/populist\"\u003ePopulist badge\u003c/a\u003e by explaining \u003ca href=\"https://stackoverflow.com/questions/51984268/how-to-get-base-url-in-angular-5/60705771#60705771\"\u003eHow to get base url in angular 5?\u003c/a\u003e.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://the-stack-overflow-podcast.simplecast.com/episodes/tragedy-of-the-data-commons/transcript\"\u003eTRANSCRIPT\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

@@ -1,0 +1,231 @@
+[
+  {
+    "id": "fd697050-41e3-49d0-9f0f-95102cffeb6e",
+    "title": "CSS min() All The Things",
+    "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
+    "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
+    "author": "Victor Ayomipo",
+    "published": "Thu, 17 Oct 2024 10:00:00 GMT",
+    "image": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "52c34201-4618-4de2-b00f-1dd630b1c8ca",
+    "title": "It’s Here! How To Measure UX \u0026 Design Impact, With Vitaly Friedman",
+    "link": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
+    "description": "Design decisions shouldn’t be a matter of personal preference. We can use reliable design KPIs and UX metrics to guide and shape our design work and measure its impact on business. Meet How To Measure UX and Design Impact, our new video course that helps with just that.",
+    "author": "Vitaly Friedman",
+    "published": "Tue, 15 Oct 2024 14:00:00 GMT",
+    "image": "http://files.smashing.media/articles/ux-metrics-video-course-release/ux-metrics-video-course-opt.png",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "81c39ad1-67e0-4c67-a784-bbacc70632b5",
+    "title": "⚡️ 20+ Electric Fonts for Energetic Designs",
+    "link": "https://justcreative.com/electric-fonts/",
+    "description": "Unleash the relentless energy of electric fonts, where typographic rebellion meets the unyielding power of invigorating ethos. We've compiled the best here.",
+    "author": "Jacob Cass",
+    "published": "Fri, 25 Oct 2024 04:00:56 +0000",
+    "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/26a1.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "Electric",
+      "electric fonts",
+      "Fonts",
+      "neon fonts",
+      "thunder fonts"
+    ]
+  },
+  {
+    "id": "21a2765e-2208-4146-b130-89b6b525129b",
+    "title": "20+ Best Fairytale Fonts for Fantastical Designs",
+    "link": "https://justcreative.com/fairytale-fonts",
+    "description": "If you're looking for all of the best fairytale fonts, then check this roundup! We list only the fantastical, whimsical and magical fonts for your storybooks.",
+    "author": "Jacob Cass",
+    "published": "Fri, 25 Oct 2024 04:00:46 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2023/05/Firytale-Font-main.jpg",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "Charming",
+      "Fairytale",
+      "fairytale fonts",
+      "fantasy",
+      "Fonts",
+      "Magical"
+    ]
+  },
+  {
+    "id": "4d3712a7-4b85-4bd6-997b-1c53b152091c",
+    "title": "Product \u0026 UX Glossary",
+    "link": "https://www.nngroup.com/articles/product-ux-glossary/",
+    "description": "Use this glossary to quickly clarify key terms and concepts related to product management and UX.",
+    "author": "Sara Paul",
+    "published": "Fri, 25 Oct 2024 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "92814462-c402-427b-ad63-388d2792b6ca",
+    "title": "Technology Myths and Urban Legends",
+    "link": "https://www.nngroup.com/articles/technology-myths/",
+    "description": "When users don’t clearly understand how systems function, they develop unique (and often incorrect) theories to explain their experiences.",
+    "author": "Kate Moran, Kim Flaherty",
+    "published": "Fri, 25 Oct 2024 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "87f3f5fd-fb48-4398-b81e-697ec37f9b28",
+    "title": "InVision design collaboration services shutdown",
+    "link": "https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/",
+    "description": "InVision Community,  Today I am writing to share that after careful consideration we have made the difficult decision to discontinue […] The post InVision design collaboration services shutdown appeared first on Inside Design.",
+    "author": "Michael Shenkman",
+    "published": "Thu, 04 Jan 2024 12:00:50 +0000",
+    "image": "",
+    "source": "https://www.invisionapp.com/inside-design/feed",
+    "categories": [
+      "InVision"
+    ]
+  },
+  {
+    "id": "5efc38d9-f3c8-4754-bb83-73749cf09b41",
+    "title": "Freehand joins the Miro team",
+    "link": "https://www.invisionapp.com/inside-design/freehand-joins-the-miro-team/",
+    "description": "We’re thrilled to announce that Miro has acquired Freehand.  InVision has always been at the forefront of collaboration, by first […] The post Freehand joins the Miro team appeared first on Inside Design.",
+    "author": "Michael Shenkman",
+    "published": "Wed, 15 Nov 2023 18:02:53 +0000",
+    "image": "",
+    "source": "https://www.invisionapp.com/inside-design/feed",
+    "categories": [
+      "InVision"
+    ]
+  },
+  {
+    "id": "c006cd80-4b78-4fd4-bed2-c33e53889dae",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "3e10ed2a-2161-425c-bc4a-894f692ad8a0",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "82c30a28-0ed6-4ef6-a6b7-00d71a51baca",
+    "title": "Are physical buttons going extinct?",
+    "link": "https://uxdesign.cc/are-physical-buttons-going-extinct-d67eb8f1435f?source=rss----138adf9c44c---4",
+    "description": "Are we leaving physical buttons behind or will they be part of our future?Continue reading on UX Collective »",
+    "author": "Daley Wilhelm",
+    "published": "Sun, 27 Oct 2024 14:07:43 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1600/0*DaPxPGW75nv2ACXK.jpg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "user-interface",
+      "mobile",
+      "ux",
+      "technology",
+      "design"
+    ]
+  },
+  {
+    "id": "06459062-7087-4852-9ca8-17b5757fb80a",
+    "title": "Test smart: how to apply automation and stay sane?",
+    "link": "https://uxdesign.cc/test-smart-how-to-apply-automation-and-stay-sane-071ea899006e?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Julia Kocbek",
+    "published": "Sun, 27 Oct 2024 14:06:18 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*ZV7FOZna0X7SVFVPW1PkTA.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ux",
+      "qa",
+      "agile",
+      "testing",
+      "automation"
+    ]
+  },
+  {
+    "id": "ddb54647-84bb-4533-8633-72c7792b86f2",
+    "title": "How to Handle Large-Scale Item Groups in a Sidebar",
+    "link": "https://uxmovement.com/navigation/how-to-handle-large-scale-item-groups-in-a-sidebar/",
+    "description": "A sidebar navigation with a few items is simple to design. All you have to do is display them in a list with relevant icons. But what do you do when you have multiple large-scale item groups to display? The typical approach uses disclosure arrows to collapse each item group with an accordion functionality. However, […] The post How to Handle Large-Scale Item Groups in a Sidebar first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 28 Aug 2024 02:26:51 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "e6740c0b-694b-4c90-a436-8d649548c8d7",
+    "title": "A Better Approach to Multi-Level Sidebar Navigation",
+    "link": "https://uxmovement.com/navigation/a-better-approach-to-multi-level-sidebar-navigation/",
+    "description": "Designers must stop using multi-level sidebar navigation. Grouping many items and subitems together in a small space creates visual clutter. As a result, users have trouble finding items when they navigate. For example, a sidebar with a navigation hierarchy with three levels will display many text labels. Users navigating between levels can easily misinterpret which […] The post A Better Approach to Multi-Level Sidebar Navigation first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Mon, 26 Aug 2024 14:33:28 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "f6fe94f0-18de-43b7-b676-2a14f04b0c29",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "68f70cd2-7d92-411d-8b17-e3eb0475ee2b",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]
