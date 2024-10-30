@@ -1,0 +1,21 @@
+{
+  "id": "018b9f4e-c8ad-4cbc-9657-180fe8c2e89f",
+  "title": "NewPipe on Linux, Using Android_translation_layer",
+  "link": "https://flathub.org/apps/net.newpipe.NewPipe",
+  "description": "Comments",
+  "author": "",
+  "published": "Sun, 27 Oct 2024 16:58:56 +0000",
+  "source": "https://news.ycombinator.com/rss",
+  "categories": null,
+  "byline": "",
+  "length": 785,
+  "excerpt": "Free and lightweight YouTube frontend for Android",
+  "siteName": "Flathub - Apps for Linux",
+  "favicon": "https://flathub.org/apps/apple-touch-icon.png",
+  "text": "NOTE: This is an unofficial and experimental Flatpak build based on Android Translation Layer. Please report bugs to the ATL bug tracker instead of the NewPipe bug tracker https://gitlab.com/android_translation_layer/android_translation_layer/-/issues. NewPipe is a privacy-preserving YouTube frontend. NewPipe does not use any Google framework libraries, or the YouTube API. It only parses the website in order to gain the information it needs. Therefore this app can be used on devices without Google Services installed. Also, you don't need a YouTube account to use NewPipe, and it's FLOSS. NewPipe currently supports these services: YouTube and YouTube Music PeerTube and all its instances Bandcamp SoundCloud media.ccc.de",
+  "image": "https://flathub.org/api/appOgImage/net.newpipe.NewPipe?locale=en",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cem\u003eNOTE:\u003c/em\u003e This is an unofficial and experimental Flatpak build based on Android Translation Layer. Please report bugs to the ATL bug tracker instead of the NewPipe bug tracker \u003ca href=\"https://gitlab.com/android_translation_layer/android_translation_layer/-/issues\" target=\"_blank\" rel=\"noopener noreferrer\"\u003ehttps://gitlab.com/android_translation_layer/android_translation_layer/-/issues\u003c/a\u003e.\u003c/p\u003e\n      \u003cp\u003eNewPipe is a privacy-preserving YouTube frontend. NewPipe does not use any Google framework libraries, or the YouTube API. It only parses the website in order to gain the information it needs. Therefore this app can be used on devices without Google Services installed. Also, you don\u0026#39;t need a YouTube account to use NewPipe, and it\u0026#39;s FLOSS.\u003c/p\u003e\n      \u003cp\u003eNewPipe currently supports these services:\u003c/p\u003e\n      \u003cul\u003e\n        \u003cli\u003eYouTube and YouTube Music\u003c/li\u003e\n        \u003cli\u003ePeerTube and all its instances\u003c/li\u003e\n        \u003cli\u003eBandcamp\u003c/li\u003e\n        \u003cli\u003eSoundCloud\u003c/li\u003e\n        \u003cli\u003e\u003ca href=\"http://media.ccc.de\" target=\"_blank\" rel=\"noopener noreferrer\"\u003emedia.ccc.de\u003c/a\u003e\u003c/li\u003e\n      \u003c/ul\u003e\n    \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
