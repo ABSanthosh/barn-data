@@ -1,0 +1,228 @@
+[
+  {
+    "id": "2261d690-859d-4e1e-bffc-3a6e13069466",
+    "title": "CSS min() All The Things",
+    "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
+    "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
+    "author": "Victor Ayomipo",
+    "published": "Thu, 17 Oct 2024 10:00:00 GMT",
+    "image": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "21cdcd74-49c9-4014-9a6f-273595fbe1a3",
+    "title": "It’s Here! How To Measure UX \u0026 Design Impact, With Vitaly Friedman",
+    "link": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
+    "description": "Design decisions shouldn’t be a matter of personal preference. We can use reliable design KPIs and UX metrics to guide and shape our design work and measure its impact on business. Meet How To Measure UX and Design Impact, our new video course that helps with just that.",
+    "author": "Vitaly Friedman",
+    "published": "Tue, 15 Oct 2024 14:00:00 GMT",
+    "image": "http://files.smashing.media/articles/ux-metrics-video-course-release/ux-metrics-video-course-opt.png",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "b5065713-006a-4702-a94d-5d421535f657",
+    "title": "Adobe Firefly Review: The New Generative AI (Detailed Guide)",
+    "link": "https://justcreative.com/adobe-firefly-review/",
+    "description": "Here's our first look at Adobe Firefly! In our Adobe Firefly review, we explain what it is, its features, how to get to it, and our hands-on experience.",
+    "author": "Jacob Cass",
+    "published": "Sun, 27 Oct 2024 04:00:41 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2022/11/adobe-firefly-1024x611.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Adobe",
+      "AI",
+      "Art Generator",
+      "Firefly"
+    ]
+  },
+  {
+    "id": "faee1e96-e314-4f6d-9aa4-d41503f3b852",
+    "title": "⚡️ 20+ Electric Fonts for Energetic Designs",
+    "link": "https://justcreative.com/electric-fonts/",
+    "description": "Unleash the relentless energy of electric fonts, where typographic rebellion meets the unyielding power of invigorating ethos. We've compiled the best here.",
+    "author": "Jacob Cass",
+    "published": "Fri, 25 Oct 2024 04:00:56 +0000",
+    "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/26a1.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "Electric",
+      "electric fonts",
+      "Fonts",
+      "neon fonts",
+      "thunder fonts"
+    ]
+  },
+  {
+    "id": "9512bc47-cd3e-44f3-a28e-e6ad68a3c3a3",
+    "title": "InVision design collaboration services shutdown",
+    "link": "https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/",
+    "description": "InVision Community,  Today I am writing to share that after careful consideration we have made the difficult decision to discontinue […] The post InVision design collaboration services shutdown appeared first on Inside Design.",
+    "author": "Michael Shenkman",
+    "published": "Thu, 04 Jan 2024 12:00:50 +0000",
+    "image": "",
+    "source": "https://www.invisionapp.com/inside-design/feed",
+    "categories": [
+      "InVision"
+    ]
+  },
+  {
+    "id": "20472d56-997d-4e50-804b-867e6b571b85",
+    "title": "Freehand joins the Miro team",
+    "link": "https://www.invisionapp.com/inside-design/freehand-joins-the-miro-team/",
+    "description": "We’re thrilled to announce that Miro has acquired Freehand.  InVision has always been at the forefront of collaboration, by first […] The post Freehand joins the Miro team appeared first on Inside Design.",
+    "author": "Michael Shenkman",
+    "published": "Wed, 15 Nov 2023 18:02:53 +0000",
+    "image": "",
+    "source": "https://www.invisionapp.com/inside-design/feed",
+    "categories": [
+      "InVision"
+    ]
+  },
+  {
+    "id": "04f01abf-da5c-4502-ad20-bab6d44a1e5a",
+    "title": "Product \u0026 UX Glossary",
+    "link": "https://www.nngroup.com/articles/product-ux-glossary/",
+    "description": "Use this glossary to quickly clarify key terms and concepts related to product management and UX.",
+    "author": "Sara Paul",
+    "published": "Fri, 25 Oct 2024 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "53eda11c-20a9-40fd-aaf3-721f3b7f8859",
+    "title": "Technology Myths and Urban Legends",
+    "link": "https://www.nngroup.com/articles/technology-myths/",
+    "description": "When users don’t clearly understand how systems function, they develop unique (and often incorrect) theories to explain their experiences.",
+    "author": "Kate Moran, Kim Flaherty",
+    "published": "Fri, 25 Oct 2024 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "3cb284ec-0073-4645-a147-95b9d95e2f85",
+    "title": "Phrases that have messed up my expectations of Content Design",
+    "link": "https://uxdesign.cc/phrases-that-have-messed-up-my-expectations-of-content-design-8ef73892f8bd?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Nicole Alexandra Michaelis",
+    "published": "Mon, 28 Oct 2024 22:27:25 GMT",
+    "image": "https://cdn-images-1.medium.com/max/736/0*qxseAvy-GwS1UJXL",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ux-writing",
+      "content-strategy",
+      "design",
+      "content-design",
+      "ux"
+    ]
+  },
+  {
+    "id": "d153d376-9d73-4a39-8c21-5688a4305b97",
+    "title": "Lamenting about good design, invisible leadership, progressive design model",
+    "link": "https://uxdesign.cc/lamenting-about-good-design-invisible-leadership-progressive-design-model-92bad5962844?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Fabricio Teixeira",
+    "published": "Mon, 28 Oct 2024 11:13:28 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*-fj-8SUugJAwHnj8.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "startup",
+      "productivity",
+      "design",
+      "artificial-intelligence",
+      "ux"
+    ]
+  },
+  {
+    "id": "abd981da-0a7c-449f-94d9-29cc098394ed",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "6092a520-28f3-45db-bee8-11555cbb7b3c",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "7d155c95-2e8c-418d-9c6c-b550eb70023f",
+    "title": "How to Handle Large-Scale Item Groups in a Sidebar",
+    "link": "https://uxmovement.com/navigation/how-to-handle-large-scale-item-groups-in-a-sidebar/",
+    "description": "A sidebar navigation with a few items is simple to design. All you have to do is display them in a list with relevant icons. But what do you do when you have multiple large-scale item groups to display? The typical approach uses disclosure arrows to collapse each item group with an accordion functionality. However, […] The post How to Handle Large-Scale Item Groups in a Sidebar first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 28 Aug 2024 02:26:51 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "2b328f28-a77b-4a86-891b-f79e48923b79",
+    "title": "A Better Approach to Multi-Level Sidebar Navigation",
+    "link": "https://uxmovement.com/navigation/a-better-approach-to-multi-level-sidebar-navigation/",
+    "description": "Designers must stop using multi-level sidebar navigation. Grouping many items and subitems together in a small space creates visual clutter. As a result, users have trouble finding items when they navigate. For example, a sidebar with a navigation hierarchy with three levels will display many text labels. Users navigating between levels can easily misinterpret which […] The post A Better Approach to Multi-Level Sidebar Navigation first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Mon, 26 Aug 2024 14:33:28 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "fdd632c4-0905-4d8f-85b7-813d30df0ce1",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "9a2134ed-daae-4105-8a1d-96d7b8617a1d",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "c59e21d0-a2b4-4489-ba48-919b1d7cd609",
+    "title": "Removing --headless=old from Chrome",
+    "link": "https://developer.chrome.com/blog/removing-headless-old-from-chrome?hl=en",
+    "description": "Chrome 132 no longer includes the old Headless mode. Migrate to chrome-headless-shell or the new Headless mode.",
+    "author": "",
+    "published": "Wed, 23 Oct 2024 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "d4d7dbb1-8b1b-465c-b408-a1c86ac7131e",
+    "title": "5 Cool Things To Do with DevTools AI Assistance",
+    "link": "https://developer.chrome.com/blog/5-cool-things-to-do-with-ai-assistance?hl=en",
+    "description": "Learn about fun and exciting use-cases of the new AI assistance panel in DevTools",
+    "author": "",
+    "published": "Mon, 21 Oct 2024 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "76ae3c1d-1511-40bb-8e81-921eb0ff2839",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "3b901d90-a091-41fe-934c-29138265a6fc",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "5180dff7-c689-4fea-816b-a18cb8000da7",
+    "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+    "link": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+    "description": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models (LLMs) on your own hardware. Learn more about the updates and how to get involved with this cutting-edge project. The post Llamafile v0.8.14: a new UI, performance gains, and more appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Stephen Hood",
+    "published": "Wed, 16 Oct 2024 13:32:30 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/10/llamafile_8.1.14_release_image.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "llamafile",
+      "open source"
+    ]
+  },
+  {
+    "id": "8dd8858b-e60f-41d6-91ec-32310cd0564a",
+    "title": "0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together",
+    "link": "https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/",
+    "description": "As AI continues to evolve, so do the threats against it. As these GenAI systems become more sophisticated and widely adopted, ensuring their security and ethical use becomes paramount. 0Din is a groundbreaking GenAI bug bounty program dedicated specifically to help secure GenAI systems and beyond. In this blog, you'll learn about 0Din, how it works, and how you can participate and make a difference in securing our AI future. The post 0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Marco Figueroa",
+    "published": "Thu, 08 Aug 2024 18:39:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/08/BountyPayout.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Artificial Intelligence",
+      "Featured Article",
+      "AI",
+      "bounty",
+      "bug bounty",
+      "bugs",
+      "coding"
+    ]
+  },
+  {
+    "id": "9b1bc8e6-4062-4da3-8893-97ee53dfbd56",
+    "title": "Tooltip Best Practices",
+    "link": "https://css-tricks.com/tooltip-best-practices/",
+    "description": "What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices. Tooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Zell Liew",
+    "published": "Tue, 29 Oct 2024 14:01:18 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/tooltip.png?resize=1005%2C420\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "dialog",
+      "popover",
+      "semantics"
+    ]
+  },
+  {
+    "id": "48150475-ee89-4a25-a2c9-19ff88f0c317",
+    "title": "Come to the light-dark() Side",
+    "link": "https://css-tricks.com/come-to-the-light-dark-side/",
+    "description": "Dark mode interfaces have matured a lot in the past few years. We all know the \"traditional\" approach using media queries but in this article, Sara Joy demonstrates modern CSS features that make respecting user color scheme preferences pretty darn easy. Come to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Sara Joy",
+    "published": "Fri, 25 Oct 2024 14:08:20 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/z9EfegD9q.png.jpeg?resize=572%2C549\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "dark mode",
+      "functions",
+      "UI/IX Design"
+    ]
+  }
+]
