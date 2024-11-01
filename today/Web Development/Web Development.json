@@ -1,0 +1,116 @@
+[
+  {
+    "id": "39820e5f-70b6-47a2-a947-caa016c32757",
+    "title": "Removing --headless=old from Chrome",
+    "link": "https://developer.chrome.com/blog/removing-headless-old-from-chrome?hl=en",
+    "description": "Chrome 132 no longer includes the old Headless mode. Migrate to chrome-headless-shell or the new Headless mode.",
+    "author": "",
+    "published": "Wed, 23 Oct 2024 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "3710b530-7ca0-4395-9dd1-b2b7b00881dc",
+    "title": "5 Cool Things To Do with DevTools AI Assistance",
+    "link": "https://developer.chrome.com/blog/5-cool-things-to-do-with-ai-assistance?hl=en",
+    "description": "Learn about fun and exciting use-cases of the new AI assistance panel in DevTools",
+    "author": "",
+    "published": "Mon, 21 Oct 2024 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "3a624016-a3e8-4f2d-8947-f00b172044f8",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "5b78fa41-c80d-4f12-83f8-fae12dd316f4",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "a3d11623-379c-4657-9154-f79883201ed0",
+    "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+    "link": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+    "description": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models (LLMs) on your own hardware. Learn more about the updates and how to get involved with this cutting-edge project. The post Llamafile v0.8.14: a new UI, performance gains, and more appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Stephen Hood",
+    "published": "Wed, 16 Oct 2024 13:32:30 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/10/llamafile_8.1.14_release_image.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "llamafile",
+      "open source"
+    ]
+  },
+  {
+    "id": "b0476069-0bbe-4fea-aaa2-d34bd76a3f7f",
+    "title": "0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together",
+    "link": "https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/",
+    "description": "As AI continues to evolve, so do the threats against it. As these GenAI systems become more sophisticated and widely adopted, ensuring their security and ethical use becomes paramount. 0Din is a groundbreaking GenAI bug bounty program dedicated specifically to help secure GenAI systems and beyond. In this blog, you'll learn about 0Din, how it works, and how you can participate and make a difference in securing our AI future. The post 0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Marco Figueroa",
+    "published": "Thu, 08 Aug 2024 18:39:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/08/BountyPayout.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Artificial Intelligence",
+      "Featured Article",
+      "AI",
+      "bounty",
+      "bug bounty",
+      "bugs",
+      "coding"
+    ]
+  },
+  {
+    "id": "16900b03-bc95-4cd3-b5d6-4723f646e7a0",
+    "title": "State of CSS 2024 Results",
+    "link": "https://css-tricks.com/state-of-css-2024-results/",
+    "description": "The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting. State of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Wed, 30 Oct 2024 16:43:55 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/css-survey-2024-age.jpg?resize=2004%2C806\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "news"
+    ]
+  },
+  {
+    "id": "05af2643-1738-4d58-ad12-845e95cd00ea",
+    "title": "Tooltip Best Practices",
+    "link": "https://css-tricks.com/tooltip-best-practices/",
+    "description": "What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices. Tooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Zell Liew",
+    "published": "Tue, 29 Oct 2024 14:01:18 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/tooltip.png?resize=1005%2C420\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "dialog",
+      "popover",
+      "semantics"
+    ]
+  }
+]
