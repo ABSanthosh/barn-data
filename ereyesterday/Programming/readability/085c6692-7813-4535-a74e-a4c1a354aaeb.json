@@ -1,0 +1,29 @@
+{
+  "id": "085c6692-7813-4535-a74e-a4c1a354aaeb",
+  "title": "SE Radio 639: Cody Ebberson on Regulated Industries",
+  "link": "http://se-radio.net/se-radio-639-cody-ebberson-on-regulated-industries",
+  "description": "Cody Ebberson, CTO of Medplum, joins host Sam Taggart to discuss the constraints that working in regulated industries add to the software development process. They explore some general aspects of developing for regulated industries, such as healthcare and finance, as well as a range of specific considerations that can add complexity and effort. Cody describes how translating regulatory requirements into test specifications and automating those tests can help streamline software development in these regulated environments.  Brought to you by IEEE Computer Society and IEEE Software magazine.",
+  "author": "SE-Radio Team",
+  "published": "Wed, 23 Oct 2024 23:05:00 +0000",
+  "source": "http://feeds.feedburner.com/se-radio",
+  "categories": [
+    "logging",
+    "Testing",
+    "regulations",
+    "HIPAA",
+    "PII",
+    "software development",
+    "CI/CD"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
