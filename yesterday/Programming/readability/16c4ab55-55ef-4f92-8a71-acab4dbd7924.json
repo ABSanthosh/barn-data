@@ -1,0 +1,31 @@
+{
+  "id": "16c4ab55-55ef-4f92-8a71-acab4dbd7924",
+  "title": "How a creator of React is rethinking IDEs",
+  "link": "https://stackoverflow.blog/2024/11/01/how-a-creator-of-react-is-rethinking-ides/",
+  "description": "Tom Occhino, now Chief Product Officer at Vercel, tells Ben about how he contributed to the development of React at Facebook and the contentious decision to make React open-source. They also talk about what community feedback has been like on Next.js 15, Vercel’s GenAI web development tool, and how Vercel is rethinking IDEs.",
+  "author": "Eira May",
+  "published": "Fri, 01 Nov 2024 07:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "se-tech",
+    "se-stackoverflow",
+    "podcast",
+    "ai",
+    "react",
+    "next-js",
+    "vercel",
+    "open-source",
+    "ide"
+  ],
+  "byline": "Eira May",
+  "length": 530,
+  "excerpt": "Want to learn more about the early days of React? React.js: The Documentary gives you the full story from the perspective of the developers who created it.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "Want to learn more about the early days of React? React.js: The Documentary gives you the full story from the perspective of the developers who created it.Vercel is a native Next.js platform.v0 aims to democratize software development for non-technical users. Check it out here.Listen to our recent conversation with Vercel’s VP of AI.Connect with Tom on LinkedIn or X.Kudos to Stack Overflow user Sodruldeen Mustapha, who earned a Lifeboat badge by answering How to remove the environment variables from Laravel Debug?.TRANSCRIPT",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003eWant to learn more about the early days of React? \u003ca href=\"http://react.js\"\u003e\u003cem\u003eReact.js: The Documentary\u003c/em\u003e\u003c/a\u003e gives you the full story from the perspective of the developers who created it.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://vercel.com/\"\u003eVercel\u003c/a\u003e is a native Next.js platform.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://vercel.com/blog/announcing-v0-generative-ui\"\u003ev0\u003c/a\u003e aims to democratize software development for non-technical users. Check it out \u003ca href=\"https://v0.dev/\"\u003ehere\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eListen to \u003ca href=\"https://stackoverflow.blog/2024/06/14/vercel-next-node-js-ai-sdk/\"\u003eour recent conversation with Vercel’s VP of AI\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eConnect with Tom on \u003ca href=\"https://www.linkedin.com/in/tomocchino\"\u003eLinkedIn\u003c/a\u003e or \u003ca href=\"https://twitter.com/tomocchino\"\u003eX\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eKudos to Stack Overflow user \u003ca href=\"https://stackoverflow.com/users/7410663/sodruldeen-mustapha\"\u003eSodruldeen Mustapha\u003c/a\u003e, who earned a \u003ca href=\"https://stackoverflow.com/help/badges/8842/lifeboat\"\u003eLifeboat badge\u003c/a\u003e by answering \u003ca href=\"https://stackoverflow.com/questions/56741230/how-to-remove-the-environment-variables-from-laravel-debug\"\u003eHow to remove the environment variables from Laravel Debug?\u003c/a\u003e.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://the-stack-overflow-podcast.simplecast.com/episodes/how-a-creator-of-react-is-rethinking-ides/transcript\"\u003eTRANSCRIPT\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

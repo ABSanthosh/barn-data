@@ -1,0 +1,21 @@
+{
+  "id": "8b1c681d-473c-446b-9dba-06c25cfde718",
+  "title": "Diagrams · Diagram as Code",
+  "link": "https://diagrams.mingrammer.com/",
+  "description": "Comments",
+  "author": "",
+  "published": "Mon, 04 Nov 2024 18:46:42 +0000",
+  "source": "https://news.ycombinator.com/rss",
+  "categories": null,
+  "byline": "",
+  "length": 723,
+  "excerpt": "Diagram as Code",
+  "siteName": "",
+  "favicon": "",
+  "text": "About DiagramsDiagrams lets you draw the cloud system architecture in Python code. It was born for prototyping a new system architecture without any design tools. You can also describe or visualize the existing system architecture as well. Diagram as Code allows you to track the architecture diagram changes in any version control system. Diagrams currently supports main major providers including: AWS, Azure, GCP, Kubernetes, Alibaba Cloud, Oracle Cloud etc... It also supports On-Premise nodes, SaaS and major Programming frameworks and languages. NOTE: It does not control any actual cloud resources nor does it generate cloud formation or terraform code. It is just for drawing the cloud system architecture diagrams.",
+  "image": "https://diagrams.mingrammer.com/img/diagrams.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cdiv\u003e\u003ch2\u003eAbout Diagrams\u003c/h2\u003e\u003cp\u003e\u003cspan\u003e\u003cp\u003eDiagrams lets you draw the cloud system architecture \u003cstrong\u003ein Python code\u003c/strong\u003e.\u003c/p\u003e\n\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cp\u003eIt was born for \u003cstrong\u003eprototyping\u003c/strong\u003e a new system architecture without any design tools. You can also describe or visualize the existing system architecture as well.\u003c/p\u003e\n\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cp\u003e\u003ccode\u003eDiagram as Code\u003c/code\u003e allows you to \u003cstrong\u003etrack\u003c/strong\u003e the architecture diagram changes in any \u003cstrong\u003eversion control\u003c/strong\u003e system.\u003c/p\u003e\n\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cp\u003eDiagrams currently supports main major providers including: \u003ccode\u003eAWS\u003c/code\u003e, \u003ccode\u003eAzure\u003c/code\u003e, \u003ccode\u003eGCP\u003c/code\u003e, \u003ccode\u003eKubernetes\u003c/code\u003e, \u003ccode\u003eAlibaba Cloud\u003c/code\u003e, \u003ccode\u003eOracle Cloud\u003c/code\u003e etc... It also supports \u003ccode\u003eOn-Premise\u003c/code\u003e nodes, \u003ccode\u003eSaaS\u003c/code\u003e and major \u003ccode\u003eProgramming\u003c/code\u003e frameworks and languages.\u003c/p\u003e\n\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cp\u003e\u003ccode\u003eNOTE: It does not control any actual cloud resources nor does it generate cloud formation or terraform code. It is just for drawing the cloud system architecture diagrams.\u003c/code\u003e\u003c/p\u003e\n\u003c/span\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg src=\"https://diagrams.mingrammer.com/img/message_collecting_code.png\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg src=\"https://diagrams.mingrammer.com/img/message_collecting_diagram.png\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg src=\"https://diagrams.mingrammer.com/img/event_processing_code.png\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg src=\"https://diagrams.mingrammer.com/img/event_processing_diagram.png\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

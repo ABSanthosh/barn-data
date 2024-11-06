@@ -1,0 +1,150 @@
+[
+  {
+    "id": "c80ba489-0914-4606-94e2-a112d3961245",
+    "title": "Polaris Dawn",
+    "link": "https://www.youtube.com/watch?v=MaJmUUtr2SI",
+    "description": "",
+    "author": "SpaceX",
+    "published": "2024-10-26T17:19:01+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel",
+    "categories": null
+  },
+  {
+    "id": "033d583b-73ad-4120-845c-dad9c91e1729",
+    "title": "Polaris Dawn | Views from Dragon in flight",
+    "link": "https://www.youtube.com/watch?v=5_DZtCYhdXc",
+    "description": "",
+    "author": "SpaceX",
+    "published": "2024-09-27T17:41:45+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel",
+    "categories": null
+  },
+  {
+    "id": "9707dc88-9f62-4af4-9362-55897b414a64",
+    "title": "Beyond the Console: Kenneth Attocknie’s Mission to Bridge Cultures at NASA",
+    "link": "https://www.nasa.gov/centers-and-facilities/johnson/beyond-the-console-kenneth-attocknies-mission-to-bridge-cultures-at-nasa/",
+    "description": "From the Mission Control Center to community celebrations, Kenneth Attocknie blends safety expertise with a commitment to cultural connection.  For the past 25 years at NASA, Attocknie has dedicated his career to safeguarding the International Space Station and supporting real-time mission operations at Johnson Space Center in Houston.   As a principal safety engineer in the […]",
+    "author": "Sumer Loggins",
+    "published": "Tue, 05 Nov 2024 21:28:14 +0000",
+    "image": "https://www.nasa.gov/wp-content/uploads/2024/11/jsc2017e023228.jpg?w=1638",
+    "source": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "categories": [
+      "Johnson Space Center",
+      "Diversity at NASA",
+      "General",
+      "International Space Station (ISS)",
+      "Missions",
+      "NASA Centers \u0026 Facilities",
+      "Native American Heritage Month",
+      "People of Johnson",
+      "People of NASA"
+    ]
+  },
+  {
+    "id": "8c349ffb-4391-4d18-87c4-88a42543fdfe",
+    "title": "Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers",
+    "link": "https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/",
+    "description": "For nearly a decade, the American Association of Physics Teachers (AAPT) has been working to bring together resources through its DigiKits–multimedia collections of vetted high-quality resources for teachers and their students. These resources are toolkits, allowing teachers to pick and choose interesting content to support their instruction. As a partner with the NASA Heliophysics Education […]",
+    "author": "",
+    "published": "Tue, 05 Nov 2024 20:13:47 +0000",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/DigiKit_Auroral_Currents-Carolyn_Y_Ng.png?w=1953\u0026h=1055\u0026fit=clip\u0026crop=faces%2Cfocalpoint",
+    "source": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "categories": [
+      "For Educators",
+      "For Kids and Students",
+      "Heliophysics",
+      "Science Activation"
+    ]
+  },
+  {
+    "id": "cf886bfe-89c4-40ef-a8b5-af835722962b",
+    "title": "NASA's Chandra X-ray telescope sees 'knots' blasting from nearby black hole jets",
+    "link": "https://www.space.com/the-universe/black-holes/nasas-chandra-x-ray-telescope-sees-knots-blasting-from-nearby-black-hole-jets",
+    "description": "A fresh analysis of decades-old X-ray black hole jet data has revealed bright, lumpy features with mysterious speed changes.",
+    "author": "",
+    "published": "Wed, 06 Nov 2024 00:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/5nvBSLpmDvVo2BgfrSBWkE.jpg",
+    "source": "https://www.space.com/feeds/all",
+    "categories": [
+      "Black Holes",
+      "The Universe"
+    ]
+  },
+  {
+    "id": "87ae9ecf-bcd6-4ce0-9a68-cec925abf6af",
+    "title": "World's 1st wooden satellite arrives at ISS for key orbital test",
+    "link": "https://www.space.com/space-exploration/satellites/worlds-1st-wooden-satellite-arrives-at-iss-for-key-orbital-test",
+    "description": "LignoSat could help change the way we build satellites.",
+    "author": "",
+    "published": "Tue, 05 Nov 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/7P99nPQPLGUDzHMqzHnLDg.jpg",
+    "source": "https://www.space.com/feeds/all",
+    "categories": [
+      "Satellites",
+      "Space Exploration"
+    ]
+  },
+  {
+    "id": "370b264a-ac30-45d5-8835-6062d2e2ec1a",
+    "title": "World’s first wooden satellite launched into space",
+    "link": "https://www.theguardian.com/science/2024/nov/05/worlds-first-wooden-satellite-launched-into-space",
+    "description": "LignoSat, developed in Japan and launched from Florida, expected to reduce space junk as it burns up on re-entryThe world’s first wooden satellite has been launched into space as part of study on using timber to help reduce the creation of space junk.Scientists at Kyoto University expect the wooden material to burn up when the device re-enters the atmosphere – potentially providing a way to avoid generating metal particles when a retired satellite returns to Earth. Continue reading...",
+    "author": "Agence France-Presse in Tokyo",
+    "published": "Tue, 05 Nov 2024 17:25:56 GMT",
+    "image": "",
+    "source": "https://www.theguardian.com/science/space/rss",
+    "categories": [
+      "Space",
+      "Japan",
+      "Waste",
+      "Nasa",
+      "SpaceX",
+      "Science",
+      "US news",
+      "World news"
+    ]
+  },
+  {
+    "id": "0fa07cd9-e6e5-4cdf-a8ac-9a527ec2d50c",
+    "title": "Country diary: Reflecting on a moonlit night | Mark Cocker",
+    "link": "https://www.theguardian.com/environment/2024/nov/05/country-diary-reflecting-on-a-moonlit-night",
+    "description": "Burnlaw, Northumberland: Sleepless at 4am and studying our sole satellite, I’m struck by the remarkable journey light takes to make it into our viewI have a habit, if I wake some nights, to get up and go downstairs to read. Last night was noteworthy because I could see the moon as a mere horn repeatedly swallowed then reborn from the passing clouds. Through binoculars, however, I could make out the other portion of the whole lunar sphere as a sort of ill-lit inference.It was Leonardo da Vinci who first suggested that this shadow part of the crescent moon is visible because of sunlight rebounding off the Earth and then re-transmitted on our one satellite. It was wonderful to imagine that the energy received here, even as I stood gazing, was re-presented out there a little over a second later. That is because light travels at a speed per second roughly similar to our distance from the moon (the respective figures are about 300,000 km/sec and an average 384,400 km). Continue reading...",
+    "author": "",
+    "published": "Tue, 05 Nov 2024 05:30:10 GMT",
+    "image": "",
+    "source": "https://www.theguardian.com/science/space/rss",
+    "categories": [
+      "The moon",
+      "Planets",
+      "Space",
+      "Environment",
+      "Rural affairs",
+      "UK news",
+      "The sun"
+    ]
+  },
+  {
+    "id": "439ea9d3-47db-47fa-beaf-dd0614c2fa37",
+    "title": "Distant dwarf planet Makemake might have a surprising ice volcano",
+    "link": "https://www.newscientist.com/article/2455052-distant-dwarf-planet-makemake-might-have-a-surprising-ice-volcano/?utm_campaign=RSS%7CNSNS\u0026utm_source=NSNS\u0026utm_medium=RSS\u0026utm_content=space",
+    "description": "A small world in the outer solar system appears to have volcanic activity possibly spurred by liquid water",
+    "author": "",
+    "published": "Tue, 05 Nov 2024 20:26:31 +0000",
+    "image": "",
+    "source": "https://www.newscientist.com/subject/space/feed/",
+    "categories": null
+  },
+  {
+    "id": "440cfad9-c187-4bb3-9154-eb01d3c594fd",
+    "title": "Astronauts could hitch a ride on asteroids to get to Venus or Mars",
+    "link": "https://www.newscientist.com/article/2453853-astronauts-could-hitch-a-ride-on-asteroids-to-get-to-venus-or-mars/?utm_campaign=RSS%7CNSNS\u0026utm_source=NSNS\u0026utm_medium=RSS\u0026utm_content=space",
+    "description": "Asteroids that regularly fly between Earth, Venus and Mars could provide radiation shielding for human missions to explore neighbouring planets",
+    "author": "",
+    "published": "Tue, 29 Oct 2024 18:00:47 +0000",
+    "image": "",
+    "source": "https://www.newscientist.com/subject/space/feed/",
+    "categories": null
+  }
+]
