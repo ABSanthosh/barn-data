@@ -1,0 +1,378 @@
+[
+  {
+    "id": "db1a591d-dd59-4a6d-9464-a0d3c9427c88",
+    "title": "Security Bite: Mechanics of Apple CarPlay",
+    "link": "https://9to5mac.com/2024/11/07/security-bite-mechanics-of-apple-carplay/",
+    "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening \u0026 Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple. This week, I want to share a fascinating talk I came across on social media about an Apple service that doesn’t seem to get as much attention in the community: CarPlay. While Apple has not publicly disclosed the exact number of CarPlay users, I’d venture to say it’s one of its most used services. And one of the biggest concerns is anything that could compromise driver safety or privacy. So, how secure is CarPlay? more…",
+    "author": "Arin Waichulis",
+    "published": "Thu, 07 Nov 2024 23:53:09 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/08/2024-mazda-cx5-carplay-1.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "0f292f70-851e-4cbf-8231-7589e28e1dac",
+    "title": "Netflix now lets you share screenshots of your favorite moments from a movie or show",
+    "link": "https://9to5mac.com/2024/11/07/netflix-screenshots-movie-show-moments/",
+    "description": "Pretty much every video streaming platform has DRM-protected content, which aims to prevent users from distributing copyrighted material. Unfortunately, this also means that users can’t easily share screenshots of specific moments of something they’re watching with others – but Netflix is introducing a new feature that will change that. more…",
+    "author": "Filipe Espósito",
+    "published": "Thu, 07 Nov 2024 22:45:17 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/netflix-moments-screenshot.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "3ec234fc-0123-4bc3-8b3e-57336c842aea",
+    "title": "Driving the game forward: iPad teams up with college football",
+    "link": "https://www.apple.com/newsroom/2024/11/driving-the-game-forward-ipad-teams-up-with-college-football/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2024-11-01T14:59:15.571Z",
+    "image": "https://www.apple.com/newsroom/images/2024/11/driving-the-game-forward-ipad-teams-up-with-college-football/tile/Apple-iPad-and-college-football-hero-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "de3c87ad-a5a9-4a80-8f19-17b9967d52e5",
+    "title": "Apple reports fourth quarter results",
+    "link": "https://www.apple.com/newsroom/2024/10/apple-reports-fourth-quarter-results/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2024-10-31T20:30:26.901Z",
+    "image": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "PRESS RELEASE"
+    ]
+  },
+  {
+    "id": "0f9abc07-b1b2-49e9-8de3-c693e2b7942e",
+    "title": "Apple Intelligence | Change your tone | MacBook Pro",
+    "link": "https://www.youtube.com/watch?v=deNzYrTvqCs",
+    "description": "",
+    "author": "Apple",
+    "published": "2024-11-04T14:00:32+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "55405c7a-8bfa-49bb-986c-6b96866f9b1e",
+    "title": "Apple Intelligence | Catch up quick | MacBook Pro",
+    "link": "https://www.youtube.com/watch?v=BK8bnkcT0Ng",
+    "description": "",
+    "author": "Apple",
+    "published": "2024-11-04T14:00:11+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "c4ca8242-4e1c-4c88-9429-6af7c3bd659e",
+    "title": "Grab an M1 MacBook Air at hundreds off",
+    "link": "https://www.cultofmac.com/daily-deals/refurbished-m1-macbook-air-sale",
+    "description": "Pick up the perfect laptop for students at a price that's perfect for anyone. Get a refurbished M1 Macbook Air on sale for just $514.99. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Cult of Mac Deals",
+    "published": "Thu, 07 Nov 2024 22:30:06 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2024/09/macbook.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Daily deals",
+      "Apple deals",
+      "Cult of Mac Deals",
+      "laptops",
+      "Mac",
+      "MacBook Air",
+      "refurbished Apple gear"
+    ]
+  },
+  {
+    "id": "de75fe41-c419-4d42-a3d7-c07df19702fb",
+    "title": "M4 iMac reviews roundup: So fast and colorful",
+    "link": "https://www.cultofmac.com/reviews/m4-imac-reviews-roundup",
+    "description": "Some early M4 iMac reviews touch on how much more colorful the new version is, and others focus more on the performance boost. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Ed Hardy",
+    "published": "Thu, 07 Nov 2024 19:55:16 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2024/11/imac-m4-in-use.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Reviews",
+      "iMac",
+      "M4 chip"
+    ]
+  },
+  {
+    "id": "405d4577-a412-45c0-801d-0cf299f53166",
+    "title": "★ I Wonder",
+    "link": "https://daringfireball.net/2024/11/i_wonder",
+    "description": "Singsong congratulations from the leaders of America’s biggest companies.",
+    "author": "John Gruber",
+    "published": "2024-11-07T17:20:26Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "3fc0a398-0092-442b-8890-124746ebce7e",
+    "title": "The Brutal Clarity of This Result",
+    "link": "https://politicalwire.com/2024/11/06/the-election-provided-some-clarity/",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2024-11-07T03:50:37Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "b1fddbd2-ae42-459a-af78-6aa337c72606",
+    "title": "iPhones stored for forensic analysis unexpectedly reboot, causing problems for police",
+    "link": "https://appleinsider.com/articles/24/11/07/iphones-stored-for-forensic-analysis-unexpectedly-reboot-causing-problems-for-officials?utm_medium=rss",
+    "description": "Multiple iPhone units stored for forensic analysis have rebooted themselves, causing concern among law enforcement officials that Apple has a new security feature.iPhones stored for forensic analysis have reportedly begun rebooting themselves.The phones in question had a few things in common, they were all running iOS 18.0, and they had been disconnected from cellular networks for some time. They were sent into a forensics lab on October 3, 2024.The affected devices even included one that was in Airplane Mode and another that was kept in a Faraday cage, which prevents electrical signals from accessing the device. While it's most likely that the devices began boot-looping or that they ran low on battery, officials believe the restarts were caused by something else entirely. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Marko Zivkovic",
+    "published": "Thu, 07 Nov 2024 22:42:28 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/61685-127576-60955-125569-59127-120678-malware-xl-xl-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "77c32d8d-18b7-46ea-842c-29937b9f7f63",
+    "title": "Two senior presidential campaign officials' iPhones maybe hacked by Chinese group",
+    "link": "https://appleinsider.com/articles/24/11/07/two-senior-presidential-campaign-officials-iphones-maybe-hacked-by-chinese-group?utm_medium=rss",
+    "description": "Evidence suggests that the earlier Chinese Salt Typhoon breach of American telecoms may have led to the potential hacking of two presidential campaign officials' iPhones.iPhones potentially breachedWhether the hack actually happened, what data might have been obtained, or which officials were breached have not been revealed. The FBI is investigating claims by a security startup called iVerify that tie the events together.According to a report from Forbes, iVerify flagged anomalous behavior on two iPhones belonging to senior officials for one of the presidential candidates. Settings had been changed on the iPhones in \"patterns that are not observed on healthy devices.\" Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Wesley Hilliard",
+    "published": "Thu, 07 Nov 2024 22:22:49 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/61686-127575-hack-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "7401e2bc-aa30-4ece-b6a1-e8612d11e19a",
+    "title": "Sonos Arc Ultra Review: Insane 9.1.4 Spatial Audio 🤯",
+    "link": "https://www.youtube.com/watch?v=ghIVxdecuB0",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2024-11-07T20:08:06+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "1eb9de1b-fbe7-47f8-9653-c108fed03ea1",
+    "title": "Ultrawide Display in visionOS 2.2 Beta is CRAZY!",
+    "link": "https://www.youtube.com/watch?v=x3_0kNLr3Ew",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2024-11-05T18:48:45+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "cd3c8261-8773-44ce-9ce0-da02bef5c47f",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 11:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "1ff687cb-0c69-4a38-84ae-6be7c482da2c",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 07:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "dcbdab09-183b-46d1-b73d-689c82a3e4da",
+    "title": "Best iPad 2024: Compete and updated guide to which iPad to buy",
+    "link": "https://www.macworld.com/article/670670/which-ipad-best.html",
+    "description": "Macworld Which iPad should you buy? There are a lot of choices and it can be confusing. There are four different varieties of iPad, listed below, and each is available with or without cellular (including 5G on certain models), which costs extra. That’s before we get into storage capacity, colors, and second-hand alternatives. Our in-depth buying guide assesses the whole range of iPads sold by Apple and explores all the factors that should influence your iPad buying decision such as value for money, how much storage you need, and whether or not to buy a cellular version. We also reveal whether an updated version of each device is likely to be launched soon–answering the question of whether now is a good time to buy an iPad. If you’re thinking of buying an iPad for college or university you might also like to read our guide to the best iPad for students. You may also like to read our best iPad for kids guide. Updated November 7, 2024 with info about the iPad mini (A17 Pro). Apple iPad comparison chart The table below summarizes the main features of the iPads in Apple’s current lineup and highlights the price for each. We have more information about the individual iPads and buying advice below. Click the links in the table of contents to go to the section most relevant to you. Model (launch date)Key features + specsStorage + cellular optionsPrice + buy linkiPad 10.9-inch 10th generation(October 2022)• Medium 10.9-inch screen• Touch ID on the Power button• A14 Bionic processor• 12MP/12MP cameras• Supports Apple Pencil (USB) and Apple Pencil 1• 248.6mm x 179.5mm x 7mm• 481g64GB256GB64GB (5G)256GB (5G)$349 / £349$499 / £499$499 / £499$649 / £649iPad mini(A17 Pro)(October 2024)• Small 8.3-inch screen• Touch ID on the Power button• A17 Pro processor• 12MP/12MP cameras• Supports Apple Pencil (USB-C) and Apple Pencil Pro• 195.4mm x 134.8mm x 6.3mm• 293g64GB256GB64GB (5G)256GB (5G)$499 / £499$649 / £649$649 / £649$799 / £799iPad Air 11-inch6th generation(May 2024)• Medium 11-inch screen• Touch ID on the Power button• M2 processor• 12MP/12MP cameras• Supports Apple Pencil (USB) and Apple Pencil Pro• 247.6mm x 178.5mm x 6.1mm• 462g128GB256GB512GB1TB128GB (5G)256GB (5G)512GB (5G)1TB (5G)$599 / £599$699 / £699$899 / £899$1,099 / £1,099$749 / £749$849 / £849$1,049 / £1,049$1,249 / £1,249iPad Air 13-inch(May 2024)• Largest 13-inch screen• Touch ID on the Power button• M2 processor• 12MP/12MP cameras• Supports Apple Pencil (USB) and Apple Pencil Pro• 280.6mm x 214.9mm x 6.1mm• 618g128GB256GB512GB1TB128GB (5G)256GB (5G)512GB (5G)1TB (5G)$799 / £799$899 / £899$1,099 / £1,099$1,299 / £1,299$949 / £949$1,049 / £1,049$1,249 / £1,249$1,449 / £1,449iPad Pro 11-inch 5th generation(May 2024)• Medium 11-inch screen• Face ID• M4 processor• 12MP/12MP cameras• Supports Apple Pencil (USB) and Apple Pencil Pro• 249.7mm x 177.5mm x 5.3mm• 446g256GB512GB1TB2TB256GB (5G)512GB (5G)1TB (5G)2TG (5G)$999 / £999$1,199 / £1,199$1,599 / £1,599$1,999 / £1,999$1,199 / £1,199$1,399 / £1,399$1,799 / £1,799$2,199 / £2,199iPad Pro 13-inch7th generation(May 2024)• Largest 13-inch screen• Face ID• M4 processor• 12MP/12MP cameras• Supports Apple Pencil (USB) and Apple Pencil Pro• 281.6mm x 215.5mm x 65.1mm• 582g256GB512GB1TB2TB256GB (5G)512GB (5G)1TB (5G)2TB (5G)$1,299 / £1,299$1,499 / £1,499$1,899 / £1,849$2,299 / £2,299 $1,499 / £1,499$1,699 / £1,699$2,099 / £2,099$2,499 / £2,499 Every iPad Apple sells Apple’s iPad lineup is perhaps one of the most expansive product lineups presented by the company. Below we offer information about each model, but we also answer questions further down the article such as which iPad is the best value for money, which size is best, how much storage you need, and whether to get cellular (you can jump to these sections from the table of contents above). The iPad that is best for you will depend on what you need from an iPad. If you just want an iPad for reading books, watching movies and TV shows, email, and web browsing, then you don’t need all the bells and whistles. An iPad or iPad mini might be best here. If you are looking for an iPad that will do everything that a laptop can, then you might want to consider a model that is more powerful and supports additional components, including one of Apple’s newer keyboards or the Apple Pencil, the iPad Air might suit you. And if you will be using your iPad for gaming, video editing, photo editing, or anything high-powered and graphic intensive, then you will probably be looking at an iPad Pro. Below we will run through every iPad you can buy so you can find the one that’s best for your needs. Apple iPad (2022, 10th gen): Best value Price When Reviewed: From $349 (64GB) | $499 (256GB) (was $449 and $599) Best Prices Today: $299 at Amazon$299 at Best Buy$299.99 at Target 64GB: $349/£349256GB: $499/£49964GB (cellular): $499/£499256GB (cellular): $649/£649 The 2022 iPad (10th generation) is the cheapest iPad–it was reduced by $100 in May 2024 from $449 to $349. It offers a lot of features for the price and it’s available in an assortment of fun colors. It has a 10.9-inch screen, a USB-C connector, and supports the Apple Pencil 1 or the Apple Pencil (USB). It’s also capable of 5G (if you were looking at the cellular model you wouldn’t want the 4G-capable 9th gen). Pros: A14 chip will be powerful enough for a good few years. No more Home Button – but there is Touch ID (on the Power button). Cons: Still feels cheap due to the unlaminated screen (will Apple ever update this?). Not as thin and light as the iPad Air. Best for: Anyone who needs a big screen (not a huge screen; they’ll want the 12.9-inch iPad Pro) but is on a budget, and can cope without the latest in processing. It’s a good option for anyone who likes the look of the iPad Air, but not the price. Is now a good time to buy? While the iPad is about two years old, Apple reduced its price in May 2024 and it’s a fantastic bargain. See: Best iPad (10th gen) deals Read our full Apple iPad (10th gen, A14, 2022) review Apple iPad mini (A17 Pro, 2024): Best for kids and travelers Price When Reviewed: $499 (128GB; Wi-Fi only) | $599 (256GB; Wi-Fi only) | $799 (512GB; Wi-Fi only) Best Prices Today: $478 at Amazon$499 at Apple$499 at Apple United States 128GB: $499/£499 256GB: $649/£649 512GB: $799/£799 64GB (cellular): $649/£649 256GB (cellular): $799/£799 512GB (cellular): $949/£949 This generation of iPad mini launched in October 2024. The iPad mini is available in four colors: Blue, Purple, Space Gray, and Starlight. The biggest draw of the iPad mini is probably its diminutive stature; it’s Apple’s smallest iPad with an 8.3-inch display. It’s perfect for carrying around in a bag or handing to children when they need entertainment. You get a speedy A17 Pro processor chip, a Liquid Retina screen, and 12MP/12MP rear/front cameras. It might be small, but it is actually more powerful than the standard iPad thanks to its A17 Pro processor, which is a few generations newer than the A14 in the 10th gen iPad. Pros: Very portable and respectably powerful. The cheapest version has a decent amount of storage (64GB). Supports Apple Pencil (USB-C) or Apple Pencil Pro. Cons: Small screen, which may not be great for those who get eyestrain or who like immersive films and games. Best for: The portability-conscious. Gamers on the go. Tablet photographers. Ebook readers. Kids. Is now a good time to buy? The iPad mini (A17 Pro) was released in October 2024, so you won’t find deep discounts at third-party retailers, where you’ll likely find it for a little bit lower than Apple’s MSRP. See: Best iPad mini deals Apple iPad Air 11-inch (6th gen, 2024): Best for power in an affordable package Price When Reviewed: $599 (128GB, Wi-Fi only) Best Prices Today: $551 at Amazon$599 at Apple$599 at Apple United States 128GB: $599 / £599 256GB: $699 / £699 128GB (cellular): $749 / £749 256GB (cellular): $849 / £849 The 11-inch iPad Air has an M2 processor that is powerful and energy-efficient (you may remember it from its widely praised performance in the Mac). The M2 pushes the iPad Air far ahead of the iPad mini and standard iPads with their A-series chips. The M2 also makes the Air an appealing alternative to the more expensive Pro models, with their faster M4 processors. Like all recent iPads, the Air features an all-screen design with no Home button. As with the 10th-gen iPad and the iPad mini, biometric security is handled by a fingerprint sensor in the power button rather than Face ID, which is reserved for the Pros. It has superb cameras (the front-facing 12MP camera and Center Stage), supports a wide range of Pro accessories, and now features 5G. Pros: Beautiful design. Superb processing and graphics power. Cheaper than the iPad Pro. Cons: Screen doesn’t feature ProMotion. Ideal for: Tablet gamers and anyone who wants to be able to run the most demanding apps now and in the future. Pro users (business, creative, design) who can’t afford an iPad Pro. Is now a good time to buy? Absolutely. It was updated in May of 2024 and will be around for a while. But would the iPad Pro be better? Read: iPad Air (M2) vs iPad Pro (M4), or look below. See: Best iPad Air deals Read our full Apple iPad Air 11-inch (M2, 2024) review 11-inch iPad Pro (5th gen, 2024): Best for power in a small package Price When Reviewed: $999 (Wi-Fi only) Best Prices Today: $969.52 at Amazon$999 at Apple$1099 at Best Buy 256GB: $999 / £999 / 128GB (cellular): $1,199 / £1,199 512GB: $1,199 / £1,199 / 256GB (cellular): $1,399 / £1,399 1TB: $1,599 / £1,599 / 1TB (cellular): $1,799 / £1,799 2TB: $1,999 / £1,999 / 2TB (cellular): $2,199 / £2,199 The current generation of iPad Pro models went on sale in May 2024. The iPad Pro comes in two sizes and a variety of capacities all the way up to a massive 2TB. The 2024 Pros feature M4 chips and are incredibly powerful–some might say more powerful than it has any right to be. The 11-inch iPad Pro features a display it calls Ultra Retina XDR, which is an implementation of OLED technology that offers deeper blacks, better details in shadows and low light, and better response to motion. Apple uses two OLED panels in an implementation it calls Tandem OLED to address the brightness concerns of a single OLED panel. The Tandem OLED generates 1000 nits of SDR/HDR brightness and 1600 nits of peak HDR brightness. The front-facing camera is now on the longer side of the iPad Pro for use in landscape mode and the rear 10MP ultra-wide camera is gone. The 12MP main camera now has an adaptive True Tone flash that works while scanning documents, which uses AI to sense shadows when scanning and uses the flash to fill in the spot, and multiple photos are taken and stitched together to create the best scan. Pros: Slim and light; dual cameras; Face ID; devastatingly quick and power-efficient processor. Cons: Very expensive. Its power could be overkill for many. Ideal for: Creative types who don’t need the absolutely largest screen. It’s great for watching films and TV shows (and offers quad-speaker audio to match), but there are other screens in the range that are a similar size and a lot more affordable. Is now a good time to buy? The 11-inch M4 iPad Pro was released in May 2024, so it’s a good time to buy. Apple likely won’t update it for a good amount of time. See: Best iPad Pro deals Read our full Apple iPad Pro 11-inch (M4, 2024) review 13-inch iPad Pro (7th gen, 2024): The ultimate iPad power package for creative pros Price When Reviewed: $1,299 (Wi-Fi only) Best Prices Today: $1099 at Best Buy$1,154.49 at Amazon$1199 at Apple United States 256GB: $1,299/£1,299 / 256GB (cellular): $1,499/£1,499 512GB: $1,499/£1,499 / 512GB (cellular): $1,499/£1,699 1TB: $1,899/£1,899 / 1TB (cellular): $2,099/£2,099 2TB: $2,299/£2,299 / 2TB (cellular): $2,499/£2,499 The iPad Pro 12.9-inch, updated in May 2024, offers the biggest screen ever on an Apple tablet, squeezed into a relatively small and very thin chassis. In other respects it’s largely the same as the 11-inch Pro (above): super-fast processor (the M4) with lots of RAM, excellent cameras, and a user experience that looks more than capable of replacing a laptop. The 13-inch iPad Pro, like the 11-inch version, has an Ultra Retina XDR. This is based on OLED technology, but Apple uses two OLED panels–it calls Tandem OLED and it generates 1000 nits of SDR/HDR brightness and 1600 nits of peak HDR brightness. This is all thoroughly impressive. But on the downside, the 12.9-inch Pro is far less portable than the mid-size iPads (it remains admirably slim, but the sheer screen area makes it a handful) and ruinously expensive, particularly at those upper storage tiers. Pros: Largest screen (13-inch); extremely fast processor with lots of RAM; landscape camera with Face ID; four speakers; Ultra Retina display. Cons: Least portable iPad currently available (although it is very slim); very expensive; processor speed will be overkill for many prospective buyers. Ideal for: Creative types most of all, but anyone who needs a big screen will be interested. Gamers and those who enjoy consuming media on the go will like the combination of a sumptuous screen and a quad-speaker audio system. Is now a good time to buy? The current Pros came out in May 2024. Apple probably won’t update it again for at least a year, maybe longer. See: Best iPad Pro deals iPad Buying Guide: What to look for when buying an iPad As you can see from the above there are a lot of iPads sold by Apple–that doesn’t even include the many previous-generation iPads that are still on sale at various resellers and at Apple’s Refurbished Store. When confronted by so much choice what should you consider when deciding which iPad to buy? For many the choice will be based on price and value for money. Some may be influenced by the screen size, others by the weight. The ability to get more than 256GB storage may be important, as may the inclusion of Face ID or Touch ID. Finally, the decision of whether to get a cellular version, which invites the assessment of the minefield of network contracts, will no doubt be a factor for some. We will look at each of those factors below. Which iPad is the best value for money? One person’s value for money is another person’s extravagance. You might be looking for the cheapest iPad. That would be the 10th generation iPad, launched in 2022. In May 2024, Apple reduced the price from its original $449 price to $349 (price drops were matched around the world). It has a 10.9-inch screen, a 12MP rear-facing camera, an A14 Bionic processor, and 5G as an option. If you are happy to buy an older iPad model then there are plenty of discounts available while they are still in stock. There are also some great savings to be had on refurbished models. We recommend you check the following deals roundups, where you can see the best prices right now on various iPads:  Best iPad Pro deals Best iPad (10th gen) deals Best iPad Air deals Best iPad mini deals If you have more to spend, what can you get for your money? The iPad mini more than justifies its slightly higher price tag of $499/£499 with its faster A17 Pro processor, True Tone flash, and a fully laminated, better quality, display, among other things. But its biggest draw will probably be its size for those who want a small iPad. The iPad mini is not much bigger than a hard-backed book making it the perfect size to carry around in a bag and a great size for kids. The 2022 iPadApple Next up is the iPad Air, which starts at $599/£599 for the 11-inch model. It might be worth every extra penny if you want a faster M2 processor. The iPad Air display is still superior to that of the iPad, fully laminated and with an antireflective coating (like the iPad mini). The iPad Pro, updated in May 2024 is the ultimate in this category. Starting at $999/£999, the Pro has a lot to offer, with an incredible display and an M4 chip for starters. But we think these features are probably more than the average person needs. Those are the prices that Apple sells its iPads for, but you don’t have to pay that much. Take a look at our regularly updated iPad deals page for the lowest prices and best discounts on iPads new and old. iPad screen size: Which size iPad to choose Size is a question of taste rather than simply going for the biggest iPad you can get your hands on. Bigger isn’t necessarily better if what you need is small and light. The most obvious aspect of this decision comes down to screen size. All screens are measured diagonally from corner to corner, or from the place where the corners would be. You’ve got four options: 8.3-inch iPad mini 10.9-inch iPad (10th gen) 11-inch iPad Air and iPad Pro 13-inch iPad Air and iPad Pro But how big a screen do you really need? You can think of the tablets in terms of print publications: the mini is roughly the height and width of a paperback book; the mid-size iPads are closer to a hardback (albeit much slimmer); and the 13-inch iPad Pro is like a magazine. The larger screen is obviously better for immersive entertainment. Whether watching films or playing games, it’s a more enjoyable, richer experience. But really this is a question of priorities. Are you more set on getting maximum screen space, or are you willing to compromise on that front in order to get a lower price tag and improved portability? iPad Pro 13-inch (2024): 281.6mm x 215.5mm x 65.1mm; 579g/582g (Wi-Fi/cellular) iPad Pro 11-inch (2024): 249.7mm x 177.5mm x 5.3mm; 444g/446g iPad Air 13-inch (2024): 280.6mm x 214.9mm x 6.1mm 617g/618g iPad Air 11-inch (2024): 247.6mm x 178.5mm x 6.1mm; 462g/462g iPad 10.9-inch (2022): 248.6mm x 179.5mm x 7mm; 477g/481g iPad mini 8.3-inch (2024): 195.4mm x 134.8mm x 6.3mm; 300.5g/308.2g Also read: Every iPad display compared. Want the lightest iPad? As you’d expect, the iPad mini is a lot lighter than the other iPads. There’s a big gap between that device and even the mid-size iPads. As well as its markedly lower weight the mini also has a smaller body, which slips easily into a rucksack or jacket pocket. If you plan to mainly use your iPad out and about, on vacation, or commuting, or perhaps you’re buying an iPad for a child, the mini is your best bet. The iPad, 11-inch iPad Air, and 11-inch Pro are pleasingly portable, but they still can’t match the mini for portability. The iPad has a similar length and width to the Air, but is thicker and heavier; the Pros are slimmer still. The 13-inch Pro and Air are considerably less portable than their smaller cousins, but we think Apple has done well to keep the weight down, especially with the Pro: it remains a slender, relatively lightweight, and portable alternative to a laptop. How much storage do you need? The five iPads offer anywhere from 64GB to 2TB of storage, but if you are looking at an old, refurbished, or preowned iPad you could be confronted with as little as 32GB storage, which isn’t enough. But what storage capacity do you really need for an iPad? Well, first of all, remember that you can’t upgrade the storage of an iPad at a later date: this is your limit from now until you buy another iPad, so aim high and buy as much storage as you can afford. It’s better to spend an extra few pounds now than to buy an entire new iPad in six months. Storage capacity is mainly used up by three things: music, photos, and videos, in increasing order of storage drain. If you want to keep lots of films or TV shows–or even a few, to be honest–then you need high storage: probably 128GB or higher for video fans. (If you’re buying an iPad with the kids in mind, remember that you’ll want storage space for multiple episodes of their favorite show on a long car journey.) The same applies to large photo or music libraries, to a lesser extent, although iCloud Photos and iTunes Match make it possible to keep your stuff in the cloud and access it remotely (if you pay the fees for iCloud storage). The other thing that will fill up your storage is apps, especially games which will use up a lot of space. For that reason gamers should aim high on storage: The iPad Ait starts with 128GB and the Pro has 256GB, while the mini and 10th-gen iPad both start at 64GB. We recommend getting what you can afford. See: How much storage do you need on an iPhone or iPad? for more advice. Should you get the most powerful iPad? The iPad Pro models are, as you would expect, faster than their smaller and cheaper equivalents, next up is the Air, then the iPad mini and finally the iPad. You can get an idea of relative speed by looking at a few relevant specs: iPad Pro 13-inch (2024): M4; 8GB/16GB RAM iPad Pro 11-inch (2024): M4; 8GB/16GB RAM 13-inch iPad Air (2024): M2; 8GB RAM 11-inch iPad Air (2024): M2; 8GB RAM iPad mini (2024): A17 Pro; 8GB RAM iPad 10.9-inch (2022): A14 Bionic; 4GB RAM The M-series chips have won widespread acclaim in the Mac range and produce outstanding performance in the iPads. But that doesn’t mean the A chips are sub-standard or incapable of running modern apps; keep in mind that much of the software on the App Store was designed with A chips in mind, and even now most developers will want to make their software accessible for as many iPad owners as possible. There is a good reason to choose the M-series chips over the A-series though. Some of the best iPadOS 16 features will only work with the M-series iPads. These include features like Stage Manager, which is a new feature for organizing your windows. There are also rumors that one day Apple may make a cutback version of macOS available on the iPad but this will be probably be restricted to the M-series chip, if indeed it ever happens.. But speculation aside, how powerful you need your iPad to be will be based on your requirements (and how long you intend to use your iPad for). The most demanding graphic-design, video-editing, and audio apps will see better performance on the M4 and even M2 processor, so if you’re looking at high-level workloads multiple years down the line the M4 and M2 would be a better option. But for most users, the A17 Pro will be comfortably fast enough for the mid- and long-term. Another important factor to consider is memory. The iPad 10.9-inch has 4GB. The mini and Air gets a jump up to 8GB, while the Pros have either 8GB or a whopping 16GB of RAM, depending on your storage tier: the 1TB and 2TB versions get the higher RAM allocation. If you want to run Apple Intelligence, you must have an iPad with at least 8GB of RAM. With the current iPad lineup, Apple Intelligence can run on all iPads expect the 10th gen iPad. Learn more about Apple Intelligence. Overall, we would advise those who want to use highly demanding apps, such as video and image editors and graphically advanced games, to choose an iPad Pro or Air. If you’re going to be using your tablet for the odd bit of email and web surfing, you’ll find an iPad or iPad mini perfectly decent. With these general observations out of the way, it’s time to look at each device in more depth. For each iPad we record the essential information, its pros and cons, which buyer should pick it, and whether now is a good time to buy. Should you get a Cellular iPad? For most people cellular connectivity is a luxury, even if it’s a nice one to have. For an extra $100 or $150, you’ll be able to access the web and email, and use connected apps, away from a Wi-Fi network. You need to factor in the cost of a data plan and find a network provider. Consider carefully how often you’re going to do that: with an iPad mini there’s likely to be more on-the-go use than with a full-size iPad, but it’s still a lot to pay for something you may only use from time to time. Have you got a regular (overground) commute where you’d enjoy catching up on news headlines or e-mail? Then it could be worth the extra. We think the best option, if you want to be able to get data on your iPad when you are out and about, is to create a hotspot and share it from your iPhone. Then you can use your iPad as if it is on the cellular network. Read about how to create an iPhone hotspot to share your mobile web connection to your iPad. Just bear in mind that the cellular option also brings with it a GPS radio, meaning you’ll be able to input accurate location data when using your device on the go. The other concern when buying a cellular iPad is whether to buy your iPad on a contract. Network providers will allow you to pay for your iPad and the data contract over a number of months – but after that term is up, and certainly not before, you may not be able to switch to a different data provider. Buying on contract may also mean that the iPad is locked to the original contract provider – which can also be a problem if you want to sell it in the future. Here’s how to unlock an iPad from its network, once you’ve fulfilled your contractual obligations. Should you buy a refurbished iPad? You can buy a refurbished iPad from AppleApple We’ll mention this only briefly because it’s covered in detail here: Why a refurbished iPad could be the best tablet for you, but one option you should absolutely consider is Apple’s Refurbished Store. It’s a sort of halfway house between new and second-hand: the devices are generally ones that have been returned within the 28-day period in which you are legally allowed to change your mind about a purchase, or they have been returned due to a fault that has been rectified, or they were ex-display or ex-demo units from Apple’s stores or marketing. You can rest assured that Apple has checked all the refurbished iPads that it sells thoroughly, replaced any problematic components, and rated them as good as new (and you get a full one-year warranty to prove it). Apple’s not the only place to buy a refurbished iPad, so beware that all refurbished iPads are not the same, so do check the small print before you buy. Look for refurbished models that have been fully checked out by Apple-certified engineers, especially those that come with a guarantee. Our best advice is to only consider the current or previous generation iPads when looking at refurbished models, then you are less likely to be caught out by a sub-par tablet. Buying a refurbished iPad from a reputable company is definitely preferable to buying a used iPad from someone on eBay. It’s too often the case that secondhand iPads sold that way end up as useless bricks because the person selling it didn’t properly log out of their account. Another way to save money is to buy from a reseller who is selling discontinued stock at a discount. We often see resellers significantly dropping the price on older iPad models that are usually just one generation out of date—just beware, they sell out quick! Should you buy the newest iPad generation? Speaking of older iPads, even if functioning perfectly right now, older models will reach the end of their useful life sooner than the newest models and that is a good reason to avoid buying an iPad that is more than one or two generations old. But keep in mind that iPads tend to start slowing down at around two to three years of age; at the four- or five-year mark you should expect noticable loss of performance and you won’t be able to get all the latest software updates. The current iPad range was mostly updated in 2024 and included the iPad mini, iPad Pro and the iPad Air. The 10th-gen iPad was released in October 2022 but had its price reduced in May 2024. Another reason to buy a recent iPad is the operating system it runs. Apple only supports the most recent three versions of iPadOS with security updates, so that means that only iPadOS 16, 17, and 18 are currently supported. See How long does Apple support iPads? for more information. So, while you don’t have to buy the newest generation, we would recommend that you buy one that was launched relatively recently to be sure that Apple will support it for as long as you intend to own it. On that basis, any of the iPads listed above should be a safe bet because they support the iPadOS that Apple will support for the next three years, and for many the support will stretch on for more years. Buying advice: Which iPad should you buy? The iPad 10.9-inch is a good option for newcomers and those who will mostly use their iPad as a media consumption device with some light work. For most people, however, our recommendation is the iPad Air (2024). The update in May 2024 brought it an M2 processor, which is more than enough for an iPad right now. Mind you, it’s still expensive compared to the standard iPad and the iPad mini, and to most rival tablets out there. The iPad mini is mainly recommended for those who see portability as their main priority. It’s an excellent little device, although the smaller screen makes it less immersive for games and entertainment options. The remaining iPads will be too expensive for the average buyer. The 11-inch and 13-inch Pro models are amazingly powerful and well-made, and the arrival of the M4 is excellent news but probably more power than anyone really needs right now. But if you’re a creative professional, the Pro is the iPad to get. Finally, before taking the plunge, have you considered if a laptop might suit your needs better? See iPad vs MacBook for more advice on that front.",
+    "author": "",
+    "published": "Thu, 07 Nov 2024 20:02:21 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2024/11/2024-ipad-family-1.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "iPad"
+    ]
+  },
+  {
+    "id": "ffa998a5-bc3d-4c78-a24e-9efdbd3a101c",
+    "title": "iPad mini (A17 Pro) vs iPad (10th gen)",
+    "link": "https://www.macworld.com/article/668134/ipad-mini-2021-vs-ipad-2021.html",
+    "description": "Macworld Apple’s 10th-generation iPad was introduced in October 2022. It gained a new colorful design with no Home button, USB-C instead of Lightning, a better camera, and a larger screen (10.9 inches up from 10.2 inches). The iPad mini was updated in October 2024. It costs $150/£150 more and offers a better processor and a slightly better display, and comes in a smaller package (which will either be an advantage or a disadvantage, depending on your preference). In this guide, we will assess whether you should spend extra to get the iPad mini or spend less to buy the 10th gen iPad. If you are on the market for a new iPad and are wondering which one will be best for you read on to find out how the cheapest iPad options compare. There are various factors likely to impact your decision, including value for money, cameras, and how well the iPad in question will do the tasks you need it to do. There are also some pretty obvious differences: size, weight, and design–specifically the lack of a Home button on two of the three models we are considering here. We’ll start by examining what you get for your money. We also compare the 10th gen iPad and iPad Air and for even more help read our iPad Buying guide. iPad mini vs iPad: Which is the best value for money? When Apple introduced the 10th gen iPad in October 2022 it kept the 9th gen iPad (introduced in September 2021) on sale. But in May 2024, Apple discontinued the 9th gen iPad and lowered the price of the 10th gen iPad to $349/£349, making it the cheapest option. Apple iPad (10th gen, A14, 2022) Read our review Price When Reviewed: From $349 (64GB) | $499 (256GB) (was $449 and $599) Best Prices Today: $299 at Amazon | $299 at Best Buy | $299.99 at Target Here are the iPad prices: (You can buy from Apple here.) iPadWi-FiCellulariPad (10th gen, 2022, 64GB)$349/£349$499/£499iPad (10th gen, 2022, 256GB)$499/£499$649/£649iPad mini (A17 Pro, 2024, 128GB)$499/£499$649/£649iPad mini (A17 Pro, 2024, 256GB)$599/£599$749/£749iPad mini (A17 Pro, 2024, 512GB)$799/£799$849/£849 There are a few things worth keeping in mind when it comes to price. The price Apple quotes may not be the price you need to pay: resellers frequently discount all iPads, so be sure to look through our deals round-ups so you don’t miss out on the best prices. See: Best iPad deals (10th gen) and Best iPad mini deals. You should also consider whether you want to pay for more storage. For example, Apple offers only two options for the 10th gen iPad, and it’s a considerable $150/£150 to upgrade to 256GB. For the iPad mini, the jump from 128GB to 256GB is $100/£100. Not a trivial increase. Apple iPad mini (A17 Pro) Read our review Price When Reviewed: $499 (128GB; Wi-Fi only) | $599 (256GB; Wi-Fi only) | $799 (512GB; Wi-Fi only) Best Prices Today: $478 at Amazon | $499 at Apple | $499 at Apple United States iPad mini vs iPad: How the specs compare From the chart below you can see there are a number of features that the iPad mini has that the iPad lacks. iPad mini (A17 Pro, 2024)iPad (10th gen, 2022)ColorsBlue, Purple, Space Gray, StarlightBlue, Pink, Silver, YellowScreen size8.3 inches10.9 inchesDisplayLiquid Retina display (2266‑by‑1488 resolution, at 326 ppi), 500 nits max, fully laminated display, antireflective coating, wide color (P3)Liquid Retina display (2360‑by‑1640 resolution, at 264 ppi), 500 nits max, fingerprint-resistant oleophobic coating, sRGBSecurityTouch ID on top button (no Home button)Touch ID on top button (no Home button)Dimensions \u0026 weight7.69 x 5.3 x .25 inches, .65 pounds195.4 x 134.8 x 6.2mm, 293g9.79 x 7.07 x .28 inches, 1.05 pounds248.6 x 179.5 x 7mm, 477gProcessorA17 ProA14Storage options128GB, 256GB, 512GB64GB, 256GBRear camera12MP wide, ƒ/1.8 aperture, five-element lens, True Tone flash, Smart HDR 412MP wide, ƒ/1.8 aperture, five-element lens, True Tone flash, Smart HDR 3Front camera12MP Ultra Wide, ƒ/2.4 aperture, Center Stage, Smart HDR 412MP Landscape Ultra Wide, ƒ/2.4 aperture, Center Stage, landscape orientation, Smart HDR 3Video 4K video recording at 24 fps, 25 fps, 30 fps, or 60 fps; 1080p HD video recording at 25 fps, 30 fps, or 60 fps; extended dynamic range for video up to 30 fps; slo-mo video support for 1080p at 120 fps or 240 fps4K video recording at 24 fps, 25 fps, 30 fps, or 60 fps; 1080p HD video recording at 25 fps, 30 fps, or 60 fps; extended dynamic range for video up to 30 fps; slo-mo video support for 1080p at 120 fps or 240 fpsChargingUSB-CUSB-CApple accessory supportApple Pencil (USB-C); Apple Pencil ProMagic Keyboard Folio, Apple Pencil 1Battery lifeUp to 10 hoursUp to 10 hoursBluetooth/Wi-FiBluetooth 5.3, Wi‑Fi 6E (802.11ax) with 2×2 MIMOBluetooth 5.2, WiFi 6Cellular support5G5G Color choices The iPad and iPad mini are both available in “fun” colors–if that’s not your style, the iPad is available in Silver and the iPad mini is available in Space Gray. The iPad and iPad mini are considered consumer-level products and Apple offers those products with colorful choices. Home button There is no Home button on the iPad mini or the 10th-gen iPad. They still use Touch ID (not Face ID) and it is still the simplest way to unlock the device, but now you tap your finger on the on/off switch at the top of the device. We think this is a superb solution, allowing Apple to give the iPad a larger display without increasing the size of the iPad. Relocating Touch ID from the Home button to the Power button will also be considered a bonus by those who prefer Touch ID over Face ID because of the simplicity and speed of using it. However, for some people the Home button is a familiar and simple way to navigate the iPad, and while it is possible to create a software version of the Home button in accessibility settings, some people won’t be prepared to wave goodbye to the Home button yet. If you aren’t ready to give it up then the 9th gen iPad is the only iPad with a Home button now. It’s discontinued, but you might be able to find it at third-party retailers or on Apple’s Certified Refurbished Store. Display The removal of the Home button does mean that both the iPad mini and the 10th gen iPad now have bigger displays than they did before. The iPad mini increased from 7.9 inches to 8.3 inches, while in 2022 the iPad screen grew from 10.2 inches to 10.9 inches. Despite the screen size increase, Apple has managed to keep the dimensions of the devices pretty much the same as the older models, so there is no real trade-off. You get a larger screen, but the device itself is practically the same size and weight. We’ll discuss the dimensions in more detail below. Obviously, the screen of the iPad mini is still smaller than that of the 10.9-inch iPad, but as we said above, some people will be looking for a smaller screen on a lighter device for a variety of reasons. If the thing that matters to you is screen size then the choice will be relatively simple, but if you are concerned about screen quality then there are differences to be considered. The iPad mini screen is superior to the 10th generation iPad. For one thing, the iPad mini benefits from a fully laminated display and anti-reflective coating, something shared with the iPad Air and iPad Pro. The standard iPad is the only iPad that lacks these features and it is at a disadvantage because of it. The non-laminated display just doesn’t give the same impression of quality. The iPad mini screen also trumps both iPads with denser pixels (326 ppi compared to 264 ppi) and it also boasts wide-color P3 gamut support while both iPads are just sRGB. But both iPads are limited to 500 nits max. Only the iPad Pro manages more than that. Cameras Both the iPad and iPad mini have a 12MP camera with ƒ/1.8 aperture. However, the iPad mini supports Smart HDR 4, which is Apple technology that combines multiple shots at different exposures to create an ideal image. The iPad uses Smart HDR 3, which is an older version of the technology. Both the iPad and iPad mini have a front camera for FaceTime calls or selfies. Both offer an Ultra Wide 12MP front camera with ƒ/2.4 aperture, 2x zoom, and support for Center Stage (a feature that keeps you in the frame even if you move around.). The iPad has relocated the front camera on the landscape side–much better suited to how people use their iPads during FaceTime calls. The iPad mini still has the camera on the portrait side. Apple Dimensions Despite every bit of technology in the iPad mini, if the screen is too small for you then you may prefer the iPad. However, for some the compact dimensions of the iPad mini are the main benefit. Recapping on those dimensions: iPad mini7.69 x 5.3 x .25 inches, .65 pounds195.4 x 134.8 x 6.2mm, 293g 10th gen iPad9.79 x 7.07 x .28 inches, 1.05 pounds248.6 x 179.5 x 7mm, 477g Ports and connectivity One final difference to mention: the iPad mini and the 10th gen iPad have a USB-C port, like the iPad Pro and Air models. The Lightning port is gone. If you are anything like us you probably have a house full of Lightning connectors and very few USB-C plugs, but there are benefits to USB-C, such as being able to attach an external display. The iPad mini and iPad also offers better connectivity options including Bluetooth, WiFi, and an option for 5G cellular. The last thing to mention is that the iPad mini works with the Apple Pencil (USB-C) and the Apple Pencil Pro. The iPad is only compatible with the Apple Pencil 1. Verdict Our advice is that, if you have the money, buy the iPad mini, but if you don’t need the additional features that model brings, and you want to save money, the 10th gen iPad is still a great option (and if there are any deals on that model you’ll see them below). iPad mini (A17 Pro) prices Retailer Price $478 View Deal $499 View Deal $499 View Deal $499 View Deal $499 View Deal $499.99 View Deal Price comparison from over 24,000 stores worldwide View more prices Product Price Price comparison from Backmarket iPad (10th generation) prices New Refurbished Retailer Price $299 View Deal $299 View Deal $299.99 View Deal $339 View Deal $339 View Deal $449 View Deal Price comparison from over 24,000 stores worldwide View more prices Product Price iPad 10.9 (2022) 64GB – Yellow – (WiFi) $288.09 View Deal iPad 10.9 (2022) 64GB – Blue – (WiFi) $304.44 View Deal iPad 10.9 (2022) 64GB – Silver – (WiFi) $305 View Deal $409.99 View Deal Price comparison from Backmarket",
+    "author": "",
+    "published": "Thu, 07 Nov 2024 18:30:38 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2024/11/ipad-ipad-mini.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "iPad"
+    ]
+  },
+  {
+    "id": "15e7f501-c2ff-4536-bea9-9713a35bcfae",
+    "title": "How to Install Windows 11 on Mac with UTM",
+    "link": "https://osxdaily.com/2024/11/07/how-to-install-windows-11-on-mac-with-utm/",
+    "description": "You can install and run Windows 11 on a Mac, without having to overwrite the MacOS operating system, by installing Windows 11 into a virtual machine. Virtual machines are self-contained installations of operating systems that can be used for a variety of purposes, from testing to demonstrations, to running software that runs on Windows but ... Read More",
+    "author": "Ali Khan",
+    "published": "Thu, 07 Nov 2024 16:47:25 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Mac OS",
+      "Tips \u0026 Tricks",
+      "Mac",
+      "macOS",
+      "run Windows on Mac",
+      "tips",
+      "tricks",
+      "UTM",
+      "virtual machine",
+      "virtualization",
+      "windows",
+      "Windows 11",
+      "Windows on Mac"
+    ]
+  },
+  {
+    "id": "42ba02ec-5825-474b-afd8-c393eadd4d1c",
+    "title": "Beta 2 of iOS 18.2, MacOS Sequoia 15.2, \u0026 iPadOS 18.2 Available for Testing",
+    "link": "https://osxdaily.com/2024/11/05/beta-2-of-ios-18-2-macos-sequoia-15-2-ipados-18-2-available-for-testing/",
+    "description": "The second beta versions of iOS 18.2, MacOS Sequoia 15.2, and iPadOS 18.2 are now available for users participating in the beta testing programs for Apple system software. The new betas continue to focus on additional Apple Intelligence features, expanding beyond the writing tools, smart replies, and summary features what was initially introduced in iOS ... Read More",
+    "author": "Paul Horowitz",
+    "published": "Tue, 05 Nov 2024 22:51:50 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "News",
+      "beta",
+      "iOS 18 beta",
+      "iOS 18.2",
+      "iPadOS 18 beta",
+      "MacOS Sequoia beta"
+    ]
+  },
+  {
+    "id": "c8bfacc7-6c27-44b4-a631-6dc870c677d8",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "d3dd376f-32bd-4506-a6ad-22bdd1b31a65",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  },
+  {
+    "id": "285390db-257d-45e2-b00e-ffdf75fc5c94",
+    "title": "∞ The Dalrymple Report: New Macs, and On the Road Again",
+    "link": "https://www.loopinsight.com/2024/11/01/the-dalrymple-report-new-macs-and-on-the-road-again/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-new-macs-and-on-the-road-again",
+    "description": "As expected, Apple released a lot of new Mac models this week. iMacs, Mac minis and MacBook Pros were all refreshed with the M4 chips in additional to other changes. Just when you think I’m home, I show up in an expected location to record this week’s podcast. Follow this podcast Brought to you by: Incogni: Take your personal data back with Incogni! Use code DALRYMPLE and get 60% off an annual plan. Show Notes: Apple introduces new iMac supercharged by M4 and Apple Intelligence Apple’s new Mac mini is more mighty, more mini, and built for Apple Intelligence M4 Mac Mini's Power Button Has New Bottom Location Apple’s new MacBook Pro features the incredibly powerful M4 family of chips and ushers in a new era with Apple Intelligence Shows and movies we're watching Angel of Death, Max Bruce Springsteen, Road Diary, Disney+",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 01 Nov 2024 14:43:14 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "20ae499d-56c9-433a-9f73-020a8af8dfd3",
+    "title": "∞ The Dalrymple Report: M4 Macs, Apple Behind on AI, and Genmoji",
+    "link": "https://www.loopinsight.com/2024/10/25/the-dalrymple-report-m4-macs-apple-behind-on-ai-and-genmoji/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-m4-macs-apple-behind-on-ai-and-genmoji",
+    "description": "Apple said on Thursday that next week will be big for the Mac. We expect new M4 Macs ro be released, but we're not quite sure which models will be upgraded. A number of people were invited to LA for a handson experience, but we'll have to wait for more details. Apple executives are disputing the fact they are behind in AI, which seems silly considering how far they are behind in AI. Apple released the next beta of iOS which includes Genmoji and ChatGPT integration. Follow this podcast Show Notes: Inside Apple's Audio Labs Apple and being behind on AI Tim Cook defends Apple coming late to AI with four words Joanna Stern interviews Craig Federighi You Can Now Try AT\u0026T's Network for Free Shows and movies we're watching Severance from Apple TV+ Green Wing, Amazon/FreeVee For All Mankind, Apple TV+",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 25 Oct 2024 14:38:44 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "22f70546-572c-4c77-848b-a9fd93dfffc3",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "bf90d099-c3c1-430b-bced-75817f38b55f",
+    "title": "The Overcast Redesign: Part One",
+    "link": "https://marco.org/2022/03/25/overcast-redesign-2022",
+    "description": "Overcast’s latest update (2022.2) brings the largest redesign in its nearly-eight-year history, plus many of the most frequently requested features and lots of under-the-hood improvements. I’m pretty proud of this one. For this first and largest phase of the redesign, I focused on the home screen, playlist screen, typography, and spacing. (I plan to revamp the now-playing and individual-podcast screens in a later update.) The home screen is radically different: Home screen, before (left) and after (right). Playlists now have strong visual identities for nicer and easier navigation. Each playlist has a customizable color, and a custom icon can be selected from over 3,000 SF Symbols to match modern iOS design and the other icons within Overcast. And playlists can be manually reordered with drag-and-drop. Recently played and newly published episodes can now be displayed on the home screen for quick access, much like the widget and CarPlay experience. Podcasts can now be pinned to the top of the home-screen list. Pinned podcasts can also be manually reordered with drag-and-drop. I’ve also rethought the old stacked “Podcasts” and “Played Podcasts” sections to better match people’s needs and expectations. Now, the toggle atop the podcast list switches between three modes: podcasts with current episodes, all followed podcasts, and inactive podcasts (those that you don’t follow and therefore won’t get any more episodes from, or haven’t posted a new episode in a long time). The playlist screen’s structure remains mostly the same, while refining the design for the modern era: Playlist screen, before (left) and after (right). Here, it’s more apparent that I’ve replaced the system San Francisco font with an alternate variant, San Francisco Rounded, to increase legibility and better match the personality of the app. I’ve also added highly demanded features: By far, Overcast’s most-requested feature is a Mark as Played feature. That’s now available as a checkmark button on episode rows, as well as a left-side swipe action. The second-most-requested feature is a way to view all starred episodes. Special playlists for Starred, Downloaded, and In Progress can now be created. The light and dark themes now each have a customizable tint color from the modern iOS UI-color palette, including these favorites from beta testers: And throughout the app, I’ve made tons of tweaks and bug fixes, including: Notifications and background downloads are now much more reliable. Episode downloads can now be individually deleted or re-downloaded. Links can now be opened in Safari. (under Nitpicky Details) Performance is now significantly better with very large playlists and collections. Fixed bugs with episode-duration detection, CarPlay lists, Mac-app sharing, and much more. So much is better in this update that I can’t even remember it all. Thank you so much to everyone who helped me beta-test this massive update. As always, Overcast is free in the App Store. Go get it!",
+    "author": "",
+    "published": "Fri, 25 Mar 2022 10:57:51 EDT",
+    "image": "https://marco.org/media/2022/03/ocredesign2022-1-after.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "dd11b484-f7d2-410b-b9f7-6f6f07119a08",
+    "title": "Building a Downtime Home Screen Featuring Louie Mantia’s Retro Gaming Icons",
+    "link": "https://www.macstories.net/news/building-a-downtime-home-screen-featuring-louie-mantias-retro-gaming-icons/",
+    "description": "Louie Mantia has been making beautiful icons for many years, both as one of the owners of icon design studio Parakeet and as personal side projects. Recently, two of Mantia’s personal projects caught my eye because they combine my love of classic games with the technology I use every day. The first set of icons […]",
+    "author": "John Voorhees",
+    "published": "Thu, 07 Nov 2024 14:04:45 +0000",
+    "image": "https://cdn.macstories.net/img_0583-1730929754966.PNG",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "news",
+      "design",
+      "iPhone",
+      "shortcuts"
+    ]
+  },
+  {
+    "id": "27bc6732-9d46-4218-ab3f-530128caa23d",
+    "title": "Raycast Overhauls Its Notes Feature",
+    "link": "https://www.macstories.net/reviews/raycast-overhauls-its-notes-feature/",
+    "description": "Raycast has always been more than an app launcher. From the start, it has included a multitude of other handy utilities, including Floating Notes. I’ve used Floating Notes now and then to park a bit of text where I knew I’d be able to find it later. Because the note floated above other windows, it […]",
+    "author": "John Voorhees",
+    "published": "Wed, 06 Nov 2024 14:52:16 +0000",
+    "image": "https://cdn.macstories.net/cleanshot-2024-11-06-at-08-59-02-2x-1730901904653.png",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "reviews",
+      "app",
+      "mac",
+      "Raycast",
+      "utility"
+    ]
+  }
+]
