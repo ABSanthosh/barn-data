@@ -1,0 +1,21 @@
+{
+  "id": "66f81123-29ee-4138-8682-2f72d1bd406e",
+  "title": "OpenCoder: Open Cookbook for Top-Tier Code Large Language Models",
+  "link": "https://opencoder-llm.github.io/",
+  "description": "Comments",
+  "author": "",
+  "published": "Sat, 09 Nov 2024 17:27:30 +0000",
+  "source": "https://news.ycombinator.com/rss",
+  "categories": null,
+  "byline": "and",
+  "length": 1463,
+  "excerpt": "OpenCoder: The Open Cookbook For Top-Tier Code Large Language Models",
+  "siteName": "",
+  "favicon": "",
+  "text": "OpenCoder is an open and reproducible code LLM family which includes 1.5B and 8B base and chat models, supporting both English and Chinese languages. Starting from scratch, OpenCoder is trained on 2.5 trillion tokens composed of 90% raw code and 10% code-related web data, reaching the performance of top-tier code LLMs. We provide not only model weights and inference code, but also the reproducible training data, the complete data processing pipeline, rigorous experimental ablation results, and detailed training protocols. Empowering researchers to build and innovate, OpenCoder is your open foundation for advancing code AI. OpenCoder: A completely open-source Code LLM, built on the transparent data process pipeline and reproducible dataset, which achieves top-tier performance on multiple code LLM evaluation benchmarks. RefineCode: A high-quality, reproducible code pretraining corpus comprising 960 Billion tokens across 607 programming languages. Instructive Ablation Studies: Several meaningful ablation experiments aiming at providing meaningful insight for various design choices and training strategies of code LLMs. Released Resources: Final model weights, complete data processing pipeline, efficient evaluation pipeline, reproducible pretraining dataset, large-scale SFT dataset, and intermediate checkpoints.",
+  "image": "./static/images/banner.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n          \u003cp\u003e\n            \u003cb\u003eOpenCoder\u003c/b\u003e is an open and reproducible code LLM family which includes 1.5B and 8B base and chat models, supporting both English and Chinese languages. Starting from scratch, OpenCoder is trained on 2.5 trillion tokens composed of 90% raw code and 10% code-related web data, reaching the performance of top-tier code LLMs. We provide not only model weights and inference code, but also the reproducible training data, the complete data processing pipeline, rigorous experimental ablation results, and detailed training protocols. Empowering researchers to build and innovate, OpenCoder is your open foundation for advancing code AI. \n            \n          \u003c/p\u003e\n          \u003cul\u003e\n            \u003cli\u003e\u003cstrong\u003eOpenCoder\u003c/strong\u003e: A completely open-source Code LLM, built on the transparent\n            data process pipeline and reproducible dataset, which achieves top-tier performance on multiple code LLM evaluation benchmarks.\u003c/li\u003e\n            \n            \u003cli\u003e\u003cstrong\u003eRefineCode\u003c/strong\u003e: A high-quality, reproducible code pretraining corpus comprising 960 Billion tokens across 607 programming languages.\u003c/li\u003e\n            \n            \u003cli\u003e\u003cstrong\u003eInstructive Ablation Studies\u003c/strong\u003e: Several meaningful ablation experiments aiming at providing meaningful insight for various design choices and training strategies of code LLMs.\u003c/li\u003e\n            \n            \u003cli\u003e\u003cstrong\u003eReleased Resources\u003c/strong\u003e: Final model weights, complete data processing pipeline, efficient evaluation pipeline, reproducible pretraining dataset, large-scale SFT dataset, and intermediate checkpoints.\u003c/li\u003e\n          \u003c/ul\u003e\n        \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": null,
+  "modifiedTime": null
+}

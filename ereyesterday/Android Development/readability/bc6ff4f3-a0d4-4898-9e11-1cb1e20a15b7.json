@@ -1,0 +1,21 @@
+{
+  "id": "bc6ff4f3-a0d4-4898-9e11-1cb1e20a15b7",
+  "title": "‘It Needs Documentation’",
+  "link": "https://publicobject.com/2024/10/25/it-needs-documentation/",
+  "description": "I’ve seen bug reports and Slack conversations that start like this:@blacktshirt1981:‘I tried to use your library to decode the integer 1 to a boolean and it crashed. Please document that your library doesn’t decode integers to booleans.’I probe a bit in my response:@jessewilson:‘Oh",
+  "author": "Jesse Wilson",
+  "published": "Fri, 25 Oct 2024 02:57:55 GMT",
+  "source": "https://publicobject.com/rss/",
+  "categories": null,
+  "byline": "Jesse Wilson",
+  "length": 928,
+  "excerpt": "I’ve seen bug reports and Slack conversations that start like this: \u003e @blacktshirt1981: ‘I tried to use your library to decode the integer 1 to a boolean and it crashed. Please document that your library doesn’t decode integers to booleans.’ I probe a bit in my response: \u003e @jessewilson: ‘Oh darn, lemme fix. Which docs did you read? (I want to update the right ones!) And predictably the documentation-requester might not be a documentation-consumer: \u003e @blacktshirt1981: ‘Nothing specific. I just",
+  "siteName": "Public Object",
+  "favicon": "",
+  "text": "I’ve seen bug reports and Slack conversations that start like this:@blacktshirt1981:‘I tried to use your library to decode the integer 1 to a boolean and it crashed. Please document that your library doesn’t decode integers to booleans.’I probe a bit in my response:@jessewilson:‘Oh darn, lemme fix. Which docs did you read? (I want to update the right ones!)And predictably the documentation-requester might not be a documentation-consumer:@blacktshirt1981:‘Nothing specific. I just think it’s worth documenting.’The root cause of the docs complaint is ‘I don’t understand it’.I can address the request by writing some documentation. But sometimes the best way to make a project easier to understand is to change the project itself:Remove non-essential componentsFind components that do too much, and decompose ’emFind components that do too little, and combine ’emI prefer a simple solution over a well-documented complex one.",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003csection\u003e\n\n\t\t\n\n\n\n\n\n\u003cmain role=\"main\"\u003e\n\t\u003carticle\u003e\n\t\t\u003csection\u003e\n\t\t\t\t\u003cp\u003eI’ve seen bug reports and Slack conversations that start like this:\u003c/p\u003e\u003cblockquote\u003e@blacktshirt1981:\u003cbr/\u003e‘I tried to use your library to decode the integer 1 to a boolean and it crashed. Please document that your library doesn’t decode integers to booleans.’\u003c/blockquote\u003e\u003cp\u003eI probe a bit in my response:\u003c/p\u003e\u003cblockquote\u003e\u003cem\u003e@jessewilson:\u003c/em\u003e\u003cbr/\u003e‘Oh darn, lemme fix. Which docs did you read? (I want to update the right ones!)\u003c/blockquote\u003e\u003cp\u003eAnd predictably the documentation-requester might not be a documentation-consumer:\u003c/p\u003e\u003cblockquote\u003e@blacktshirt1981:\u003cbr/\u003e‘Nothing specific. I just think it’s worth documenting.’\u003c/blockquote\u003e\u003cp\u003eThe root cause of the docs complaint is \u003cem\u003e‘I don’t understand it’\u003c/em\u003e.\u003c/p\u003e\u003cp\u003eI can address the request by writing some documentation. But sometimes the best way to make a project easier to understand is to change the project itself:\u003c/p\u003e\u003cul\u003e\u003cli\u003eRemove non-essential components\u003c/li\u003e\u003cli\u003eFind components that do too much, and decompose ’em\u003c/li\u003e\u003cli\u003eFind components that do too little, and combine ’em\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eI prefer a simple solution over a well-documented complex one.\u003c/p\u003e\n\t\t\t\u003c/section\u003e\n\t\u003c/article\u003e\n\u003c/main\u003e\n\n\n\n\n\t\t\n\n\t\u003c/section\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2024-10-25T02:57:55Z",
+  "modifiedTime": "2024-10-25T02:57:55Z"
+}
