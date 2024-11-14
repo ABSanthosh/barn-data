@@ -1,0 +1,21 @@
+{
+  "id": "d59ce14f-3b4d-4044-99bc-6b7cf8d2b682",
+  "title": "New Broadcast Push Notification Metrics Now Available in the Push Notifications Console",
+  "link": "https://developer.apple.com/news/?id=106dpbzt",
+  "description": "The Push Notifications Console now includes metrics for broadcast push notifications sent in the Apple Push Notification service (APNs) production environment. The console’s interface provides an aggregated view of the broadcast push notifications that are successfully accepted by APNs, the number of devices that receive them, and a snapshot of the maximum number of devices subscribed to your channels.Set up broadcast push notificationsBroadcast updates to your Live Activities",
+  "author": "",
+  "published": "Mon, 11 Nov 2024 07:00:29 PST",
+  "source": "https://developer.apple.com/news/rss/news.rss",
+  "categories": null,
+  "byline": "Apple Inc.",
+  "length": 642,
+  "excerpt": "The Push Notifications Console now includes metrics for broadcast push notifications sent in the Apple Push Notification service (APNs) production environment. The console’s interface provides an aggregated view of the broadcast push notifications that are successfully accepted by APNs, the number of devices that receive them, and a snapshot of the maximum number of devices subscribed to your channels.Set up broadcast push notificationsBroadcast updates to your Live Activities",
+  "siteName": "",
+  "favicon": "",
+  "text": "New Broadcast Push Notification Metrics Now Available in the Push Notifications Console November 11, 2024 The Push Notifications Console now includes metrics for broadcast push notifications sent in the Apple Push Notification service (APNs) production environment. The console’s interface provides an aggregated view of the broadcast push notifications that are successfully accepted by APNs, the number of devices that receive them, and a snapshot of the maximum number of devices subscribed to your channels.Set up broadcast push notificationsBroadcast updates to your Live Activities",
+  "image": "https://developer.apple.com/news/images/og/notifications-og.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003csection id=\"main\" role=\"main\"\u003e\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\u003carticle id=\"article-106dpbzt\"\u003e\n\t\t\t\t\t\t\u003csection\u003e\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003e\u003cimg src=\"https://developer.apple.com/assets/elements/icons/notifications/notifications-128x128_2x.png\" width=\"128\" height=\"128\" alt=\"New Broadcast Push Notification Metrics Now Available in the Push Notifications Console\" data-hires=\"false\"/\u003e\n\t\t\t\t\t\t\t\t\t\u003c/p\u003e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003ch2\u003eNew Broadcast Push Notification Metrics Now Available in the Push Notifications Console\u003c/h2\u003e\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\u003cdiv\u003e\n\t\t\t\t\t\t\t\t\t\u003cp\u003eNovember 11, 2024\u003c/p\u003e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv\u003e\u003cp\u003eThe Push Notifications Console now includes metrics for broadcast push notifications sent in the Apple Push Notification service (APNs) production environment. The console’s interface provides an aggregated view of the broadcast push notifications that are successfully accepted by APNs, the number of devices that receive them, and a snapshot of the maximum number of devices subscribed to your channels.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://developer.apple.com/documentation/usernotifications/setting-up-broadcast-push-notifications\"\u003eSet up broadcast \u003cspan\u003epush notifications\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://developer.apple.com/videos/play/wwdc2024/10069/\"\u003eBroadcast updates to your \u003cspan\u003eLive Activities\u003c/span\u003e\u003c/a\u003e \u003c/p\u003e\u003c/div\u003e\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/section\u003e\n\n\n\t\t\t\t\t\u003c/article\u003e\n\t\t\t\t\t\t\t\t\t\u003c/section\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
