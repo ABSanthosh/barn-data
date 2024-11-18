@@ -1,0 +1,826 @@
+[
+  {
+    "id": "5d29136c-7635-40b7-b183-2748d0f1909b",
+    "title": "How I Finally Memorized Modifier Ordering in Compose",
+    "link": "https://zsmb.co/remembering-modifier-order/",
+    "description": "For the longest time, I proudly had no idea of how Modifier ordering works, and would just guess and then guess again when something didn't look quite right. Here's how I finally ended up remembering how the ordering works.",
+    "author": "Márton Braun",
+    "published": "Tue, 04 Jun 2024 09:00:00 +0000",
+    "image": "",
+    "source": "https://zsmb.co/index.xml",
+    "categories": null
+  },
+  {
+    "id": "c8dad673-d093-4eb2-a3ff-da04d7fb0608",
+    "title": "Building a macOS screen saver in Kotlin",
+    "link": "https://zsmb.co/building-a-macos-screen-saver-in-kotlin/",
+    "description": "This article documents how I created my own custom screen saver for macOS, built almost entirely in Kotlin, using the powers of Kotlin Multiplatform compiled to macOS. Join me for a tale of Kotlin success and macOS failures.",
+    "author": "Márton Braun",
+    "published": "Tue, 05 Mar 2024 12:00:00 +0000",
+    "image": "",
+    "source": "https://zsmb.co/index.xml",
+    "categories": null
+  },
+  {
+    "id": "2f55b9cb-46d9-4577-aed8-a7219493b96f",
+    "title": "Graphics layers | Jetpack Compose Tips",
+    "link": "https://www.youtube.com/watch?v=KawI7srRvOM",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2024-11-15T17:00:02+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
+    "categories": null
+  },
+  {
+    "id": "9f8c2ac6-b790-449a-9fca-05a2115e9362",
+    "title": "Ultra HDR images | Android Build Time",
+    "link": "https://www.youtube.com/watch?v=iKSLwym0Acw",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2024-11-14T19:00:23+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
+    "categories": null
+  },
+  {
+    "id": "babc9e0e-eebc-4e0f-a181-4c9ea3f4abab",
+    "title": "Episode 210: Studio Jewelry",
+    "link": "http://adbackstage.libsyn.com/episode-210-studio-jewelry",
+    "description": "In this episode Chet, Romain and Tor chat with Sebastiano about how the Android Studio team builds UIs. We talk about how Compose for Desktop is used in parts of Android Studio and how the Compose Markdown renderer available in the Jewel library makes Studio Bot tick.   Chapters: Intro (00:00) Android Dev UX team (00:39) What kind of libraries and languages are used to build Android studio? (1:52) Swing (2:53) Reactive and declarative programming models (8:25) SKIA for Kotlin (10:01) Jetpack Compose widgets (11:54) Jewel (13:07) Text rendering across platforms (15:51) Differences in behaviors (17:40) Support for markdown files (20:26) What is markdown? (21:25) Swing and html (25:45) Selection handling in StudioBot (28:46) Boosting productivity with Compose (30:40) Standalone vs plugin artifacts (34:29) The difference between Jewel \u0026 Swing (35:30) HTML vs Markdown (39:31) Markdeep (41:53) Jewel's Markdown API (43:46) Where to find Jewel? (46:54) Sebastiano’s podcast - Code with the Italians (47:34) Final thoughts (49:13)   Links: Jetpack Compose Compose Multiplatform, for Desktop  Jewel Jewel Markdown Renderer   Sebastiano: ​​https://github.com/rock3r, https://codewiththeitalians.it/ Romain: @romainguy, threads.net/@romainguy, romainguy@androiddev.social Tor: threads.net/@tor.norbye and tornorbye@androiddev.social Chet: @chethaase, threads.net/@chet.haase, and chethaase@androiddev.social   Catch videos on YouTube → https://goo.gle/adb-podcast   Subscribe to Android Developers  → https://goo.gle/AndroidDevs",
+    "author": "Android Developers",
+    "published": "Thu, 24 Oct 2024 17:47:54 +0000",
+    "image": "https://traffic.libsyn.com/secure/adbackstage/ADB211_v1.mp3?dest-id=2710847",
+    "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
+    "categories": [
+      "Google",
+      "android",
+      "androiddeveloper",
+      "androidpodcast",
+      "androiddevelopers",
+      "androidstudio",
+      "androiddevelopersbackstage",
+      "googlepodcat"
+    ]
+  },
+  {
+    "id": "d0506369-c249-4a7a-9684-55a6d795bca9",
+    "title": "Episode 209: Compose animations",
+    "link": "http://adbackstage.libsyn.com/episode-209-compose-animations",
+    "description": "In this episode Chet, Romain and Tor chat with Doris Liu from the Compose team about animations in Compose -- covering everything from the basic primitives up to the recently added Shared Element Transitions.   Chapters: Intro (00:00) Animation capabilities of Compose (1:06) Different types of animation specs (3:43) Layers of functionality, transitions (7:49) TargetBasedAnimation (9:48) Vectors \u0026 velocity of color change (12:43) Second layer parallel to animation spec (16:39) Animation interruptions (18:48) Motion layout problem-solving (20:19) Both scale and move in question (25:45) Different mental models for layout animation in Compose vs. View (26:20) Shared element (31:05) Are there things you wish more people were aware of? (34:19) What's the tooling story for this? (41:57) What is Look Ahead? (43:16) All software is regret (48:49) New API: Modifier.animateBounds (51:52) How to reach Doris – leave a comment (55:57) Motion Frame of Reference Placement (57:29) Wrap up (59:10) Links: Shared element tutorial → https://goo.gle/3XrGYp5  Shared element talk → https://goo.gle/47tm3qm  A quick guide to compose animations → https://goo.gle/3Tm853p  The API layers except the highest level APIs we chatted about in the podcast → https://goo.gle/3MGsiNE Doris: @doris4lt Romain: @romainguy, threads.net/@romainguy, romainguy@androiddev.social Tor: threads.net/@tor.norbye and tornorbye@androiddev.social Chet: @chethaase, threads.net/@chet.haase, and chethaase@androiddev.social   Catch more Android Developers Backstage on YouTube → https://goo.gle/adb-podcast    Subscribe to Android Developers YouTube → https://goo.gle/AndroidDevs",
+    "author": "Android Developers",
+    "published": "Thu, 12 Sep 2024 18:23:18 +0000",
+    "image": "https://traffic.libsyn.com/secure/adbackstage/ADB210_v1.mp3?dest-id=2710847",
+    "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
+    "categories": [
+      "Google",
+      "developer",
+      "android",
+      "androiddevelopers",
+      "androiddevelopersbackstage"
+    ]
+  },
+  {
+    "id": "374c0aa5-bd9c-4b37-b7aa-4389348431f3",
+    "title": "Now in Android #111",
+    "link": "https://medium.com/androiddevelopers/now-in-android-111-9c60a12a8473?source=rss----95b274b437c2---4",
+    "description": "",
+    "author": "Daniel Galpin",
+    "published": "Thu, 07 Nov 2024 22:31:11 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*Sy3ea40KCd6LSmU6QFUgDA.png",
+    "source": "https://medium.com/feed/androiddevelopers",
+    "categories": [
+      "google-play",
+      "jetpack-compose",
+      "featured",
+      "now-in-android",
+      "android-studio"
+    ]
+  },
+  {
+    "id": "18238026-3b02-4c73-857d-73bf031309f3",
+    "title": "Now in Android #110",
+    "link": "https://medium.com/androiddevelopers/now-in-android-110-a8ae5802604f?source=rss----95b274b437c2---4",
+    "description": "",
+    "author": "Chris Assigbe",
+    "published": "Thu, 10 Oct 2024 22:35:24 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*Sy3ea40KCd6LSmU6QFUgDA.png",
+    "source": "https://medium.com/feed/androiddevelopers",
+    "categories": [
+      "now-in-android",
+      "android-15",
+      "rcs-messaging",
+      "featured",
+      "android-studio"
+    ]
+  },
+  {
+    "id": "66902760-f8b0-417e-b6d9-714baa45b3a0",
+    "title": "A Smoother Ride: Android Emulator Stability and Performance Updates",
+    "link": "http://android-developers.googleblog.com/2024/11/android-emulator-stability-performance-updates.html",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2024-11-13T09:00:00.000-08:00",
+    "image": "",
+    "source": "http://feeds.feedburner.com/blogspot/hsDu",
+    "categories": [
+      "android developers",
+      "Android Development",
+      "Android Emulator",
+      "Android Studio",
+      "Android Studio Emulator",
+      "androidstudio",
+      "Developer Tools",
+      "emulator",
+      "Problem-Solving",
+      "Studio Bot"
+    ]
+  },
+  {
+    "id": "7936e75c-289e-412c-8e3e-b32c9a566dcb",
+    "title": "Unlock global growth with Google Play's tax and compliance initiatives",
+    "link": "http://android-developers.googleblog.com/2024/11/unlocking-global-growth-google-play-makes-business-easy.html",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2024-11-12T13:00:00.000-08:00",
+    "image": "",
+    "source": "http://feeds.feedburner.com/blogspot/hsDu",
+    "categories": [
+      "App Security",
+      "Apps",
+      "Developer Tools",
+      "developers",
+      "ecosystem",
+      "financial management",
+      "Games",
+      "Global",
+      "Google Play",
+      "growth",
+      "Onboarding",
+      "policy compliance",
+      "regulations",
+      "Resources",
+      "taxes",
+      "trust"
+    ]
+  },
+  {
+    "id": "b3855b77-7b1e-48a9-885b-aadcaf612e5e",
+    "title": "Coroutines and Dispatchers",
+    "link": "https://medium.com/mindorks/coroutines-and-dispatchers-b559094b828e?source=rss----f1a763fc7443--android",
+    "description": "",
+    "author": "Bigyan Thapa",
+    "published": "Wed, 16 Oct 2024 06:48:00 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*zwGCLQ2qqBwzHegoGYDgNg.jpeg",
+    "source": "https://medium.com/feed/mindorks/tagged/android",
+    "categories": [
+      "best-practices",
+      "androiddev",
+      "coroutine",
+      "android",
+      "kotlin"
+    ]
+  },
+  {
+    "id": "cb389523-6e42-4d02-ae19-418f5011049d",
+    "title": "Creating Different Build Variants in Android",
+    "link": "https://medium.com/mindorks/creating-different-build-variants-in-android-8291b95352f5?source=rss----f1a763fc7443--android",
+    "description": "",
+    "author": "Amit Shekhar",
+    "published": "Tue, 08 Dec 2020 12:57:57 GMT",
+    "image": "https://medium.com/_/stat?event=post.clientViewed\u0026referrerSource=full_rss\u0026postId=8291b95352f5",
+    "source": "https://medium.com/feed/mindorks/tagged/android",
+    "categories": [
+      "jetpack",
+      "android-apps",
+      "androiddev",
+      "android-app-development",
+      "android"
+    ]
+  },
+  {
+    "id": "7e5cba51-85ce-49c5-bde7-25dff60ae124",
+    "title": "Introducing Trio | Part III",
+    "link": "https://medium.com/airbnb-engineering/introducing-trio-part-iii-033fbfe2171b?source=rss----53c7c27702d5--android",
+    "description": "",
+    "author": "Eli Hart",
+    "published": "Thu, 11 Apr 2024 17:33:21 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*f5gDJHZdQ6lSewSKhZya-A.jpeg",
+    "source": "https://medium.com/feed/airbnb-engineering/tagged/android",
+    "categories": [
+      "android",
+      "jetpack-compose",
+      "mobile",
+      "engineering",
+      "mobile-app-development"
+    ]
+  },
+  {
+    "id": "5264b29b-cd3c-416d-9f61-adf37f46560c",
+    "title": "Introducing Trio | Part II",
+    "link": "https://medium.com/airbnb-engineering/introducing-trio-part-ii-fe836013a798?source=rss----53c7c27702d5--android",
+    "description": "",
+    "author": "Eli Hart",
+    "published": "Thu, 04 Apr 2024 16:52:13 GMT",
+    "image": "https://cdn-images-1.medium.com/max/862/1*Ill4nQ2nbUwqQakROhb-6Q.jpeg",
+    "source": "https://medium.com/feed/airbnb-engineering/tagged/android",
+    "categories": [
+      "mobile",
+      "mobile-app-development",
+      "engineering",
+      "jetpack-compose",
+      "android"
+    ]
+  },
+  {
+    "id": "f07b0206-51fd-4274-a347-68d9e17e6529",
+    "title": "251- There's a new king in DI town",
+    "link": "https://fragmentedpodcast.com/episodes/251",
+    "description": "In this episode, Kaushik explores the evolution of dependency injection (DI) in Android development. Dagger has been the de-facto solution for DI in Android but there might be a new king in DI-town. He also chats with friend of the show and dependency injection expert Ralf Wondratschek for a final gut check.Shownotes: https://fragmentedpodcast.com/episodes/251",
+    "author": "Ralf Wondratschek, Kaushik Gopal",
+    "published": "Tue, 12 Nov 2024 09:00:00 +0000",
+    "image": "https://cdn.simplecast.com/audio/20f35050-e836-44cd-8f7f-fd13e8cb2e44/episodes/d08442d5-ae7d-4687-ba4f-f5f2d56bcd52/audio/ed095bc6-5981-428a-9ce0-189d3daf55cc/default_tc.mp3?aid=rss_feed\u0026feed=LpAGSLnY",
+    "source": "https://feeds.simplecast.com/LpAGSLnY",
+    "categories": [
+      "dagger",
+      " koin",
+      " kaushik-gopal",
+      " hilt",
+      " kotlin-inject",
+      " service-locator",
+      " di",
+      " anvil",
+      " ralf-wondratschek"
+    ]
+  },
+  {
+    "id": "a482d1fb-d685-4beb-85be-803b2ca03b1e",
+    "title": "250 - Bittersweet beginnings",
+    "link": "https://fragmentedpodcast.com/episodes/250",
+    "description": "We're back from the hiatus with our SemiQuicentennial episode! With the momentous 250 comes some big announcements and a shift in the way we do things.Listen to find out the details!Shownotes: https://fragmentedpodcast.com/episodes/250",
+    "author": "Donn Felker, Kaushik Gopal",
+    "published": "Tue, 29 Oct 2024 09:00:00 +0000",
+    "image": "https://cdn.simplecast.com/audio/20f35050-e836-44cd-8f7f-fd13e8cb2e44/episodes/6334f44e-ba1e-4176-9996-003c36525191/audio/f46e45eb-01df-43f4-a444-4222bbcbeb95/default_tc.mp3?aid=rss_feed\u0026feed=LpAGSLnY",
+    "source": "https://feeds.simplecast.com/LpAGSLnY",
+    "categories": null
+  },
+  {
+    "id": "3b824ba0-ddc0-42b5-a61c-b0b082cde2e8",
+    "title": "Instagram Data Saver Mode",
+    "link": "https://instagram-engineering.com/instagram-data-saver-mode-ffb01fd5a6bd?source=rss----37dc2a3034f2--android",
+    "description": "",
+    "author": "Cristina Acha",
+    "published": "Fri, 13 Dec 2019 18:09:34 GMT",
+    "image": "https://cdn-images-1.medium.com/max/912/1*DFLQYzOGL6yMpXmN28iP7g.png",
+    "source": "https://instagram-engineering.com/feed/tagged/android",
+    "categories": [
+      "data",
+      "android",
+      "instagram",
+      "tech"
+    ]
+  },
+  {
+    "id": "e0347b70-73f7-4b89-a13c-802963628724",
+    "title": "Making Direct Messages Reliable and Fast",
+    "link": "https://instagram-engineering.com/making-direct-messages-reliable-and-fast-a152bdfd697f?source=rss----37dc2a3034f2--android",
+    "description": "",
+    "author": "Tommy Crush",
+    "published": "Wed, 05 Jun 2019 14:57:10 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*hn1cPtyuSP9VYlojdkb_hA.png",
+    "source": "https://instagram-engineering.com/feed/tagged/android",
+    "categories": [
+      "instagram",
+      "ios",
+      "software-engineering",
+      "android",
+      "messaging"
+    ]
+  },
+  {
+    "id": "3a98ebbc-67bd-4b06-b4cd-22b53ac678e4",
+    "title": "Dan's Edina Sample Ballot Election (2024)",
+    "link": "https://blog.danlew.net/2024/09/30/dans-edina-sample-ballot-election-2024/",
+    "description": "As a summary, here's what I'm voting this year on my Edina, MN ballot (along with links to research on why I'm voting that way):For all partisan races (president, senate, house/state reps) - the DFL candidate.Statewide constitutional amendment - Yes.County",
+    "author": "Dan Lew",
+    "published": "Mon, 30 Sep 2024 15:15:09 GMT",
+    "image": "",
+    "source": "https://blog.danlew.net/rss/",
+    "categories": [
+      "politics"
+    ]
+  },
+  {
+    "id": "419df07b-7ba3-465b-92de-6df2e817cf20",
+    "title": "Edina City Council (2024)",
+    "link": "https://blog.danlew.net/2024/09/30/edina-city-council-2024/",
+    "description": "Another post about local Edina politics, this time the city council race.There are three candidates for two open positions; you get to vote for two:Ryan DayeCarolyn Jackson (incumbent)James Pierce (incumbent)Carolyn JacksonLet’s get the easy one out of the way first.Jackson has",
+    "author": "Dan Lew",
+    "published": "Mon, 30 Sep 2024 15:10:43 GMT",
+    "image": "",
+    "source": "https://blog.danlew.net/rss/",
+    "categories": [
+      "politics"
+    ]
+  },
+  {
+    "id": "40e90aff-1aeb-4ab6-9a5a-8c6ed1d78e19",
+    "title": "IDE Services Cloud Release and Floating License Server End-of-Life Announcements",
+    "link": "https://blog.jetbrains.com/blog/2024/10/25/ide-services-cloud-release-and-floating-license-server-end-of-life-announcements/",
+    "description": "JetBrains IDE Services, the enterprise suite of products dedicated to improving developer productivity across an entire organization, is now available in the cloud! By offering a JetBrains-managed service, IDE Services Cloud simplifies license management, enhances security, and provides seamless scalability, ensuring that organizations can focus more on development and less on administration. As part of […]",
+    "author": "Yegor Naumov",
+    "published": "Fri, 25 Oct 2024 10:15:40 +0000",
+    "image": "https://blog.jetbrains.com/wp-content/uploads/2024/10/image-39.png",
+    "source": "https://blog.jetbrains.com/blog/feed",
+    "categories": [
+      "news",
+      "fls",
+      "ide-services",
+      "license-server"
+    ]
+  },
+  {
+    "id": "a5c9073d-8e65-4fa5-9039-01aa5ac975c3",
+    "title": "WebStorm and Rider Are Now Free for Non-Commercial Use",
+    "link": "https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/",
+    "description": "We’re excited to announce a change in our licensing model that we believe will benefit the developer community – WebStorm and Rider are now free for non-commercial use! Read on to learn more about the change and why we’re making it, and be sure to check out the FAQ section below for additional details. What’s […]",
+    "author": "Ekaterina Ryabukha",
+    "published": "Thu, 24 Oct 2024 12:54:38 +0000",
+    "image": "",
+    "source": "https://blog.jetbrains.com/blog/feed",
+    "categories": [
+      "news",
+      "licensing",
+      "non-commercial"
+    ]
+  },
+  {
+    "id": "dca2f6ae-94d5-4181-87e7-2287a58dacf6",
+    "title": "Nonsensical Maven is still a Gradle problem",
+    "link": "https://jakewharton.com/nonsensical-maven-is-still-a-gradle-problem/",
+    "description": "",
+    "author": "",
+    "published": "2024-03-28T00:00:00+00:00",
+    "image": "",
+    "source": "https://jakewharton.com/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "a0dc20c9-2378-44a8-9952-986fef98c8de",
+    "title": "Gradle toolchains are rarely a good idea",
+    "link": "https://jakewharton.com/gradle-toolchains-are-rarely-a-good-idea/",
+    "description": "",
+    "author": "",
+    "published": "2024-03-21T00:00:00+00:00",
+    "image": "",
+    "source": "https://jakewharton.com/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "a9e0fd92-5001-402d-8ff8-578603871b70",
+    "title": "Migrating Kotlin Plugins to K2 Mode",
+    "link": "https://www.youtube.com/watch?v=HDyWQLNMJQ8",
+    "description": "",
+    "author": "IntelliJ IDEA, a JetBrains IDE",
+    "published": "2024-10-03T08:08:03+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy",
+    "categories": null
+  },
+  {
+    "id": "a58ba552-7527-48cf-ae4f-f80ff785a17b",
+    "title": "Building Web Applications With Vaadin and the Kotlin DSL",
+    "link": "https://www.youtube.com/watch?v=7jafQyCW07w",
+    "description": "",
+    "author": "Kotlin by JetBrains",
+    "published": "2024-03-21T05:13:56+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy",
+    "categories": null
+  },
+  {
+    "id": "9789ae7b-7dd9-4d93-a2dd-aff402037cd8",
+    "title": "Android Weekly Issue #649",
+    "link": "https://androidweekly.net/issues/issue-649/rss.xml",
+    "description": "Articles \u0026 Tutorials Sponsored Add paywalls in one line of code Take the pain out of configuring and testing your app's paywalls. With RevenueCat Paywalls you can remotely configure and edit your entire paywall view without waiting on App Review. StateFlow vs MutableState State management is a crucial part of Android, and Kai Cilliers takes a look at two options. The best dispatcher for a backend framework Marcin Moskała analyzes which dispatcher is the best choice for a backend applications. Mix Compose Multiplatform with native iOS UI Gabriel Souza shows how the new Compose Swift Bridge simplifies mixing Compose Multiplatform with native iOS UI. Android Interview Series 2024 — Part 1 — Android basics Anitaa Murthy's revamped series of Android interview questions, broken down into 8 separate articles by areas of interest. Collapsing Toolbar in Compose— PART 2 In part 2, Karishma Agrawal builds a dynamic UI with a collapsing toolbar and shows how to handle nested scrolling effectively. Enhancing AI Powered Developer Tools with Gemini API Read about Sublayer's story which showcases the transformative potential of the Gemini API. A Curious Case of Mistaken Identity: How Lambdas Break Data Class Hashing Matt McKenna tells the tale of the unstable hash that is a warning to all! A Smoother Ride: Android Emulator Stability and Performance Updates All about a Google initiative made up of several workstreams aimed at reducing crashes, speeding up startup time, closing out bugs, and setting up better ways to detect and prevent issues in the future. Not a Phase - Text with Compose and Canvas Eevis Panula looks at how to add text to Canvas and position and animate it, while also utilizing custom Google Fonts in the drawing. Skipping the invocation of intermediate composables Shreyas Patil walks through the concept of using lambdas in the composition scope and how they can be helpful in certain situations. A Developer’s Roadmap to Mastering Kotlin Multiplatform Jaewoong Eum explores the Kotlin Multiplatform (KMP) ecosystem using the Kotlin Multiplatform Developer Roadmap as a guide. A Micro-optimization You Will Never Need Romain Guy shows a micro-optimization more for the fun of it than for its real impact. Place a sponsored post Advertise your Android dev course to over 80k readers We reach out to more than 80k Android developers around the world, every week, through our email newsletter and social media channels. Advertise your Android development course! Jobs Staff Android Software Engineer - Native SDKs (Remote (US)) We're seeking a Staff Android Engineer to redefine how observability data is collected and consumed. You’ll lead the development of innovative SDKs and libraries to create seamless and high-performance products. Join us to revolutionize mobile observability! Libraries \u0026 Code ComposableScreens A collection of impressive designs built with Compose UI Toolkit News Introducing Native Integrations for Gravatar Mobile SDK Gravatar announced the release of native integrations for the Gravatar Mobile SDK, now available for both Android and iOS. Videos \u0026 Podcasts Fun with Function Types in Kotlin Dave Leeds looks at the different kinds of function types in Kotlin to see how we can call regular functions - and even property setters - as if they were extension functions. Accessing Camera in Kotlin Multiplatform (KMP) Abdul Basit covers how we can use Camera on Android and iOS with Compose Multiplatform. Firework: Introducing Compose Hot Reload Sebastian Sellmair documents the journey of building \"Compose Hot Reload\" in the upcoming videos, demoing the current state and briefly introducing the project. Previewing the Unpreviewable - Placeholder Previews in Compose Philipp Lackner teaches how you can let AsyncImages, video views and other complex composables show up in your Compose preview. Kotlin Symbol Processing Made Easy: Part 2 Welcome to Part 2 of the Kotlin Symbol Processing (KSP) series and dive deeper into advanced techniques to enhance your annotation processors. Ultra HDR images | Android Build Time Tune in to hear from the team at Google Drive and the Android platform team about new capabilities in Ultra HDR. From Sprite Sheets to Stunning Animations in Jetpack Compose! KMP Library From Sprite Sheets to Stunning Animations in Jetpack Compose! KMP Library Listen To Lifecycle Events In Jetpack Compose Daniel Atitienei shows how to listen to lifecycle events in Jetpack Compose. Graphics layers | Jetpack Compose Tips Rebecca Franks teaches all about Graphics Layers in Compose and how you can use the APIs to composite graphics layers together to create interesting visual effects. DevFest 2024 Playlist of all the presentations from DevFest Montreal 2024 There's a new king in DI town Kaushik explores the evolution of dependency injection (DI) in Android development and chats with dependency injection expert Ralf Wondratschek for a final gut check. Kotlin Compiler - Swift Intermediate Representation (SIR) Mohit examines Swift Intermediate Representation and shares concrete examples of Swift and its SIR tree.",
+    "author": "",
+    "published": "Sun, 17 Nov 2024 17:58:20 +0000",
+    "image": "https://androidweekly.net/system/images/673a2d/d33c93bc356100494a/square_rc-logo-500w.png",
+    "source": "https://androidweekly.net/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "1b90e035-0f64-4c49-a6aa-ca586c76867b",
+    "title": "Android Weekly Issue #648",
+    "link": "https://androidweekly.net/issues/issue-648/rss.xml",
+    "description": "Android Weekly Updates We're now on Bluesky as well! Isn't it lovely to have a bit of a choice? 😄 Articles \u0026 Tutorials Sponsored Mobile teams are (unintentionally) second-class Mobile teams are still catching up with their web developer colleagues. Not in terms of skill or contributions to their orgs, but in their access to tooling and infrastructure that supports feature and release work. Why is this the case? How can mobile teams get equal footing with their web counterparts? Here’s how. Preview Driven Development Rikin Marfatia \u0026 Ryan Brooks share how they used Previews as a core part of their Compose development workflow. Introduction to ViewModel Nathan Kayumba dives into what a ViewModel is, why it’s essential, and how it integrates within the architecture of an Android app. Inspektify got even better. Blaž Vantur announces new and exciting features that make Inspektify even more robust, intuitive, and user-friendly. Comparing SupervisorScope with viewModelScope Leo N explores differences, focusing on how they handle exceptions, manage child coroutines, and why choosing the right scope for each task is crucial Credential Manager Kai Cilliers looks at the Jetpack Compose API that isolates the intergration for credential management of our user’s into a single API and supports multiple sign-in options. Extension Shadowing for Actual Declarations in KMP Marcello Galhardo looks at why the EXTENSION_SHADOWED_BY_MEMBER warning is expected to be removed in Kotlin version 2.1.0. Top Nine Android Developer Interview Questions You Should Know Jaewoong Eum helps you prepare for an interview by mastering the fundamental knowledge essential for working as an Android developer. Putting the Genie in the bottle Iury Souza shows how the AI Edge SDK let's you run Gemini locally. Centered Slider in Jetpack Compose sinasamaki creates a glowy centered slider based on the Material 3 slider. Compose Swift Bridge Tutorial A tutorial demonstrating touchlab's Compose Swift Bridge Top 10 Coroutine Mistakes We All Have Made as Android Developers Dobri Kostadinov's guide to understanding and avoiding common pitfalls in asynchronous programming with Kotlin Coroutines Haze 1.0 Chris Banes announces Haze 1.0, out and ready for your blurring pleasure. This version marks a dramatic change in how the library works, along with new features. Place a sponsored post Advertise your Android dev course to over 80k readers We reach out to more than 80k Android developers around the world, every week, through our email newsletter and social media channels. Advertise your Android development course! Jobs Staff Android Software Engineer - Native SDKs (Remote (US)) We're seeking a Staff Android Engineer to redefine how observability data is collected and consumed. You’ll lead the development of innovative SDKs and libraries to create seamless and high-performance products. Join us to revolutionize mobile observability! Libraries \u0026 Code Valkyrie IntelliJ IDEA / Android Studio plugin to convert SVG/XML into Compose ImageVector and previewer. alarmee A Kotlin Multiplatform library for effortless alarm and local notification scheduling on both Android and iOS. compose-swift-bridge Automate the boilerplate of blending Compose UI and native UI on iOS twine Twine is a multiplatform RSS reader app built using Kotlin and Compose Multiplatform. It features an nice user interface and experience to browse through the feeds, and supports Material 3 content based dynamic theming News Coil 3.0: Image loading for Compose Multiplatform Colin White announces Coil 3.0, out now with full support for Compose Multiplatform. Amper Update November 2024 Amper 0.5.0 is now available with an improved the IDE experience and several more changes. Updates to power your growth on Google Play Google shares the latest product updates to help your business thrive. Modern Android Maps Feedback 2024 Android Maps Compose team wants to gather some feedback about what the community thinks. Videos \u0026 Podcasts Splash Screen API Daniel Atitienei creates a simple splash screen using the splash screen API New IDE for KMP Development, Ktor 3.0 \u0026 More Philipp Lackner summarize the most important news that affect us Android developers. Unpacking Compose Multiplatform Accessibility with Colin Marsch Colin Marsch provides a comprehensive overview of the current state of accessibility in Compose Multiplatform. 7 Ways to Customize Text Fields in Compose! Charfaoui Younes explores various ways to customize text fields in Jetpack Compose, focusing on their appearance and behavior. Subtyping Composables Dave Leeds considers a way to create a design system in Compose where we use a slot API that doesn't allow any composable but only allows specific ones. Exploring Android Trunk-Stable \u0026 Aconfig with Mishaal Rahman! Code with the Italians for an insightful exploration into the world of Android with Mishaal Rahman! In this episode, we delve deep into Android's trunk-stable and aconfig, uncovering the intricacies of how Android maintains stability and flexibility through its configuration management. Caching the Data in a KMP App Using SQLDelight \u0026 Ktor (Compose Multiplatform) Caching the Data in a KMP App Using SQLDelight \u0026 Ktor (Compose Multiplatform) Android API level and schedule updates, Gemini in Android Studio In this episode, learn about Android API level and schedule updates, Gemini in Android Studio, Google Play, Spotlight weeks on Adaptive Android Apps and Android AI, and more! Mix Native iOS Views in Compose Multiplatform With Touchlab's New Library! Mixing Compose and native iOS views involves a fair bit of boilerplate. Not anymore! Touchlab is launching our new library that generates that glue code for you.",
+    "author": "",
+    "published": "Sun, 10 Nov 2024 08:44:36 +0000",
+    "image": "https://androidweekly.net/system/images/672c75/983c93bc0f2f000376/square_Bildschirmfoto_2024-11-07_um_09.08.44.png",
+    "source": "https://androidweekly.net/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "3d50caf9-d522-4696-8cab-4713f9ca8f29",
+    "title": "Safely accessing lateinit variables",
+    "link": "https://okkotlin.com/lateinits/",
+    "description": "Kotlin, by design, doesn't allow a non-null variable to be left uninitialised during its declaration. To get past this issue, Kotlin's…",
+    "author": "",
+    "published": "Sun, 29 Dec 2019 00:00:00 GMT",
+    "image": "/static/859e64adb6dfef9b22ec0e67fda55294/dbb61/lateinits-sketch-note.png",
+    "source": "https://okkotlin.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "2ea1cb93-e9fe-4c1c-b4aa-daae909dfe95",
+    "title": "Uniform list access with subscripts",
+    "link": "https://okkotlin.com/subscripts/",
+    "description": "Accessing values from an array using subscripts is a light and easy way to fetch list data. Kotlin brought uniformity in data access across…",
+    "author": "",
+    "published": "Sun, 22 Dec 2019 00:00:00 GMT",
+    "image": "/static/bb2356b02762b1fe4a354d7e9784a4de/dbb61/subscripts-access.png",
+    "source": "https://okkotlin.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "fcab9967-041c-446a-99ca-4379c725ebdf",
+    "title": "Kotlin Coroutines Mastery: Optimize Your Workflow and Concurrency Techniques",
+    "link": "https://blog.kotlin-academy.com/kotlin-coroutines-mastery-optimize-your-workflow-and-concurrency-techniques-f2824ebabaed?source=rss----e57b304801ef---4",
+    "description": "",
+    "author": "Halina Kt Academy",
+    "published": "Mon, 11 Nov 2024 08:06:02 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*ax8iksQbKG_PXFEfTWYvTQ.png",
+    "source": "https://blog.kotlin-academy.com/feed",
+    "categories": [
+      "android",
+      "android-development",
+      "kotlin-coroutines",
+      "kotlin-beginners",
+      "kotlin"
+    ]
+  },
+  {
+    "id": "4f71ab35-6a82-4cf9-b443-7f6fd6eb4328",
+    "title": "Inspektify got even better",
+    "link": "https://blog.kotlin-academy.com/inspektify-got-even-better-93d7fddae8c0?source=rss----e57b304801ef---4",
+    "description": "",
+    "author": "Blaž Vantur",
+    "published": "Thu, 07 Nov 2024 08:18:43 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*W6jkUgX-Ce6GAhiTKLzRGA.png",
+    "source": "https://blog.kotlin-academy.com/feed",
+    "categories": [
+      "ktor",
+      "desktop",
+      "kotlin-multiplatform",
+      "android",
+      "ios"
+    ]
+  },
+  {
+    "id": "4cca9f75-f726-4878-8742-447babda0f2a",
+    "title": "Android Interview Series 2024 — Part 8 (Android architecture)",
+    "link": "https://proandroiddev.com/android-interview-series-2024-part-8-android-architecture-07ca74eee000?source=rss----c72404660798---4",
+    "description": "",
+    "author": "Anitaa Murthy",
+    "published": "Sun, 17 Nov 2024 19:16:57 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*ovGMYgU7aA9In-oV.jpeg",
+    "source": "https://proandroiddev.com/feed",
+    "categories": [
+      "android-app-development",
+      "android",
+      "android-architecture",
+      "kotlin",
+      "androiddev"
+    ]
+  },
+  {
+    "id": "70ee0b0d-a475-4d53-b02f-51dd47c77704",
+    "title": "Android Interview Series 2024 — Part 7 (Jetpack Compose)",
+    "link": "https://proandroiddev.com/android-interview-series-2024-part-7-jetpack-compose-ff7d2ecd9018?source=rss----c72404660798---4",
+    "description": "",
+    "author": "Anitaa Murthy",
+    "published": "Sun, 17 Nov 2024 19:16:19 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*XNkbMjWQ4k2dd4SMunQcIw.jpeg",
+    "source": "https://proandroiddev.com/feed",
+    "categories": [
+      "kotlin-coroutines",
+      "android-app-development",
+      "androiddev",
+      "android",
+      "kotlin"
+    ]
+  },
+  {
+    "id": "46c245e7-01bb-41fc-a26f-981500bcd671",
+    "title": "Google Maps in Jetpack Compose: Circles",
+    "link": "https://joebirch.co/android/google-maps-in-jetpack-compose-circles/",
+    "description": "In a few recent projects, I’ve needed to utilise Google Maps within environments utilising Jetpack Compose. In the early days of Compose this felt light a sought-after piece of functionality – even though it is still being built on, it now seems to be in a place where I can confidently use it. In this... Continue reading →",
+    "author": "hitherejoe",
+    "published": "Fri, 01 Nov 2024 10:40:15 +0000",
+    "image": "",
+    "source": "https://joebirch.co/feed",
+    "categories": [
+      "Android",
+      "Jetpack Compose",
+      "Android App Development",
+      "Android Development",
+      "AndroidDev",
+      "App Development",
+      "jetpack compose",
+      "jetpackcompose",
+      "Mobile App Development"
+    ]
+  },
+  {
+    "id": "ae2a8b84-dc44-4022-aa70-8ef3fd0d23cd",
+    "title": "Google Maps in Jetpack Compose: Markers",
+    "link": "https://joebirch.co/android/google-maps-in-jetpack-compose-markers/",
+    "description": "In a few recent projects, I’ve needed to utilise Google Maps within environments utilising Jetpack Compose. In the early days of Compose this felt light a sought-after piece of functionality – even though it is still being built on, it now seems to be in a place where I can confidently use it. In this... Continue reading →",
+    "author": "hitherejoe",
+    "published": "Fri, 04 Oct 2024 09:20:53 +0000",
+    "image": "",
+    "source": "https://joebirch.co/feed",
+    "categories": [
+      "Android",
+      "Jetpack Compose",
+      "Android App Development",
+      "Android Apps",
+      "Android Development",
+      "AndroidDev",
+      "App Development",
+      "jetpack compose",
+      "jetpackcompose",
+      "Mobile App Development"
+    ]
+  },
+  {
+    "id": "ee110928-2729-4dad-9a00-8bd551092c69",
+    "title": "EasyCameraAndGallery",
+    "link": "https://android-arsenal.com/details/1/8492",
+    "description": "An easy implementation for the use of the camera and gallery, customized according to your needs.",
+    "author": "",
+    "published": "Mon, 01 Apr 2024 04:57:33 +0300",
+    "image": "https://raw.githubusercontent.com/AlfredoHdez1709/EasyCameraAndGallery/master/media/image_004.jpeg",
+    "source": "https://feeds.feedburner.com/Android_Arsenal",
+    "categories": null
+  },
+  {
+    "id": "78be64cb-c09e-4d46-8ea1-8ab15262129b",
+    "title": "SimpleCamera",
+    "link": "https://android-arsenal.com/details/1/8491",
+    "description": "Simple Camera is a library that allows you to use cameras in a simplified, easy, fast and effective way. It contains CameraX as an internal library. It simplifies the camera features used by CameraX and provides ease of use with a single library. As updates come on the CameraX side, the library will try to stay up to date. Missing features will be added soon. Like video capturing.",
+    "author": "",
+    "published": "Sun, 31 Mar 2024 12:23:39 +0300",
+    "image": "https://avatars.githubusercontent.com/u/71823127?v=4",
+    "source": "https://feeds.feedburner.com/Android_Arsenal",
+    "categories": null
+  },
+  {
+    "id": "148c0175-ee4c-42ab-b1cf-83e890fbe7ab",
+    "title": "Bad Luck Tickets",
+    "link": "https://publicobject.com/2024/11/13/bad-luck-tickets/",
+    "description": "My son’s swim meet is coming up. If he’s healthy, he’ll compete.My daughter’s hockey team has a game coming up. League rules say they must forfeit if they have fewer than 10 players. There’s only 10 girls on the roster so they need everyone",
+    "author": "Jesse Wilson",
+    "published": "Wed, 13 Nov 2024 05:08:26 GMT",
+    "image": "",
+    "source": "https://publicobject.com/rss/",
+    "categories": null
+  },
+  {
+    "id": "d6240433-691c-476c-bf78-5fdd77a18767",
+    "title": "Writing For Me",
+    "link": "https://publicobject.com/2024/11/07/writing-for-me/",
+    "description": "I’ve been posting on this website throughout my career. Many posts are motivated by my own suffering! These go like this:I learned a thing.The hard way.It sucked.Please avoid making the same mistake.In other posts, there’s a discussion on something and I feel compelled",
+    "author": "Jesse Wilson",
+    "published": "Thu, 07 Nov 2024 04:29:08 GMT",
+    "image": "",
+    "source": "https://publicobject.com/rss/",
+    "categories": null
+  },
+  {
+    "id": "a08907f3-9699-41f1-a890-4a4a57ede283",
+    "title": "Gradle Footguns: Don't add potentially-empty providers to collection properties",
+    "link": "https://www.zacsweers.dev/gradle-footgun-adding-empty-providers-to-collection-properties/",
+    "description": "After pairing with Tony Robalik on a recent weird behavior I was seeing in Gradle, we encountered a deliciously evil bug in Gradle. It's documented a little in Gradle 8.7's release notes (see Better API for updating collection properties), but the basic premise is",
+    "author": "Zac Sweers",
+    "published": "Wed, 11 Sep 2024 17:33:13 GMT",
+    "image": "https://www.zacsweers.dev/content/images/2024/09/DALL-E-2024-09-11-13.37.53---A-cute-cartoon-elephant-looking-slightly-nervous-as-it-carefully-watches-its-step--lifting-one-foot-cautiously-while-looking-down-at-the-ground.-The-e.webp",
+    "source": "https://www.zacsweers.dev/rss/",
+    "categories": [
+      "Gradle"
+    ]
+  },
+  {
+    "id": "f9a68d18-ee0b-45cf-8b6e-ffb1f22a7772",
+    "title": "Writing a Kotlin Multiplatform App from Start to Store",
+    "link": "https://www.zacsweers.dev/writing-a-kotlin-multiplatform-app-from-start-to-store/",
+    "description": "Notes from writing a new toy Kotlin Multiplatform app this summer.",
+    "author": "Zac Sweers",
+    "published": "Sun, 25 Aug 2024 20:57:51 GMT",
+    "image": "https://www.zacsweers.dev/content/images/2024/07/play_store_feature_graphic.png",
+    "source": "https://www.zacsweers.dev/rss/",
+    "categories": [
+      "Open Source",
+      "Kotlin",
+      "Circuit",
+      "Multiplatform",
+      "iOS",
+      "Android",
+      "Mobile"
+    ]
+  },
+  {
+    "id": "4c5ef7a9-f81d-4bee-8d95-1962fb4de0fa",
+    "title": "Lint Revisit: Providing Alternatives 🧙‍♀️",
+    "link": "https://zarah.dev/2024/07/24/lintfix-alternatives.html",
+    "description": "In my previous post, we updated our TODO Detector to be more flexible. It is also easily extensible so that if we want to include more parameters or perhaps add more checks, we can follow the existing pattern and modify it.",
+    "author": "Zarah Dominguez",
+    "published": "2024-07-24T00:00:00+00:00",
+    "image": "",
+    "source": "https://zarah.dev/feed.xml",
+    "categories": [
+      "android",
+      "lint"
+    ]
+  },
+  {
+    "id": "c4f24848-9369-4c6f-b1ca-daff8b8250df",
+    "title": "Lint Revisit: TODO Detector v2",
+    "link": "https://zarah.dev/2024/07/22/todo-detector-v2.html",
+    "description": "A few years ago, I wrote about writing a Lint rule to validate the format of TODO comments. Whilst I find that Lint is still difficult to grok, I have since learnt a little bit more that I feel a revisit of this rule is warranted.",
+    "author": "Zarah Dominguez",
+    "published": "2024-07-22T00:00:00+00:00",
+    "image": "",
+    "source": "https://zarah.dev/feed.xml",
+    "categories": [
+      "android",
+      "lint"
+    ]
+  },
+  {
+    "id": "5ad990cb-82d1-4040-b026-b6a4c5deebb9",
+    "title": "Parameterized Android Tests with Burst 2.0",
+    "link": "https://handstandsam.com/2024/10/31/parameterized-android-tests-with-burst-2-0/",
+    "description": "Parameterized tests allow you to write a test once, but allow it to be called with multiple parameters. This means it is creating more methods than you’ve written, but without you having to write and maintain each one individually. Here is a trivial example of writing a single test with TestParameterInjector, but having it run […]",
+    "author": "Sam Edwards",
+    "published": "Thu, 31 Oct 2024 15:52:32 +0000",
+    "image": "https://handstandsam.com/wp-content/uploads/2024/10/Screenshot-2024-10-31-at-11.25.23 AM-954x1024.png",
+    "source": "https://handstandsam.com/feed/",
+    "categories": [
+      "Updates"
+    ]
+  },
+  {
+    "id": "e5b06a98-0a19-4cc3-84e5-2133c56bc0c9",
+    "title": "Kotlin K2 FIR Quickstart Guide",
+    "link": "https://handstandsam.com/2024/05/30/kotlin-k2-fir-quickstart-guide/",
+    "description": "I wrote this Kotlin K2 FIR guide because I was not able to find any guides or examples to get started with FIR for static analysis. K2 is now finally stable in Kotlin 2.0.0 and future versions, so FIR will be the recommended way of doing static analysis. Background Starting Kotlin 1.x you could only […]",
+    "author": "Sam Edwards",
+    "published": "Fri, 31 May 2024 01:18:21 +0000",
+    "image": "https://handstandsam.com/wp-content/uploads/2024/05/DSGN-15525-Blog-Post-about-Kotlin-2.0_kotlinlang.org_-1024x336.webp",
+    "source": "https://handstandsam.com/feed/",
+    "categories": [
+      "Updates"
+    ]
+  },
+  {
+    "id": "758a26fe-4377-493e-9f8f-1c8f4053de47",
+    "title": "droidcon NYC 2018 - The State of the Kotlin ecosystem",
+    "link": "https://www.youtube.com/watch?v=0i_1wpuAl9w",
+    "description": "",
+    "author": "droidcon NYC",
+    "published": "2018-10-17T17:14:00+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSLXy31j2Z0sdDeeAX5JpPw",
+    "categories": null
+  },
+  {
+    "id": "cecdbd02-a242-41ef-8ad3-d664342a69aa",
+    "title": "droidcon NYC 2018 - Slice It Up: Driving the user engagement outside your app",
+    "link": "https://www.youtube.com/watch?v=5VPUjy79y10",
+    "description": "",
+    "author": "droidcon NYC",
+    "published": "2018-10-17T17:14:00+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSLXy31j2Z0sdDeeAX5JpPw",
+    "categories": null
+  },
+  {
+    "id": "8a5aad01-8908-4d09-aa5f-6819b6fa6533",
+    "title": "Droidcon SF 2018 - highlight video",
+    "link": "https://www.youtube.com/watch?v=1Iz-bApOP5w",
+    "description": "",
+    "author": "droidcon SF",
+    "published": "2018-12-10T19:30:53+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg",
+    "categories": null
+  },
+  {
+    "id": "2b12b72d-97dc-47e6-9d94-7bbde12beaff",
+    "title": "droidcon SF 2018 - Improving Android Build performance",
+    "link": "https://www.youtube.com/watch?v=XZFnuFUMT7w",
+    "description": "",
+    "author": "droidcon SF",
+    "published": "2018-12-01T22:11:39+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg",
+    "categories": null
+  },
+  {
+    "id": "182a297f-f0e0-4e34-b235-a62464038e04",
+    "title": "Encapsulate your @Composable functions",
+    "link": "https://chrynan.codes/encapsulate-your-composables/",
+    "description": "A convenient convention for complex composable components.",
+    "author": "Christopher Keenan",
+    "published": "Thu, 20 Apr 2023 22:00:00 GMT",
+    "image": "https://cdn.getmidnight.com/26ffcef53c44522efbfe7fef964a4058/2023/04/encapsulate_composables_logo.png",
+    "source": "https://chrynan.codes/rss/",
+    "categories": [
+      "jetpack compose",
+      "jetpack",
+      "compose",
+      "jetpack-compose",
+      "composable",
+      "declarative ui",
+      "ui",
+      "convention",
+      "design"
+    ]
+  },
+  {
+    "id": "46324126-4a0f-4e78-b425-fb96b22c7489",
+    "title": "Android Parcelable: There's a better way",
+    "link": "https://chrynan.codes/android-parcelable-theres-a-better-way/",
+    "description": "Introducing a new library that uses Kotlinx Serialization to parcellize objects on Android.",
+    "author": "Christopher Keenan",
+    "published": "Mon, 18 Jan 2021 07:08:17 GMT",
+    "image": "https://images.unsplash.com/photo-1505128761803-50d3fc78a565?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=MXwxMTc3M3wwfDF8c2VhcmNofDl8fHBhcmNlbHxlbnwwfHx8\u0026ixlib=rb-1.2.1\u0026q=80\u0026w=2000",
+    "source": "https://chrynan.codes/rss/",
+    "categories": [
+      "parcelable",
+      "android",
+      "kotlin",
+      "kotlin-library",
+      "android-library",
+      "kotlinx-serialization",
+      "serialization",
+      "parcel",
+      "parceling",
+      "parceler",
+      "library"
+    ]
+  },
+  {
+    "id": "da40559d-8aa4-4f8e-b8c3-48e626d8eccb",
+    "title": "EML viewer tools for different platforms",
+    "link": "https://goobar.io/eml-viewer-tools-for-different-platforms/",
+    "description": "In the digital age, where email communication is paramount, handling various email formats becomes essential. Among these formats, EML (Email Message Format) files are widely used. EML files contain email messages and attachments, and viewing them efficiently across different platforms can be a challenge. This article explores the diverse landscape of EML viewer tools available for different platforms, aiding users in seamlessly accessing and managing their email content. The post EML viewer tools for different platforms appeared first on Universal Accessibility.",
+    "author": "admgoobar",
+    "published": "Sun, 28 Jan 2024 20:48:30 +0000",
+    "image": "",
+    "source": "https://goobar.io/feed",
+    "categories": [
+      "Blog"
+    ]
+  },
+  {
+    "id": "5e2bfe8e-efdf-407d-a0eb-570021f56583",
+    "title": "Viewing attachments in EML files",
+    "link": "https://goobar.io/viewing-attachments-in-eml-files/",
+    "description": "In the digital age, email communication plays a pivotal role in both personal and professional spheres. The exchange of information often involves attachments, which enhance the message’s content and functionality. Among the various file formats used in email correspondence, EML files are prominent. Understanding how to view attachments within EML files is essential for efficient... The post Viewing attachments in EML files appeared first on Universal Accessibility.",
+    "author": "admgoobar",
+    "published": "Sun, 28 Jan 2024 20:44:40 +0000",
+    "image": "",
+    "source": "https://goobar.io/feed",
+    "categories": [
+      "Blog"
+    ]
+  },
+  {
+    "id": "668192e1-089d-4500-8679-7cbbde0a6936",
+    "title": "Building a sub-sampling image viewer for Compose UI",
+    "link": "https://saket.me/compose-sub-sampling-image-viewer/",
+    "description": "How do you display a 100mb image on Android without running into OutOfMemoryError? You can’t. But you can cheat. For years Android developers have used Dave Morrissey’s excellent library, subsampling-scale-image-view for displaying large bitmaps with deep zoom. It optimizes memory usage by loading lower resolution bitmaps whenever possible and avoiding loading parts of the original […] The post Building a sub-sampling image viewer for Compose UI appeared first on Saket Narayan.",
+    "author": "Saket Narayan",
+    "published": "Wed, 09 Aug 2023 21:07:52 +0000",
+    "image": "https://saket.me/wp-content/uploads/2023/08/sampled_vs_non_samped.jpg",
+    "source": "https://saket.me/feed/",
+    "categories": [
+      "Android"
+    ]
+  },
+  {
+    "id": "eed79e02-0b5d-4abf-9fd2-f9da2fd92a7c",
+    "title": "Drawing custom text spans in Compose UI",
+    "link": "https://saket.me/compose-custom-text-spans/",
+    "description": "While exploring how text paragraphs are rendered in Compose UI, I nerd sniped myself into porting squiggly underlines from Sam Ruston’s Buzzkill app. Sam’s animation was implemented using TextView custom spans, but Compose UI does not offer any alternatives for them yet. While our friends at Google are prototyping text modifiers (first, second), I figured […] The post Drawing custom text spans in Compose UI appeared first on Saket Narayan.",
+    "author": "Saket Narayan",
+    "published": "Tue, 12 Jul 2022 15:49:24 +0000",
+    "image": "https://saket.me/wp-content/uploads/2022/07/straight-underline.png",
+    "source": "https://saket.me/feed/",
+    "categories": [
+      "Android"
+    ]
+  }
+]
