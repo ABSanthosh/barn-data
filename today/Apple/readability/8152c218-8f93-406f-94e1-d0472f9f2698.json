@@ -1,0 +1,24 @@
+{
+  "id": "8152c218-8f93-406f-94e1-d0472f9f2698",
+  "title": "Transit Can Now Track Underground Trains without GPS",
+  "link": "https://www.macstories.net/linked/transit-can-now-track-underground-trains-without-gps/",
+  "description": "Source: Transit Earlier this month, Transit, one of my favorite apps of all time, gained an impressive new feature: the app is now able to track your train and warn you when you are about to reach your destination even when your train is underground. Previously, Transit had to rely on GPS and cellular service […]",
+  "author": "Niléane",
+  "published": "Mon, 18 Nov 2024 13:31:04 +0000",
+  "source": "https://www.macstories.net/feed",
+  "categories": [
+    "Linked",
+    "app"
+  ],
+  "byline": "",
+  "length": 1136,
+  "excerpt": "Earlier this month, Transit, one of my favorite apps of all time, gained an impressive new feature: the app is now able to track your train and warn you when you are about to reach your destination even when your train is underground. Previously, Transit had to rely on GPS and cellular service to precisely",
+  "siteName": "",
+  "favicon": "https://www.macstories.net/app/themes/macstories4/images/apple-touch-icon-152x152-precomposed.png",
+  "text": "Earlier this month, Transit, one of my favorite apps of all time, gained an impressive new feature: the app is now able to track your train and warn you when you are about to reach your destination even when your train is underground. Previously, Transit had to rely on GPS and cellular service to precisely locate your train on its route, which meant it couldn’t reliably function as soon as you entered a subway tunnel. The way they have been able to achieve this is fascinating. Transit now utilizes the iPhone’s built-in accelerometer and analyzes its patterns to identify when the vehicle you boarded is in motion, and every time it reaches a station. The company’s account of the whole process is nothing short of impressive. The team spent a week riding buses and trains to collect data and proceeded to create an entirely new prediction model that is able to count down the underground stations that you will need to ride through to reach your destination. Transit says the model works completely offline and on-device. I know I’m going to give this new feature a try as soon as I get a chance to ride the Paris Métro next week.",
+  "image": "https://cdn.macstories.net/predicting-motion-state-from-frequencies-clean-2-1731936257254.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle id=\"content\"\u003e\n\n    \n\n    \u003cdiv\u003e\n                        \n\u003cp id=\"p2\"\u003eEarlier this month, Transit, \u003ca href=\"https://www.macstories.net/reviews/transit-is-still-the-best-designed-transit-app-on-the-iphone-in-2024/\" rel=\"noopener noreferrer\"\u003eone of my favorite apps\u003c/a\u003e of all time, gained an impressive new feature: the app is now able to track your train and warn you when you are about to reach your destination even when your train is underground. Previously, Transit had to rely on GPS and cellular service to precisely locate your train on its route, which meant it couldn’t reliably function as soon as you entered a subway tunnel.\u003c/p\u003e\n\u003cp id=\"p3\"\u003eThe way they have been able to achieve this is fascinating. Transit now utilizes the iPhone’s built-in accelerometer and analyzes its patterns to identify when the vehicle you boarded is in motion, and every time it reaches a station. The company’s account of the whole process is nothing short of impressive. The team spent a week riding buses and trains to collect data and proceeded to create an entirely new prediction model that is able to count down the underground stations that you will need to ride through to reach your destination. Transit says the model works completely offline and on-device.\u003c/p\u003e\n\u003cp id=\"p4\"\u003eI know I’m going to give this new feature a try as soon as I get a chance to ride the Paris Métro next week.\u003c/p\u003e\n            \u003c/div\u003e\n\n    \n        \n\n    \n    \n    \n\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2024-11-18T13:31:04-05:00",
+  "modifiedTime": null
+}
