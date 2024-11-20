@@ -1,0 +1,24 @@
+{
+  "id": "cb2469bd-a630-486c-b6f5-d995238becee",
+  "title": "How to Add a Header to a curl Request",
+  "link": "https://davidwalsh.name/curl-add-header",
+  "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+  "author": "David Walsh",
+  "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+  "source": "https://davidwalsh.name/feed",
+  "categories": [
+    "Quick Tips",
+    "Shell"
+  ],
+  "byline": "David Walsh",
+  "length": 571,
+  "excerpt": "curl is one of those great utilities that's been around seemingly forever and has endless use cases. These days I find myself using curl to batch download",
+  "siteName": "David Walsh Blog",
+  "favicon": "https://davidwalsh.name/wp-content/themes/punky/images/favicon-144.png",
+  "text": "Recent FeaturesCSS Gradients With CSS border-radius, I showed you how CSS can bridge the gap between design and development by adding rounded corners to elements.  CSS gradients are another step in that direction.  Now that CSS gradients are supported in Internet Explorer 8+, Firefox, Safari, and Chrome...fetch APIOne of the worst kept secrets about AJAX on the web is that the underlying API for it, XMLHttpRequest, wasn't really made for what we've been using it for.  We've done well to create elegant APIs around XHR but we know we can do better.  Our effort to...",
+  "image": "https://davidwalsh.name/wp-content/themes/punky/images/logo.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003ch2\u003e\u003ca href=\"https://davidwalsh.name/tutorials/features\"\u003eRecent Features\u003ci\u003e\u003c/i\u003e\u003c/a\u003e\u003c/h2\u003e\u003cul\u003e\u003cli data-url=\"https://davidwalsh.name/css-gradients\" itemscope=\"\" itemtype=\"http://schema.org/Article\"\u003e\u003cspan itemscope=\"\" itemtype=\"https://schema.org/ImageObject\"\u003e\u003cimg data-src=\"https://davidwalsh.name/demo/css-gradients.png?preview\" alt=\"CSS Gradients\" src=\"https://davidwalsh.name/demo/css-gradients.png?preview\"/\u003e\u003c/span\u003e\u003cdiv\u003e\u003ch3 itemprop=\"name\"\u003e\u003ca href=\"https://davidwalsh.name/css-gradients\" itemprop=\"url\"\u003eCSS Gradients\u003c/a\u003e\u003c/h3\u003e\u003cp\u003e\u003ca href=\"https://davidwalsh.name/demo/css-gradient.php\"\u003e\u003c/a\u003e\n\nWith \u003ca href=\"https://davidwalsh.name/css-rounded-corners\"\u003eCSS border-radius\u003c/a\u003e, I showed you how CSS can bridge the gap between design and development by adding rounded corners to elements.  CSS gradients are another step in that direction.  Now that CSS gradients are supported in Internet Explorer 8+, Firefox, Safari, and Chrome...\u003c/p\u003e\u003c/div\u003e\u003c/li\u003e\u003cli data-url=\"https://davidwalsh.name/fetch\" itemscope=\"\" itemtype=\"http://schema.org/Article\"\u003e\u003cspan itemscope=\"\" itemtype=\"https://schema.org/ImageObject\"\u003e\u003cimg data-src=\"/demo/html5250.png?preview\" alt=\"fetch API\" src=\"https://davidwalsh.name/demo/html5250.png?preview\"/\u003e\u003c/span\u003e\u003cdiv\u003e\u003ch3 itemprop=\"name\"\u003e\u003ca href=\"https://davidwalsh.name/fetch\" itemprop=\"url\"\u003efetch API\u003c/a\u003e\u003c/h3\u003e\u003cp\u003eOne of the worst kept secrets about AJAX on the web is that the underlying API for it, \u003ccode\u003eXMLHttpRequest\u003c/code\u003e, wasn\u0026#39;t really made for what we\u0026#39;ve been using it for.  We\u0026#39;ve done well to create elegant APIs around XHR but we know we can do better.  Our effort to...\u003c/p\u003e\u003c/div\u003e\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2024-08-03T16:51:46Z",
+  "modifiedTime": "2024-08-03T16:51:47Z"
+}
