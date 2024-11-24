@@ -1,0 +1,25 @@
+{
+  "id": "25402e89-35d7-4654-9011-e59647e7e983",
+  "title": "Our World in Data wants you to use their data with improved export and API",
+  "link": "https://flowingdata.com/2024/11/21/our-world-api/",
+  "description": "Our World in Data is a hub for research and reliable data to…Tags: API, Our World in Data",
+  "author": "Nathan Yau",
+  "published": "Thu, 21 Nov 2024 17:27:39 +0000",
+  "source": "https://flowingdata.com/feed",
+  "categories": [
+    "Data Sources",
+    "API",
+    "Our World in Data"
+  ],
+  "byline": "Nathan Yau",
+  "length": 804,
+  "excerpt": "Our World in Data is a hub for research and reliable data to measure the progress of the world. You’ve always been able to download data from the site, but they just made it easier with more …",
+  "siteName": "FlowingData",
+  "favicon": "https://flowingdata.com/wp-content/themes/fd-modern-6-0/images/icons/logo-lone-square256.png",
+  "text": "Our World in Data is a hub for research and reliable data to measure the progress of the world. You’ve always been able to download data from the site, but they just made it easier with more detailed exports and an API: For users who work with automated workflows, computational notebooks, or custom applications, we now offer direct URLs to access data in CSV format and comprehensive metadata in JSON format. This is the same data and metadata included in the zip file download package described above. Just like with the download package, you can fetch the complete data or only the subset of the data currently displayed in the chart. You can also choose between longer column names that are easier to read for humans or shorter column names that are often more convenient to use in code. Great news.",
+  "image": "https://flowingdata.com/wp-content/uploads/2024/11/our-world-in-data-export.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"single-post\"\u003e\n                                    \n                \u003cp\u003e\u003ca href=\"https://ourworldindata.org/\"\u003eOur World in Data\u003c/a\u003e is a hub for research and reliable data to measure the progress of the world. You’ve always been able to download data from the site, but they just made it easier \u003ca href=\"https://ourworldindata.org/easier-to-reuse-our-data\"\u003ewith more detailed exports and an API\u003c/a\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\u003cp\u003eFor users who work with automated workflows, computational notebooks, or custom applications, we now offer direct URLs to access data in CSV format and comprehensive metadata in JSON format. This is the same data and metadata included in the zip file download package described above.\u003c/p\u003e\n\u003cp\u003eJust like with the download package, you can fetch the complete data or only the subset of the data currently displayed in the chart. You can also choose between longer column names that are easier to read for humans or shorter column names that are often more convenient to use in code.\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003eGreat news.\u003c/p\u003e\n                \n                \n                                        \n            \n        \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2024-11-21T17:27:39Z",
+  "modifiedTime": "2024-11-21T17:27:39Z"
+}
