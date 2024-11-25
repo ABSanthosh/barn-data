@@ -1,0 +1,21 @@
+{
+  "id": "20207a7d-f2a2-4170-8e6d-63f0eda637c0",
+  "title": "Microsoft pauses Windows 11 updates for PCs with some Ubisoft games installed",
+  "link": "https://www.theverge.com/2024/11/23/24304313/microsoft-delays-windows-11-24h2-update-ubisoft-star-wars-outlaws-assassins-creed-valhalla-crashes",
+  "description": "",
+  "author": "Wes Davis",
+  "published": "2024-11-23T18:10:18-05:00",
+  "source": "https://www.theverge.com/rss/index.xml",
+  "categories": null,
+  "byline": "Wes Davis",
+  "length": 1166,
+  "excerpt": "Microsoft says it’s withholding Windows 11 update version 24H2 from PCs with Ubisoft games like Assassin’s Creed: Valhalla and Star Wars Outlaws installed, as it’s crashing them.",
+  "siteName": "The Verge",
+  "favicon": "https://www.theverge.com/icons/android_chrome_512x512.png",
+  "text": "Microsoft has stopped offering updates to Windows 11 version 24H2 on PCs that have certain Ubisoft games installed, Bleeping Computer reports. The company made the move after complaints that Star Wars Outlaws and games in the Assassin’s Creed series were crashing after installing the new Windows update.Microsoft confirmed the “compatibility hold” in a status update yesterday evening, and says it’s working with Ubisoft to find a fix. In the meantime, the company recommends against installing the Windows 11 24H2 update manually. Here is Microsoft’s description of the issue and games affected:After installing Windows 11, version 24H2, you might encounter issues with some Ubisoft games. These games might become unresponsive while starting, loading or during active gameplay. In some cases, users might receive a black screen. The affected games are: • Assassin’s Creed Valhalla• Assassin’s Creed Origins• Assassin’s Creed Odyssey• Star Wars Outlaws• Avatar: Frontiers of PandoraMicrosoft writes that Ubisoft has released a temporary hotfix to address crashing issues in Star Wars Outlaws, but says that players “might still experience some performance issues.”",
+  "image": "https://cdn.vox-cdn.com/thumbor/kTqHNybimk7DzqzMEMF0Jr1TNdM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24007866/acastro_STK109_microsoft_02.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cp\u003eMicrosoft has stopped offering updates to Windows 11 version 24H2 on PCs that have certain Ubisoft games installed, \u003ca href=\"https://www.bleepingcomputer.com/news/microsoft/microsoft-halts-windows-11-24h2-update-on-pcs-assassins-creed-star-wars-outlaws/\"\u003e\u003cem\u003eBleeping Computer\u003c/em\u003e reports\u003c/a\u003e. The company made the move after complaints that \u003cem\u003eStar Wars Outlaws\u003c/em\u003e and games in the \u003cem\u003eAssassin’s Creed \u003c/em\u003eseries were crashing after installing the new Windows update.\u003c/p\u003e\u003cp\u003eMicrosoft confirmed the “compatibility hold” in a \u003ca href=\"https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-24h2#3448msgdesc\"\u003estatus update\u003c/a\u003e yesterday evening, and says it’s working with Ubisoft to find a fix. In the meantime, the company recommends against installing the Windows 11 24H2 update manually. \u003c/p\u003e\u003cp\u003eHere is Microsoft’s description of the issue and games affected:\u003c/p\u003e\u003cdiv\u003e\u003cblockquote\u003e\u003cp\u003eAfter installing Windows 11, version 24H2, you might encounter issues with some Ubisoft games. These games might become unresponsive while starting, loading or during active gameplay. In some cases, users might receive a black screen. The affected games are: \u003c/p\u003e\u003cp\u003e• Assassin’s Creed Valhalla\u003c/p\u003e\u003cp\u003e• Assassin’s Creed Origins\u003c/p\u003e\u003cp\u003e• Assassin’s Creed Odyssey\u003c/p\u003e\u003cp\u003e• Star Wars Outlaws\u003c/p\u003e\u003cp\u003e• Avatar: Frontiers of Pandora\u003c/p\u003e\u003c/blockquote\u003e\u003c/div\u003e\u003cp\u003eMicrosoft writes that Ubisoft has released a temporary hotfix to address crashing issues in \u003cem\u003eStar Wars Outlaws\u003c/em\u003e, but says that players “might still experience some performance issues.”\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2024-11-23T23:10:16.689Z",
+  "modifiedTime": "2024-11-23T23:10:16.689Z"
+}

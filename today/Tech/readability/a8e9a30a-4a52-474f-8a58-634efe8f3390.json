@@ -1,0 +1,23 @@
+{
+  "id": "a8e9a30a-4a52-474f-8a58-634efe8f3390",
+  "title": "Microsoft's Controversial 'Recall' Feature is Already Experiencing Some Issues",
+  "link": "https://tech.slashdot.org/story/24/11/24/2325257/microsofts-controversial-recall-feature-is-already-experiencing-some-issues?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+  "description": "Microsoft's controversial \"Recall\" feature (in a public preview of Windows 11) already has some known issues, Microsoft admitted Friday. For example: - Recall can be enabled or disabled from \"Turn Windows features on or off\". We are caching the Recall binaries on disk while we test add/remove. In a future update we will completely remove the binaries. - You must have Secure Boot enabled for Recall to save snapshots. - Some users experience a delay before snapshots first appear in the timeline while using their device. If snapshots do not appear after 5 minutes, reboot your device. If saving snapshots is enabled, but you see snapshots are no longer being saved, reboot your device. - Clicking links within Recall to submit feedback may experience a delay in loading the Feedback Hub application. Be patient and it will display. CNBC adds that according to Microsoft Recall \"won't work with some accessibility programs, and if you specify that Recall shouldn't save content from a given website, it might get captured anyway while using the built-in Edge browser...\" But those aren't the only issues CNBC noticed: - While you might expect that your computer will be recording every last thing you look at once you've turned on Recall, it can go several minutes between making snapshots, leaving gaps in the timeline. - Recall allows you to prevent screenshots from being made when you're accessing specific apps. But a few apps installed on my Surface Pro are not shown on that list. - When you enter a search string to find words, results might be incomplete or incorrect. Recall clearly had two screen images that mention \"Yankees,\" but when I typed that into the search box, only one of them came up as a text match. I typed in my last name, which appeared in eight images, but Recall produced just two text matches. - Recall made a screenshot while I was scrolling through posts on social network BlueSky, and one contains a photo of a New York street scene. You can see a stoplight, a smokestack and street signs. I typed each of those into the search box, but Recall came up with no results... - The search function is fast, but flipping through snapshots in Recall is not. It can take a couple of seconds to load screenshots as you swipe between them. Read more of this story at Slashdot.",
+  "author": "EditorDavid",
+  "published": "2024-11-24T23:28:00+00:00",
+  "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "categories": [
+    "windows"
+  ],
+  "byline": "",
+  "length": 1,
+  "excerpt": "×",
+  "siteName": "",
+  "favicon": "https://a.fsdn.com/sd/m/assets/apple-touch-icon-precomposed2X-e553cba2892b057428cabcdff1a372fc.png",
+  "text": "×",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\n\n\n\n\n\u003cdiv id=\"ccpa-modal\"\u003e\n        \u003cp\u003e\u003cspan id=\"modal-close\"\u003e×\u003c/span\u003e\u003c/p\u003e\n    \u003c/div\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
