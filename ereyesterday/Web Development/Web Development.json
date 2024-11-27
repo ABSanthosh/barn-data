@@ -1,0 +1,117 @@
+[
+  {
+    "id": "07ea0b75-256f-43bc-accf-a2af2abb1cbd",
+    "title": "What's next for WebGPU",
+    "link": "https://developer.chrome.com/blog/next-for-webgpu?hl=en",
+    "description": "Learn about new AI and rendering features discussed at the latest GPU for the Web working group meeting.",
+    "author": "",
+    "published": "Thu, 21 Nov 2024 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "3de37355-42db-4d5b-9d30-a322f647806e",
+    "title": "Prepare your extension as we begin testing a new extensions menu",
+    "link": "https://developer.chrome.com/blog/new-extensions-menu-testing?hl=en",
+    "description": "How to prepare your extension for the new extensions menu.",
+    "author": "",
+    "published": "Tue, 19 Nov 2024 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "12c278f5-2515-4183-af82-787e098d91f6",
+    "title": "Solved by CSS: Donuts Scopes",
+    "link": "https://css-tricks.com/solved-by-css-donuts-scopes/",
+    "description": "Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities. Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Juan Diego Rodríguez",
+    "published": "Fri, 22 Nov 2024 13:50:55 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/donut-scope-2.png?resize=1920%2C1080\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "at-rules",
+      "specificity"
+    ]
+  },
+  {
+    "id": "24ff9a03-1a84-4dc1-9477-7a1ea7c6b9df",
+    "title": "Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?",
+    "link": "https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/",
+    "description": "Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for. Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Daniel Schwarz",
+    "published": "Wed, 20 Nov 2024 15:12:34 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "attributes",
+      "dialog",
+      "popover"
+    ]
+  },
+  {
+    "id": "d9c382c4-0f9e-4eb1-bbb3-daf18d831d18",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "7cedc21e-d649-45a6-bf08-17097f1e06b1",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "58969df6-fcb7-42af-ab73-038053175b4d",
+    "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+    "link": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+    "description": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models (LLMs) on your own hardware. Learn more about the updates and how to get involved with this cutting-edge project. The post Llamafile v0.8.14: a new UI, performance gains, and more appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Stephen Hood",
+    "published": "Wed, 16 Oct 2024 13:32:30 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/10/llamafile_8.1.14_release_image.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "llamafile",
+      "open source"
+    ]
+  },
+  {
+    "id": "8b418b80-7116-41c3-95ab-866a459b11e8",
+    "title": "0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together",
+    "link": "https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/",
+    "description": "As AI continues to evolve, so do the threats against it. As these GenAI systems become more sophisticated and widely adopted, ensuring their security and ethical use becomes paramount. 0Din is a groundbreaking GenAI bug bounty program dedicated specifically to help secure GenAI systems and beyond. In this blog, you'll learn about 0Din, how it works, and how you can participate and make a difference in securing our AI future. The post 0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Marco Figueroa",
+    "published": "Thu, 08 Aug 2024 18:39:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/08/BountyPayout.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Artificial Intelligence",
+      "Featured Article",
+      "AI",
+      "bounty",
+      "bug bounty",
+      "bugs",
+      "coding"
+    ]
+  }
+]
