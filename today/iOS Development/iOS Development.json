@@ -1,0 +1,407 @@
+[
+  {
+    "id": "c4a4e142-cc6d-4a75-b50f-21530fd1e058",
+    "title": "Little Known macOS Sequoia System Extensions",
+    "link": "https://tyler.io/2024/09/little-known-macos-sequoia-system-extensions/",
+    "description": "macOS Sequoia has added a surprising number of new and curious warning prompts for third-party apps.",
+    "author": "Tyler",
+    "published": "Wed, 18 Sep 2024 15:33:49 +0000",
+    "image": "https://cdn.tyler.io/wp-content/uploads/2024/09/arc-extension.jpeg",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "1edb3dcc-69de-4850-8a6a-61b2fc2f5ac1",
+    "title": "Here",
+    "link": "https://tyler.io/2024/07/here/",
+    "description": "Yesterday, we entered a new timeline. I don’t know if it’s a better one or a much worse one. But it’s something new.",
+    "author": "Tyler",
+    "published": "Mon, 15 Jul 2024 04:40:31 +0000",
+    "image": "",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "844ed86a-2371-4cea-bb8e-43f9591eb42a",
+    "title": "RUX: JSX-Style Rails View Components - RUBY 517",
+    "link": "https://rubyrogues.com/rux-jsx-style-rails-view-components-ruby-517",
+    "description": "Cameron Dutro joins the Rogues to discuss RUX, a system for managing your View Components in Rails in a similar way to how React uses JSX to manage its Component views. He discusses how it works, how it goes together, and what inspired it. Panel Charles Max Wood Darren Broemmer Luke Stutters Valentino Stoll Guest Cameron Dutro Sponsors Dev Influencers Accelerator Raygun | Click here to get started on your free 14-day trial PodcastBootcamp.io Links GitHub | camertron/rux Primer Design System ViewComponent GitHub | opal/opal Matestack Reimagined Rails views using Matestack with Jonas Jabari Ruby 2.5 allows creating structs with keyword arguments GitHub: Cameron Dutro ( camertron ) Twitter: Кэмерон Дутро ( @camertron ) Picks Cameron- GitHub | camertron/erb2rux Charles- PodcastBootcamp.io Charles- JavaScript Picks Charles- Ready Player Two Charles- Masters of Doom Charles- Top End Devs Darren- Is Ruby Dead Darren- 16 New ML Gems for Ruby Luke- GitHub | jeremyevans/sequel_postgresql_triggers Luke- DEF CON 29 - James Kettle - HTTP2: The Sequel is Always Worse Luke- The Wire  Valentino- Flux Valentino- Add strict_loading mode to optionally prevent lazy loading Contact Charles: Devchat.tv DevChat.tv | Facebook Twitter: DevChat.tv ( @devchattv ) Contact Darren: Twitter: Darren Broemmer ( @DarrenBroemmer ) Contact Luke: GitHub: Luke Stutters ( lukestuts ) Contact Valentino: Doximity Technology Blog Work @ Doximity GitHub: Valentino Stoll ( codenamev ) Twitter: V ( @thecodenamev )",
+    "author": "",
+    "published": "Wed, 06 Oct 2021 06:00:00 -0400",
+    "image": "https://media.devchat.tv/ruby-rogues/RUBY_517.mp3",
+    "source": "https://feeds.feedwrench.com/all-shows-devchattv.rss",
+    "categories": null
+  },
+  {
+    "id": "fbf4e251-9d28-4d6b-b4f7-55fdd010a599",
+    "title": "React Do's and Don't's - RRU 158",
+    "link": "https://reactroundup.com/react-do-s-and-don-t-s-rru-158",
+    "description": "This week the panel discusses several Do's and Don't's for your React Apps that are lessons they've learned building React applications over the years. Panel Jack Herrington Paige Niedringhaus TJ Vantoll Sponsors Dev Influencers Accelerator Raygun | Click here to get started on your free 14-day trial PodcastBootcamp.io Links GitHub | welldone-software/why-did-you-render Picks Jack- Hades Paige- Versailles (TV series) TJ- Land of the Giants Contact Jack: Jack Herrington – YouTube Blue Collar Coder Twitter: Jack Herrington ( @jherr ) Contact Paige: Paige Niedringhaus Paige Niedringhaus – Medium Twitter: Paige Niedringhaus ( @pniedri ) GitHub: Paige Niedringhaus ( paigen11 ) Contact TJ: TJ VanToll's Blog Progress Software KendoReact Twitter: TJ VanToll ( @tjvantoll )",
+    "author": "",
+    "published": "Wed, 06 Oct 2021 06:00:00 -0400",
+    "image": "https://media.devchat.tv/reactroundup/RRU_158.mp3",
+    "source": "https://feeds.feedwrench.com/all-shows-devchattv.rss",
+    "categories": null
+  },
+  {
+    "id": "4191448e-df4b-43ff-84bf-8f3a4a22a37a",
+    "title": "Scalable Continuous Integration for iOS",
+    "link": "https://albertodebortoli.com/2024/01/03/scalable-continuous-integration-for-ios/",
+    "description": "How Just Eat Takeaway.com leverage AWS, Packer, Terraform and GitHub Actions to manage a CI stack of macOS runners.",
+    "author": "Alberto De Bortoli",
+    "published": "Wed, 03 Jan 2024 22:26:50 GMT",
+    "image": "https://albertodebortoli.com/content/images/2024/01/1_SaGE67XSSeflkTKknVOHbg.webp",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": [
+      "CI",
+      "mobile",
+      "iOS",
+      "AWS",
+      "macOS"
+    ]
+  },
+  {
+    "id": "7d136f55-26a9-4ed0-a36e-ae2d0850bb59",
+    "title": "The idea of a Fastlane replacement",
+    "link": "https://albertodebortoli.com/2023/10/29/the-idea-of-a-fastlane-replacement/",
+    "description": "PreludeFastlane is widely used by iOS teams all around the world. It became the standard de facto to automate common tasks such as building apps, running tests, and uploading builds to App Store Connect. Fastlane has been recently moved under the Mobile Native Foundation which is amazing as Google",
+    "author": "Alberto De Bortoli",
+    "published": "Sun, 29 Oct 2023 22:57:38 GMT",
+    "image": "https://images.unsplash.com/photo-1647118762210-393b52e96fbc?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxzdGVsbGFyfGVufDB8fHx8MTY5ODYxODcwNXww\u0026ixlib=rb-4.0.3\u0026q=80\u0026w=2000",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": null
+  },
+  {
+    "id": "93a1e621-ec41-4be2-91fa-6b5ee9cc0f8d",
+    "title": "Magical Particle Effects with SwiftUI Canvas",
+    "link": "https://nerdyak.tech/development/2024/06/27/particle-effects-with-SwiftUI-Canvas.html",
+    "description": "In one of the previous posts, I shared a simple way of Creating particle effects in SwiftUI. The approach is super easy and utilizes the power of viewModifiers, but I would not recommend it for production use as it is performance-greedy when having a bigger amount of particles in place (because each particle is a single view)",
+    "author": "Pavel Zak",
+    "published": "2024-06-27T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "Canvas",
+      "Particles",
+      "BlendMode",
+      "TimelineView"
+    ]
+  },
+  {
+    "id": "47ff8e09-9f0c-4358-9fba-79f11fbd6949",
+    "title": "SwiftUI transitions with distortion effect and Metal Shaders",
+    "link": "https://nerdyak.tech/development/2023/06/16/distortionEffect-with-Metal-shaders-for-better-transitions.html",
+    "description": "This year DubDub is over and I am very excited about the new developer treats that iOS17 will bring us that expand the animation possibilities of SwiftUI. I am talking mainly about the PhaseAnimator, KeyframeAnimator and the ability to utilize Metal shaders on SwiftUI views through modifiers .distortionEffect, .layerEffect, and .colorEffect (docs).",
+    "author": "Pavel Zak",
+    "published": "2023-06-16T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "distortionEffect",
+      "Metal",
+      "Shaders",
+      "transitions"
+    ]
+  },
+  {
+    "id": "484a500a-ebd9-45af-b3fc-8982e9d787ed",
+    "title": "Swift 6 suitable notification observers in iOS",
+    "link": "https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/",
+    "description": "The author discusses challenges managing side projects, specifically updating SignalPath to Swift 6. They encountered errors related to multiple notification observations but resolved them by shifting to publishers, avoiding sendable closure issues. Although the new approach risks background thread notifications, the compiler is satisfied with the adjustments made to the code.",
+    "author": "Toomas Vahter",
+    "published": "Mon, 18 Nov 2024 16:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "iOS",
+      "Swift"
+    ]
+  },
+  {
+    "id": "e1b56c80-e422-4c3a-ab30-19228975b3bc",
+    "title": "AnyClass protocol and Objective-C methods",
+    "link": "https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/",
+    "description": "AnyClass is a protocol all classes conform to and it comes with a feature I was not aware of. But first, how to I ended up with using AnyClass. While working on code using CoreData, I needed a way to enumerate all the CoreData entities and call a static function on them. If that function […]",
+    "author": "Toomas Vahter",
+    "published": "Mon, 04 Nov 2024 16:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "iOS",
+      "Swift",
+      "AnyClass"
+    ]
+  },
+  {
+    "id": "c0471283-e24c-41ef-8b86-8aec278af7bf",
+    "title": "From Engineer to Manager: A Year of Growth and Transformation",
+    "link": "https://benoitpasquier.com/2023/06/from-engineer-to-manager-a-year-of-growth-and-transformation/",
+    "description": "It feels like it was yesterday when I became an engineering manager but it has been almost a year. I want to take this time to reflect on the challenges and learnings from this journey.",
+    "author": "",
+    "published": "Sun, 11 Jun 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "8941d871-a109-42d7-a7d0-af6ee0f74316",
+    "title": "Things to know before becoming an Engineering Manager",
+    "link": "https://benoitpasquier.com/2023/02/things-to-know-before-becoming-an-engineering-manager/",
+    "description": "The journey from individual contributor to engineering manager isn’t always straightforward. Today, I’ll share what it means to become an engineering manager from my point of view, and a few important points to be aware of before making this transition.",
+    "author": "",
+    "published": "Sun, 19 Feb 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "9b68cb15-63d4-4513-a2d5-0d5c0b51f64a",
+    "title": "Introducing Plinky: My Love Letter To Links",
+    "link": "https://fabisevi.ch/2024/05/09/introducing-plinky/",
+    "description": "The post below was written by me, originally featured on the Plinky blog. To celebrate the launch of Plinky you can get 50% off of a yearly subscription by redeeming this offer: plinky.app/offer/REDPANDA There are few words I've ever said more excitedly than these: I want to tell you about my latest app, Plinky. Plinky makes it incredibly easy to do something we do every day, save links for later. You may already have a way to save links, I know I've tried every method under the sun, to the point where I decided to build my own app. That app is Plinky, and today it's available to download on the App Store. Over the last 18 months people have been loving Plinky, because it fixes the same problems I ran into when I've tried to save links in the past.",
+    "author": "Joe Fabisevich",
+    "published": "Thu, 09 May 2024 00:00:00 GMT",
+    "image": "/static/c3d9146a8edf380ee267c61558f3a91b/ec7ce/plinky-screenshots.jpg",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "e4dc80c3-0e98-4c28-90fd-9f91a4ea59b7",
+    "title": "The Reasoning Computer",
+    "link": "https://fabisevi.ch/2023/11/10/the-reasoning-computer/",
+    "description": "The Turing test is dead, and we killed it. The Turing test is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. From the 1940s 1 to the 2010s people programmed computers, and computers could only do what they were programmed to do in a rules-based deterministic manner. Sometimes a person would program the computer and it would do something unexpected, but 100 out of 100 times the computer was doing what it was programmed to do whether the person liked it or not. While there has been experimentation with what today we call AI since the 1950s, those machines were a long ways away from passing the Turing test. Why does using ChatGPT feel more like a conversation with the smartest person you know than a computer? It's because ChatGPT doesn't solve problems deterministically the way a programmed computer does, it solves them probabilistically. 2 ChatGPT demonstrates the ability to think about something in a logical, sensible way, the definition of reasoning. 3 We've created something completely new here, a reasoning computer. 4",
+    "author": "Joe Fabisevich",
+    "published": "Fri, 10 Nov 2023 00:00:00 GMT",
+    "image": "",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "e9f18c82-24ab-4dfd-80e1-7c764f6c7d7a",
+    "title": "iOS Accessibility Values",
+    "link": "https://mobilea11y.com/blog/accessibility-values/",
+    "description": "For iOS, Accessibility values are one of the building blocks of how Accessibility works on the platform, along with traits, labels, hints, and showing/hiding elements. If you’re familiar with WCAG or web accessibility, accessibility values are the value part of WCAG 4.1.2: Name, Role, Value. Values Not every element in your view will have a value - in fact, most won’t. Any element that ‘contains’ some data, data that is not included in the element’s label requires an accessibility value to be set.",
+    "author": "",
+    "published": "Sun, 19 Jun 2022 10:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "614e28ff-4e39-4770-883e-c679b0b90e85",
+    "title": "iOS UIKit Accessibility traits",
+    "link": "https://mobilea11y.com/blog/traits/",
+    "description": "Accessibility traits on iOS is the system by which assistive technologies know how to present your interface to your users. The exact experience will vary between assistive technologies, in some cases they may change the intonation of what VoiceOver reads, or add additional options for navigation, sometimes they will disable that assistive technology from accessing the element, or change how the assistive tech functions. They are the ‘Role’ part of the fundamental rule of making something accessible to screen readers - WCAG’s 4.",
+    "author": "",
+    "published": "Fri, 13 Aug 2021 07:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "a3041e10-16a9-4a79-b39e-1694029fdf08",
+    "title": "Updated Apple Developer Program License Agreement now available",
+    "link": "https://developer.apple.com/news/?id=edbw1dhq",
+    "description": "Attachment 2 of the Apple Developer Program License Agreement has been amended to specify requirements for use of the In-App Purchase API. Please review the changes and accept the updated terms in your account.View the full terms and conditionsTranslations of the updated agreement will be available on the Apple Developer website within one month.",
+    "author": "",
+    "published": "Fri, 06 Dec 2024 07:00:11 PST",
+    "image": "",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "fa374124-358a-4e00-9630-2b4f5cdae907",
+    "title": "Hello Developer: December 2024",
+    "link": "https://developer.apple.com/news/?id=vhtdb937",
+    "description": "In this edition: The year in sessions, activities, apps, and games.Read the full article",
+    "author": "",
+    "published": "Tue, 03 Dec 2024 08:00:42 PST",
+    "image": "https://devimages-cdn.apple.com/wwdc-services/articles/images/632192FB-61E5-4A66-BEB5-C52355095B45/2048.jpeg",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "c5a90432-25d5-4fd9-96bf-c1dc10d140f4",
+    "title": "Building with nightly Swift toolchains on macOS",
+    "link": "https://oleb.net/2024/swift-toolchains/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-03-05T18:54:44Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "9c0f9635-e671-461f-b1ed-461f5401c072",
+    "title": "How the Swift compiler knows that DispatchQueue.main implies @MainActor",
+    "link": "https://oleb.net/2024/dispatchqueue-mainactor/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-02-29T18:54:47Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "6e0490f7-fd75-48da-8070-2bc7a293494b",
+    "title": "SwiftUI views versus modifiers",
+    "link": "https://www.swiftbysundell.com/articles/swiftui-views-versus-modifiers",
+    "description": "What’s really the difference between building a piece of UI as a view versus a modifier, and how to choose between those two solutions?",
+    "author": "",
+    "published": "Mon, 27 Feb 2023 11:05:00 +0100",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "01c93d8f-221f-43d2-aebb-333d6d8dcce1",
+    "title": "Observing the content offset of a SwiftUI ScrollView",
+    "link": "https://www.swiftbysundell.com/articles/observing-swiftui-scrollview-content-offset",
+    "description": "How the content offset of a SwiftUI ScrollView can be observed without bridging to UIKit.",
+    "author": "",
+    "published": "Mon, 30 Jan 2023 12:50:00 +0100",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "50d31907-d356-49a3-883d-d82581f106ff",
+    "title": "Solar Powered Birdhouse",
+    "link": "https://atomicbird.com/blog/birdhouse-solar-power/",
+    "description": "In my last couple of posts I’ve talked about the hardware and software behind my birdhouse camera project. I haven’t previously covered how I’m giving it all enough power to operate, and therein lies a tale. No Power? No Problem If I had a power outlet located anywhere near the bird house, this would have been easy. Pretty much any micro-USB power adapter would plug into the Raspberry Pi, and I’d be set.",
+    "author": "",
+    "published": "Thu, 19 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "5203fb61-2546-4ca6-b676-0803d5cc30da",
+    "title": "Raspberry Pi Birdhouse Software",
+    "link": "https://atomicbird.com/blog/birdhouse-software/",
+    "description": "In my last post I went over the components of the bird house camera I set up this year to get a better look at the local black-capped chickadees. Today I’ll talk about the software that makes it work. Initial Setup Being relatively new to Raspberry Pi, I started off with a full install of Raspbian Deskop. It’s more than I need, since I won’t have anything like a desktop setup, but with a 64GB SD card I wasn’t concerned about the space.",
+    "author": "",
+    "published": "Mon, 09 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "aedef2e8-491d-4432-9a19-c6242c260dc2",
+    "title": "SwiftUI views versus modifiers",
+    "link": "https://www.swiftbysundell.com/articles/swiftui-views-versus-modifiers",
+    "description": "What’s really the difference between building a piece of UI as a view versus a modifier, and how to choose between those two solutions?",
+    "author": "",
+    "published": "Mon, 27 Feb 2023 11:05:00 +0100",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "566e254a-4d2e-4ed2-b56f-316dccb4d31a",
+    "title": "Observing the content offset of a SwiftUI ScrollView",
+    "link": "https://www.swiftbysundell.com/articles/observing-swiftui-scrollview-content-offset",
+    "description": "How the content offset of a SwiftUI ScrollView can be observed without bridging to UIKit.",
+    "author": "",
+    "published": "Mon, 30 Jan 2023 12:50:00 +0100",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "57193fbd-bf01-40bf-91f1-b77d2ee76efb",
+    "title": "What happens when you move a file in git?",
+    "link": "https://swiftrocks.com/what-happens-when-you-move-a-file-in-git",
+    "description": "Recently at work we were considering renaming a folder that contains an enormous amount of files, and we wondered whether or not that would have notable negative consequences for our git repository. Would the repo become considerably larger? Would accessing git history become slower? Or would this be completely fine? After investigated this, I thought the answer was interesting enough that I felt like writing an article about it. To answer this question, we need to briefly explain how git works under the hood. There's also a TL;DR at the bottom if you'd like to skip the entire explanation. How does git handle files? It's somewhat commonly believed that git's commits are diffs, but this is not true. Commits are snapshots of your repository, meaning that when you make changes to a file, git will store a full copy of that file on your repository (there is an important exception, but let's keep it simple for now). This is why you can easily switch between commits and branches no matter how old they are; git doesn't need to \"replay\" thousands of diffs, it just needs to read and apply the snapshot for the commit you're trying to access. Under the hood, git will store all different versions of your files in the .git/objects folder, and this is something we can play with in order to find out what will happen regarding the main question we're trying to answer. Let's make a new git repo and add a file called swiftrocks.txt with the Hello World! contents, and commit it: git init echo 'Hello World!' \u003e swiftrocks.txt git add swiftrocks.txt git commit -m \"Add SwiftRocks\" If you now go to .git/objects, you'll see a bunch of folders with encoded files inside of them. The file we just added is there, but which one? When you add a file to git, git will do the following things: Compress the file with zlib Calculate a SHA1 hash based on the contents Place it in .git/objects/(first two hash characters)/(remaining hash characters) We can locate our file in the objects folder by reproducing this process, and luckily for us, we don't have to code anything to achieve this. We can find out what the resulting hash for a given file would be by running git hash-object: git hash-object swiftrocks.txt 980a0d5f19a64b4b30a87d4206aade58726b60e3 In my case, the hash of the file was 980a0d5f19a64b4b30a87d4206aade58726b60e3, meaning I can find the \"stored\" version of that file in .git/objects/98/0a0d5f19a64b4b30a87d4206aade58726b60e3. If you do this however, you'll notice that the file is unreadable because it's compressed. Similarly to the previous case, we don't have to code anything to de-compress this file! We just need to run git cat-file -p and git will do so automatically for us: git cat-file -p 980a0d5f19a64b4b30a87d4206aade58726b60e3 Hello World! There it is! Let's now make a change to this file and see what happens: echo 'Hello World (changed)!' \u003e swiftrocks.txt git add swiftrocks.txt git commit -m \"Change swiftrocks.txt\" git hash-object swiftrocks.txt cf15f0bb6b07a66f78f6de328e3cd6ea2747de6b git cat-file -p cf15f0bb6b07a66f78f6de328e3cd6ea2747de6b Hello World (changed)! Since we've made a change to the file, the SHA1 of the compressed contents changed, leading to a full copy of that file being added to the objects folder. As already mentioned above, this is because git works primarily in terms of snapshots rather than file diffs. You can even see that the \"original\" file is still there, which is what allows git to quickly switch between commits / branches. git cat-file -p 980a0d5f19a64b4b30a87d4206aade58726b60e3 Hello World! # The original file is still there! Now here's the relevant part: What happens if we change our file back to its original contents? echo 'Hello World!' \u003e swiftrocks.txt git add swiftrocks.txt git commit -m \"Change swiftrocks.txt back\" git hash-object swiftrocks.txt 980a0d5f19a64b4b30a87d4206aade58726b60e3 The hash is the same as before! Even though this is a new commit making a new change to the file, the hashing process allows git to determine that the file is exactly the same as the one we had in previous commits, meaning that there's no need to create a new copy. This will be the case even if you rename the file, because the hash is calculated based on the contents, not the file's name. This is a great finding, but it doesn't fully answer the original question. We now know that renaming files will not result in new copies of those files being added to the objects folder, but what about folders? And how are those files and folders attached to actual commits? How does git handle folders (and commits)? The most useful thing to know right off the bat is that commits are also objects in git. This is why you might have seen other folders / files in .git/objects when first inspecting it; the other files were related to the commits you made when adding the file. Since commits are also objects, we can read them with git cat-file just like with \"regular\" files. Let's do it with our latest commit (26d4302 in my case): git cat-file -p 26d4302 tree 350cef2a8054111568f82dc87bbd683ee14bb1a6 parent 2891fe1393c9e1bff116c1b58a30bcf85e0596a8 author Bruno Rocha 1733136171 +0100 committer Bruno Rocha 1733136223 +0100 Change swiftrocks.txt back As you can see, a \"commit\" is nothing more than a small text file containing the following bits of information: The author of the commit, and the commit message The hash of the parent commit The hash of the commit's \"tree\", containing information about the file system snapshot for that particular commit In this case, what we're interested in is the last point. Luckily for us, trees are also objects in git. Thus, if we want to see what the file system looks like for that particular commit, we just need to run git cat-file -p against the commit's tree hash: git cat-file -p 350cef2a8054111568f82dc87bbd683ee14bb1a6 100644 blob 980a0d5f19a64b4b30a87d4206aade58726b60e3 swiftrocks.txt Like with commits, tree objects are also very simple text files. In this case, the tree states that there's only one file (a blob) in the repository, which is a file called swiftrocks.txt with the 980a0d5f... hash. We've already uncovered that git prevents individual files from being duped, but let's see how this is reflected in the tree object: (made a commit adding some copies, and did cat-file -p on the new commit / tree) 100644 blob 980a0d5f19a64b4b30a87d4206aade58726b60e3 swiftrocks.txt 100644 blob 980a0d5f19a64b4b30a87d4206aade58726b60e3 swiftrocks2.txt 100644 blob 980a0d5f19a64b4b30a87d4206aade58726b60e3 swiftrocks3.txt The tree object references the new copies and their different names, but as expected, their hashes all point to the same underlying object under the hood. If we add folders to our repository, the tree object will include references to other tree objects (related to each of those folders), allowing you to recursively inspect each folder of that commit's snapshot. Here's an example: 100644 blob dd99cb611e0c77b2214392b253ed555fb838d8ee .DS_Store 040000 tree 350cef2a8054111568f82dc87bbd683ee14bb1a6 folder1 040000 tree 11ca8c2fe64b078be34824f071d32a560aba62a7 folder2 100644 blob 980a0d5f19a64b4b30a87d4206aade58726b60e3 swiftrocks.txt As you can see above, the output directly identifies what each hash is so that you know exactly what you're looking at. (An alternative is to run git cat-file -t, which returns the \"type\" for a given object hash.) So what happens if you rename / move an entire folder? The important bit to know here is that tree objects (and commits) are calculated and stored just like regular file (blob) objects, meaning they follow the same rules. This means that if the contents of two folders are exactly the same, git will not create a new tree object for those folders; it will simply reuse the hash it had already computed in the past, just like in the case of files: 040000 tree 350cef2a8054111568f82dc87bbd683ee14bb1a6 folder1 040000 tree 350cef2a8054111568f82dc87bbd683ee14bb1a6 folder1 (copy) However, since tree objects contain references to a folder / file's name, renaming something can result in new tree objects being created for that folder / file's parent tree in order to account for the name change, resulting in new hashes and tree objects recursively all the way up to the root of the repository. This will also be the case when moving files / folders. The above snippet is one example of this. Even though git was able to avoid duplicating the internal contents of folder1, git still needed to generate a new tree object for its parent in order to account for the fact that a new folder called folder1 (copy) exists. If there are more parents up the chain, they would also require new tree objects. Whether or not this would be a problem depends on where exactly the change is being made. If the change is too \"deep\" into the filesystem and / or the affected trees contain a massive number of files then you'd end up with lots of potentially large new tree objects. Still, as you can see, tree objects are quite simple, so you'd need a truly gargantuan repository and / or unfortunate folder setup for this to be an actual problem. If you do have a setup that is bad enough for this to be an issue, then the good thing is that there are ways to improve it. By understanding how tree objects are created and which files change / move more often in your repo, it's possible to optimize the structure of your repository to minimize the \"blast radius\" of any given change. For example, placing files that change very often closer to the root of the repo could reduce the number of trees that would have to be regenerated and their overall size. (Bonus) When are commits not snapshots? At the beginning of this article, I mentioned that there are cases where commits are not snapshots. While this is not particularly relevant for this article, I wanted to briefly cover this as it's an important aspect of how git works. We've seen that git will make copies of your files when you change them, but this introduces a massive problem: If a particular file happens to be really big, then duplicating it for every small change could be disastrous. When this is the case, git will pivot into calculating change deltas instead of making full copies of the file. This feature is called Packfiles, and is something that is automatically managed by git for you. I recommend reading this great write-up by Aditya Mukerjee if you'd like to know more about it. TL;DR Git works in terms of snapshots (for the most part) Git knows that two files are the same and can avoid duplicating them in its internal storage, even if they have different names Similarly, Git can also determine if two folders are the same, regardless of where they are or are named Thus, renaming files or folders will not have any impact on git's internal storage for those files and folders However, git may end up needing to duplicate information regarding parent folders, recursively, to account for naming changes and / or new files In theory this can be an issue if the change happens very \"deeply\" into the file system and / or the parent folders contain massive amounts of files, but you'd need a truly gargantuan repository and / or unfortunate folder setup for this to be an actual problem Understanding how git objects work under the hood allows you to optimize your repository's folders in ways that can prevent too many unnecessary objects from being created Sources / References Julia Evans's many articles on git Unpacking git packfiles Git from the inside out",
+    "author": "Bruno Rocha",
+    "published": "Mon, 2 Dec 2024 13:00:00 GMT+1",
+    "image": "",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "1f58133e-3f81-4f3d-bb84-cb322bfe8cde",
+    "title": "Focus not on the task, but on the problem behind the task",
+    "link": "https://swiftrocks.com/focus-not-on-the-task-but-on-the-problem-behind-the-task",
+    "description": "Consider the following situation: A team is asked by their Product Manager to implement features X, Y, and Z into an existing system. The team then organizes itself and executes the project. After a certain amount of time, they delivered exactly what was asked of them. But then, one of these things happens (choose at least one): The features work only for the happy path, failing miserably at any sort of edge-case The features work as expected, but were designed so badly they are immediately considered tech debt The features work as expected, but are considered useless by the users of the system and end up completely unused (they do not solve those users' problems) What do you think happened here? Is this the Product Manager's fault for giving wrong requests, or the engineering team's fault for not understanding what was asked of them? Some people will say this is the PM's fault, and in some cases it might be true. But the situation I want to cover here is the scenario where this is the engineers' fault, because it's something I've seen countless times throughout my career. The reason the scenario above happened (when the PM is not the one at fault) is because the engineers focused too much on the immediate task they were given, when what they should've done is focus on the problem behind the task, by asking themselves questions such as: What's the context behind this ask? Is this a larger project that includes other features and tasks? Who exactly is asking for this? (Does anyone actually need this?) What problem are these users facing that led to this ask? Did someone attempt to solve this problem before? What did they try to do? Who is going to benefit from this ask being executed? How would they use the solution? It's only after understanding this context that you can consider yourself ready to come up with a technical solution to it. But what happens a lot is that some engineers tend to immediately jump into problem-solving as soon as they are presented with a task, leading to solutions that despite being \"accurate\" when evaluating the task in isolation, completely miss the mark when looking at the bigger picture. In short, the issue was that the engineers in that situation had too much tunnel vision. Understanding the context behind tasks allows you to come up with a solution that fits the bigger picture, making it possible not only to solve your users' problems, but also to do so in a way that is clean, scalable, easy to maintain, and that benefits everyone (as opposed to being beneficial to you and your team, but a pain in the ass for everyone else in the company). In The Staff Engineer's Path, Tanya Reilly describes this as the Local vs Global Maxima problem, where the Local maxima means focusing on what's good for you or your team in an individual sense (the tunnel vision situation above), and the Global maxima means focusing on what's good for the company as a whole, regardless of whether or not it would be ideal for you as an individual (the big picture situation). In the book, she presents this idea to argue that this focus and ability to gather context about the bigger picture is a core ability of Staff+ level engineers and a minimum requirement for those aspiring to reach that level. Although I agree with her that only Staff+ engineers should be expected to be masters at this, I do also believe that this is something everyone should attempt to do, regardless of level. Doing so not only improves your knowledge of how your company works and is structured, but also teaches you how to better determine what does and doesn't matter when trying to solve a particular problem, enabling you to be more effective both at coding and at providing value for your company.",
+    "author": "Bruno Rocha",
+    "published": "Mon, 18 Nov 2024 13:00:00 GMT+1",
+    "image": "https://i.imgur.com/BfKDQC5.png",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "84881999-f5ca-4506-b35a-9d1c5b7d2cd4",
+    "title": "307: What's In Our Toolbox: Code \u0026 Design",
+    "link": "http://relay.fm/radar/307",
+    "description": "In the first of a multi-part series sharing the apps that we use to develop software, we discuss the tools we use to write code and design visuals.",
+    "author": "Marco Arment and David Smith",
+    "published": "Thu, 05 Dec 2024 17:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar307.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  },
+  {
+    "id": "e6572d24-0030-43dd-b47a-78615d0e8fd0",
+    "title": "306: Overcast \"Wrapped\"",
+    "link": "http://relay.fm/radar/306",
+    "description": "Adding listening stats and a history feature to Overcast Premium.",
+    "author": "Marco Arment and David Smith",
+    "published": "Wed, 20 Nov 2024 16:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar306.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  },
+  {
+    "id": "035aaad1-7c54-4eef-902f-b56b3c611736",
+    "title": "SwiftUI Charts Plotting Functions",
+    "link": "https://useyourloaf.com/blog/swiftui-charts-plotting-functions/",
+    "description": "In iOS 18 Apple added function plotting to the SwiftUI Charts framework. Function Plotting Both the LinePlot and AreaPlot charts accept a function to graph. The function accepts a Double and returns a Double. For example: Chart { LinePlot(x: \"x\", y: \"y\") { x in x * x } } .chartYAxisLabel(\"y = x * x\") Another example, with a range applied to the x-axis (you can also apply the domain parameter directly to the LinePlot method): Chart { LinePlot(x: \"x\", y: \"y\") { sin($0) } } .chartXScale(domain: -15...15) .chartYAxisLabel(\"y = sin(x)\") Note: Apple’s documentation mentions that for x values where the function is undefined or infinity you should return Double.nan or Double.infinity: Chart { LinePlot(x: \"x\", y: \"y\", domain: -5...5) { x in guard x != 0 else { return .nan } return 1 / x } } .chartYAxisLabel(\"y = 1/x\") .clipped() An area plot of a single function fills the area between the function and zero: Chart { AreaPlot(x: \"x\", y: \"y\") { sin($0) } } .chartXScale(domain: -15...15) .chartYAxisLabel(\"y = sin(x)\") If you give an area plot two functions for the starting and ending y value, it fills the area between the two functions: Chart { AreaPlot(x: \"x\", yStart: \"x\", yEnd: \"sin(x)\") { x in (yStart: sin(x), yEnd: sin(x + .pi)) } } Where I think function plotting becomes useful is when we’re visualising data that we expect to approximate a function. Adding an area and line plot of the function we can highlight the comparison between this bar chart and the expected results: Chart { AreaPlot(x: \"x\", y: \"y\") { $0 * $0 } .foregroundStyle(.gray) .opacity(0.5) LinePlot(x: \"x\", y: \"y\") { $0 * $0 } ForEach(data) { item in BarMark( x: .value(\"Sample\", item.score), y: .value(\"Result\", item.count) ) } } Learn More WWDC24 Swift Charts: Vectorized and function plots SwiftUI Charts Plotting Functions was originally posted 24 Nov 2024 on useyourloaf.com. Black Friday Sale! Save 20% off Modern Auto Layout",
+    "author": "",
+    "published": "Sun, 24 Nov 2024 13:33:26 +0000",
+    "image": "https://useyourloaf.com/blog/swiftui-charts-plotting-functions/001.png",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "36cac77f-377c-4700-847d-37d64d7c5c26",
+    "title": "Automatic Trait Tracking",
+    "link": "https://useyourloaf.com/blog/automatic-trait-tracking/",
+    "description": "In iOS 18, UIKit automatically tracks when you access a trait, removing the need to manually register for trait change notifications. Automatic Trait Tracking (iOS 18) In iOS 18, UIKit supports automatic trait tracking in layout update methods in views and view controllers. See the Apple documentation for the full list of supported methods. It includes UIView methods like layoutSubviews(), updatesConstraints(), and draw(CGRect). Supported UIViewController methods include viewWillLayoutSubviews(), updateViewConstraints(), and the updateConfiguration methods for buttons, collection and table view cells. Any time UIKit calls one of these methods it notes which traits you access in the method. Then when one of those traits changes it automatically invalidates the view using setNeedsLayout, setNeedsUpdateConstraints, setNeedsDisplay, or setNeedsUpdateConifguration, as appropriate. This removes the need to manually register for trait changes. For example, I have a UIView subclass that overrides draw(CGRect). My view draws a box, inside the view bounds. When the user chooses one of the accessibility sizes of dynamic type I want to increase the size of my box: final class SquareView: UIView { override func draw(_ rect: CGRect) { var scale = 0.3 if traitCollection.preferredContentSizeCategory.isAccessibilityCategory { scale = 0.6 } let width = bounds.width * scale let height = bounds.height * scale let startX = (bounds.width / 2) - (width / 2) let startY = (bounds.height / 2) - (height / 2) let path = UIBezierPath() path.move(to: CGPoint(x: startX, y: startY)) path.addLine(to: CGPoint(x: startX, y: startY + height)) path.addLine(to: CGPoint(x: startX + width, y: startY + height)) path.addLine(to: CGPoint(x: startX + width, y: startY)) path.addLine(to: CGPoint(x: startX, y: startY)) UIColor.blue.setStroke() UIColor.blue.setFill() path.stroke() path.fill() } } The draw(CGRect) method checks the preferredContentSizeCategory trait before drawning the box. Before iOS 18, I need to add the view initializers and register for content size category trait changes and then call setNeedsDisplay to trigger a new call to draw(CGRect): // pre-iOS 18 override init(frame: CGRect) { super.init(frame: frame) setupView() } required init?(coder: NSCoder) { super.init(coder: coder) setupView() } private func setupView() { registerForTraitChanges([ UITraitPreferredContentSizeCategory.self ], action: #selector(contentSizeChanged)) } @objc private func contentSizeChanged() { setNeedsDisplay() } In iOS 18, that’s no longer necessary. UIKit registers that I’m accessing the preferredContentSizeCategory trait in draw(CGRect) and automatically calls setNeedsDisplay anytime it changes. Learn More WWDC24 What’s new in UIKit Apple Documentation - Automatic trait tracking Registering For Trait Changes Automatic Trait Tracking was originally posted 11 Nov 2024 on useyourloaf.com. Black Friday Sale! Save 20% off Modern Auto Layout",
+    "author": "",
+    "published": "Mon, 11 Nov 2024 09:42:15 +0000",
+    "image": "",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "663dca4e-9a9e-4845-86ce-c15a2d016822",
+    "title": "Harris for President",
+    "link": "https://inessential.com/2024/10/31/harris_for_president.html",
+    "description": "Donald Trump is a gross villain and a traitor to our country. He’s a convicted felon, adjudicated rapist, and head of a criminal organization; he works with criminals and he pardons criminals; he’s a narcissist and violent insurrectionist, racist and misogynist; he’s the master of lies and corruption and self-serving. He plans to rule as a fascist dictator, and this time has the backing to do so, for the benefit of him and his ultra-wealthy friends. Not for you. For everybody else, the various enemies within — everybody who isn’t a straight white male who goes along with the program — there will be concentration camps, deportation, prison, and rumors and threats of each. There will be more deaths in hospital parking lots. I have voted for Kamala Harris. I ask you to vote for her too. I happen to think Harris would be very good, possibly even great, as president. But it hardly matters! Voting for her is how we stop this. And we have to stop this.",
+    "author": "",
+    "published": "Thu, 31 Oct 2024 13:04:03 -0700",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "a5f0868f-6fb4-4f3f-b6db-8e0a19f9b2d6",
+    "title": "Seattle Xcoders 20th Anniversary Meetup",
+    "link": "https://inessential.com/2024/10/16/seattle_xcoders_20th_anniversary_meetup.html",
+    "description": "This Thursday, Oct. 17, 2024, is the 20th anniversary of the Seattle Xcoders! We’d love to see you there, at 7 pm at Bale Breaker and Yonder Cider taproom in Ballard. Everyone is welcome! It’s not just for people who write code — it’s for designers, testers, support folks, and everyone who helps make Apple-ecosystem apps. Even if you just like those kinds of apps and like talking about them, come join us! We’re usually outside by these propane fire things, but I’m not sure this time — we might have a room or some area or something. We should be easy to find, at any rate. It’s not actually a meeting with presentations — it’s just hanging out and talking. Which we do every first, third, and fifth Thursday (you can subscribe to our calendar). One of these days we’ll get back to presentations — but the social part is valuable, and so we keep it up. PS Looks like the food truck is Impeckable Chicken, which I’ve heard good things about. :) PPS I’m usually easy to spot: quite well into middle age, with nothing like the amount of hair I once had. Black jeans, usually a black sweatshirt. Glasses. Doc Martens. Not tall.",
+    "author": "",
+    "published": "Wed, 16 Oct 2024 19:13:25 -0700",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  }
+]
