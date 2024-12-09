@@ -1,0 +1,27 @@
+{
+  "id": "f0065f91-115f-4674-9e2f-3e0809b82c3e",
+  "title": "Prototyping with data, advanced operations \u0026 Lottie animations",
+  "link": "https://uxdesign.cc/prototyping-with-data-advanced-operations-lottie-animations-a7822744ce67?source=rss----138adf9c44c---4",
+  "description": "If you thought ProtoPie was powerful before, get ready to unlock its full potential. Discover 3 more hacks to enhance your interactions…Continue reading on UX Collective »",
+  "author": "Nicolás Del Real",
+  "published": "Fri, 06 Dec 2024 11:46:02 GMT",
+  "source": "https://uxdesign.cc/feed",
+  "categories": [
+    "ux",
+    "prototyping",
+    "design",
+    "interaction-design",
+    "ui"
+  ],
+  "byline": "Nicolás Del Real",
+  "length": 1032,
+  "excerpt": "If you thought ProtoPie was powerful before, get ready to unlock its full potential. Discover 3 more hacks to enhance your interactions with advanced string formulas, dynamic customization with data…",
+  "siteName": "UX Collective",
+  "favicon": "https://miro.medium.com/v2/resize:fill:256:256/1*dn6MbbIIlwobt0jnUcrt_Q.png",
+  "text": "If you thought ProtoPie was powerful before, get ready to unlock its full potential. Discover 3 more hacks to enhance your interactions with advanced string formulas, dynamic customization with data, and squishy animated unicorns.We left our beloved friend Figma behind a while ago. And don’t get me wrong, I love that tool. I use it nearly every day, in almost all my projects. As mentioned, the tool is great for 99% of our daily design needs. If you are still unsure whether you’ve reached this tool’s limits, I suggest you first read my previous article.Speaking on Prototyping. To address that 1% Figma still can’t handle, we need a dedicated tool like Protopie to do our craft. We managed to set the foundational logic in our previous article. Here is the output so far.Something that could take several hours and heavy hacking in Figma, took us just a few minutes with 2 variables and custom formulas in Protopie. Today we go even further into data-driven interactions and logic. We will start customizing our help and error…",
+  "image": "https://miro.medium.com/v2/resize:fit:1100/1*yHvl8kcb4JJm34KCWPKJqg.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle\u003e\u003cdiv\u003e\u003cdiv\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003ca href=\"https://nicodelrealdesign.medium.com/?source=post_page---byline--a7822744ce67--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"Nicolás Del Real\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*c9pKoq4ggSftbG1gxc6vfg.png\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003ca href=\"https://uxdesign.cc/?source=post_page---byline--a7822744ce67--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"UX Collective\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*mDhF9X4VO0rCrJvWFatyxg.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e\u003cp id=\"80be\"\u003eIf you thought ProtoPie was powerful before, get ready to unlock its full potential. Discover 3 more hacks to enhance your interactions with advanced string formulas, dynamic customization with data, and squishy animated unicorns.\u003c/p\u003e\u003cfigure\u003e\u003c/figure\u003e\u003cp id=\"eb63\"\u003eWe left our beloved friend \u003cstrong\u003eFigma\u003c/strong\u003e behind a while ago. And don’t get me wrong, I love that tool. I use it nearly every day, in almost all my projects. As mentioned, the tool is great for 99% of our daily design needs. If you are still unsure whether you’ve reached this tool’s limits, I suggest you first read my previous article.\u003c/p\u003e\u003cp id=\"fb44\"\u003eSpeaking on Prototyping. To address that 1% Figma still can’t handle, we need a dedicated tool like Protopie to do our craft. We managed to set the foundational logic in our previous article. Here is the output so far.\u003c/p\u003e\u003cp id=\"fc29\"\u003eSomething that could take several hours and heavy hacking in Figma, took us just a few minutes with 2 variables and custom formulas in Protopie. Today we go even further into data-driven interactions and logic. We will start customizing our help and error…\u003c/p\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2024-12-06T11:46:02.153Z",
+  "modifiedTime": null
+}
