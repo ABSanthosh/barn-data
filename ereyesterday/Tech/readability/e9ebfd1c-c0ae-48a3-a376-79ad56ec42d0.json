@@ -1,0 +1,21 @@
+{
+  "id": "e9ebfd1c-c0ae-48a3-a376-79ad56ec42d0",
+  "title": "Just: Just a Command Runner",
+  "link": "https://just.systems/",
+  "description": "Comments",
+  "author": "",
+  "published": "Sat, 07 Dec 2024 17:11:32 +0000",
+  "source": "https://news.ycombinator.com/rss",
+  "categories": null,
+  "byline": "",
+  "length": 58,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "github manual discord crates.io 用户指南",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\n    \u003ca href=\"https://github.com/casey/just\"\u003e\u003c/a\u003e\n    \u003ca href=\"https://just.systems/man/en/\"\u003e\u003c/a\u003e\n    \u003ca href=\"https://discord.gg/ezYScXR\"\u003e\u003c/a\u003e\n    \u003ca href=\"https://crates.io/crates/just\"\u003e\u003c/a\u003e\n\n    \u003ca href=\"https://github.com/casey/just\"\u003egithub\u003c/a\u003e\n    \u003ca href=\"https://just.systems/man/en/\"\u003emanual\u003c/a\u003e\n    \u003ca href=\"https://discord.gg/ezYScXR\"\u003ediscord\u003c/a\u003e\n    \u003ca href=\"https://crates.io/crates/just\"\u003ecrates.io\u003c/a\u003e\n\n    \n    \u003ca href=\"https://just.systems/man/zh/\"\u003e用户指南\u003c/a\u003e\n    \n    \n  \n\n\n\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
