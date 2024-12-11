@@ -1,0 +1,453 @@
+[
+  {
+    "id": "86dfd1cd-dc81-4b8a-a73d-eafe122abbe5",
+    "title": "RaspController is my go-to Android app for tinkering with my Raspberry Pi",
+    "link": "https://www.xda-developers.com/raspcontroller-guide/",
+    "description": "If you're into building DIY projects with the Raspberry Pi, RaspController will make a fine addition to your app suite",
+    "author": "Ayush Pande",
+    "published": "Mon, 09 Dec 2024 01:00:20 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/12/raspcontroller-2.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Single-Board Computers",
+      "Raspberry Pi"
+    ]
+  },
+  {
+    "id": "fec0e4d0-3b9d-4ff8-be21-eccd7f3e1c97",
+    "title": "Quantum computing could help us build a brighter (and greener) future",
+    "link": "https://www.xda-developers.com/the-drive-quantum-computing/",
+    "description": "Looking to the future of computing",
+    "author": "Rich Edmonds",
+    "published": "Mon, 09 Dec 2024 00:30:19 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/11/the-drive-server.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Other  Computing Devices",
+      "The Drive",
+      "Editor Columns"
+    ]
+  },
+  {
+    "id": "8f39c7e3-6b76-4dc1-9a44-730ad904b3b4",
+    "title": "AAA: Android Faithful is Your New Android Home! - With Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635b",
+    "description": "All About Android fans, listen up! If you were disappointed when the show went away, then you'll be happy to know that Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman brought the AAA fun to a new home called Android Faithful. Each week, the AF crew discusses the latest news, hardware, and apps for the world's biggest mobile operating system. Special guests, from journalists, to industry big wigs, to execs from inside the Google mothership join the crew to detail the ongoing evolution of Google's Android. Join us and be a part of the Android Faithful! Hosts: Jason Howell, Ron Richards, and Huyen Tue Dao Co-Host: Mishaal Rahman Visit AndroidFaithful.com or search your favorite podcatcher to subscribe!",
+    "author": "TWiT",
+    "published": "Tue, 02 Jan 2024 14:45:00 PST",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa_635b/aaa_635b.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android"
+    ]
+  },
+  {
+    "id": "a69a3568-14da-49d5-854d-123bbe5ad538",
+    "title": "AAA 635: Hall of Fame - A long awaited look at the very best Android hardware and apps since the beginning",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635",
+    "description": "Sharing news regarding the future of All About Android. Huyen just got her Pixel Tablet! She shares her thoughts. Android Hardware Hall of Fame. Android App Hall of Fame. All About All About Android. Read our show notes here: https://bit.ly/42V2ymq Hosts: Jason Howell, Ron Richards, Huyen Tue Dao, and Florence Ion Subscribe to All About Android at https://twit.tv/shows/all-about-android. Get episodes ad-free with Club TWiT at https://twit.tv/clubtwit Sponsor: decisions.com/twit",
+    "author": "TWiT",
+    "published": "Tue, 20 Jun 2023 21:59:06 PDT",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa0635/aaa0635.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android",
+      " all about android",
+      " Jason Howell",
+      " Ron Richards",
+      " Florence Ion",
+      " huyen tue dao",
+      " all about android last episode",
+      " all about android final episode",
+      " all about android dead",
+      " pixel tablet first impressions",
+      " pixel tablet hands on",
+      " pixel tablet preview"
+    ]
+  },
+  {
+    "id": "f0e22be4-bcc8-4fc3-90c1-a20ee3b9c80f",
+    "title": "Are MODULAR smartphones BACK? This is the HMD Fusion! #smartphone #HMDFusion #android",
+    "link": "https://www.youtube.com/watch?v=nSnoxHRgRBI",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2024-12-06T18:00:37+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "6150173f-c226-4b4b-a489-7cad4a83c846",
+    "title": "The Pixel 9 feels fresh while the iPhone 16 stays familiar. #Pixel9 #iPhone16 #shorts",
+    "link": "https://www.youtube.com/watch?v=J9k66SJJuJc",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2024-12-05T18:55:46+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "836eef61-4f5d-42ee-8d57-d3179ef27762",
+    "title": "Fin Part Deux",
+    "link": "http://podcasts.androidauthority.com/fin-part-deux",
+    "description": "This is the last episode of the second season of the Android Authority podcast. That sucks. But that doesn’t mean we don’t have tech to talk about. Adam, Joe, and Jonathan gather for one last time to talk about Motorola’s upcoming flagship, and care for your RAZR. LG is keeping the headphone jack flame a’burnin. And finally, we look back on some other operating systems that have come and gone over the years. RIP webOS, RIP Windows Phone, RIP #AAPodcast Podcast Pick: Real Graphene Power Bank 10,000 mAh Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 30, 2020 Topics Huawei rep allegedly says company won't use Google apps even if it can Graphene batteries: What are they and why are they a big deal? Motorola says 'bumps and lumps are normal' on Razr screen Motorola tipped to unveil new flagship smartphone at MWC 2020 LG headphone jacks are sticking around, but need your financial support Android alternatives that tried and failed over the last decade The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Check out the other podcasts in our network!The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Fri, 31 Jan 2020 23:48:40 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/aapod_fin_part_deux_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": null
+  },
+  {
+    "id": "569675b1-059f-4336-bd71-3c79022f5724",
+    "title": "LG’s promise and Google’s experiments",
+    "link": "http://podcasts.androidauthority.com/lgs-promise-and-googles-experiments",
+    "description": "We have a ton of housecleaning to take care of right off the bat including the Moto RAZR, Whatsapp’s dark mode, MWC 2020 and more. Plus, we take a look at LG’s implementation of Android 10 on the LG V50 with dual screen. Speaking of dual screens, Microsoft has some thoughts on how to implement dual screens. Google is experimenting with ways to help you use your phone less, and one of our editors wants you to update apps less often. What’s up with that? Podcast Pick: LG G8x Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 23, 2020 Topics Motorola Razr preorders start on January 26 at Verizon Many 2020 Chromebooks will see 8 years of updates WhatsApp dark mode is finally here (for some users) MWC 2020: What to expect Who is BBK, the world's second largest phone manufacturer? Juan Carlos Bagnell - LG V50 on Android 10: New OS, New UX, AND A DESKTOP MODE! Microsoft outlines dual screen possibilities with Surface Duo These Google experimental apps help you develop healthy phone habits Shadowgun War Games is mobile games' version of Overwatch Why you might want to disable automatic app updates on the Play Store The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Special appearance by:Juan Carlos Bagnell - @Somegadgetguy www.somegadgetguy.com Check out the other podcasts in our network! The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Sat, 25 Jan 2020 00:30:34 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/Aapod_week4_2020_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": [
+      "microsoft",
+      "moto",
+      "Duo",
+      "surface",
+      "motorola",
+      "2020",
+      "lg",
+      "vivo",
+      "mwc",
+      "razr",
+      "Chromebooks",
+      "WhatsApp",
+      "v50",
+      "oneplus",
+      "mwc2020",
+      "bbk"
+    ]
+  },
+  {
+    "id": "06c09214-5b57-4e29-9b33-5922fd093727",
+    "title": "New AI features and more for Android and Pixel",
+    "link": "https://blog.google/products/pixel/pixel-android-ai-updates-december-2024/",
+    "description": "Learn more about the latest Pixel and Android updates, featuring the latest in Google AI innovation.",
+    "author": "",
+    "published": "Thu, 05 Dec 2024 17:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/12-05-24_Collection_Hero.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Android",
+      "Pixel",
+      "AI"
+    ]
+  },
+  {
+    "id": "7742ac99-25ca-4827-a411-fd80137d2d3f",
+    "title": "Android’s Expressive Captions uses AI to bring emotion to captions",
+    "link": "https://blog.google/products/android/google-android-expressive-captions/",
+    "description": "The new Live Caption feature gives you the full picture of emotion in what’s being said on your device.",
+    "author": "Angana GhoshDirector, Product ManagementAndroid",
+    "published": "Thu, 05 Dec 2024 17:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ExpressiveCaptions_Hero-Thumbna.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Accessibility",
+      "Android"
+    ]
+  },
+  {
+    "id": "253d3cc7-0b01-422b-97a3-2290f4cacf9c",
+    "title": "One UI 7 doesn't have a backbone, says the Android Police podcast",
+    "link": "https://www.androidpolice.com/one-ui-7-release-android-police-podcast/",
+    "description": "Meanwhile, Android 15 is cookin'",
+    "author": "Jules Wang",
+    "published": "Sun, 08 Dec 2024 23:00:12 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/12/one-ui-7-hands-on-3.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Android Police Podcast",
+      "Operating Systems",
+      "The latest AP Podcast"
+    ]
+  },
+  {
+    "id": "0c5b8f7d-f32d-431b-8c7e-409d1a4defaf",
+    "title": "Apple AirPods 4 review: Android fans have better options",
+    "link": "https://www.androidpolice.com/apple-airpods-4-anc-review/",
+    "description": "Great buds if you're willing to embrace Apple's ecosystem",
+    "author": "David Murphy",
+    "published": "Sun, 08 Dec 2024 23:00:12 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/11/airpods-4-beauty.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Apple",
+      "Wireless Earbuds",
+      "Audio",
+      "Apple",
+      "Wireless Earbuds"
+    ]
+  },
+  {
+    "id": "1cc30364-9d9e-4c10-8c6e-5ba92eb72973",
+    "title": "The Pirate Queen: Interview With Lucy Liu \u0026 Eloise Singer",
+    "link": "https://sites.libsyn.com/23914/the-pirate-queen-interview-with-lucy-liu-eloise-singer",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar and Nick Sutrich chat with Hollywood legend Lucy Liu and Pirate Queen director Eloise Singer about their amazing new VR game The Pirate Queen: A Forgotten Legend... Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu",
+    "author": "Android Central",
+    "published": "Thu, 28 Mar 2024 22:50:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_280324_MIXDOWN_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "gaming",
+      "quest",
+      "Android",
+      "Meta",
+      "VR",
+      "lucyliu",
+      "thepiratequeen",
+      "eloisesinger"
+    ]
+  },
+  {
+    "id": "447366b8-e435-4d8c-8d1d-6ebd3b454c82",
+    "title": "Could The US BAN TikTok?!",
+    "link": "https://sites.libsyn.com/23914/could-the-us-ban-tiktok",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar, Nick Sutrich, and Jerry Hildenbrand discuss just how good the Honor Magic 6 Pro's camera really is, why more people are buying the Galaxy S24 Plus, why US lawmakers want TikTok banned, how Apple acquiring DarwinAI could give Google Gemini some serious competition, and more! Links:  The Honor Magic 6 Pro camera seriously blows me away - Android Central The Galaxy S24 Plus is a hit, and I'm not surprised - Android Central Why US lawmakers want TikTok banned - Android Central Apple's latest AI acquisition might give Google Gemini some serious competition - Android Central Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu @gbhil",
+    "author": "Android Central",
+    "published": "Mon, 18 Mar 2024 17:00:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_150324_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "iPhone",
+      "Google",
+      "honor",
+      "Galaxy",
+      "microsoft",
+      "Apple",
+      "samsung",
+      "AI",
+      "Android",
+      "Gemini",
+      "TikTok",
+      "darwinai"
+    ]
+  },
+  {
+    "id": "7c6e8067-cc68-4d50-a9c5-3540e867bcd6",
+    "title": "First 11 things to do with your new Google Pixel Watch 3",
+    "link": "https://www.androidcentral.com/wearables/google-pixel-watch-3-tips-and-tricks",
+    "description": "We run through everything you need to know after unboxing your Pixel Watch 3, from Fitbit tricks and Pixel exclusives to developer options.",
+    "author": "",
+    "published": "Sun, 08 Dec 2024 17:19:08 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/9PFRDmhKzWyC74XwvEuc3o.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Wear Os",
+      "Wearables"
+    ]
+  },
+  {
+    "id": "4c552f8b-7e05-4820-949b-4eec11c1997c",
+    "title": "Google Wallet adds digital ID support in yet another US state",
+    "link": "https://www.androidcentral.com/apps-software/google-wallet-adds-digital-id-support-in-yet-another-us-state",
+    "description": "You can now add New Mexico state IDs to your digital wallet.",
+    "author": "",
+    "published": "Sun, 08 Dec 2024 08:43:34 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/MVmCk9Ug8dRT4g9HQBSgYX.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Apps \u0026amp; Software"
+    ]
+  },
+  {
+    "id": "34c68e0d-22d2-4110-af40-c264fbbae241",
+    "title": "Google’s extended Pixel updates prove just how important Tensor is",
+    "link": "https://www.androidauthority.com/extended-pixel-updates-tensor-3506437/",
+    "description": "It might not top benchmarks, but Tensor helps Google lead the way with Android updates.",
+    "author": "Robert Triggs",
+    "published": "Sun, 08 Dec 2024 17:00:36 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2023/04/pixel-6a-vs-7-vs-7-pro-1-scaled.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Features",
+      "Google",
+      "Google Tensor"
+    ]
+  },
+  {
+    "id": "be10080e-1732-47ff-b5f0-be8a5b186f29",
+    "title": "Some Galaxy S25 Ultra models could get a healthy performance boost",
+    "link": "https://www.androidauthority.com/samsung-galaxy-s25-ultra-performance-upgrade-3506743/",
+    "description": "It sounds like two out of the three expected S25 Ultra models could offer more RAM than before.",
+    "author": "Hadlee Simons",
+    "published": "Sun, 08 Dec 2024 16:51:13 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-homescreen-standing.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Samsung",
+      "Samsung Galaxy S25"
+    ]
+  },
+  {
+    "id": "5c1e5c62-985e-40fe-a585-04851f5323e3",
+    "title": "Board Kings Free Rolls – Updated Every Day!",
+    "link": "https://www.talkandroid.com/480056-board-kings-free-rolls-updated-daily/",
+    "description": "Run out of rolls for Board Kings? Find links for free rolls right here, updated daily!",
+    "author": "Nivenka Stanton",
+    "published": "Sun, 08 Dec 2024 17:39:22 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "ec55efcf-30d9-47dd-be96-7b6eb0a0560a",
+    "title": "Coin Tales Free Spins – Updated Every Day!",
+    "link": "https://www.talkandroid.com/478394-coin-tales-free-spins-updated-every-day/",
+    "description": "Tired of running out of Coin Tales Free Spins? We update our links daily, so you won't have that problem again!",
+    "author": "Nivenka Stanton",
+    "published": "Sun, 08 Dec 2024 17:36:58 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "8c069571-592d-46d2-8e57-29a726792593",
+    "title": "Galaxy Tab S8 series new leak reveals almost everything",
+    "link": "https://androidcommunity.com/galaxy-tab-s8-series-new-leak-reveals-almost-everything-20220203/",
+    "description": "February 9 is expected to be an exciting one for Samsung. As it unfolds the Unpacked event with enthusiasm, there will be some devices we would be looking forward to. Of course, the Galaxy S22 flagship series is on everyone’s radar, if you’re someone waiting for a decent, feature-packed Android tablet, you should look out […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:51:26 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Samsung",
+      "Tablets"
+    ]
+  },
+  {
+    "id": "d628184a-5b66-49b9-b82a-eb3225185f7b",
+    "title": "Malicious authenticator app removed from Google Play Store",
+    "link": "https://androidcommunity.com/malicious-authenticator-app-removed-from-google-play-store-20220203/",
+    "description": "Seems like Google Play cannot shave off its curse of hosting undetected malware apps. In a recent development, an authenticator app going by the name 2FA Authenticator remained under the radar for 15 days on the Play Store and more than 10,000 people downloaded the malicious app capable of stealing financial information. Now the app […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:11:31 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Apps",
+      "Google",
+      "Google Play",
+      "malware",
+      "Phones"
+    ]
+  },
+  {
+    "id": "f6d59290-abfe-4c74-8511-ce77d44c3f89",
+    "title": "Best Nothing Phone 2a Plus power banks",
+    "link": "https://phandroid.com/2024/11/30/best-nothing-phone-2a-plus-power-banks/",
+    "description": "Charge your Nothing Phone 2a Plus anywhere and anytime with these fast chargers. The post Best Nothing Phone 2a Plus power banks appeared first on Phandroid.",
+    "author": "Ajit Singh",
+    "published": "Sat, 30 Nov 2024 13:00:30 +0000",
+    "image": "https://m.media-amazon.com/images/I/31PGFXoKUfL.jpg",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Evergreen",
+      "Smartphones",
+      "Nothing",
+      "Nothing Phone 2a Plus"
+    ]
+  },
+  {
+    "id": "d99e8f6f-b517-4885-8b7f-186a6b1243a2",
+    "title": "Best Nothing Phone 2a Plus fast chargers",
+    "link": "https://phandroid.com/2024/11/30/best-nothing-phone-2a-plus-fast-chargers/",
+    "description": "Charge your Nothing Phone 2a Plus quickly with these fast chargers. The post Best Nothing Phone 2a Plus fast chargers appeared first on Phandroid.",
+    "author": "Ajit Singh",
+    "published": "Sat, 30 Nov 2024 12:30:41 +0000",
+    "image": "https://m.media-amazon.com/images/I/312mwS58oyL.jpg",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Evergreen",
+      "Smartphones",
+      "Nothing",
+      "Nothing Phone 2a Plus"
+    ]
+  },
+  {
+    "id": "5b730c53-401b-4b7d-acc0-f7e2a639ca9d",
+    "title": "Top 10 trending phones of week 49",
+    "link": "https://www.gsmarena.com/top_10_trending_phones_of_week_49-news-65660.php",
+    "description": "As we enter the final month of 2024 we have the most frequently seen trio this year on top of our trending chart. The Samsung Galaxy A55 yet again leads from the Galaxy S24 Ultra and Redmi Note 13 Pro. [#InlinePriceWidget, 12824, 1#] The iPhone 16 Pro Max got back to fourth position, while the iQOO 13 was the biggest gainer shooting to fifth position. Redmi Note 13 came in sixth, ahead of the Galaxy A15 in seventh - the two are exactly where we left them last year. The vivo X200 Pro returns to the chart to capture eight, while the Galaxy A35 is once again ninth. The Redmi...",
+    "author": "",
+    "published": "Sun, 08 Dec 2024 23:21:01 +0100",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "b6f62e74-60e4-4994-a8e8-29d58a9714d0",
+    "title": "Deals: Samsung Galaxy S24 Ultra and Z Fold6 on sale, iPad mini (2024) price drops",
+    "link": "https://www.gsmarena.com/deals_samsung_galaxy_s24_ultra_and_z_fold6_on_sale_ipad_mini_2024_price_drops-news-65644.php",
+    "description": "The shopping frenzy over Black Friday is over, now we’re back to our regularly scheduled programming – almost. The holidays are approaching fast and if you haven’t picked up a gift yet, for yourself or others, now is a good time. The Samsung Galaxy S24 Ultra has settled under $1,000 for the base 256GB model, but due to how the current discounts work out, the upgrade to 512GB is kind of pricey. Samsung Galaxy S24 Ultra $350/$300 off Read our review 12/256GB - $950 at...",
+    "author": "",
+    "published": "Sun, 08 Dec 2024 20:17:02 +0100",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "82897c3e-48e8-4926-b2ca-2f440898d90b",
+    "title": "DEAL: Nest Hub Max for $114 Seems Good ($115 Off)",
+    "link": "https://www.droid-life.com/2024/12/06/deal-nest-hub-max-for-114-seems-good-115-off/",
+    "description": "For what’s sure to be a limited time, you can head to Home Depot in person or on its website to snag a Nest Hub Max for just $114. That’s a savings of $115 off the price Google currently has them listed at, making this a very attractive deal. Nest Hub Max has been a … Continued Read the original post: DEAL: Nest Hub Max for $114 Seems Good ($115 Off)",
+    "author": "Tim",
+    "published": "Fri, 06 Dec 2024 23:05:09 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/12/Nest-Hub-Max-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "Google",
+      "Nest Hub Max"
+    ]
+  },
+  {
+    "id": "e6527603-48d5-41d6-9b59-db0f89224203",
+    "title": "US Passports, More State IDs to Go Digital in Latest Google Wallet Update (Updated)",
+    "link": "https://www.droid-life.com/2024/12/06/us-passports-more-state-ids-to-go-digital-in-latest-google-wallet-update/",
+    "description": "Google announced today that users of Google Wallet will soon be able to uploaded digital versions of US passports, plus residents of Iowa, New Mexico and Ohio are soon getting support to upload digital copies of their IDs and licenses. This news quickly follows Wallet’s support for uploading California licenses. For those who plan to … Continued Read the original post: US Passports, More State IDs to Go Digital in Latest Google Wallet Update (Updated)",
+    "author": "Tim",
+    "published": "Fri, 06 Dec 2024 18:50:04 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/09/google-wallet-icon-copy-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Apps",
+      "News",
+      "Android",
+      "Google",
+      "Google Wallet"
+    ]
+  }
+]
