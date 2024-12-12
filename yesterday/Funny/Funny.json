@@ -1,0 +1,390 @@
+[
+  {
+    "id": "4d826e60-8713-4767-bab4-46e2c2db1f7b",
+    "title": "Making Tea",
+    "link": "https://xkcd.com/3022/",
+    "description": "",
+    "author": "",
+    "published": "Mon, 09 Dec 2024 05:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/making_tea.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "cbcd1115-f86a-4ec1-a73c-0e97859f9bdc",
+    "title": "Seismologists",
+    "link": "https://xkcd.com/3021/",
+    "description": "",
+    "author": "",
+    "published": "Fri, 06 Dec 2024 05:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/seismologists.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "14b9d5b1-f1ea-448f-9a3e-923ce268b5b7",
+    "title": "Sunday Secrets",
+    "link": "https://postsecret.com/2024/12/08/sunday-secrets-537/",
+    "description": "The post Sunday Secrets appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sun, 08 Dec 2024 00:07:00 +0000",
+    "image": "https://i0.wp.com/postsecret.com/wp-content/uploads/2024/12/trumpp.jpg?resize=526%2C366\u0026ssl=1",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "102c0cc5-1763-4c82-b618-32679701697c",
+    "title": "Secrets and Cars",
+    "link": "https://postsecret.com/2024/12/08/secrets-and-cars/",
+    "description": "I’ve been called, “the most trusted stranger in America” and it’s been written that no other living person has seen more secrets than me. I don’t know if either of those claims is true, but I do know I don’t get to see all the secrets – I have a daughter. Years ago, I was […] The post Secrets and Cars appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sun, 08 Dec 2024 00:05:00 +0000",
+    "image": "https://i0.wp.com/postsecret.com/wp-content/uploads/2024/11/Screen-Shot-2024-11-16-at-5.38.49-PM.png?resize=526%2C363\u0026ssl=1",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "f1ac27c4-98fe-49a3-9896-d1ec7fd58536",
+    "title": "Clearly, I come by it honestly. And by “it” I mean “playful insanity”.",
+    "link": "https://thebloggess.com/2024/12/03/clearly-i-come-by-it-honestly-and-by-it-i-mean-playful-insanity/",
+    "description": "Five years ago Victor brought home a battered old bear named Mathew McClawnaughey because he knows I don’t like flowers: And I gave the bear a small makeover and renamed her Ruth Bader Ginsbear, because obviously: And then Ruth sat beside me through good times and bad and waved at fascinated neighborhood children during theContinue reading \"Clearly, I come by it honestly. And by “it” I mean “playful insanity”.\"",
+    "author": "thebloggess",
+    "published": "Tue, 03 Dec 2024 20:24:53 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  },
+  {
+    "id": "eabcdda4-a5f0-48ab-a03f-26f2773d6c96",
+    "title": "This is not a drug blog. It’s just a weird coincidence, mostly.",
+    "link": "https://thebloggess.com/2024/11/26/this-is-not-a-drug-blog-its-just-a-weird-coincidence-mostly/",
+    "description": "First off, bless you for your feedback on my last post because it made me feel like I wasn’t the only idiot to accidentally OD on gummies. Secondly, if you read here you already know that I take ketamine injections once every month or two (at a medical clinic) to help treat my treatment-resistant depressionContinue reading \"This is not a drug blog. It’s just a weird coincidence, mostly.\"",
+    "author": "thebloggess",
+    "published": "Tue, 26 Nov 2024 22:01:52 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  },
+  {
+    "id": "6b0111c3-5082-4f46-b31e-e2205b27d225",
+    "title": "A funeral for voicemail",
+    "link": "http://theoatmeal.com/comics/rip_voicemail?no_popup=1",
+    "description": "Is voicemail dead?View on my website",
+    "author": "Matthew Inman",
+    "published": "2024-11-21T20:04:42+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/rip_voicemail_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "2deb3683-a9e5-486a-b477-241ddf61fbc6",
+    "title": "Therapy is now horrible",
+    "link": "http://theoatmeal.com/blog/horrible_therapist_game?no_popup=1",
+    "description": "Intrusive thoughts and more.View on my website",
+    "author": "Matthew Inman",
+    "published": "2024-10-10T17:56:32+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/horrible_therapist_game_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "3e6d8e16-e675-424a-b842-fb10632a9112",
+    "title": "CodeSOD: While This Works",
+    "link": "https://thedailywtf.com/articles/while-this-works",
+    "description": "Rob's co-worker needed to write a loop that iterated across every element in an array. This very common problem, and you'd imagine that a developer would use one of the many common solutions to this problem. The language, in this case, is JavaScript, which has many possible options for iterating across an array. Perhaps that buffet of possible options was too daunting. Perhaps the developer thought to themselves, \"a for each loop is easy mode, I'm a 10x programmer, and I want a 10x solution!\" Or perhaps they just didn't know what the hell they were doing. Regardless of why, this is the result: try { var index = 0; while (true) { var nextItem = someArray[index]; doSomethingWithItem(nextItem); index++; } } catch (e) { } This code iterates across the array in an infinite while loop, passing each item to doSomethingWithItem. Eventually, they hit the end of the array, and someArray[index] starts returning undefined. Somewhere, deep in doSomethingWithItem, that causes an exception to be thrown. That is how we break out of the loop- eventually something chokes on an undefined value, which lets us know there's nothing left in the array. Which puts us in an interesting position- if anyone decided to add better error handling to doSomethingWithItem, the entire application could break, and it wouldn't be obvious why. This is a peak example of \"every change breaks somebody's workflow\", but specifically because that workflow is stupid. [Advertisement] Picking up NuGet is easy. Getting good at it takes time. Download our guide to learn the best practice of NuGet for the Enterprise.",
+    "author": "Remy Porter",
+    "published": "Tue, 10 Dec 2024 06:30:00 GMT",
+    "image": "",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "CodeSOD"
+    ]
+  },
+  {
+    "id": "b6179e15-d358-47cf-bb53-341d97996200",
+    "title": "CodeSOD: Enterprise Code Coverage",
+    "link": "https://thedailywtf.com/articles/enterprise-code-coverage",
+    "description": "Alice has the dubious pleasure of working with SalesForce. Management wants to make sure that any code is well tested, so they've set a requirement that all deployed code needs 75% code coverage. Unfortunately, properly configuring a code coverage tool is too hard, so someone came up with a delightful solution: just count how many lines are in your tests and how many lines are in your code, and make sure that your tests make up 75% of the total codebase. Given those metrics, someone added this test: public void testThis() { int i = 0; i++; i++; i++; i++; i++; // snip 35,990 lines i++; i++; i++; i++; } Keep adding lines, and you could easily get close to 100% code coverage, this way. Heck, if you get close enough to round up, it'll look like 100% code coverage. .comment { border: none; } [Advertisement] Plan Your .NET 9 Migration with ConfidenceYour journey to .NET 9 is more than just one decision.Avoid migration migraines with the advice in this free guide. Download Free Guide Now!",
+    "author": "Remy Porter",
+    "published": "Mon, 09 Dec 2024 06:30:00 GMT",
+    "image": "",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "CodeSOD"
+    ]
+  },
+  {
+    "id": "299750b1-7ac6-41db-b168-785a9cefc015",
+    "title": "Assad Flees Syria After Rebels Capture Damascus",
+    "link": "https://theonion.com/assad-flees-syria-after-rebels-capture-damascus/",
+    "description": "The Assad family’s decades-long reign in Syria came to an abrupt end when rebel forces captured Damascus after a stunning lightning-strike rout across the country. What do you think? The post Assad Flees Syria After Rebels Capture Damascus appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Tue, 10 Dec 2024 20:54:07 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2024/10/Face-Young-Woman.jpg?w=200",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "American Voices",
+      "Government",
+      "Vol 60: Issue 50"
+    ]
+  },
+  {
+    "id": "a6c101f0-825b-4cbd-a4c7-a5b77b71bfbd",
+    "title": "College Student Explains What It Like To Be First In Family Forced To Drink Own Urine In Frat House",
+    "link": "https://theonion.com/college-student-explains-what-it-like-to-be-first-in-family-forced-to-drink-own-urine-in-frat-house/",
+    "description": "The post College Student Explains What It Like To Be First In Family Forced To Drink Own Urine In Frat House appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Tue, 10 Dec 2024 18:05:12 +0000",
+    "image": "",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "Now: Focus",
+      "Video"
+    ]
+  },
+  {
+    "id": "770c4b0e-9fb2-4d7c-8dfe-6be7ffc437be",
+    "title": "Saturday Morning Breakfast Cereal - Ticket",
+    "link": "https://www.smbc-comics.com/comic/ticket",
+    "description": "Click here to go see the bonus panel!Hovertext:Oh you thought you saw something in panel 4? You got a dirty mind.Today's News:",
+    "author": "Zach Weinersmith",
+    "published": "Tue, 10 Dec 2024 17:15:04 -0500",
+    "image": "https://www.smbc-comics.com/comics/1733868917-20241210.png",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  },
+  {
+    "id": "bac20435-4cde-4a3b-9fad-72256db80dc1",
+    "title": "Saturday Morning Breakfast Cereal - Tradition",
+    "link": "https://www.smbc-comics.com/comic/tradition",
+    "description": "Click here to go see the bonus panel!Hovertext:Tradition is whatever had just faded when I was 12.Today's News:",
+    "author": "Zach Weinersmith",
+    "published": "Mon, 09 Dec 2024 13:34:05 -0500",
+    "image": "https://www.smbc-comics.com/comics/1733776561-20241209.png",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  },
+  {
+    "id": "83383182-0ea7-4be1-9371-adf16aa0a186",
+    "title": "Top Heavy",
+    "link": "https://awkwardfamilyphotos.com/2024/topheavy",
+    "description": "“My 9 year old daughter drew me a picture for my 40th birthday…at least my legs look good!” (submitted by IG @kerrinaomi) The post Top Heavy appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Team Awkward",
+    "published": "Tue, 10 Dec 2024 20:52:30 +0000",
+    "image": "https://s3.awkwardfamilyphotos.com/wp-content/uploads/2024/12/10125109/230.jpg",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Birthdays"
+    ]
+  },
+  {
+    "id": "e41a8680-b2d1-49d5-8fc2-7fb5b0cc7cab",
+    "title": "As The Wheels Turn",
+    "link": "https://awkwardfamilyphotos.com/2024/wheelsturn",
+    "description": "“My kids had mixed feelings about lifting the cheese wheel. Amsterdam, Netherlands.” (submitted by Ken) The post As The Wheels Turn appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Team Awkward",
+    "published": "Tue, 10 Dec 2024 20:47:57 +0000",
+    "image": "https://s3.awkwardfamilyphotos.com/wp-content/uploads/2024/12/10124100/1030.jpg",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Kids",
+      "Vacation"
+    ]
+  },
+  {
+    "id": "47ce7882-f884-4c16-b029-39b761d34c09",
+    "title": "All the Rustys and Audreys In Chevy Chase ‘Vacation’ Movies, Ranked",
+    "link": "https://www.cracked.com/article_44612_all-the-rustys-and-audreys-in-chevy-chase-vacation-movies-ranked.html?newsletter-cat=comedy",
+    "description": "By Matt Solomon Published: December 03rd, 2024",
+    "author": "",
+    "published": "Tue, 03 Dec 2024 13:30:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "8d23bf4f-be69-491f-84cf-f8c094aceca3",
+    "title": "Here Are The Top 5 Wholesome 'It's Always Sunny in Philadelphia' Moments That Show The Gang Are All Good Friends, Actually",
+    "link": "https://www.cracked.com/article_44609_here-are-the-top-5-wholesome-its-always-sunny-in-philadelphia-moments-that-show-the-gang-are-all-good-friends-actually.html?newsletter-cat=comedy",
+    "description": "By Keegan Kelly Published: December 03rd, 2024",
+    "author": "",
+    "published": "Tue, 03 Dec 2024 13:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "1e2a493c-0eeb-41ae-80fe-90d3a928e4a3",
+    "title": "Comic for 2021.12.21",
+    "link": "http://explosm.net/comics/6060/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Tue, 21 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "71c22888-6fd2-40a7-8dfc-75ac28700dfe",
+    "title": "Comic for 2021.12.20",
+    "link": "http://explosm.net/comics/6059/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Mon, 20 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "41fa827a-53e9-4f85-89aa-27bffd92c134",
+    "title": "Hospital staff face threat of mechanic's lean after submitting fake service requests to get free parking at mechanic's lot for work",
+    "link": "https://cheezburger.com/38194437/hospital-staff-face-threat-of-mechanics-lean-after-submitting-fake-service-requests-to-get-free",
+    "description": "Is it just a thing that hospitals must have the most inaccessible parking around?I'll never forget the irony of having to walk (hobble) 10 minutes down the road and across the adjacent park and across the adjacent park on my freshly broken ankle away from the local hospital where there was the closest parking available. And, of course, this was in the early hours of the morning after waiting 8 hours in the emergency department and in the not-so-nice part of town.To make matters even worse, you'd have to imagine that the staff of the hospital were doing the same thing I had to do daily, meaning that nursing and support staff getting off early shifts were walking through the dark, unlit park and side streets alone in the early hours to get to their vehicles.So, in a way, you can understand the need for this hospital's staff to find closer parking, but doing so at the expense of a local family-run business is not the way to do it… making this story just another example of the extreme lengths people will go to in order to secure parking for their vehicles.",
+    "author": "Brad Dickson",
+    "published": "Tue, 10 Dec 2024 15:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "pro revenge",
+      "parking space",
+      "parking lot",
+      "malicious compliance",
+      "parking ticket",
+      "hospital",
+      "revenge",
+      "parking drama",
+      "parking stories",
+      "petty revenge",
+      "prorevenge",
+      "mechanic"
+    ]
+  },
+  {
+    "id": "cf5ea2fb-29ce-4aa8-a2f2-5f452cb4f9ad",
+    "title": "'Your boss doesn't have your back': Clingy coworker shocks employee by talking to their manager to get them to drive together to work event",
+    "link": "https://cheezburger.com/38189573/your-boss-doesnt-have-your-back-clingy-coworker-shocks-employee-by-talking-to-their-manager-to-get",
+    "description": "This worker has been dealing with a stage-5 clinger who's now escalating things even further. Workplace friendships can be hard to navigate at times. When you're spending 40+ hours each week with the same people, you tend to get to know them on a personal level as well as just talking about job stuff. You might get the insider scoop on one coworker's marriage drama, or maybe you'll learn about another person's ongoing feud with their neighbor next door. You probably know a ton of information about your work bestie's spouse, even if you've literally never met that spouse. You can easily get enmeshed in people's lives, and it makes the work week go by faster. However, a good percentage of people only come to the workplace to do their work and then head home. For whatever reason, they're focused on their job. With this type of coworker, no matter how badly you want to be friends, you'll get strongly rejected. And, as this person explained in their own story about a coworker being too friendly, sometimes HR needs to get involved to settle things in a way that works for both colleagues. Next, read about the reasons these CEOs ran their companies into the ground, like one boss who realized that \"Almost 3/4 of the employees had quit by this point because paychecks kept bouncing.\"",
+    "author": "Remy Millisky",
+    "published": "Tue, 10 Dec 2024 14:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "boss",
+      "workplace-stories",
+      "jobs",
+      "job",
+      "bosses",
+      "work",
+      "coworkers",
+      "workplace",
+      "clingy"
+    ]
+  },
+  {
+    "id": "e76be9fa-631f-43de-9ddf-51d35b5b4bd0",
+    "title": "25 Chaotic Cat Memes That Take This Tuesday by a Sassy Storm of Fuzzy Feline Frenzy of Zoomies",
+    "link": "https://cheezburger.com/38162693/25-chaotic-cat-memes-that-take-this-tuesday-by-a-sassy-storm-of-fuzzy-feline-frenzy-of-zoomies",
+    "description": "Zoom, zoom, zoom, your cat zooms around you and you cannot focus on your work. All you can see are flashes of blurred fur, as your cat zooms from left to right, and from right to left. Zoom, zoom, zoom, your cat's zoomies are getting so fast you can barely see him, but oh boy, you feel the gust of wind he leaves behind. Zoom, zoom, zoom, the zoomies make your cat fly, almost, it's very distracting. You cannot even focus on cat memes right now, let alone on your work. Zoom, zoom, zoom, your cat's zoomies will soon break the Guinness World Record for fastest zoomies by a house cat.While you wait for this chaotic creature of yours to cease the zoomies, you can enjoy these on-theme cat memes. they are chaotic and full of fuzzy feline frenzy. try scrolling as fast as your cat zooms. You might see more cat memes in less time.",
+    "author": "Ayala Sorotsky",
+    "published": "Tue, 10 Dec 2024 11:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "funny cat memes",
+      "hilarious",
+      "silly cats",
+      "silly memes",
+      "Memes",
+      "hilarious memes",
+      "silly",
+      "Cats",
+      "hilarious cats",
+      "cat memes"
+    ]
+  },
+  {
+    "id": "2a0b25f1-1b0f-4468-a950-ab1e7af74bf4",
+    "title": "A Cat-astrophic Christmas Compilation of Humorous Cats Simultaneously Ruining our Holly-Days and Also Being the Stars Atop Our XMas Trees",
+    "link": "https://cheezburger.com/38168581/a-cat-astrophic-christmas-compilation-of-humorous-cats-simultaneously-ruining-our-holly-days-and",
+    "description": "Oh, cats. We love you. We love you so much. But why, why must you make it your life's mission to ruin any sense of Christmas spirit? You won't wear the cute sweaters that Grandma gave you. You won't let the Christmas tree stand for more than five minutes, you knock down all of our ornaments and wreaths, and yet….we still think you're just the cutest thing in the world. In fact, we should put you on top of the tree as the star because you're just daddy's purrfect little angel, aren't you?You know what? Cats and Christmas go together like us and chocolate cake - we just love it so much that we can't control ourselves around it. We don't knock over whole chocolate cakes whenever we see them, though, so that is one main difference. Anyway, we knew what we were signing up for when we got a cat, so at the very least, we have learned to laugh at it. Here is a catastrophic christmas compilation of humorous cats simultaneously ruining our holly-days and also being the stars atop our Xmas trees. If you can't beat them, join them!",
+    "author": "Blakeseidel",
+    "published": "Tue, 10 Dec 2024 10:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "aww",
+      "christmas",
+      "hilarious",
+      "adorable",
+      "christmas tree",
+      "humorous",
+      "cute",
+      "ruined",
+      "cute cats",
+      "lol",
+      "funny cats",
+      "stars",
+      "Cats",
+      "funny",
+      "animals",
+      "holidays",
+      "Xmas"
+    ]
+  },
+  {
+    "id": "1d076057-97a8-41ab-9af1-899c13e78d8c",
+    "title": "PAX Unplugged Recap",
+    "link": "https://www.penny-arcade.com/news/post/2024/12/10/pax-unplugged-recap",
+    "description": "I am home recovering from an incredible PAX Unplugged. I love the show but I always need a few days afterwards to hibernate and recharge my batteries. This Unplugged was especially cool because it was just me and my youngest son Noah. He’s 14 now and as a Dad it was just an incredible opportunity to get to spend the entire weekend with him. We spent time roaming the massive expo floor, watching folks play games in the freeplay area and trading pins at the community events every day. I also took great pleasure in introducing him to the magic that is Reading Terminal and its culinary delights.",
+    "author": "",
+    "published": "Tue, 10 Dec 2024 18:55:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "b149e238-1f1d-46f2-b22e-48c8bb276694",
+    "title": "Keep On Rocking In The Etc.",
+    "link": "https://www.penny-arcade.com/news/post/2024/12/09/keep-on-rocking-in-the-etc",
+    "description": "I am a sucker for demos at PAX; I'm also too polite to extract myself after a certain point, even if the theme or mechanics don't particularly entice. Oh! And try not to be disgusted overmuch by the greasy and wicked levitator floating in Panel 2. This vile beast, the Cheesesteak Fairy, earned more than ten gees for Child's Play if you can believe it. The ritual involves holding the mascot hostage until the audience ponies up, and thus far this mercenary tendency has served the teens very well.",
+    "author": "",
+    "published": "Mon, 09 Dec 2024 13:55:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "1e4d4d4f-0d34-4fdd-97e2-161ece0e8939",
+    "title": "08/31/23 PHD comic: 'New Book! Oliver's Great Big Universe!'",
+    "link": "http://www.phdcomics.com/comics.php?f=2050",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"New Book! Oliver's Great Big Universe!\" - originally published 8/31/2023 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Tue, 14 Dec 2021 11:53:03 -0800",
+    "image": "http://www.phdcomics.com/comics/archive/phd083123s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  },
+  {
+    "id": "0bf708e6-be70-4021-bc20-a000e3de6557",
+    "title": "10/22/21 PHD comic: 'Current Status'",
+    "link": "http://www.phdcomics.com/comics.php?f=2049",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"Current Status\" - originally published 10/22/2021 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Mon, 25 Oct 2021 02:09:47 -0700",
+    "image": "http://www.phdcomics.com/comics/archive/phd102221s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  }
+]
