@@ -1,0 +1,116 @@
+[
+  {
+    "id": "54c73787-ea4a-43ef-8d20-1c5e9ae0bac1",
+    "title": "Record and analyze a performance trace with DevTools",
+    "link": "https://developer.chrome.com/blog/devtools-tips-39?hl=en",
+    "description": "Record and analyze a performance trace with DevTools.",
+    "author": "",
+    "published": "Thu, 05 Dec 2024 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "e8a2d711-eb0f-4fe2-abaf-9745d20329e1",
+    "title": "CSS Wrapped 2024",
+    "link": "https://developer.chrome.com/blog/css-wrapped-2024?hl=en",
+    "description": "Join the Chrome DevRel team and a skateboarding Chrome Dino on a journey through the latest CSS launched for Chrome and the web platform in 2024.",
+    "author": "",
+    "published": "Thu, 05 Dec 2024 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "897a458f-cc59-450c-a593-d567ef0c0c49",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "a77e4577-a239-4280-9be0-e0ce9a8a7f1e",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "e4f64038-45a8-495a-8f55-dae9a5b37fed",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
+    "description": "Mozilla and Filament have introduced Uniffi for React Native, a tool that allows developers to leverage the safety and performance benefits of Rust in cross-platform React Native apps. The post Introducing Uniffi for React Native: Rust-Powered Turbo Modules appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Mark Mayo",
+    "published": "Wed, 04 Dec 2024 19:38:01 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Developer Tools",
+      "Featured Article",
+      "c++",
+      "firefox",
+      "react",
+      "rust"
+    ]
+  },
+  {
+    "id": "756b1b62-b897-41a8-9c19-d821bd8e6cd4",
+    "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+    "link": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+    "description": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models (LLMs) on your own hardware. Learn more about the updates and how to get involved with this cutting-edge project. The post Llamafile v0.8.14: a new UI, performance gains, and more appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Stephen Hood",
+    "published": "Wed, 16 Oct 2024 13:32:30 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/10/llamafile_8.1.14_release_image.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "llamafile",
+      "open source"
+    ]
+  },
+  {
+    "id": "1c634bea-2949-41fc-94c0-50a09511e64b",
+    "title": "Fluid Superscripts and Subscripts",
+    "link": "https://css-tricks.com/fluid-superscripts-and-subscripts/",
+    "description": "How much attention do you pay to the alignments of your subscripts and superscripts? Lorenz Wöehr has you covered with a recipe for fluid scaling. Fluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Lorenz Woehr",
+    "published": "Wed, 11 Dec 2024 20:23:46 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/fluid-super-subscripts-1.png?resize=1600%2C821\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "typography"
+    ]
+  },
+  {
+    "id": "5a4dbd22-2a62-446b-94dc-f09b4976ab66",
+    "title": "CSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry",
+    "link": "https://css-tricks.com/csswg-minutes-telecon-2024-12-04-just-use-grid-vs-display-masonry/",
+    "description": "The CSSWG met to try and finally squash a debate that has been going on for five years: whether Masonry should be a part of Grid or a separate system. We've got coverage of both presentations for ya. CSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Juan Diego Rodríguez",
+    "published": "Tue, 10 Dec 2024 16:27:32 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/09/Screenshot-2024-09-25-at-9.42.57%E2%80%AFAM.png?resize=1024%2C757\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "csswg",
+      "grid",
+      "masonry",
+      "news"
+    ]
+  }
+]
