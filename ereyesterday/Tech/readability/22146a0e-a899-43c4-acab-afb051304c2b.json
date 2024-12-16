@@ -1,0 +1,24 @@
+{
+  "id": "22146a0e-a899-43c4-acab-afb051304c2b",
+  "title": "Google Agentspace is bringing AI agents and AI-powered search to enterprises.",
+  "link": "https://blog.google/feed/google-agentspace/",
+  "description": "Google Cloud is introducing Google Agentspace to help companies make their employees even more productive. Agentspace includes agents that bring together Gemini’s advanc…",
+  "author": "",
+  "published": "Fri, 13 Dec 2024 15:35:00 +0000",
+  "source": "https://www.blog.google/rss/",
+  "categories": [
+    "Google Cloud",
+    "Google Labs"
+  ],
+  "byline": "",
+  "length": 1153,
+  "excerpt": "Google Cloud is introducing Google Agentspace to help companies make their employees even more productive. Agentspace includes agents that bring together Gemini’s advanc…",
+  "siteName": "Google",
+  "favicon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20241210-1809",
+  "text": "Google Cloud is introducing Google Agentspace to help companies make their employees even more productive. Agentspace includes agents that bring together Gemini’s advanced reasoning, Google-quality search and enterprise data, regardless of where it’s hosted. Here’s what you need to know:NotebookLM Plus is available as a out-of-the-box agent in Agentspace, offering employees the helpful features of NotebookLM — uploading information to synthesize, uncovering insights and enjoying new ways of engaging with data, such as podcast-like audio summaries — and enhancing it with security and privacy features for work.Google Agentspace provides a single, company-branded multimodal search agent that acts as a central source of enterprise truth for the entire organization with the ability to answer complex questions, make proactive suggestions and take actions based on your company’s unique information.It also provides a single space for all custom expert AI agents used within a company to help employees do things like conduct better research, draft content quickly and automate repetitive tasks.Check out the Google Cloud blog for more information.",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_Option-1.max-1440x810.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv slot=\"uni-short-post-description-slot\"\u003e\u003cp data-block-key=\"wzfk2\"\u003eGoogle Cloud is introducing Google Agentspace to help companies make their employees even more productive. Agentspace includes agents that bring together Gemini’s advanced reasoning, Google-quality search and enterprise data, regardless of where it’s hosted. Here’s what you need to know:\u003c/p\u003e\u003cul\u003e\u003cli data-block-key=\"9qt94\"\u003eNotebookLM Plus is available as a out-of-the-box agent in Agentspace, offering employees the helpful features of NotebookLM — uploading information to synthesize, uncovering insights and enjoying new ways of engaging with data, such as podcast-like audio summaries — and enhancing it with security and privacy features for work.\u003c/li\u003e\u003cli data-block-key=\"4g135\"\u003eGoogle Agentspace provides a single, company-branded multimodal search agent that acts as a central source of enterprise truth for the entire organization with the ability to answer complex questions, make proactive suggestions and take actions based on your company’s unique information.\u003c/li\u003e\u003cli data-block-key=\"81gri\"\u003eIt also provides a single space for all custom expert AI agents used within a company to help employees do things like conduct better research, draft content quickly and automate repetitive tasks.\u003c/li\u003e\u003c/ul\u003e\u003cp data-block-key=\"1f027\"\u003eCheck out \u003ca href=\"https://cloud.google.com/blog/products/ai-machine-learning/bringing-ai-agents-to-enterprises-with-google-agentspace?utm_source=keywordsnippet\u0026amp;utm_medium=referral\"\u003ethe Google Cloud blog\u003c/a\u003e for more information.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2024-12-13T00:00:00Z",
+  "modifiedTime": null
+}
