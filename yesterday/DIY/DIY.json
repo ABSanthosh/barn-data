@@ -1,0 +1,185 @@
+[
+  {
+    "id": "308e32b6-6a3a-4de0-90a8-026b1a683559",
+    "title": "The Complete iOS 18.2 Features Guide — Here's Everything New and Improved for Your iPhone",
+    "link": "https://ios.gadgethacks.com/how-to/complete-ios-18-2-features-guide-heres-everything-new-and-improved-for-your-iphone-0385644/",
+    "description": "Apple's iOS 18.2, iPadOS 18.2, and macOS Sequoia 15.2 updates are here, packed with enhancements that take device intelligence to the next level. New Apple Intelligence features lead the release, offering smarter tools for creativity, productivity, and everyday tasks. However, there are also new features for all iPhone, iPad, and Mac models — not just those supporting Apple Intelligence. The latest software updates, released Dec. 11, 2024, bring a host of new capabilities to iPhone, iPad, and Mac. From on-device AI tools like Genmoji, Image Playground, and Image Wand to smarter volume... more",
+    "author": "Justin Meyers",
+    "published": "Wed, 11 Dec 2024 16:11:00 GMT",
+    "image": "https://img.wonderhowto.com/img/83/55/63869331994027/0/complete-ios-18-2-features-guide-heres-everything-new-and-improved-for-your-iphone.1280x600.jpg",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "a3515931-119e-49b3-967a-8473bb6f915b",
+    "title": "How to Set a Maximum Volume Limit for Your iPhone or iPad's Speakers to Prevent Loud Audio Surprises",
+    "link": "https://apple.gadgethacks.com/how-to/set-maximum-volume-limit-for-your-iphone-ipads-speakers-prevent-loud-audio-surprises-0385657/",
+    "description": "A new iPhone and iPad setting gives you control over how loud your device's built-in speakers get, which can help you avoid being startled by loud auto-playing videos, waking up someone sleeping nearby, hurting your ears, or degrading your speakers' quality and performance. You could already reduce loud audio levels for AirPods and other headphones via the Headphone Safety feature, where you set a decibels threshold to automatically protect your hearing from any levels above the limit. But with iOS 18.2 and iPadOS 18.2, released on December 11, Apple finally lets you cap your iPhone or iPad's... more",
+    "author": "Jovana Naumovski",
+    "published": "Wed, 04 Dec 2024 23:23:00 GMT",
+    "image": "https://img.wonderhowto.com/img/89/31/63868921713368/0/set-maximum-volume-limit-for-your-iphone-ipads-speakers-prevent-loud-audio-surprises.1280x600.jpg",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "7852c690-61b6-4926-8b71-1ed918e5c7f9",
+    "title": "Rum Cocktails",
+    "link": "https://abeautifulmess.com/rum-cocktails/",
+    "description": "If you’ve got a bottle of rum, we’ve got dozens of delicious rum cocktail recipes. From the Piña Colada to the Painkiller and the Dark and Stormy, we’ve got all the best rum cocktail recipes for you to try. Related: Classic Daiquiri, Mojito, Mai Tai, Jungle Bird, Strawberry Daiquiri, Bahama Mama. More Recipes to Try",
+    "author": "Elsie Larson",
+    "published": "Mon, 16 Dec 2024 14:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2024/03/Rum-Cocktail-Recipes.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Cocktails",
+      "Food",
+      "Round-ups",
+      "Rum"
+    ]
+  },
+  {
+    "id": "2276981e-f3f1-47ca-a98e-a28997cbd59e",
+    "title": "Paloma Cocktail",
+    "link": "https://abeautifulmess.com/paloma-cocktail/",
+    "description": "If you love a Margarita but sometimes find them too sweet, a classic Paloma might be your perfect drink. This tequila-based drink uses grapefruit juice and lime. It has just the right balance of sweet and tart citrus. The Paloma is Mexico’s national drink and most popular cocktail. We definitely recommend ordering this popular cocktail…",
+    "author": "Elsie Larson",
+    "published": "Sun, 15 Dec 2024 14:02:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2023/11/Paloma.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Cocktails",
+      "Food",
+      "Tequila"
+    ]
+  },
+  {
+    "id": "b5f16c67-2bee-484f-99c6-02659a55322f",
+    "title": "Emulating The Battery Controller In An Ancient Acer PDA",
+    "link": "https://hackaday.com/2024/12/16/emulating-the-battery-controller-in-an-ancient-acer-pda/",
+    "description": "[Mark B] had a problem. He’d come into possession of an Acer N30 PDA, sans batteries. He couldn’t just throw any old cells in, since the unit expected to communicate …read more",
+    "author": "Lewin Day",
+    "published": "Tue, 17 Dec 2024 00:00:47 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2024/12/hack-pda-e1734336297916.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Repair Hacks",
+      "battery",
+      "pda"
+    ]
+  },
+  {
+    "id": "94f3d56f-918e-48c1-bcdd-5c66cce8acbc",
+    "title": "Using A Smartphone As A Touchscreen For Arduino",
+    "link": "https://hackaday.com/2024/12/16/using-a-smartphone-as-a-touchscreen-for-arduino/",
+    "description": "If you want a good display and interface device for an embedded project, it’s hard to look past an old smartphone. After all, you’ve got an excellent quality screen and …read more",
+    "author": "Lewin Day",
+    "published": "Mon, 16 Dec 2024 21:00:31 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2024/12/Turn-Your-Old-Phone-into-a-Touchscreen-for-Arduino-8-21-screenshot-1.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Android Hacks",
+      "Arduino Hacks",
+      "android",
+      "arduino",
+      "screen",
+      "touchscreen"
+    ]
+  },
+  {
+    "id": "5caf48df-9318-4632-b96d-154f37bbc894",
+    "title": "Combating Unwanted Holiday Guests: Dust Bunnies",
+    "link": "https://www.doityourself.com/stry/combating-unwanted-holiday-guests-dust-bunnies",
+    "description": "Keep your home sparkling and your air quality clean with these tips.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg0.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/972/dust-bunny-195972.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "b9a4551e-6c57-423d-ad18-25d5b57c07ab",
+    "title": "Learn These Basic Car Maintenance Skills Before a Road Trip",
+    "link": "https://www.doityourself.com/stry/learn-these-basic-car-maintenance-skills-before-a-road-trip",
+    "description": "They can come in very handy in a tough situation.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg2.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/694/shutterstock_104261411-703694.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "7ad46312-fe6a-450a-a4c2-a79daaf718d7",
+    "title": "12 IKEA Plushies \u0026 Toys That Are Taking Over the World (And Your Heart!)",
+    "link": "https://ikeahackers.net/2024/12/ikea-plushies-toys.html",
+    "description": "Finding the perfect gift for kids can be a playful adventure, especially when it comes to choosing the right toys. This holiday season, many shoppers turn to IKEA for creative and engaging toy options that spark imagination and curiosity. Ever wondered why grown adults are fighting over stuffed toys in the IKEA checkout line? Buckle up, because we’re about to dive into the adorable world of IKEA soft toys that have become global sensations! 1. BLÅHAJ: The Shark That Swam […] The post 12 IKEA Plushies \u0026 Toys That Are Taking Over the World (And Your Heart!) appeared first on IKEA Hackers.",
+    "author": "Jules Yap",
+    "published": "Fri, 13 Dec 2024 11:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Products",
+      "Featured"
+    ]
+  },
+  {
+    "id": "e8c06110-694d-4be9-b637-57a8c352229b",
+    "title": "DIY Holiday Cat Box: Create a Cozy Holiday Retreat for Your Cat",
+    "link": "https://ikeahackers.net/2024/12/holiday-cat-box.html",
+    "description": "Creating a cozy and festive holiday retreat for your feline friend can be both fun and fulfilling. Using the IKEA TJENA box as the foundation, you can craft an adorable holiday cat box that your cat can snuggle in and hideaway. This holiday cat box also makes an excellent gift for the cat lovers in your life. Imagine their delight when they receive a beautifully wrapped box, not only designed as a cozy hideout for their cat but also filled […] The post DIY Holiday Cat Box: Create a Cozy Holiday Retreat for Your Cat appeared first on IKEA Hackers.",
+    "author": "Jules Yap",
+    "published": "Thu, 12 Dec 2024 11:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Cats",
+      "Latest on IG"
+    ]
+  },
+  {
+    "id": "b178dd14-2b0e-4b88-8700-f3f58fe02cb7",
+    "title": "Hand-Quilted Coasters",
+    "link": "https://ohhappyday.com/2022/10/hand-quilted-coasters/",
+    "description": "Get ready for those shorter days and cooler nights by adding a little warmth and color to your home or next gathering. We partnered with Fiskars to use their collection of fabric cutting tools to craft these modern patchwork style coasters. These require a bit of machine sewing but are super beginner friendly, and the...Read More",
+    "author": "olivia",
+    "published": "Tue, 04 Oct 2022 15:09:34 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/BLOG_OHD_FiskarsCoasters-Hero1.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "place cards",
+      "autumn",
+      "coasters",
+      "cutter",
+      "cutting mat",
+      "diy",
+      "drinks",
+      "fabric",
+      "fall",
+      "fiskars",
+      "quilt",
+      "scissors",
+      "sewing"
+    ]
+  },
+  {
+    "id": "28e2b037-1f8e-4250-812e-68963ac07f86",
+    "title": "5 Ways to Fall",
+    "link": "https://ohhappyday.com/2022/09/5-ways-to-fall/",
+    "description": "We are rounding up some of our favorite Fall throwbacks. This also means Halloween is around the corner and it’s time to start costume brainstorming – any suggestions? In the meantime, here are a few of our favorite DIYs to start your Fall Checklist! Rainbow Pumpkin Centerpiece – an OHD classic! Ombre Leaves Backdrop –...Read More",
+    "author": "Jordan",
+    "published": "Fri, 30 Sep 2022 16:49:26 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/FALL2.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "party",
+      "craft",
+      "diy",
+      "fall",
+      "ombre",
+      "pies",
+      "pumpkin",
+      "rainbow",
+      "roundup",
+      "smores"
+    ]
+  }
+]
