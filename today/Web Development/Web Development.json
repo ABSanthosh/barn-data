@@ -1,0 +1,113 @@
+[
+  {
+    "id": "9bcf579e-90e5-44b9-b4fc-af20a11fc0eb",
+    "title": "Autofill in action: real-world insights",
+    "link": "https://developer.chrome.com/blog/autofill-insights-2024?hl=en",
+    "description": "A Chrome study shows that autofill users fill forms faster, with lower abandonment rates.",
+    "author": "",
+    "published": "Tue, 17 Dec 2024 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "91e0affd-619d-4017-a565-65c2cf5a2453",
+    "title": "Findings from the customizable select request for developer feedback form",
+    "link": "https://developer.chrome.com/blog/rfc-customizable-select-findings?hl=en",
+    "description": "Thank you for the time you shared with us, providing feedback, reviewing details and helping shape standards.",
+    "author": "",
+    "published": "Mon, 16 Dec 2024 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "9000dab5-4570-4e2d-a4ef-88a4bc0982a4",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "2c3d0e66-e967-4ec5-996a-390a806053d6",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "ec183a4a-69f7-4524-8902-b4d570b7e6dc",
+    "title": "The Little Triangle in the Tooltip",
+    "link": "https://css-tricks.com/the-little-triangle-in-the-tooltip/",
+    "description": "Today, I want to focus on what I'll call the little triangle in the tooltip. It receives minimal attention but it amazes you by how many ways there are to make them. Let's start with the simplest and make our way up to the not-so-simple. The Little Triangle in the Tooltip originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Juan Diego Rodríguez",
+    "published": "Fri, 20 Dec 2024 16:31:05 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/clip-path.png?resize=1920%2C1080\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "tooltip"
+    ]
+  },
+  {
+    "id": "24d098f2-8a70-4e09-a6e3-96b26ec5ba7e",
+    "title": "How to Create Multi-Step Forms With Vanilla JavaScript and CSS",
+    "link": "https://css-tricks.com/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/",
+    "description": "When was the last time you developed a multi-step form? There’s so much to think about and so many moving pieces that need to be managed. But doing it by hand can be a good exercise and a great way to polish the basics. Fatuma Abdullaho walks you through her first multi-step form using vanilla HTML, CSS, and JavaScript. How to Create Multi-Step Forms With Vanilla JavaScript and CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Fatuma Abdullaho",
+    "published": "Wed, 18 Dec 2024 15:03:22 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/multistep-form-1.png?resize=1600%2C859\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "forms"
+    ]
+  },
+  {
+    "id": "e23a8f4e-87fe-4d8b-8364-11568d382edb",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
+    "description": "Mozilla and Filament have introduced Uniffi for React Native, a tool that allows developers to leverage the safety and performance benefits of Rust in cross-platform React Native apps. The post Introducing Uniffi for React Native: Rust-Powered Turbo Modules appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Mark Mayo",
+    "published": "Wed, 04 Dec 2024 19:38:01 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Developer Tools",
+      "Featured Article",
+      "c++",
+      "firefox",
+      "react",
+      "rust"
+    ]
+  },
+  {
+    "id": "8155b538-ee99-4ae0-9ff3-dbcd26f4a4ab",
+    "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+    "link": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+    "description": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models (LLMs) on your own hardware. Learn more about the updates and how to get involved with this cutting-edge project. The post Llamafile v0.8.14: a new UI, performance gains, and more appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Stephen Hood",
+    "published": "Wed, 16 Oct 2024 13:32:30 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/10/llamafile_8.1.14_release_image.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "llamafile",
+      "open source"
+    ]
+  }
+]
