@@ -1,0 +1,26 @@
+{
+  "id": "59d422ff-0159-4919-b3f2-09449cead189",
+  "title": "Probability does not exist",
+  "link": "https://flowingdata.com/2024/12/19/probability-does-not-exist/",
+  "description": "Probability itself is an expression of uncertainty, but the calculations behind the percentages…Tags: David Spiegelhalter, probability, uncertainty",
+  "author": "Nathan Yau",
+  "published": "Thu, 19 Dec 2024 10:31:17 +0000",
+  "source": "https://flowingdata.com/feed",
+  "categories": [
+    "Statistics",
+    "David Spiegelhalter",
+    "probability",
+    "uncertainty"
+  ],
+  "byline": "Nathan Yau",
+  "length": 1392,
+  "excerpt": "Probability itself is an expression of uncertainty, but the calculations behind the percentages can seem objective. David Spiegelhalter argues that this is impossible: My argument is that any pract…",
+  "siteName": "FlowingData",
+  "favicon": "https://flowingdata.com/wp-content/themes/fd-modern-6-0/images/icons/logo-lone-square256.png",
+  "text": "Probability itself is an expression of uncertainty, but the calculations behind the percentages can seem objective. David Spiegelhalter argues that this is impossible: My argument is that any practical use of probability involves subjective judgements. This doesn’t mean that I can put any old numbers on my thoughts — I would be proved a poor probability assessor if I claimed with 99.9% certainty that I can fly off my roof, for example. The objective world comes into play when probabilities, and their underlying assumptions, are tested against reality (see ‘How ignorant am I?’); but that doesn’t mean the probabilities themselves are objective. Some assumptions that people use to assess probabilities will have stronger justifications than others. If I have examined a coin carefully before it is flipped, and it lands on a hard surface and bounces chaotically, I will feel more justified with my 50–50 judgement than if some shady character pulls out a coin and gives it a few desultory turns. But these same strictures apply anywhere that probabilities are used — including in scientific contexts, in which we might be more naturally convinced of their supposed objectivity. Riffing off George E. P. Box’s “All models are wrong, but some are useful”, Spiegelhalter concludes, “In our everyday world, probability probably does not exist — but it is often useful to act as if it does.”",
+  "image": "https://flowingdata.com/wp-content/uploads/2024/12/probability-does-not-exist.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"single-post\"\u003e\n                                    \n                \u003cp\u003eProbability itself is an expression of uncertainty, but the calculations behind the percentages can seem objective. \u003ca href=\"https://www.nature.com/articles/d41586-024-04096-5#ref-CR4\"\u003eDavid Spiegelhalter argues that this is impossible\u003c/a\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\u003cp\u003eMy argument is that any practical use of probability involves subjective judgements. This doesn’t mean that I can put any old numbers on my thoughts — I would be proved a poor probability assessor if I claimed with 99.9% certainty that I can fly off my roof, for example. The objective world comes into play when probabilities, and their underlying assumptions, are tested against reality (see ‘How ignorant am I?’); but that doesn’t mean the probabilities themselves are objective.\u003c/p\u003e\n\u003cp\u003eSome assumptions that people use to assess probabilities will have stronger justifications than others. If I have examined a coin carefully before it is flipped, and it lands on a hard surface and bounces chaotically, I will feel more justified with my 50–50 judgement than if some shady character pulls out a coin and gives it a few desultory turns. But these same strictures apply anywhere that probabilities are used — including in scientific contexts, in which we might be more naturally convinced of their supposed objectivity.\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003eRiffing off George E. P. Box’s “All models are wrong, but some are useful”, Spiegelhalter concludes, “In our everyday world, probability probably does not exist — but it is often useful to act as if it does.”\u003c/p\u003e\n                \n                \n                                        \n            \n        \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2024-12-19T10:31:17Z",
+  "modifiedTime": "2024-12-18T20:21:31Z"
+}
