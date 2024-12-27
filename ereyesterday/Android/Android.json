@@ -1,0 +1,497 @@
+[
+  {
+    "id": "4b797e01-dc3c-4825-a4f6-b4ec7190f8f2",
+    "title": "Use link aggregation on your NAS",
+    "link": "https://www.xda-developers.com/reasons-link-aggregation-nas/",
+    "description": "If you have a NAS, see why you should use link aggregation.",
+    "author": "Karandeep Singh",
+    "published": "Wed, 25 Dec 2024 01:01:18 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/terramaster-f4-424-max-ethernet.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Other  Computing Devices",
+      "NAS",
+      "network"
+    ]
+  },
+  {
+    "id": "4da04f27-ca72-4b42-b184-7643fb146774",
+    "title": "Is a 6-core CPU enough?",
+    "link": "https://www.xda-developers.com/6-core-cpu-enough-gaming/",
+    "description": "If you love to game on your PC, see if six cores will be enough, or maybe you'll need more.",
+    "author": "Tanveer Singh",
+    "published": "Wed, 25 Dec 2024 00:00:18 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/01/amd-ryzen-5-7600-installed-1.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "CPU",
+      "Gaming",
+      "AMD",
+      "intel"
+    ]
+  },
+  {
+    "id": "c6475599-6d77-44ab-84ff-7d9f0b625bdf",
+    "title": "AAA: Android Faithful is Your New Android Home! - With Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635b",
+    "description": "All About Android fans, listen up! If you were disappointed when the show went away, then you'll be happy to know that Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman brought the AAA fun to a new home called Android Faithful. Each week, the AF crew discusses the latest news, hardware, and apps for the world's biggest mobile operating system. Special guests, from journalists, to industry big wigs, to execs from inside the Google mothership join the crew to detail the ongoing evolution of Google's Android. Join us and be a part of the Android Faithful! Hosts: Jason Howell, Ron Richards, and Huyen Tue Dao Co-Host: Mishaal Rahman Visit AndroidFaithful.com or search your favorite podcatcher to subscribe!",
+    "author": "TWiT",
+    "published": "Tue, 02 Jan 2024 14:45:00 PST",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa_635b/aaa_635b.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android"
+    ]
+  },
+  {
+    "id": "6ab5060e-214c-4d8d-93ef-3558a03a2c9c",
+    "title": "AAA 635: Hall of Fame - A long awaited look at the very best Android hardware and apps since the beginning",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635",
+    "description": "Sharing news regarding the future of All About Android. Huyen just got her Pixel Tablet! She shares her thoughts. Android Hardware Hall of Fame. Android App Hall of Fame. All About All About Android. Read our show notes here: https://bit.ly/42V2ymq Hosts: Jason Howell, Ron Richards, Huyen Tue Dao, and Florence Ion Subscribe to All About Android at https://twit.tv/shows/all-about-android. Get episodes ad-free with Club TWiT at https://twit.tv/clubtwit Sponsor: decisions.com/twit",
+    "author": "TWiT",
+    "published": "Tue, 20 Jun 2023 21:59:06 PDT",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa0635/aaa0635.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android",
+      " all about android",
+      " Jason Howell",
+      " Ron Richards",
+      " Florence Ion",
+      " huyen tue dao",
+      " all about android last episode",
+      " all about android final episode",
+      " all about android dead",
+      " pixel tablet first impressions",
+      " pixel tablet hands on",
+      " pixel tablet preview"
+    ]
+  },
+  {
+    "id": "cf88d55e-edf3-478a-b449-fcd1f36c20b8",
+    "title": "60 of our biggest AI announcements in 2024",
+    "link": "https://blog.google/technology/ai/google-ai-news-recap-2024/",
+    "description": "Recap some of Google’s biggest AI news from 2024, including moments from Gemini, NotebookLM, Search and more.",
+    "author": "Keyword Team",
+    "published": "Mon, 23 Dec 2024 14:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ink_2024-Wrap-Up_2096x1182.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Search",
+      "Android",
+      "Chrome",
+      "Developers",
+      "Gmail",
+      "Learning \u0026 Education",
+      "Google.org",
+      "Gemini",
+      "Sustainability",
+      "Google Cloud",
+      "Shopping",
+      "Pixel",
+      "AI",
+      "Research",
+      "Health"
+    ]
+  },
+  {
+    "id": "e204a7dc-66dd-4b6b-a998-c02e911dd276",
+    "title": "The latest AI news we announced in December",
+    "link": "https://blog.google/technology/ai/google-ai-updates-december-2024/",
+    "description": "Here are Google’s latest AI updates from December including Gemini 2.0, GenCast, and Willow.",
+    "author": "Keyword Team",
+    "published": "Fri, 20 Dec 2024 21:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dec_AI_Roundup_social_share.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Android",
+      "Google Labs",
+      "Google DeepMind",
+      "Gemini",
+      "Google Cloud",
+      "AI",
+      "Pixel",
+      "Research"
+    ]
+  },
+  {
+    "id": "8d6ed564-ad16-4de7-9b39-0b02d92840bd",
+    "title": "One UI 7 will make it easier to filter notifications that aren’t important",
+    "link": "https://www.androidauthority.com/one-ui-7-filter-notifications-3511176/",
+    "description": "Samsung is adding a new “filter notifications” feature to One UI 7 that hides notifications that are less important to you.",
+    "author": "Mishaal Rahman",
+    "published": "Tue, 24 Dec 2024 19:59:03 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/12/One-UI-7-welcome-screen.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Samsung",
+      "Samsung One UI"
+    ]
+  },
+  {
+    "id": "7f0b4bee-15b9-4290-b645-609c7939db74",
+    "title": "The best phones I’m looking forward to in 2025",
+    "link": "https://www.androidauthority.com/upcoming-phones-2025-3510675/",
+    "description": "The Pixel 10 Pro tops the list.",
+    "author": "Mitja Rutnik",
+    "published": "Tue, 24 Dec 2024 18:00:24 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/Pixel-9-Pro-vs-iPhone-16-Pro-3.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Guides",
+      "Apple iPhone 17",
+      "Google Pixel 10",
+      "Samsung Galaxy S25"
+    ]
+  },
+  {
+    "id": "820dee8d-fd74-4039-8033-d358c5a62b9c",
+    "title": "Pixel Drop: Astrophotography and underwater shots just got better! #pixeldrop #googlepixel",
+    "link": "https://www.youtube.com/watch?v=wYzNoT41qKg",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2024-12-24T18:19:18+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "ead31f4f-e210-4fe2-a83d-1a9f604e1096",
+    "title": "CHAMPION Foldable? | HUAWEI Mate X6",
+    "link": "https://www.youtube.com/watch?v=89fBPQk90-0",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2024-12-24T14:00:14+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "9582a984-ccf1-4ae9-ad72-c3a1970aaf19",
+    "title": "Fin Part Deux",
+    "link": "http://podcasts.androidauthority.com/fin-part-deux",
+    "description": "This is the last episode of the second season of the Android Authority podcast. That sucks. But that doesn’t mean we don’t have tech to talk about. Adam, Joe, and Jonathan gather for one last time to talk about Motorola’s upcoming flagship, and care for your RAZR. LG is keeping the headphone jack flame a’burnin. And finally, we look back on some other operating systems that have come and gone over the years. RIP webOS, RIP Windows Phone, RIP #AAPodcast Podcast Pick: Real Graphene Power Bank 10,000 mAh Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 30, 2020 Topics Huawei rep allegedly says company won't use Google apps even if it can Graphene batteries: What are they and why are they a big deal? Motorola says 'bumps and lumps are normal' on Razr screen Motorola tipped to unveil new flagship smartphone at MWC 2020 LG headphone jacks are sticking around, but need your financial support Android alternatives that tried and failed over the last decade The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Check out the other podcasts in our network!The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Fri, 31 Jan 2020 23:48:40 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/aapod_fin_part_deux_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": null
+  },
+  {
+    "id": "9644fccd-c537-4d11-affa-4686316ae52e",
+    "title": "LG’s promise and Google’s experiments",
+    "link": "http://podcasts.androidauthority.com/lgs-promise-and-googles-experiments",
+    "description": "We have a ton of housecleaning to take care of right off the bat including the Moto RAZR, Whatsapp’s dark mode, MWC 2020 and more. Plus, we take a look at LG’s implementation of Android 10 on the LG V50 with dual screen. Speaking of dual screens, Microsoft has some thoughts on how to implement dual screens. Google is experimenting with ways to help you use your phone less, and one of our editors wants you to update apps less often. What’s up with that? Podcast Pick: LG G8x Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 23, 2020 Topics Motorola Razr preorders start on January 26 at Verizon Many 2020 Chromebooks will see 8 years of updates WhatsApp dark mode is finally here (for some users) MWC 2020: What to expect Who is BBK, the world's second largest phone manufacturer? Juan Carlos Bagnell - LG V50 on Android 10: New OS, New UX, AND A DESKTOP MODE! Microsoft outlines dual screen possibilities with Surface Duo These Google experimental apps help you develop healthy phone habits Shadowgun War Games is mobile games' version of Overwatch Why you might want to disable automatic app updates on the Play Store The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Special appearance by:Juan Carlos Bagnell - @Somegadgetguy www.somegadgetguy.com Check out the other podcasts in our network! The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Sat, 25 Jan 2020 00:30:34 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/Aapod_week4_2020_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": [
+      "microsoft",
+      "moto",
+      "Duo",
+      "surface",
+      "motorola",
+      "2020",
+      "lg",
+      "vivo",
+      "mwc",
+      "razr",
+      "Chromebooks",
+      "whatsapp",
+      "v50",
+      "oneplus",
+      "mwc2020",
+      "bbk"
+    ]
+  },
+  {
+    "id": "21c01b59-45b4-4541-9822-79eed4de7337",
+    "title": "OnePlus 13 vs. OnePlus 11: Time for an upgrade?",
+    "link": "https://www.androidcentral.com/phones/oneplus-13-vs-oneplus-11",
+    "description": "The OnePlus 13 has a flashy refreshed design and a powerful processor, and we're here to help you figure out if that's worth upgrading from your OnePlus 11.",
+    "author": "",
+    "published": "Tue, 24 Dec 2024 22:08:58 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/XSzAZDXTpRYXADiJvSPikh.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Phones"
+    ]
+  },
+  {
+    "id": "30a5795d-451a-4fce-b1c4-4555bbe30547",
+    "title": "Samsung Galaxy S25 Ultra vs. iPhone 16 Pro Max: All about speedy performance and AI",
+    "link": "https://www.androidcentral.com/phones/samsung-galaxy-s25-ultra-vs-iphone-16-pro-max",
+    "description": "The Samsung Galaxy S25 Ultra will likely arrive next month, and we already have an idea of how it'll compare to the iPhone 16 Pro Max.",
+    "author": "",
+    "published": "Tue, 24 Dec 2024 21:55:06 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/JHgnkPjNYtf9AGJXEMAZy9.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Phones"
+    ]
+  },
+  {
+    "id": "66f532fd-ddc5-4fc1-93dd-141ad960938a",
+    "title": "The Pirate Queen: Interview With Lucy Liu \u0026 Eloise Singer",
+    "link": "https://sites.libsyn.com/23914/the-pirate-queen-interview-with-lucy-liu-eloise-singer",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar and Nick Sutrich chat with Hollywood legend Lucy Liu and Pirate Queen director Eloise Singer about their amazing new VR game The Pirate Queen: A Forgotten Legend... Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu",
+    "author": "Android Central",
+    "published": "Thu, 28 Mar 2024 22:50:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_280324_MIXDOWN_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "gaming",
+      "quest",
+      "Android",
+      "Meta",
+      "VR",
+      "lucyliu",
+      "thepiratequeen",
+      "eloisesinger"
+    ]
+  },
+  {
+    "id": "6ba4c502-4705-455d-b89e-b1efb494310a",
+    "title": "Could The US BAN TikTok?!",
+    "link": "https://sites.libsyn.com/23914/could-the-us-ban-tiktok",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar, Nick Sutrich, and Jerry Hildenbrand discuss just how good the Honor Magic 6 Pro's camera really is, why more people are buying the Galaxy S24 Plus, why US lawmakers want TikTok banned, how Apple acquiring DarwinAI could give Google Gemini some serious competition, and more! Links:  The Honor Magic 6 Pro camera seriously blows me away - Android Central The Galaxy S24 Plus is a hit, and I'm not surprised - Android Central Why US lawmakers want TikTok banned - Android Central Apple's latest AI acquisition might give Google Gemini some serious competition - Android Central Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu @gbhil",
+    "author": "Android Central",
+    "published": "Mon, 18 Mar 2024 17:00:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_150324_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "iPhone",
+      "Google",
+      "honor",
+      "Galaxy",
+      "microsoft",
+      "Apple",
+      "samsung",
+      "AI",
+      "Android",
+      "Gemini",
+      "TikTok",
+      "darwinai"
+    ]
+  },
+  {
+    "id": "766ddea3-c0fd-4b58-ad43-6ef03d84f17a",
+    "title": "Galaxy Tab S8 series new leak reveals almost everything",
+    "link": "https://androidcommunity.com/galaxy-tab-s8-series-new-leak-reveals-almost-everything-20220203/",
+    "description": "February 9 is expected to be an exciting one for Samsung. As it unfolds the Unpacked event with enthusiasm, there will be some devices we would be looking forward to. Of course, the Galaxy S22 flagship series is on everyone’s radar, if you’re someone waiting for a decent, feature-packed Android tablet, you should look out […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:51:26 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Samsung",
+      "Tablets"
+    ]
+  },
+  {
+    "id": "1ae848ec-6adb-4f68-8613-a8da15818273",
+    "title": "Malicious authenticator app removed from Google Play Store",
+    "link": "https://androidcommunity.com/malicious-authenticator-app-removed-from-google-play-store-20220203/",
+    "description": "Seems like Google Play cannot shave off its curse of hosting undetected malware apps. In a recent development, an authenticator app going by the name 2FA Authenticator remained under the radar for 15 days on the Play Store and more than 10,000 people downloaded the malicious app capable of stealing financial information. Now the app […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:11:31 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Apps",
+      "Google",
+      "Google Play",
+      "malware",
+      "Phones"
+    ]
+  },
+  {
+    "id": "aba301e1-55ec-4fd4-ad2d-f44e21755c6c",
+    "title": "This Garmin smartwatch is the perfect way to kickstart your fitness journey, and is now available at its lowest price ever",
+    "link": "https://www.androidpolice.com/garmin-forerunner-255s-240-deal/",
+    "description": "Affordable and feature-packed",
+    "author": "Timi Cantisano",
+    "published": "Tue, 24 Dec 2024 23:38:11 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/12/169-17.png",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Garmin",
+      "smartwatches",
+      "deals",
+      "Smartwatches \u0026 Wearables",
+      "Garmin",
+      "Smartwatches",
+      "deals"
+    ]
+  },
+  {
+    "id": "bacf9340-4105-4798-89e6-ce44bf8de15f",
+    "title": "How to turn off Android's Safe Mode",
+    "link": "https://www.androidpolice.com/android-safe-mode-turn-off/",
+    "description": "Android's Safe Mode allows you to troubleshoot your phone, but if you enable the feature by accident, you'll find many apps won't work.",
+    "author": "Jon Gilbert",
+    "published": "Tue, 24 Dec 2024 23:19:10 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/02/how-to-turn-off-safe-mode-on-your-android-phone-or-tablet-thumbnail.jpeg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Android",
+      "Operating Systems",
+      "Android"
+    ]
+  },
+  {
+    "id": "b9524944-807a-4677-9774-950806f86c82",
+    "title": "How to Update Redmi Note 10 Pro to Android 12 (Custom ROM Build)",
+    "link": "https://cyanogenmods.org/redmi-note-10-pro-android-12-2/",
+    "description": "The latest Android 12 has been released and the same is now available for Redmi Note 10 Pro via an Android 12 custom ROM update build. This is a step-by-step guide that explains how to update Redmi Note 10 Pro to Android 12. [su_note note_color=”#F9D9D9″ text_color=”#AA4343″ radius=”3″ class=”” id=””]DISCLAIMER: Installing a custom ROM requires advanced ... Read more",
+    "author": "Siba",
+    "published": "Thu, 03 Oct 2024 17:46:30 +0000",
+    "image": "",
+    "source": "https://www.cyanogenmods.org/feed",
+    "categories": [
+      "Android 12",
+      "Redmi Note 10 Pro",
+      "Xiaomi"
+    ]
+  },
+  {
+    "id": "438c4360-363c-4168-b24c-4807b8959a52",
+    "title": "Best OnePlus Nord N30 cases",
+    "link": "https://phandroid.com/2024/12/24/best-oneplus-nord-n30-cases/",
+    "description": "Keep your OnePlus Nord N30 safe with these amazing cases. The post Best OnePlus Nord N30 cases appeared first on Phandroid.",
+    "author": "Ajit Singh",
+    "published": "Tue, 24 Dec 2024 12:30:14 +0000",
+    "image": "https://m.media-amazon.com/images/I/51yX4v8nY+L.jpg",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Evergreen",
+      "Smartphones",
+      "Nord N30",
+      "OnePlus"
+    ]
+  },
+  {
+    "id": "7193d952-4766-4ded-a26a-f9a3d2f14437",
+    "title": "Best Samsung Galaxy A15 power banks",
+    "link": "https://phandroid.com/2024/12/23/best-samsung-galaxy-a15-power-banks/",
+    "description": "Charge your Samsung Galaxy A15 anytime with these power banks. The post Best Samsung Galaxy A15 power banks appeared first on Phandroid.",
+    "author": "Ajit Singh",
+    "published": "Mon, 23 Dec 2024 13:00:56 +0000",
+    "image": "https://m.media-amazon.com/images/I/31PGFXoKUfL.jpg",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Evergreen",
+      "Smartphones",
+      "galaxy a15",
+      "Samsung"
+    ]
+  },
+  {
+    "id": "b455b5e8-d566-493f-85c8-5168a64509f9",
+    "title": "Google TV’s Free Channel Catalog Gets Bigger For The Holidays",
+    "link": "https://www.talkandroid.com/497011-google-tv-freeplay/",
+    "description": "You definitely won't have a dearth of Christmas content to watch if you've got Google TV.",
+    "author": "Ayomide Sadiq",
+    "published": "Tue, 24 Dec 2024 16:00:00 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Chromecast",
+      "Gadgets"
+    ]
+  },
+  {
+    "id": "f09d9690-42cd-4281-8ae0-f7e55b04fa86",
+    "title": "Board Kings Free Rolls – Updated Every Day!",
+    "link": "https://www.talkandroid.com/480056-board-kings-free-rolls-updated-daily/",
+    "description": "Run out of rolls for Board Kings? Find links for free rolls right here, updated daily!",
+    "author": "Nivenka Stanton",
+    "published": "Tue, 24 Dec 2024 15:09:43 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "4f5e2669-c3e1-45fc-9b0f-6abf15e787e5",
+    "title": "2024 Winners and losers: Samsung",
+    "link": "https://www.gsmarena.com/2024_winners_and_losers_samsung-news-65694.php",
+    "description": "It's the time of the year to look back at our favorite brands and give our report cards. Samsung was the biggest smartphone maker in the world in 2024, which was a huge win. Its midrange and S series phones were very popular, but the foldables didn't have the best of times. Let's dig in. Winner: Samsung Galaxy A16 and A16 5G Samsung's entry-level Galaxy A16 and A16 5G are both tremendously popular and for good reason. Both phones have good displays, solid battery life, and 50MP main cameras. They also have IP54 dust and splash resistance. Starting at just under €200 they are already...",
+    "author": "",
+    "published": "Tue, 24 Dec 2024 23:56:01 +0100",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "0aa5a82a-e472-4dd8-9dbc-19d8fac5c0fc",
+    "title": "vivo X200 Ultra camera specs leak",
+    "link": "https://www.gsmarena.com/vivo_x200_ultra_camera_specs_leak-news-65855.php",
+    "description": "vivo is currently working on the X200 Ultra, its absolute flagship smartphone for 2025. Today a new leak from China brings us a few interesting details about its cameras. The phone will reportedly have a triple rear camera setup just like its predecessor, with a 50 MP main shooter, a 50 MP ultrawide, and a 200 MP periscope telephoto camera. The main camera will have a large aperture and OIS. The X200 Ultra will capture 4K120fps video on all cameras, and will feature a new generation of vivo's self-developed imaging chip. Additionally, switching cameras while recording video has been...",
+    "author": "",
+    "published": "Tue, 24 Dec 2024 20:59:01 +0100",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "f64d7a5c-6d36-45c7-978b-7fe0c3c7f39e",
+    "title": "Gemini’s ‘Ask About This PDF’ Feature Appears Ready for Use",
+    "link": "https://www.droid-life.com/2024/12/23/geminis-ask-about-this-pdf-feature-appears-ready-for-use/",
+    "description": "At this year’s Google I/O conference, Google detailed a feature for Gemini Advanced that allowed users to upload a PDF file, then ask Gemini questions about said document. For example, if you uploaded a lengthy policies document, you could then pinpoint certain information inside of it, thanks to Gemini. Well, that feature is reported to … Continued Read the original post: Gemini’s ‘Ask About This PDF’ Feature Appears Ready for Use",
+    "author": "Tim",
+    "published": "Mon, 23 Dec 2024 22:09:35 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/09/Google-Messages-Gemini-3-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Apps",
+      "News",
+      "Android",
+      "Gemini",
+      "Google"
+    ]
+  },
+  {
+    "id": "4e684fa0-4c7c-4603-bf21-310c8708cc70",
+    "title": "Report: Samsung Sets Lower Expectations for Galaxy Z Fold 7, Z Flip 7 Amid Poor Foldable Sales",
+    "link": "https://www.droid-life.com/2024/12/23/report-samsung-sets-lower-expectations-for-galaxy-z-fold-7-z-flip-7-amid-poor-foldable-sales/",
+    "description": "After a year of unaccomplished expectations for sixth generation Galaxy Z foldable sales, Samsung has lowered its production forecast for the Galaxy Z Fold 7 and Galaxy Z Flip 7. In a report from Samsung’s home country of South Korea, production figures for the seventh generation of foldables has been set to just 2 million … Continued Read the original post: Report: Samsung Sets Lower Expectations for Galaxy Z Fold 7, Z Flip 7 Amid Poor Foldable Sales",
+    "author": "Tim",
+    "published": "Mon, 23 Dec 2024 20:23:59 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/11/Galaxy-Z-Fold-6-Picture-8-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "News",
+      "Android",
+      "Galaxy S25",
+      "Galaxy S25 Slim",
+      "Galaxy S25 Ultra",
+      "Galaxy Z Flip 6",
+      "Galaxy Z Flip 7",
+      "Galaxy Z Fold 6",
+      "Galaxy Z Fold 7",
+      "Samsung"
+    ]
+  }
+]
