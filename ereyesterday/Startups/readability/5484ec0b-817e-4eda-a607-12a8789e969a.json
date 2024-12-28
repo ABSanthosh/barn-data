@@ -1,0 +1,21 @@
+{
+  "id": "5484ec0b-817e-4eda-a607-12a8789e969a",
+  "title": "Show HN: Map of YC Startups",
+  "link": "https://yc-map.vercel.app/",
+  "description": "Hey Everybody! Hope you had a merry christmasToday I had a bit of fun with Claude.Started by scraping YC's startups list, then ran them through OpenAI's embedding service, then UMAP'd the embedding to reduce the dimension to just two coordinates and then just forced Claude to write React that would compile to visualize that.I had fun and I think it's interesting, so take a look!Also note that you won't be able to zoom on mobile (found about this Plotly limitation way too late). If there's interest I can fix this issue by changing plotting libs tomorrow :)Merry christmas Comments URL: https://news.ycombinator.com/item?id=42511663 Points: 5 # Comments: 2",
+  "author": "yoouareperfect",
+  "published": "Wed, 25 Dec 2024 22:37:31 +0000",
+  "source": "https://hnrss.org/frontpage",
+  "categories": null,
+  "byline": "",
+  "length": 72,
+  "excerpt": "Interactive visualization of company landscape",
+  "siteName": "",
+  "favicon": "",
+  "text": "YC Companies Landscape — made by Mike Alche | mikealche.com | My Twitter",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"__next\"\u003e\u003cmain\u003e\u003ch2\u003eYC Companies Landscape \u003cspan\u003e— made by Mike Alche | \u003ca href=\"https://mikealche.com\"\u003emikealche.com\u003c/a\u003e | \u003ca href=\"https://x.com/mike_alche\"\u003eMy Twitter\u003c/a\u003e\u003c/span\u003e\u003c/h2\u003e\u003c/main\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
