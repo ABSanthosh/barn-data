@@ -1,0 +1,386 @@
+[
+  {
+    "id": "e98a8036-ffe0-4b55-aec3-f5f9308dbe7c",
+    "title": "Rudolph with your nose so bright",
+    "link": "http://theoatmeal.com/comics/rudolph?no_popup=1",
+    "description": "Won't you guide my sleigh tonight?View on my website",
+    "author": "Matthew Inman",
+    "published": "2024-12-20T18:45:39+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/rudolph_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "ed02b786-86c4-4d53-9f1b-4a1c58ead42c",
+    "title": "A funeral for voicemail",
+    "link": "http://theoatmeal.com/comics/rip_voicemail?no_popup=1",
+    "description": "Is voicemail dead?View on my website",
+    "author": "Matthew Inman",
+    "published": "2024-11-21T20:04:42+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/rip_voicemail_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "c3251d86-65b6-4aed-8494-d76327b45f4f",
+    "title": "Time Capsule Instructions",
+    "link": "https://xkcd.com/3031/",
+    "description": "",
+    "author": "",
+    "published": "Mon, 30 Dec 2024 05:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/time_capsule_instructions.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "b59776f3-d3aa-4e22-9d2e-559ec5fd3a7f",
+    "title": "Lasering Incidents",
+    "link": "https://xkcd.com/3030/",
+    "description": "",
+    "author": "",
+    "published": "Fri, 27 Dec 2024 05:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/lasering_incidents.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "e47befec-7508-4f9f-8e44-ab4b07858db1",
+    "title": "Always Two There Are",
+    "link": "https://www.penny-arcade.com/news/post/2024/12/30/always-two-there-are",
+    "description": "Marvel Rivals has taken over fully now as the Snack Game. For a while I was playing it exclusively with other people, it was a Hang Out Game, but Quick Matches just don't take very long and they can fit in anywhere. It's also an opportunity for others, our erstwhile allies, to learn remedial hero shooter skills at our expense!",
+    "author": "",
+    "published": "Mon, 30 Dec 2024 17:05:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "1a37d889-373f-4fe2-906e-0e1b32c002e6",
+    "title": "Always Two There Are",
+    "link": "https://www.penny-arcade.com/comic/2024/12/30/always-two-there-are",
+    "description": "New Comic: Always Two There Are",
+    "author": "",
+    "published": "Mon, 30 Dec 2024 08:01:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "9c67a7dc-bbd6-426a-8fde-c31a16fa8b98",
+    "title": "Best of…: Best of 2024: Lowering the Rent Floor",
+    "link": "https://thedailywtf.com/articles/best-of-2024-lowering-the-rent-floor",
+    "description": "Businesses always want to save money. But boy, they can sometimes come up with some hare-brained ways of doing it. Original --Remy Things weren't looking good for IniOil. It was the 1980s in the US: greed was good, anti-trust laws had been literally Borked, and financialization and mergers were eating up the energy industry. IniOil was a small fish surrounded by much larger fish, and the larger fish were hungry. Gordon was their primary IT person. He managed a farm of VAXes and other minicomputers, which geologists used to do complicated models to predict where oil might be found. In terms of utilization, the computer room was arguably the most efficient space in the company: those computers may have been expensive, but they were burning 24/7 to find more oil to extract. The CEO sent out a memo. \"Due to economic conditions,\" it read, \"we are going to have to cut costs and streamline.\" Cutting costs and streamlining meant \"hiring a bunch of Ivy League MBAs\" who had a long list of reforms they wanted the company to adopt. One of them was to force all the various business units to use internal billing and charge other business units for their services. At first, this looked like a good thing for Gordon. Their overhead costs were low- the IT team was small, and the VAXes were reliable, and the workloads were well understood. Billing out computer time was going to make all their metrics look amazing. Unfortunately, facilities also was a billable unit. And they charged by square foot. Suddenly, the IT team was paying through the nose for the computer room. What really stuck in Gordon's craw, however, was that it seemed like the computer room was getting billed at a more expensive rate than anything else in the building- it was about the same size as the sales floor, but was billed at double the rate. Gordon raised this with facilities. \"That's not true,\" they said. \"We bill by the square foot. You've got twice as much square footage.\" Gordon insisted that the computer room did not. He broke out a tape measure, went to the sales floor, took some measurements, then went to the computer room and repeated it. The difference was a matter of a few square feet. Gordon went back to facilities. \"Your measurements are wrong.\" \"They're square rooms,\" Gordon said. \"How wrong could I be? A factor of two? Do you want to take the measurements?\" Facilities didn't need to take measurements. They had drawings. And the drawings showed a room that was 80'x80'… and was 12,800 sq ft. Gordon pointed out how that didn't make sense, by basic arithmetic, and the facilities manager tapped an annotation on the drawing. \"Raised flooring\". Because the computer room had a raised floor, facilities was counting it as twice the floor space. Gordon tried to argue with facilities, pointing out that no matter how many raised floors were added, the actual building square footage did not change. But every business unit was looking to cut costs and boost internal profits, which meant \"seeing reason\" wasn't high on the facilities priority list. Gordon raised it up with management, but everyone was too panicked by the threat of mergers and losing jobs to start a major fight over it. Facilities said the square footage was 12,800, then that's what it was. But Gordon's management had a solution. \"Gordon,\" his boss said. \"Remove the raised flooring. Just rip it out.\" It was a quick and easy way to turn high billing rates into trip hazards and risks to equipment, but nobody was paying for risk mitigation and if there were any injuries because someone tripped over a cable, that'd come out of some other team's budget anyway. For a few months, the computer room was a hazard site, but the rent was at least cheap. In the end, though, none of it mattered- all the MBA driven cost \"savings\" weren't enough to stop a much bigger oil company from swallowing up IniOil. Most of the employees lost their jobs. The execs who owned most of the shares got a huge payout. And, well, the purchaser was interested in land leases and mineral rights, not computer rooms, so the VAXes were broken down and sold to a few universities. [Advertisement] Keep the plebs out of prod. Restrict NuGet feed privileges with ProGet. Learn more.",
+    "author": "Remy Porter",
+    "published": "Tue, 31 Dec 2024 06:30:00 GMT",
+    "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "Best of…"
+    ]
+  },
+  {
+    "id": "497a22c9-e557-4ed7-a238-c6f1f8329655",
+    "title": "Best of…: Best of 2024: Check Your Email",
+    "link": "https://thedailywtf.com/articles/best-of-2024-check-your-email",
+    "description": "As we recap some of the best moments of the year, make sure you check this report, which is very important, so important the entire company has to stop what it's doing. Original. --Remy Branon's boss, Steve, came storming into his cube. From the look of panic on his face, it was clear that this was a full hair-on-fire emergency. \"Did we change anything this weekend?\" \"No,\" Branon said. \"We never deploy on a weekend.\" \"Well, something must have changed?!\" After a few rounds of this, Steve's panic wore off and he explained a bit more clearly. Every night, their application was supposed to generate a set of nightly reports and emailed them out. These reports went to a number of people in the company, up to and including the CEO. Come Monday morning, the CEO checked his inbox and horror of horror- there was no report! \"And going back through people's inboxes, this seems like it's been a problem for months- nobody seems to have received one for months.\" \"Why are they just noticing now?\" Branon asked. \"That's really not the problem here. Can you investigate why the emails aren't going out?\" Branon put aside his concerns, and agreed to dig through and debug the problem. Given that it involved sending emails, Branon was ready to spend a long time trying to debug whatever was going wrong in the chain. Instead, finding the problem only took about two minutes, and most of that was spent getting coffee. public void Send() { //TODO: send email here } This application had been in production over a year. This function had not been modified in that time. So while it's technically true that no one had received a report \"for months\" (16 months is a number of months), it would probably have been more accurate to say that they had never received a report. Now, given that it had been over a year, you'd think that maybe this report wasn't that important, but now that the CEO had noticed, it was the most important thing at the company. Work on everything else stopped until this was done- mind you, it only took one person a few hours to implement and test the feature, but still- work on everything else stopped. A few weeks later a new ticket was opened: people felt that the nightly reports were too frequent, and wanted to instead just go to the site to pull the report, which is what they had been doing for the past 16 months. .comment { border: none; } [Advertisement] ProGet’s got you covered with security and access controls on your NuGet feeds. Learn more.",
+    "author": "Remy Porter",
+    "published": "Mon, 30 Dec 2024 06:30:00 GMT",
+    "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "Best of…"
+    ]
+  },
+  {
+    "id": "eee78034-eb46-460f-a110-46af07778f4d",
+    "title": "Cousin’s Husband Says First Word",
+    "link": "https://theonion.com/cousins-husband-says-first-word/",
+    "description": "NORFOLK, VA—In what is being hailed as a huge milestone in the development of the man’s verbal skills, sources confirmed Tuesday that Mark Peterbaum, the husband of a local woman’s cousin, said his first word during a visit with extended family over the holidays. “As far as any of us could tell, Mark didn’t know […] The post Cousin’s Husband Says First Word appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Tue, 31 Dec 2024 13:00:00 +0000",
+    "image": "",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "Local",
+      "Vol 61: Issue 1"
+    ]
+  },
+  {
+    "id": "ffbcba6e-01ff-43be-b8c5-3bdd00f3c1ae",
+    "title": "Majority Of Americans Prefer Sprawl To Walkable Cities",
+    "link": "https://theonion.com/majority-of-americans-prefer-sprawl-to-walkable-cities/",
+    "description": "A new Pew Research poll found that 57% of adults said they would prefer to live in a community with larger houses, even if schools, stores and restaurants are several miles away. What do you think? The post Majority Of Americans Prefer Sprawl To Walkable Cities appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Tue, 31 Dec 2024 13:00:00 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2024/11/Face-Asian.jpg?w=200",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "American Voices",
+      "Vol 61: Issue 1"
+    ]
+  },
+  {
+    "id": "52088ee0-ed09-40d1-ac59-f5b615ce4ea0",
+    "title": "5 Real-Life Spies and How They Blew It",
+    "link": "https://www.cracked.com/article_44600_5-real-life-spies-and-how-they-blew-it.html?newsletter-cat=science-history",
+    "description": "By Eli Yudin Published: December 12th, 2024",
+    "author": "",
+    "published": "Thu, 12 Dec 2024 08:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "0d511084-074d-4448-beda-ba611e74892c",
+    "title": "An ‘SNL’ Producer Suggested That Future Generations Will Study Cast Members’ PTSD",
+    "link": "https://www.cracked.com/article_44727_an-snl-producer-suggested-that-future-generations-will-study-cast-members-ptsd.html?newsletter-cat=movies-tv",
+    "description": "By JM McNab Published: December 12th, 2024",
+    "author": "",
+    "published": "Thu, 12 Dec 2024 06:40:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "01f4ddb0-b218-4765-b4f0-e6473ee07fe6",
+    "title": "The ‘Do of ’72",
+    "link": "https://awkwardfamilyphotos.com/72do",
+    "description": "“My mom cut my bangs for picture day, 1972.” (submitted by IG @keciadeveney) The post The ‘Do of ’72 appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Team Awkward",
+    "published": "Mon, 30 Dec 2024 07:27:23 +0000",
+    "image": "https://s3.awkwardfamilyphotos.com/wp-content/uploads/2024/12/29232558/230f.jpg",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Kids",
+      "School Photos"
+    ]
+  },
+  {
+    "id": "334b3146-f564-455e-8ea0-4713f051901d",
+    "title": "Top Heavy",
+    "link": "https://awkwardfamilyphotos.com/2024/topheavy",
+    "description": "“My 9 year old daughter drew me a picture for my 40th birthday…at least my legs look good!” (submitted by IG @kerrinaomi) The post Top Heavy appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Team Awkward",
+    "published": "Tue, 10 Dec 2024 20:52:30 +0000",
+    "image": "https://s3.awkwardfamilyphotos.com/wp-content/uploads/2024/12/10125109/230.jpg",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Birthdays"
+    ]
+  },
+  {
+    "id": "15de43b5-06c1-4821-961b-ea104c6da725",
+    "title": "Comic for 2021.12.21",
+    "link": "http://explosm.net/comics/6060/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Tue, 21 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "226c6961-38d1-4c3d-833f-8d35b6904f40",
+    "title": "Comic for 2021.12.20",
+    "link": "http://explosm.net/comics/6059/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Mon, 20 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "240a1669-3a67-4ffa-bb9d-30e19ad4d6b6",
+    "title": "'He chose me': Tiny Kitten Falls Asleep Inside of Man’s Sneaker, Instantly Adopting Him and Becoming His Best Fluffy Friend",
+    "link": "https://cheezburger.com/38489605/he-chose-me-tiny-kitten-falls-asleep-inside-of-mans-sneaker-instantly-adopting-him-and-becoming-his",
+    "description": "Being adopted by a cat can be very dramatic sometimes. Maybe a kitten stops your car by yelling and demands that you take it home with you. Maybe you rescue a frozen kitten, and then, just as it's warming up inside your house, it's also warming up your heart, and you simply cannot stop yourself from keeping it. Or maybe it happens like this. Simply. You come home one day to an itty bitty kitten sleeping inside of your sneaker, and just like that, you get adopted.  Yes, this story is simple, but it might be one of the cutest that we have come across in a long time, because not only did this kitten get adopted by its human of choice, the human also got a best friend for life. Really, more stories like these in 2025 is all that we ask for. Stories of wholesomeness and cats and kindness.",
+    "author": "Mariel Ruvinsky",
+    "published": "Tue, 31 Dec 2024 07:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "aww",
+      "wholesome",
+      "cat",
+      "adorable",
+      "adoption",
+      "heartwarming",
+      "cute",
+      "adopted",
+      "story",
+      "Cats",
+      "rescue"
+    ]
+  },
+  {
+    "id": "8eeef16d-0da0-4118-808f-268864fae2e9",
+    "title": "Absolute Unit Orange Cat Replaced as the Baby of the Family With Actual Hooman Child; He Loves to Let His Pawrents Know How Hissterically Grumpy It Makes Him",
+    "link": "https://cheezburger.com/38496261/absolute-unit-orange-cat-replaced-as-the-baby-of-the-family-with-actual-hooman-child-he-loves-to-let",
+    "description": "Tuesdays are for silly chonky cats, feline fam. We've decided it. We're starting off chonky tuesdays with an absolute unit of an orange cat who is particularly peeved about being replaced as the baby of the family. We all treat our cats like babies. It's part of being a pawrent. However, when you have an actual hooman baby, it's easy for the cat to feel replaced as the center of attention. Now, some cats adjust to this quite well, becoming beautiful babysitters to their new hooman siblings and becoming a heartwarming duo of feline family love.Others, on the other hand, get jealous of the new hooman in the house. And when they do, it's beyond hilarious. Our orange cat in today's post loves to let his pawrents know how hissterically grumpy he is about his new sibling, but luckily, we think it's all for show. This clementine-colored chonker below is waiting for your giggles with his family of hooman gingers. We wish you a very chonky and humorous day!",
+    "author": "Blake Seidel",
+    "published": "Tue, 31 Dec 2024 09:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "absolute unit",
+      "hilarious",
+      "hoomans",
+      "baby",
+      "child",
+      "lol",
+      "funny cats",
+      "grumpy",
+      "orange cats",
+      "pawrents",
+      "love",
+      "family",
+      "Cats",
+      "funny",
+      "animals"
+    ]
+  },
+  {
+    "id": "e7424778-f654-4621-90f4-b9b8214de541",
+    "title": "20 Hotel guests who are packing their bags and demanding refunds: '[They] gave us a sofa bed in a conference room'",
+    "link": "https://cheezburger.com/38514181/20-hotel-guests-who-are-packing-their-bags-and-demanding-refunds-they-gave-us-a-sofa-bed-in-a",
+    "description": "When it comes to booking a hotel, it's a good idea to go online and read some recent reviews before deciding to rest your head there. The more recent, the better! Guests will be quite honest in their reviews, and they'll note important things like if the beds were lumpy, if the continental breakfast was just granola bars and water bottles, or if the reception staff were impolite. Take it with a grain of salt, because people do love to yap on about their every little perceived slight. If someone writes that the front desk person looked at them funny, you can overlook their review. But if a different person says that there were bugs or water damage in the room, it's time to search elsewhere. Alongside all of the issues below, one of the most infuriating vacation nightmares is if your hotel room is so bad that you have to sleep in your car. You won't get a refund, no matter how much you complain to the receptionist. This has happened to me only once, and the hotel had the scratchiest sheets imaginable. Instead of dozing off into a deep slumber, the bed lumps felt like I was laying on baseballs. The carpet was moist, and the shower was just a drizzle of water. That's what I get for picking a 2-star hotel in the middle of nowhere, I suppose. After that, read about some employees whose bosses had great reasons for letting them go, like one worker who \"pick[ed] up his car with a forklift.\"",
+    "author": "Remy Millisky",
+    "published": "Tue, 31 Dec 2024 12:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "guests",
+      "hotel guest",
+      "hotel",
+      "front desk",
+      "hotel room",
+      "Travel",
+      "hotels",
+      "beds"
+    ]
+  },
+  {
+    "id": "068fa1cc-732f-4294-bdd5-e0f9a3be75c6",
+    "title": "68-year-old mother extends her stay at 38-year-old daughter's home without permission, daughter loses it: 'I want my house back!'",
+    "link": "https://cheezburger.com/38472453/68-year-old-mother-extends-her-stay-at-38-year-old-daughters-home-without-permission-daughter-loses",
+    "description": "The fallout that comes after the holidays is always challenging, especially after spending time with difficult family members. Not only do you need to get yourself back into a routine before returning to work, but you also often need some space to recharge and recenter yourself after having virtually no time to yourself during the week of Christmas.Don't get me wrong, it's lovely to spend the holidays with your parents as a fully grown adult. Sometimes, you get to revert back to being a kid for a few days, but that comes with its disadvantages as well. Now that you are a fully grown adult yourself, it's nearly impossible to ignore all the ways in which your parents' way of life is unhealthy, ridiculous, or just straight-up aggravating. Here, we have a 38-year-old woman who just hosted her mother for the week of Christmas at her place, since she lived closer to where the whole family gathered for the holiday. However, after the mother's basement flooded, the 68-year-old woman wanted to extend her stay for the following week. In theory, this is justified and understandable, but we trust the Redditor that her needy mother was using potentially minor damage as an excuse to stick around.Keep scrolling below for the full story and for some commentary from yours truly. For more stories like this, take a look at this post about an employee's revenge on her lunch-thieving coworker.",
+    "author": "BenWeiss",
+    "published": "Tue, 31 Dec 2024 11:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "christmas",
+      "family drama",
+      "aita",
+      "entitled parents",
+      "AITAH",
+      "mother",
+      "merry christmas",
+      "entitled",
+      "family",
+      "reddit thread",
+      "Reddit"
+    ]
+  },
+  {
+    "id": "322c4dd9-1c76-4fa3-a2b4-7c4f5020deeb",
+    "title": "Saturday Morning Breakfast Cereal - Metabolism",
+    "link": "https://www.smbc-comics.com/comic/metabolism",
+    "description": "Click here to go see the bonus panel!Hovertext:He wakes up and the first thing he does is insist that professional grade ninja stars are an investment.Today's News:",
+    "author": "Zach Weinersmith",
+    "published": "Tue, 31 Dec 2024 12:12:11 -0500",
+    "image": "https://www.smbc-comics.com/comics/1735665139-20241231.png",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  },
+  {
+    "id": "45f816e1-1926-4b12-afcf-84a5f8c5f751",
+    "title": "Saturday Morning Breakfast Cereal - Etymology",
+    "link": "https://www.smbc-comics.com/comic/etymology-2",
+    "description": "Click here to go see the bonus panel!Hovertext:This will be in the compendium of SMBC etymology jokes, volume 8.Today's News:",
+    "author": "Zach Weinersmith",
+    "published": "Mon, 30 Dec 2024 00:00:00 -0500",
+    "image": "https://www.smbc-comics.com/comics/1735487323-20241230.png",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  },
+  {
+    "id": "eb308703-3dd7-42f9-bf2c-1aa7a81f73f6",
+    "title": "I’ve lost track of how many proposals we’ve gotten to witness at Nowhere, but this took it to a new level.",
+    "link": "https://thebloggess.com/2024/12/31/ive-lost-track-of-how-many-proposals-weve-gotten-to-witness-at-nowhere-but-this-took-it-to-a-new-level/",
+    "description": "A few decades ago I met my husband in a bookstore where he picked me up by convincing me to go to his dorm room to lend me the books I was looking at so I didn’t have to buy them. Over a decade ago I started writing strange books about our lives that somehowContinue reading \"I’ve lost track of how many proposals we’ve gotten to witness at Nowhere, but this took it to a new level.\"",
+    "author": "thebloggess",
+    "published": "Tue, 31 Dec 2024 21:03:24 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  },
+  {
+    "id": "bcb70d49-aecd-4ff4-bae1-1ca462afe250",
+    "title": "Put your towels on. It’s Christmas Eve.",
+    "link": "https://thebloggess.com/2024/12/24/put-your-towels-on-its-christmas-eve/",
+    "description": "First off, I just went through and counted and it looks like 432 kids were gifted with new stuffed animals this week during the 15th Annual James Garfield Miracle. Holy crap. I love you guys. Secondly, I wrote this for my substack today but I’m sharing it here too in case you don’t substack butContinue reading \"Put your towels on. It’s Christmas Eve.\"",
+    "author": "thebloggess",
+    "published": "Tue, 24 Dec 2024 20:49:22 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  },
+  {
+    "id": "519dec1b-7bc8-47a7-be7b-e70827959822",
+    "title": "08/31/23 PHD comic: 'New Book! Oliver's Great Big Universe!'",
+    "link": "http://www.phdcomics.com/comics.php?f=2050",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"New Book! Oliver's Great Big Universe!\" - originally published 8/31/2023 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Tue, 14 Dec 2021 11:53:03 -0800",
+    "image": "http://www.phdcomics.com/comics/archive/phd083123s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  },
+  {
+    "id": "dd1be65c-1bda-4abf-9874-1d1a56f332b8",
+    "title": "10/22/21 PHD comic: 'Current Status'",
+    "link": "http://www.phdcomics.com/comics.php?f=2049",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"Current Status\" - originally published 10/22/2021 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Mon, 25 Oct 2021 02:09:47 -0700",
+    "image": "http://www.phdcomics.com/comics/archive/phd102221s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  },
+  {
+    "id": "12c8ba1e-0eec-4ea3-bcf0-60694364a97d",
+    "title": "Sunday Secrets",
+    "link": "https://postsecret.com/2024/12/28/sunday-secrets-539/",
+    "description": "The post Sunday Secrets appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sat, 28 Dec 2024 21:16:00 +0000",
+    "image": "https://i0.wp.com/postsecret.com/wp-content/uploads/2024/12/sister.jpg?resize=526%2C346\u0026ssl=1",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "314ed4a1-8949-4bb8-ab82-158997de107c",
+    "title": "Classic Secrets",
+    "link": "https://postsecret.com/2024/12/28/classic-secrets-542/",
+    "description": "The post Classic Secrets appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sat, 28 Dec 2024 20:23:00 +0000",
+    "image": "https://i0.wp.com/postsecret.com/wp-content/uploads/2024/12/believe-1.jpg?resize=526%2C352\u0026ssl=1",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  }
+]
