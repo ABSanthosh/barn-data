@@ -1,0 +1,23 @@
+{
+  "id": "70ff4ea6-eeb7-4a29-a7a8-0958fa67bae0",
+  "title": "Ex-Microsoft Designer Reveals Windows 11's Dynamic Wallpapers That May Have Been Shelved",
+  "link": "https://tech.slashdot.org/story/25/01/02/2148235/ex-microsoft-designer-reveals-windows-11s-dynamic-wallpapers-that-may-have-been-shelved?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+  "description": "Former Microsoft designer Sergey Kisselev has shared previously unseen concepts for Windows 11 dynamic wallpapers, intended for educational devices. The animated backgrounds were designed to complement Windows 11's centered interface but never shipped with the operating system's 23H2 update as initially planned. Read more of this story at Slashdot.",
+  "author": "msmash",
+  "published": "2025-01-02T23:40:00+00:00",
+  "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "categories": [
+    "windows"
+  ],
+  "byline": "",
+  "length": 334,
+  "excerpt": "Former Microsoft designer Sergey Kisselev has shared previously unseen concepts for Windows 11 dynamic wallpapers, intended for educational devices. The animated backgrounds were designed to complement Windows 11's centered interface but never shipped with the operating system's 23H2 update as initi...",
+  "siteName": "",
+  "favicon": "",
+  "text": "\"Dynamic Wallpaper\" == A shader running full time at max FPS. While I like animated shaders (see shadertoy) and old school demos and intros... ...we are talking about the desktop background, not a screensaver. The desktop background should be trying to be minimal in all respects, or else the machine is never allowed to be minimal.",
+  "image": "https://a.fsdn.com/sd/topics/windows_64.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"comment_body_65058445\"\u003e\u003cp\u003e\u0026#34;Dynamic Wallpaper\u0026#34; == A shader running full time at max FPS.\u003c/p\u003e\u003cp\u003e\n\nWhile I like animated shaders (see shadertoy) and old school demos and intros...\u003c/p\u003e\u003cnobr\u003e \u003cwbr/\u003e\u003c/nobr\u003e\u003cp\u003e...we are talking about the desktop background, not a screensaver.\u003c/p\u003e\u003cp\u003e\n\nThe desktop background should be trying to be minimal in all respects, or else the machine is never allowed to be minimal.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
