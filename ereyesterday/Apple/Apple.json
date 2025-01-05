@@ -1,0 +1,370 @@
+[
+  {
+    "id": "0acf9c95-3b83-40a6-93c1-ff96fb04ddd0",
+    "title": "What to Expect From Apple in 2025: iPhone 17 Air, NEW Command Center \u0026 More...",
+    "link": "https://www.youtube.com/watch?v=5gHQ8C65cbA",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2024-12-30T17:47:23+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "7b79119f-db3e-4067-82b0-77904e4b6766",
+    "title": "New iPhone 16/Pro/Max: Try These Features First!",
+    "link": "https://www.youtube.com/watch?v=dG-exeQxW88",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2024-12-26T15:13:40+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "69e4b0de-39ae-4472-8ff6-0efc75a59de4",
+    "title": "Apple isn’t spying on your photos in iOS 18 with Enhanced Visual Search",
+    "link": "https://www.macworld.com/article/2567181/ios-18-enhanced-visual-search-privacy-setting-how-to.html",
+    "description": "Macworld The Photos app overhaul in iOS 18 has been met with mixed approval. We have a set of tips for how to improve iOS 18 Photos by customizing the interface and layout, but the internet seems to have caught on to a new Enhanced Visual Search feature and is worried about the privacy implications. Starting in iOS 16, a feature called Visual Look Up will identify common objects, landmarks, plants, animals, and even icons and labels in your photos. When you look at an image in your Photos library, the info button (i) will get a little sparkle on it if Visual Lookup can provide further info. It might even change from the letter (i) to an icon of an animal or leaf. The feature got better in iOS 17, and is improved even more in iOS 18. But there’s only so much your iPhone can do on-device. There just no way to match any of your infinite photo variety to the thousands of popular landmarks and points of interest in the world—the database would fill up all your iPhone storage and then some. So to make Visual Look Up better at identifying common landmarks and points of interest, Apple will use the cloud to match places in your photos to a big points-of-interest database it maintains. This, of course, requires your photo (or at least, specific markers and data from them) leaving your iPhone. Here’s what the privacy implications are and how to disable this feature if you want to. Enhanced Visual Search privacy In Apple’s legal disclaimers about Photos \u0026 Privacy, it says: Enhanced Visual Search in Photos allows you to search for photos using landmarks or points of interest. Your device privately matches places in your photos to a global index Apple maintains on our servers. We apply homomorphic encryption and differential privacy, and use an OHTTP relay that hides IP address. This prevents Apple from learning about the information in your photos. Note that this is just about matching places, not faces of people or pets (or other animals and plants), which all still happens on-device. Just what does all that technical jargon mean? Well, “homomorphic encryption” means encryption that allows operations to be done on the data while it’s still in its encrypted state. In other words, your image is encrypted and then Apple matches the data to its database of landmarks and points of interest without ever decrypting it into a visually recognizable image. Nobody at Apple can just access some server and look at your photos. Differential Privacy is a means of protecting individual data when it’s used in group analysis. You might have your anonymized data as part of a bunch of data sets, and nobody can identify you when looking at just one of them, but if you combine data from multiple sets together you can pinpoint an individual person. Differential Privacy is a way to use several mathematical methods to protect users from this. And an OHTTP relay is an “Oblivious HTTP Relay.” It’s a trusted internet relay that takes encrypted requests and forwards them along to a specific location (in this case, to Apple’s photo analyzing servers) without sending along any identifying information like IP addresses, device IDs, and so on. In other words, it separates the “what” of a request from the “who” of the request. So Apple has no way of knowing from which one of its users any individual photo has come, nor would any hacker who got access to Apple’s Enhanced Visual Lookup server. In other words, Apple is going to great lengths to have no ability to know what your photos are or where they came from. This protects your privacy, but it also protects Apple from liability or surveillance requests from government entities. How to disable Enhanced Visual Search If you’re still worried about privacy in Photos, even with all that encryption and obscuring identifiable information, you can disable Enhanced Visual Search easily enough. Visual Look Up will still work, it just won’t be as good at identifying things like landmarks or points of interest in your photos. On iPhone or iPad: Open Settings Scroll to the bottom and tap on Apps. Select Photos. You’ll find the toggle for Enhanced Visual Search at the bottom of the Photos settings. Tap once to turn it off. Foundry On Mac, you’ll find it in the settings of the Photos app itself: Open Photos In the Photos menu, select Settings (or type Command-comma) Select the General tab You’ll find a checkbox for Enhanced Visual Search at the bottom of the General tab. Click once to turn it off. Foundry",
+    "author": "",
+    "published": "Thu, 02 Jan 2025 19:59:55 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/01/apple-photos-ios18-1.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "iOS"
+    ]
+  },
+  {
+    "id": "1e90c1f5-a9e3-4591-bd31-0b8bdad76395",
+    "title": "Could the iPhone 17 finally be getting a major screen upgrade?",
+    "link": "https://www.macworld.com/article/2567062/could-the-iphone-17-finally-be-getting-a-major-screen-upgrade.html",
+    "description": "Macworld When Apple unveiled the four new iPhone models last fall, it quickly became apparent that there were fewer differences between the standard and Pro models than had been the case in previous years. Some Pro fans, indeed, were so impressed by the basic iPhone 16 and 16 Plus that they decided to save money and pick the cheaper option. There are benefits to going Pro, of course, and one of these concerns the display. The 16 Pro and 16 Pro Max have slightly larger screens than their non-Pro equivalents with slightly narrower bezels around the edge, but more importantly, they are better specced: As has been the case since the iPhone 13, they are equipped with ProMotion and can dynamically increase their refresh rate up to 120Hz, whereas the standard screens are capped at 60Hz. (The Pro handsets also come with always-on displays, which is a related benefit: ProMotion enables the phone to conserve battery life by dramatically lowering the refresh rate when performing operations that don’t require a high refresh rate.) If the latest report is accurate, however, the Pro phones may soon lose this perk–not in the sense of having it taken away, but in it being given to the cheaper handsets as well. A new rumor claims all four iPhone 17 models will get screens with higher refresh rates, which almost certainly refers to a ProMotion upgrade. The leak (via MacRumors) comes originally from Digital Chat Station on the Chinese social media site Weibo, and while Weibo can sometimes be a dubious source of intel this particular user has a track record; as MacRumors notes, they made accurate predictions about a few features and design elements of the iPhone 12 and iPhone 15 ahead of those launches. What’s more, the claim both makes sense and fits what we’ve heard so far about the late-2025 iPhones. As early as February 2024 we were hearing tips that the entire iPhone 17 range would be fitted with LTPO displays; that’s the screen tech, in contrast to LTPS on the non-Pro iPhones, which enables ProMotion, and likely means we can also expect always-on displays across the board next fall. But this does leave Apple in a tricky position. How will it differentiate the iPhone 17 Pro and 17 Pro Max from their more affordable siblings? Early signs hint at a new part-aluminum, part-glass design (the top half will be aluminum and the bottom glass, apparently) and a redesigned camera bump, but customers will need to see more than that if they’re to spring for those models’ premium price tags. For all the latest news and rumors, check our regularly updated iPhone 17 superguide. But if you can’t wait that long for a new handset, pick up a bargain on the current range with our roundup of the best iPhone deals.",
+    "author": "",
+    "published": "Thu, 02 Jan 2025 17:19:54 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/01/apple-iphone-16-pro-review.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "iPhone"
+    ]
+  },
+  {
+    "id": "80667e7a-b14d-436d-9832-ba0443aa6de7",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 11:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "c6603dc0-6225-48ac-bd91-aa431be7f9c6",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 07:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "6a15aedb-0483-4dcf-82cb-5fae5c174d79",
+    "title": "Binge Watch Apple TV+ This Weekend for Free",
+    "link": "https://osxdaily.com/2025/01/02/binge-watch-apple-tv-this-weekend-for-free/",
+    "description": "If you’d like to start the new year with some binge watching, you can enjoy a free weekend of all-access to Apple TV+ films and shows starting on January 3 and continuing through January 5. The free weekend is available on any device where you can stream Apple TV+, all you will need is an ... Read More",
+    "author": "Jamie Cuevas",
+    "published": "Thu, 02 Jan 2025 20:51:25 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Apple TV",
+      "News",
+      "Apple TV Plus"
+    ]
+  },
+  {
+    "id": "f7aed259-2594-4558-826c-04fc0a249e3a",
+    "title": "Deals: Get Apple Watch Series 10 for $329 (Discounted from $399)",
+    "link": "https://osxdaily.com/2025/01/02/deals-get-apple-watch-series-10-for-329-discounted-from-399/",
+    "description": "Want to start the new year off with a great fitness tracker to help motivate your workouts and track your health stats and vitals? Then don’t miss this great deal on the all new Apple Watch Series 10 is available for just $329 in select color and band options, available right now on Amazon. Maybe ... Read More",
+    "author": "OSXDaily",
+    "published": "Thu, 02 Jan 2025 20:50:52 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Deals",
+      "apple deal",
+      "apple deals",
+      "deal",
+      "deals"
+    ]
+  },
+  {
+    "id": "42ea0ced-cd4a-4247-baee-4ef6d96de072",
+    "title": "∞ The Dalrymple Report: AirPods, iOS, and Best of 2024",
+    "link": "https://www.loopinsight.com/2024/12/20/the-dalrymple-report-airpods-ios-and-best-of-2024/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-airpods-ios-and-best-of-2024",
+    "description": "Dave and I talk about the AirPods Pro and a big feature that is missing from the AirPods Max—will it ever get updated. We also look at everything you can do with ChatGPT integration in Apple Intelligence, and talk about the rumors of a new Apple TV. Follow this podcast Show Notes: Some AirPods appreciation AirPods Max are missing a key feature on the new USB-C model iOS 18.2: Everything You Can Do With ChatGPT Integration New Apple TV Rumored to Launch Next Year With These Features Apple reveals 2024’s most downloaded apps and games on the App Store Shows and movies we're watching Three Body Problem, Netflix The Old Man, Hulu",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 20 Dec 2024 20:46:04 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "d4c3fc9a-c724-40e7-a9bb-0e8c7f51095e",
+    "title": "∞ The Dalrymple Report: HomePod, iOS 18.2, and Voice Memos",
+    "link": "https://www.loopinsight.com/2024/12/13/the-dalrymple-report-homepod-ios-18-2-and-voice-memos/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-homepod-ios-18-2-and-voice-memos",
+    "description": "Dave is having a problem with his HomePod not recognizing his voice all of a sudden. Apple released iOS 18.2 adding more Apple Intelligence features that aren't really that good. Voice Memos also received an update with some features that are really good, escpaically for musicians. Follow this podcast Show Notes: Apple officially launches iOS 18.2 Voice Memos update brings Layered Recording to iPhone 16 Pro lineup New iOS 18.2 feature will ‘change the way we make music forever,’ says Michael Bublé Apple Stock Hits Record High On Second Wave Of AI Features Shows and movies we're watching Day of the Jackal, Peacock",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 13 Dec 2024 14:43:11 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "e16dd7d0-7e33-4ddb-9d4b-fb07cdfd800d",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "3115bb41-08a8-4083-a268-8ec72c7bc715",
+    "title": "The Overcast Redesign: Part One",
+    "link": "https://marco.org/2022/03/25/overcast-redesign-2022",
+    "description": "Overcast’s latest update (2022.2) brings the largest redesign in its nearly-eight-year history, plus many of the most frequently requested features and lots of under-the-hood improvements. I’m pretty proud of this one. For this first and largest phase of the redesign, I focused on the home screen, playlist screen, typography, and spacing. (I plan to revamp the now-playing and individual-podcast screens in a later update.) The home screen is radically different: Home screen, before (left) and after (right). Playlists now have strong visual identities for nicer and easier navigation. Each playlist has a customizable color, and a custom icon can be selected from over 3,000 SF Symbols to match modern iOS design and the other icons within Overcast. And playlists can be manually reordered with drag-and-drop. Recently played and newly published episodes can now be displayed on the home screen for quick access, much like the widget and CarPlay experience. Podcasts can now be pinned to the top of the home-screen list. Pinned podcasts can also be manually reordered with drag-and-drop. I’ve also rethought the old stacked “Podcasts” and “Played Podcasts” sections to better match people’s needs and expectations. Now, the toggle atop the podcast list switches between three modes: podcasts with current episodes, all followed podcasts, and inactive podcasts (those that you don’t follow and therefore won’t get any more episodes from, or haven’t posted a new episode in a long time). The playlist screen’s structure remains mostly the same, while refining the design for the modern era: Playlist screen, before (left) and after (right). Here, it’s more apparent that I’ve replaced the system San Francisco font with an alternate variant, San Francisco Rounded, to increase legibility and better match the personality of the app. I’ve also added highly demanded features: By far, Overcast’s most-requested feature is a Mark as Played feature. That’s now available as a checkmark button on episode rows, as well as a left-side swipe action. The second-most-requested feature is a way to view all starred episodes. Special playlists for Starred, Downloaded, and In Progress can now be created. The light and dark themes now each have a customizable tint color from the modern iOS UI-color palette, including these favorites from beta testers: And throughout the app, I’ve made tons of tweaks and bug fixes, including: Notifications and background downloads are now much more reliable. Episode downloads can now be individually deleted or re-downloaded. Links can now be opened in Safari. (under Nitpicky Details) Performance is now significantly better with very large playlists and collections. Fixed bugs with episode-duration detection, CarPlay lists, Mac-app sharing, and much more. So much is better in this update that I can’t even remember it all. Thank you so much to everyone who helped me beta-test this massive update. As always, Overcast is free in the App Store. Go get it!",
+    "author": "",
+    "published": "Fri, 25 Mar 2022 10:57:51 EDT",
+    "image": "https://marco.org/media/2022/03/ocredesign2022-1-after.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "65b8ac2e-73ec-49a8-b405-900da3cabdfd",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "0abe08d1-ba63-401d-b3ac-4dcf2b971915",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  },
+  {
+    "id": "f0217578-6aed-49ff-a0bb-830fce47d63b",
+    "title": "Apple reveals 2024’s most downloaded apps and games on the App Store",
+    "link": "https://www.apple.com/newsroom/2024/12/apple-reveals-2024s-most-downloaded-apps-and-games-on-the-app-store/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2024-12-16T14:00:14.337Z",
+    "image": "https://www.apple.com/newsroom/images/logos/quick-reads-logos/Apple-App-Store.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "e8802d1a-4528-4349-bc89-70fe2e810633",
+    "title": "His Majesty King Charles III visits Apple’s U.K. headquarters",
+    "link": "https://www.apple.com/newsroom/2024/12/his-majesty-king-charles-iii-visits-apples-uk-headquarters/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2024-12-12T19:07:54.930Z",
+    "image": "https://www.apple.com/newsroom/images/2024/12/his-majesty-king-charles-iii-visits-apples-uk-headquarters/tile/Apple-Battersea-community-impact-Tim-Cook-and-King-Charles-III-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "PHOTOS"
+    ]
+  },
+  {
+    "id": "ac5dd609-6734-409a-9da5-98bd066a4f0d",
+    "title": "Here are some of the best apps for shooting and editing video on iPhone",
+    "link": "https://9to5mac.com/2025/01/02/best-apps-shooting-editing-video-iphone/",
+    "description": "iPhone has become the primary camera of many people around the world – not only because of its quality, but also because of the great apps available on the App Store. This year we’ve made a list of the best apps for shooting and editing video on iPhone. more…",
+    "author": "Filipe Espósito",
+    "published": "Fri, 03 Jan 2025 00:15:00 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/Familiarize-yourself-with-the-Camera-Control-button.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "98643a0f-40c3-4be4-947d-419ed276cc25",
+    "title": "‘Wicked’ director Jon M. Chu used Apple Vision Pro during the film’s post-production",
+    "link": "https://9to5mac.com/2025/01/02/wicked-director-vision-pro/",
+    "description": "Even Tim Cook recently acknowledged that Apple Vision Pro is an “early adopter product.” At $3,500, not everyone is sure about spending all that money on a headset. However, Vision Pro seems to work very well in specific niches, as the director of “Wicked” has now revealed that he used Apple’s headset during the film’s post-production. more…",
+    "author": "Filipe Espósito",
+    "published": "Fri, 03 Jan 2025 00:00:11 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/vision-pro-wicked.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "47c9b738-7907-46d2-94b4-756d0bca7020",
+    "title": "CES 2025: What to Expect from NPC and MacStories",
+    "link": "https://www.macstories.net/news/ces-2025-what-to-expect-from-npc-and-macstories/",
+    "description": "Today, I began packing my bag full of the gear I’m bringing to CES. I’m excited because it’s shaping up to be a very NPC CES. Brendon, Federico, and I started NPC: Next Portable Console because we each sensed that handheld gaming had reached a tipping point. Thanks to the Nintendo Switch and Steam Deck, […]",
+    "author": "John Voorhees",
+    "published": "Thu, 02 Jan 2025 17:08:40 +0000",
+    "image": "https://cdn.macstories.net/aaa18855-1735738944697.JPG",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "news",
+      "CES",
+      "CES 2025",
+      "games",
+      "NPC"
+    ]
+  },
+  {
+    "id": "cebdf680-0a4a-4f12-a29f-0ad2ace8e65d",
+    "title": "What’s in My CES Bag?",
+    "link": "https://www.macstories.net/stories/whats-in-my-ces-bag/",
+    "description": "Packing for CES has been a little different than WWDC. The biggest differences are the huge crowds at CES and the limits the conference puts on the bags you can carry into venues. My trusty Tom Bihn Synapse 25 backpack isn’t big, but it’s too large for CES, so the first thing I did was […]",
+    "author": "John Voorhees",
+    "published": "Thu, 02 Jan 2025 15:23:01 +0000",
+    "image": "https://cdn.macstories.net/image-170-1735762534029.png",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "stories",
+      "CES",
+      "CES 2025",
+      "Final Cut Pro",
+      "iPad",
+      "iPhone",
+      "macbook pro",
+      "photography",
+      "video"
+    ]
+  },
+  {
+    "id": "13266161-82bb-4d89-a175-4185c6e36a2a",
+    "title": "Apple Watch | Quit Quitting | Apple",
+    "link": "https://www.youtube.com/watch?v=w2jhL5jMOCM",
+    "description": "",
+    "author": "Apple",
+    "published": "2024-12-26T17:00:09+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "aeebbfdf-15df-4303-b8d5-203cc1afe761",
+    "title": "Apple Intelligence | Imagine it. Genmoji it. | iPhone 16",
+    "link": "https://www.youtube.com/watch?v=XROs4K67Y9Q",
+    "description": "",
+    "author": "Apple",
+    "published": "2024-12-11T23:27:34+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "490cbe9f-85c1-4113-9635-4a15a30ec95d",
+    "title": "Amazon drops Apple's M4 16-inch MacBook Pro to $2,249 in latest sale",
+    "link": "https://appleinsider.com/articles/25/01/02/amazon-drops-apples-m4-16-inch-macbook-pro-to-2249-in-latest-sale?utm_medium=rss",
+    "description": "Amazon's deals for the New Year continue to trickle in, with today's latest markdown hitting Apple's current 16-inch MacBook Pro.Save $250 on Apple's latest 16-inch MacBook Pro.Pick up the standard 16-inch MacBook Pro in Space Black with an M4 Pro chip for just $2,249 at your choice of Amazon or B\u0026H Photo heading into the weekend. This 2025 discount for the New Year brings the M4 Pro model down to the lowest price across leading Apple resellers.Buy for $2,249 Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Christine McKee",
+    "published": "Thu, 02 Jan 2025 23:58:29 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/62194-128893-m4-macbook-pro-deals-2-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "b2f48608-4f59-41ba-a4e6-8341f024d67b",
+    "title": "Third-party iPad smart connector accessories not working with iPadOS 18.3 beta",
+    "link": "https://appleinsider.com/articles/25/01/02/third-party-ipad-smart-connector-accessories-not-working-with-ipados-183-beta?utm_medium=rss",
+    "description": "Owners of the Kuxiu magnetic charging stands made for recent iPad models complain that their devices are no longer charging after updating to iPadOS 18.3. It is unclear if it is a beta bug.Kuxiu charging stands aren't charging with iPadOS 18.3 betaSome accessory makers rely on workarounds that aren't officially supported by Apple, but work due to the technology allowing it. Generally, these workarounds slide by without an issue, but not always.Kuxiu offers a range of magnetic charging stands for iPad that AppleInsider has covered with praise for the products. However, owners that updated to the iPadOS 18.3 beta are reporting that the chargers no longer work. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Wesley Hilliard",
+    "published": "Thu, 02 Jan 2025 21:06:07 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/62193-128891-Charging-Stand-roundup1-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "33b67de8-c2c7-44ff-8053-1aacef6c9a26",
+    "title": "Apple Watch Series 10 drops below Black Friday price",
+    "link": "https://www.cultofmac.com/daily-deals/apple-watch-series-10-sale-price",
+    "description": "An amazing deal on the Apple Watch Series 10 (46mm) drops it to a lifetime low price of $359, saving you $70. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Rajesh Pandey",
+    "published": "Thu, 02 Jan 2025 22:30:34 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-1.20.31 PM.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Daily deals",
+      "Apple deals",
+      "Apple Watch",
+      "Apple Watch Series 10"
+    ]
+  },
+  {
+    "id": "5406ff9c-187d-49a1-8f72-f8ccbc7abade",
+    "title": "10-inch touchscreen car display gives you CarPlay (or Android Auto) for less than $100",
+    "link": "https://www.cultofmac.com/daily-deals/wireless-car-display-10-inch-touchscreen",
+    "description": "Add Apple CarPlay or Android Auto to any vehicle with this affordable car touchscreen. It's the easiest way to add a CarPlay display. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Cult of Mac Deals",
+    "published": "Thu, 02 Jan 2025 22:10:33 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2023/12/CoM-Car-Display.jpeg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Daily deals",
+      "Android Auto",
+      "CarPlay",
+      "Cult of Mac Deals"
+    ]
+  },
+  {
+    "id": "90355520-7552-4e45-94a1-4cba1c049a3b",
+    "title": "Simon Willions’s Approach to Running a Link Blog",
+    "link": "https://simonwillison.net/2024/Dec/22/link-blog/",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-01-03T00:25:04Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "ac9555e2-8e35-4707-a199-ebc6180a3b8d",
+    "title": "‘Things We Learned About LLMs in 2024’",
+    "link": "https://simonwillison.net/2024/Dec/31/llms-in-2024/",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-01-02T23:35:27Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  }
+]
