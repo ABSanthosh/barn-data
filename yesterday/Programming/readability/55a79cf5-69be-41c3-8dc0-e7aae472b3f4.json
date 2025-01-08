@@ -1,0 +1,33 @@
+{
+  "id": "55a79cf5-69be-41c3-8dc0-e7aae472b3f4",
+  "title": "How AI apps are like Google Search",
+  "link": "https://stackoverflow.blog/2025/01/03/how-ai-apps-are-like-google-search/",
+  "description": "Happy New Year! In this episode, Ryan talks with Jetify founder and CEO Daniel Loreto, a former engineering lead at Google and Twitter, about what AI applications have in common with Google Search. They also discuss the challenges inherent in developing AI systems, why a data-driven approach to AI development is important, the implications of non-determinism, and the future of test automation.",
+  "author": "Eira May",
+  "published": "Fri, 03 Jan 2025 08:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "se-tech",
+    "se-stackoverflow",
+    "podcast",
+    "ai",
+    "generative-ai",
+    "developer-tools",
+    "google",
+    "search",
+    "environments",
+    "testing",
+    "automation"
+  ],
+  "byline": "Eira May",
+  "length": 439,
+  "excerpt": "Happy New Year! In this episode, Ryan talks with Jetify founder and CEO Daniel Loreto, a former engineering lead at Google and Twitter, about what AI applications have in common with Google Search. They also discuss the challenges inherent in developing AI systems, why a data-driven approach to AI development is important, the implications of non-determinism, and the future of test automation.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "January 3, 2025Happy New Year! In this episode, Ryan talks with Jetify founder and CEO Daniel Loreto, a former engineering lead at Google and Twitter, about what AI applications have in common with Google Search. They also discuss the challenges inherent in developing AI systems, why a data-driven approach to AI development is important, the implications of non-determinism, and the future of test automation. Credit: Alexandra Francis",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle itemscope=\"\" itemtype=\"https://schema.org/Article\"\u003e\u003cheader\u003e\u003ctime datetime=\"2025-01-03T08:40:00.000Z\" itemprop=\"datePublished\"\u003e January 3, 2025\u003c/time\u003e\u003cp itemprop=\"abstract\"\u003eHappy New Year! In this episode, Ryan talks with Jetify founder and CEO Daniel Loreto, a former engineering lead at Google and Twitter, about what AI applications have in common with Google Search. They also discuss the challenges inherent in developing AI systems, why a data-driven approach to AI development is important, the implications of non-determinism, and the future of test automation.\u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026amp;h=630\u0026amp;auto=format\u0026amp;dpr=2\" width=\"1200\" height=\"630\" alt=\"Article hero image\" itemprop=\"image\"/\u003e\u003cfigcaption\u003e  \u003cspan\u003e Credit: Alexandra Francis\u003c/span\u003e\u003c/figcaption\u003e\u003c/figure\u003e\u003c/header\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
