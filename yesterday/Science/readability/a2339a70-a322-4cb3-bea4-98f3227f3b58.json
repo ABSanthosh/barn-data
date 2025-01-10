@@ -1,0 +1,26 @@
+{
+  "id": "a2339a70-a322-4cb3-bea4-98f3227f3b58",
+  "title": "Wind flow patterns over Los Angeles",
+  "link": "https://flowingdata.com/2025/01/08/wind-flow-patterns-over-los-angeles/",
+  "description": "Based on data from NOAA, the New York Times shows the direction and…Tags: New York Times, wildfire, wind",
+  "author": "Nathan Yau",
+  "published": "Wed, 08 Jan 2025 23:58:14 +0000",
+  "source": "https://flowingdata.com/feed",
+  "categories": [
+    "Maps",
+    "New York Times",
+    "wildfire",
+    "wind"
+  ],
+  "byline": "Nathan Yau",
+  "length": 151,
+  "excerpt": "Based on data from NOAA, the New York Times shows the direction and speed of wind over Los Angeles with an animated map, as of January 8, 2025 at noon.",
+  "siteName": "FlowingData",
+  "favicon": "https://flowingdata.com/wp-content/themes/fd-modern-6-0/images/icons/logo-lone-square256.png",
+  "text": "Based on data from NOAA, the New York Times shows the direction and speed of wind over Los Angeles with an animated map, as of January 8, 2025 at noon.",
+  "image": "https://flowingdata.com/wp-content/uploads/2025/01/wind-flow-Palisades-NYT.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n                                    \n                \u003cp\u003eBased on data from \u003ca href=\"https://www.nco.ncep.noaa.gov/pmb/products/rtma/\"\u003eNOAA\u003c/a\u003e, the New York Times shows the \u003ca href=\"https://www.nytimes.com/interactive/2025/01/08/weather/los-angeles-fire-maps-california.html?unlocked_article_code=1.nk4.ICvr.Pkkr9t6ny6r0\u0026amp;smid=url-share\"\u003edirection and speed of wind over Los Angeles\u003c/a\u003e with an animated map, as of January 8, 2025 at noon.\u003c/p\u003e\n                \n                \n                                        \n            \n        \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-01-08T23:58:14Z",
+  "modifiedTime": "2025-01-08T23:58:33Z"
+}
