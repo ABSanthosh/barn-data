@@ -1,0 +1,21 @@
+{
+  "id": "7b24f377-d39b-4a04-b6c0-3e81f381d66c",
+  "title": "Nation-scale Matrix deployments will fail using the community version of Synapse",
+  "link": "https://mastodon.matrix.org/@element/113842786942364269",
+  "description": "Article URL: https://mastodon.matrix.org/@element/113842786942364269 Comments URL: https://news.ycombinator.com/item?id=42752402 Points: 19 # Comments: 7",
+  "author": "zaik",
+  "published": "Sat, 18 Jan 2025 23:52:23 +0000",
+  "source": "https://hnrss.org/frontpage",
+  "categories": null,
+  "byline": "",
+  "length": 0,
+  "excerpt": "🚨Nation-scale Matrix deployments will fail if built on the community version of Synapse. The community version of Synapse is not designed or intended for use by commercial Matrix hosting providers to serve huge nation-scale deployments. Just as a suspension bridge has a weight limit and will collapse if you exceed it - the same goes for community Synapse. Deployments supporting millions of users need Synapse Pro. https://element.io/blog/scaling-to-millions-of-users-requires-synapse-pro/",
+  "siteName": "Matrix.org's Mastodon",
+  "favicon": "https://mastodon.matrix.org/packs/media/icons/apple-touch-icon-1024x1024-db6849588b44f525363c37b65ef0ac66.png",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
