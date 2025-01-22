@@ -1,0 +1,31 @@
+{
+  "id": "974e56c7-54dd-4f71-b811-bede5fc4775e",
+  "title": "beeps and on-call for Next.js developers with Joey Parsons",
+  "link": "https://softwareengineeringdaily.com/2025/01/21/beeps-and-on-call-next-js-developers-with-joey-parsons/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=beeps-and-on-call-next-js-developers-with-joey-parsons",
+  "description": "beeps is a startup focused on building an on-call platform for Next.js. The company is grounded in the key insight that Next.js has become a dominant framework for modern development. A key motivation in leveraging Next.js is to create a developer-first experience for on-call. Joey Parsons is the founder and CEO of beeps, and he The post beeps and on-call for Next.js developers with Joey Parsons appeared first on Software Engineering Daily.",
+  "author": "SEDaily",
+  "published": "Tue, 21 Jan 2025 10:00:07 +0000",
+  "source": "https://softwareengineeringdaily.com/category/podcast/feed",
+  "categories": [
+    "All Content",
+    "Exclusive Content",
+    "Hosts",
+    "Podcast",
+    "Sean Falconer",
+    "beeps",
+    "Joey Parsons",
+    "Next.js",
+    "on-call systems"
+  ],
+  "byline": "SEDaily",
+  "length": 914,
+  "excerpt": "beeps is a startup focused on building an on-call platform for Next.js. The company is grounded in the key insight that Next.js has become a dominant framework for modern development. A key motivation in leveraging Next.js is to create a developer-first experience for on-call. Joey Parsons is the founder and CEO of beeps, and he",
+  "siteName": "Software Engineering Daily",
+  "favicon": "https://softwareengineeringdaily.com/wp-content/uploads/fbrfg/apple-touch-icon-72x72.png?v=PYYeqgEwMA",
+  "text": "beeps is a startup focused on building an on-call platform for Next.js. The company is grounded in the key insight that Next.js has become a dominant framework for modern development. A key motivation in leveraging Next.js is to create a developer-first experience for on-call. Joey Parsons is the founder and CEO of beeps, and he previously founded effx which was acquired by Figma in 2021. Joey joins the show to talk about the platform, starting a company without an explicit AI focus, the limitations of current on-call systems, building on Next.js, and more. Full Disclosure: This episode is sponsored by Beeps. Sean’s been an academic, startup founder, and Googler. He has published works covering a wide range of topics from AI to quantum computing. Currently, Sean is an AI Entrepreneur in Residence at Confluent where he works on AI strategy and thought leadership. You can connect with Sean on LinkedIn.",
+  "image": "https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2025/01/beeps-and-on-call-for-Next.js-developers-with-Joey-Parsons.png?fit=600%2C315\u0026ssl=1",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\u003cp\u003ebeeps is a startup focused on building an on-call platform for Next.js. The company is grounded in the key insight that Next.js has become a dominant framework for modern development. A key motivation in leveraging Next.js is to create a developer-first experience for on-call.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://x.com/joeyparsons\"\u003eJoey Parsons\u003c/a\u003e is the founder and CEO of \u003ca href=\"https://beeps.dev/\"\u003ebeeps\u003c/a\u003e, and he previously founded effx which was acquired by Figma in 2021. Joey joins the show to talk about the platform, starting a company without an explicit AI focus, the limitations of current on-call systems, building on Next.js, and more.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eFull Disclosure: This episode is sponsored by \u003cstrong\u003eBeeps\u003c/strong\u003e.\u003c/em\u003e\u003c/p\u003e\n\u003cdiv\u003e\n\u003cp\u003e\u003cspan\u003e\u003ca href=\"https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/10/Rectangle-3-2.png\"\u003e\u003cimg data-recalc-dims=\"1\" fetchpriority=\"high\" decoding=\"async\" data-attachment-id=\"15613\" data-permalink=\"https://softwareengineeringdaily.com/2023/10/24/streamlit-with-amanda-kelly/rectangle-3-3/\" data-orig-file=\"https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/10/Rectangle-3-2.png?fit=218%2C258\u0026amp;ssl=1\" data-orig-size=\"218,258\" data-comments-opened=\"0\" data-image-meta=\"{\u0026#34;aperture\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;credit\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;camera\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;caption\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;created_timestamp\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;copyright\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;focal_length\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;iso\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;shutter_speed\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;title\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;orientation\u0026#34;:\u0026#34;0\u0026#34;}\" data-image-title=\"Rectangle 3\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/10/Rectangle-3-2.png?fit=218%2C258\u0026amp;ssl=1\" data-large-file=\"https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/10/Rectangle-3-2.png?fit=218%2C258\u0026amp;ssl=1\" src=\"https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/10/Rectangle-3-2.png?resize=218%2C258\u0026amp;ssl=1\" alt=\"\" width=\"218\" height=\"258\"/\u003e\u003c/a\u003e\u003c/span\u003eSean’s been an academic, startup founder, and Googler. He has published works covering a wide range of topics from AI to quantum computing. Currently, Sean is an AI Entrepreneur in Residence at Confluent where he works on AI strategy and thought leadership. You can connect with Sean on LinkedIn.\u003c/p\u003e\n\n\n\n\u003c/div\u003e\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-01-21T10:00:07Z",
+  "modifiedTime": "2025-01-14T02:55:44Z"
+}
