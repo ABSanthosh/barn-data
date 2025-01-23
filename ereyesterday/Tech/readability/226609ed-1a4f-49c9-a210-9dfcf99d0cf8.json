@@ -1,0 +1,31 @@
+{
+  "id": "226609ed-1a4f-49c9-a210-9dfcf99d0cf8",
+  "title": "Report: Apple Mail is getting automatic categories on iPadOS and macOS",
+  "link": "https://arstechnica.com/gadgets/2025/01/report-apple-mail-is-getting-automatic-categories-on-ipados-and-macos/",
+  "description": "It's pretty smart, but it doesn't require Apple Intelligence.",
+  "author": "Kevin Purdy",
+  "published": "Mon, 20 Jan 2025 22:28:25 +0000",
+  "source": "http://feeds.arstechnica.com/arstechnica/index",
+  "categories": [
+    "Apple",
+    "Tech",
+    "AI",
+    "apple intelligence",
+    "Apple Mail",
+    "email",
+    "email client",
+    "email clients",
+    "gmail"
+  ],
+  "byline": "Kevin Purdy",
+  "length": 1431,
+  "excerpt": "It’s pretty smart, but it doesn’t require Apple Intelligence.",
+  "siteName": "Ars Technica",
+  "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+  "text": "Unlike numerous other new and recent OS-level features from Apple, mail sorting does not require a device capable of supporting its Apple Intelligence (generally M-series Macs or iPads), and happens entirely on the device. It's an optional feature and available only for English-language emails. Apple released a third beta of MacOS 15.3 just days ago, indicating that early, developer-oriented builds of macOS 15.4 with the sorting feature should be weeks away. While Gurman's newsletter suggests mail sorting will also arrive in the Mail app for iPadOS, he did not specify which version, though the timing would suggest the roughly simultaneous release of iPadOS 18.4. Also slated to arrive in the same update for Apple-Intelligence-ready devices is the version of Siri that understands more context about questions, from what's on your screen and in your apps. \"Add this address to Rick's contact information,\" \"When is my mom's flight landing,\" and \"What time do I have dinner with her\" are the sorts of examples Apple highlighted in its June unveiling of iOS 18. Since then, Apple has divvied up certain aspects of Intelligence into different OS point updates. General ChatGPT access and image generation have arrived in iOS 18.2 (and related Mac and iPad updates), while notification summaries, which can be pretty rough, are being rethought and better labeled and will be removed from certain news notifications in iOS 18.3.",
+  "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/apple_mail_sorting-1152x648.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n          \n          \n\u003cp\u003eUnlike numerous other new and recent OS-level features from Apple, mail sorting does not require a device capable of supporting its Apple Intelligence (generally M-series Macs or iPads), and happens entirely on the device. It\u0026#39;s an optional feature and available only for English-language emails.\u003c/p\u003e\n\u003cp\u003eApple released a third beta of MacOS 15.3 just days ago, indicating that early, developer-oriented builds of macOS 15.4 with the sorting feature should be weeks away. While Gurman\u0026#39;s newsletter suggests mail sorting will also arrive in the Mail app for iPadOS, he did not specify which version, though the timing would suggest the roughly simultaneous release of iPadOS 18.4.\u003c/p\u003e\n\u003cp\u003eAlso slated to arrive in the same update for Apple-Intelligence-ready devices is the version of Siri that understands more context about questions, from what\u0026#39;s on your screen and in your apps. \u0026#34;Add this address to Rick\u0026#39;s contact information,\u0026#34; \u0026#34;When is my mom\u0026#39;s flight landing,\u0026#34; and \u0026#34;What time do I have dinner with her\u0026#34; are the sorts of examples Apple highlighted in its \u003ca href=\"https://arstechnica.com/gadgets/2024/06/ios-18-is-all-about-customization-but-also-improves-android-users-sms-life/\"\u003eJune unveiling of iOS 18\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eSince then, Apple has divvied up certain aspects of Intelligence into different OS point updates. General ChatGPT access and image generation have \u003ca href=\"https://arstechnica.com/gadgets/2024/12/ios-18-2-macos-15-2-updates-arrive-today-with-image-and-emoji-generation/\"\u003earrived in iOS 18.2\u003c/a\u003e (and related Mac and iPad updates), while notification summaries, which \u003ca href=\"https://arstechnica.com/apple/2024/11/apple-intelligence-notification-summaries-are-honestly-pretty-bad/\"\u003ecan be pretty rough\u003c/a\u003e, are being \u003ca href=\"https://arstechnica.com/gadgets/2025/01/apple-plans-software-update-after-ai-summaries-get-news-headlines-wrong/\"\u003erethought and better labeled\u003c/a\u003e and will be \u003ca href=\"https://arstechnica.com/gadgets/2025/01/apple-plans-software-update-after-ai-summaries-get-news-headlines-wrong/\"\u003eremoved from certain news notifications in iOS 18.3\u003c/a\u003e.\u003c/p\u003e\n\n\n          \n                  \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-01-20T22:28:25Z",
+  "modifiedTime": "2025-01-20T22:18:01Z"
+}

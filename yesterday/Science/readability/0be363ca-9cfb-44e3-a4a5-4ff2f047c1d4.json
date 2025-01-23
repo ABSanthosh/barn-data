@@ -1,0 +1,26 @@
+{
+  "id": "0be363ca-9cfb-44e3-a4a5-4ff2f047c1d4",
+  "title": "Extremely detailed 2024 election data, precinct level",
+  "link": "https://flowingdata.com/2025/01/21/extremely-detailed-2024-election-data-precinct-level/",
+  "description": "As is tradition, NYT’s The Upshot published a detailed map of presidential election…Tags: election, New York Times, voting",
+  "author": "Nathan Yau",
+  "published": "Tue, 21 Jan 2025 09:07:40 +0000",
+  "source": "https://flowingdata.com/feed",
+  "categories": [
+    "Data Sources",
+    "election",
+    "New York Times",
+    "voting"
+  ],
+  "byline": "Nathan Yau",
+  "length": 435,
+  "excerpt": "As is tradition, NYT’s The Upshot published a detailed map of presidential election results for 2024. It is at the precinct level, which means you can see how your block voted in some places.…",
+  "siteName": "FlowingData",
+  "favicon": "https://flowingdata.com/wp-content/themes/fd-modern-6-0/images/icons/logo-lone-square256.png",
+  "text": "As is tradition, NYT’s The Upshot published a detailed map of presidential election results for 2024. It is at the precinct level, which means you can see how your block voted in some places. The map will update as the NYT group works through the tedious process of collecting detailed and unstandardized data at a national scale. Same as 2020, the Upshot is releasing the data, available on GitHub, for others to examine on their own.",
+  "image": "https://flowingdata.com/wp-content/uploads/2025/01/extremely-detailed-election-data.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"single-post\"\u003e\n        \n                \n        \u003cp\u003e\u003cimg fetchpriority=\"high\" width=\"750\" height=\"512\" src=\"https://flowingdata.com/wp-content/uploads/2025/01/extremely-detailed-election-data-750x512.png\" alt=\"\" decoding=\"async\" srcset=\"https://flowingdata.com/wp-content/uploads/2025/01/extremely-detailed-election-data-750x512.png 750w, https://flowingdata.com/wp-content/uploads/2025/01/extremely-detailed-election-data-1090x744.png 1090w, https://flowingdata.com/wp-content/uploads/2025/01/extremely-detailed-election-data-210x143.png 210w, https://flowingdata.com/wp-content/uploads/2025/01/extremely-detailed-election-data-768x524.png 768w, https://flowingdata.com/wp-content/uploads/2025/01/extremely-detailed-election-data-1536x1049.png 1536w, https://flowingdata.com/wp-content/uploads/2025/01/extremely-detailed-election-data-2048x1399.png 2048w\" sizes=\"(max-width: 750px) 100vw, 750px\" data-attachment-id=\"77159\" data-permalink=\"https://flowingdata.com/2025/01/21/extremely-detailed-2024-election-data-precinct-level/extremely-detailed-election-data/\" data-orig-file=\"https://flowingdata.com/wp-content/uploads/2025/01/extremely-detailed-election-data.png\" data-orig-size=\"2996,2046\" data-comments-opened=\"0\" data-image-meta=\"{\u0026#34;aperture\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;credit\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;camera\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;caption\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;created_timestamp\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;copyright\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;focal_length\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;iso\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;shutter_speed\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;title\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;orientation\u0026#34;:\u0026#34;0\u0026#34;}\" data-image-title=\"extremely detailed election data\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://flowingdata.com/wp-content/uploads/2025/01/extremely-detailed-election-data-750x512.png\" data-large-file=\"https://flowingdata.com/wp-content/uploads/2025/01/extremely-detailed-election-data-1090x744.png\"/\u003e                    \u003c/p\u003e\n                \n        \n        \n        \u003cdiv\u003e\n                                    \n                \u003cp\u003eAs is \u003ca href=\"https://flowingdata.com/2021/02/02/precinct-level-map-of-2020-election-results/\"\u003etradition\u003c/a\u003e, NYT’s The Upshot published a \u003ca href=\"https://www.nytimes.com/interactive/2025/us/elections/2024-election-map-precinct-results.html?unlocked_article_code=1.qk4.9CUE.eUcpg0mNRL9r\u0026amp;smid=url-share\"\u003edetailed map of presidential election results for 2024\u003c/a\u003e. It is at the precinct level, which means you can see how your block voted in some places. The map will update as the NYT group works through the tedious process of collecting detailed and unstandardized data at a national scale.\u003c/p\u003e\n\u003cp\u003eSame as 2020, the Upshot is releasing the data, \u003ca href=\"https://github.com/nytimes/presidential-precinct-map-2024\"\u003eavailable on GitHub\u003c/a\u003e, for others to examine on their own.\u003c/p\u003e\n                \n                \n                                        \n            \n        \u003c/div\u003e\n        \n                    \n        \n\t\t\n                \n        \n                        \t\t\n\n        \n        \n        \n    \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-01-21T09:07:40Z",
+  "modifiedTime": "2025-01-20T03:10:42Z"
+}
