@@ -1,0 +1,115 @@
+[
+  {
+    "id": "c2cfc276-e716-4061-9db2-8488fe388e78",
+    "title": "CSS text-box-trim",
+    "link": "https://developer.chrome.com/blog/css-text-box-trim?hl=en",
+    "description": "Take back space from above and below your text content; achieve optical balance.",
+    "author": "",
+    "published": "Tue, 14 Jan 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "25bd644f-206a-4dbd-a819-fb2e828c2f5f",
+    "title": "How we introduced Gemini to Chrome DevTools",
+    "link": "https://developer.chrome.com/blog/how-we-introduced-gemini-to-devtools?hl=en",
+    "description": "Learn about fun and exciting use-cases of the new AI assistance panel in DevTools",
+    "author": "",
+    "published": "Tue, 14 Jan 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "31eaec89-3456-4069-a0e0-7c3adf0552eb",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "eedb43a8-affd-45dd-ad73-206eaabd9931",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "5955755e-398e-45ba-ba1c-8042d6de8c4c",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
+    "description": "Mozilla and Filament have introduced Uniffi for React Native, a tool that allows developers to leverage the safety and performance benefits of Rust in cross-platform React Native apps. The post Introducing Uniffi for React Native: Rust-Powered Turbo Modules appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Mark Mayo",
+    "published": "Wed, 04 Dec 2024 19:38:01 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Developer Tools",
+      "Featured Article",
+      "c++",
+      "firefox",
+      "react",
+      "rust"
+    ]
+  },
+  {
+    "id": "4e649090-5f2c-46bf-b5ab-6eb734ff7e74",
+    "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+    "link": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+    "description": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models (LLMs) on your own hardware. Learn more about the updates and how to get involved with this cutting-edge project. The post Llamafile v0.8.14: a new UI, performance gains, and more appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Stephen Hood",
+    "published": "Wed, 16 Oct 2024 13:32:30 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/10/llamafile_8.1.14_release_image.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "llamafile",
+      "open source"
+    ]
+  },
+  {
+    "id": "6038c538-22ec-4062-b083-3de37182cb7f",
+    "title": "Positioning Text Around Elements With CSS Offset",
+    "link": "https://css-tricks.com/positioning-text-around-elements-with-css-offset/",
+    "description": "When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list. Positioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Preethi",
+    "published": "Fri, 24 Jan 2025 14:59:25 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "offset",
+      "positioning",
+      "typography"
+    ]
+  },
+  {
+    "id": "a74a3919-08de-4b74-89ee-3cd851198cb4",
+    "title": "Some Things You Might Not Know About Custom Counter Styles",
+    "link": "https://css-tricks.com/some-things-you-might-not-know-about-custom-counter-styles/",
+    "description": "I was reading through Juan’s recent Almanac entry for the @counter-style at-rule and I’ll be darned if he didn’t uncover and unpack some extremely interesting things that we can do to style lists, notably the list marker. You’re probably already … Some Things You Might Not Know About Custom Counter Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Thu, 23 Jan 2025 17:21:15 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "lists"
+    ]
+  }
+]
