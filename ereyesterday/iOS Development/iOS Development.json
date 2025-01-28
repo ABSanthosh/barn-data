@@ -1,0 +1,407 @@
+[
+  {
+    "id": "171f62bc-753b-49f6-bf6c-20b136b12db7",
+    "title": "minifeed",
+    "link": "https://tyler.io/2025/01/minifeed/",
+    "description": "I recently discovered minifeed, and it has quickly become one of my favorite things on the internet. Once, maybe twice a day, I load the homepage and browse through the latest posts from real blogs written by real humans. I almost always find something surprising, delightful, weird, or just plain fun to read. Even better, I come away with a new blogger to follow.",
+    "author": "Tyler",
+    "published": "Wed, 15 Jan 2025 02:47:20 +0000",
+    "image": "",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "59f09227-0583-4fee-957c-9ee8dd134ecf",
+    "title": "Advice",
+    "link": "https://tyler.io/2025/01/advice/",
+    "description": "My son turned eleven last month. He reads all the time (fantasy books are his favorite) and has started planning and building his own worlds to write stories about. He made a to-do list in his writing notebook, and I asked him if I could share it here. It's good advice.",
+    "author": "Tyler",
+    "published": "Fri, 10 Jan 2025 15:41:20 +0000",
+    "image": "https://cdn.tyler.io/wp-content/uploads/2025/01/writing-todo-list-860x1024.jpg",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "d6174cd2-d992-4d7f-aa0a-fe19232a00be",
+    "title": "Scalable Continuous Integration for iOS",
+    "link": "https://albertodebortoli.com/2024/01/03/scalable-continuous-integration-for-ios/",
+    "description": "How Just Eat Takeaway.com leverage AWS, Packer, Terraform and GitHub Actions to manage a CI stack of macOS runners.",
+    "author": "Alberto De Bortoli",
+    "published": "Wed, 03 Jan 2024 22:26:50 GMT",
+    "image": "https://albertodebortoli.com/content/images/2024/01/1_SaGE67XSSeflkTKknVOHbg.webp",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": [
+      "CI",
+      "mobile",
+      "iOS",
+      "AWS",
+      "macOS"
+    ]
+  },
+  {
+    "id": "0cbc1b83-0ced-42b6-9d3e-4a389baa011d",
+    "title": "The idea of a Fastlane replacement",
+    "link": "https://albertodebortoli.com/2023/10/29/the-idea-of-a-fastlane-replacement/",
+    "description": "PreludeFastlane is widely used by iOS teams all around the world. It became the standard de facto to automate common tasks such as building apps, running tests, and uploading builds to App Store Connect. Fastlane has been recently moved under the Mobile Native Foundation which is amazing as Google",
+    "author": "Alberto De Bortoli",
+    "published": "Sun, 29 Oct 2023 22:57:38 GMT",
+    "image": "https://images.unsplash.com/photo-1647118762210-393b52e96fbc?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxzdGVsbGFyfGVufDB8fHx8MTY5ODYxODcwNXww\u0026ixlib=rb-4.0.3\u0026q=80\u0026w=2000",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": null
+  },
+  {
+    "id": "86be52ba-e45b-4fbf-81ee-7d6d1bfa8948",
+    "title": "From Engineer to Manager: A Year of Growth and Transformation",
+    "link": "https://benoitpasquier.com/2023/06/from-engineer-to-manager-a-year-of-growth-and-transformation/",
+    "description": "It feels like it was yesterday when I became an engineering manager but it has been almost a year. I want to take this time to reflect on the challenges and learnings from this journey.",
+    "author": "",
+    "published": "Sun, 11 Jun 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "38436cbf-1350-4ae5-a749-8b58edd1726d",
+    "title": "Things to know before becoming an Engineering Manager",
+    "link": "https://benoitpasquier.com/2023/02/things-to-know-before-becoming-an-engineering-manager/",
+    "description": "The journey from individual contributor to engineering manager isn’t always straightforward. Today, I’ll share what it means to become an engineering manager from my point of view, and a few important points to be aware of before making this transition.",
+    "author": "",
+    "published": "Sun, 19 Feb 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "15cef2d5-81be-44f0-b75c-a57779c7ae19",
+    "title": "Swift 6 suitable notification observers in iOS",
+    "link": "https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/",
+    "description": "The author discusses challenges managing side projects, specifically updating SignalPath to Swift 6. They encountered errors related to multiple notification observations but resolved them by shifting to publishers, avoiding sendable closure issues. Although the new approach risks background thread notifications, the compiler is satisfied with the adjustments made to the code.",
+    "author": "Toomas Vahter",
+    "published": "Mon, 18 Nov 2024 16:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "iOS",
+      "Swift"
+    ]
+  },
+  {
+    "id": "7ecdfcba-4cd8-4820-8dc1-59100f36e798",
+    "title": "AnyClass protocol and Objective-C methods",
+    "link": "https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/",
+    "description": "AnyClass is a protocol all classes conform to and it comes with a feature I was not aware of. But first, how to I ended up with using AnyClass. While working on code using CoreData, I needed a way to enumerate all the CoreData entities and call a static function on them. If that function […]",
+    "author": "Toomas Vahter",
+    "published": "Mon, 04 Nov 2024 16:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "iOS",
+      "Swift",
+      "AnyClass"
+    ]
+  },
+  {
+    "id": "f4d8512a-dd2a-4bac-891f-fa2ecde67d5f",
+    "title": "iOS Accessibility Values",
+    "link": "https://mobilea11y.com/blog/accessibility-values/",
+    "description": "For iOS, Accessibility values are one of the building blocks of how Accessibility works on the platform, along with traits, labels, hints, and showing/hiding elements. If you’re familiar with WCAG or web accessibility, accessibility values are the value part of WCAG 4.1.2: Name, Role, Value. Values Not every element in your view will have a value - in fact, most won’t. Any element that ‘contains’ some data, data that is not included in the element’s label requires an accessibility value to be set.",
+    "author": "",
+    "published": "Sun, 19 Jun 2022 10:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "0fce08b2-b1c2-42b2-a934-6408f77ef139",
+    "title": "iOS UIKit Accessibility traits",
+    "link": "https://mobilea11y.com/blog/traits/",
+    "description": "Accessibility traits on iOS is the system by which assistive technologies know how to present your interface to your users. The exact experience will vary between assistive technologies, in some cases they may change the intonation of what VoiceOver reads, or add additional options for navigation, sometimes they will disable that assistive technology from accessing the element, or change how the assistive tech functions. They are the ‘Role’ part of the fundamental rule of making something accessible to screen readers - WCAG’s 4.",
+    "author": "",
+    "published": "Fri, 13 Aug 2021 07:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "f4350e79-980a-47d4-9421-86bfeaef3dd0",
+    "title": "Introducing the Advanced Commerce API",
+    "link": "https://developer.apple.com/news/?id=yxy958ya",
+    "description": "The App Store facilitates billions of transactions annually to help developers grow their businesses and provide a world-class customer experience. To further support developers’ evolving business models — such as exceptionally large content catalogs, creator experiences, and subscriptions with optional add-ons — we’re introducing the Advanced Commerce API.Developers can apply to use the Advanced Commerce API to support eligible App Store business models and more flexibly manage their In-App Purchases within their app. These purchases leverage the power of the trusted App Store commerce system, including end-to-end payment processing, tax support, customer service, and more, so developers can focus on providing great app experiences.Learn about eligibility requirements and how to apply",
+    "author": "",
+    "published": "Thu, 23 Jan 2025 07:00:50 PST",
+    "image": "",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "061d1701-4b00-40a3-9dbf-3ac60cfc0e2a",
+    "title": "Apps without trader status will be removed from the App Store in the EU",
+    "link": "https://developer.apple.com/news/?id=einwn76m",
+    "description": "Starting February 17, 2025: Due to the European Union’s Digital Services Act, apps without trader status will be removed from the App Store in the European Union until trader status is provided and verified, if necessary.As a reminder, Account Holders or Admins in the Apple Developer Program need to enter trader status in App Store Connect for apps on the App Store in the European Union in order to comply with the Digital Services Act.Learn what a trader is and how to enter your status",
+    "author": "",
+    "published": "Thu, 16 Jan 2025 08:00:29 PST",
+    "image": "",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "0516696f-806b-4606-adfa-f9cedb0f6062",
+    "title": "Introducing Plinky: My Love Letter To Links",
+    "link": "https://fabisevi.ch/2024/05/09/introducing-plinky/",
+    "description": "The post below was written by me, originally featured on the Plinky blog. To celebrate the launch of Plinky you can get 50% off of a yearly subscription by redeeming this offer: plinky.app/offer/REDPANDA There are few words I've ever said more excitedly than these: I want to tell you about my latest app, Plinky. Plinky makes it incredibly easy to do something we do every day, save links for later. You may already have a way to save links, I know I've tried every method under the sun, to the point where I decided to build my own app. That app is Plinky, and today it's available to download on the App Store. Over the last 18 months people have been loving Plinky, because it fixes the same problems I ran into when I've tried to save links in the past.",
+    "author": "Joe Fabisevich",
+    "published": "Thu, 09 May 2024 00:00:00 GMT",
+    "image": "/static/c3d9146a8edf380ee267c61558f3a91b/ec7ce/plinky-screenshots.jpg",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "111e3a53-cfce-4261-b388-a3cdf3e4d855",
+    "title": "The Reasoning Computer",
+    "link": "https://fabisevi.ch/2023/11/10/the-reasoning-computer/",
+    "description": "The Turing test is dead, and we killed it. The Turing test is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. From the 1940s 1 to the 2010s people programmed computers, and computers could only do what they were programmed to do in a rules-based deterministic manner. Sometimes a person would program the computer and it would do something unexpected, but 100 out of 100 times the computer was doing what it was programmed to do whether the person liked it or not. While there has been experimentation with what today we call AI since the 1950s, those machines were a long ways away from passing the Turing test. Why does using ChatGPT feel more like a conversation with the smartest person you know than a computer? It's because ChatGPT doesn't solve problems deterministically the way a programmed computer does, it solves them probabilistically. 2 ChatGPT demonstrates the ability to think about something in a logical, sensible way, the definition of reasoning. 3 We've created something completely new here, a reasoning computer. 4",
+    "author": "Joe Fabisevich",
+    "published": "Fri, 10 Nov 2023 00:00:00 GMT",
+    "image": "",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "f601ab53-cc3c-4a56-906b-6f0365be52ed",
+    "title": "Building with nightly Swift toolchains on macOS",
+    "link": "https://oleb.net/2024/swift-toolchains/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-03-05T18:54:44Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "4edf6266-751b-4c4c-8bb7-b75cf2c21f55",
+    "title": "How the Swift compiler knows that DispatchQueue.main implies @MainActor",
+    "link": "https://oleb.net/2024/dispatchqueue-mainactor/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-02-29T18:54:47Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "d052c0c0-9a5b-4aae-9e8e-d8c0b07f7fe4",
+    "title": "Magical Particle Effects with SwiftUI Canvas",
+    "link": "https://nerdyak.tech/development/2024/06/27/particle-effects-with-SwiftUI-Canvas.html",
+    "description": "In one of the previous posts, I shared a simple way of Creating particle effects in SwiftUI. The approach is super easy and utilizes the power of viewModifiers, but I would not recommend it for production use as it is performance-greedy when having a bigger amount of particles in place (because each particle is a single view)",
+    "author": "Pavel Zak",
+    "published": "2024-06-27T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "Canvas",
+      "Particles",
+      "BlendMode",
+      "TimelineView"
+    ]
+  },
+  {
+    "id": "68dc951c-7e34-48bf-b84a-539f4665b878",
+    "title": "SwiftUI transitions with distortion effect and Metal Shaders",
+    "link": "https://nerdyak.tech/development/2023/06/16/distortionEffect-with-Metal-shaders-for-better-transitions.html",
+    "description": "This year DubDub is over and I am very excited about the new developer treats that iOS17 will bring us that expand the animation possibilities of SwiftUI. I am talking mainly about the PhaseAnimator, KeyframeAnimator and the ability to utilize Metal shaders on SwiftUI views through modifiers .distortionEffect, .layerEffect, and .colorEffect (docs).",
+    "author": "Pavel Zak",
+    "published": "2023-06-16T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "distortionEffect",
+      "Metal",
+      "Shaders",
+      "transitions"
+    ]
+  },
+  {
+    "id": "33ad7495-083e-477e-8101-5db680598aa3",
+    "title": "SwiftUI views versus modifiers",
+    "link": "https://www.swiftbysundell.com/articles/swiftui-views-versus-modifiers",
+    "description": "What’s really the difference between building a piece of UI as a view versus a modifier, and how to choose between those two solutions?",
+    "author": "",
+    "published": "Mon, 27 Feb 2023 11:05:00 +0100",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "66253cf9-e0f7-4b4b-9db8-83d8b7596119",
+    "title": "Observing the content offset of a SwiftUI ScrollView",
+    "link": "https://www.swiftbysundell.com/articles/observing-swiftui-scrollview-content-offset",
+    "description": "How the content offset of a SwiftUI ScrollView can be observed without bridging to UIKit.",
+    "author": "",
+    "published": "Mon, 30 Jan 2023 12:50:00 +0100",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "a9af8efb-df89-4dac-b1b4-0fb6efb43d5a",
+    "title": "SwiftUI views versus modifiers",
+    "link": "https://www.swiftbysundell.com/articles/swiftui-views-versus-modifiers",
+    "description": "What’s really the difference between building a piece of UI as a view versus a modifier, and how to choose between those two solutions?",
+    "author": "",
+    "published": "Mon, 27 Feb 2023 11:05:00 +0100",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "7b81c05a-8087-45de-ae6f-0dc61125d975",
+    "title": "Observing the content offset of a SwiftUI ScrollView",
+    "link": "https://www.swiftbysundell.com/articles/observing-swiftui-scrollview-content-offset",
+    "description": "How the content offset of a SwiftUI ScrollView can be observed without bridging to UIKit.",
+    "author": "",
+    "published": "Mon, 30 Jan 2023 12:50:00 +0100",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "96019e54-d24f-4b31-8811-48ca1573cb22",
+    "title": "Things that did (and didn't) contribute to Burnout Buddy's success",
+    "link": "https://swiftrocks.com/things-that-did-and-didnt-contribute-to-burnout-buddys-success",
+    "description": "Back in 2022 I launched Burnout Buddy, and today the app has succeeded far beyond my expectations. Netting between $600 and $1000 each month as of writing, BB has been growing 100% organically with little to no effort on my part. In this post, I'd like to lay out exactly what I've done that I believe contributed (and didn't contribute) to this growth, serving as documentation and inspiration for the indie dev community out there. Things that helped Understanding ASO I cannot understate the value of having a good grasp of App Store Optimization (ASO). The case is simple: It doesn't matter how good your app is, if you don't get eyes on it, it will never succeed. ASO refers to being strategic about how you assemble your app's store listing (keywords, name, subtitle, description, screenshots, etc) so that it ranks well when people search for keywords related to your app. In many cases what you actually want to do is avoid popular keywords in the beginning, focusing on less popular ones where you have more of a fighting chance until you get \"popular\" enough that you can try challenging the real ones. How and when you ask for reviews also plays a big role here as reviews also affect your app's rank. I strongly recommend Appfigures for learning and applying ASO for your apps. The owner, Ariel, has posted many videos explaining different strategies you can take, and that's how I got to know about it. In my case, ASO was only time-intensive in the first few weeks following the app's launch. After it picked up some steam and became no.1 in a couple of important keywords, I was able to leave it alone and enjoy full organic growth ever since. I'm my app's primary user Most indie apps fail because they are trying to solve problems that don't exist. The devs come up with the solution first, and then try to find users who have a problem that match their solution. This rarely works. The easiest way to avoid this is to ignore other people and just focus on your own set of problems. If you can manage to build something that would make your own life better, certainly you'll find other people who will also appreciate it. In my case, I built Burnout Buddy because iOS's default Screen Time feature was too simple for me. I wanted to make more complex scenarios such as schedule or location based conditions, but iOS only allows you to setup simple time limits. You also can't do \"strict\" conditions where there's no way to disable the block once it goes into effect. I searched for other alternatives, but none of them were good enough for me. So I built my own! Once my problem was solved, I figured out that most likely there were others out there who could also make use of it. I made the app public with zero expectations, and sure enough, there were tons of other people with the same problem I had. Being my app's primary user also means that I'm perfectly positioned to know which features the app should and shouldn't have. I don't need things like user interviews, because again, I built this for myself. All I have to do is ask myself what I'd like the app to do, and the result is sure to also be a hit with others with the same problem the app aims to solve. I attribute Pieter Level's Make book for helping me understand this concept. It's also a great resource for learning more about indie development and how to create successful products in general! No backend, everything happens client-side Another decision that I've made that massively simplified things for me is that everything happens on the client. There are no accounts or backend, and I gather zero data from the users. This means I have no backend to manage, and most importantly, no monthly server costs. As long as Apple doesn't push iOS updates that break the APIs I use (unfortunately happens a lot), I can trust that everything is working as it should and focus my attention on other things. People seem to really appreciate this too, since many apps nowadays have accounts for no reason other than wanting to hoard data which is really shady. The app just works After the first couple of releases, I spent a good amount of time building a good suite of tests and architecting the app so that it would be easy to expand and make it even more testable. This means I very rarely have to worry about whether or not I'll push something that will fundamentally break the app. Having no backend-related code also greatly helped here. This doesn't mean that the app is bug-free (there are a bunch of SwiftUI issues I can't seem to solve, and Apple somehow manages to break their APIs on every iOS release as mentioned above), but when it comes to the core experience of the app, I can trust that everything works as it should. This saved a lot of testing / debugging time on my end and also made sure I almost never had to deal with support e-mails regarding broken features and such. I don't extort my users Burnout Buddy is a one-time $9.99 bucks purchase. For a long time it used to be $4.99 even. Why this matters? Because most alternatives are stupidly expensive subscriptions. Most of them also don't have backends and have even less features than BB, why the hell are these apps subscription-based??? Some people justify that subscriptions are necessary even for \"simple\" apps like BB because of things like recurring support work. While I can see the point, I also think there are other ways to tackle these issues. I for example created a FAQ support page, and that reduced 99.9% of the support requests. I'm not trying to extort my users and I believe this was a strong factor for the app's success. Things that didn't help It would be naive of me to claim that everything went right. I've made a couple of bad decisions that worked against the app's success, and I wanted to document them as well. Thinking I could make it big without marketing Like I mentioned in the ASO section, it doesn't matter how good your app is. You need to get the word out, otherwise it will just not work. There is a saying in tech that goes \"if you build something good, people will follow\". Whoever said this has absolutely never attempted to sell something. I'm as a tech nerd as it can get and I can safely say that when it comes to building businesses, marketing is a billion times more important than building the actual product! Unfortunately for me, I hate doing marketing work. I'm fine with putting a sponsorship section on this blog, but reaching out to journalists and hustling on X / LinkedIn is really not my thing. This means that while thankfully I was able to do just enough of it to get some nice results in the beginning, the app is destined to die a slow death as it drops in ranking in the App Store and other similar apps manage to get their word out better than me. Marketing is something you have to do constantly, but unfortunately for me it's something I just don't want to do, so there will always be a hard cap to how far I can go with any given project alone. Making the app too cheap This will sound weird because I mentioned above that not extorting my users was a positive. But allow me to clarify this. One thing I've learned the hard way is that you need to avoid cheapskates like the plague. This means people who expect nothing but the highest quality products, but at the same time are not willing to pay anything for it. You know when you see one because they behave like huge assholes and will do everything in their power to extract as much value from you as possible while giving nothing in return, much like the meme of a Karen screaming at the supermarket cashier because of some worthless coupon. When Burnout Buddy was $4.99, I was constantly having my support e-mail being spammed by such people. They would constantly aggressively complain about different app features and demand refunds, often threatening that they would download a different app if I didn't help them (...why would I care about that?). A lot of these reports didn't even make sense, they were clearly people just searching for excuses to be an asshole and get free stuff. It was such a waste of my time that I even briefly considered abandoning the project entirely / pulling it from the App Store just so I wouldn't have to deal with them anymore. It was only when I read someone complaining about the exact same problem on HackerNews that I realized what my issue was. It's not that giving support is a thankless job, it's that the app was too cheap. The cheapskates are attracted by free (or in this case, almost free) products. If you raise the price of your product just slightly, you can filter out these people without driving way the good (and kind) users. After doing just that, these bizarre e-mails completely vanished without resulting in any loss of revenue. While I of course still get support requests every now and then, they are now all very polite and helpful, which makes everything a breeze! In other words, the \"fail\" here is that I should've made the app cost $9.99 from the get-go to have filtered the cheapskates from the very beginning. Not gathering analytics This is an interesting one because it's both a good and a bad thing depending on how you look at it. I mentioned above that having no accounts was a good thing because it made things easier on my side and was appreciated by the users. But it also meant that I had no information regarding how users were using the app. This made things harder for me because 1) I couldn't determine which features were more popular / worth expanding upon (and which ones weren't), and 2) when people reported bugs, I had no easy way to trace their steps in order to quickly reproduce the issue (or to confirm they misunderstood the app / were doing something wrong). If I could go back, I would probably have gone for a solution that allowed me to gather analytics data for the above reasons. Using SwiftUI This is mostly out-of-topic for this post, so I'll keep it short. I decided to use SwiftUI for this project as a learning opportunity, and I sort of regret it. As mentioned in my SwiftUI vs UIKit post, SwiftUI is good for simple apps, but awful for more complex ones. As BB grew and became more intricate, SwiftUI became more and more of an issue. The app today is full of dirty hacks and visual bugs that are impossible to solve (as of writing) because they originate from SwiftUI itself, in ways that are impossible for me to control without dumping the entire framework.",
+    "author": "Bruno Rocha",
+    "published": "Thu, 23 Jan 2025 13:00:00 GMT+1",
+    "image": "",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "6c63e3da-12c7-4583-9abd-948c20985445",
+    "title": "My Home Automation setup",
+    "link": "https://swiftrocks.com/my-home-automation-setup",
+    "description": "I recently upgraded my smart home hardware, and I felt like writing a post describing my current setup to serve as inspiration for those wanting to get started or just interested in home automation in general. The Software I use Home Assistant OS like many others. The way I like to describe HA is that it's an Alexa on steroids. With an Alexa, you buy smart devices, link them with the Alexa, and then setup automations to control those devices based on conditions like time, weather, and so on. But the problem with Alexas is that 1) the devices must support Alexas specifically, and 2) the automations themselves are very limited, only allowing you to do simple things. Home Assistant doesn't have such limitations. HA is open-source and has a thriving community, meaning you can find plugins that enable integrations for pretty much anything you can think of, and if you don't, you can build such plugins yourself assuming you have the programming chops to do it! HA is very extensible, and thus perfect for power users who want to set up complex automations or integrate unusual devices in unusual ways. The Hardware For a long time, my setup used to be a simple Raspberry Pi 3b and a SD card. The HA community tells you that this is a bad idea (The 3b is weak and SD cards can die if you use them too much), but in my experience this is fine as long as you don't have too many devices / automations / integrations. It's a good starting point, and it did the trick for me for a couple of years until I started wanting to do more complicated integrations. Nowadays, I've retired the 3b in favor of a Raspberry Pi 5 w/ 8GB RAM, with a 256GB official RPi NVMe SSD and enclosed on the Argon One V3 case. This gives HA enough power and cooling to do everything that I need with ease. The way I run the server is via WiFi. The community says that this is also a bad idea and that you should use a wired connection to prevent latency issues, but I never had any such issues running HA via WiFi. For voice control, I use an Alexa. The way this works is that HA has a plugin called Emulated Hue which allows you to trick an Alexa into thinking your HA server is a Philips Hue hub, allowing you to expose your devices and scripts to the Alexa in order to make use of its voice features. But you can also pay for HA Cloud and enjoy the official \"proper\" Alexa integration, which I don't because I want to keep everything running on the local network. I also have a Sonoff ZBDongle-E USB stick plugged into the server in order to drive my Zigbee devices, which I'll mention in more detail further below. The Protocol Currently, I'm running a combination of WiFi and Zigbee devices, which is an alternate wireless protocol made specifically to be used by IoT devices that uses less energy and lays off a mesh network where the devices communicate with each other (as opposed to WiFi devices where everything goes through the router, thus creating a star network). The reason I run this mix is just because I didn't know about Zigbee in the beginning. If I could go back in time, I would have the entire network consist of Zigbee devices because I think they are just better than WiFi ones overall. It uses significantly less energy (many Zigbee devices can run on those coin cell batteries), the mesh network allows you to have devices very far away from the server, and best of all: they work even when the WiFi is down. When you buy Zigbee devices, usually the store will say that you need a hub to drive them, which they also sell. It's true that you need a hub, but it doesn't have to be that store's specific hub. When using something like HA, you can use a USB antenna stick like the one mentioned above and that will allow you to control any Zigbee device from any manufacturer via HA. The Devices Here are the IoT devices that I have around my apartment, excluding things that are \"smart\" by default like TVs and such. Sonoff Basic R2 (WiFi) This is a DIY WiFi switch that you hook into \"dumb\" devices in order to be able to make them smart and turn them on and off via WiFi. Given a bit of skill with electronics (stripping / crimping wires), these switches are much cheaper and more durable compared to buying smart lamps, and I have many of these spread around the apartment! By default, these require you to expose your device to some awful Chinese cloud server. Luckily for us, you can flash these devices with custom firmware like Tasmota, allowing you to have full control of them. This also requires skills with electronics and some special equipment, so keep that in mind. As previously mentioned, If I could go back in time, I would have instead bought these switches' Zigbee equivalent to make things easier and better, so I'm in the process of replacing them. Sonoff S26 R2 (WiFi) This is the same as above, but as something that you plug directly into the wall socket, thus requiring no messing with wires unless you want to flash the firmware to stop China from spying on you. If I could back in time, I would have bought these IKEA wall sockets instead, as they run on Zigbee and can even provide data on your electrical consumption, so these are also something I'll be replacing soon. Broadlink RM4C mini This is a WiFi IR blaster that you can configure IR commands and thus be able to create automations that allow you to control devices that require a remote control, like your TV. In my case it turned out that newer Samsung TVs have some sort of API integration where you can control them over the web, but I used these blasters for a long time before I discovered this. This also puts your device on some Chinese cloud though, and in this case I'm not sure if custom firmwares are available. Random IKEA IoT utilities IKEA has lots of IoT devices like buttons, remote controls, motion detectors, temperature thingies, and more. They are all Zigbee and thus very easy to connect to use. I think only the button and the remote control took a bit more effort because you need to find out exactly how they work in order to build automations against them in HA, but nothing that a simple Google search couldn't solve.",
+    "author": "Bruno Rocha",
+    "published": "Sat, 4 Jan 2025 13:00:00 GMT+1",
+    "image": "https://i.imgur.com/CRUuh6Q.png",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "6a88e220-bef8-4689-8313-e4f5e94144b0",
+    "title": "RUX: JSX-Style Rails View Components - RUBY 517",
+    "link": "https://rubyrogues.com/rux-jsx-style-rails-view-components-ruby-517",
+    "description": "Cameron Dutro joins the Rogues to discuss RUX, a system for managing your View Components in Rails in a similar way to how React uses JSX to manage its Component views. He discusses how it works, how it goes together, and what inspired it. Panel Charles Max Wood Darren Broemmer Luke Stutters Valentino Stoll Guest Cameron Dutro Sponsors Dev Influencers Accelerator Raygun | Click here to get started on your free 14-day trial PodcastBootcamp.io Links GitHub | camertron/rux Primer Design System ViewComponent GitHub | opal/opal Matestack Reimagined Rails views using Matestack with Jonas Jabari Ruby 2.5 allows creating structs with keyword arguments GitHub: Cameron Dutro ( camertron ) Twitter: Кэмерон Дутро ( @camertron ) Picks Cameron- GitHub | camertron/erb2rux Charles- PodcastBootcamp.io Charles- JavaScript Picks Charles- Ready Player Two Charles- Masters of Doom Charles- Top End Devs Darren- Is Ruby Dead Darren- 16 New ML Gems for Ruby Luke- GitHub | jeremyevans/sequel_postgresql_triggers Luke- DEF CON 29 - James Kettle - HTTP2: The Sequel is Always Worse Luke- The Wire  Valentino- Flux Valentino- Add strict_loading mode to optionally prevent lazy loading Contact Charles: Devchat.tv DevChat.tv | Facebook Twitter: DevChat.tv ( @devchattv ) Contact Darren: Twitter: Darren Broemmer ( @DarrenBroemmer ) Contact Luke: GitHub: Luke Stutters ( lukestuts ) Contact Valentino: Doximity Technology Blog Work @ Doximity GitHub: Valentino Stoll ( codenamev ) Twitter: V ( @thecodenamev )",
+    "author": "",
+    "published": "Wed, 06 Oct 2021 06:00:00 -0400",
+    "image": "https://media.devchat.tv/ruby-rogues/RUBY_517.mp3",
+    "source": "https://feeds.feedwrench.com/all-shows-devchattv.rss",
+    "categories": null
+  },
+  {
+    "id": "d9db090c-8c1e-44b2-bb8f-95fdb2f120c3",
+    "title": "React Do's and Don't's - RRU 158",
+    "link": "https://reactroundup.com/react-do-s-and-don-t-s-rru-158",
+    "description": "This week the panel discusses several Do's and Don't's for your React Apps that are lessons they've learned building React applications over the years. Panel Jack Herrington Paige Niedringhaus TJ Vantoll Sponsors Dev Influencers Accelerator Raygun | Click here to get started on your free 14-day trial PodcastBootcamp.io Links GitHub | welldone-software/why-did-you-render Picks Jack- Hades Paige- Versailles (TV series) TJ- Land of the Giants Contact Jack: Jack Herrington – YouTube Blue Collar Coder Twitter: Jack Herrington ( @jherr ) Contact Paige: Paige Niedringhaus Paige Niedringhaus – Medium Twitter: Paige Niedringhaus ( @pniedri ) GitHub: Paige Niedringhaus ( paigen11 ) Contact TJ: TJ VanToll's Blog Progress Software KendoReact Twitter: TJ VanToll ( @tjvantoll )",
+    "author": "",
+    "published": "Wed, 06 Oct 2021 06:00:00 -0400",
+    "image": "https://media.devchat.tv/reactroundup/RRU_158.mp3",
+    "source": "https://feeds.feedwrench.com/all-shows-devchattv.rss",
+    "categories": null
+  },
+  {
+    "id": "e884feab-b9c3-42f8-9e70-5c565592a139",
+    "title": "Solar Powered Birdhouse",
+    "link": "https://atomicbird.com/blog/birdhouse-solar-power/",
+    "description": "In my last couple of posts I’ve talked about the hardware and software behind my birdhouse camera project. I haven’t previously covered how I’m giving it all enough power to operate, and therein lies a tale. No Power? No Problem If I had a power outlet located anywhere near the bird house, this would have been easy. Pretty much any micro-USB power adapter would plug into the Raspberry Pi, and I’d be set.",
+    "author": "",
+    "published": "Thu, 19 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "92dafd48-eb4a-4d9d-aac5-f377790039c2",
+    "title": "Raspberry Pi Birdhouse Software",
+    "link": "https://atomicbird.com/blog/birdhouse-software/",
+    "description": "In my last post I went over the components of the bird house camera I set up this year to get a better look at the local black-capped chickadees. Today I’ll talk about the software that makes it work. Initial Setup Being relatively new to Raspberry Pi, I started off with a full install of Raspbian Deskop. It’s more than I need, since I won’t have anything like a desktop setup, but with a 64GB SD card I wasn’t concerned about the space.",
+    "author": "",
+    "published": "Mon, 09 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "5aa839bc-5fb8-415d-97b9-54626b9eedf6",
+    "title": "Reducing Motion of Animations",
+    "link": "https://useyourloaf.com/blog/reducing-motion-of-animations/",
+    "description": "Reduce or disable animations when the user requests you to reduce motion in the device accessibility settings. What’s the problem? Apple’s Human Interface Guide has some guidelines when applying motion to your user interface: Don’t add motion for the sake of adding motion. Gratuitous or excessive animation can distract people and may make them feel disconnected or physically uncomfortable. They also suggest making motion optional: Not everyone can or wants to experience the motion in your app or game, so it’s essential to avoid using it as the only way to communicate important information. When you do apply motion you need to be aware when it can be problematic for users. Apple highlights a number of situations: Oscillating motions, especially with large amplitudes and frequencies around 0.2 Hz (one oscillation every five seconds). For spatial interfaces like visionOS, head-locked content with rapid camera motion. Large animations that simulate objects flying in or out of the screen. Reduce Motion Accessibility Setting A user can request to reduce the motion of the user interface in the device accessibility settings: The system can take the setting into account when applying standard view transitions (but I’ve not found this documented anywhere). For example, the zoom navigation transition (new in iOS 18) creates the effect of the view flying towards/away from you which can be a problem. That automatically falls back to a standard navigation transition when you choose reduce motion. For custom animations you need to take the appropriate action yourself by disabling or replacing problematic motion. Detecting Reduce Motion The reduce motion setting is available in the environment for SwiftUI views: @Environment(\\.accessibilityReduceMotion) var reduceMotion The documentation offers us a hint on how to react: If this property’s value is true, UI should avoid large animations, especially those that simulate the third dimension. Note: For UIKit, listen for the notification reduceMotionStatusDidChangeNotification. Disabling Animations I find it convenient to create animations as a computed property that takes the reduce motion state into account. For example, to disable the animation: struct MyView: View { @Environment(\\.accessibilityReduceMotion) var reduceMotion private var linearAnimation: Animation? { guard !reduceMotion else { return nil } return Animation.linear(duration: 0.3) } } Then when applying the animation using the computed property. A value of nil disables the animation: .onTapGesture { withAnimation(linearAnimation) { enabled.toggle() } } You don’t have to always disable the animation, as with the zoom transition you could replace an animation with a less problematic version. The point to remember is that it’s not automatic for your own animations. You need to decide when and how to respond. Learn More Apple Human Interface Guide - Motion WWDC23 Design considerations for vision and motion Reducing Motion of Animations was originally posted 20 Jan 2025 on useyourloaf.com. Want this direct to your inbox? Sign up and get my free WWDC viewing guide PDF.",
+    "author": "",
+    "published": "Mon, 20 Jan 2025 10:43:52 +0000",
+    "image": "https://useyourloaf.com/blog/reducing-motion-of-animations/001.png",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "d74fc65d-1308-40e0-a2e2-5c465dee2847",
+    "title": "Swift Parameterized Testing",
+    "link": "https://useyourloaf.com/blog/swift-parameterized-testing/",
+    "description": "Apple introduced Swift Testing at WWDC24. One of the interesting features is the ability to pass arguments to a test function. Parameterized Testing The Swift Testing @Test macro has an arguments parameter which accepts a collection of values: @Test(\"Even Value\", arguments: [2, 8, 50]) func even(value: Int) { #expect(value.isMultiple(of: 2)) } Swift Testing calls the test function once for each value in the arguments collection. The Test Navigator shows the results of each of the test runs: If you pass a second argument, Swift Testing generates test cases for all combinations of the two arguments: @Test(\"Product is even\", arguments: [2, 8, 50], [3, 6, 9]) func productEven(value: Int, multiplier: Int) { let product = value * multiplier #expect(product.isMultiple(of: 2)) } The Test Navigator shows nine test results covering all combinations of the input arguments: You’re limited to at most two arguments. If you don’t need every combination you can zip the arguments to pair them: @Test(\"Product is even\", arguments: zip([2, 8, 50], [3, 6, 9])) func productEven(value: Int, multiplier: Int) { let product = value * multiplier #expect(product.isMultiple(of: 2)) } The Test Navigator now shows this test running three times with consecutive pairs of arguments: That all makes for a good demo but how useful is it in practise? Migrating from XCTest I recently migrated some XCTest based unit tests to Swift Testing. I was happy to find examples where I could use parameters to either combine or simplify tests. The parameter based testing works best when you have a collection of input arguments for which you expect the same result. I’ve found this extra convenient when you can organise the input data as a CaseIterable enum that can drive the tests. For example, I like to verify the attributes of each property in my Core Data managed object classes. This protects me from accidentally renaming or changing the type of the property in the Core Data model editor. I have the attributes of each Core Data class listed as enums organised by type. For example, a Country has these String attributes: enum StringAttribute: String, CaseIterable { case capital case name case continent case currency } A test to verify each of these string attributes: private let entityName = \"Country\" private let container: NSPeristentContainer @Test( \"Verify String attributes\", arguments: Country.StringAttribute.allCases) func stringAttributes(_ name: Country.StringAttribute) throws { let entity = try #require( container.managedObjectModel.entitiesByName[entityName]) let attribute = try #require(entity.attributesByName[name.rawValue]) #expect(attribute.type == .string) } I’m yet to find a practical example for when I need all combinations of two arguments though I have some situations where I’ve found zip’ing two arguments useful. Why Bother? I can write the previous test without arguments using a for-loop to iterate over the enum cases. The Swift Testing approach with parameters has some advantages: Each call of the test function with a different argument is an independent test case than can run in parallel. It’s much clearer when a test case fails. You can also rerun just the failing argument from the test navigator by clicking on the red failure icon: Learn More Migrating XCTest to Swift Testing WWDC24 Go further with Swift Testing Swift Parameterized Testing was originally posted 06 Jan 2025 on useyourloaf.com. Want this direct to your inbox? Sign up and get my free WWDC viewing guide PDF.",
+    "author": "",
+    "published": "Mon, 06 Jan 2025 10:06:42 +0000",
+    "image": "https://useyourloaf.com/blog/swift-parameterized-testing/001.png",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "d74817c5-047e-4aba-956f-70dd82ddb62f",
+    "title": "Harris for President",
+    "link": "https://inessential.com/2024/10/31/harris_for_president.html",
+    "description": "Donald Trump is a gross villain and a traitor to our country. He’s a convicted felon, adjudicated rapist, and head of a criminal organization; he works with criminals and he pardons criminals; he’s a narcissist and violent insurrectionist, racist and misogynist; he’s the master of lies and corruption and self-serving. He plans to rule as a fascist dictator, and this time has the backing to do so, for the benefit of him and his ultra-wealthy friends. Not for you. For everybody else, the various enemies within — everybody who isn’t a straight white male who goes along with the program — there will be concentration camps, deportation, prison, and rumors and threats of each. There will be more deaths in hospital parking lots. I have voted for Kamala Harris. I ask you to vote for her too. I happen to think Harris would be very good, possibly even great, as president. But it hardly matters! Voting for her is how we stop this. And we have to stop this.",
+    "author": "",
+    "published": "Thu, 31 Oct 2024 13:04:03 -0700",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "ca903ddc-e4b0-4140-9b4d-d22900a074d5",
+    "title": "Seattle Xcoders 20th Anniversary Meetup",
+    "link": "https://inessential.com/2024/10/16/seattle_xcoders_20th_anniversary_meetup.html",
+    "description": "This Thursday, Oct. 17, 2024, is the 20th anniversary of the Seattle Xcoders! We’d love to see you there, at 7 pm at Bale Breaker and Yonder Cider taproom in Ballard. Everyone is welcome! It’s not just for people who write code — it’s for designers, testers, support folks, and everyone who helps make Apple-ecosystem apps. Even if you just like those kinds of apps and like talking about them, come join us! We’re usually outside by these propane fire things, but I’m not sure this time — we might have a room or some area or something. We should be easy to find, at any rate. It’s not actually a meeting with presentations — it’s just hanging out and talking. Which we do every first, third, and fifth Thursday (you can subscribe to our calendar). One of these days we’ll get back to presentations — but the social part is valuable, and so we keep it up. PS Looks like the food truck is Impeckable Chicken, which I’ve heard good things about. :) PPS I’m usually easy to spot: quite well into middle age, with nothing like the amount of hair I once had. Black jeans, usually a black sweatshirt. Glasses. Doc Martens. Not tall.",
+    "author": "",
+    "published": "Wed, 16 Oct 2024 19:13:25 -0700",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "f1dff6a3-a776-48da-a27a-219297026508",
+    "title": "310: What's In Our Toolbox: Task Management",
+    "link": "http://relay.fm/radar/310",
+    "description": "In the fourth of a multi-part series sharing the apps that we use to develop software, we discuss task management, collaboration, and a final assortment of miscellaneous apps.",
+    "author": "Marco Arment and David Smith",
+    "published": "Thu, 16 Jan 2025 18:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar310.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  },
+  {
+    "id": "067d9e17-76f9-464b-b569-c3b5c061bcd8",
+    "title": "309: What's In Our Toolbox: Code Assistance",
+    "link": "http://relay.fm/radar/309",
+    "description": "In the third of a multi-part series sharing the apps that we use to develop software, we discuss documentation, code from the web, and LLM-powered code generation.",
+    "author": "Marco Arment and David Smith",
+    "published": "Mon, 06 Jan 2025 10:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar309.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  }
+]
