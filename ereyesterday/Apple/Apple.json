@@ -1,0 +1,386 @@
+[
+  {
+    "id": "63f25bbf-e668-4ec4-8a41-208dc245f768",
+    "title": "Why your external drive isn’t showing up on Mac and how to get a Mac to recognise it",
+    "link": "https://www.macworld.com/article/671697/how-to-find-an-external-drive-thats-not-showing-up-on-a-mac.html",
+    "description": "Macworld Normally when you plug in an external hard drive to your Mac’s USB port you will see it appear on the desktop. You can also see it in a Finder window in the left column under Locations (or Devices in older versions of macOS). If the drive is not showing up on your Mac chances are it has not been formatted correctly, has been corrupted, or is faulty. Alternatively, you may have set a password for the drive that you need to enter before it will connect. We show you how to work out whether the reason the external drive is not mounting on your Mac up is due to a problem with the drive itself, the cable or the port, and how to resolve the problem and access data on your drive. PROMOTIONEaseUS | Check and manage hard drives on Mac Why the hard drive is not showing up on your Mac? How to get it fixed quickly? No worries. EaseUS Partition Master for Mac comes in. To check and find hard drives both internal and external, it scans the devices, gives a clear overview, and diagnoses what happens to your disks. In addition to providing a clear result, it also prompts and guides you to take the next step, quickly solving your disk problem, like disk formatting, creating a boot disk, and converting the disk to be initialized. Now 25% OFF by using code: MACWORLD25. Free Trial Buy and Save 25% This article assumes you have an external drive that should connect to your Mac via the USB-A, USB-C, or a Thunderbolt port. If you have a NAS drive that connects over the network then you should read our article about connecting to a NAS drive. Why is your hard drive not showing up on Mac? We’ll start by trying to identify the reason why your hard drive isn’t showing up on the Mac before explaining what you need to do to find the hard drive on your Mac. If you can identify the cause your should be able to fix the problem that is stopping your external drive from opening on your Mac. Damaged cable, port or insufficient power The first port of call is always to check that it’s plugged in, but we are sure you have done that. The problem might be with the cable. One of the main reasons why drives fail to mount is if the drive isn’t receiving enough power. If the drive is powered via a USB-A cable you need to check that adequate power is being delivered to the drive. Very old Macs may require a USB power cable, a cable that splits into two USB connectors that need to both be plugged into your Mac, in order to deliver enough power to the drive. Similarly, make sure that the drive doesn’t have an external power supply it should be using. On the subject of cables, make sure that it’s not at fault. Try using a different cable with the drive to see if that fixes the problem. Similarly, if you are using a USB port on a hub check that’s not what’s causing the problem. Also check that the port on your Mac isn’t the problem. Try using a different port. Or if you only have one port, plug another device in and see if that works. The next step is to try plugging the drive into another Mac. If it also fails to mount there you will know that there is a problem with the drive while if it does mount then the problem is with your Mac. Problem preferences Hopefully, there is a really easy fix to get the hard drive to mount on your desktop. Try the following to make sure your Mac is set to show mounted drives on the desktop.  Open the Finder. Click on Finder in the menu at the top of your screen.  Click on Settings (Preferences in older macOS versions). Click on General. Make sure that there is a tick beside External disks.  If it was already set up so that the external drive would appear on the desktop then continue to follow the steps below. Password protections You can protect a drive with a password when you initially start using it, so check to see if the reason your drive isn’t mounting is that a password request box has popped up and you didn’t notice it. Sometimes the password popup takes a few minutes to appear as well, so it helps to be patient. Foundry The drive is formatted for a PC It is possible that the drive has been formatted using a file system that your Mac cannot read. Windows PCs use NTFS or ExFAT file formats. Mac computers before Sierra used the HFS+ file format. In High Sierra, Apple introduced a new file system called Apple File System (APFS). There is an old FAT32 format can be read by Window and Mac computers, but has limitation on what files can be stored. An easy way to find out if this is the problem would be to check on a PC. If the drive mounts on the PC it’s likely that you have discovered what the problem is: the drive is formatted for PCs and can’t be read by your Mac. To make sure your drive can be read by Macs and PCs you need to format it using exFAT or the older FAT32. We’ll explain how to do that below. It’s a corrupted or faulty drive If none of the above were the reason why you couldn’t see the external drive on your Mac, perhaps the drive is faulty. If it is, you can use Apple’s Disk Utility program to access the disk and potentially fix whatever is causing the issue. We’ll discuss how to do that below. We’ll also look at ways you can stop a drive failing in the future. How fix an external drive that won’t show up on a Mac If none of the above solved your problem, it is likely the drive is either formatted incorrectly or damaged. Depending on the reason why you can’t see the drive, here is what you need to do to get it working. How to reformat a drive so you can see it on a Mac Hopefully, the drive is fine, but the format is wrong. It is possible that the hard drive has been formatted using a different file system (i.e. on a Windows PC). In that case, if you need to access the data on the drive you’ll need to connect the drive to a Windows PC that does recognize it and copy the data before moving on to the next step because the process will involve reformatting the drive and deleting everything on i). To make sure your drive can be read by Macs and PCs you need to format it using exFAT or the older FAT32. If you want to format the drive to just be used on a Mac you can use the HFS+ or Apple File System (APFS) file formats. Having got the data of the drive via a PC you can reformat the drive so that you can add the data again. Here’s how to reformat your drive so it can be read by a Mac or a PC. Open Disk Utility (as per the steps above). If you don’t require the data on the hard drive, select the disk and click Erase. Before Disk Utility starts to erase the disk it will pick a format for you. You can change this if you click on the Formatting options. Choose your format, ExFAT if you want to make sure it’s compatible with PC and Mac, otherwise, Mac OS Extended (Journaled) is probably the best option.  Click on Erase and wait for your Mac to erase and then reformat the drive. Give the drive a name.  Screenshot Foundry Read more: How to format a drive on a Mac. How to fix the faulty drive with Disk Utility If the various checks above suggest that the disk is faulty then you can use Apple’s Disk Utility program to access the disk and potentially fix whatever is causing the issue. Here’s what to do: Find Disk Utility by opening Spotlight (cmd+Space-bar) and start typing Disk Utility, press enter to open the program. Look in the column on the left to see if the hard drive appears there. If you can see the hard drive in Disk Utility check underneath it for a volume. If it is there click on it and select Mount. If your Mac has already mounted the drive the option Unmount will be displayed instead. (If there is no volume listed your Mac is not able to access the drive. The Mount option will be greyed out.) Your options are First Aid, Erase, and Restore. First Aid will check the disk for errors and then repair the disk if necessary and this is the option to choose. Restore allows you to erase the contents of the drive and replace that with data from somewhere else. Erase deletes all the data stored on the drive. If you need the data on the drive do not choose Erase or Restore! Click the First Aid tab and select Run.  If after running First Aid the Mac finds errors you could fix you may see the option to Repair Disk. If you do, go ahead and run the repairs. Best apps to recover data on a lost drive If your Mac is unable to repair the disk if is likely that the drive is either formatted using a file system that the Mac cannot read, or it is well and truly broken. If it’s the latter we suggest you follow this tutorial about recovering data from a damaged disk. You may also want to consider one of the data recovery apps for Mac we recommend in our round-up of the Best data recovery apps for Macs. Our recommendations include Recoverit from Wondershare, Data Rescue from Prosoft and Stella Data Recovery for Mac. 1. Wondershare Recoverit Price When Reviewed: 1 month/2 Macs: $79.99 (usually $109.99); 1 year/2 Macs: $89.99 (usually $139.99); perpetual license/2 Macs: $139.99 (usually $169.99) Best Prices Today: Retailer Price Wondershare (annual) $89.99 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket $89.99 at Wondershare (annual) Read our full Wondershare Recoverit review 2. Data Rescue Price When Reviewed: Standard license: $79 for a 30-day; Professional license: $399 for one year Best Prices Today: Retailer Price Prosoft Engineering (30-day license) $79 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket $79 at Prosoft Engineering (30-day license) Read our full Data Rescue review 3. Stellar Data Recovery for Mac Price When Reviewed: Standard edition: $79.99 (currently $69.99) a year, or $129.99 (currently $99.99) for a lifetime license. Professional version: $129.99 (currently $99.99) a year, or $199 (currently $149) for a lifetime license. Premium edition: $209.99 (currently $99.99) a year, or $319 (currently $199) for a lifetime license. Best Prices Today: Retailer Price Stellar Info (annual) $79.99 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket $79.99 at Stellar Info (annual) Read our full Stellar Data Recovery for Mac review How to prevent issues with hard drives on a Mac We have final suggestion to make that is more of a guard against this error happening again. Make sure that your external drive doesn’t become damaged in the future by always unmounting the disk properly after using it. Don’t just unplug the USB cable. To unmount your drive you can right-click (control-click) on the icon on the Desktop or in the Finder and choose Eject. Drive issues can occur when the disk is removed without ejecting it properly. Decided there is no hope for your faulty hard drive? We have a round-up of some of the best we’ve seen here: The best Mac hard drives.",
+    "author": "",
+    "published": "Sun, 26 Jan 2025 08:25:00 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/01/macos-14-mac-macbook.png",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "Cleaning and Data Recovery Software, Mac, Storage"
+    ]
+  },
+  {
+    "id": "8cb140ef-f602-4ba7-8737-684dd9d8fbca",
+    "title": "Why pay a fee for iCloud Drive when you could own 2TB of cloud storage for life?",
+    "link": "https://www.macworld.com/article/2584277/why-pay-a-fee-for-icloud-drive-when-you-could-own-2tb-of-cloud-storage-for-life.html",
+    "description": "Macworld Nothing might be worse than paying a recurring fee for iCloud…or getting a storage limit notification and having to upgrade and pay even more each month. Why not own your cloud storage for life? Instead of paying a $10 subscription monthly, you could pay $74.97 once and have FileJump forever! With this plan, you’ll get 2TB of cloud storage that’s actually yours forever. The biggest difference is that FileJump won’t seamlessly integrate with your iOS devices like iCloud, but that’s not a big deal, considering you’re getting $10 back in your wallet every month.  Use the drag-and-drop feature to upload your images, videos, and files under 15GB. All your content will be stored with secure AES encryption as well, so you can rest easy knowing your media and data are protected. And unlike other lifetime cloud storage plans, FileJump even has mobile and desktop apps to complete the experience. You can conveniently see file previews for images, videos, and spreadsheets. Ditch the cloud storage fees this year with FileJump’s 2TB lifetime subscription, now just $74.97 while codes last. This offer ends February 9 at 11:59 p.m. PT.   FileJump 2TB Cloud Storage: Lifetime Subscription Only $74.97 at Macworld StackSocial prices subject to change.",
+    "author": "",
+    "published": "Sun, 26 Jan 2025 08:00:00 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/01/sale_327095_article_image-1-1.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "Storage"
+    ]
+  },
+  {
+    "id": "983854ca-6b3b-40e8-9179-30da1b00e0d8",
+    "title": "Shot on iPhone 16 Pro | Chinese New Year - I Made a Mixtape for You | Apple",
+    "link": "https://www.youtube.com/watch?v=mdtcSIAiqRc",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-01-10T16:00:20+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "41e83d84-d3dd-42a3-9140-b055f4c6cc99",
+    "title": "Shot on iPhone 16 Pro | Chinese New Year - Making of I Made a Mixtape for You | Apple",
+    "link": "https://www.youtube.com/watch?v=QkOJ16lrTuk",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-01-10T16:00:14+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "c0c5872c-1790-424f-896c-5836deb5580c",
+    "title": "Apple Miami Worldcenter opens to excited customers in downtown Miami",
+    "link": "https://www.apple.com/newsroom/2025/01/apple-miami-worldcenter-opens-to-excited-customers-in-downtown-miami/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-01-24T20:24:58.341Z",
+    "image": "https://www.apple.com/newsroom/images/2025/01/apple-miami-worldcenter-opens-to-excited-customers-in-downtown-miami/tile/Apple-Miami-Worldcenter-opening-day-first-customers-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "PHOTOS"
+    ]
+  },
+  {
+    "id": "4072dca0-7a37-4e8a-8418-17127fb58260",
+    "title": "Apple Miami Worldcenter opens Friday, January 24, in downtown Miami",
+    "link": "https://www.apple.com/newsroom/2025/01/apple-miami-worldcenter-opens-friday-january-24-in-downtown-miami/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-01-22T13:59:26.586Z",
+    "image": "https://www.apple.com/newsroom/images/2025/01/apple-miami-worldcenter-opens-friday-january-24-in-downtown-miami/tile/Apple-Miami-Worldcenter-media-preview-store-front-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "PRESS RELEASE"
+    ]
+  },
+  {
+    "id": "92331fa7-7bad-4624-981e-711fccf2afe2",
+    "title": "Pick up Apple's M4 MacBook Pro for $1,399 at Amazon with coupon",
+    "link": "https://appleinsider.com/articles/25/01/26/pick-up-apples-m4-macbook-pro-for-1399-at-amazon-with-coupon?utm_medium=rss",
+    "description": "Month-end price cuts are in effect on Apple's latest MacBook Pro with an M4 chip, as Amazon's on-page coupon drops it to $1,399.99.Grab Apple's M4 MacBook Pro for $1,399 - Image credit: AppleThe $1,399.99 price at Amazon is thanks to a $150 instant rebate stacked with a $49.01 on-page coupon, bringing the total savings to $200 off MSRP. With the standard M4 model now including 16GB of unified memory compared to the M3's 8GB of RAM, the Late 2024 14-inch MacBook Pro offers additional value for the price.Buy for $1,399.99 Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Christine McKee",
+    "published": "Sun, 26 Jan 2025 21:37:08 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/62140-128742-m4-macbook-pro-14-inch-1399-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "bd4f75cd-dea4-4f07-b0d4-389b4e59ab8b",
+    "title": "AirPods with cameras still a priority for Apple's computer vision goals",
+    "link": "https://appleinsider.com/articles/25/01/26/airpods-with-cameras-still-a-priority-for-apples-computer-vision-goals?utm_medium=rss",
+    "description": "Apple's AirPods could offer more than just sound, with the personal audio accessories still anticipated to gain cameras at some point in the future, and there's patent filings to prove it.AirPods Pro 2Apple's work to increase the utility of its wearable devices could lead in a slightly offbeat direction for one product. The AirPods, typically an audio-based item, could one day house cameras to capture images of the local environment.In a Bloomberg newsletter on Sunday, a discussion of smart glasses includes references to other Apple products could be working on. The short list includes something like Meta's Ray-Ban glasses, but also \"camera-equipped AirPods.\" Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Malcolm Owen",
+    "published": "Sun, 26 Jan 2025 18:04:58 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/62437-129444-61471-126995-000-lede-AirPods-Pro-2-xl-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "427c598b-b4b1-408f-bc3f-e1f8bc77ee92",
+    "title": "Today in Apple history: iPhone sales hit first speed bump",
+    "link": "https://www.cultofmac.com/apple-history/peak-iphone-sales-hit-first-speed-bump",
+    "description": "On January 26, 2016, iPhone sales flatlined for the first time after nine years of spectacular growth. Some called it \"peak iPhone.\" (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Luke Dormehl",
+    "published": "Sun, 26 Jan 2025 18:40:31 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2016/09/iPhone-7-Front-2.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Apple history",
+      "iPhone",
+      "iPhone sales",
+      "TIAH: 2010s",
+      "TIAH: iPhone",
+      "Today in Apple history"
+    ]
+  },
+  {
+    "id": "cec4a08b-e2b1-46e7-9236-cbecc8fdc409",
+    "title": "This AI-powered app takes notes for you, then summarizes them",
+    "link": "https://www.cultofmac.com/daily-deals/my-notes-ai-note-taker",
+    "description": "Use your iPhone, iPad or Mac to transcribe and summarize lectures, meetings and more with AI note taker app My Notes AI. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Cult of Mac Deals",
+    "published": "Sun, 26 Jan 2025 14:30:02 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2025/01/My-Notes.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Daily deals",
+      "AI",
+      "Cult of Mac Deals",
+      "iPad apps",
+      "iPhone apps",
+      "Mac apps"
+    ]
+  },
+  {
+    "id": "ee158560-4466-4aec-ba9c-e11ae0688a4b",
+    "title": "Tim Cook Does ‘Severance’ Promo",
+    "link": "https://www.youtube.com/watch?v=wA75GsU4Neg",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-01-26T17:09:17Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "ba90e311-9e05-4932-86e7-bb6cce891f70",
+    "title": "★ Thin Is In",
+    "link": "https://daringfireball.net/2025/01/thin_is_in",
+    "description": "I see four possible futures regarding phones that are too thin for USB-C ports.",
+    "author": "John Gruber",
+    "published": "2025-01-25T18:01:12Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "f246e06f-2fca-4c05-8d48-6321518fa3cb",
+    "title": "Samsung Galaxy S25 Ultra: First Look Hands-On!",
+    "link": "https://www.youtube.com/watch?v=iAkSmMDQkC8",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-01-22T18:01:00+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "c992e9f7-cc80-4956-ba7c-29747ff7ef41",
+    "title": "iPhone 17 Air is Going to Be CRAZY Thin 😳",
+    "link": "https://www.youtube.com/watch?v=bxuMI7XdUug",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-01-17T17:21:52+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "6767f81e-9191-47ca-b898-cff2a67d0774",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 11:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "ea437428-dceb-4bb9-acb4-f5f6cfd82360",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 07:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "7f13aa29-566b-4099-bcdb-c6246f773b9d",
+    "title": "PSA: If you buy a new iPhone in the US, you can’t use TikTok on it",
+    "link": "https://9to5mac.com/2025/01/26/new-iphone-tiktok-install-us-psa/",
+    "description": "Despite the fact that you can still use the service, TikTok is still very much so banned in the United States. President Trump promised to not fine TikTok and its service providers for continuing to run the services, but that’s just a promise. He also signed an executive order officially suspending the ban, but there’s great odds that that executive order doesn’t actually hold up legally. For one reason or another, Apple (and Google) have both decided that they don’t want to take the risk. If a court later decides that Trumps promises don’t hold up legally, Apple could be on the hook for up to $850 billion in fines. It just isn’t worth it for them. more…",
+    "author": "Michael Burkhardt",
+    "published": "Sun, 26 Jan 2025 23:46:52 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/ByteDance-knew-kids-could-get-addicted-to-TikTok-in-35-mins.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "276a5b0d-4dc0-4ba0-98b7-a47bd5c89ff6",
+    "title": "iOS 18.4 is reportedly releasing in April, here are some rumored features",
+    "link": "https://9to5mac.com/2025/01/26/ios-18-4-is-reportedly-releasing-in-april-here-are-some-rumored-features/",
+    "description": "According to Bloomberg’s Mark Gurman, Apple is planning on releasing iOS 18.4 in April. Apple hasn’t started the beta cycle for iOS 18.4 quite yet, but there are a handful of things we can likely expect with iOS 18.4 so far. more…",
+    "author": "Michael Burkhardt",
+    "published": "Sun, 26 Jan 2025 20:23:56 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/iOS-18.4-hero-alt.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "5fda2acd-b4f3-43b5-8f51-e84ce835fd5a",
+    "title": "The Latest from Comfort Zone, Magic Rays of Light, and MacStories Unwind",
+    "link": "https://www.macstories.net/news/the-latest-from-comfort-zone-magic-rays-of-light-and-macstories-unwind-15/",
+    "description": "Enjoy the latest episodes from MacStories’ family of podcasts: Comfort Zone Matt has an announcement to make (and a cool app to talk about), Chris brought a bag of goodies, and Niléane brought a fun challenge around using our mice in interesting ways. Magic Rays of Light Sigmund and Devon highlight the premiere of Apple […]",
+    "author": "John Voorhees",
+    "published": "Fri, 24 Jan 2025 22:54:56 +0000",
+    "image": "https://cdn.macstories.net/untitled-1727463661405.png",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "news",
+      "Comfort Zone",
+      "Magic Rays of Light",
+      "podcast",
+      "unwind"
+    ]
+  },
+  {
+    "id": "8ce0c70a-7498-4bf8-ae4f-124df4e04b67",
+    "title": "Epic Games Announces iOS Store Expansion in the E.U.",
+    "link": "https://www.macstories.net/linked/epic-games-announces-ios-store-expansion-in-the-e-u/",
+    "description": "The Epic Games Store, which is available in the E.U. on iOS as a result of the Digital Markets Act and globally on Android, is expanding. During a press briefing, Epic’s Tim Sweeney said: Our aim here isn’t just to launch a bunch of different stores in different places, but to build a single, cross-platform […]",
+    "author": "John Voorhees",
+    "published": "Fri, 24 Jan 2025 11:14:40 +0000",
+    "image": "https://cdn.macstories.net/egs-logotype-2023-horizontal-black-1737716122150.jpg",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "Linked",
+      "DMA",
+      "Epic Games",
+      "EU",
+      "games",
+      "regulation"
+    ]
+  },
+  {
+    "id": "6d81a5a0-91b2-4cf1-a8eb-ca8ff3f282fb",
+    "title": "How to Fix iPhone Blank White/Grey Icons with Cross \u0026 Circles",
+    "link": "https://osxdaily.com/2025/01/24/how-fix-iphone-blank-icon-cross-circles-loading/",
+    "description": "Some iPhone and iPad users may occasionally notice that their iPhone app icons show up as blank white or grey icons with a grid like appearance on them of a cross and circles. If you’ve never seen this before, it can be confusing, especially since there is no clear indication on what the blank icon ... Read More",
+    "author": "Paul Horowitz",
+    "published": "Fri, 24 Jan 2025 19:29:22 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "iPad",
+      "iPhone",
+      "Tips \u0026 Tricks",
+      "Troubleshooting",
+      "change app icons",
+      "home screen",
+      "icon",
+      "iOS",
+      "iPadOS",
+      "tips",
+      "tricks"
+    ]
+  },
+  {
+    "id": "1b88be62-4755-4e7b-9499-be8b6954d100",
+    "title": "How to Use “Type to Siri” with Apple Intelligence on iPhone \u0026 iPad",
+    "link": "https://osxdaily.com/2025/01/23/how-to-use-type-to-siri-with-apple-intelligence-on-iphone-ipad/",
+    "description": "Using “Type to Siri” on iPhone and iPad is better than ever thanks to Apple Intelligence, and if you have a new enough iPhone or iPad. Type to Siri with Apple Intelligence includes ChatGPT integration, making it a notably more capable AI assistant, and it’s also much easier to access with the latest devices and ... Read More",
+    "author": "Jamie Cuevas",
+    "published": "Thu, 23 Jan 2025 19:14:01 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "iPad",
+      "iPhone",
+      "Tips \u0026 Tricks",
+      "Apple Intelligence",
+      "iOS",
+      "iOS 18",
+      "iPadOS",
+      "iPadOS 18",
+      "Siri",
+      "tips",
+      "tricks",
+      "Type to Siri"
+    ]
+  },
+  {
+    "id": "ce6d48a8-8d0d-4569-aa6e-e39fbf362e84",
+    "title": "∞ The Dalrymple Report: iOS 18.3, HomePad, and Siri",
+    "link": "https://www.loopinsight.com/2025/01/24/the-dalrymple-report-ios-18-3-homepad-and-siri/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-ios-18-3-homepad-and-siri",
+    "description": "With the upcoming release of iOS 18.3, Apple Intelligence can no longer be considered a beta, but sadly it still sucks really bad. Apple is rumored to be working on a new product to replace the HomePod and will include a screen and Apple Intelligence. Speaking of Siri, Dave and I ask it some simple questions that it gets wrong. Follow this podcast Show Notes: Academy Award nomination list iOS 18.3 brings two upgrades to Camera Control on your iPhone 16 On the rumored \"HomePad\" Shows and movies we're watching Collision, Acorn TV Suspect, BritBox De Palma, Amazon Prime River, Amazon Prime and BritBox",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 24 Jan 2025 15:39:06 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "2723fccb-e800-401c-b548-14efde1ca683",
+    "title": "∞ The Dalrymple Report: Laundry tag decoder, Severance, and voice phishing",
+    "link": "https://www.loopinsight.com/2025/01/17/the-dalrymple-report-laundry-tag-decoder-severance-and-voice-phishing/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-laundry-tag-decoder-severance-and-voice-phishing",
+    "description": "Did you know that your iPhone has a laundry tag decoder built-in? Me neither, but Dave found it and shows us how it works. With the new season of Severance here, Apple did one of the most remarkable campaigns to a TV show ever. We often talk about security and scammers on this show, but it has hit a new level of sophistication and it is truly scary. Follow this podcast Brought to you by: LinkedIn Jobs: LinkedIn Jobs helps you find the candidates you want to talk to, faster. Did you know every week, nearly 40 million job seekers visit LinkedIn? Post your job for free at LinkedIn.com/DALRYMPLE. Terms and conditions apply. Show Notes: Nintendo Switch 2 announced Chip, Skip, and Trip Apple Promotes Severance Season 2 Premiere With Lumon Industries Pop-Up and Visits From Actors Apple and “voice phishing” Shows and movies we're watching Cross, Amazon Prime Love The Bridge, AMC+ No country for old men, Paramount+ The Pitt, Max",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 17 Jan 2025 16:31:55 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "39800d8c-3ec3-4aad-b299-08c17ce9ef5b",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "6f13ee53-ac51-4d74-b92c-8e5c4a85ce15",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  },
+  {
+    "id": "f2eea184-d7bd-4403-90e7-1fd5764644a0",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "cdcb6072-0ff2-49b6-825d-2b6cba9664c4",
+    "title": "The Overcast Redesign: Part One",
+    "link": "https://marco.org/2022/03/25/overcast-redesign-2022",
+    "description": "Overcast’s latest update (2022.2) brings the largest redesign in its nearly-eight-year history, plus many of the most frequently requested features and lots of under-the-hood improvements. I’m pretty proud of this one. For this first and largest phase of the redesign, I focused on the home screen, playlist screen, typography, and spacing. (I plan to revamp the now-playing and individual-podcast screens in a later update.) The home screen is radically different: Home screen, before (left) and after (right). Playlists now have strong visual identities for nicer and easier navigation. Each playlist has a customizable color, and a custom icon can be selected from over 3,000 SF Symbols to match modern iOS design and the other icons within Overcast. And playlists can be manually reordered with drag-and-drop. Recently played and newly published episodes can now be displayed on the home screen for quick access, much like the widget and CarPlay experience. Podcasts can now be pinned to the top of the home-screen list. Pinned podcasts can also be manually reordered with drag-and-drop. I’ve also rethought the old stacked “Podcasts” and “Played Podcasts” sections to better match people’s needs and expectations. Now, the toggle atop the podcast list switches between three modes: podcasts with current episodes, all followed podcasts, and inactive podcasts (those that you don’t follow and therefore won’t get any more episodes from, or haven’t posted a new episode in a long time). The playlist screen’s structure remains mostly the same, while refining the design for the modern era: Playlist screen, before (left) and after (right). Here, it’s more apparent that I’ve replaced the system San Francisco font with an alternate variant, San Francisco Rounded, to increase legibility and better match the personality of the app. I’ve also added highly demanded features: By far, Overcast’s most-requested feature is a Mark as Played feature. That’s now available as a checkmark button on episode rows, as well as a left-side swipe action. The second-most-requested feature is a way to view all starred episodes. Special playlists for Starred, Downloaded, and In Progress can now be created. The light and dark themes now each have a customizable tint color from the modern iOS UI-color palette, including these favorites from beta testers: And throughout the app, I’ve made tons of tweaks and bug fixes, including: Notifications and background downloads are now much more reliable. Episode downloads can now be individually deleted or re-downloaded. Links can now be opened in Safari. (under Nitpicky Details) Performance is now significantly better with very large playlists and collections. Fixed bugs with episode-duration detection, CarPlay lists, Mac-app sharing, and much more. So much is better in this update that I can’t even remember it all. Thank you so much to everyone who helped me beta-test this massive update. As always, Overcast is free in the App Store. Go get it!",
+    "author": "",
+    "published": "Fri, 25 Mar 2022 10:57:51 EDT",
+    "image": "https://marco.org/media/2022/03/ocredesign2022-1-after.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  }
+]
