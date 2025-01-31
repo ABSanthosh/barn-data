@@ -1,0 +1,114 @@
+[
+  {
+    "id": "77632ab6-6a47-425b-a338-227a33b73ee3",
+    "title": "What's New in WebGPU (Chrome 133)",
+    "link": "https://developer.chrome.com/blog/new-in-webgpu-133?hl=en",
+    "description": "Additional unorm8x4-bgra and 1-component vertex formats, allow unknown limits to be requested with undefined value, WGSL alignment rules changes, WGSL performance gains with discard, and much more.",
+    "author": "",
+    "published": "Wed, 29 Jan 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "64ef9d19-44d8-4273-962d-ca6da068e971",
+    "title": "Chrome Web Store policy updates: ensuring clarity and consistency for developers",
+    "link": "https://developer.chrome.com/blog/cws-policy-updates-2025?hl=en",
+    "description": "The Chrome Web Store is committed to fostering a high-quality and trustworthy ecosystem for developers and users. To align with this goal, we're announcing a series of policy updates designed to provide clarity and consistency across our platform.",
+    "author": "",
+    "published": "Tue, 28 Jan 2025 18:03:42 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "44dabd15-f71e-4f31-93a9-da2d79105b78",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "b5dcb84d-8fa0-48da-98bc-e34e232ac075",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "98a14529-5450-47a9-9259-b4d930524269",
+    "title": "What on Earth is the `types` Descriptor in View Transitions?",
+    "link": "https://css-tricks.com/what-on-earth-is-the-types-descriptor-in-view-transitions/",
+    "description": "The @view-transition at-rule has two descriptions. One is the commonly used navigation descriptor. The second is types, the lesser-known of the two, and one that probably envies how much attention navigation gets. But read on to learn why we need types and how it opens up new possibilities for custom view transitions when navigating between pages. What on Earth is the `types` Descriptor in View Transitions? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Juan Diego Rodríguez",
+    "published": "Wed, 29 Jan 2025 14:13:53 +0000",
+    "image": "https://css-tricks.com/wp-content/uploads/2025/01/custom-view-transition.mp4",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "view transitions"
+    ]
+  },
+  {
+    "id": "af819551-df80-4f9c-916c-747b503dca09",
+    "title": "Revisiting CSS Multi-Column Layout",
+    "link": "https://css-tricks.com/revisiting-css-multi-column-layout/",
+    "description": "After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility. Revisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Andy Clarke",
+    "published": "Mon, 27 Jan 2025 15:35:44 +0000",
+    "image": "https://i0.wp.com/paper-attachments.dropboxusercontent.com/s_10BD6DD78E1560F01EE83A8FD0F91ED836542257C0117DD8A20FDBB79DE2400F_1736973374924_2025-01-15-1.webp?ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "columns",
+      "layout"
+    ]
+  },
+  {
+    "id": "0f0aedde-269f-4a95-a678-9f80960fd790",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
+    "description": "Mozilla and Filament have introduced Uniffi for React Native, a tool that allows developers to leverage the safety and performance benefits of Rust in cross-platform React Native apps. The post Introducing Uniffi for React Native: Rust-Powered Turbo Modules appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Mark Mayo",
+    "published": "Wed, 04 Dec 2024 19:38:01 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Developer Tools",
+      "Featured Article",
+      "c++",
+      "firefox",
+      "react",
+      "rust"
+    ]
+  },
+  {
+    "id": "a85ff94e-a972-41a0-a096-e15c16bce66a",
+    "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+    "link": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+    "description": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models (LLMs) on your own hardware. Learn more about the updates and how to get involved with this cutting-edge project. The post Llamafile v0.8.14: a new UI, performance gains, and more appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Stephen Hood",
+    "published": "Wed, 16 Oct 2024 13:32:30 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/10/llamafile_8.1.14_release_image.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "llamafile",
+      "open source"
+    ]
+  }
+]

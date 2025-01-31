@@ -1,0 +1,27 @@
+{
+  "id": "8ad5452f-c9ae-4be6-ba18-66d5fafec860",
+  "title": "Calling AWS Bedrock from code",
+  "link": "https://betterprogramming.pub/calling-aws-bedrock-from-code-3f456a51ff99?source=rss----d0b105d10f0a---4",
+  "description": "Using Python in a Jupyter notebookContinue reading on Better Programming »",
+  "author": "Thomas Reid",
+  "published": "Fri, 10 Nov 2023 17:35:02 GMT",
+  "source": "https://medium.com/feed/better-programming",
+  "categories": [
+    "bedrock",
+    "python",
+    "llm",
+    "boto3",
+    "ai"
+  ],
+  "byline": "Thomas Reid",
+  "length": 1304,
+  "excerpt": "Learn how to integrate AWS Bedrock into your projects with code. This guide provides insights on utilizing AWS Bedrock for streamlined cloud-based solutions.",
+  "siteName": "Better Programming",
+  "favicon": "https://miro.medium.com/v2/resize:fill:1000:1000/7*GAOKVe--MXbEJmV9230oOQ.png",
+  "text": "Image by AuthorUsing Python in a Jupyter notebookMany of you will know that every man and his dog are producing AI products or LLM’s and integrating them with their products. Not surprisingly AWS — the biggest cloud services provider — is also getting in on the act.What is bedrock?Its AI offering is called Bedrock and the following blurb from it’s website describes what Bedrock is.Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Stability AI, and Amazon via a single API, along with a broad set of capabilities you need to build generative AI applications, simplifying development while maintaining privacy and security. With Amazon Bedrock’s comprehensive capabilities, you can easily experiment with a variety of top FMs, privately customize them with your data using techniques such as fine-tuning and retrieval augmented generation (RAG), and create managed agents that execute complex business tasks — from booking travel and processing insurance claims to creating ad campaigns and managing inventory — all without writing any code. Since Amazon Bedrock is serverless, you don’t have to manage any infrastructure, and you can securely integrate and deploy generative AI…",
+  "image": "https://miro.medium.com/v2/resize:fit:510/1*iltZoO6rmWj_AnfNpJ1m-A.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle\u003e\u003cdiv\u003e\u003cfigure\u003e\u003cfigcaption\u003eImage by Author\u003c/figcaption\u003e\u003c/figure\u003e\u003cdiv\u003e\u003ch2 id=\"3cf5\"\u003eUsing Python in a Jupyter notebook\u003c/h2\u003e\u003cdiv\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003ca href=\"https://medium.com/@thomas_reid?source=post_page---byline--3f456a51ff99--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"Thomas Reid\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*9HLVlE34bSbCDExHKmVpvg.jpeg\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003ca href=\"https://betterprogramming.pub/?source=post_page---byline--3f456a51ff99--------------------------------\" rel=\"noopener  ugc nofollow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"Better Programming\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*QNoA3XlXLHz22zQazc0syg.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003cp id=\"bc70\"\u003eMany of you will know that every man and his dog are producing AI products or LLM’s and integrating them with their products. Not surprisingly AWS — the biggest cloud services provider — is also getting in on the act.\u003c/p\u003e\u003ch2 id=\"ff04\"\u003eWhat is bedrock?\u003c/h2\u003e\u003cp id=\"c212\"\u003eIts AI offering is called Bedrock and the following blurb from it’s website describes what Bedrock is.\u003c/p\u003e\u003cblockquote\u003e\u003cp id=\"0ce7\"\u003eAmazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Stability AI, and Amazon via a single API, along with a broad set of capabilities you need to build generative AI applications, simplifying development while maintaining privacy and security. With Amazon Bedrock’s comprehensive capabilities, you can easily experiment with a variety of top FMs, privately customize them with your data using techniques such as fine-tuning and retrieval augmented generation (RAG), and create managed agents that execute complex business tasks — from booking travel and processing insurance claims to creating ad campaigns and managing inventory — all without writing any code. Since Amazon Bedrock is serverless, you don’t have to manage any infrastructure, and you can securely integrate and deploy generative AI…\u003c/p\u003e\u003c/blockquote\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2023-10-02T19:52:02.347Z",
+  "modifiedTime": null
+}

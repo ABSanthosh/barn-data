@@ -1,0 +1,200 @@
+[
+  {
+    "id": "dd535ea4-b72a-4ef2-8a88-95df2e13f00a",
+    "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
+    "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
+    "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
+    "author": "Brecht De Ruyte",
+    "published": "Wed, 29 Jan 2025 10:00:00 GMT",
+    "image": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "34ce31f0-93f1-4851-a227-c469ea9f2df0",
+    "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
+    "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
+    "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
+    "author": "Frederick O’Brien",
+    "published": "Tue, 28 Jan 2025 15:00:00 GMT",
+    "image": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "c6d76f85-438e-40b5-ac0a-d9a9d0c54b15",
+    "title": "23+ Best Medieval Fonts for Stunning Middle Age Designs",
+    "link": "https://justcreative.com/best-medieval-fonts/",
+    "description": "Like the Knights of the Round Table, the best medieval fonts will help give any of your projects a feeling of valor, strength and honor.",
+    "author": "Jacob Cass",
+    "published": "Wed, 29 Jan 2025 05:00:58 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2022/08/medieval-1024x567.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "best medieval fonts",
+      "Fonts",
+      "Medieval"
+    ]
+  },
+  {
+    "id": "c6c639ac-552b-47c6-b1d1-ebc1ef5f9be1",
+    "title": "The Best 50s Fonts for Retro Graphic Design",
+    "link": "https://justcreative.com/best-50s-fonts",
+    "description": "The 1950s were an incredible time in the course of history and our list of the best 50s fonts can take any project back to a simpler time with ease.",
+    "author": "Jacob Cass",
+    "published": "Wed, 29 Jan 2025 05:00:49 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2021/12/best-50s-fonts.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "1950s",
+      "50s",
+      "Fonts"
+    ]
+  },
+  {
+    "id": "72524b93-e11d-4ede-8b6e-533f1f02dd81",
+    "title": "Journey-Centric Design Lessons Learned: From Culture Change to Process Governance",
+    "link": "https://www.nngroup.com/articles/journey-centric-design-lessons/",
+    "description": "Real organizations share what they learned while adopting journey-centric design so other organizations can avoid the same pitfalls.",
+    "author": "Kim Flaherty",
+    "published": "Fri, 24 Jan 2025 18:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "9e0659f3-fcfd-49da-8fb1-8015a331af32",
+    "title": "Advice for Approaching a UX Job Search",
+    "link": "https://www.nngroup.com/articles/advice-ux-job-search/",
+    "description": "Understand your values, outline job constraints, upskill areas of weakness, leverage your network, and pace yourself to stay motivated and focused.",
+    "author": "Evan Sunwall",
+    "published": "Fri, 24 Jan 2025 18:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "7cb90bca-547f-4f0a-865b-24cdf25f8b5f",
+    "title": "Designing, developing, and deploying a web app entirely using AI",
+    "link": "https://uxdesign.cc/3-easy-steps-to-design-develop-and-deploy-a-web-app-entirely-using-ai-ed59d45d80bd?source=rss----138adf9c44c---4",
+    "description": "Take an idea and get it to production in three simple steps.Continue reading on UX Collective »",
+    "author": "Sajid Saiyed",
+    "published": "Wed, 29 Jan 2025 22:54:08 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1280/1*LpcgLEFNxpA9fiCNsb6vpA.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ux",
+      "development",
+      "design",
+      "artificial-intelligence",
+      "user-experience"
+    ]
+  },
+  {
+    "id": "53045083-ec1f-43dd-aa6d-475c682f3651",
+    "title": "How Codecademy uses gamification to teach 50 million users",
+    "link": "https://uxdesign.cc/how-codecademy-uses-gamification-to-teach-50-million-users-f12028f38c2d?source=rss----138adf9c44c---4",
+    "description": "Engage, challenge, rewardContinue reading on UX Collective »",
+    "author": "Mary Borysova",
+    "published": "Wed, 29 Jan 2025 22:40:56 GMT",
+    "image": "https://cdn-images-1.medium.com/max/2600/1*Zs7RsuIa-_YrU_GZ7FbzIQ.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "product-management",
+      "gamification",
+      "user-experience",
+      "ux",
+      "growth"
+    ]
+  },
+  {
+    "id": "846c36a8-cf9a-4108-8b78-8a1c7c19c259",
+    "title": "The Optimal Design for Sidebar Indicators",
+    "link": "https://uxmovement.com/navigation/the-optimal-design-for-sidebar-indicators/",
+    "description": "A sidebar navigation on an interface offers users multiple items to select. After making a selection, they need a visual cue to identify the chosen item. This cue is called an indicator. Every sidebar needs a clear and non-distracting selection indicator. However, many designers continue to use bad practices that make it hard for users […] The post The Optimal Design for Sidebar Indicators first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 18:05:18 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "e80f21b8-4ddf-4fb8-85ae-e39d14d42967",
+    "title": "How to Design a Sidebar That Saves Screen Space",
+    "link": "https://uxmovement.com/navigation/how-to-design-a-sidebar-that-saves-screen-space/",
+    "description": "Screen space on a desktop interface is more important than you think. Most designers take it for granted because a desktop screen contains so much space. However, when it comes to data display, every pixel counts. A sidebar can occupy a lot of width space and diminish the content area. As a result, users will […] The post How to Design a Sidebar That Saves Screen Space first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 17:58:44 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "b7348513-0f61-41df-b094-f4872de29f0e",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "2d57394d-d12a-4838-83ef-a3f786746d22",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "9fc586e9-d6e3-4894-bb0d-9556d0f1856b",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "eb991dbf-4647-46b7-acc1-5c0a088122a2",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]
