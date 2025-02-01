@@ -1,0 +1,27 @@
+{
+  "id": "7cb90bca-547f-4f0a-865b-24cdf25f8b5f",
+  "title": "Designing, developing, and deploying a web app entirely using AI",
+  "link": "https://uxdesign.cc/3-easy-steps-to-design-develop-and-deploy-a-web-app-entirely-using-ai-ed59d45d80bd?source=rss----138adf9c44c---4",
+  "description": "Take an idea and get it to production in three simple steps.Continue reading on UX Collective »",
+  "author": "Sajid Saiyed",
+  "published": "Wed, 29 Jan 2025 22:54:08 GMT",
+  "source": "https://uxdesign.cc/feed",
+  "categories": [
+    "ux",
+    "development",
+    "design",
+    "artificial-intelligence",
+    "user-experience"
+  ],
+  "byline": "Sajid Saiyed",
+  "length": 1096,
+  "excerpt": "This is to demonstrate how the design to development toolchain is evolving as you read this article. Some exciting technological breakthroughs are happening and as a design leader and someone who…",
+  "siteName": "UX Collective",
+  "favicon": "https://miro.medium.com/v2/resize:fill:256:256/1*dn6MbbIIlwobt0jnUcrt_Q.png",
+  "text": "Take an idea and get it to production in three simple steps.This is to demonstrate how the design to development toolchain is evolving as you read this article. Some exciting technological breakthroughs are happening and as a design leader and someone who likes to build things, these are exciting times.Today we will talk about building a simple Math Game in 3 simple steps.Btw. if you want to skip reading the article and prefer a Video version instead, then jump to the very bottom of the article to watch the video.Step-1Defining product requirementsYou have an idea but don’t have all the product requirements figured out. So we will user ChatGPT to generate detailed product definition.For this game, I gave this prompt to chatGPT:I want to build a simple math game with the following functionality. - Asks users to do simple multiplication, addition, and subtraction - Has 3 levels of difficulty - For each question, there is a timer that runs for 60 seconds - User scores are defined by how many correct answers in 60 seconds - Do not allow to proceed if wrong answer. - There would be a…",
+  "image": "https://miro.medium.com/v2/resize:fit:1200/1*LpcgLEFNxpA9fiCNsb6vpA.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle\u003e\u003cdiv\u003e\u003cdiv\u003e\u003ch2 id=\"c295\"\u003eTake an idea and get it to production in three simple steps.\u003c/h2\u003e\u003cdiv\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003ca href=\"https://sajidsaiyed.medium.com/?source=post_page---byline--ed59d45d80bd--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"Sajid Saiyed\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*tHYgw0tfXEhHk7POl8gZ5Q.png\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003ca href=\"https://uxdesign.cc/?source=post_page---byline--ed59d45d80bd--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"UX Collective\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*mDhF9X4VO0rCrJvWFatyxg.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv\u003e\u003cp id=\"1973\"\u003eThis is to demonstrate how the design to development toolchain is evolving as you read this article. Some exciting technological breakthroughs are happening and as a design leader and someone who likes to build things, these are exciting times.\u003c/p\u003e\u003cp id=\"6b34\"\u003eToday we will talk about building a simple \u003cstrong\u003eMath Game \u003c/strong\u003ein 3 simple steps.\u003c/p\u003e\u003cp id=\"4a18\"\u003e\u003cem\u003eBtw. if you want to skip reading the article and prefer a Video version instead, then jump to the very bottom of the article to watch the video.\u003c/em\u003e\u003c/p\u003e\u003ch2 id=\"1bb9\"\u003eStep-1\u003c/h2\u003e\u003ch2 id=\"3c47\"\u003eDefining product requirements\u003c/h2\u003e\u003cp id=\"1598\"\u003eYou have an idea but don’t have all the product requirements figured out. So we will user ChatGPT to generate detailed product definition.\u003c/p\u003e\u003cp id=\"309b\"\u003eFor this game, I gave this prompt to chatGPT:\u003c/p\u003e\u003cpre\u003e\u003cspan id=\"634f\"\u003eI want to build a simple math game with the following functionality. \u003cbr/\u003e- Asks users to do simple multiplication, addition, and subtraction \u003cbr/\u003e- Has 3 levels of difficulty \u003cbr/\u003e- For each question, there is a timer that runs for 60 seconds \u003cbr/\u003e- User scores are defined by how many correct answers in 60 seconds \u003cbr/\u003e- Do not allow to proceed if wrong answer. \u003cbr/\u003e- There would be a…\u003c/span\u003e\u003c/pre\u003e\u003c/div\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-01-29T18:41:36.386Z",
+  "modifiedTime": null
+}

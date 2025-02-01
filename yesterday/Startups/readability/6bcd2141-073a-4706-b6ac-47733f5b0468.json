@@ -1,0 +1,21 @@
+{
+  "id": "6bcd2141-073a-4706-b6ac-47733f5b0468",
+  "title": "Show HN: Ahey – A simple pub-sub service built on top of web push",
+  "link": "https://ahey.io",
+  "description": "Article URL: https://ahey.io Comments URL: https://news.ycombinator.com/item?id=42883363 Points: 10 # Comments: 1",
+  "author": "vasanthv",
+  "published": "Thu, 30 Jan 2025 23:39:29 +0000",
+  "source": "https://hnrss.org/frontpage",
+  "categories": null,
+  "byline": "",
+  "length": 364,
+  "excerpt": "A simple pub-sub service built over web push",
+  "siteName": "",
+  "favicon": "https://ahey.io/apple-touch-icon.png",
+  "text": "{{toast.message}} Get realtime notifications from anywhere Ahey is a simple pub-sub service built on top of web push. It lets you send unlimited push notifications to any browser with just a simple HTTP POST request. Works in all major browsers. 100% free. Already have an account? Log in View subscribed channels",
+  "image": "https://ahey.io/banner.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n\t\t\t\u003csection id=\"toast\" v-bind:class=\"toast.type + (toast.message ? \u0026#39; show\u0026#39; : \u0026#39;\u0026#39;)\" v-on:click=\"toast.message = \u0026#39;\u0026#39;\"\u003e\n  {{toast.message}}\n\u003c/section\u003e\n\u003cheader\u003e\n\t\n\t\n\u003c/header\u003e\n\n\t\t\t\u003csection id=\"intro\"\u003e\n\t\t\t\t\u003ch2\u003eGet realtime notifications from anywhere\u003c/h2\u003e\n\t\t\t\t\u003cp\u003e\n\t\t\t\t\tAhey is a simple pub-sub service built on top of web push. It lets you send unlimited push notifications to\n\t\t\t\t\tany browser with just a simple HTTP POST request. Works in all major browsers. \u003cstrong\u003e100% free.\u003c/strong\u003e\n\t\t\t\t\u003c/p\u003e\n\n\t\t\t\t\n\t\t\t\t\u003cp\u003eAlready have an account? \u003ca href=\"https://ahey.io/login\"\u003eLog in\u003c/a\u003e\u003c/p\u003e\n\t\t\t\t\u003cp\u003e\u003ca href=\"https://ahey.io/channels\"\u003e View subscribed channels \u003c/a\u003e\u003c/p\u003e\n\t\t\t\u003c/section\u003e\n\t\t\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
