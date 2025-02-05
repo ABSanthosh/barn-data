@@ -1,0 +1,365 @@
+[
+  {
+    "id": "da29d564-801b-429c-abd4-d68d29a56fa4",
+    "title": "Apple stops signing iOS 18.2.1, blocking downgrade from iOS 18.3",
+    "link": "https://9to5mac.com/2025/02/03/apple-stops-signing-ios-18-2-1-downgrade-18-3/",
+    "description": "A week after releasing iOS 18.3 to the public, Apple has now stopped signing iOS 18.2.1. For users, this means that they can no longer downgrade to this version of the operating system if their iPhone or iPad is already running a newer version. more…",
+    "author": "Filipe Espósito",
+    "published": "Mon, 03 Feb 2025 23:29:54 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/ios-18.2.1.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "80696b6d-747a-4862-b523-22708caf69b1",
+    "title": "Apple explains how to stop your MacBook from booting up every time you open it",
+    "link": "https://9to5mac.com/2025/02/03/apple-explains-how-to-stop-your-macbook-from-booting-up-every-time-you-open-it/",
+    "description": "Ever wish your MacBook wouldn’t boot up every time you open the lid or connect it to power? Apple has published an official support document detailing how to disable the feature. more…",
+    "author": "Zac Hall",
+    "published": "Mon, 03 Feb 2025 22:53:18 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/03/wwdc-2021-craig-federighi-macbook-meme.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "c6870f61-fdec-4d52-a50c-4ea13cb33345",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "25c93773-c0d4-4955-90a9-2f81f2a26916",
+    "title": "The Overcast Redesign: Part One",
+    "link": "https://marco.org/2022/03/25/overcast-redesign-2022",
+    "description": "Overcast’s latest update (2022.2) brings the largest redesign in its nearly-eight-year history, plus many of the most frequently requested features and lots of under-the-hood improvements. I’m pretty proud of this one. For this first and largest phase of the redesign, I focused on the home screen, playlist screen, typography, and spacing. (I plan to revamp the now-playing and individual-podcast screens in a later update.) The home screen is radically different: Home screen, before (left) and after (right). Playlists now have strong visual identities for nicer and easier navigation. Each playlist has a customizable color, and a custom icon can be selected from over 3,000 SF Symbols to match modern iOS design and the other icons within Overcast. And playlists can be manually reordered with drag-and-drop. Recently played and newly published episodes can now be displayed on the home screen for quick access, much like the widget and CarPlay experience. Podcasts can now be pinned to the top of the home-screen list. Pinned podcasts can also be manually reordered with drag-and-drop. I’ve also rethought the old stacked “Podcasts” and “Played Podcasts” sections to better match people’s needs and expectations. Now, the toggle atop the podcast list switches between three modes: podcasts with current episodes, all followed podcasts, and inactive podcasts (those that you don’t follow and therefore won’t get any more episodes from, or haven’t posted a new episode in a long time). The playlist screen’s structure remains mostly the same, while refining the design for the modern era: Playlist screen, before (left) and after (right). Here, it’s more apparent that I’ve replaced the system San Francisco font with an alternate variant, San Francisco Rounded, to increase legibility and better match the personality of the app. I’ve also added highly demanded features: By far, Overcast’s most-requested feature is a Mark as Played feature. That’s now available as a checkmark button on episode rows, as well as a left-side swipe action. The second-most-requested feature is a way to view all starred episodes. Special playlists for Starred, Downloaded, and In Progress can now be created. The light and dark themes now each have a customizable tint color from the modern iOS UI-color palette, including these favorites from beta testers: And throughout the app, I’ve made tons of tweaks and bug fixes, including: Notifications and background downloads are now much more reliable. Episode downloads can now be individually deleted or re-downloaded. Links can now be opened in Safari. (under Nitpicky Details) Performance is now significantly better with very large playlists and collections. Fixed bugs with episode-duration detection, CarPlay lists, Mac-app sharing, and much more. So much is better in this update that I can’t even remember it all. Thank you so much to everyone who helped me beta-test this massive update. As always, Overcast is free in the App Store. Go get it!",
+    "author": "",
+    "published": "Fri, 25 Mar 2022 10:57:51 EDT",
+    "image": "https://marco.org/media/2022/03/ocredesign2022-1-after.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "b5205647-5bc3-4be5-9a6d-89e648993dc8",
+    "title": "Shot on iPhone 16 Pro | Chinese New Year - I Made a Mixtape for You | Apple",
+    "link": "https://www.youtube.com/watch?v=mdtcSIAiqRc",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-01-10T16:00:20+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "ad6550d5-9ceb-49d7-b6c4-c16c37e50691",
+    "title": "Shot on iPhone 16 Pro | Chinese New Year - Making of I Made a Mixtape for You | Apple",
+    "link": "https://www.youtube.com/watch?v=QkOJ16lrTuk",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-01-10T16:00:14+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "7293f985-b0cc-4bfc-966e-bfd58f1c7422",
+    "title": "Apple Music kicks off Kendrick Lamar’s Road to Halftime ahead of Super Bowl LIX",
+    "link": "https://www.apple.com/newsroom/2025/02/apple-music-kicks-off-kendrick-lamars-road-to-halftime-ahead-of-super-bowl-lix/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-02-03T19:30:10.000+05:30",
+    "image": "https://www.apple.com/newsroom/images/2025/02/apple-music-kicks-off-kendrick-lamars-road-to-halftime-ahead-of-super-bowl-lix/tile/Apple-Music-Super-Bowl-LIX-Halftime-Show-Kendrick-Lamar-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "PRESS RELEASE"
+    ]
+  },
+  {
+    "id": "92fd8550-3a48-457d-908a-148ab0174ec3",
+    "title": "New Orleans students showcase their creativity with iPad and Mac",
+    "link": "https://www.apple.com/newsroom/2025/02/new-orleans-students-showcase-their-creativity-with-ipad-and-mac/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-02-03T14:00:03.978Z",
+    "image": "https://www.apple.com/newsroom/images/2025/02/new-orleans-students-showcase-their-creativity-with-ipad-and-mac/tile/Apple-New-Orleans-youth-arts-partners-hero-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "3befcad7-2e29-4670-8ce5-4601f729f0e5",
+    "title": "Last call: pick up Apple's M4 Pro Mac mini for $1,279",
+    "link": "https://appleinsider.com/articles/25/02/03/last-call-pick-up-apples-m4-pro-mac-mini-for-1279?utm_medium=rss",
+    "description": "Time is running out to pick up Apple's M4 Pro Mac mini at the discounted price of $1,279.Get exclusive pricing on Apple's M4 Pro Mac mini.This Mac mini is a top seller due to its blend of affordability with the performance of the M4 Pro chip. Featuring a 12-core CPU and 16-core GPU, this retail model also has 24GB of unified memory and 512GB of storage. Normally $1,399, B\u0026H is knocking $120 off the upgraded configuration (MCX44LL/A) exclusively for AppleInsider readers.Get the exclusive deal Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Christine McKee",
+    "published": "Mon, 03 Feb 2025 23:36:21 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/62521-129626-m4-mac-mini-limited-time-deal-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "fce187da-193f-46b4-857c-dc80bc2f53cf",
+    "title": "How to get your 2025 Apple Music Replay playlist",
+    "link": "https://appleinsider.com/inside/apple-music/tips/how-to-get-your-2023-apple-music-replay-playlist?utm_medium=rss",
+    "description": "It's not just Spotify that has a year-end wrap-up feature — Apple Music does too, and it's year round! Here's how to get your Apple Music Replay playlist, today.Apple Music Replay 2025Spotify has a unique feature called Spotify Wrapped that shows off your top artists, songs, and genres of the year. It is a trendy function that gets shared all over social media at the end of each year, but Apple Music fans need not miss out. In fact, the 2025 Replay playlist has already been released.The Apple Music Replay function isn't as in-depth as Spotify Wrapped, but it does offer some interesting stats and specialized playlists. Stats include the number of hours of music listened to for the entire year, the number of artists listened to, and top artists with the number of hours listened to each. Continue Reading on AppleInsider",
+    "author": "Wesley Hilliard",
+    "published": "Mon, 03 Feb 2025 20:45:21 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/52726-129625-IMG_1630-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "870b4b77-d8fb-404c-b284-d11bfd4b0570",
+    "title": "Must Have Mac Apps for 2025 💻",
+    "link": "https://www.youtube.com/watch?v=XiLSieZ5b2c",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-01-30T20:13:58+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "32cc1482-965c-4ed2-ae1a-04c87ed95714",
+    "title": "S25 Ultra vs iPhone 16 Pro Max Camera Test",
+    "link": "https://www.youtube.com/watch?v=LFg5jV5jDF8",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-01-28T19:49:52+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "aa246242-9306-4ddb-9c2c-3cc506a2d68b",
+    "title": "LBJ on the Difference between Republicans and Democrats",
+    "link": "https://www.lbjlibrary.org/life-and-legacy/the-lbj-the-nation-seldom-saw",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-02-03T23:55:00Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "5b7657a6-c844-4a05-989e-827c20659e61",
+    "title": "‘Apple in China’ — New Book by Patrick McGee, Coming in May",
+    "link": "https://appleinchina.com/",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-02-03T22:57:20Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "9a61bbea-fed6-46af-b964-d2063e2178d2",
+    "title": "Price drop: This weather radar app gives you real-time data you can use",
+    "link": "https://www.cultofmac.com/daily-deals/weather-hi-def-radar-weather-app",
+    "description": "Stay ahead of inclement weather events with Weather Hi-Def Radar, a weather radar app that goes beyond your phone's usual weather alerts. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Cult of Mac Deals",
+    "published": "Mon, 03 Feb 2025 23:30:57 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2024/04/sale_324167_article_image.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Daily deals",
+      "Cult of Mac Deals",
+      "weather apps"
+    ]
+  },
+  {
+    "id": "90b84563-7b67-48db-ac1f-0f1603119ad4",
+    "title": "Average iPhone selling price tops a whopping $900",
+    "link": "https://www.cultofmac.com/news/iphone-asp-2024",
+    "description": "The average selling price of iPhones has been on the rise as the popularity of Apple's higher-priced models increases. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Ed Hardy",
+    "published": "Mon, 03 Feb 2025 20:00:19 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2024/09/Apple-Myeongdong-Seoul-customers-with-iPhone-16-Pro-purchase-240920.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "News",
+      "iPhone",
+      "iPhone sales"
+    ]
+  },
+  {
+    "id": "cc44a592-a5db-49fc-89df-724fb4866a2d",
+    "title": "Run out of space? Free up your iPhone storage with these tips",
+    "link": "https://www.macworld.com/article/668286/how-to-free-space-on-iphone.html",
+    "description": "Macworld Storage shortage is a reality for many iPhone owners: whether the culprit is apps, music, Messages or (most commonly) photos and videos, most of us have run out of space at a key moment. Perhaps just as you are trying to update the operating system, or as you were trying to install a hot new app. Unfortunately, you can’t upgrade an iPhone’s internal storage. But all is not lost. We have a few tips for managing and optimizing the storage available on your iPhone, getting the most out of every last gigabyte and freeing up space for new apps and photos. As an aside, please note that even though you can’t upgrade the internal storage, you can supplement an iPhone’s capacity with external storage accessories and you can use iCloud storage to extend your capacity to 2TB and beyond. PROMOTIONEaseUS MobiMover | Transfer iPhone data and free up space EaseUS MobiMover is a free iPhone transfer software to figure out what’s taking up the most space on your iPhone/iPad, backup and move iPhone data to a computer or new iPhone/iPad, clear the clutters to solve iPhone storage running low problems and get a less overloaded, more organized iPhone/iPad. Now 25% OFF Exclusive Code: MACWORLD25 MOBIMOVER FOR MACMobiMover for Windows 1. Find out what is taking up space and delete the biggest culprits Foundry The first thing to do is find out what is taking up the space on your iPhone. Luckily there is a simple way to do this. Open Settings. Go to General. Tap on iPhone Storage. This will take you to a screen where you can see what is taking up the space on your iPhone. You’ll need to be patient while it calculates how much storage is being used and by what. Eventually, you will see a bar chart divided up into Photos, Apps, Messages, iOS, System Data, and other types of files. System Data (which used to be called Other in older versions of iOS) can often run to tens of GB of storage, leaving many to wonder how to delete Other or System Data on an iPhone. Scroll down to see which of your apps are taking up the most space. In images above you can see Photos is using more than 49GB, Messages nearly 20GB. There are ways to manage these apps and how much they store that we will discuss below. If you scroll through the various apps taking up space (they are sorted so that the largest are at the top) you will be able to quickly locate the ones that are worth removing. The figures include any media stored in the app, so expect your Photos, Music, and Messaging apps to be near the top. This view also shows when you last used an app, so you can confidently delete an app you probably won’t use any time soon. Don’t worry, once you’ve bought something it’s tied to your Apple ID so Apple knows you own it and you’ll be able to download it again. Scroll through the list and be ruthless. If an app you rarely use is taking up 300MB of space then delete it. You can always download it again for free if you want to. Find an app you want to delete. Swipe from right to left on it. Choose Delete App. Alternatively, you could choose Offload App, which will delete the app but keep any documents and data so that if you download it again you can access the data you had in it. There’s another way to delete apps that we will discuss next. Once an app has been deleted you will see it in this list with a download icon beside it, so this is a good place to go if you ever want to re-download something. 2. Delete apps from the Home screen Foundry There is another way to delete apps that might be slightly quicker if you just want to free up some space in a hurry. You can delete an app from the Home screen, including the App Library. How this works depends on the version of iOS you are using. In the most recent iOS versions, press and hold on an icon until the menu comes up. Then tap Remove App. You’ll then see a window pop up to confirm you want to delete the app. Choose Delete App to remove it from your iPhone. On older versions of iOS you could tap and hold on its icon and wait for it (and the other icons too) to start jiggling about – this means you’re in Edit Mode. Then tap on the X in the left corner to delete the app. You can still hold your finger down until you’re in Edit model and tap the (-) in the corner of the app icon to delete it, if you wish. There is more advice about deleting apps here: How to delete apps on iPhone \u0026 iPad. 3. Work through Apple’s recommendations Foundry When you’re in Settings \u003e General \u003e iPhone Storage, you’ll see some recommendations for optimizing your storage. You will probably see two, as well as an option to Show All so you can see more recommendations. The reason why we didn’t start with this is that, although a great way to manage storage in the future, it’s not the quickest way to recover a bit of storage in a hurry. However, it will stand you in good stead if you take Apple’s advice and put the various storage management suggestions into play. One option you will see here (if you haven’t already set it up) is to use iCloud Photo Library. This will store your photos and videos in the cloud. iCloud Photo Library is a great solution if you want to have access to all your photos on all your devices, just make sure that Apple stores optimized versions of the photos on your device, rather than full res versions. Another option is to Auto Delete Old Conversations from the Messages app. We haven’t done this primarily because we don’t want to lose access to old messages from people long gone, but it’s a great way to reduce the amount of storage given to messages. Because of the images and videos stored in Messages, this can often free up several gigabytes. In a similar vein, the Review Large Attachments allows you to delete photos, videos and other media shared in attachments. So if you have a habit of sharing images via Messages expect to find lots of photos or videos here which you can delete if you know you have them in your Photos app. You could also choose to Review Downloaded Videos. If it’s an option for you tap on the arrow beside it and delete any downloads you see here that you don’t need to keep. Tap Edit \u003e Tap the red circle beside the program you want to delete \u003e Tap Delete. You may also see the to Offload Unused Apps. Here Apple volunteers to automatically offload apps that are rarely used when you start to run out of storage. ‘Offloading’ deletes the app itself, which is easy to replace by redownloading. But it keeps the documents and data, which are likely to be irreplaceable. You can also find the option to Offload Unused Apps under Settings \u003e App Store. Make sure that Automatic app downloads is not selected here, so that apps don’e automatically download when you add them to other devices. iOS will tell you how much storage you stand to gain from enabling these suggestions. 4. Delete app data and cache Foundry Apple offers to remove the app while preserving the data, but perhaps it’s the data you want to delete. Maybe you have old videos and books you no longer plan to watch taking up space in an app you still want to use. Some apps will have a lot of data associated with them that you could delete without having to remove the app itself. To look deeper into the storage being taken up by apps, return to Settings \u003e General \u003e iPhone Storage and click on the arrow beside one of the apps listed there. This way you can see how much data is used by the app itself, and how much additional space is being used by documents and data. Video apps tend to be a big culprit here, but the Review Downloaded Videos above should have solved that for you. Another place to look is your video editing apps, and book reading apps like Kindle and Books. To delete the data you will need to go to the app itself. We’ll walk through how to delete data from a number of apps below, including Books, Notes, and Messages. Other places to look include: Google Maps: Tap your profile and select “Offline Maps” to see if there’s any map data you don’t need to store locally. Prime Video/Netflix/Disney+ etc: Open the app and view your downloads. You should be able to select the ones you wish to delete. Another way to free up space is to clear your browser cache. To delete Safari cache follow these steps: Open Settings. Scroll down and click on Safari. Click on Clear History and Website Data. If you use Chrome you have to remove the cache from inside Chrome. In that case, follow these steps: Open Chrome. Tap on Options. Tap Settings. Tap Privacy. Now tap on Clear Browser Data. Select what you want to delete. Tap Clear Browsing Data. 5. Delete text messages Foundry As we mentioned above, you could choose to auto-delete conversations from the Messages app, which would free up a lot of space. But you might not want to do that if you have messages you want to keep for sentimental reasons. You can still delete, en masse, a lot of the Messages on your phone while keeping the ones you don’t want to lose. Swipe from right to left on any message that you want to delete. Choose Delete. A better way to filter out messages that are safe to delete and then mass delete them is to filter your messages by Unknown Senders. Tap Filters in the upper left of the main Messages screen. Tap on Unknown Senders. Once in the Unknown Senders view tap on the three dots at the top. Choose Select Messages. Tap on Select all. Double-check that you aren’t deleting anything you might need. Deselect those messages. Tap Delete. If you don’t have any reason to keep messages you have two choices. You can delete messages over a year old or you can delete messages that are just 30 days old. To do this follow these steps: Open Settings. Scroll to Messages and tap. Scroll to Message History and tap on Keep Messages. Now choose between 30 days, 1 Year, and Forever. 6. Delete photos you don’t need Foundry If your photos are taking up a considerable amount of space on your iPhone you might want to consider deleting a few of the ones that you have no desire to keep. Perhaps, like us, you often take screenshots of train times when you are commuting. If you want to delete screenshots from your phone you can do so really easily by opening the Photos app and, under Media Types, look for Screenshots. In there, you can find the screenshots you no longer want to keep and delete them. Or you take a ton of photos just to get the perfect shot. There is no need to keep these shots. We try to get into the habit of deleting these extra shots close to the time we take them, or at least favoriting one of the collections so we can easily go back and delete lots at a later date. (If you’re not in this sensible habit, a free app may be able to help. See How to delete duplicate photos on iPhone.) We’ve tried a free option called Remo Duplicate Photos Remover, but there are plenty more you can try such as the paid-for Duplicate Photos Fixer. In the Utilities category there is a Duplicates folder. If you select it, you can see all your identical photos and choose which to merge into a single photo. Similarly, if you’ve been using Burst Mode you may have hundreds of near-identical images you really don’t need taking up space on your iPhone. To remove extra shots from Burst Mode find the Bursts folder under Media Types, and remove all the unwanted images. 7. Delete images from Messages Foundry Another way to save a ton of space on your iPhone is to delete images that have been shared via Messages. Again you might have images here you want to keep for sentimental reasons, so beware. This is a good option if you don’t want to mass delete a lot of images, as you can free up space by just deleting the space-hogging images or videos associated with iMessages. Open a conversation. Tap and hold an image within the thread. You’ll see a menu below the image. Tap More, and you’ll see little circles next to each message and image. (The one you tapped and held will have this pre-ticked.) You can now select as many images (or other files) as you wish, then tap the bin icon at the bottom left to delete them. If there are likely to be a few images you want to delete you might want to go straight to the images library associated with that message. To do this follow these steps: Click on the name or group at the top of the message. Now scroll down the page to the Photos section. Tap on See All. Now tap Select. You can tap on any images you want to delete now. Once they are deleted tap on Delete. You can also show just Screenshots, which might help you filter out the things you are most likely to want to delete. Unfortunately, you can’t select all here though. 8. Beware of iCloud Photos Foundry Signing up for iCloud Photos can save you a lot of space if you have gigabytes and gigabytes of photos, reducing the space they take up on your iPhone to something much less greedy, so it’s definitely worth turning this one on. However, a lot of people have a misunderstanding of what iCloud Photos will do for them. It’s a useful service that lets you automatically upload and store your entire photo library in iCloud so you can access photos and videos on all your devices. iCloud Photo is not a way to back up the images on your iPhone so you can delete them from your iPhone. If you were looking for a way to back up your photos so you could delete them iCloud Photos is not it. You cannot delete the images from your iPhone once they are in iCloud because deleting any image will delete it from all your devices. We have a separate article on backing up your Apple photo library and we recommend you read that for tips if that’s what you want to do. We also explain How to move photos to iCloud to save space on an iPhone in another article. If you do use iCloud Photos you also need to make sure you choose Optimize iPhone Storage to ensure that if you lack space your iPhone will only keep small versions of images on the device, thereby saving space. Alternatively, you could select Download and Keep Originals, but that would take a lot of space up! 9. The movie rental trick Foundry This tip can create space on your iPhone (from 1/2MB to over 1GB sometimes) using magic. Not really, but we’re not quite sure how it’s done, only that it works if your iPhone is almost at maximum capacity. And no, your iPhone doesn’t need to be jailbroken, nor does it void the warranty. Before we begin, head to Settings \u003e General \u003e About and make a note of how much storage you have. Then, head to the TV app and find a large title – we recommend The Lord of the Rings: The Two Towers at a whopping 6.83GB. Once you’ve found a suitable movie, tap the Rent button twice (don’t worry, you won’t actually end up renting it) and dismiss the popup informing you that there’s not enough space to download the movie. Now, head back to the About section of the Settings menu and take a look at your available storage. If all has gone well, you should see a difference of a few hundred megabytes, possibly more. While it won’t work for everybody, users on Reddit report that following the steps several times allowed them to keep freeing up more storage. We’re not quite sure what Apple is deleting when it does this, as it’s not apps, photos or other important data. We assume it’ll be clearing out caches and other areas that make up the “Other” section on your iOS storage breakdown. 10. Sign up for iTunes Match or Apple Music Foundry You don’t have to store every Music track you could ever possibly need to listen to on your iPhone. If you sign up for iTunes Match (for $24.99/£21.99 a year) or Apple Music ($10.99/£10.99 a month) and you will then have every track you own available to you via the cloud. Therefore you can delete your music from your iPhone knowing that every song you may wish to listen to is but a download away. Here’s how to sign up for iTunes Match and here’s our guide to Apple Music. Once you have signed up for either of these Apple’s services, all your music on all your Apple devices will be uploaded to iCloud (even tracks you have imported from CD). This means you can download any track you fancy listening to on your iPhone whenever the mood takes you. You can download a track or a whole album, or a whole playlist. Just click on the iCloud download icon beside the title. If you then want to delete the track from your iPhone, just swipe left on it, to delete. It will still be available to download from iCloud another time. 11. Remove Books you’re not reading Foundry Have you got any iBooks downloaded on your iPhone? Do you need them to be there? If you delete them they will still be available in iCloud to download again, so why not save yourself a few MB by removing the novel you’re reading on your iPad from your iPhone. Our Books app is 35.5MB, but carries 1.65GB of data. Using the Books example, to delete the data you need to open the Books app. Open Books. Go to Library. Tap on Edit. Look through the books on your device – any that aren’t currently stored on the iPhone will have a cloud logo beside them. Now tap on any book you wish to remove from your device. Then tap on the Trash in the bottom left to delete it. Tap on Remove Downloads to remove it from your device. You can choose to Delete This Copy, rather than delete it from all your devices. Also, check Settings \u003e Books and make sure you deselect Automatic Downloads so that when you buy a book on another device it doesn’t automatically download to your iPhone too. 12. Record video at a lower resolution Foundry Newer iPhones offer you the option to reduce the quality of the videos you record. As the screenshot shows, a minute of video can take up 400MB of space on your iPhone if you record it at 4K, so you probably won’t want to be doing that. The iPhone should default to 1080p HD at 60 fps, but you could economize further by recording at 720p HD and 30fps: just 40MB for a minute, rather than 90MB. You can change the settings in Settings \u003e Camera \u003e Record Video. 13. Check your other photo-editing apps Foundry There are photo-editing features in Photos, but you may use separate apps for photo editing. Those apps could have some old images lurking within that you could delete. Check apps like Instagram, Snapchat and the like for images stored in the app itself. 14. Spring-clean your Notes Foundry If you use your iPhone’s Notes app fairly heavily you may be wondering how much space you could save by deleting old notes. To see how much storage the app is taking up, go to Settings \u003e General \u003e iPhone Storage, then find and tap on the entry for Notes. This will show separate entries for the app itself (a paltry 12MB) and the documents and data it holds (a slightly less paltry 64.2MB, in our case). To be honest, this still isn’t a massive number, and it’s unlikely to make a huge difference. We deleted a fair few notes and didn’t notice any change at all in our phone memory; it doesn’t strike us as worth the effort. But if you’re desperate (and prepared to be drastic), or if you use Notes to store attachments and other media, then it may make a crucial difference. 15. Optimize storage using a third-party app Foundry If the free tips above aren’t for you, there are myriad third-party apps available that’ll make the process simpler and quicker. Here one of our top suggestions: iMyFone Umate This is an app for Mac and Windows that can free up a huge amount of space on your iPhone. Plug in your iPhone and run a scan. The app will tell you how much free space you could potentially gain by clearing out temporary and junk files, backing up photos, and deleting large files, then showcases your app collection for rapid (but selective) deletion. Interestingly, the app offers the ability to compress your photos instead of completely deleting them. It backs the original photos up to your Mac or PC, then will compress your entire library to free up extra space (up to 75 percent, according to the company). You can grab a trial of iMyFone Umate for free, or you can pay $19.95 (around £15) for the full app.",
+    "author": "",
+    "published": "Mon, 03 Feb 2025 22:19:34 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/02/Make-Space-Iphone-3.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "iPad, iPhone"
+    ]
+  },
+  {
+    "id": "125b9978-8ceb-42c1-8c35-7134fb97ebcd",
+    "title": "Apple kicks off Super Bowl LIX with 6 months of Music for just $3",
+    "link": "https://www.macworld.com/article/2596718/apple-kicks-off-super-bowl-lix-with-6-months-of-music-for-just-3.html",
+    "description": "Macworld Apple on Monday announced a special deal for the Apple Music streaming service. New and eligible customers can get six months of Apple Music for $2.99/£2.99. That’s $8 off the regular price of $10.99 per month, which kicks in at the end of the six-month trial. To sign up for Apple Music, launch the Music app on your iPhone, iPad, or Mac, and go to the Home section. This offer is available in the U.S., U.K., and Canada until February 27, 2025. Apple’s press release doesn’t explain what “eligible” means, however. The Apple Music deal is part of Apple’s promotion tied to Super Bowl LIX and its sponsorship of the halftime show starring Kendrick Lamar (who won multiple Grammy awards on Sunday night). The company offers several related promotions, including a section of Apple Music for “Kendrick Lamar’s Road to Halftime,” an interview on Thursday, February 6 at 10 a.m. Central with Lamar on Apple Music, Super bowl-related Apple Music Radio programming, and more. Apple Music subscriptions are also part of Apple One, a bundle of six iCloud services for one monthly price. Plans range from $19.95/£19.95 for an Individual plan to $37.95/£37.95 for a Premier plan. Learn more about Apple One.",
+    "author": "",
+    "published": "Mon, 03 Feb 2025 19:32:02 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/02/apple-music-love-stations.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "Streaming Media"
+    ]
+  },
+  {
+    "id": "a1102409-d3fb-4ebe-ac62-9ac1cd278129",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 11:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "230e857d-7830-4546-ae21-ef478f3abfa4",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 07:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "6f05195f-9034-49aa-9d06-d044235924aa",
+    "title": "Deals: AirPods 4 for $99 (22% Off), Apple Watch 10 for $329, AirTags 4-pack for $70",
+    "link": "https://osxdaily.com/2025/02/03/deals-airpods-4-for-99-22-off/",
+    "description": "Amazon is offering a really great deal on the latest generation AirPods 4 for 22% off, Apple Watch Series 10 for 18% off, and a pack of AirTags for 29% off… why pay more than you have to for the same Apple gear you want? Check out these deals while they’re available! AirPods 4 – ... Read More",
+    "author": "OSXDaily",
+    "published": "Mon, 03 Feb 2025 21:01:16 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Deals",
+      "deal",
+      "deals"
+    ]
+  },
+  {
+    "id": "5b6db6f0-6696-4a2e-8103-4a0afc9d30d6",
+    "title": "Touch Bar on Mac Showing “Touch ID to Sign In” or “Touch ID to Autofill” Requests in Safari? Here’s Why",
+    "link": "https://osxdaily.com/2025/02/03/touch-bar-on-mac-showing-touch-id-to-sign-in-or-touch-id-to-autofill-requests-in-safari-heres-why/",
+    "description": "MacBook Pro users with a Touch Bar equipped model may find themselves using Safari and have the Touch Bar constantly show a seemingly random “Touch ID to Autofill” or “Touch ID to Sign In” request, even if they’re using a website or a webpage with no forms, nothing to sign into, and nothing to autofill. ... Read More",
+    "author": "Jamie Cuevas",
+    "published": "Mon, 03 Feb 2025 19:00:07 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Mac OS",
+      "Tips \u0026 Tricks",
+      "Troubleshooting",
+      "Mac",
+      "macbook pro",
+      "macOS",
+      "tips",
+      "Touch Bar",
+      "tricks"
+    ]
+  },
+  {
+    "id": "060f44fd-5bdd-4c71-8c50-e864865572eb",
+    "title": "∞ The Dalrymple Report: Printer, Google Maps, and AI",
+    "link": "https://www.loopinsight.com/2025/01/31/the-dalrymple-report-printer-google-maps-and-ai/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-printer-google-maps-and-ai",
+    "description": "Dave got a new piece of ancient technology that he tells us about—a printer. Google explains why its changing the names of some pretty well known geographical places in North America, and we talk some about AI and Apple's new person they hope will be able to wrangle this beast together. Follow this podcast Show Notes: Google Maps will rename Gulf of Mexico to Gulf of America in US China’s DeepSeek hits #1 on App Store, shocks AI researchers, sends US tech shares tumbling Gruber on how Apple benefitted OpenAI Alleges DeepSeek Used Its Models for AI Training Apple Brings in New Exec to 'Fix' Siri and Apple Intelligence Shows and movies we're watching Protection, BritBox Condor, MGM+ SNL50: Beyond Saturday Night, Peacock Questlove's incredible 7 minute rapid fire mix of 50 years of SNL Music",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 31 Jan 2025 14:56:49 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "12ad7231-91f0-483a-8fe3-4f3c0ef833e2",
+    "title": "∞ The Dalrymple Report: iOS 18.3, HomePad, and Siri",
+    "link": "https://www.loopinsight.com/2025/01/24/the-dalrymple-report-ios-18-3-homepad-and-siri/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-ios-18-3-homepad-and-siri",
+    "description": "With the upcoming release of iOS 18.3, Apple Intelligence can no longer be considered a beta, but sadly it still sucks really bad. Apple is rumored to be working on a new product to replace the HomePod and will include a screen and Apple Intelligence. Speaking of Siri, Dave and I ask it some simple questions that it gets wrong. Follow this podcast Show Notes: Academy Award nomination list iOS 18.3 brings two upgrades to Camera Control on your iPhone 16 On the rumored \"HomePad\" Shows and movies we're watching Collision, Acorn TV Suspect, BritBox De Palma, Amazon Prime River, Amazon Prime and BritBox",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 24 Jan 2025 15:39:06 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "d6beccc9-9fc7-4bcb-ad42-af49f85845c1",
+    "title": "Mela 2.5 Adds Web Search Engine and Recipe Import from YouTube, Instagram, and TikTok Videos",
+    "link": "https://www.macstories.net/reviews/mela-1-6-adds-web-search-engine-and-recipe-import-from-youtube-instagram-and-tiktok-videos/",
+    "description": "Back in 2021, Silvio Rizzi, developer of the all-time great RSS client Reeder , released Mela, an app for importing, collecting, and sharing recipes. Right from the start, Mela stood out as a delightful take on the recipe app genre. Just like Reeder, it features a beautiful design and is a joy to browse and […]",
+    "author": "Niléane",
+    "published": "Mon, 03 Feb 2025 16:23:31 +0000",
+    "image": "https://cdn.macstories.net/mela_hero-1738250550382.png",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "reviews",
+      "app"
+    ]
+  },
+  {
+    "id": "4161d7bd-bcb6-49bc-b8d5-23fd95eb520d",
+    "title": "The Latest from Comfort Zone, Magic Rays of Light, and MacStories Unwind",
+    "link": "https://www.macstories.net/news/the-latest-from-comfort-zone-magic-rays-of-light-and-macstories-unwind-16/",
+    "description": "Enjoy the latest episodes from MacStories’ family of podcasts: Comfort Zone Matt is unable to defend himself as he’s on the lamb, Chris is exploring that Mac life, and Niléane has some snazzy new headphones. Then Chris edited with AI to pretty good effect and Niléane tried using an AI search engine to much less […]",
+    "author": "John Voorhees",
+    "published": "Fri, 31 Jan 2025 17:33:54 +0000",
+    "image": "https://cdn.macstories.net/untitled-1727463661405.png",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "news",
+      "Comfort Zone",
+      "Magic Rays of Light",
+      "podcast",
+      "unwind"
+    ]
+  },
+  {
+    "id": "ea87b598-63b5-42d3-96dc-a12b066ded27",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "52079295-6d47-4a7f-ba1c-581c7d30f781",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  }
+]
