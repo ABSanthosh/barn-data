@@ -1,0 +1,117 @@
+[
+  {
+    "id": "acd2f037-8abd-4b17-8e48-3c9ae5cf5d92",
+    "title": "What's New in WebGPU (Chrome 133)",
+    "link": "https://developer.chrome.com/blog/new-in-webgpu-133?hl=en",
+    "description": "Additional unorm8x4-bgra and 1-component vertex formats, allow unknown limits to be requested with undefined value, WGSL alignment rules changes, WGSL performance gains with discard, and much more.",
+    "author": "",
+    "published": "Wed, 29 Jan 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "c231d5ae-7f7d-4492-ab6a-066900fc830e",
+    "title": "Chrome Web Store policy updates: ensuring clarity and consistency for developers",
+    "link": "https://developer.chrome.com/blog/cws-policy-updates-2025?hl=en",
+    "description": "The Chrome Web Store is committed to fostering a high-quality and trustworthy ecosystem for developers and users. To align with this goal, we're announcing a series of policy updates designed to provide clarity and consistency across our platform.",
+    "author": "",
+    "published": "Tue, 28 Jan 2025 18:03:42 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "9bd1bafe-f7d9-4f69-b494-d049ecd79518",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "93c3522f-92b7-43a5-92e1-924a5827d102",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "5825310b-835b-4f53-99c3-f693188f5ba3",
+    "title": "Baseline Status in a WordPress Block",
+    "link": "https://css-tricks.com/baseline-status-in-a-wordpress-block/",
+    "description": "The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post. Baseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Wed, 05 Feb 2025 14:58:18 +0000",
+    "image": "https://css-tricks.com/wp-content/uploads/2024/11/Screen-Recording-2024-11-05-at-2.56.06 PM.mp4",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "resource",
+      "web components",
+      "WordPress"
+    ]
+  },
+  {
+    "id": "a08a2073-ce70-4faf-ae23-2c01eb3e71fb",
+    "title": "Compiling CSS With Vite and Lightning CSS",
+    "link": "https://css-tricks.com/compiling-css-with-vite-and-lightning-css/",
+    "description": "Are partials the only thing keeping you writing CSS in Sass? With a little configuration, it's possible to compile partial CSS files without a Sass dependency. Ryan Trimble has the details. Compiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Ryan Trimble",
+    "published": "Mon, 03 Feb 2025 15:23:37 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/01/vite-install.png?resize=612%2C455\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "deployment",
+      "DevTools",
+      "Sass"
+    ]
+  },
+  {
+    "id": "7609bb56-fe66-4627-b6d9-3183ca875725",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
+    "description": "Mozilla and Filament have introduced Uniffi for React Native, a tool that allows developers to leverage the safety and performance benefits of Rust in cross-platform React Native apps. The post Introducing Uniffi for React Native: Rust-Powered Turbo Modules appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Mark Mayo",
+    "published": "Wed, 04 Dec 2024 19:38:01 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Developer Tools",
+      "Featured Article",
+      "c++",
+      "firefox",
+      "react",
+      "rust"
+    ]
+  },
+  {
+    "id": "d55ecb60-3bf4-44af-970d-fe02763167f8",
+    "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+    "link": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+    "description": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models (LLMs) on your own hardware. Learn more about the updates and how to get involved with this cutting-edge project. The post Llamafile v0.8.14: a new UI, performance gains, and more appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Stephen Hood",
+    "published": "Wed, 16 Oct 2024 13:32:30 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/10/llamafile_8.1.14_release_image.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "llamafile",
+      "open source"
+    ]
+  }
+]
