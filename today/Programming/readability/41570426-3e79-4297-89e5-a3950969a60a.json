@@ -1,0 +1,33 @@
+{
+  "id": "41570426-3e79-4297-89e5-a3950969a60a",
+  "title": "SE Radio 654: Chris Patterson on MassTransit and Event-Driven Systems",
+  "link": "http://se-radio.net/se-radio-654-chris-patterson-on-masstransit-and-event-driven-systems",
+  "description": "Chris Patterson, founder and principal architect of MassTransit, joins host Jeff Doolittle to discuss MassTransit, a message bus framework for building distributed systems. The conversation begins with an exploration of message buses, their role in asynchronous and durable application design, and how frameworks like MassTransit simplify event-driven programming in .NET. Chris explains concepts like pub/sub, durable messaging, and the benefits of decoupled architectures for scaling and reliability.  The discussion also delves into advanced topics such as sagas, stateful consumers for orchestrating complex processes, and how MassTransit supports patterns like outbox and routing slips for ensuring transactional consistency. Chris highlights the importance of observability in distributed systems, sharing how MassTransit integrates with tools like OpenTelemetry to provide comprehensive monitoring. The episode includes advice on adopting event-driven approaches, overcoming leadership hesitancy, and ensuring secure and efficient implementations. Chris emphasizes the balance between leveraging cutting-edge tools and addressing real-world challenges in software architecture. Brought to you by IEEE Computer Society and IEEE Software magazine.",
+  "author": "SE-Radio Team",
+  "published": "Tue, 04 Feb 2025 20:07:00 +0000",
+  "source": "http://feeds.feedburner.com/se-radio",
+  "categories": [
+    "command",
+    "messaging",
+    "event",
+    "cqrs",
+    "asynchronous",
+    "eventing",
+    "async",
+    "masstransit",
+    "event-driven",
+    "message bus",
+    "message broker"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

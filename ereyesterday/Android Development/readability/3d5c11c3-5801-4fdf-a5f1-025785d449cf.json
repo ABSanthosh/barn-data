@@ -1,0 +1,26 @@
+{
+  "id": "3d5c11c3-5801-4fdf-a5f1-025785d449cf",
+  "title": "How to get Activity in Jetpack Compose",
+  "link": "https://proandroiddev.com/how-to-get-activity-in-compose-940d60795817?source=rss----c72404660798---4",
+  "description": "",
+  "author": "Viktor Mykhailiv",
+  "published": "Mon, 03 Feb 2025 13:43:20 GMT",
+  "source": "https://proandroiddev.com/feed",
+  "categories": [
+    "jetpack-compose",
+    "android-app-development",
+    "compose",
+    "android"
+  ],
+  "byline": "Viktor Mykhailiv",
+  "length": 881,
+  "excerpt": "Explore the latest androidx.activity dependency to get Activity in Jetpack Compose",
+  "siteName": "ProAndroidDev",
+  "favicon": "https://miro.medium.com/v2/resize:fill:256:256/1*A8VytPZQhvUf_MG6hm_Dlw.png",
+  "text": "Gemini generatedThe latest androidx.activity dependency (released on January 15, 2025) brings us a new way how we can get an Activity in Jetpack Compose removing the need for developers to get an Activity from the LocalContext.Old approach (before androidx.activity:1.10):androidx.activity:1.10.0 introduced new LocalActivity composition local that provides the Activity for the current scope. New approach:That’s it, just one line.Tip: in case there are some limitations on your project and you can’t use the latest androidx.activity:1.10.0 dependency we can go with a workaround by setting a package name to a file in our project the same package name where we can find LocalActivity composable which will benefit us in the future when the latest dependency is used avoid unnecessarily migration.The important part is to “set” the Activity by using the CompositionLocalProvider :",
+  "image": "https://miro.medium.com/v2/resize:fit:1200/1*tsgllZqwv6s3YbQXVdTAOA.jpeg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cdiv\u003e\u003cdiv\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003ca href=\"https://medium.com/@vitoksmile?source=post_page---byline--940d60795817--------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"Viktor Mykhailiv\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*nTqvAWIU8dBATkQWPnheRg.jpeg\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003ca href=\"https://proandroiddev.com/?source=post_page---byline--940d60795817--------------------------------\" rel=\"noopener  ugc nofollow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"ProAndroidDev\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*XVtdl45m8YaYrPI4buJ5yQ.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e\u003cfigure\u003e\u003cfigcaption\u003eGemini generated\u003c/figcaption\u003e\u003c/figure\u003e\u003cp id=\"3d8e\"\u003eThe latest \u003ccode\u003e\u003ca href=\"https://developer.android.com/jetpack/androidx/releases/activity#version_110_4\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003eandroidx.activity\u003c/a\u003e\u003c/code\u003e dependency (released on January 15, 2025) brings us a new way how we can get an \u003ccode\u003eActivity\u003c/code\u003e in Jetpack Compose removing the need for developers to get an \u003ccode\u003eActivity\u003c/code\u003e from the \u003ccode\u003eLocalContext\u003c/code\u003e.\u003c/p\u003e\u003cp id=\"be88\"\u003eOld approach (before \u003ccode\u003eandroidx.activity:1.10\u003c/code\u003e):\u003c/p\u003e\u003cfigure\u003e\u003c/figure\u003e\u003cp id=\"90d8\"\u003e\u003ccode\u003eandroidx.activity:1.10.0\u003c/code\u003e introduced new \u003ccode\u003eLocalActivity\u003c/code\u003e composition local that provides the \u003ccode\u003eActivity\u003c/code\u003e for the current scope. New approach:\u003c/p\u003e\u003cfigure\u003e\u003c/figure\u003e\u003cp id=\"1e07\"\u003eThat’s it, just one line.\u003c/p\u003e\u003c/div\u003e\u003cdiv\u003e\u003cp id=\"0f3f\"\u003e\u003cstrong\u003eTip\u003c/strong\u003e: in case there are some limitations on your project and you can’t use the latest \u003ccode\u003eandroidx.activity:1.10.0\u003c/code\u003e dependency we can go with a workaround by setting a package name to a file in our project the same package name where we can find \u003ccode\u003eLocalActivity\u003c/code\u003e composable which will benefit us in the future when the latest dependency is used avoid unnecessarily migration.\u003c/p\u003e\u003cfigure\u003e\u003c/figure\u003e\u003cfigure\u003e\u003c/figure\u003e\u003cp id=\"f9c4\"\u003eThe important part is to “set” the \u003ccode\u003eActivity\u003c/code\u003e by using the \u003ccode\u003eCompositionLocalProvider\u003c/code\u003e :\u003c/p\u003e\u003cfigure\u003e\u003c/figure\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-01-20T08:04:55.634Z",
+  "modifiedTime": null
+}
