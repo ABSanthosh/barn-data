@@ -1,0 +1,203 @@
+[
+  {
+    "id": "7d43d01c-720c-4136-bf9c-e01af08cbd53",
+    "title": "Integrations: From Simple Data Transfer To Modern Composable Architectures",
+    "link": "https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/",
+    "description": "In today’s web development landscape, the concept of a monolithic application has become increasingly rare. Modern applications are composed of multiple specialized services, each of which handles specific aspects of functionality. This shift didn’t happen overnight - it’s the result of decades of evolution in how we think about and implement data transfer between systems. Let’s explore this journey and see how it shapes modern architectures, particularly in the context of headless CMS solutions.",
+    "author": "Edoardo Dusi",
+    "published": "Tue, 04 Feb 2025 08:00:00 GMT",
+    "image": "http://files.smashing.media/articles/integrations-from-simple-data-transfer-to-composable-architectures/integrations-from-simple-data-transfer-to-composable-architectures.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "5dbcfce3-f8e3-4e5e-925f-f46ed9010255",
+    "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
+    "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
+    "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
+    "author": "Cosima Mielke",
+    "published": "Fri, 31 Jan 2025 09:30:00 GMT",
+    "image": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "e6e55901-2f54-4204-be0c-6e4f5b163fd4",
+    "title": "101+ Brand Strategy Resources (Ultimate List)",
+    "link": "https://justcreative.com/best-brand-strategy-resources/",
+    "description": "The ultimate list of the best brand strategy resources including the top courses, books, podcasts, communities, frameworks, models and more.",
+    "author": "Jacob Cass",
+    "published": "Mon, 03 Feb 2025 20:09:37 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2021/05/brand-strategy-resources.jpg",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Branding",
+      "Books",
+      "Brand Strategy",
+      "Resources"
+    ]
+  },
+  {
+    "id": "b4b9a96d-d9c2-4f73-b5ce-7d427c1b6d72",
+    "title": "21+ Fonts Similar to Gotham (2025) Fresh Alternatives",
+    "link": "https://justcreative.com/best-fonts-similar-to-gotham/",
+    "description": "Are you on the lookout for all of the best fonts similar to Gotham? If you are, then you've come to the best place! Here, are top Gotham font alternatives.",
+    "author": "Jacob Cass",
+    "published": "Thu, 30 Jan 2025 05:00:54 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2023/02/gotham.webp",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "clean sans serif fonts",
+      "Fonts",
+      "fonts similar to gotham",
+      "Gotham",
+      "gotham font alternatives",
+      "professional sans serif"
+    ]
+  },
+  {
+    "id": "cde7e043-222b-4abd-8e8d-bf4cb2c2d656",
+    "title": "Kick-start your continuous user research in 5 steps",
+    "link": "https://uxdesign.cc/kick-start-your-continuous-user-research-in-5-steps-5713228bfccf?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Audrey Hacq",
+    "published": "Thu, 06 Feb 2025 23:22:13 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*eNPKZ9hRmnjdTYVH7IWwcw.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "continuous-research",
+      "user-research",
+      "feedback",
+      "product",
+      "discovery"
+    ]
+  },
+  {
+    "id": "4bf59762-264b-4529-a6de-a8bc9a8301ae",
+    "title": "Dumb AI is pushing out good UX",
+    "link": "https://uxdesign.cc/dumb-ai-is-pushing-out-good-ux-a3f718273c26?source=rss----138adf9c44c---4",
+    "description": "A cautionary tale about the Washington Post.Continue reading on UX Collective »",
+    "author": "Chris Raymond",
+    "published": "Wed, 05 Feb 2025 23:08:39 GMT",
+    "image": "https://cdn-images-1.medium.com/max/700/1*KMJJraele7kNJhL2TIMMfw.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "artificial-intelligence",
+      "design",
+      "usability",
+      "ux",
+      "ai"
+    ]
+  },
+  {
+    "id": "4b12c0e5-fafe-4c1b-bdb8-63c8b4203ff9",
+    "title": "The Optimal Design for Sidebar Indicators",
+    "link": "https://uxmovement.com/navigation/the-optimal-design-for-sidebar-indicators/",
+    "description": "A sidebar navigation on an interface offers users multiple items to select. After making a selection, they need a visual cue to identify the chosen item. This cue is called an indicator. Every sidebar needs a clear and non-distracting selection indicator. However, many designers continue to use bad practices that make it hard for users […] The post The Optimal Design for Sidebar Indicators first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 18:05:18 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "fd2e367a-6111-409e-bd3c-096db0ed1b38",
+    "title": "How to Design a Sidebar That Saves Screen Space",
+    "link": "https://uxmovement.com/navigation/how-to-design-a-sidebar-that-saves-screen-space/",
+    "description": "Screen space on a desktop interface is more important than you think. Most designers take it for granted because a desktop screen contains so much space. However, when it comes to data display, every pixel counts. A sidebar can occupy a lot of width space and diminish the content area. As a result, users will […] The post How to Design a Sidebar That Saves Screen Space first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 17:58:44 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "e2e150e4-ea7a-4223-99e0-417c95f59f52",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "1a41fa37-71a1-4e80-82da-140b7661b7a5",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "ac17b283-ca51-4702-83ef-b40e5636aa4f",
+    "title": "UX Conference May Announced (May 3 - May 9)",
+    "link": "https://www.nngroup.com/training/may/",
+    "description": "Take up to 7 in-depth training courses, teaching user experience best practices for successful design. Courses focused on long-lasting skills for UX professionals. May 3- May 9, 2025.",
+    "author": "",
+    "published": "Wed, 05 Feb 2025 01:25:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Event"
+    ]
+  },
+  {
+    "id": "3e897e83-ba82-419b-8c45-87da095e97e2",
+    "title": "How to Apply and Secure a UX Job",
+    "link": "https://www.nngroup.com/articles/apply-secure-ux-job/",
+    "description": "Apply and secure UX jobs with tips for customizing resumes using generative AI, researching employers, acing interviews, and negotiating offers.",
+    "author": "Evan Sunwall",
+    "published": "Fri, 31 Jan 2025 18:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "d071d415-c594-4656-98b4-e96fe2739cc3",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "f8599f71-b520-4075-bb94-76623756cde2",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]
