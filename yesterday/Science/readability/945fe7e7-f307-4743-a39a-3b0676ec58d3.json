@@ -1,0 +1,26 @@
+{
+  "id": "945fe7e7-f307-4743-a39a-3b0676ec58d3",
+  "title": "Access previous versions of government websites with GovWayback",
+  "link": "https://flowingdata.com/2025/02/11/access-previous-versions-of-government-websites-with-govwayback/",
+  "description": "You can use the Internet Archive to access historical versions, but GovWayback makes…Tags: archive, government, Internet Archive",
+  "author": "Nathan Yau",
+  "published": "Tue, 11 Feb 2025 08:46:33 +0000",
+  "source": "https://flowingdata.com/feed",
+  "categories": [
+    "Apps",
+    "archive",
+    "government",
+    "Internet Archive"
+  ],
+  "byline": "Nathan Yau",
+  "length": 488,
+  "excerpt": "You can use the Internet Archive to access historical versions, but GovWayback makes it even more straightforward: GovWayback is a simple tool to quickly access archived versions of government webs…",
+  "siteName": "FlowingData",
+  "favicon": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512-210x210.png",
+  "text": "You can use the Internet Archive to access historical versions, but GovWayback makes it even more straightforward: GovWayback is a simple tool to quickly access archived versions of government websites from before January 20, 2025 – just add “wayback.com” after “.gov” in any government URL. GovWayback automatically redirects you to that page’s archived version from the Internet Archive. For example, you can enter cdc.govwayback.com, and it’ll take you the archived version of cdc.gov.",
+  "image": "https://flowingdata.com/wp-content/uploads/2025/02/govwayback.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"single-post\"\u003e\n                                    \n                \u003cp\u003eYou can use the \u003ca href=\"https://web.archive.org\"\u003eInternet Archive\u003c/a\u003e to access historical versions, but GovWayback \u003ca href=\"https://govwayback.com\"\u003emakes it even more straightforward\u003c/a\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\u003cp\u003eGovWayback is a simple tool to quickly access archived versions of government websites from before January 20, 2025 – just add “wayback.com” after “.gov” in any government URL. GovWayback automatically redirects you to that page’s archived version from the Internet Archive.\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003eFor example, you can enter \u003ca href=\"http://cdc.govwayback.com\"\u003ecdc.govwayback.com\u003c/a\u003e, and it’ll take you the archived version of cdc.gov.\u003c/p\u003e\n                \n                \n                                        \n            \n        \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-02-11T08:46:33Z",
+  "modifiedTime": "2025-02-10T08:21:20Z"
+}

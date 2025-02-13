@@ -1,0 +1,115 @@
+[
+  {
+    "id": "4b7257d0-cfdd-48a2-8732-51d364de7fce",
+    "title": "Enter picture-in-picture automatically when playing media",
+    "link": "https://developer.chrome.com/blog/automatic-picture-in-picture-media-playback?hl=en",
+    "description": "Chrome allows web apps playing media to automatically enter picture-in-picture.",
+    "author": "",
+    "published": "Wed, 05 Feb 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "e620a2ac-af25-4c63-a250-388cd7964e3a",
+    "title": "New in Chrome 133",
+    "link": "https://developer.chrome.com/blog/new-in-chrome-133?hl=en",
+    "description": "Chrome 133 is rolling out now! There's some exciting new CSS features and plenty more to discover.",
+    "author": "",
+    "published": "Tue, 04 Feb 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "344c5f74-1c77-4846-9e39-0cd5b74291b4",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "100aa70a-4667-4dd1-b41b-1cc11b1fed91",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "ee6f6523-b8c5-4ced-a266-5e7789f9e144",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
+    "description": "Mozilla and Filament have introduced Uniffi for React Native, a tool that allows developers to leverage the safety and performance benefits of Rust in cross-platform React Native apps. The post Introducing Uniffi for React Native: Rust-Powered Turbo Modules appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Mark Mayo",
+    "published": "Wed, 04 Dec 2024 19:38:01 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Developer Tools",
+      "Featured Article",
+      "c++",
+      "firefox",
+      "react",
+      "rust"
+    ]
+  },
+  {
+    "id": "47696a62-5924-4898-97fd-d908cb93f8c9",
+    "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+    "link": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+    "description": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models (LLMs) on your own hardware. Learn more about the updates and how to get involved with this cutting-edge project. The post Llamafile v0.8.14: a new UI, performance gains, and more appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Stephen Hood",
+    "published": "Wed, 16 Oct 2024 13:32:30 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2024/10/llamafile_8.1.14_release_image.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "llamafile",
+      "open source"
+    ]
+  },
+  {
+    "id": "a8dd1b75-01fa-45ec-8892-feee99e3f371",
+    "title": "Typecasting and Viewport Transitions in CSS With tan(atan2())",
+    "link": "https://css-tricks.com/typecasting-and-viewport-transitions-in-css-with-tanatan2/",
+    "description": "We’ve been able to get the length of the viewport in CSS since… checks notes… 2013! Surprisingly, that was more than a decade ago. Getting the viewport width is as easy these days as easy as writing 100vw, but … Typecasting and Viewport Transitions in CSS With tan(atan2()) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Juan Diego Rodríguez",
+    "published": "Wed, 12 Feb 2025 14:15:28 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/animation-zone.png?resize=1024%2C576\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "functions",
+      "view transitions"
+    ]
+  },
+  {
+    "id": "b1211549-365f-4363-97f0-d7aceeaf8586",
+    "title": "Organizing Design System Component Patterns With CSS Cascade Layers",
+    "link": "https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/",
+    "description": "I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with \"top-level\" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance. Organizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Ryan Trimble",
+    "published": "Mon, 10 Feb 2025 14:06:52 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "cascade layers",
+      "design systems"
+    ]
+  }
+]
