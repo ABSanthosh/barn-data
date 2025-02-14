@@ -1,0 +1,200 @@
+[
+  {
+    "id": "f1ae9da9-e6b8-47db-870b-5f59a0395c4a",
+    "title": "How I Created A Popular WordPress Theme And Coined The Term “Hero Section” (Without Realizing It)",
+    "link": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
+    "description": "In 2013, Marcel Moerkens was working on Brooklyn, his WordPress theme, and he needed a way to make it stand out from the pack of other WordPress themes. Little did he know that the intro section he called a “Hero” would become one of the most recognizable patterns in web design today. Here’s how the idea came to life and how it changed everything.",
+    "author": "Marcel Moerkens",
+    "published": "Mon, 10 Feb 2025 13:00:00 GMT",
+    "image": "http://files.smashing.media/articles/popular-wordpress-theme-term-hero-section/popular-wordpress-theme-term-hero-section.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "fd2276a1-1566-4cab-98a0-b43b25d3e982",
+    "title": "Taking RWD To The Extreme",
+    "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
+    "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
+    "author": "Tomasz Jakut",
+    "published": "Fri, 07 Feb 2025 13:00:00 GMT",
+    "image": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "5adbf868-513c-425a-8afa-113ca576410d",
+    "title": "When AI takes the driver’s seat",
+    "link": "https://uxdesign.cc/when-ai-takes-the-drivers-seat-452732f92448?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Patrick Morgan",
+    "published": "Tue, 11 Feb 2025 23:54:23 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*vBRTu3GgZw-EkPNxZVPY4g.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ux",
+      "ai",
+      "artificial-intelligence",
+      "ui-design",
+      "ui"
+    ]
+  },
+  {
+    "id": "714e8b73-f609-4746-af67-beef64262f05",
+    "title": "Fail early: the hidden design principle behind great UX",
+    "link": "https://uxdesign.cc/fail-early-a-hidden-design-principle-of-good-products-and-services-b23af66e0247?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Niaw de Leon",
+    "published": "Tue, 11 Feb 2025 23:50:59 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*X7khLkcVbyR9Pzkdq5C_kA.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ux",
+      "product-design",
+      "user-experience",
+      "customer-experience",
+      "user-journey"
+    ]
+  },
+  {
+    "id": "3ebd47ed-515c-40c2-bba1-cea10db47430",
+    "title": "SWOT Analysis",
+    "link": "https://www.nngroup.com/articles/swot-analysis/",
+    "description": "A SWOT analysis helps teams understand how well a product, service, or organization is positioned in the market to serve its customers.",
+    "author": "Therese Fessenden",
+    "published": "Fri, 07 Feb 2025 18:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "efd98de0-1df0-4834-9894-4d61714b5ab8",
+    "title": "AI Hallucinations: What Designers Need to Know",
+    "link": "https://www.nngroup.com/articles/ai-hallucinations/",
+    "description": "Plausible but incorrect AI responses create design challenges and user distrust. Discover evidence-based UI patterns to help users identify fabrications.",
+    "author": "Page Laubheimer",
+    "published": "Fri, 07 Feb 2025 18:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "f9765347-60aa-4ed1-a1d8-a8f5869bcea2",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "b2b6f77c-cd5d-40bf-b807-6faddeb9ae05",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "7ae10ee7-c0dc-4af9-9bf2-2ffbf5e2e787",
+    "title": "The Optimal Design for Sidebar Indicators",
+    "link": "https://uxmovement.com/navigation/the-optimal-design-for-sidebar-indicators/",
+    "description": "A sidebar navigation on an interface offers users multiple items to select. After making a selection, they need a visual cue to identify the chosen item. This cue is called an indicator. Every sidebar needs a clear and non-distracting selection indicator. However, many designers continue to use bad practices that make it hard for users […] The post The Optimal Design for Sidebar Indicators first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 18:05:18 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "8953bc88-7510-4db7-9adb-a2ab90d40e4f",
+    "title": "How to Design a Sidebar That Saves Screen Space",
+    "link": "https://uxmovement.com/navigation/how-to-design-a-sidebar-that-saves-screen-space/",
+    "description": "Screen space on a desktop interface is more important than you think. Most designers take it for granted because a desktop screen contains so much space. However, when it comes to data display, every pixel counts. A sidebar can occupy a lot of width space and diminish the content area. As a result, users will […] The post How to Design a Sidebar That Saves Screen Space first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 17:58:44 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "5773dacd-dfe0-4290-91d5-10786ac5a925",
+    "title": "101+ Best AI Tools for Business \u0026 Marketing 2025",
+    "link": "https://justcreative.com/best-ai-tools/",
+    "description": "Looking for the best AI tools \u0026 resources? We're actively compiling the ultimate list of the best artificial intelligence tools \u0026 resources.",
+    "author": "Jacob Cass",
+    "published": "Mon, 10 Feb 2025 05:01:25 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2023/11/brand-bot-gui-1024x597.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "AI",
+      "Artificial Intelligence",
+      "Tools"
+    ]
+  },
+  {
+    "id": "f9efae18-0fe9-46e0-b25d-8bb4beed53b0",
+    "title": "101+ Brand Strategy Resources (Ultimate List)",
+    "link": "https://justcreative.com/best-brand-strategy-resources/",
+    "description": "The ultimate list of the best brand strategy resources including the top courses, books, podcasts, communities, frameworks, models and more.",
+    "author": "Jacob Cass",
+    "published": "Mon, 03 Feb 2025 20:09:37 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2021/05/brand-strategy-resources.jpg",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Branding",
+      "Books",
+      "Brand Strategy",
+      "Resources"
+    ]
+  },
+  {
+    "id": "5bebd3be-4200-4007-ad40-aadd128c3982",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "677fb7ff-9ab6-45c6-91b0-77294cef1ac7",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]

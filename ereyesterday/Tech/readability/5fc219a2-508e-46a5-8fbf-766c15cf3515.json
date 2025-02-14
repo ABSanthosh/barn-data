@@ -1,0 +1,23 @@
+{
+  "id": "5fc219a2-508e-46a5-8fbf-766c15cf3515",
+  "title": "KDE Plasma 6.3 Released",
+  "link": "https://tech.slashdot.org/story/25/02/11/2229240/kde-plasma-63-released?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+  "description": "Today, the KDE Project announced the release of KDE Plasma 6.3, featuring improved fractional scaling, enhanced Night Light color accuracy, better CPU usage monitoring, and various UI and security refinements. Some of the key features of Plasma 6.3 include: - Improved fractional scaling with KWin to lead to an all-around better desktop experience with fractional scaling as well as when making use of KWin's zoom effect. - Screen colors are more accurate with the KDE Night Light feature. - CPU usage monitoring within the KDE System Monitor is now more accurate and consuming fewer CPU resources. - KDE will now present a notification when the kernel terminated an app because the system ran out of memory. - Various improvements to the Discover app, including a security enhancement around sandboxed apps. - The drawing tablet area of KDE System Settings has been overhauled with new features and refinements. - Many other enhancements and fixes throughout KDE Plasma 6.3. You can read the announcement here. Read more of this story at Slashdot.",
+  "author": "BeauHD",
+  "published": "2025-02-12T00:20:00+00:00",
+  "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "categories": [
+    "kde"
+  ],
+  "byline": "",
+  "length": 1016,
+  "excerpt": "Today, the KDE Project announced the release of KDE Plasma 6.3, featuring improved fractional scaling, enhanced Night Light color accuracy, better CPU usage monitoring, and various UI and security refinements. Some of the key features of Plasma 6.3 include: - Improved fractional scaling with KWin...",
+  "siteName": "",
+  "favicon": "",
+  "text": "Today, the KDE Project announced the release of KDE Plasma 6.3, featuring improved fractional scaling, enhanced Night Light color accuracy, better CPU usage monitoring, and various UI and security refinements. Some of the key features of Plasma 6.3 include: - Improved fractional scaling with KWin to lead to an all-around better desktop experience with fractional scaling as well as when making use of KWin's zoom effect. - Screen colors are more accurate with the KDE Night Light feature. - CPU usage monitoring within the KDE System Monitor is now more accurate and consuming fewer CPU resources. - KDE will now present a notification when the kernel terminated an app because the system ran out of memory. - Various improvements to the Discover app, including a security enhancement around sandboxed apps. - The drawing tablet area of KDE System Settings has been overhauled with new features and refinements. - Many other enhancements and fixes throughout KDE Plasma 6.3. You can read the announcement here.",
+  "image": "https://a.fsdn.com/sd/topics/topickde.gif",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"fhbody-176187493\"\u003e\u003cp\u003e\n\t\t\t\n\t\t \t\n\t\t\t\tToday, the KDE Project announced the \u003ca href=\"https://www.phoronix.com/news/KDE-Plasma-6.3-Released\"\u003erelease of KDE Plasma 6.3\u003c/a\u003e, featuring improved fractional scaling, enhanced Night Light color accuracy, better CPU usage monitoring, and various UI and security refinements.\n\u003c/p\u003e\u003cp\u003e \nSome of the key features of Plasma 6.3 include: \u003cbr/\u003e\n- Improved fractional scaling with KWin to lead to an all-around better desktop experience with fractional scaling as well as when making use of KWin\u0026#39;s zoom effect.\u003cbr/\u003e\n- Screen colors are more accurate with the KDE Night Light feature.\u003cbr/\u003e\n- CPU usage monitoring within the KDE System Monitor is now more accurate and consuming fewer CPU resources.\u003cbr/\u003e\n- KDE will now present a notification when the kernel terminated an app because the system ran out of memory.\u003cbr/\u003e\n- Various improvements to the Discover app, including a security enhancement around sandboxed apps.\u003cbr/\u003e\n- The drawing tablet area of KDE System Settings has been overhauled with new features and refinements.\u003cbr/\u003e\n- Many other enhancements and fixes throughout KDE Plasma 6.3. \u003c/p\u003e\u003cp\u003e You can read the announcement \u003ca href=\"https://kde.org/announcements/plasma/6/6.3.0/\"\u003ehere\u003c/a\u003e.\n\t\t \t\n\t\t\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": null,
+  "modifiedTime": null
+}
