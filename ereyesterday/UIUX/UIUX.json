@@ -1,0 +1,200 @@
+[
+  {
+    "id": "f9ab864c-84f5-4e50-b704-6bf7d6e0fc1a",
+    "title": "How To Test And Measure Content In UX",
+    "link": "https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/",
+    "description": "The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
+    "author": "Vitaly Friedman",
+    "published": "Thu, 13 Feb 2025 08:00:00 GMT",
+    "image": "http://files.smashing.media/articles/how-to-test-and-measure-content-in-ux/concept-testing-opt.png",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "4b13ec47-b9c1-4d43-9b50-41097c8cb857",
+    "title": "Time To First Byte: Beyond Server Response Time",
+    "link": "https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/",
+    "description": "Optimizing web performance means looking beyond surface-level metrics. Time to First Byte (TTFB) is crucial, but improving it requires more than tweaking server response time. Matt Zeunert breaks down what TTFB is, what causes its poor score, and why reducing server response time alone isn’t enough for optimization and often won’t be the most impactful change you can make to your website.",
+    "author": "Matt Zeunert",
+    "published": "Wed, 12 Feb 2025 17:00:00 GMT",
+    "image": "http://files.smashing.media/articles/time-to-first-byte-beyond-server-response-time/time-to-first-byte-beyond-server-response-time.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "5259491c-0bcf-49d0-b7df-3bacc8965c56",
+    "title": "[Podcast] Building Influence: How to Authentically Build Trust, Drive Change, and Make an Impact with Lida Citroën",
+    "link": "https://justcreative.com/building-influence/",
+    "description": "Discover Lida Citroën’s 10-step strategy for building influence beyond authority. Learn how storytelling, authenticity \u0026 trust elevate your leadership impact.",
+    "author": "Jacob Cass",
+    "published": "Wed, 12 Feb 2025 23:21:59 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2019/12/best-brand-strategy-course-online.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Podcast",
+      "influence",
+      "Personal Branding",
+      "Reputation"
+    ]
+  },
+  {
+    "id": "ffcadd74-e70f-47b5-ad55-95d85c8829ea",
+    "title": "101+ Best AI Tools for Business \u0026 Marketing 2025",
+    "link": "https://justcreative.com/best-ai-tools/",
+    "description": "Looking for the best AI tools \u0026 resources? We're actively compiling the ultimate list of the best artificial intelligence tools \u0026 resources.",
+    "author": "Jacob Cass",
+    "published": "Mon, 10 Feb 2025 05:01:25 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2023/11/brand-bot-gui-1024x597.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "AI",
+      "Artificial Intelligence",
+      "Tools"
+    ]
+  },
+  {
+    "id": "64d7d0fe-b157-47f8-b2cc-b8b634b5c6ea",
+    "title": "SWOT Analysis",
+    "link": "https://www.nngroup.com/articles/swot-analysis/",
+    "description": "A SWOT analysis helps teams understand how well a product, service, or organization is positioned in the market to serve its customers.",
+    "author": "Therese Fessenden",
+    "published": "Fri, 07 Feb 2025 18:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "61d0d8b2-802c-4bca-9784-50c622163dff",
+    "title": "AI Hallucinations: What Designers Need to Know",
+    "link": "https://www.nngroup.com/articles/ai-hallucinations/",
+    "description": "Plausible but incorrect AI responses create design challenges and user distrust. Discover evidence-based UI patterns to help users identify fabrications.",
+    "author": "Page Laubheimer",
+    "published": "Fri, 07 Feb 2025 18:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "1d34c138-dc1d-444e-9373-fc717bc268f6",
+    "title": "The design game has changed and I don’t know where I fit anymore",
+    "link": "https://uxdesign.cc/the-design-game-has-changed-and-i-dont-know-where-i-fit-anymore-d1e414c2ea9c?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Pascal Potvin",
+    "published": "Fri, 14 Feb 2025 00:06:07 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*QqQL7_YwBqU4qLKp",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "design",
+      "ai",
+      "growth",
+      "careers",
+      "ux"
+    ]
+  },
+  {
+    "id": "40ae5b40-a9b9-46e8-92f7-41f23d7b36fd",
+    "title": "Simplest, dumbest reason your meetings suck",
+    "link": "https://uxdesign.cc/simplest-dumbest-reason-your-meetings-suck-9b1093665a74?source=rss----138adf9c44c---4",
+    "description": "This is one you can fix all by yourself — no need to schedule more meetings to make bad meetings more tolerable.Continue reading on UX Collective »",
+    "author": "Rita Kind-Envy",
+    "published": "Fri, 14 Feb 2025 00:03:05 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1280/1*i74-pYco1DDC879cX_oLRQ.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "meetings",
+      "ux-writing",
+      "design",
+      "communication",
+      "ux"
+    ]
+  },
+  {
+    "id": "017b4af4-4e1b-40e3-a48a-b2e4cbf1747b",
+    "title": "The Optimal Design for Sidebar Indicators",
+    "link": "https://uxmovement.com/navigation/the-optimal-design-for-sidebar-indicators/",
+    "description": "A sidebar navigation on an interface offers users multiple items to select. After making a selection, they need a visual cue to identify the chosen item. This cue is called an indicator. Every sidebar needs a clear and non-distracting selection indicator. However, many designers continue to use bad practices that make it hard for users […] The post The Optimal Design for Sidebar Indicators first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 18:05:18 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "bd38cc6f-6cf6-460a-8d5e-a6273471e1c1",
+    "title": "How to Design a Sidebar That Saves Screen Space",
+    "link": "https://uxmovement.com/navigation/how-to-design-a-sidebar-that-saves-screen-space/",
+    "description": "Screen space on a desktop interface is more important than you think. Most designers take it for granted because a desktop screen contains so much space. However, when it comes to data display, every pixel counts. A sidebar can occupy a lot of width space and diminish the content area. As a result, users will […] The post How to Design a Sidebar That Saves Screen Space first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 17:58:44 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "3d7703cd-64e0-43a9-a155-c6077127d7eb",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "2bba5c3b-fc1d-4009-99d9-84029440a68b",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "5abb4d49-0cd8-4508-b8e7-2010945b78e4",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "095ffdeb-3b5a-4157-94e3-aff8b6fc35b6",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]
