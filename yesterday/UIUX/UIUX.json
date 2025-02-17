@@ -1,0 +1,200 @@
+[
+  {
+    "id": "6dd02e73-ebd9-4cc6-b0de-3f2354332107",
+    "title": "How To Test And Measure Content In UX",
+    "link": "https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/",
+    "description": "The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
+    "author": "Vitaly Friedman",
+    "published": "Thu, 13 Feb 2025 08:00:00 GMT",
+    "image": "http://files.smashing.media/articles/how-to-test-and-measure-content-in-ux/concept-testing-opt.png",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "0c19cf33-87ed-4c81-b77d-a6db1dc056f5",
+    "title": "Time To First Byte: Beyond Server Response Time",
+    "link": "https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/",
+    "description": "Optimizing web performance means looking beyond surface-level metrics. Time to First Byte (TTFB) is crucial, but improving it requires more than tweaking server response time. Matt Zeunert breaks down what TTFB is, what causes its poor score, and why reducing server response time alone isn’t enough for optimization and often won’t be the most impactful change you can make to your website.",
+    "author": "Matt Zeunert",
+    "published": "Wed, 12 Feb 2025 17:00:00 GMT",
+    "image": "http://files.smashing.media/articles/time-to-first-byte-beyond-server-response-time/time-to-first-byte-beyond-server-response-time.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "303d8b31-0bc5-4153-9b92-55a7287de48f",
+    "title": "[Podcast] Building Influence: How to Authentically Build Trust, Drive Change, and Make an Impact with Lida Citroën",
+    "link": "https://justcreative.com/building-influence/",
+    "description": "Discover Lida Citroën’s 10-step strategy for building influence beyond authority. Learn how storytelling, authenticity \u0026 trust elevate your leadership impact.",
+    "author": "Jacob Cass",
+    "published": "Wed, 12 Feb 2025 23:21:59 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2019/12/best-brand-strategy-course-online.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Podcast",
+      "influence",
+      "Personal Branding",
+      "Reputation"
+    ]
+  },
+  {
+    "id": "6a716b20-c998-4d6b-bd65-22564d5c02ba",
+    "title": "101+ Best AI Tools for Business \u0026 Marketing 2025",
+    "link": "https://justcreative.com/best-ai-tools/",
+    "description": "Looking for the best AI tools \u0026 resources? We're actively compiling the ultimate list of the best artificial intelligence tools \u0026 resources.",
+    "author": "Jacob Cass",
+    "published": "Mon, 10 Feb 2025 05:01:25 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2023/11/brand-bot-gui-1024x597.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "AI",
+      "Artificial Intelligence",
+      "Tools"
+    ]
+  },
+  {
+    "id": "e04fa3ef-0327-4f9a-bad5-b6ae68e6a05a",
+    "title": "Job Opening: Senior Backend Developer (Remote, Full-time; Europe)",
+    "link": "https://www.nngroup.com/news/item/job-opening-senior-backend-developer-europe/",
+    "description": "We’re looking for a talented senior software backend developer to join our small team of developers (including some full-time employees and some external contractors). Applications due Feb 28, 2025.",
+    "author": "",
+    "published": "Fri, 14 Feb 2025 19:29:47 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Announcement"
+    ]
+  },
+  {
+    "id": "912521b6-1d9d-4285-8c54-40a8f84a7d01",
+    "title": "Job Opening: Senior Backend Developer (Remote, Full-time; United States)",
+    "link": "https://www.nngroup.com/news/item/job-opening-senior-backend-developer-us/",
+    "description": "We’re looking for a talented senior software backend developer to join our small team of developers (including some full-time employees and some external contractors). Applications due Feb 28, 2025.",
+    "author": "",
+    "published": "Fri, 14 Feb 2025 19:23:25 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Announcement"
+    ]
+  },
+  {
+    "id": "dcf2eec0-c035-43eb-b105-557076358d79",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "52af4159-b003-4f19-adc6-e55ff759d29d",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "096a71b6-c59a-460b-9272-29127b55b79e",
+    "title": "Designing for AI Engineers: UI patterns you need to know",
+    "link": "https://uxdesign.cc/designing-for-ai-engineers-what-ui-patterns-and-principles-you-need-to-know-8b16a5b62a61?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Eve Weinberg",
+    "published": "Fri, 14 Feb 2025 21:48:19 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*55CbrT0QfrwejlGo5c0zag.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "artificial-intelligence",
+      "ux-design",
+      "ux",
+      "ai",
+      "startup"
+    ]
+  },
+  {
+    "id": "d6609f02-27cc-4c55-8287-6770730c7b88",
+    "title": "How I’m using AI to streamline persona and journey map creation",
+    "link": "https://uxdesign.cc/using-ai-to-streamline-persona-and-journey-map-creation-37fa859dafb0?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Kyle Soucy",
+    "published": "Fri, 14 Feb 2025 21:46:38 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*1kicBSQ0kTDdD-JBeLhZlQ.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ux",
+      "artificial-intelligence",
+      "ux-research",
+      "product-design",
+      "chatgpt"
+    ]
+  },
+  {
+    "id": "502320f6-8056-482d-b8fa-59dcbcd94ce9",
+    "title": "The Optimal Design for Sidebar Indicators",
+    "link": "https://uxmovement.com/navigation/the-optimal-design-for-sidebar-indicators/",
+    "description": "A sidebar navigation on an interface offers users multiple items to select. After making a selection, they need a visual cue to identify the chosen item. This cue is called an indicator. Every sidebar needs a clear and non-distracting selection indicator. However, many designers continue to use bad practices that make it hard for users […] The post The Optimal Design for Sidebar Indicators first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 18:05:18 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "849b83b0-d89c-4a84-9fb3-d650ec7e2fc5",
+    "title": "How to Design a Sidebar That Saves Screen Space",
+    "link": "https://uxmovement.com/navigation/how-to-design-a-sidebar-that-saves-screen-space/",
+    "description": "Screen space on a desktop interface is more important than you think. Most designers take it for granted because a desktop screen contains so much space. However, when it comes to data display, every pixel counts. A sidebar can occupy a lot of width space and diminish the content area. As a result, users will […] The post How to Design a Sidebar That Saves Screen Space first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 17:58:44 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "ab7eefd8-e95e-49bb-bd1e-e6cbcf4c3e9c",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "8e133194-f418-4099-9ab6-48e2f5ff1c62",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]

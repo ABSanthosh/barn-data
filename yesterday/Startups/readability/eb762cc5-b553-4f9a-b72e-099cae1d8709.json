@@ -1,0 +1,21 @@
+{
+  "id": "eb762cc5-b553-4f9a-b72e-099cae1d8709",
+  "title": "Create a QubesOS Gaming HVM with GPU PCI passthrough (2023)",
+  "link": "https://forum.qubes-os.org/t/create-a-gaming-hvm/19000",
+  "description": "Article URL: https://forum.qubes-os.org/t/create-a-gaming-hvm/19000 Comments URL: https://news.ycombinator.com/item?id=43063239 Points: 18 # Comments: 2",
+  "author": "transpute",
+  "published": "Sat, 15 Feb 2025 22:48:56 +0000",
+  "source": "https://hnrss.org/frontpage",
+  "categories": null,
+  "byline": "",
+  "length": 7,
+  "excerpt": "Hardware To have an ‘HVM’ for gaming, you must have A dedicated GPU. By dedicated, it means: it is a secondary GPU, not the GPU used to display dom0. In 2023, ‘Nvidia’ and ‘Amd’ GPU work. Not tested with Intel GPUs. External GPU using thunderbolt work (Create a Gaming HVM - #8 by solene) A lot of patience. GPU passthrough is not trivial, and you will need to spend time debugging. A screen available for the gaming ‘HVM’. (It can be a physical monitor or just to have multiple cables conne...",
+  "siteName": "Qubes OS Forum",
+  "favicon": "https://forum.qubes-os.org/uploads/db3820/optimized/1X/10549f9dff8a289d117f083e9f5155231c452db2_2_180x180.png",
+  "text": "Loading",
+  "image": "https://forum.qubes-os.org/uploads/db3820/original/2X/5/5918b857d4cb22183a9fff2cb70d6201b5041048.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\n      \u003csection id=\"d-splash\"\u003e\n  \u003ctemplate\u003e\n    \u003csvg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\"\u003e\n      \n\n      \u003cg\u003e\n        \u003ccircle cx=\"30vw\"\u003e\u003c/circle\u003e\n        \u003ccircle cx=\"40vw\"\u003e\u003c/circle\u003e\n        \u003ccircle cx=\"50vw\"\u003e\u003c/circle\u003e\n        \u003ccircle cx=\"60vw\"\u003e\u003c/circle\u003e\n        \u003ccircle cx=\"70vw\"\u003e\u003c/circle\u003e\n      \u003c/g\u003e\n    \u003c/svg\u003e\n  \u003c/template\u003e\n\n  \n\n  \u003cimg src=\"data:image/svg;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" alt=\"Qubes OS Forum\"/\u003e\n\n  \u003cdiv\u003e\n    \u003cp\u003eLoading\u003c/p\u003e\n  \u003c/div\u003e\n\n  \n\n  \n\u003c/section\u003e\n\n\n    \u003cdiscourse-assets\u003e\n      \u003cdiscourse-assets-stylesheets\u003e\n        \n\n  \n\n\n\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n\n  \n\n\n\n\n      \u003c/discourse-assets-stylesheets\u003e\n      \u003cdiscourse-assets-json\u003e\n        \n      \u003c/discourse-assets-json\u003e\n      \u003cdiscourse-assets-icons\u003e\u003c/discourse-assets-icons\u003e\n    \u003c/discourse-assets\u003e\n\n      \n\n    \n    \n\n      \n\n      \n\n    \n\n      \n\n    \n\n    \n\n    \n\n      \n\n      \n\n    \n  \n\n\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-01-17T09:26:13Z",
+  "modifiedTime": null
+}
