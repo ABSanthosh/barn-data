@@ -1,0 +1,653 @@
+[
+  {
+    "id": "4dbf64d0-0361-4bbc-9756-902c12d8eaef",
+    "title": "The best laptop power banks for 2025",
+    "link": "https://www.engadget.com/computing/accessories/best-laptop-power-bank-120040388.html?src=rss",
+    "description": "There’s nothing worse than trying to get work done offsite and realizing your laptop is nearly dead. OK, there are plenty of worse things, but running out of battery when you’re not near an outlet can be seriously inconvenient. Laptop power banks are similar to other rechargeable banks you may have used to top off a smartphone, but with larger capacities and more ports. There’s no standard rating to qualify a battery as a laptop-grade brick, but here we only considered versions with at least a 20,000mAh capacity so they can deliver enough charge but under 27,000mAh (99Wh) so the TSA will let you fly with them in your carry-on luggage. After testing a slew of popular options over the past couple of years, we think these are the best laptop power banks you can buy. Table of contents Best laptop power banks for 2025 What to look for in a laptop power bank How we test portable laptop chargers Laptop power bank FAQs Best laptop power banks for 2025 What to look for in a laptop power bank Capacity If you just need to keep a smartphone from dying before you can make it home, just about any power bank will do. But if you need to revive multiple devices or the substantial battery of a laptop, you’ll want something with a high milliamp-hour​​ (mAh) capacity. A power bank capable of delivering enough power to a laptop will have a capacity between 20,000 and 27,000 mAh. Go higher than 27,000mAh and you likely won’t be able to take it on an airplane, which is why most portable chargers top out around that number. Since the voltage for most portable power banks is around 3.7 volts, a 27,000mAh battery translates to 99.9 watt hours — which is the maximum capacity the TSA will allow for carry-on luggage. (And note that these batteries can’t be checked, regardless of size). If you want something even bigger than a laptop power bank, and don’t need to fly with it, you’ll likely want to look into portable power stations. These can be the size of a car battery or larger and can potentially fuel an entire weekend away. Another thing to keep in mind is that the capacity listed in a power bank's specs is not what will be delivered to your devices. As I mentioned, the capacity of these banks is around 25,000mAh. Even the huge battery on a 16-inch MacBook Pro or a Dell XPS 16 has a mAh rating of around 5,000 - 6,000mAh, so you might think you’d get five full charges but in reality, you only get about a single 70-percent charge. The voltage is different (typically 3.7V for the power bank and 11.4V for a laptop) which makes the watt-hours, or the amount of energy each battery can hold, different (working out to 92Wh for the battery and 72Wh for the built-in laptop batteries). On top of that, in order to feed a charge from a power bank to a laptop, a voltage conversion takes place and that dissipates a decent amount of energy. Without turning this into a physics lesson, this all means that a power bank with a 25,000mAh (or 92Wh) capacity will typically fill a 5,000mAh (or 72Wh) laptop battery to about 75 percent. In my tests, I averaged about a 60-percent efficiency rate between a power bank’s listed capacity and the actual charge delivered. Ports Every large power bank I’ve tested has at least three USB ports, with a mix of USB-C and USB-A, which should cover nearly any portable device you need to recharge — earbuds, phones, tablets, laptops, you name it. In addition to the different plug formats, some ports supply power at different wattages. For example, one USB-C port might be rated for 60 watts, while the one next to it is rated for 100 watts. So if you’ve got a device that’s capable of 70W fast charging, such as the new MacBook Air, you’d want to opt for the 100W port to get the best charging speeds possible. Note that devices with a smaller wattage draw won’t be negatively affected by connecting to ports with high ratings. For example, a Galaxy S24 Ultra, capable of 45W super fast charging, can happily plug into the 100W port. A device will only draw what it can take, regardless of what a port can supply. Just remember that the port, device and cable need to be at or above the desired wattage rating to achieve maximum charging rates. Some of these larger batteries also have AC ports. It might seem like a natural fit to plug in your laptop’s power adapter for a recharge. But really, the AC port should only be for devices that can’t use USB — such as a lamp or a printer. Plugging a power adapter into the AC port only wastes energy through conversion. First, the battery converts its DC power to supply the port with AC power, then the power adapter converts that AC power back to DC so your laptop can take it in. And as you’ll remember from physics class, each time energy is converted, some is lost to heat and other dissipations. Better to cut out the middleman and just send that DC power straight from the battery to the device. Also, you can use more than one port at a time with these devices; just remember that the speed of whatever you’re charging will likely go down, and of course, the battery is going to drain proportionally to what you’re refilling. Wireless charging Just in the last year and a half that I’ve been testing portable power banks, wireless charging capabilities have noticeably improved. The first few I tried were painfully slow and not worth recommending. Now the wireless pads built into power banks are impressively fast — particularly, in my experience, when charging Samsung Galaxy phones (though the lack of a stabilizing magnetic connection like Apple’s MagSafe means they only work when rested flat on a pad). Most wireless charging connections can be used while other ports are also being employed, making them convenient for some mobile battlestation setups. Of course, wireless charging is always less efficient than wired, and recharging from an external battery is less efficient in general. If you want to waste as little energy as possible, you’re better off sticking to wired connections. Design All power banks are designed to be portable, but there’s a big difference between a pocket-friendly 5,000mAh battery and one of these laptop-compatible bruisers. Most of the latter weigh between a pound and a half to two pounds, which is a considerable addition to a backpack. Many of the options listed here have a display to tell you how much charge remains in the battery, which is helpful when you’re trying to judiciously meet out charges to your devices. If a bank has a wireless connection, the pad is usually on the flat top and any available AC connection is usually at one end. Both may require you to engage those charging methods. Don’t be like me and grumble loudly that you got a bum unit without pressing (and sometimes double pressing) all the buttons first. How we test portable laptop chargers For the past year and a half, I’ve been testing and using dozens of portable batteries for our other battery guide. Some of those batteries include the higher-capacity power banks you see here. I also got a hold of a few extra banks just for this guide to make sure we covered what’s available. I went for brands I’m already familiar with, as well as battery packs from well-received manufacturers I hadn’t tried before (like UGREEN and Lion Energy). I only considered banks with at least a 20,000mAh capacity and mostly stuck with those that rated 25,000mAh and higher. Here’s everything we tested: Zendure Supertank Pro Mophie Powerstation Pro XL Mophie Powerstation Pro AC Lion Energy Eclipse Mag Lion Energy Trek Baseus Blade Laptop Anker Prime 27,650mAh Goal Zero Sherpa 100 AC Due to shipping and travel issues, I wasn’t able to test two of the batteries I had slated: the HyperJuice 245W and the UGREEN Power Bank 25,000mAh. Once I’ve had a chance to see how these two perform — as well as any new worthy contenders that hit the market — I’ll update this guide accordingly. I tested each power bank with an iPhone 15, a Galaxy S23 Ultra, an iPad Air (M1) and a 16-inch MacBook Pro with the M1 Pro chip. Even though these banks can charge multiple devices at once, I refilled one at a time, to make side-by-side comparisons more straightforward. I drained the batteries of the phones and tablets to between zero and five percent and then didn’t use any device as it refilled. For the MacBook, I let it run down to 10 percent before plugging in the power bank. That's when most laptops give display a “connect to power” warning, as draining any battery to empty will compromise the battery life. I then used it as one might in a mobile office, with a Bluetooth keyboard and mouse, while connected to Wi-Fi and a VPN. For each test, I noted how long a completely charged battery took to get a device back to full and how much of the battery’s capacity was used up in one charge. I also noted things like portability, apparent durability, helpful features and overall design. For reference, here are the battery capacities of the devices I used: iPhone 15: 3,349mAh Galaxy S23 Ultra: 4,855mAh iPad Air (5th gen): 7,729mAh 16-inch M1 Pro MacBook Pro: 27,027mAh Laptop power bank FAQs How do laptop power banks differ from phone power banks? The main difference is size. Phone power banks tend to have a capacity ranging from 5,000mAh to 20,000mAh and laptop powerbanks are typically rated between 20,000mAh and 27,000mAh. There’s no official definition, however. Laptop batteries are simply larger and need a bigger supply of power to give them a meaningful charge. How do you fast charge a power bank? You can charge a power bank exactly as fast as the power bank’s internal mechanisms will allow. Most batteries are limited in how quickly they can accept and deliver a charge to avoid dangerously overheating. But to make sure you’re charging a bank as quickly as possible, make sure the wall adapter and the USB-C cable you are using have a high wattage rating — using a 5W power brick and a 10W cable will take a lot longer to refill your bank than a 65W wall charger and a 100W cord. What size power bank do I need for a laptop? Look for a power bank with a rating of at least 20,000mAh. Slightly smaller batteries may work, but they won’t deliver a significant charge to your laptop. How many mAh to charge a laptop? A milliamp hour (mAh) is how much a battery can hold, and most portable batteries list their capacity using mAh. If you get a battery rated at 20,000mAh or above, it should be able to charge your laptop. Using mAh to discuss laptop batteries can be confusing. Due to differing voltages, you can’t directly compare the mAh ratings of a power bank battery to a laptop battery. Using watt-hours is a better gauge, as that calculation takes voltage into account.This article originally appeared on Engadget at https://www.engadget.com/computing/accessories/best-laptop-power-bank-120040388.html?src=rss",
+    "author": "Amy Skorheim",
+    "published": "Mon, 17 Feb 2025 20:01:26 +0000",
+    "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2Fb671f2e0-bdeb-11ef-bfff-8f744e496670\u0026resize=1400%2C787\u0026client=19f2b5e49a271b2bde77\u0026signature=a7f24feeb89a2ed71389ebd5ada4f9a0f042bc73",
+    "source": "https://www.engadget.com/rss.xml",
+    "categories": [
+      "Computing",
+      "Technology \u0026 Electronics",
+      "Handheld \u0026 Connected Devices",
+      "site|engadget",
+      "provider_name|Engadget",
+      "region|US",
+      "language|en-US",
+      "author_name|Amy Skorheim"
+    ]
+  },
+  {
+    "id": "13580180-46a0-4c4d-aa80-8a3340ca9b0f",
+    "title": "Sonic the Hedgehog 3 zooms onto Paramount+ on February 18",
+    "link": "https://www.engadget.com/entertainment/tv-movies/sonic-the-hedgehog-3-zooms-onto-paramount-on-february-18-182404772.html?src=rss",
+    "description": "Sonic the Hedgehog shows no sign of slowing down — so to speak. The blue blur's third movie was a hit at the box office, and it's coming to Paramount+ sooner than you might have expected. Sonic the Hedgehog 3 will land on the streaming service in the US and Canada on February 18 i.e. tomorrow. The film zoomed into theaters in December and vacuumed up cash faster than Sonic loses his rings when he runs into spikes. To date, it has pulled in over $478 million, making it the second highest-grossing video game film behind one that stars one of Sonic's oldest rivals. The Super Mario Bros. Movie raked in $1.36 billion. Sonic the Hedgehog 3 picks up soon after the events of the Knuckles spin-off series. It sees Sonic and the gang taking on a new opponent, a powerful hedgehog named Shadow (voiced by Keanu Reeves). It's safe to say that Sonic et al probably make it through that encounter given that a fourth movie in the series is on the way. Sonic The Hedgehog 4 is scheduled to spin dash into theaters on March 19, 2027.This article originally appeared on Engadget at https://www.engadget.com/entertainment/tv-movies/sonic-the-hedgehog-3-zooms-onto-paramount-on-february-18-182404772.html?src=rss",
+    "author": "Kris Holt",
+    "published": "Mon, 17 Feb 2025 18:24:04 +0000",
+    "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-02%2Ff5429b30-ed59-11ef-8dff-9ab6fcf6d032\u0026resize=1400%2C694\u0026client=19f2b5e49a271b2bde77\u0026signature=e664f972f2f3fe9b38569842df398952bc7dbba2",
+    "source": "https://www.engadget.com/rss.xml",
+    "categories": [
+      "Movies",
+      "Media",
+      "Celebrities",
+      "Arts \u0026 Entertainment",
+      "site|engadget",
+      "provider_name|Engadget",
+      "region|US",
+      "language|en-US",
+      "author_name|Kris Holt"
+    ]
+  },
+  {
+    "id": "91368580-2716-4180-a5e0-f8466b784844",
+    "title": "Unitree's Robot Dog is Cast in Theater Production (Exclusive BTS Look)",
+    "link": "https://www.youtube.com/watch?v=TNjSVh-3BMc",
+    "description": "",
+    "author": "CNET",
+    "published": "2025-02-16T13:00:39+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+    "categories": null
+  },
+  {
+    "id": "b5ea70a5-ec7d-4ef5-b5bd-227ac8742962",
+    "title": "Unboxing the ModRetro Chromatic Handheld",
+    "link": "https://www.youtube.com/watch?v=9WMjsI1aNh0",
+    "description": "",
+    "author": "CNET",
+    "published": "2025-02-15T14:00:11+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+    "categories": null
+  },
+  {
+    "id": "dc175128-b8b7-4d4a-9386-cb5c987b9bad",
+    "title": "234: Preparedly Unprepared",
+    "link": "http://relay.fm/analogue/234",
+    "description": "It’s the final countdown…",
+    "author": "Casey Liss and Myke Hurley",
+    "published": "Sat, 15 Feb 2025 10:30:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/traffic.libsyn.com/secure/analogue/analogue234.mp3",
+    "source": "https://www.relay.fm/analogue/feed",
+    "categories": null
+  },
+  {
+    "id": "d0ced521-0534-4a3a-819a-d5ce743aa3df",
+    "title": "233: This Baby Has a Lot of Opinions",
+    "link": "http://relay.fm/analogue/233",
+    "description": "Preparations are ongoing!",
+    "author": "Casey Liss and Myke Hurley",
+    "published": "Sat, 11 Jan 2025 16:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/traffic.libsyn.com/secure/analogue/analogue233.mp3",
+    "source": "https://www.relay.fm/analogue/feed",
+    "categories": null
+  },
+  {
+    "id": "1dd0fbe5-8bc8-4d11-bbf7-5faf76c25a2a",
+    "title": "Turning the Moon into a fuel depot will take a lot of power",
+    "link": "https://arstechnica.com/science/2025/02/turning-the-moon-into-a-fuel-depot-will-take-a-lot-of-power/",
+    "description": "Getting oxygen from regolith takes 24 kWh per kilogram, and we'd need tonnes.",
+    "author": "John Timmer",
+    "published": "Mon, 17 Feb 2025 21:33:53 +0000",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/image-2-1152x648.jpeg",
+    "source": "http://feeds.arstechnica.com/arstechnica/index",
+    "categories": [
+      "Science",
+      "Space",
+      "chemistry",
+      "oxygen",
+      "oxygen production",
+      "Space exploration"
+    ]
+  },
+  {
+    "id": "497582df-64ae-4eb9-9011-26b3a5d3f633",
+    "title": "“NokiApple LumiPhone 1020 SE” merges Windows Phone body with budget iPhone guts",
+    "link": "https://arstechnica.com/gadgets/2025/02/windows-lumiphone-modder-elegantly-fits-2022-iphone-into-2013-nokia-body/",
+    "description": "Maybe Hack-iPhoning is the next wave to replace Hackintoshing.",
+    "author": "Kevin Purdy",
+    "published": "Mon, 17 Feb 2025 20:00:30 +0000",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/lumiaphone-1152x648.jpeg",
+    "source": "http://feeds.arstechnica.com/arstechnica/index",
+    "categories": [
+      "Apple",
+      "Tech",
+      "hackintosh",
+      "iphone se 3",
+      "Lumia 1020",
+      "windows phone"
+    ]
+  },
+  {
+    "id": "61dae5ef-2462-4868-a1aa-94133dd707f7",
+    "title": "592: I Don’t Need To Be Duck Shamed",
+    "link": "http://relay.fm/clockwise/592",
+    "description": "Improvements we’d like in Apple’s Photos app after acquiring Pixelmator and Photomator, thoughts on Apple renaming the Gulf of Mexico to Gulf of America on Maps, a realistic task for a robot, and whether we use AI tools and which ones.",
+    "author": "Dan Moren and Mikah Sargent",
+    "published": "Wed, 12 Feb 2025 18:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/clockwiserelay/clockwise592.mp3",
+    "source": "https://www.relay.fm/clockwise/feed",
+    "categories": null
+  },
+  {
+    "id": "dc88ebe2-cbcf-4d84-9c4b-1ac882b6f9e4",
+    "title": "591: Only Six More Weeks of Tech Podcasts",
+    "link": "http://relay.fm/clockwise/591",
+    "description": "Weird apps Apple should make, the strangest looking tech we own, what will it take for Vision Pro to go mainstream, and the discontinued tech products we'd revive.",
+    "author": "Jason Snell and Dan Moren",
+    "published": "Wed, 05 Feb 2025 19:30:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/clockwiserelay/clockwise591.mp3",
+    "source": "https://www.relay.fm/clockwise/feed",
+    "categories": null
+  },
+  {
+    "id": "c4c1c293-3b83-4064-9fa8-2a17734c0c98",
+    "title": "These Are the Best Smart Devices for Amazon Alexa in 2025",
+    "link": "https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e",
+    "description": "Control smart devices, play music, tell jokes -- Amazon Alexa can do it all and even more with these smart home devices.",
+    "author": "David Priest",
+    "published": "Mon, 17 Feb 2025 21:30:00 +0000",
+    "image": "https://www.cnet.com/a/img/resize/ddb356a01bff8430d3e648290990292ee394b89a/hub/2024/05/10/22323801-b0e2-4bad-90a0-eb2b9a21d21b/amazon-echo-hub-lifestyle-2.jpg?auto=webp\u0026fit=crop\u0026height=614\u0026width=1092",
+    "source": "https://www.cnet.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "04a0f396-2368-47d8-8e51-a1119f8f1430",
+    "title": "Today's NYT Connections: Sports Edition Hints and Answers for Feb. 18, #148",
+    "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-18-148/#ftag=CAD590a51e",
+    "description": "Here are some hints — and the answers — for Connections: Sports Edition No. 148 for Tuesday, Feb. 18.",
+    "author": "Gael Cooper",
+    "published": "Mon, 17 Feb 2025 21:00:09 +0000",
+    "image": "https://www.cnet.com/a/img/resize/c61123fc4178706eff3c6da0a62b7b8cb7d0b132/hub/2024/10/16/ae3b5078-3ced-47c9-91dd-6b5b1b1a5809/connections-sports-edition-6832.jpg?auto=webp\u0026fit=crop\u0026height=614\u0026width=1092",
+    "source": "https://www.cnet.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "0f016417-73aa-4251-a67e-db2e8ad4247a",
+    "title": "We Bought MOVIES on VINYL RECORDS and They’re AMAZING - SelectaVision CED VideoDisc",
+    "link": "https://www.youtube.com/watch?v=nGJW2oBQyNM",
+    "description": "",
+    "author": "Linus Tech Tips",
+    "published": "2025-02-17T18:00:41+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+    "categories": null
+  },
+  {
+    "id": "c2631942-c7a7-42a7-9e4e-a85f68c0503b",
+    "title": "8K Gaming is NEVER Happening",
+    "link": "https://www.youtube.com/watch?v=ksbLl4tckb0",
+    "description": "",
+    "author": "Linus Tech Tips",
+    "published": "2025-02-15T18:11:59+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+    "categories": null
+  },
+  {
+    "id": "6b31aba6-717e-4e92-a5c6-d9029a656f47",
+    "title": "On David Lynch's Revenge of the Jedi",
+    "link": "https://www.benningtonreview.org/adam-golaski",
+    "description": "Comments",
+    "author": "",
+    "published": "Mon, 17 Feb 2025 23:11:33 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
+    "id": "e9ee51e0-24dd-4b80-a93c-bf1fd90f28d3",
+    "title": "I helped fix sleep-wake hangs on Linux with AMD GPUs",
+    "link": "https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/",
+    "description": "Comments",
+    "author": "",
+    "published": "Sun, 16 Feb 2025 21:42:03 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
+    "id": "899995f1-cb14-440c-811b-86e50f79caf6",
+    "title": "Trump Administration Wants to Help Get Professional Misogynist Andrew Tate out of Romania",
+    "link": "https://gizmodo.com/trump-administration-wants-to-help-get-professional-misogynist-andrew-tate-out-of-romania-2000564796",
+    "description": "Tate and his brother are charged with human trafficking, sexual misconduct, and money laundering.",
+    "author": "AJ Dellinger",
+    "published": "Mon, 17 Feb 2025 21:40:05 +0000",
+    "image": "https://gizmodo.com/app/uploads/2023/04/c448dcf1a33a33327996b05ca9dcfdd2.jpg",
+    "source": "https://gizmodo.com/rss",
+    "categories": [
+      "Politics",
+      "Andrew Tate",
+      "Crime",
+      "Donald Trump",
+      "sex trafficking"
+    ]
+  },
+  {
+    "id": "0b2e88a9-2684-4b79-8cb2-05d3db8619ba",
+    "title": "Severance‘s Views on Grief Are Raw, Real, and Dystopian All at Once",
+    "link": "https://gizmodo.com/severance-season-2-grief-death-apple-2000562540",
+    "description": "The Apple TV+ sci-fi show has taken a deep interest in funerals, death, and existential loss.",
+    "author": "Cheryl Eddy",
+    "published": "Mon, 17 Feb 2025 21:00:53 +0000",
+    "image": "https://gizmodo.com/app/uploads/2025/02/Severance-Irv.jpg",
+    "source": "https://gizmodo.com/rss",
+    "categories": [
+      "Television",
+      "Apple TV+",
+      "Severance"
+    ]
+  },
+  {
+    "id": "6c1a8880-7962-451f-ac82-f80b98a04c97",
+    "title": "626: No Longer ery Good",
+    "link": "https://atp.fm/626",
+    "description": "Follow-up: Flighty has other perks (via Stephen Klinck) First reports of Invites use in the wild (via Jim Weinert) You can use a cable with Sidecar (via Matt West) Why not use a Wi-Fi hotspot for “cellar Macs”? Tailgate Tub Why not AirPlay to Sonos speakers? (via Ryan Powers) DeepSeek censorship across models (via Sebastian Raschka) Technical report Has Apple ever… used… Screen Time? (via Jonathan) macOS UNIX certification (via Paulo Pinto) Thom at OSnews Migrate purchases from one Apple Account to another The new JoyCons do act as a mouse An alternative for Apple TV audio (via Nicholas Correnti) /r/TVTooHigh Casey’s new arrivals WS2812B Addressable LED strip Home is Where the Smart Is WLED ESP32 TRMNL Hyperspace updates Reclaim 1️⃣ file for real! Slack An aside about bug reporting Apple ordered to open encrypted user accounts globally for the UK Original Washington Post article BBC coverage ELEGNT: Expressive \u0026 Functional Movement Design for Non-Anthropomorphic Robot Ask ATP: What planning/wireframing tools do we use? (via Glen Lam) Is HFS+ still relevant in 2025? (via Mike Hatfield) QNAP Would John tell us more about the many pieces of detritus associated with files? (via Leon Cowle) Post-show: Restaurant-tech update Dante Ubiquiti Flex (Useful little PoE switch) Ubiquiti Flex 2.5G PoE (2.5G version with 10G uplink) Ubiquiti Switch Flex XG (10G switch) Members-only ATP Overtime: iOS 19 UI rumors and the design language of Apple Invites Jon Prosser’s video Invites \u0026 Sports apps Sponsored by: HelloFresh: America’s #1 Meal Kit. Become a member for ATP Overtime, ad-free episodes, member specials, and our early-release, unedited “bootleg” feed!",
+    "author": "ATP",
+    "published": "Thu, 13 Feb 2025 18:42:34 +0000",
+    "image": "https://atp.fm/audio/oefgy092ylb3zfng/atp626.mp3",
+    "source": "https://atp.fm/rss",
+    "categories": null
+  },
+  {
+    "id": "bc0c018c-545a-4bcf-870f-3b3831e2f5f7",
+    "title": "625: Time and Smoke",
+    "link": "https://atp.fm/625",
+    "description": "Pre-show: BBQ ZZQ Q Follow-up: New immersive video: Man vs. Beast “Historical Commission”? Sonos volume changes are local DeepSeek censorship mechanism (via Matthew Cave) Docker Rosetta (via Brian Reiter) Hypervisor.framework Docker vs. OrbStack (also via Brian Reiter) Sending email Mailhog (via Matt Barlow) Mailpit (via John Caruso) Maildev (via Yves Serrano) ddev.com (via Bram Esposito) Also consider Development Containers (via Dewald Reynecke) Marco’s TV audio sync issues Match Format and Match Dynamic Range (via Marco Arment) Quick Media Switching Previously on ATP… QMS marketing page Demo video (via Nit) Apple Invites App Store Web Competitive (and very similar) app Partiful It’s not great on Android Demo video from Stephen Robles Flighty Sorry, iPad Pornography on the iPhone AltStore’s post Riley’s response AltStore’s second response Jason’s take Ask ATP: Why are Casey and Marco so excited for cellular Macs? (via Matthew Fenselau) Should one use their personal Apple ID on a corporate Mac (via Stephen Swift) Localsend ↪️ Gruber ↪️ Underscore Luna Display Synergy Post-show: Marco had a good weekend. Dante Food Safety Talk Members-only ATP Overtime: Subsequent Sonos Stuff Sonos’ take on the Apple TV? Ventura OS? Sonos has another round of layoffs Letter from interim CEO Tom Conrad Sponsored by: Squarespace: Save 10% off your first purchase of a website or domain using code atp. DeleteMe: Making it quick, easy and safe to remove your personal data online. Wildgrain: Free croissants in every box and $30 off your first box. Become a member for ATP Overtime, ad-free episodes, member specials, and our early-release, unedited “bootleg” feed!",
+    "author": "ATP",
+    "published": "Thu, 06 Feb 2025 22:27:41 +0000",
+    "image": "https://traffic.libsyn.com/atpfm/atp625.mp3",
+    "source": "https://atp.fm/rss",
+    "categories": null
+  },
+  {
+    "id": "bf73b535-4627-4429-b68a-6bae29712d7f",
+    "title": "How to Actually Start Eating Healthy",
+    "link": "https://lifehacker.com/how-to-start-eating-healthy?utm_medium=RSS",
+    "description": "There's no single \"best\" diet, but here are some simple steps that will get you eating healthier than you are now.",
+    "author": "Beth Skwarecki",
+    "published": "Mon, 17 Feb 2025 14:00:00 +0000",
+    "image": "",
+    "source": "https://lifehacker.com/rss",
+    "categories": [
+      "Nutrition"
+    ]
+  },
+  {
+    "id": "4e16427a-62d6-4f65-8f8f-d93aa5266550",
+    "title": "The Dutch Oven Sourdough Recipe I Use Every Week",
+    "link": "https://lifehacker.com/food-drink/dutch-oven-sourdough-recipe?utm_medium=RSS",
+    "description": "The Dutch oven is like a baking stone and a steam keeper all rolled into one.",
+    "author": "Allie Chanthorn Reinmann",
+    "published": "Mon, 17 Feb 2025 13:30:00 +0000",
+    "image": "https://lifehacker.com/imagery/articles/01JM38ZMPD77R61X94T5KVJN9R/images-2.fill.size_2000x1124.v1739571843.jpg",
+    "source": "https://lifehacker.com/rss",
+    "categories": [
+      "Cooking"
+    ]
+  },
+  {
+    "id": "01b1de82-4f4b-459e-a70c-ea18c69a5a84",
+    "title": "Every Phone Should Copy This!",
+    "link": "https://www.youtube.com/watch?v=FmmUAhE6MxU",
+    "description": "",
+    "author": "Marques Brownlee",
+    "published": "2025-02-14T15:43:55+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+    "categories": null
+  },
+  {
+    "id": "10d28d30-0131-4cf5-bae6-6159ed31b267",
+    "title": "PowerBeats Pro 2 Review: Still Better than AirPods!",
+    "link": "https://www.youtube.com/watch?v=6zHFNjK-QiQ",
+    "description": "",
+    "author": "Marques Brownlee",
+    "published": "2025-02-11T15:00:37+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+    "categories": null
+  },
+  {
+    "id": "68bd20f2-a3b1-40cf-a959-34e0577345b2",
+    "title": "470: Terminated",
+    "link": "http://relay.fm/rocket/470",
+    "description": "On the final episode of Rocket, awards are dispensed and reflections are had. Thanks for an amazing 9 years!",
+    "author": "Christina Warren, Brianna Wu, and Simone De Rochefort",
+    "published": "Thu, 28 Dec 2023 21:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/rocketrelay/rocket470.mp3",
+    "source": "https://www.relay.fm/rocket/feed",
+    "categories": null
+  },
+  {
+    "id": "eeb2fa31-868b-47d7-9d34-2356f374fddd",
+    "title": "469: Very Large Online Problems",
+    "link": "http://relay.fm/rocket/469",
+    "description": "A major hack at Insomniac Games begs the question: why does this keep happening to Sony companies? Then, Apple may finally face patent consequences, as it halts sales of its newest Watches in the U.S.",
+    "author": "Christina Warren, Brianna Wu, and Simone De Rochefort",
+    "published": "Thu, 21 Dec 2023 16:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/rocketrelay/rocket469.mp3",
+    "source": "https://www.relay.fm/rocket/feed",
+    "categories": null
+  },
+  {
+    "id": "7c7ad9b3-7936-49d6-8697-e86af89d0ed9",
+    "title": "Chase Will Soon Block Zelle Payments To Sellers on Social Media",
+    "link": "https://tech.slashdot.org/story/25/02/17/2133224/chase-will-soon-block-zelle-payments-to-sellers-on-social-media?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader shares a report: JPMorgan Chase Bank (Chase) will soon start blocking Zelle payments to social media contacts to combat a significant rise in online scams utilizing the service for fraud. Zelle is a highly popular digital payments network that allows users to transfer money quickly and securely between bank accounts. It is also integrated into the mobile apps of many banks in the United States, allowing for almost instant transfers without requiring cash or checks but lacking one crucial feature: purchase protection. Read more of this story at Slashdot.",
+    "author": "msmash",
+    "published": "2025-02-17T21:32:00+00:00",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+    "categories": [
+      "technology"
+    ]
+  },
+  {
+    "id": "7dffa09e-defa-4df0-8a5c-2fa471fcb109",
+    "title": "The 'White Collar' Recession is Pummeling Office Workers",
+    "link": "https://slashdot.org/story/25/02/17/1916201/the-white-collar-recession-is-pummeling-office-workers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "White-collar workers are facing their deepest hiring slump in a decade, with one in four U.S. job losses last year hitting professional workers, according to S\u0026P Global. A 2024 Vanguard report shows hiring for employees earning over $96,000 has fallen to its lowest level since 2014. The downturn has been particularly severe for job seekers â\" 40% of applicants failed to secure even a single interview in 2024, according to a survey of 2,000 respondents by the American Staffing Association and The Harris Poll. Technology and high interest rates appear to be driving the decline, with companies reassessing their workforce needs amid AI adoption and economic pressures. While hiring remains steady for those earning under $55,000 annually, the market continues to be especially challenging for mid-career professionals and higher earners. Read more of this story at Slashdot.",
+    "author": "msmash",
+    "published": "2025-02-17T19:15:00+00:00",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+    "categories": [
+      "business"
+    ]
+  },
+  {
+    "id": "ad20dc26-844e-44a0-a4cd-26489eccffc7",
+    "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
+    "link": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
+    "description": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content creation and making creators' lives easier.Why You Need These AI Tools in 2025Content creation has become more demanding than ever. Whether you're a social media influencer, marketer, or business owner, keeping up with the constant need for fresh, engaging content can be overwhelming. That's where AI tools come in – they're not just fancy tech, they're your secret weapon for creating better content faster.Let's Dive Into the Top 10 AI Tools for 20251. ChatGPT: Content Ideation and ScriptwritingWhat Makes It Special: ChatGPT has evolved into a comprehensive content creation assistant by combining advanced language understanding with specialized content optimization features. Its ability to generate, edit, and optimize content while maintaining brand voice and industry expertise makes it an essential tool for creators who need to produce high-quality written content at scale.Key Features:Advanced content generationSEO optimizationBrand voice maintenanceResearch capabilitiesMulti-format adaptationPricing:Free tier availablePlus: $20/monthPro: $200/monthPerfect For: Content writers, marketers, and businesses needing consistent, high-quality written content.2. Canva Magic Studio: Visual Design and Social Media Content CreationWhat Makes It Special: Canva Magic Studio has transformed the graphic design landscape by combining its user-friendly interface with powerful AI capabilities. The platform's ability to understand design principles and automatically generate on-brand content while maintaining professional aesthetics makes it accessible for beginners while providing enough sophistication for professional designers.Key Features:AI design generationBrand kit integrationMagic resizeAnimation toolsTemplate libraryPricing:Free tier availablePro: $6.50/user/monthTeams: $5/user/monthPerfect For: Small businesses, social media managers, and anyone needing quick, professional-looking designs.3. RunwayML : AI Video GeneratorWhat Makes It Special: RunwayML stands out as the ultimate video creation powerhouse by combining professional-grade effects with user-friendly AI technology. Its game-changing ability to manipulate video content – from changing weather effects with a text prompt to removing objects seamlessly in real-time – makes it indispensable for creators who want to produce high-quality video content without getting bogged down by technical complexities.Key Features:Advanced video generation \u0026 editingReal-time visual effectsSmart motion trackingGreen screen effects without actual green screenAI-powered editing suitePricing:Free tier availableStandard: $12/monthPro: $28/monthUnlimited: $76/monthEnterprise: Custom PricePerfect For: Video creators, YouTubers, and social media managers who want to create professional-quality videos quickly. 4. MidJourney: AI Art GenerationWhat Makes It Special: Midjourney V6 has redefined AI image generation by mastering the nuances of professional photography and artistic style. Its ability to understand and execute complex creative directions – from specific lighting conditions to branded visual styles – while maintaining consistent quality across multiple generations makes it the go-to tool for creators who need stunning visuals that align perfectly with their brand identity.Key Features:Photorealistic image generationAdvanced style controlQuick generation timeCommercial usage rightsStrong community supportPricing:Basic: $10/monthStandard: $30/monthPro: $60/monthMega: $120/monthPerfect For: Social media managers, digital marketers, and anyone needing professional-quality visuals consistently.5. Synthesia: AI Avatar-Based Video CreationWhat Makes It Special: Synthesia has transformed video creation by making it possible to create professional-looking AI avatar videos in minutes. Its ability to generate natural-looking presentations in multiple languages with synchronized lip movements and gestures makes it invaluable for creators who need to produce video content at scale without the traditional filming process.Key Features:AI avatar Video creationMulti-language supportCustom avatar optionsProfessional templatesScript to video conversionPricing:Free tier availableStarter: $18/monthCreator: $64/monthEnterprise: Custom pricingPerfect For: Businesses and educators creating training videos, presentations, and multilingual content.6. Descript: Podcast and Video Editing with Transcription FeaturesWhat Makes It Special: Descript has transformed audio and video editing by making it as simple as editing a text document. Its innovative approach to media editing, combined with powerful AI features like automatic transcription and filler word removal, makes professional-quality editing accessible to creators of all skill levels.Key Features:Text-based video editingAutomatic transcriptionFiller word removalScreen recordingCollaborative editingPricing:Hobbyist: $12/monthCreator: $24/monthBusiness: $40/monthEnterprise: Custom pricingPerfect For: Podcasters, video creators, and teams needing efficient audio/video editing solutions.7. ElevenLabs: AI VOICE GENERATIONWhat Makes It Special: ElevenLabs has revolutionized voice synthesis by achieving unprecedented levels of natural speech quality and emotional expression. Its ability to clone voices accurately and generate multiple languages with proper accents and inflections makes it the ultimate tool for creators who need professional-quality voiceovers without the traditional recording process or voice actor limitations.Key Features:Ultra-realistic voice synthesisVoice cloning capabilityMulti-language supportEmotion controlReal-time generationPricing:Free tier availableStarter: $5/monthCreator: $11/monthPro: $99/monthScale: $330/monthBusiness: $1321/monthEnterprise: Custom pricingPerfect For: Podcasters, video creators, and content creators needing professional voiceovers in multiple languages.8. Tribescaler: Viral Content and Headline OptimizationWhat Makes It Special: Tribescaler brings a scientific approach to viral content creation by combining trend analysis with content optimization. Its powerful AI engine analyzes successful content patterns across platforms and provides actionable insights to help creators craft content that's more likely to go viral, while maintaining authenticity and audience engagement.Key Features:Viral content predictionTrend analysisContent optimizationPerformance trackingMulti-platform schedulingPricing:Free tier availablePro: $49/monthPerfect For: Content creators and social media managers focused on maximizing reach and engagement.9. Clickable: Automated Ad Creation and OptimizationWhat Makes It Special: Clickable revolutionizes ad creation by seamlessly blending data-driven insights with creative automation. Its ability to analyze brand assets and automatically generate platform-optimized ad variations while maintaining brand voice transforms the tedious process of ad creation into a streamlined, results-driven workflow that consistently delivers high-performing content.Key Features:Automated ad creationMulti-platform optimizationBuilt-in A/B testingPerformance analyticsTemplate libraryPerfect For: Digital marketers and businesses looking to scale their ad production efficiently.10. Copy AI What Makes It Special: CopyAI has established itself as a powerhouse in AI-powered copywriting by offering specialized content generation for various marketing formats. Its sophisticated understanding of marketing psychology and brand voice, combined with its ability to generate compelling copy across multiple formats and industries, makes it invaluable for marketers and content creators who need to produce engaging, conversion-focused content at scale.Key Features:Advanced marketing copy generationMultiple content type templatesBrand voice customizationMultilingual supportA/B testing variationsPricing:Free tier availablePro: $49/monthAdvanced: $249/monthEnterprise: Custom pricingPerfect For: Marketing teams, copywriters, and businesses needing high-converting marketing copy across multiple channels.ConclusionThe AI tools listed here are revolutionizing the content creation landscape in 2025, making it easier than ever to produce high-quality, engaging, and impactful content. By integrating these tools into your workflow, you can save time, unleash your creativity, and achieve better results.AI doesn't replace creativity; it amplifies it. As a content creator, your unique voice and vision are irreplaceable. These tools serve as enablers, helping you focus on what you do best—creating. Explore, experiment, and innovate. The future of content creation is here, and it's brimming with possibilities.Embrace these technologies, stay ahead of the curve, and watch your creative potential soar. The only limit is your imagination!Note: All features and pricing information are subject to change. Please verify current details with the respective platforms, Also this article contain affiliate links which means we make a small comission if yo buy any premium plan from our linksPricing updated on 01/02/ 2025",
+    "author": "Unknown",
+    "published": "Thu, 02 Jan 2025 09:26:00 +0000",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge5QgwLKWbavTUhIedQLI79z5BGD4h0ZoH4YMK6bGBL6fY4Je8R3GZurMZaJmtYirFS6pS-GgZD3xFAqfln8w8faEY2iDehndQNeez57DoiDsgYFJrIwMOLBjzcZiOJrqYDktm6pmRkwtprJChag0yQoeEZx1Pa_eKnt3kKzz69f-FSPWu_JXQxFq5Z8WZ/s16000/Blue%20Purple%20Futuristic%20Modern%203D%20Tech%20Company%20Business%20Presentation.jpg",
+    "source": "http://feeds.feedburner.com/TechCrunch",
+    "categories": null
+  },
+  {
+    "id": "feb3ce94-ac33-45e5-bddc-90d0373b0014",
+    "title": "LimeWire AI Studio Review 2023: Details, Pricing \u0026 Features",
+    "link": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
+    "description": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude of existing AI tools but also brings a fresh approach to content generation. LimeWire not only empowers users to create AI content but also provides creators with creative ways to share and monetize their creations.As we explore LimeWire, our aim is to uncover its features, benefits for creators, and the exciting possibilities it offers for AI content generation. This platform presents an opportunity for users to harness the power of AI in image creation, all while enjoying the advantages of a free and accessible service.Let's unravel the distinctive features that set LimeWire apart in the dynamic landscape of AI-powered tools, understanding how creators can leverage its capabilities to craft unique and engaging AI-generated images.IntroductionLimeWire, a name once associated with the notorious file-sharing tool from the 2000s, has undergone a significant transformation. The LimeWire we discuss today is not the file-sharing application of the past but has re-emerged as an entirely new entity—a cutting-edge AI content publishing platform.This revamped LimeWire invites users to register and unleash their creativity by crafting original AI content, which can then be shared and showcased on the LimeWire Studio. Notably, even acclaimed artists and musicians, such as Deadmau5, Soulja Boy, and Sean Kingston, have embraced this platform to publish their content in the form of NFT music, videos, and images.Beyond providing a space for content creation and sharing, LimeWire introduces monetization models to empower users to earn revenue from their creations. This includes avenues such as earning ad revenue and participating in the burgeoning market of Non-Fungible Tokens (NFTs). As we delve further, we'll explore these monetization strategies in more detail to provide a comprehensive understanding of LimeWire's innovative approach to content creation and distribution.LimeWire Studio welcomes content creators into its fold, providing a space to craft personalized AI-focused content for sharing with fans and followers. Within this creative hub, every piece of content generated becomes not just a creation but a unique asset—ownable and tradable. Fans have the opportunity to subscribe to creators' pages, immersing themselves in the creative journey and gaining ownership of digital collectibles that hold tradeable value within the LimeWire community. Notably, creators earn a 2.5% royalty each time their content is traded, adding a rewarding element to the creative process.The platform's flexibility is evident in its content publication options. Creators can choose to share their work freely with the public or opt for a premium subscription model, granting exclusive access to specialized content for subscribers.LimeWire AI StudioAs of the present moment, LimeWire focuses on AI Image Generation, offering a spectrum of creative possibilities to its user base. The platform, however, has ambitious plans on the horizon, aiming to broaden its offerings by introducing AI music and video generation tools in the near future. This strategic expansion promises creators even more avenues for expression and engagement with their audience, positioning LimeWire Studio as a dynamic and evolving platform within the realm of AI-powered content creation.AI Image Generation ToolsThe LimeWire AI image generation tool presents a versatile platform for both the creation and editing of images. Supporting advanced models such as Stable Diffusion 2.1, Stable Diffusion XL, and DALL-E 2, LimeWire offers a sophisticated toolkit for users to delve into the realm of generative AI art.Much like other tools in the generative AI landscape, LimeWire provides a range of options catering to various levels of complexity in image creation. Users can initiate the creative process with prompts as simple as a few words or opt for more intricate instructions, tailoring the output to their artistic vision. What sets LimeWire apart is its seamless integration of different AI models and design styles. Users have the flexibility to effortlessly switch between various AI models, exploring diverse design styles such as cinematic, digital art, pixel art, anime, analog film, and more. Each style imparts a distinctive visual identity to the generated AI art, enabling users to explore a broad spectrum of creative possibilities.The platform also offers additional features, including samplers, allowing users to fine-tune the quality and detail levels of their creations. Customization options and prompt guidance further enhance the user experience, providing a user-friendly interface for both novice and experienced creators. if (typeof atAsyncOptions !== 'object') var atAsyncOptions = []; atAsyncOptions.push({ 'key': '504b591a28719b1270e09aa4045e24ab', 'format': 'js', 'async': true, 'container': 'atContainer-504b591a28719b1270e09aa4045e24ab', 'params' : {} }); var script = document.createElement('script'); script.type = \"text/javascript\"; script.async = true; script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/504b591a28719b1270e09aa4045e24ab/invoke.js'; document.getElementsByTagName('head')[0].appendChild(script); Excitingly, LimeWire is actively developing its proprietary AI model, signaling ongoing innovation and enhancements to its image generation capabilities. This upcoming addition holds the promise of further expanding the creative horizons for LimeWire users, making it an evolving and dynamic platform within the landscape of AI-driven art and image creation.Sign Up Now To Get Free CreditsAutomatically Mint Your Content As NFTsUpon completing your creative endeavor on LimeWire, the platform allows you the option to publish your content. An intriguing feature follows this step: LimeWire automates the process of minting your creation as a Non-Fungible Token (NFT), utilizing either the Polygon or Algorand blockchain. This transformative step imbues your artwork with a unique digital signature, securing its authenticity and ownership in the decentralized realm.Creators on LimeWire hold the power to decide the accessibility of their NFT creations. By opting for a public release, the content becomes discoverable by anyone, fostering a space for engagement and interaction. Furthermore, this choice opens the avenue for enthusiasts to trade the NFTs, adding a layer of community involvement to the artistic journey.Alternatively, LimeWire acknowledges the importance of exclusivity. Creators can choose to share their posts exclusively with their premium subscribers. In doing so, the content remains a special offering solely for dedicated fans, creating an intimate and personalized experience within the LimeWire community. This flexibility in sharing options emphasizes LimeWire's commitment to empowering creators with choices in how they connect with their audience and distribute their digital creations.After creating your content, you can choose to publish the content. It will automatically mint your creation as an NFT on the Polygon or Algorand blockchain. You can also choose whether to make it public or subscriber-only.If you make it public, anyone can discover your content and even trade the NFTs. If you choose to share the post only with your premium subscribers, it will be exclusive only to your fans.Earn Revenue From Your ContentAdditionally, you can earn ad revenue from your content creations as well.When you publish content on LimeWire, you will receive 70% of all ad revenue from other users who view your images, music, and videos on the platform.This revenue model will be much more beneficial to designers. You can experiment with the AI image and content generation tools and share your creations while earning a small income on the side.LMWR TokensThe revenue you earn from your creations will come in the form of LMWR tokens, LimeWire’s own cryptocurrency.Your earnings will be paid every month in LMWR, which you can then trade on many popular crypto exchange platforms like Kraken, ByBit, and UniSwap.You can also use your LMWR tokens to pay for prompts when using LimeWire generative AI tools.Pricing PlansYou can sign up to LimeWire to use its AI tools for free. You will receive 10 credits to use and generate up to 20 AI images per day. You will also receive 50% of the ad revenue share. However, you will get more benefits with premium plans.Basic plan: For $9.99 per month, you will get 1,000 credits per month, up to 2 ,000 image generations, early access to new AI models, and 50% ad revenue shareAdvanced plan: For $29 per month, you will get 3750 credits per month, up to 7500 image generations, early access to new AI models, and 60% ad revenue sharePro plan: For $49 per month, you will get 5,000 credits per month, up to 10,000 image generations, early access to new AI models, and 70% ad revenue share if (typeof atAsyncOptions !== 'object') var atAsyncOptions = []; atAsyncOptions.push({ 'key': '2060cf2f0491455d459b6b7a0ee275f3', 'format': 'js', 'async': true, 'container': 'atContainer-2060cf2f0491455d459b6b7a0ee275f3', 'params' : {} }); var script = document.createElement('script'); script.type = \"text/javascript\"; script.async = true; script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/2060cf2f0491455d459b6b7a0ee275f3/invoke.js'; document.getElementsByTagName('head')[0].appendChild(script); Pro Plus plan: For $99 per month, you will get 11,250 credits per month, up to 2 2,500 image generations, early access to new AI models, and 70% ad revenue shareWith all premium plans, you will receive a Pro profile badge, full creation history, faster image generation, and no ads.Sign Up Now To Get Free CreditsConclusionIn conclusion, LimeWire emerges as a democratizing force in the creative landscape, providing an inclusive platform where anyone can unleash their artistic potential and effortlessly share their work. With the integration of AI, LimeWire eliminates traditional barriers, empowering designers, musicians, and artists to publish their creations and earn revenue with just a few clicks.The ongoing commitment of LimeWire to innovation is evident in its plans to enhance generative AI tools with new features and models. The upcoming expansion to include music and video generation tools holds the promise of unlocking even more possibilities for creators. It sparks anticipation about the diverse and innovative ways in which artists will leverage these tools to produce and publish their own unique creations.For those eager to explore, LimeWire's AI tools are readily accessible for free, providing an opportunity to experiment and delve into the world of generative art. As LimeWire continues to evolve, creators are encouraged to stay tuned for the launch of its forthcoming AI music and video generation tools, promising a future brimming with creative potential and endless artistic exploration",
+    "author": "Unknown",
+    "published": "Tue, 12 Dec 2023 16:10:00 +0000",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjpMlV4umM2-ZY3vAwynTzCWwbk5_pjVyGQqGGftHzeOmpTyc4aYApxfanU29DyPfjUZz5ZhhDojKe8mpYUG6tcEezDQrg1NTDr8XOBequWD3LOpUKpea4AiaB5mhPpYZSxtk2lRfHnCSNhyphenhyphenXm53l80cTMNA_KtCMfDd9PQNzYWp6A4ylQJtUy_-7GpWsF/w640-h354/limewire-studio.jpg",
+    "source": "http://feeds.feedburner.com/TechCrunch",
+    "categories": [
+      "Ai"
+    ]
+  },
+  {
+    "id": "f7538b86-a23f-44bc-b502-094fc5440b01",
+    "title": "How much access does Elon Musk have? Listen to Decoder wherever you get your podcasts.",
+    "link": "https://www.youtube.com/watch?v=_6LtPwBJKkU",
+    "description": "",
+    "author": "The Verge",
+    "published": "2025-02-15T15:00:44+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+    "categories": null
+  },
+  {
+    "id": "39e4dfa0-0b43-41fd-a80d-3604444bc9fa",
+    "title": "Syntilay used generative AI to build these 3D printed shoes, which go for $150 online.",
+    "link": "https://www.youtube.com/watch?v=ryIQCU_55WM",
+    "description": "",
+    "author": "The Verge",
+    "published": "2025-02-14T15:01:29+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+    "categories": null
+  },
+  {
+    "id": "b47d9fbe-068d-4790-a46a-72206879c5bf",
+    "title": "Spotify’s HiFi streaming could finally arrive this year",
+    "link": "https://www.theverge.com/news/614091/spotify-music-pro-hifi-streaming-service-release-date-2025",
+    "description": "It’s been nearly four years since Spotify announced a HiFi tier for its music streaming service that would support lossless audio. That wait could end this year, Bloomberg reports, as the company works to finalize details, including streaming rights. Spotify could charge as much as $5 or $6 extra per month for the new tier […]",
+    "author": "Quentyn Kennemer",
+    "published": "2025-02-17T16:18:13-05:00",
+    "image": "",
+    "source": "https://www.theverge.com/rss/index.xml",
+    "categories": [
+      "Apps",
+      "Entertainment",
+      "Music",
+      "News",
+      "Spotify",
+      "Streaming",
+      "Tech"
+    ]
+  },
+  {
+    "id": "ff47f466-0489-41c4-b753-3725b963c4a9",
+    "title": "Trump’s first 100 days: all the news affecting the tech industry",
+    "link": "https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news",
+    "description": "President Donald Trump kicked off the first day of his presidency by signing a flurry of executive actions, including halting enforcement of the TikTok ban and rolling back the Biden administration’s artificial intelligence order. Having already run the country once before, Trump entered the presidency with the goal of hitting the ground running, having already […]",
+    "author": "Verge Staff",
+    "published": "2025-02-17T15:05:42-05:00",
+    "image": "",
+    "source": "https://www.theverge.com/rss/index.xml",
+    "categories": [
+      "News",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
+    "id": "f93b242b-aacd-49f6-84b3-8b9d69a89a75",
+    "title": "Taoiseach visits Google to celebrate the future of Ireland’s tech talent",
+    "link": "https://blog.google/around-the-globe/google-europe/taoiseach-visits-google-to-celebrate-the-future-of-irelands-tech-talent/",
+    "description": "39 students in Ireland from underrepresented backgrounds have been awarded scholarships to study STEM courses, with Google.org support.",
+    "author": "Jessica McCarthyVice PresidentEngineeringGoogle",
+    "published": "Fri, 14 Feb 2025 09:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2025-02-14_6.51.13_A.max-600x600.format-webp.webp",
+    "source": "https://www.blog.google/rss/",
+    "categories": [
+      "Google in Europe",
+      "Creating opportunity",
+      "AI"
+    ]
+  },
+  {
+    "id": "378425cb-005f-4d55-904f-11883fb5f6a5",
+    "title": "Reference past chats for more tailored help with Gemini Advanced.",
+    "link": "https://blog.google/feed/gemini-referencing-past-chats/",
+    "description": "Starting today, Gemini can now recall your past chats to provide more helpful responses. Whether you’re asking a question about something you’ve already discussed, or as…",
+    "author": "Dave CitronSenior Director, Product ManagementGemini app",
+    "published": "Thu, 13 Feb 2025 20:20:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiSnippet_1.max-600x600.format-webp.webp",
+    "source": "https://www.blog.google/rss/",
+    "categories": [
+      "Gemini App"
+    ]
+  },
+  {
+    "id": "9323999f-ce24-4170-8323-431e09616428",
+    "title": "TWiT 1019: Nickel for Your Thoughts - DOGE Hacked, IRS Supercomputer, Alexa Delayed",
+    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1019",
+    "description": "TikTok is back on the App Store and the Play Store in the U.S. Elon Musk's DOGE Website Is Already Getting Hacked IRS Acquiring Nvidia Supercomputer Elon's bid for OpenAI is about making the for-profit transition as painful as possible for Altman, Intel has spoken with the Trump administration and TSMC over the past few months about a deal for TSMC to take control of Intel's foundry business Broadcom Joins TSMC In Considering Deals For Parts of Intel Arm to start making server CPUs in-house Thomson Reuters wins the first major US AI copyright ruling against fair use, in a case filed in May 2020 against legal research AI startup Ross Intelligence Perplexity just made AI research crazy cheap—what that means for the industry YouTube Surprise: CEO Says TV Overtakes Mobile as \"Primary Device\" for Viewing Google Maps now shows the 'Gulf of America' Scarlett Johansson Urges Government to Limit A.I. After Faked Video of Her Opposing Kanye West Goes Viral Google CEO Sees 'Useful' Quantum Computers 5 to 10 Years Away Trump says he has directed US Treasury to stop minting new pennies, citing rising cost Nearly 10 years after Data and Goliath, Bruce Schneier says: Privacy's still screwed Amazon's revamped Alexa might launch over a month after its announcement event Meta's Brain-to-Text AI Host: Leo Laporte Guests: Wesley Faulkner, Iain Thomson, and Brian McCullough Download or subscribe to This Week in Tech at https://twit.tv/shows/this-week-in-tech Join Club TWiT for Ad-Free Podcasts! Support what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: https://twit.tv/clubtwit Sponsors: shopify.com/twit oracle.com/twit zscaler.com/security ziprecruiter.com/twit joindeleteme.com/twit promo code TWIT",
+    "author": "TWiT",
+    "published": "Sun, 16 Feb 2025 18:26:06 PST",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1019/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1019.mp3",
+    "source": "https://feeds.twit.tv/twit.xml",
+    "categories": [
+      "News",
+      "Tech News",
+      "TWiT",
+      " This Week in Tech",
+      " Leo Laporte",
+      " tiktok",
+      " Doge",
+      " Apple",
+      " Android",
+      " irs",
+      " nvidia",
+      " blackwell",
+      " elon musk",
+      " openAI",
+      " Grok",
+      " intel",
+      " TSMC",
+      " ARM",
+      " thomson reuters",
+      " ai",
+      " ross intelligence",
+      " Google Maps",
+      " gulf of america",
+      " gulf of mexico",
+      " Scarlett Johansson",
+      " Deepfakes"
+    ]
+  },
+  {
+    "id": "044baec0-bb3b-4596-9500-1a29a4442591",
+    "title": "TWiT 1018: Self-Driving Government - Meta Torrents Books, Sideloading TikTok, Xbox Sales",
+    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1018",
+    "description": "UK orders Apple to give it access to encrypted cloud data Google rolls back DEI efforts, including hiring goals Brits Want to Ban 'Smarter Than Human' AI Chiefs-Eagles Super Bowl 'Trades' Pit State Regulators Against Feds Google pulls incorrect Gouda stat from its AI Super Bowl ad \"Torrenting from a corporate laptop doesn't feel right\": Meta emails unsealed Amazon's AI revamp of Alexa assistant nears unveiling Google starts testing new Search 'AI Mode' internally – Here's an early look at it In Upholding The TikTok Ban, SCOTUS Compromises, And With It The First Amendment TikTok advises Android users in the US to sideload the app In Other SCOTUS First Amendment News, It Also Just Heard Oral Argument Over Yet Another Texas Law Censoring The Internet Teen on Musk's DOGE Team Graduated from 'The Com' CISA staffers offered deferred resignations, extending broader cybersecurity fears Elon Musk Ally Tells Staff 'AI-First' Is the Future of Key Government Agency German civil activists win victory in election case against Musk's X Trump Ends Legal Challenge Over Twitter Ban After Jan. 6 Riot Crypto-stealing apps found in Apple App Store for the first time Apple's Long-Awaited Overhaul of iPhone SE Nears Release Former iOS engineer sued by Apple issues apology as lawsuit is dismissed PS5 sales more than twice Xbox Series X/S reveals Take-Two by accident Host: Leo Laporte Guests: Daniel Rubino, Cathy Gellis, and Lisa Schmeiser Download or subscribe to This Week in Tech at https://twit.tv/shows/this-week-in-tech Join Club TWiT for Ad-Free Podcasts! Support what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: https://twit.tv/clubtwit Sponsors: threatlocker.com for This Week in Tech coda.io/twit bitwarden.com/twit expressvpn.com/twit NetSuite.com/TWIT",
+    "author": "TWiT",
+    "published": "Sun, 09 Feb 2025 18:34:41 PST",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1018/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1018.mp3",
+    "source": "https://feeds.twit.tv/twit.xml",
+    "categories": [
+      "News",
+      "Tech News",
+      "Technology",
+      " TWiT",
+      " This Week in Tech",
+      " Leo Laporte",
+      " UK",
+      " Apple",
+      " Google",
+      " dei",
+      " ai",
+      " superbowl",
+      " chiefs",
+      " eagles",
+      " torrent",
+      " Meta",
+      " amazon",
+      " alexa",
+      " tiktok",
+      " SCOTUS",
+      " elon musk",
+      " Doge",
+      " germany",
+      " crypto",
+      " iphone se",
+      " PS5",
+      " xbox",
+      " nintendo",
+      " Microsoft"
+    ]
+  },
+  {
+    "id": "0e145210-e916-4d3d-aada-1756121b56e0",
+    "title": "South Korea blocks DeepSeek access, citing privacy laws",
+    "link": "https://mashable.com/article/south-korea-blocks-deepseek",
+    "description": "South Korea has blocked the downloading of DeepSeek due to data protection concerns, following other countries and government bodies that have made similar moves to restrict access.",
+    "author": "",
+    "published": "Mon, 17 Feb 2025 19:37:13 +0000",
+    "image": "https://helios-i.mashable.com/imagery/articles/00xlDeqQydlfPWChTfsZqNr/hero-image.jpg",
+    "source": "http://feeds.mashable.com/Mashable",
+    "categories": null
+  },
+  {
+    "id": "741a26fa-d587-4787-afb1-33a18717a037",
+    "title": "Reddit paywalls to hit this year as paid subreddits confirmed",
+    "link": "https://mashable.com/article/reddit-paywalls-2025-paid-subreddits-confirmed",
+    "description": "In a prerecorded AMA, Reddit CEO Steve Huffman confirmed plans for paywalled subreddits and other changes to monetize the platform.",
+    "author": "",
+    "published": "Mon, 17 Feb 2025 17:36:10 +0000",
+    "image": "https://helios-i.mashable.com/imagery/articles/00I1EzifyW7hM07cimD0U20/hero-image.jpg",
+    "source": "http://feeds.mashable.com/Mashable",
+    "categories": null
+  },
+  {
+    "id": "121263c3-251c-42cd-b2f8-c43ed19f72e5",
+    "title": "iPhone 16E Hands On with Demo Units (iPhone SE 2025)",
+    "link": "https://www.youtube.com/watch?v=1WYRgs14itQ",
+    "description": "",
+    "author": "Unbox Therapy",
+    "published": "2025-02-15T17:00:01+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
+    "categories": null
+  },
+  {
+    "id": "c134d2d4-c9c8-4428-bc3f-19346c621a66",
+    "title": "Xiaomi 14T and 14T Pro with Google Gemini",
+    "link": "https://www.youtube.com/watch?v=Ut4fAe7sC84",
+    "description": "",
+    "author": "Unbox Therapy",
+    "published": "2025-02-14T17:15:09+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
+    "categories": null
+  },
+  {
+    "id": "845b1bdd-8174-4b3d-b986-a25d48e149a0",
+    "title": "Netherlands a rare bright spot as EU struggles to make and keep unicorns",
+    "link": "https://thenextweb.com/news/netherlands-a-bright-spot-but-eu-unicorns-falling-behind-us",
+    "description": "The US continues to hog the global herd of unicorns, dwarfing the EU in both the number and total valuation of billion-dollar startups. However, the Netherlands provides a minor bright spot, according to a new report by PwC.    More than 3,000 companies worldwide have reached unicorn status since 2013, collectively reaching a staggering valuation of $27 trillion, according to the study. The US accounts for 55% of these and a whopping 75% of their total valuation.   In stark contrast, the EU has contributed just 9% of billion-dollar startups and generated 4% of global unicorn value in that timeframe.  Despite the…This story continues at The Next Web",
+    "author": "Siôn Geschwindt",
+    "published": "Mon, 17 Feb 2025 15:54:20 +0000",
+    "image": "https://img-cdn.tnwcdn.com/image?fit=796%2C417\u0026url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F05%2FUntitled-design-1.jpg\u0026signature=7fb1e4ba40510fadd27c79b63a410b9d",
+    "source": "https://thenextweb.com/feed/",
+    "categories": [
+      "Startups and technology",
+      "Government and policy",
+      "Ecosystems",
+      "Investors and funding"
+    ]
+  },
+  {
+    "id": "eab59969-56e5-4b85-b7d1-268d7df0c021",
+    "title": "How VCs are killing climate tech — and how they can save it",
+    "link": "https://thenextweb.com/news/how-vcs-are-killing-climate-tech",
+    "description": "Sustainability tech has been all the buzz in the last few years. Investors are hunting promising ESG businesses, governments are pushing ambitious legislation, and companies are getting on board to adopt new solutions. Sustainability funding is projected to reach unprecedented levels, with BCG Henderson Institute estimating accumulated global investment to achieve net zero to hit $75 trillion by 2050.  And yet, behind the curtain, the picture isn’t quite as rosy. According to Statista, VC investment in sustainability and climate tech has been steadily declining since 2021. While AI startups often manage to secure funding rounds within mere weeks, sustainability-focused companies…This story continues at The Next Web",
+    "author": "Olena Petrosyuk",
+    "published": "Mon, 17 Feb 2025 09:19:18 +0000",
+    "image": "https://img-cdn.tnwcdn.com/image?fit=796%2C417\u0026url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F02%2FUntitled-design-3.jpg\u0026signature=6af9507dfff04dd5d7a109bcf95d7d1d",
+    "source": "https://thenextweb.com/feed/",
+    "categories": [
+      "Insider",
+      "Startups and technology",
+      "Sustainability",
+      "Next Featured",
+      "Investors and funding"
+    ]
+  },
+  {
+    "id": "4303dbd4-de0f-4b46-ace7-fbc13616e0ac",
+    "title": "An Interview with Uber CEO Dara Khosrowshahi About Aggregation and Autonomy",
+    "link": "https://stratechery.com/2025/an-interview-with-uber-ceo-dara-khosrowshahi-about-aggregation-and-autonomy/",
+    "description": "An interview with Uber CEO Dara Khosrowshahi about taking over Uber in crisis, managing dynamic marketplaces, and the value chain for autonomous vehicle ride-sharing.",
+    "author": "Ben Thompson",
+    "published": "Thu, 13 Feb 2025 10:52:26 +0000",
+    "image": "",
+    "source": "http://stratechery.com/feed/",
+    "categories": [
+      "Daily Update",
+      "Interviews"
+    ]
+  },
+  {
+    "id": "706442e2-44be-46b8-8582-4f2d093fb796",
+    "title": "Super Bowl Ratings, Netflix to Bid on F1?, Thomson Reuters v. Ross Intelligence",
+    "link": "https://stratechery.com/2025/super-bowl-ratings-netflix-to-bid-on-f1-thomson-reuters-v-ross-intelligence/",
+    "description": "The Super Bowl drew record ratings even if it wasn't a big deal on social media; the NBA has the opposite problem. Is consolidation of media the way? Then, a new court case about AI.",
+    "author": "Ben Thompson",
+    "published": "Wed, 12 Feb 2025 10:57:28 +0000",
+    "image": "",
+    "source": "http://stratechery.com/feed/",
+    "categories": [
+      "Daily Update"
+    ]
+  }
+]

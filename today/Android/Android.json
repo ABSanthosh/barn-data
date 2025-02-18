@@ -1,0 +1,492 @@
+[
+  {
+    "id": "f64aebb4-a96f-49f0-8afb-ecb5b21cbeff",
+    "title": "6 reasons CPU cores don't matter anymore",
+    "link": "https://www.xda-developers.com/cpu-cores-dont-matter-anymore/",
+    "description": "The number of CPU cores really doesn't matter in the larger scheme of things.",
+    "author": "Tanveer Singh",
+    "published": "Tue, 18 Feb 2025 01:00:16 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/amd-ryzen-7-9800x3d-ontop-angle.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "CPU",
+      "AMD",
+      "intel"
+    ]
+  },
+  {
+    "id": "65349455-a8f1-435c-9b2a-30ef68e27bed",
+    "title": "10 mistakes you're making when you're using a browser",
+    "link": "https://www.xda-developers.com/mistakes-youre-making-when-using-browser/",
+    "description": "You can never be too safe on the internet. Follow these tips for a better browser experience.",
+    "author": "Claudiu Andone",
+    "published": "Tue, 18 Feb 2025 00:00:18 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/11/pxl_20231109_203044504.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Software and Services",
+      "Browser",
+      "Guide"
+    ]
+  },
+  {
+    "id": "44bd7c1e-5223-4b23-8923-92f805bd33c6",
+    "title": "Android XR: Google’s plan to dominate the XR market. #AndroidXR #VirtualReality #shorts",
+    "link": "https://www.youtube.com/watch?v=vFpRQr1WSus",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2025-02-17T19:18:56+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "0fa9add9-b4a5-49fa-81f1-8adcc9028859",
+    "title": "Porsche edition of HONOR Magic 7 Pro has GREAT upgrades! 🏎️ #mobile #tech #porsche #androidphone",
+    "link": "https://www.youtube.com/watch?v=Sfsr2jJHseA",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2025-02-17T08:01:00+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "33822461-7c35-42a5-ac9f-d971a6f572ab",
+    "title": "Google Family Link brings new supervision tools for parents",
+    "link": "https://blog.google/technology/families/family-link-updates-february-2025/",
+    "description": "Google Family Link is introducing new features that help families foster healthy digital habits.",
+    "author": "Wendi RiebProduct ManagerGoogle Family Link",
+    "published": "Wed, 12 Feb 2025 17:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword-HeroImage_1.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Android",
+      "Families"
+    ]
+  },
+  {
+    "id": "072209c8-cb48-4660-91d8-12e89937ecb4",
+    "title": "The latest AI news we announced in January",
+    "link": "https://blog.google/technology/ai/google-ai-updates-january-2025/",
+    "description": "Here are Google’s latest AI updates from January.",
+    "author": "Keyword Team\u003cdepartment/\u003e\u003ccompany/\u003e",
+    "published": "Wed, 05 Feb 2025 23:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_D.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Android",
+      "Google Labs",
+      "Google DeepMind",
+      "Learning \u0026 Education",
+      "Google.org",
+      "Google Cloud",
+      "AI",
+      "Gemini App",
+      "Research"
+    ]
+  },
+  {
+    "id": "0a614c9a-2c01-43d2-8bed-88d556c08d62",
+    "title": "Galaxy Tab S8 series new leak reveals almost everything",
+    "link": "https://androidcommunity.com/galaxy-tab-s8-series-new-leak-reveals-almost-everything-20220203/",
+    "description": "February 9 is expected to be an exciting one for Samsung. As it unfolds the Unpacked event with enthusiasm, there will be some devices we would be looking forward to. Of course, the Galaxy S22 flagship series is on everyone’s radar, if you’re someone waiting for a decent, feature-packed Android tablet, you should look out […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:51:26 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Samsung",
+      "Tablets"
+    ]
+  },
+  {
+    "id": "c05e3107-184b-4a1c-9017-71e5ac0bcd4c",
+    "title": "Malicious authenticator app removed from Google Play Store",
+    "link": "https://androidcommunity.com/malicious-authenticator-app-removed-from-google-play-store-20220203/",
+    "description": "Seems like Google Play cannot shave off its curse of hosting undetected malware apps. In a recent development, an authenticator app going by the name 2FA Authenticator remained under the radar for 15 days on the Play Store and more than 10,000 people downloaded the malicious app capable of stealing financial information. Now the app […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:11:31 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Apps",
+      "Google",
+      "Google Play",
+      "malware",
+      "Phones"
+    ]
+  },
+  {
+    "id": "928dea49-5740-4589-b831-a8a33c985a37",
+    "title": "The Pirate Queen: Interview With Lucy Liu \u0026 Eloise Singer",
+    "link": "https://sites.libsyn.com/23914/the-pirate-queen-interview-with-lucy-liu-eloise-singer",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar and Nick Sutrich chat with Hollywood legend Lucy Liu and Pirate Queen director Eloise Singer about their amazing new VR game The Pirate Queen: A Forgotten Legend... Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu",
+    "author": "Android Central",
+    "published": "Thu, 28 Mar 2024 22:50:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_280324_MIXDOWN_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "gaming",
+      "quest",
+      "Android",
+      "Meta",
+      "VR",
+      "lucyliu",
+      "thepiratequeen",
+      "eloisesinger"
+    ]
+  },
+  {
+    "id": "ef992610-95f5-47f5-8822-c92497d57d39",
+    "title": "Could The US BAN TikTok?!",
+    "link": "https://sites.libsyn.com/23914/could-the-us-ban-tiktok",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar, Nick Sutrich, and Jerry Hildenbrand discuss just how good the Honor Magic 6 Pro's camera really is, why more people are buying the Galaxy S24 Plus, why US lawmakers want TikTok banned, how Apple acquiring DarwinAI could give Google Gemini some serious competition, and more! Links:  The Honor Magic 6 Pro camera seriously blows me away - Android Central The Galaxy S24 Plus is a hit, and I'm not surprised - Android Central Why US lawmakers want TikTok banned - Android Central Apple's latest AI acquisition might give Google Gemini some serious competition - Android Central Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu @gbhil",
+    "author": "Android Central",
+    "published": "Mon, 18 Mar 2024 17:00:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_150324_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "iPhone",
+      "Google",
+      "honor",
+      "Galaxy",
+      "microsoft",
+      "Apple",
+      "samsung",
+      "AI",
+      "Android",
+      "Gemini",
+      "TikTok",
+      "darwinai"
+    ]
+  },
+  {
+    "id": "e44616b5-5d8f-4c5b-a12d-7bc0d71eb955",
+    "title": "Need more storage? Samsung's portable T7 SSD is nearly 50% OFF during Amazon's Presidents' Day sale",
+    "link": "https://www.androidcentral.com/accessories/smart-home/need-more-storage-samsungs-portable-t7-ssd-is-nearly-50-percent-off-during-amazons-presidents-day-sale",
+    "description": "Amazon's Presidents' Day sale is carving 48% off one of the best solutions for portable storage, but how long will the discount last?",
+    "author": "",
+    "published": "Mon, 17 Feb 2025 22:22:24 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/eQs4rSJw4arJAteNmRgKkJ.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Smart Home",
+      "Accessories"
+    ]
+  },
+  {
+    "id": "419653e6-b380-4231-9bf2-3daf1256e874",
+    "title": "The alleged OnePlus 13 'Mini' may pack a huge battery in a compact frame",
+    "link": "https://www.androidcentral.com/phones/oneplus-13-mini-large-battery-compact-phone-rumors",
+    "description": "New rumors claimed the \"mini\" OnePlus 13 could sport a battery like its flagship model.",
+    "author": "",
+    "published": "Mon, 17 Feb 2025 20:27:17 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/dPp2nNXoVTrhm92NFxzgxV.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Phones"
+    ]
+  },
+  {
+    "id": "bed2bd72-da96-4868-91e7-13ffc7175ca8",
+    "title": "Motorola and Google deals: Get a great smartphone for $400-$600",
+    "link": "https://www.androidauthority.com/motorola-razr-plus-2024-google-pixel-8a-deals-3526981/",
+    "description": "You don't need to spend anywhere near $1,000 to get a good phone. Check out these smartphone deals!",
+    "author": "Edgar Cervantes",
+    "published": "Mon, 17 Feb 2025 20:07:06 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/07/Motorola-Razr-Plus-vs-Razr-home-screens.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "Google",
+      "Google Pixel 8a",
+      "Motorola",
+      "Motorola Razr"
+    ]
+  },
+  {
+    "id": "02f483bc-a4f2-4fbc-b85a-f95baa877bf9",
+    "title": "Looking for a smart lock? These Aqara and eufy ones are at record low prices!",
+    "link": "https://www.androidauthority.com/aqara-smart-lock-u300-eufy-smart-lock-c33-deals-3526982/",
+    "description": "Keep your home safe while also prioritizing convenience with these smart lock deals from Aqara and eufy.",
+    "author": "Edgar Cervantes",
+    "published": "Mon, 17 Feb 2025 18:52:37 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/Aqara-Smart-Lock-U300.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "Eufy",
+      "Smart Home"
+    ]
+  },
+  {
+    "id": "641f181d-d706-4038-9b1b-2d9e91e2e4a1",
+    "title": "Make the most of your Galaxy Watch 7 by downloading these 10 apps",
+    "link": "https://www.androidpolice.com/must-install-apps-samsung-galaxy-watch-7/",
+    "description": "From hiking to office productivity to smart home control, download these 10 apps and take better control of your life with your Galaxy Watch 7.",
+    "author": "Tshaka Armstrong",
+    "published": "Mon, 17 Feb 2025 22:59:10 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/02/a-galaxy-watch-with-emphasis-on-the-installed-apps.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Samsung Galaxy Watch 7",
+      "Samsung",
+      "Smartwatches \u0026 Wearables",
+      "Samsung Galaxy Watch 7",
+      "Samsung"
+    ]
+  },
+  {
+    "id": "6bacb93f-8e03-4374-b26c-1db06815af39",
+    "title": "Google Wallet might want you to 'upgrade' some of your old loyalty cards",
+    "link": "https://www.androidpolice.com/google-wallet-loyalty-card-upgrades/",
+    "description": "Access new perks with the tap of a button",
+    "author": "Timi Cantisano",
+    "published": "Mon, 17 Feb 2025 22:22:33 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/06/google-wallet-2-ap24-hero.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Google wallet",
+      "rewards",
+      "Applications",
+      "Google Wallet",
+      "rewards"
+    ]
+  },
+  {
+    "id": "36321666-1cc4-411a-9ac7-c30e338942cd",
+    "title": "Fin Part Deux",
+    "link": "http://podcasts.androidauthority.com/fin-part-deux",
+    "description": "This is the last episode of the second season of the Android Authority podcast. That sucks. But that doesn’t mean we don’t have tech to talk about. Adam, Joe, and Jonathan gather for one last time to talk about Motorola’s upcoming flagship, and care for your RAZR. LG is keeping the headphone jack flame a’burnin. And finally, we look back on some other operating systems that have come and gone over the years. RIP webOS, RIP Windows Phone, RIP #AAPodcast Podcast Pick: Real Graphene Power Bank 10,000 mAh Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 30, 2020 Topics Huawei rep allegedly says company won't use Google apps even if it can Graphene batteries: What are they and why are they a big deal? Motorola says 'bumps and lumps are normal' on Razr screen Motorola tipped to unveil new flagship smartphone at MWC 2020 LG headphone jacks are sticking around, but need your financial support Android alternatives that tried and failed over the last decade The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Check out the other podcasts in our network!The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Fri, 31 Jan 2020 23:48:40 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/aapod_fin_part_deux_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": null
+  },
+  {
+    "id": "b4b94d3f-5221-43d9-acf5-601d1aa7ebf0",
+    "title": "LG’s promise and Google’s experiments",
+    "link": "http://podcasts.androidauthority.com/lgs-promise-and-googles-experiments",
+    "description": "We have a ton of housecleaning to take care of right off the bat including the Moto RAZR, Whatsapp’s dark mode, MWC 2020 and more. Plus, we take a look at LG’s implementation of Android 10 on the LG V50 with dual screen. Speaking of dual screens, Microsoft has some thoughts on how to implement dual screens. Google is experimenting with ways to help you use your phone less, and one of our editors wants you to update apps less often. What’s up with that? Podcast Pick: LG G8x Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 23, 2020 Topics Motorola Razr preorders start on January 26 at Verizon Many 2020 Chromebooks will see 8 years of updates WhatsApp dark mode is finally here (for some users) MWC 2020: What to expect Who is BBK, the world's second largest phone manufacturer? Juan Carlos Bagnell - LG V50 on Android 10: New OS, New UX, AND A DESKTOP MODE! Microsoft outlines dual screen possibilities with Surface Duo These Google experimental apps help you develop healthy phone habits Shadowgun War Games is mobile games' version of Overwatch Why you might want to disable automatic app updates on the Play Store The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Special appearance by:Juan Carlos Bagnell - @Somegadgetguy www.somegadgetguy.com Check out the other podcasts in our network! The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Sat, 25 Jan 2020 00:30:34 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/Aapod_week4_2020_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": [
+      "Microsoft",
+      "moto",
+      "duo",
+      "surface",
+      "motorola",
+      "2020",
+      "lg",
+      "vivo",
+      "mwc",
+      "razr",
+      "Chromebooks",
+      "WhatsApp",
+      "v50",
+      "oneplus",
+      "mwc2020",
+      "bbk"
+    ]
+  },
+  {
+    "id": "6a0bb0e3-d32c-46a2-adfb-f904b38417ef",
+    "title": "Grab the Samsung Galaxy Tab S6 Lite for Less with this Deal!",
+    "link": "https://phandroid.com/2025/02/17/grab-the-samsung-galaxy-tab-s6-lite-for-less-with-this-deal/",
+    "description": "It's still a capable midrange tablet. The post Grab the Samsung Galaxy Tab S6 Lite for Less with this Deal! appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Mon, 17 Feb 2025 22:21:34 +0000",
+    "image": "https://m.media-amazon.com/images/I/41G-t5WVhGL.jpg",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Deals",
+      "Devices",
+      "amazon deals",
+      "Samsung Galaxy Tab S6 Lite"
+    ]
+  },
+  {
+    "id": "590f1014-3473-4a09-942e-7bb54c1d2c04",
+    "title": "Honor Teases Big Launch for MWC 2025",
+    "link": "https://phandroid.com/2025/02/17/honor-teases-big-launch-for-mwc-2025/",
+    "description": "Honor wants to go all-in with AI software. The post Honor Teases Big Launch for MWC 2025 appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Mon, 17 Feb 2025 22:02:17 +0000",
+    "image": "",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "News",
+      "Software",
+      "ai",
+      "Honor",
+      "MWC 2025"
+    ]
+  },
+  {
+    "id": "80212655-93f0-4575-badd-dffb7630f8e8",
+    "title": "OnePlus May Be Planning a Mini Model With a Very Large Battery",
+    "link": "https://www.talkandroid.com/500830-oneplus-13-mini-battery/",
+    "description": "The OnePlus 13 Mini or 13T could have a battery that surpasses the expectations of a 6.3-inch device.",
+    "author": "Ayomide Sadiq",
+    "published": "Mon, 17 Feb 2025 16:30:27 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Android Leaks \u0026 Rumours"
+    ]
+  },
+  {
+    "id": "c3cc9702-080d-4419-b1bd-69a312163bf0",
+    "title": "Board Kings Free Rolls – Updated Every Day!",
+    "link": "https://www.talkandroid.com/480056-board-kings-free-rolls-updated-daily/",
+    "description": "Run out of rolls for Board Kings? Find links for free rolls right here, updated daily!",
+    "author": "Nivenka Stanton",
+    "published": "Mon, 17 Feb 2025 15:42:47 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "fae0a003-fd9c-4d6c-bcde-58dd63bcb852",
+    "title": "Oppo Find X8 Mini specs leak again",
+    "link": "https://www.gsmarena.com/oppo_find_x8_mini_specs_leak_again-news-66584.php",
+    "description": "Oppo is expected to launch the Find X8 Mini around March-April alongside the Find X8 Ultra, when they'll both join the already available Find X8 and Find X8 Pro. The Mini is clearly inspired by vivo's success in China with the X200 Pro mini, and we've heard that OnePlus will also have its very own smaller device soon - this is likely to be at least based on, if not identical to the Find X8 Mini. Today from Digital Chat Station in China come more details about the Find X8 Mini. It will allegedly have a 6.3-inch LTPO OLED flat screen with \"1.5K\" resolution and 120 Hz refresh rate, a flat...",
+    "author": "",
+    "published": "Tue, 18 Feb 2025 01:47:01 +0100",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "20f8b130-878b-494b-83d8-063887f0f28d",
+    "title": "Samsung Galaxy A26 support pages go live, launch is imminent",
+    "link": "https://www.gsmarena.com/samsung_galaxy_a26_support_pages_go_live_launch_feels_imminent-news-66581.php",
+    "description": "Samsung's Galaxy A26 was seen in a new set of renders recently, and the phone is now clearly on the verge of becoming official. That's because support pages for it have been spotted going live on Samsung's websites in the UK, Ireland, and Latin America. Previously, the device has also been certified by India's BIS, TUV Rheinland, and the Bluetooth SIG, so a lot of the prerequisite steps for launch have been undertaken. Samsung Galaxy A26 support pages The Galaxy A25 went official in December of 2023, so its successor is already kind of late if we go by the usual one-year...",
+    "author": "",
+    "published": "Tue, 18 Feb 2025 00:11:01 +0100",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "e933f5fe-cc07-4e3f-b42a-c1a41670bd01",
+    "title": "How to Update Redmi Note 10 Pro to Android 12 (Custom ROM Build)",
+    "link": "https://cyanogenmods.org/redmi-note-10-pro-android-12-2/",
+    "description": "The latest Android 12 has been released and the same is now available for Redmi Note 10 Pro via an Android 12 custom ROM update build. This is a step-by-step guide that explains how to update Redmi Note 10 Pro to Android 12. [su_note note_color=”#F9D9D9″ text_color=”#AA4343″ radius=”3″ class=”” id=””]DISCLAIMER: Installing a custom ROM requires advanced ... Read more",
+    "author": "Siba",
+    "published": "Thu, 03 Oct 2024 17:46:30 +0000",
+    "image": "",
+    "source": "https://www.cyanogenmods.org/feed",
+    "categories": [
+      "Android 12",
+      "Redmi Note 10 Pro",
+      "Xiaomi"
+    ]
+  },
+  {
+    "id": "dbfdecd6-15ee-464a-bd05-ba5bc6144056",
+    "title": "Samsung Still Hasn’t Updated a Single Device to Android 15, One UI 7",
+    "link": "https://www.droid-life.com/2025/02/17/samsung-still-hasnt-updated-a-single-device-to-android-15-one-ui-7/",
+    "description": "Samsung has long been referred to around these parts as the “King of Android Updates” because of their long-term commitment to device support, steady delivery of monthly patches, and their quickness at delivering major Android OS updates even with their heavy One UI skin on top. Google caught and surpassed Samsung’s level of support in … Continued Read the original post: Samsung Still Hasn’t Updated a Single Device to Android 15, One UI 7",
+    "author": "Kellen",
+    "published": "Mon, 17 Feb 2025 18:56:09 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/12/Samsung-One-UI-7-Update-6-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Featured",
+      "News",
+      "Opinion",
+      "Android 15",
+      "Galaxy S24",
+      "Galaxy S24 Plus",
+      "Galaxy S24 Ultra",
+      "Galaxy S25",
+      "Galaxy S25 Plus",
+      "Galaxy S25 Ultra",
+      "One UI",
+      "Samsung",
+      "Update"
+    ]
+  },
+  {
+    "id": "719e33d8-dd53-4bc8-aa80-d55f313227f9",
+    "title": "Volvo EX90 and Polestar 3 Get Samsung Wallet Digital Key Support",
+    "link": "https://www.droid-life.com/2025/02/17/volvo-ex90-and-polestar-3-get-samsung-wallet-digital-key-support/",
+    "description": "Samsung Wallet added two new vehicles to its Digital Key line-up today, the Volvo EX90 and the Polestar 3. This is big news for owners of those two cars who also happen to own a supported Samsung phone. Digital Key within Samsung Wallet means you can add your car key to your phone and then … Continued Read the original post: Volvo EX90 and Polestar 3 Get Samsung Wallet Digital Key Support",
+    "author": "Kellen",
+    "published": "Mon, 17 Feb 2025 16:48:10 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2025/02/Polestar-3-980x656.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Apps",
+      "News",
+      "Polestar",
+      "Samsung",
+      "Samsung Wallet",
+      "Volvo"
+    ]
+  },
+  {
+    "id": "1906fdeb-ca12-48ba-8c00-fdbe4bd1df8d",
+    "title": "AAA: Android Faithful is Your New Android Home! - With Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635b",
+    "description": "All About Android fans, listen up! If you were disappointed when the show went away, then you'll be happy to know that Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman brought the AAA fun to a new home called Android Faithful. Each week, the AF crew discusses the latest news, hardware, and apps for the world's biggest mobile operating system. Special guests, from journalists, to industry big wigs, to execs from inside the Google mothership join the crew to detail the ongoing evolution of Google's Android. Join us and be a part of the Android Faithful! Hosts: Jason Howell, Ron Richards, and Huyen Tue Dao Co-Host: Mishaal Rahman Visit AndroidFaithful.com or search your favorite podcatcher to subscribe!",
+    "author": "TWiT",
+    "published": "Tue, 02 Jan 2024 14:45:00 PST",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa_635b/aaa_635b.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android"
+    ]
+  },
+  {
+    "id": "ab09ab61-e0cc-4881-8d8c-59f2b0952849",
+    "title": "AAA 635: Hall of Fame - A long awaited look at the very best Android hardware and apps since the beginning",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635",
+    "description": "Sharing news regarding the future of All About Android. Huyen just got her Pixel Tablet! She shares her thoughts. Android Hardware Hall of Fame. Android App Hall of Fame. All About All About Android. Read our show notes here: https://bit.ly/42V2ymq Hosts: Jason Howell, Ron Richards, Huyen Tue Dao, and Florence Ion Subscribe to All About Android at https://twit.tv/shows/all-about-android. Get episodes ad-free with Club TWiT at https://twit.tv/clubtwit Sponsor: decisions.com/twit",
+    "author": "TWiT",
+    "published": "Tue, 20 Jun 2023 21:59:06 PDT",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa0635/aaa0635.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android",
+      " all about android",
+      " Jason Howell",
+      " Ron Richards",
+      " Florence Ion",
+      " huyen tue dao",
+      " all about android last episode",
+      " all about android final episode",
+      " all about android dead",
+      " pixel tablet first impressions",
+      " pixel tablet hands on",
+      " pixel tablet preview"
+    ]
+  }
+]
