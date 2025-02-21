@@ -1,0 +1,120 @@
+[
+  {
+    "id": "3dc01157-20a3-44cf-8fb7-be725f6de9c4",
+    "title": "Enter picture-in-picture automatically when playing media",
+    "link": "https://developer.chrome.com/blog/automatic-picture-in-picture-media-playback?hl=en",
+    "description": "Chrome allows web apps playing media to automatically enter picture-in-picture.",
+    "author": "",
+    "published": "Wed, 05 Feb 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "f97eebe2-04da-4d04-91f9-92588557640d",
+    "title": "New in Chrome 133",
+    "link": "https://developer.chrome.com/blog/new-in-chrome-133?hl=en",
+    "description": "Chrome 133 is rolling out now! There's some exciting new CSS features and plenty more to discover.",
+    "author": "",
+    "published": "Tue, 04 Feb 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "59fc0769-267f-40d6-bf7e-2d25ac03fc47",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "f1145aad-5701-4932-8461-495cb98d8150",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "c280c8f0-27ab-4d14-8d66-e4aa23fadfb9",
+    "title": "Launching Interop 2025",
+    "link": "https://hacks.mozilla.org/2025/02/interop-2025/",
+    "description": "Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024’s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements, Storage Access API, and CSS Zoom. The post Launching Interop 2025 appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "James Graham",
+    "published": "Thu, 13 Feb 2025 16:59:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2025/02/Pasted-image-500x348.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "Firefox",
+      "Web Developers",
+      "Accessibility",
+      "browsers",
+      "firefox",
+      "interop",
+      "interoperability",
+      "storage",
+      "WebRTC"
+    ]
+  },
+  {
+    "id": "2ed37488-f165-44fa-af6e-32b2e993a61c",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
+    "description": "Mozilla and Filament have introduced Uniffi for React Native, a tool that allows developers to leverage the safety and performance benefits of Rust in cross-platform React Native apps. The post Introducing Uniffi for React Native: Rust-Powered Turbo Modules appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Mark Mayo",
+    "published": "Wed, 04 Dec 2024 19:38:01 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Developer Tools",
+      "Featured Article",
+      "c++",
+      "firefox",
+      "react",
+      "rust"
+    ]
+  },
+  {
+    "id": "3133d986-4544-4e41-8da1-9d0ed6d2642f",
+    "title": "The What If Machine: Bringing the “Iffy” Future of CSS into the Present",
+    "link": "https://css-tricks.com/the-what-if-machine-bringing-the-iffy-future-of-css-into-the-present/",
+    "description": "My thesis for today's article offers further reassurance that inline conditionals are probably not the harbinger of the end of civilization: I reckon we can achieve the same functionality right now with style queries, which are gaining pretty good browser support. The What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Lee Meyer",
+    "published": "Mon, 17 Feb 2025 14:24:40 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/css-code-1.png?resize=1163%2C710\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "functions"
+    ]
+  },
+  {
+    "id": "98f203cf-81ee-4fb1-a25e-dfed963f1ef9",
+    "title": "Handwriting an SVG Heart, With Our Hearts",
+    "link": "https://css-tricks.com/handwriting-an-svg-heart-with-our-hearts/",
+    "description": "A while back on CSS-Tricks, we shared several ways to draw hearts, and the response was dreamy. Now, to show my love, I wanted to do something personal, something crafty, something with a mild amount of effort. Handwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Ryan Trimble",
+    "published": "Fri, 14 Feb 2025 13:25:12 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/viewbox.png?resize=798%2C619\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "SVG"
+    ]
+  }
+]

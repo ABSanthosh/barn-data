@@ -1,0 +1,27 @@
+{
+  "id": "0814cf61-8e31-4697-9caa-b8ce4848b735",
+  "title": "150-year-olds probably not receiving Social Security benefits",
+  "link": "https://flowingdata.com/2025/02/18/150-year-olds-probably-not-receiving-social-security-benefits/",
+  "description": "The Department of Government Efficiency claims data in the Social Security Administration database…Tags: government, Social Security Administration, spending, Wired",
+  "author": "Nathan Yau",
+  "published": "Tue, 18 Feb 2025 11:18:15 +0000",
+  "source": "https://flowingdata.com/feed",
+  "categories": [
+    "Mistaken Data",
+    "government",
+    "Social Security Administration",
+    "spending",
+    "Wired"
+  ],
+  "byline": "Nathan Yau",
+  "length": 1005,
+  "excerpt": "The Department of Government Efficiency claims data in the Social Security Administration database shows 150-year-olds receiving benefits. Probably not. For Wired, David Gilbert reports: Because CO…",
+  "siteName": "FlowingData",
+  "favicon": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512-210x210.png",
+  "text": "The Department of Government Efficiency claims data in the Social Security Administration database shows 150-year-olds receiving benefits. Probably not. For Wired, David Gilbert reports: Because COBOL does not have a date type, some implementations rely instead on a system whereby all dates are coded to a reference point. The most commonly used is May 20, 1875, as this was the date of an international standards-setting conference held in Paris, known as the “Convention du Mètre.” These systems default to the reference point when a birth date is missing or incomplete, meaning all of those entries in 2025 would show an age of 150. That’s just one possible explanation for what DOGE allegedly found. Musk could also have simply looked up the SSA’s own website, which explains that since September 2015 the agency has automatically stopped benefit payments when anyone reaches the age of 115. Is it feigned ignorance? It’s hard to believe that someone with Musk’s status would take data at face value.",
+  "image": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"single-post\"\u003e\n                                    \n                \u003cp\u003eThe Department of Government Efficiency claims data in the Social Security Administration database shows 150-year-olds receiving benefits. Probably not. For Wired, \u003ca href=\"https://www.wired.com/story/elon-musk-doge-social-security-150-year-old-benefits/\"\u003eDavid Gilbert reports\u003c/a\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\u003cp\u003eBecause COBOL does not have a date type, some implementations rely instead on a system whereby all dates are coded to a reference point. The most commonly used is May 20, 1875, as this was the date of an international standards-setting conference held in Paris, known as the “Convention du Mètre.”\u003c/p\u003e\n\u003cp\u003eThese systems default to the reference point when a birth date is missing or incomplete, meaning all of those entries in 2025 would show an age of 150.\u003c/p\u003e\n\u003cp\u003eThat’s just one possible explanation for what DOGE allegedly found. Musk could also have simply looked up the SSA’s own website, which explains that since September 2015 the agency has automatically stopped benefit payments when anyone reaches the age of 115.\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003eIs it feigned ignorance? It’s hard to believe that someone with Musk’s status would take data at face value.\u003c/p\u003e\n                \n                \n                                        \n            \n        \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-02-18T11:18:15Z",
+  "modifiedTime": "2025-02-18T07:32:49Z"
+}

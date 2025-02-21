@@ -1,0 +1,21 @@
+{
+  "id": "688cea47-bcc6-45b4-a247-a03565a31ca2",
+  "title": "Valve releases Team Fortress 2 game code",
+  "link": "https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9",
+  "description": "Comments",
+  "author": "",
+  "published": "Tue, 18 Feb 2025 19:57:17 +0000",
+  "source": "https://news.ycombinator.com/rss",
+  "categories": null,
+  "byline": "misyltoad",
+  "length": 162,
+  "excerpt": "The 2013 edition of the Source SDK. Contribute to ValveSoftware/source-sdk-2013 development by creating an account on GitHub.",
+  "siteName": "GitHub",
+  "favicon": "https://github.githubassets.com/assets/apple-touch-icon-180x180-a80b8e11abe2.png",
+  "text": "Commit Permalink Browse filesBrowse the repository at this point in the history Loading branch information",
+  "image": "https://opengraph.githubassets.com/b586a6e9bbc3d649dd88b2f5a96cc97a9b88077b3f530bb00a44fd7c72bbb693/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv itemscope=\"\" itemtype=\"http://schema.org/SoftwareSourceCode\" data-commit-hovercards-enabled=\"\" data-discussion-hovercards-enabled=\"\" data-issue-and-pr-hovercards-enabled=\"\" data-project-hovercards-enabled=\"\"\u003e\n    \u003cmain id=\"js-repo-pjax-container\"\u003e\n      \n  \n\n    \n    \n\n    \n\n\n\n\n\n\n  \n  \n\n  \n\n\n\n\u003cturbo-frame id=\"repo-content-turbo-frame\" target=\"_top\" data-turbo-action=\"advance\"\u003e\n    \u003cdiv id=\"repo-content-pjax-container\"\u003e\n  \u003cp\u003e\n  \u003ch2\u003eCommit\u003c/h2\u003e\n\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9\" data-hotkey=\"y\"\u003ePermalink\u003c/a\u003e\u003c/p\u003e\n\n\n\u003cdiv\u003e\n  \u003cdiv\u003e\n    \n\n    \u003cp\u003e\u003ca id=\"browse-at-time-link\" href=\"https://github.com/ValveSoftware/source-sdk-2013/tree/0759e2e8e179d5352d81d0d4aaded72c1704b7a9\" rel=\"nofollow\"\u003eBrowse files\u003c/a\u003e\u003c/p\u003e\u003ctool-tip id=\"tooltip-95b6c30c-cd25-42cf-bace-47cce7ec89fd\" for=\"browse-at-time-link\" popover=\"manual\" data-direction=\"ne\" data-type=\"description\" data-view-component=\"true\"\u003eBrowse the repository at this point in the history\u003c/tool-tip\u003e\n  \u003c/div\u003e\n\n\n  \u003cdiv\u003e\n  \u003cinclude-fragment src=\"/ValveSoftware/source-sdk-2013/branch_commits/0759e2e8e179d5352d81d0d4aaded72c1704b7a9\" id=\"async-branches-list\"\u003e\n    \u003cdiv\u003e\n      \n      \u003cul\u003e\n        \u003cli\u003eLoading branch information\u003cspan\u003e\u003c/span\u003e\u003c/li\u003e\n      \u003c/ul\u003e\n    \u003c/div\u003e\n\u003c/include-fragment\u003e\u003c/div\u003e\n\n\n  \n\u003c/div\u003e\n\n\n  \n\n\n  \u003cdiff-layout\u003e\n    \n        \u003c/diff-layout\u003e\n\n\n\u003c/div\u003e\n\n\u003c/turbo-frame\u003e\n\n\n    \u003c/main\u003e\n  \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
