@@ -1,0 +1,468 @@
+[
+  {
+    "id": "ad9f51f1-63dc-4455-8c16-092a653a6a94",
+    "title": "Why you should consider ZFS over Btrfs for storing data",
+    "link": "https://www.xda-developers.com/how-zfs-is-superior-to-btrfs/",
+    "description": "ZFS vs Btrfs? Check how ZFS is better in handling and storing your data than Btrfs",
+    "author": "Pranav Bhardwaj",
+    "published": "Fri, 21 Feb 2025 01:01:19 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2025/02/iyus-sugiharto-hblolxaq2-e-unsplash.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Storage",
+      "File System",
+      "storage"
+    ]
+  },
+  {
+    "id": "b4d5bef2-83b7-4a01-aba1-de7822bb1ecb",
+    "title": "What are the difference between containers and virtual machines?",
+    "link": "https://www.xda-developers.com/containers-vs-virtual-machines-comparison/",
+    "description": "A comparison of containers vs. virtual machines.",
+    "author": "Tom Li",
+    "published": "Fri, 21 Feb 2025 00:00:21 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/02/xda-containers-vs-virtual-machines-1.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Software and Services",
+      "Virtualization"
+    ]
+  },
+  {
+    "id": "a1e1260c-5170-4eec-b0b1-243d659f241c",
+    "title": "AAA: Android Faithful is Your New Android Home! - With Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635b",
+    "description": "All About Android fans, listen up! If you were disappointed when the show went away, then you'll be happy to know that Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman brought the AAA fun to a new home called Android Faithful. Each week, the AF crew discusses the latest news, hardware, and apps for the world's biggest mobile operating system. Special guests, from journalists, to industry big wigs, to execs from inside the Google mothership join the crew to detail the ongoing evolution of Google's Android. Join us and be a part of the Android Faithful! Hosts: Jason Howell, Ron Richards, and Huyen Tue Dao Co-Host: Mishaal Rahman Visit AndroidFaithful.com or search your favorite podcatcher to subscribe!",
+    "author": "TWiT",
+    "published": "Tue, 02 Jan 2024 14:45:00 PST",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa_635b/aaa_635b.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android"
+    ]
+  },
+  {
+    "id": "0507c8db-42e0-473c-b304-19bcc6853156",
+    "title": "AAA 635: Hall of Fame - A long awaited look at the very best Android hardware and apps since the beginning",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635",
+    "description": "Sharing news regarding the future of All About Android. Huyen just got her Pixel Tablet! She shares her thoughts. Android Hardware Hall of Fame. Android App Hall of Fame. All About All About Android. Read our show notes here: https://bit.ly/42V2ymq Hosts: Jason Howell, Ron Richards, Huyen Tue Dao, and Florence Ion Subscribe to All About Android at https://twit.tv/shows/all-about-android. Get episodes ad-free with Club TWiT at https://twit.tv/clubtwit Sponsor: decisions.com/twit",
+    "author": "TWiT",
+    "published": "Tue, 20 Jun 2023 21:59:06 PDT",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa0635/aaa0635.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android",
+      " all about android",
+      " Jason Howell",
+      " Ron Richards",
+      " Florence Ion",
+      " huyen tue dao",
+      " all about android last episode",
+      " all about android final episode",
+      " all about android dead",
+      " pixel tablet first impressions",
+      " pixel tablet hands on",
+      " pixel tablet preview"
+    ]
+  },
+  {
+    "id": "644d15c5-0f76-4186-a784-0179939246ed",
+    "title": "Dozens of new mobile apps are coming to cars with Google built-in.",
+    "link": "https://blog.google/feed/mobile-apps-cars-google-built-in/",
+    "description": "Starting this week, cars with Google built-in will get dozens of new apps to enjoy while parked.This launch is part of our car ready mobile apps program, which we introd…",
+    "author": "Vivek RadhakrishnanTechnical Program ManagerAndroid",
+    "published": "Wed, 19 Feb 2025 16:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/carma_Volvo_XC60_new_rb.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Android",
+      "Google Play"
+    ]
+  },
+  {
+    "id": "0393e80c-cbb4-429a-93e7-b485dd5bf4ec",
+    "title": "Google Family Link brings new supervision tools for parents",
+    "link": "https://blog.google/technology/families/family-link-updates-february-2025/",
+    "description": "Google Family Link is introducing new features that help families foster healthy digital habits.",
+    "author": "Wendi RiebProduct ManagerGoogle Family Link",
+    "published": "Wed, 12 Feb 2025 17:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword-HeroImage_1.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Android",
+      "Families"
+    ]
+  },
+  {
+    "id": "22095b90-e742-42ce-a930-15da24797e6a",
+    "title": "Mark your calendar: T-Mobile’s free MLB.TV offer returns next month",
+    "link": "https://www.androidauthority.com/t-mobile-free-mlb-tv-3528441/",
+    "description": "Make sure to snag your free subscription between March 25 and March 31.",
+    "author": "Stephen Schenck",
+    "published": "Thu, 20 Feb 2025 23:23:58 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/baseball-cropped.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "T-Mobile"
+    ]
+  },
+  {
+    "id": "9906d76a-6c15-4957-af08-83e608feba85",
+    "title": "Dash cam deal: Save $400 on our favorite high-end dash cam, installation included!",
+    "link": "https://www.androidauthority.com/nextbase-iq-4k-dash-cam-bundle-deal-3528412/",
+    "description": "The Nextbase IQ 4K Dash Cam is our favorite high-end option. This bundle saves you $400 and gets you an extra rear camera!",
+    "author": "Edgar Cervantes",
+    "published": "Thu, 20 Feb 2025 22:15:11 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/Nextbase-iQ-4K.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "security camera",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "c8e4cb72-4bb6-4e68-bb74-72186498b168",
+    "title": "The foldable to BEAT?! | OPPO Find N5 REVIEW",
+    "link": "https://www.youtube.com/watch?v=NHZaeh9ZjQQ",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2025-02-20T12:00:35+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "a804099d-86f2-4c02-9dd1-de00ffb27328",
+    "title": "Android XR devices: How soon can we expect them? #AndroidXR #VR #shorts",
+    "link": "https://www.youtube.com/watch?v=LilTnpbXOqY",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2025-02-19T21:19:55+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "a03ca554-c827-4ea0-b926-490a85cb34c5",
+    "title": "Google will finally uncouple YouTube Premium and YouTube Music with 'Premium Lite'",
+    "link": "https://www.androidcentral.com/apps-software/google-will-finally-uncouple-youtube-premium-and-youtube-music-with-premium-lite",
+    "description": "Bloomberg reports that Google is preparing a tier of YouTube Premium that no longer includes YouTube Music, for a lower price.",
+    "author": "",
+    "published": "Thu, 20 Feb 2025 23:16:45 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/BjJ45FrrYJFRSJhvdjF9qL.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Youtube",
+      "Apps \u0026amp; Software"
+    ]
+  },
+  {
+    "id": "465a65a0-c692-48e2-8d99-564d6759889c",
+    "title": "Is this a typo? The Amazfit GTR 3 Pro is currently 33% OFF at Amazon, totally clobbering its Black Friday price",
+    "link": "https://www.androidcentral.com/wearables/is-this-a-typo-the-amazfit-gtr-3-pro-is-currently-33-percent-off-at-amazon-totally-clobbering-its-black-friday-price",
+    "description": "Head to Amazon right now and you'll score a whopping 33% discount on the Amazfit GTR 3 Pro, a last-gen smartwatch that still holds up today.",
+    "author": "",
+    "published": "Thu, 20 Feb 2025 23:02:06 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/o3WXLjDad6JQHfgpyHhjCC.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Wearables"
+    ]
+  },
+  {
+    "id": "febff07a-5a70-42a1-aa56-175747ef0195",
+    "title": "Fin Part Deux",
+    "link": "http://podcasts.androidauthority.com/fin-part-deux",
+    "description": "This is the last episode of the second season of the Android Authority podcast. That sucks. But that doesn’t mean we don’t have tech to talk about. Adam, Joe, and Jonathan gather for one last time to talk about Motorola’s upcoming flagship, and care for your RAZR. LG is keeping the headphone jack flame a’burnin. And finally, we look back on some other operating systems that have come and gone over the years. RIP webOS, RIP Windows Phone, RIP #AAPodcast Podcast Pick: Real Graphene Power Bank 10,000 mAh Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 30, 2020 Topics Huawei rep allegedly says company won't use Google apps even if it can Graphene batteries: What are they and why are they a big deal? Motorola says 'bumps and lumps are normal' on Razr screen Motorola tipped to unveil new flagship smartphone at MWC 2020 LG headphone jacks are sticking around, but need your financial support Android alternatives that tried and failed over the last decade The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Check out the other podcasts in our network!The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Fri, 31 Jan 2020 23:48:40 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/aapod_fin_part_deux_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": null
+  },
+  {
+    "id": "be53f8f5-c0de-452a-b473-4f38a1c076b8",
+    "title": "LG’s promise and Google’s experiments",
+    "link": "http://podcasts.androidauthority.com/lgs-promise-and-googles-experiments",
+    "description": "We have a ton of housecleaning to take care of right off the bat including the Moto RAZR, Whatsapp’s dark mode, MWC 2020 and more. Plus, we take a look at LG’s implementation of Android 10 on the LG V50 with dual screen. Speaking of dual screens, Microsoft has some thoughts on how to implement dual screens. Google is experimenting with ways to help you use your phone less, and one of our editors wants you to update apps less often. What’s up with that? Podcast Pick: LG G8x Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 23, 2020 Topics Motorola Razr preorders start on January 26 at Verizon Many 2020 Chromebooks will see 8 years of updates WhatsApp dark mode is finally here (for some users) MWC 2020: What to expect Who is BBK, the world's second largest phone manufacturer? Juan Carlos Bagnell - LG V50 on Android 10: New OS, New UX, AND A DESKTOP MODE! Microsoft outlines dual screen possibilities with Surface Duo These Google experimental apps help you develop healthy phone habits Shadowgun War Games is mobile games' version of Overwatch Why you might want to disable automatic app updates on the Play Store The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Special appearance by:Juan Carlos Bagnell - @Somegadgetguy www.somegadgetguy.com Check out the other podcasts in our network! The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Sat, 25 Jan 2020 00:30:34 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/Aapod_week4_2020_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": [
+      "Microsoft",
+      "moto",
+      "duo",
+      "surface",
+      "motorola",
+      "2020",
+      "lg",
+      "vivo",
+      "mwc",
+      "razr",
+      "Chromebooks",
+      "WhatsApp",
+      "v50",
+      "oneplus",
+      "mwc2020",
+      "bbk"
+    ]
+  },
+  {
+    "id": "1be3af07-14eb-433d-b932-5b6323b3c044",
+    "title": "The Pirate Queen: Interview With Lucy Liu \u0026 Eloise Singer",
+    "link": "https://sites.libsyn.com/23914/the-pirate-queen-interview-with-lucy-liu-eloise-singer",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar and Nick Sutrich chat with Hollywood legend Lucy Liu and Pirate Queen director Eloise Singer about their amazing new VR game The Pirate Queen: A Forgotten Legend... Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu",
+    "author": "Android Central",
+    "published": "Thu, 28 Mar 2024 22:50:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_280324_MIXDOWN_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "gaming",
+      "quest",
+      "Android",
+      "Meta",
+      "VR",
+      "lucyliu",
+      "thepiratequeen",
+      "eloisesinger"
+    ]
+  },
+  {
+    "id": "2cea2a7c-81de-4905-b751-c6ee1056ef90",
+    "title": "Could The US BAN TikTok?!",
+    "link": "https://sites.libsyn.com/23914/could-the-us-ban-tiktok",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar, Nick Sutrich, and Jerry Hildenbrand discuss just how good the Honor Magic 6 Pro's camera really is, why more people are buying the Galaxy S24 Plus, why US lawmakers want TikTok banned, how Apple acquiring DarwinAI could give Google Gemini some serious competition, and more! Links:  The Honor Magic 6 Pro camera seriously blows me away - Android Central The Galaxy S24 Plus is a hit, and I'm not surprised - Android Central Why US lawmakers want TikTok banned - Android Central Apple's latest AI acquisition might give Google Gemini some serious competition - Android Central Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu @gbhil",
+    "author": "Android Central",
+    "published": "Mon, 18 Mar 2024 17:00:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_150324_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "iPhone",
+      "Google",
+      "honor",
+      "Galaxy",
+      "microsoft",
+      "Apple",
+      "samsung",
+      "AI",
+      "Android",
+      "Gemini",
+      "TikTok",
+      "darwinai"
+    ]
+  },
+  {
+    "id": "ebacdf0f-3357-4fcb-9d6b-c6a34c07b157",
+    "title": "Score a fantastic discount on this large smart display from Amazon that's now just $180",
+    "link": "https://www.androidpolice.com/echo-show-15-180-deal/",
+    "description": "You can't argue with this great price",
+    "author": "Timi Cantisano",
+    "published": "Fri, 21 Feb 2025 00:45:09 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/02/169-15.png",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Amazon Echo Show 15",
+      "Smart Home",
+      "Amazon Echo Show 15"
+    ]
+  },
+  {
+    "id": "7f2532c1-08f6-40b7-aa46-01609bbed9fb",
+    "title": "A new YouTube Premium plan could debut in the US that's easier on the wallet",
+    "link": "https://www.androidpolice.com/youtube-premium-lite-plan-could-debut-in-the-us/",
+    "description": "Is this what people have been waiting for",
+    "author": "Timi Cantisano",
+    "published": "Thu, 20 Feb 2025 23:52:28 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/youtube-premium-things-to-fix-04.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "youtube premium",
+      "youtube",
+      "Applications",
+      "YouTube Premium",
+      "YouTube"
+    ]
+  },
+  {
+    "id": "04d48dd1-5acf-4f80-b150-12129bd35757",
+    "title": "Galaxy Tab S8 series new leak reveals almost everything",
+    "link": "https://androidcommunity.com/galaxy-tab-s8-series-new-leak-reveals-almost-everything-20220203/",
+    "description": "February 9 is expected to be an exciting one for Samsung. As it unfolds the Unpacked event with enthusiasm, there will be some devices we would be looking forward to. Of course, the Galaxy S22 flagship series is on everyone’s radar, if you’re someone waiting for a decent, feature-packed Android tablet, you should look out […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:51:26 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Samsung",
+      "Tablets"
+    ]
+  },
+  {
+    "id": "e71d139c-a795-47cb-9ebd-8180cd7a9e77",
+    "title": "Malicious authenticator app removed from Google Play Store",
+    "link": "https://androidcommunity.com/malicious-authenticator-app-removed-from-google-play-store-20220203/",
+    "description": "Seems like Google Play cannot shave off its curse of hosting undetected malware apps. In a recent development, an authenticator app going by the name 2FA Authenticator remained under the radar for 15 days on the Play Store and more than 10,000 people downloaded the malicious app capable of stealing financial information. Now the app […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:11:31 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Apps",
+      "Google",
+      "Google Play",
+      "malware",
+      "Phones"
+    ]
+  },
+  {
+    "id": "a8333862-d64f-4ec9-9d1f-6edde8469273",
+    "title": "T-Mobile’s Free MLB TV Offer Returns March 25",
+    "link": "https://www.droid-life.com/2025/02/20/t-mobiles-free-mlb-tv-offer-returns-march-25/",
+    "description": "Dating back many years, T-Mobile will once again offer a free season of MLB TV to all eligible customers. Let’s go, T-Mobile! To claim, you’ll need an eligible plan, with more details on that pasted below. Essentially, any T-Mobile or Metro by T-Mobile customer on a “qualifying branded monthly rate plan” can get in on … Continued Read the original post: T-Mobile’s Free MLB TV Offer Returns March 25",
+    "author": "Tim",
+    "published": "Thu, 20 Feb 2025 21:39:16 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/12/T-Mobile-Free-Shackburger-1-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "News",
+      "Android",
+      "MLB TV",
+      "T-Mobile"
+    ]
+  },
+  {
+    "id": "5757624b-6e47-4cb4-a0b5-0dd28a978ed8",
+    "title": "OnePlus Watch 3 Case Typo Says It is “Meda in China”",
+    "link": "https://www.droid-life.com/2025/02/20/oneplus-watch-3-case-typo-says-it-is-meda-in-china/",
+    "description": "There may still be a future where the OnePlus Watch 3 isn’t permanently branded with a typo, but as of today, an early batch of the watch will be somewhat of a collector’s item. As you can see in the image below, the OnePlus Watch 3, which was presumably “made in China,” does not say … Continued Read the original post: OnePlus Watch 3 Case Typo Says It is “Meda in China”",
+    "author": "Kellen",
+    "published": "Thu, 20 Feb 2025 20:29:01 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2025/02/OnePlus-Watch-3-1-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "News",
+      "OnePlus",
+      "OnePlus Watch 3"
+    ]
+  },
+  {
+    "id": "9667c23a-600a-4336-8923-b7f02c7a2f94",
+    "title": "How to Update Redmi Note 10 Pro to Android 12 (Custom ROM Build)",
+    "link": "https://cyanogenmods.org/redmi-note-10-pro-android-12-2/",
+    "description": "The latest Android 12 has been released and the same is now available for Redmi Note 10 Pro via an Android 12 custom ROM update build. This is a step-by-step guide that explains how to update Redmi Note 10 Pro to Android 12. [su_note note_color=”#F9D9D9″ text_color=”#AA4343″ radius=”3″ class=”” id=””]DISCLAIMER: Installing a custom ROM requires advanced ... Read more",
+    "author": "Siba",
+    "published": "Thu, 03 Oct 2024 17:46:30 +0000",
+    "image": "",
+    "source": "https://www.cyanogenmods.org/feed",
+    "categories": [
+      "Android 12",
+      "Redmi Note 10 Pro",
+      "Xiaomi"
+    ]
+  },
+  {
+    "id": "c073ffbb-885b-47a5-9e17-ea8126efe067",
+    "title": "Android Auto’s Library is About to Get Even More Expansive",
+    "link": "https://phandroid.com/2025/02/20/android-autos-library-is-about-to-get-even-more-expansive/",
+    "description": "Fight off boredom during rest stops. The post Android Auto’s Library is About to Get Even More Expansive appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Thu, 20 Feb 2025 21:32:36 +0000",
+    "image": "",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Apps",
+      "automotive",
+      "Games",
+      "Software",
+      "Android Auto",
+      "Google Play"
+    ]
+  },
+  {
+    "id": "631cb5f9-af83-4835-bb33-4394d0265168",
+    "title": "The Oppo Watch X2 Makes its Debut, and it Looks Really Familiar",
+    "link": "https://phandroid.com/2025/02/20/the-oppo-watch-x2-makes-its-debut-and-it-looks-really-familiar/",
+    "description": "It's essentially a rebranded OnePlus Watch 3. The post The Oppo Watch X2 Makes its Debut, and it Looks Really Familiar appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Thu, 20 Feb 2025 21:06:05 +0000",
+    "image": "https://phandroid.com/wp-content/uploads/2025/02/oppo-watch-x2-2-640x640.webp",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Devices",
+      "Wearables",
+      "oneplus watch 3",
+      "oppo watch x2",
+      "Wear OS"
+    ]
+  },
+  {
+    "id": "2c16e2f1-f202-4de4-9ecf-4952c7509157",
+    "title": "Board Kings Free Rolls – Updated Every Day!",
+    "link": "https://www.talkandroid.com/480056-board-kings-free-rolls-updated-daily/",
+    "description": "Run out of rolls for Board Kings? Find links for free rolls right here, updated daily!",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 20 Feb 2025 18:03:31 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "fc55a6d0-4c27-454c-9130-067a0b0426bb",
+    "title": "Coin Tales Free Spins – Updated Every Day!",
+    "link": "https://www.talkandroid.com/478394-coin-tales-free-spins-updated-every-day/",
+    "description": "Tired of running out of Coin Tales Free Spins? We update our links daily, so you won't have that problem again!",
+    "author": "Nivenka Stanton",
+    "published": "Thu, 20 Feb 2025 18:02:32 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "976d34eb-303c-45bd-a351-03d6cafb2880",
+    "title": "All iPhone 17 models to use Apple's in-house Wi-Fi chip",
+    "link": "https://www.gsmarena.com/all_iphone_17_models_to_use_apples_inhouse_wifi_chip-news-66640.php",
+    "description": "Apple launched the iPhone 16e yesterday, and the device features Apple's first ever self-developed 5G modem, replacing the Qualcomm modems in other iPhones. Apple will allegedly continue this trend of developing important connectivity chips in-house, and a new report today claims that the entire iPhone 17 family, coming this fall, will feature Apple's first self-developed Wi-Fi chip. This would replace the Broadcom chips Apple currently uses. The information comes from Ming-Chi Kuo, always in the know when it comes to Apple's supply chain in Asia. Interestingly, he notes that the iPhone 17...",
+    "author": "",
+    "published": "Fri, 21 Feb 2025 01:11:02 +0100",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "4a4a0c48-4804-42f3-ae58-d297eb709dfd",
+    "title": "Honor Magic V4's launch timeframe leaks",
+    "link": "https://www.gsmarena.com/honor_magic_v4s_launch_timeframe_leaks-news-66639.php",
+    "description": "Earlier today, Oppo made the Find N5 official as the new world's thinnest single-folding / bi-fold foldable smartphone (the Huawei Mate XT is still thinner when unfolded, but that one folds twice or is \"tri-fold\" as they say). The Find N5 took the crown from the Honor Magic V3, but of course that device came out last year and Honor is already working on its successor. It's still unclear if the Magic V4 will be thinner than the Find N5, but a new rumor out of China claims we should expect Honor's next foldable to launch in the first half of the year - close to June, if not in...",
+    "author": "",
+    "published": "Thu, 20 Feb 2025 23:02:01 +0100",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  }
+]

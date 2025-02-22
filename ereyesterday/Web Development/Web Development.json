@@ -1,0 +1,122 @@
+[
+  {
+    "id": "7c5ed89f-16aa-4fb7-b0e2-f9dc9b8b2423",
+    "title": "Enter picture-in-picture automatically when playing media",
+    "link": "https://developer.chrome.com/blog/automatic-picture-in-picture-media-playback?hl=en",
+    "description": "Chrome allows web apps playing media to automatically enter picture-in-picture.",
+    "author": "",
+    "published": "Wed, 05 Feb 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "c7d7decb-b12d-4488-9294-a30c4af9527c",
+    "title": "New in Chrome 133",
+    "link": "https://developer.chrome.com/blog/new-in-chrome-133?hl=en",
+    "description": "Chrome 133 is rolling out now! There's some exciting new CSS features and plenty more to discover.",
+    "author": "",
+    "published": "Tue, 04 Feb 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "196381a8-a005-48ba-8604-a0a0b0b2fda4",
+    "title": "Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop",
+    "link": "https://css-tricks.com/working-with-multiple-css-anchors-and-popovers-inside-the-wordpress-loop/",
+    "description": "I know, super niche, but it could be any loop, really. The challenge is having multiple tooltips on the same page that make use of the Popover API for toggling goodness and CSS Anchor Positioning for attaching a tooltip to its respective anchor element. Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Wed, 19 Feb 2025 13:55:31 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "anchor positioning",
+      "popover",
+      "WordPress"
+    ]
+  },
+  {
+    "id": "679a8c7e-9f3a-4acb-9586-38d87d7fb409",
+    "title": "The What If Machine: Bringing the “Iffy” Future of CSS into the Present",
+    "link": "https://css-tricks.com/the-what-if-machine-bringing-the-iffy-future-of-css-into-the-present/",
+    "description": "My thesis for today's article offers further reassurance that inline conditionals are probably not the harbinger of the end of civilization: I reckon we can achieve the same functionality right now with style queries, which are gaining pretty good browser support. The What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Lee Meyer",
+    "published": "Mon, 17 Feb 2025 14:24:40 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/css-code-1.png?resize=1163%2C710\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "functions"
+    ]
+  },
+  {
+    "id": "61b37f5a-72b1-4edb-b172-a2f3b0d5f530",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "8c1092a1-9250-4b91-8a7b-61f8c2e8a6b6",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "e0789006-368a-4ebf-ad31-249783960fe0",
+    "title": "Launching Interop 2025",
+    "link": "https://hacks.mozilla.org/2025/02/interop-2025/",
+    "description": "Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024’s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements, Storage Access API, and CSS Zoom. The post Launching Interop 2025 appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "James Graham",
+    "published": "Thu, 13 Feb 2025 16:59:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2025/02/Pasted-image-500x348.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "Firefox",
+      "Web Developers",
+      "Accessibility",
+      "browsers",
+      "firefox",
+      "interop",
+      "interoperability",
+      "storage",
+      "WebRTC"
+    ]
+  },
+  {
+    "id": "15a76738-3cb6-4375-8317-40cd1ce26c78",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
+    "description": "Mozilla and Filament have introduced Uniffi for React Native, a tool that allows developers to leverage the safety and performance benefits of Rust in cross-platform React Native apps. The post Introducing Uniffi for React Native: Rust-Powered Turbo Modules appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Mark Mayo",
+    "published": "Wed, 04 Dec 2024 19:38:01 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Developer Tools",
+      "Featured Article",
+      "c++",
+      "firefox",
+      "react",
+      "rust"
+    ]
+  }
+]

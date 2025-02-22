@@ -1,0 +1,313 @@
+[
+  {
+    "id": "d5c320fb-3e19-46cf-96d5-c9078391241e",
+    "title": "Apple Intelligence: The Features We're Still Waiting for on iPhone, iPad, and Mac",
+    "link": "https://apple.gadgethacks.com/news/unreleased-apple-intelligence-features/",
+    "description": "Apple Intelligence has followed a predictable path so far, bringing plenty of AI features designed for everyday users. But even with new AI updates in every iOS release since iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1, there's still plenty of room for growth — especially in generative AI (gen AI). And Apple seems to be leaning into that, as shown by its recent updates enabling Apple Intelligence by default and expanding language support. We've seen fun image generation features like Genmoji and Image Wand alongside practical AI-powered features like text summarization, Writing Tools, and ChatGPT integration. Siri, in particular, has already gained several notable Apple Intelligence upgrades on supported devices: A new glowing edge animation ensures Siri doesn't interrupt what you're doing in apps. Improved natural language processing makes Siri's voice more expressive, natural, and clear — all processed on-device. Better error handling allows Siri to understand and adapt when you...more",
+    "author": "Julianne Ngirngir",
+    "published": "Tue, 18 Feb 2025 22:33:07 GMT",
+    "image": "https://assets.content.technologyadvice.com/unreleased_apple_intelligence_cover_49827625b3.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "015e9180-3d3d-40ed-acfd-bc1f437c9898",
+    "title": "How to Free Up Storage Space on Your iPhone: The Ultimate Guide",
+    "link": "https://ios.gadgethacks.com/how-to/free-up-storage-space-iphone/",
+    "description": "Although your iPhone does not offer an option to upgrade internal storage space using a memory card, as some Android phones do, there are plenty of things you can do to clear up storage so you can put everything you want on your device and stop getting those Storage Almost Full alerts. You may not be able to insert a microSD card into your iPhone, but you can purchase external storage solutions such as portable Lightning or USB-C drives, which I'll get into below. Aside from external storage options, one of the first things you can do is keep your iOS device updated at all times. Having the latest update allows you to access all the latest features while maintaining optimal performance. However, you won't be able to install the latest update if your iPhone doesn't have enough storage space to download it, a common problem iOS users face. To make room for iOS updates, prevent Storage Almost Full warnings, or just keep things working smoothly, try applying some of the tips below to...more",
+    "author": "Jovana Naumovski",
+    "published": "Tue, 18 Feb 2025 14:57:05 GMT",
+    "image": "https://assets.content.technologyadvice.com/iphone_storage_cover_fd076f723c.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "d8a71f2d-57f5-477d-a4fd-99abb2d5b5fb",
+    "title": "Stir Fry Sauce",
+    "link": "https://abeautifulmess.com/stir-fry-sauce/",
+    "description": "We make a lot of stir fry at our house and today I’m here to share our recipe for homemade stir fry sauce. This five minute recipe is so easy to make! I think being able to make a great stir fry is one of those meals everyone should know—it should be taught in schools…",
+    "author": "Emma Chapman",
+    "published": "Wed, 19 Feb 2025 14:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2023/12/stir-fry-sauce.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Dinner/Lunch",
+      "Food"
+    ]
+  },
+  {
+    "id": "e0ce1887-1245-4ffb-8556-6a5c0c820b7e",
+    "title": "Appletini",
+    "link": "https://abeautifulmess.com/appletini/",
+    "description": "An Appletini (Apple Martini) is made with only four ingredients and is easy to make and certainly far too easy to drink. It’s a dessert martini that leans toward the sweet side. In this post, I’ll share my Appletini recipe along with ways to change it up to suit your taste.  While I usually make this recipe with vodka, you could swap it for gin for…",
+    "author": "Emma Chapman",
+    "published": "Mon, 17 Feb 2025 14:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2023/10/Appletini-recipe.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Classic Cocktails",
+      "Cocktails",
+      "Drinks",
+      "Food",
+      "Novelty Cocktails"
+    ]
+  },
+  {
+    "id": "e3376b10-6445-4413-9915-71b29eebc9e3",
+    "title": "The US Military’s Unsecured UFO Satellites and Their Use By Russia",
+    "link": "https://hackaday.com/2025/02/19/the-us-militarys-unsecured-ufo-satellites-and-their-use-by-russia/",
+    "description": "Something that you generally don’t expect as a North-America-based enthusiast, is to listen in on Russian military communications during their war in Ukraine via WebSDR, or that these communications would …read more",
+    "author": "Maya Posch",
+    "published": "Thu, 20 Feb 2025 00:00:48 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/02/US_UFO_satellite_comms_network.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Security Hacks",
+      "satellite communication"
+    ]
+  },
+  {
+    "id": "b7bcf52c-ad95-4698-ae6e-e9b673039e07",
+    "title": "Homebrew CPU Gets a Beautiful Rotating Cube Demo",
+    "link": "https://hackaday.com/2025/02/19/homebrew-cpu-gets-a-beautiful-rotating-cube-demo/",
+    "description": "[James Sharman] designed and built his own 8-bit computer from scratch using TTL logic chips, including a VGA adapter, and you can watch it run a glorious rotating cube demo …read more",
+    "author": "Donald Papp",
+    "published": "Wed, 19 Feb 2025 21:00:00 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/02/Demo_-Rotating-Cube-On-the-Homebrew-CPU-0-9-screenshot.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Retrocomputing",
+      "Software Development",
+      "8 bit",
+      "cpu",
+      "demo",
+      "homebrew",
+      "vga"
+    ]
+  },
+  {
+    "id": "b8838b49-53d3-46d0-b72a-20b26f82bf48",
+    "title": "Combating Unwanted Holiday Guests: Dust Bunnies",
+    "link": "https://www.doityourself.com/stry/combating-unwanted-holiday-guests-dust-bunnies",
+    "description": "Keep your home sparkling and your air quality clean with these tips.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg0.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/972/dust-bunny-195972.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "59cc1628-1227-4dc4-9add-e76121281f94",
+    "title": "Learn These Basic Car Maintenance Skills Before a Road Trip",
+    "link": "https://www.doityourself.com/stry/learn-these-basic-car-maintenance-skills-before-a-road-trip",
+    "description": "They can come in very handy in a tough situation.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg2.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/694/shutterstock_104261411-703694.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "cdefda23-f3ff-4c29-968b-82216b79570d",
+    "title": "Romanticize Your Home",
+    "link": "https://centsationalstyle.com/2025/02/romanticize-your-home/",
+    "description": "Happy Valentine’s Day all! The sun just popped out after a week of storms and it’s a beautiful day. It’s still so cold, and on winter days I like to work from home sipping my coffee by morning light as I work on my laptop. There’s a a lot of chatter online romanticizing one’s life,… Keep Reading →",
+    "author": "Kate Riley",
+    "published": "Fri, 14 Feb 2025 16:41:48 +0000",
+    "image": "https://centsationalstyle.com/wp-content/uploads/2025/02/plants-on-table.jpg",
+    "source": "https://centsationalstyle.com/feed/",
+    "categories": [
+      "Design + Decorating Articles",
+      "Style Files",
+      "inspiration"
+    ]
+  },
+  {
+    "id": "3f9ae917-951e-43f4-a479-8d50d4e62959",
+    "title": "Weekend Reading 2.9.25",
+    "link": "https://centsationalstyle.com/2025/02/weekend-reading-2-9-25/",
+    "description": "Hello all and Happy February to you. I’m at home today watching the Superbowl and catching up on some little projects around the house. Now that the nest is empty, it’s quiet and clean but still has those cozy touches and that feeling of comfort. I’ve been lighting a favorite candle in the evening and… Keep Reading →",
+    "author": "Kate Riley",
+    "published": "Sun, 09 Feb 2025 23:55:46 +0000",
+    "image": "https://centsationalstyle.com/wp-content/uploads/2025/02/wood-white-kitchen-weekend-.jpg",
+    "source": "https://centsationalstyle.com/feed/",
+    "categories": [
+      "Weekend Reading",
+      "weekend reading"
+    ]
+  },
+  {
+    "id": "23305f3f-cdee-4c35-9a30-f98df8ca76cc",
+    "title": "Temu's Annoying Promotional Emails Are the Worst",
+    "link": "https://www.howtogeek.com/temus-annoying-promotional-emails-are-the-worst/",
+    "description": "Spam me once, shame on you, spam me a million times...",
+    "author": "Sydney Butler",
+    "published": "Wed, 19 Feb 2025 23:00:15 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/a-hand-holding-a-smartphone-with-temu-logo-on-the-screen.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Web",
+      "internet",
+      "Apps \u0026 Web Apps",
+      "Email"
+    ]
+  },
+  {
+    "id": "73471292-4bc2-4d70-9d34-219c985d3aae",
+    "title": "What's The Difference Between a Game Remake and Remaster?",
+    "link": "https://www.howtogeek.com/whats-the-difference-between-a-game-remake-and-remaster/",
+    "description": "Similar words, with very different meanings.",
+    "author": "Sydney Butler",
+    "published": "Wed, 19 Feb 2025 22:30:16 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/01/horizon-zero-dawn-aloy-with-bow.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Video Games",
+      "History",
+      "Retro Gaming",
+      "PC Gaming"
+    ]
+  },
+  {
+    "id": "ebe956c7-6e58-45d7-9f57-42b222c6e878",
+    "title": "You'll Now Need a New App to Use Gemini on Your iPhone",
+    "link": "https://www.makeuseof.com/google-removes-gemini-access-from-google-app/",
+    "description": "Access to the AI has been removed from the main Google app.",
+    "author": "Brent Dirks",
+    "published": "Wed, 19 Feb 2025 23:09:17 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/11/google-search-app-on-iphone.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "IPhone",
+      "Google Gemini"
+    ]
+  },
+  {
+    "id": "ed3641dd-36a2-4dda-8657-feab04196a08",
+    "title": "I Love Windows, but Can't Ignore These 9 Huge Annoyances in Windows 11",
+    "link": "https://www.makeuseof.com/windows-11-most-annoying-features/",
+    "description": "Seriously, Microsoft?",
+    "author": "Pankil Shah",
+    "published": "Wed, 19 Feb 2025 22:00:15 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/a-young-man-using-a-laptop-with-several-internet-icons-around-and-the-windows-11-logo-in-the-background.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Windows",
+      "Windows 11",
+      "Windows",
+      "Microsoft"
+    ]
+  },
+  {
+    "id": "fb84a02d-5436-4a30-a149-e02f9ad3dfdc",
+    "title": "IKEA’s Latest Collection Might Be The Bedroom Refresh You’ve Been Looking For",
+    "link": "https://ikeahackers.net/2025/02/bedroom-refresh-makeover.html",
+    "description": "In January, IKEA rolled out its latest products along with an encouraging mantra, “What’s new is up to you.” The inspiration behind this phrase comes from the Swedish superstore’s continual focus on tried-and-true pieces, giving new life to old furniture, and crafting beautiful spaces by blending timeless favorites with new standouts. One space where this concept works beautifully is the bedroom. These New Additions Make A Bedroom Refresh Easier Than Ever Your bedroom should be a place that refreshes your […] The post IKEA’s Latest Collection Might Be The Bedroom Refresh You’ve Been Looking For appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Wed, 19 Feb 2025 11:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Bedroom",
+      "Featured",
+      "Latest on IG"
+    ]
+  },
+  {
+    "id": "22d0c0e9-b0ce-4eb9-8c8c-a95a044681b0",
+    "title": "I Found the Ultimate LEGO Room Hack (Goodbye Brick Chaos!)",
+    "link": "https://ikeahackers.net/2025/02/lego-room-alex-hack.html",
+    "description": "Here’s the thing, my son has tons upon tons of LEGOs, and those little bricks are tricky things to organize and store. My husband and I also enjoy building but that only adds to the overflow and we have LEGOs coming out of our ears. Therefore, we’re always trying to figure out clever ways to store the colorful bricks. More importantly, we need a method that will actually persist and not end up back in chaos. That’s why I was […] The post I Found the Ultimate LEGO Room Hack (Goodbye Brick Chaos!) appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Tue, 18 Feb 2025 11:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Toys \u0026 Play",
+      "Creative Ways to Hack Your IKEA Alex Drawers",
+      "Latest on IG"
+    ]
+  },
+  {
+    "id": "651be032-4e70-43ac-9789-70eaae62bdcb",
+    "title": "Hand-Quilted Coasters",
+    "link": "https://ohhappyday.com/2022/10/hand-quilted-coasters/",
+    "description": "Get ready for those shorter days and cooler nights by adding a little warmth and color to your home or next gathering. We partnered with Fiskars to use their collection of fabric cutting tools to craft these modern patchwork style coasters. These require a bit of machine sewing but are super beginner friendly, and the...Read More",
+    "author": "olivia",
+    "published": "Tue, 04 Oct 2022 15:09:34 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/BLOG_OHD_FiskarsCoasters-Hero1.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "place cards",
+      "autumn",
+      "coasters",
+      "cutter",
+      "cutting mat",
+      "diy",
+      "drinks",
+      "fabric",
+      "fall",
+      "fiskars",
+      "quilt",
+      "scissors",
+      "sewing"
+    ]
+  },
+  {
+    "id": "28491989-0c22-491e-8a5e-7e0b009486fe",
+    "title": "5 Ways to Fall",
+    "link": "https://ohhappyday.com/2022/09/5-ways-to-fall/",
+    "description": "We are rounding up some of our favorite Fall throwbacks. This also means Halloween is around the corner and it’s time to start costume brainstorming – any suggestions? In the meantime, here are a few of our favorite DIYs to start your Fall Checklist! Rainbow Pumpkin Centerpiece – an OHD classic! Ombre Leaves Backdrop –...Read More",
+    "author": "Jordan",
+    "published": "Fri, 30 Sep 2022 16:49:26 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/FALL2.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "party",
+      "craft",
+      "diy",
+      "fall",
+      "ombre",
+      "pies",
+      "pumpkin",
+      "rainbow",
+      "roundup",
+      "smores"
+    ]
+  },
+  {
+    "id": "47ac40c6-8d6b-482f-89da-47449cb1fd88",
+    "title": "After a Makeover, a “Filthy” 1980s Brooklyn Kitchen Feels Like a Charming Cottage",
+    "link": "https://www.apartmenttherapy.com/filthy-cottage-kitchen-makeover-ba-37457890?utm_source=RSS\u0026utm_medium=feed\u0026utm_campaign=Category%2FChannel%3A+projects",
+    "description": "Goodbye, peeling floors. READ MORE...",
+    "author": "Cullen Ormond",
+    "published": "Wed, 19 Feb 2025 18:00:00 -0500",
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_660/at/house%20tours/2025/january/abby-s/before-after/abby-s-kitchen-before-horiz-ps-tag",
+    "source": "https://www.apartmenttherapy.com/projects.rss",
+    "categories": [
+      "Home Projects",
+      "Before \u0026 After",
+      "Featured BA",
+      "Home Hub",
+      "syndicated",
+      "Kitchen"
+    ]
+  },
+  {
+    "id": "77f09876-5922-4275-a5f3-785e6865b9c9",
+    "title": "This Family Kitchen Got a Makeover with the Most Brilliant Solution for the Fridge",
+    "link": "https://www.apartmenttherapy.com/white-kitchen-renovation-100000-dollars-ba-37458282?utm_source=RSS\u0026utm_medium=feed\u0026utm_campaign=Category%2FChannel%3A+projects",
+    "description": "The “after” is streamlined and clutter-free. READ MORE...",
+    "author": "Sarah Everett",
+    "published": "Tue, 18 Feb 2025 18:05:00 -0500",
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_660/at/home-projects/2025/2025-02/noelia-m-kitchen/noelia-m-kitchen-before-3-tagged",
+    "source": "https://www.apartmenttherapy.com/projects.rss",
+    "categories": [
+      "Home Projects",
+      "Before \u0026 After",
+      "Featured BA",
+      "Renovating",
+      "Kitchen"
+    ]
+  }
+]
