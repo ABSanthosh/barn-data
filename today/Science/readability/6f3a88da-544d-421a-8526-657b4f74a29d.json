@@ -1,0 +1,27 @@
+{
+  "id": "6f3a88da-544d-421a-8526-657b4f74a29d",
+  "title": "Perceptron algorithm from the 1950s and its ties to LLMs",
+  "link": "https://flowingdata.com/2025/02/25/perceptron-algorithm-from-the-1950s-and-its-ties-to-llms/",
+  "description": "Welch Labs explains how the perceptron, an algorithm developed by Frank Rosenblatt in…Tags: ChatGPT, Frank Rosenblatt, perceptron, Welch Labs",
+  "author": "Nathan Yau",
+  "published": "Tue, 25 Feb 2025 18:30:42 +0000",
+  "source": "https://flowingdata.com/feed",
+  "categories": [
+    "Artificial Intelligence",
+    "ChatGPT",
+    "Frank Rosenblatt",
+    "perceptron",
+    "Welch Labs"
+  ],
+  "byline": "Nathan Yau",
+  "length": 283,
+  "excerpt": "Welch Labs explains how the perceptron, an algorithm developed by Frank Rosenblatt in 1950s, is a foundation for current large language models that power chatbots like ChatGPT. You just have to lin…",
+  "siteName": "FlowingData",
+  "favicon": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512-210x210.png",
+  "text": "Welch Labs explains how the perceptron, an algorithm developed by Frank Rosenblatt in 1950s, is a foundation for current large language models that power chatbots like ChatGPT. You just have to link 100 million or so perceptrons in a single network. Watch the explainer video below:",
+  "image": "https://flowingdata.com/wp-content/uploads/2025/02/perceptron.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"single-post\"\u003e\n        \n                \n        \u003cp\u003e\u003cimg fetchpriority=\"high\" width=\"750\" height=\"416\" src=\"https://flowingdata.com/wp-content/uploads/2025/02/perceptron-750x416.png\" alt=\"\" decoding=\"async\" srcset=\"https://flowingdata.com/wp-content/uploads/2025/02/perceptron-750x416.png 750w, https://flowingdata.com/wp-content/uploads/2025/02/perceptron-1090x605.png 1090w, https://flowingdata.com/wp-content/uploads/2025/02/perceptron-210x117.png 210w, https://flowingdata.com/wp-content/uploads/2025/02/perceptron-768x426.png 768w, https://flowingdata.com/wp-content/uploads/2025/02/perceptron-1536x852.png 1536w, https://flowingdata.com/wp-content/uploads/2025/02/perceptron.png 1928w\" sizes=\"(max-width: 750px) 100vw, 750px\" data-attachment-id=\"77666\" data-permalink=\"https://flowingdata.com/2025/02/25/perceptron-algorithm-from-the-1950s-and-its-ties-to-llms/perceptron/\" data-orig-file=\"https://flowingdata.com/wp-content/uploads/2025/02/perceptron.png\" data-orig-size=\"1928,1070\" data-comments-opened=\"0\" data-image-meta=\"{\u0026#34;aperture\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;credit\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;camera\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;caption\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;created_timestamp\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;copyright\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;focal_length\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;iso\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;shutter_speed\u0026#34;:\u0026#34;0\u0026#34;,\u0026#34;title\u0026#34;:\u0026#34;\u0026#34;,\u0026#34;orientation\u0026#34;:\u0026#34;0\u0026#34;}\" data-image-title=\"perceptron\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://flowingdata.com/wp-content/uploads/2025/02/perceptron-750x416.png\" data-large-file=\"https://flowingdata.com/wp-content/uploads/2025/02/perceptron-1090x605.png\"/\u003e                    \u003c/p\u003e\n                \n        \n        \n        \u003cdiv\u003e\n                                    \n                \u003cp\u003e\u003ca href=\"https://www.youtube.com/watch?app=desktop\u0026amp;v=l-9ALe3U-Fg\"\u003eWelch Labs explains how the perceptron\u003c/a\u003e, an algorithm developed by Frank Rosenblatt in 1950s, is a foundation for current large language models that power chatbots like ChatGPT. You just have to link 100 million or so perceptrons in a single network.\u003cbr/\u003e\n\u003cspan id=\"more-77663\"\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eWatch the explainer video below:\u003c/p\u003e\n\u003cp\u003e\u003ciframe title=\"ChatGPT is made from 100 million of these [The Perceptron]\" width=\"1090\" height=\"613\" src=\"https://www.youtube.com/embed/l-9ALe3U-Fg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"\u003e\u003c/iframe\u003e\u003c/p\u003e\n                \n                \n                                        \n            \n        \u003c/div\u003e\n        \n                    \n        \n\t\t\n                \n        \n                        \t\t\n\n        \n        \n        \n    \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-02-25T18:30:42Z",
+  "modifiedTime": "2025-02-25T19:02:41Z"
+}

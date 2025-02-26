@@ -1,0 +1,21 @@
+{
+  "id": "c0132a84-7845-4e6d-b7ab-8c9db8c001ce",
+  "title": "Defragging my old Dell's UEFI NVRAM",
+  "link": "https://artemis.sh/2025/02/22/uefi-nvram-defrag.html",
+  "description": "Article URL: https://artemis.sh/2025/02/22/uefi-nvram-defrag.html Comments URL: https://news.ycombinator.com/item?id=43154218 Points: 18 # Comments: 3",
+  "author": "todsacerdoti",
+  "published": "Sun, 23 Feb 2025 23:23:04 +0000",
+  "source": "https://hnrss.org/frontpage",
+  "categories": null,
+  "byline": "Artemis Everfree",
+  "length": 1109,
+  "excerpt": "I’m setting up an old Dell box (2011-era tech). I was migrating to some new boot drives and setting up grub on them again. Got to the point of deleting the old boot entries and adding new ones, and got an error like Could not prepare boot variable: No space left on device. Weird, because there weren’t that many EFI variables, but df -h also reported that efivars was full:",
+  "siteName": "Artemis Everfree",
+  "favicon": "",
+  "text": "I’m setting up an old Dell box (2011-era tech). I was migrating to some new boot drives and setting up grub on them again. Got to the point of deleting the old boot entries and adding new ones, and got an error like Could not prepare boot variable: No space left on device. Weird, because there weren’t that many EFI variables, but df -h also reported that efivars was full:efivarfs 64K 60K 0K 100% /sys/firmware/efi/efivars funky.It wasn’t due to a glut of boot entries either; I’m pretty keen on keeping the old ones cleared out, so we only had a few on here.Well, I thought maybe there was a lot of dead space in the nvram that wasn’t in use but also couldn’t be allocated. So I booted an EFI shell, and did this:fs0: dmpstore -s efi-vars dmpstore -d dmpstore -l efi-vars Please be careful with these commands, it worked for me but for all I know it might brick your setup. Check help dmpstore first.efivarfs 64K 14K 46K 24% /sys/firmware/efi/efivars And all my UEFI configuration seems to be right as I left it before doing this. So I think this confirms my suspicions.",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cp\u003eI’m setting up an old Dell box (2011-era tech). I was migrating to some new boot\ndrives and setting up grub on them again. Got to the point of deleting the old\nboot entries and adding new ones, and got an error like \u003ccode\u003eCould not prepare boot\nvariable: No space left on device\u003c/code\u003e. Weird, because there weren’t that many EFI\nvariables, but \u003ccode\u003edf -h\u003c/code\u003e also reported that efivars was full:\u003c/p\u003e\u003cdiv\u003e\u003cpre\u003e\u003ccode\u003eefivarfs              64K   60K   0K  100% /sys/firmware/efi/efivars\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e\u003cp\u003efunky.\u003c/p\u003e\u003cp\u003eIt wasn’t due to a glut of boot entries either; I’m pretty keen on keeping the\nold ones cleared out, so we only had a few on here.\u003c/p\u003e\u003cp\u003eWell, I thought maybe there was a lot of dead space in the nvram that wasn’t in\nuse but also couldn’t be allocated. So I booted an \u003ca href=\"https://archlinux.org/packages/extra/any/edk2-shell/\"\u003eEFI\nshell\u003c/a\u003e, and did this:\u003c/p\u003e\u003cdiv\u003e\u003cpre\u003e\u003ccode\u003efs0:\ndmpstore -s efi-vars\ndmpstore -d\ndmpstore -l efi-vars\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e\u003cp\u003ePlease be careful with these commands, it worked for me but for all I know it\nmight brick your setup. Check \u003ccode\u003ehelp dmpstore\u003c/code\u003e first.\u003c/p\u003e\u003cdiv\u003e\u003cpre\u003e\u003ccode\u003eefivarfs              64K   14K   46K  24% /sys/firmware/efi/efivars\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e\u003cp\u003eAnd all my UEFI configuration seems to be right as I left it before doing this.\nSo I think this confirms my suspicions.\u003c/p\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-02-22T00:00:00Z",
+  "modifiedTime": null
+}
