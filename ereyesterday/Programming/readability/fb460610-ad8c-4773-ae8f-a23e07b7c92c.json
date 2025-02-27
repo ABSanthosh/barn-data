@@ -1,0 +1,30 @@
+{
+  "id": "fb460610-ad8c-4773-ae8f-a23e07b7c92c",
+  "title": "One quality every engineering manager should have? Empathy.",
+  "link": "https://stackoverflow.blog/2025/02/21/one-quality-every-engineering-manager-should-have-empathy/",
+  "description": "Ryan talks with senior engineering manager Caitlin Weaver about how her childhood fascination with computers led to her leading CLEAR’s Cloud Infrastructure Engineering team, her experiences in DevOps, the role of empathy in engineering management, and how the platform engineering landscape is evolving.",
+  "author": "Eira May",
+  "published": "Fri, 21 Feb 2025 08:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "se-tech",
+    "se-stackoverflow",
+    "podcast",
+    "software-development",
+    "platform-engineering",
+    "managers",
+    "software-engineering",
+    "devops"
+  ],
+  "byline": "Eira May",
+  "length": 424,
+  "excerpt": "CLEAR is an identity company trying to take the friction out of air travel (such as with TSA PreCheck, available through CLEAR), stadium events, and other experiences that require security screening.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "CLEAR is an identity company trying to take the friction out of air travel (such as with TSA PreCheck, available through CLEAR), stadium events, and other experiences that require security screening.Find Caitlin on LinkedIn.Shoutout to Stack Overflow user Patrick Pijnappel, who earned a Populist badge with their answer to Redirect all output to file using Bash on Linux?. It’s helped 230,000 people and counting.TRANSCRIPT",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003e\u003ca href=\"https://www.clearme.com/\"\u003eCLEAR\u003c/a\u003e is an identity company trying to take the friction out of air travel (such as with \u003ca href=\"https://www.clearme.com/tsa-precheck\"\u003eTSA PreCheck\u003c/a\u003e, available through CLEAR), stadium events, and other experiences that require security screening.\u003c/p\u003e\u003cp\u003eFind Caitlin on \u003ca href=\"https://www.linkedin.com/in/cquinteroweaver/\"\u003eLinkedIn\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eShoutout to Stack Overflow user \u003ca href=\"https://stackoverflow.com/users/1096070/patrick-pijnappel\"\u003ePatrick Pijnappel\u003c/a\u003e, who earned a \u003ca href=\"https://stackoverflow.com/help/badges/62/populist\"\u003ePopulist badge\u003c/a\u003e with their answer to \u003ca href=\"https://stackoverflow.com/questions/16842014/redirect-all-output-to-file-using-bash-on-linux\"\u003eRedirect all output to file using Bash on Linux?\u003c/a\u003e. It’s helped 230,000 people and counting.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://the-stack-overflow-podcast.simplecast.com/episodes/one-quality-every-engineering-manager-should-have-empathy/transcript\" rel=\"noopener\" target=\"_blank\"\u003eTRANSCRIPT\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
