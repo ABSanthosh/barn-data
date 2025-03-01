@@ -1,0 +1,25 @@
+{
+  "id": "6fc11ada-efe3-485a-9a82-166d59c05469",
+  "title": "Microsoft brings an official Copilot app to macOS for the first time",
+  "link": "https://arstechnica.com/ai/2025/02/microsoft-brings-an-official-copilot-app-to-macos-for-the-first-time/",
+  "description": "It looks and works just like similar apps from OpenAI and Anthropic.",
+  "author": "Samuel Axon",
+  "published": "Thu, 27 Feb 2025 21:24:32 +0000",
+  "source": "http://feeds.arstechnica.com/arstechnica/index",
+  "categories": [
+    "AI",
+    "Apple",
+    "Tech"
+  ],
+  "byline": "Samuel Axon",
+  "length": 1500,
+  "excerpt": "It looks and works just like similar apps from OpenAI and Anthropic.",
+  "siteName": "Ars Technica",
+  "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+  "text": "It took a couple of years, but it happened: Microsoft released its Copilot AI assistant as an application for macOS. The app is available for download for free from the Mac App Store right now. It was previously available briefly as a Mac app, sort of; for a short time, Microsoft's iPad Copilot app could run on the Mac, but access on the Mac was quickly disabled. Mac users have been able to use a web-based interface for a while. Copilot initially launched on the web and in web browsers (Edge, obviously) before making its way onto iOS and Android last year. It has since been slotted into all sorts of first-party Microsoft software, too. The Copilot app joins a trend already spearheaded by ChatGPT and Anthropic of bringing native apps to the macOS platform. Like those, it enables an OS-wide keyboard shortcut to invoke a field for starting a chat at any time. It offers most of the same use cases: translating or summarizing text, answering questions, preparing reports and documents, solving coding problems or generating scripts, brainstorming, and so on. Copilot uses OpenAI models like GPT-4 and DALL-E 3 (yes, it generates images, too) alongside others like Microsoft's in-house Prometheus. Microsoft has invested significant amounts of money into OpenAI in recent years as the basis for Copilot and basically everything in its AI strategy. Like Apple's own built-in generative AI features, Copilot for macOS requires an M1 or later Mac. It also requires users to run macOS 14 or later.",
+  "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/Copilot-Mac-1152x648-1740688570.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n                      \n                      \n          \u003cp\u003eIt took a couple of years, but it happened: Microsoft released its Copilot AI assistant as an application for macOS. The app is available for download for free from the Mac App Store right now.\u003c/p\u003e\n\u003cp\u003eIt was previously available briefly as a Mac app, sort of; for a short time, Microsoft\u0026#39;s iPad Copilot app could run on the Mac, but access on the Mac was quickly disabled. Mac users have been able to use a web-based interface for a while.\u003c/p\u003e\n\u003cp\u003eCopilot initially launched on the web and in web browsers (Edge, obviously) before making its way onto iOS and Android last year. It has since been slotted into all sorts of first-party Microsoft software, too.\u003c/p\u003e\n\u003cp\u003eThe Copilot app joins a trend already spearheaded by ChatGPT and Anthropic of bringing native apps to the macOS platform. Like those, it enables an OS-wide keyboard shortcut to invoke a field for starting a chat at any time. It offers most of the same use cases: translating or summarizing text, answering questions, preparing reports and documents, solving coding problems or generating scripts, brainstorming, and so on.\u003c/p\u003e\n\u003cp\u003eCopilot uses OpenAI models like GPT-4 and DALL-E 3 (yes, it generates images, too) alongside others like Microsoft\u0026#39;s in-house Prometheus. Microsoft has invested significant amounts of money into OpenAI in recent years as the basis for Copilot and basically everything in its AI strategy.\u003c/p\u003e\n\u003cp\u003eLike Apple\u0026#39;s own built-in generative AI features, Copilot for macOS requires an M1 or later Mac. It also requires users to run macOS 14 or later.\u003c/p\u003e\n\n\n          \n                      \n                  \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-02-27T21:24:32Z",
+  "modifiedTime": "2025-02-27T21:32:46Z"
+}

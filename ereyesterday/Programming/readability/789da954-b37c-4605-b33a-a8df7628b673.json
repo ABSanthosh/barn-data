@@ -1,0 +1,26 @@
+{
+  "id": "789da954-b37c-4605-b33a-a8df7628b673",
+  "title": "SE Radio 656: Ivett Ördög on Rewrite versus Refactor",
+  "link": "http://se-radio.net/se-radio-656-ivett-rdg-on-rewrite-versus-refactor",
+  "description": "Ivett Ördög speaks with host Sam Taggart about rewrite versus refactor -- a choice that many projects face as they grow. It's a topic that inspires a lot of dogmatic feelings. They discuss how companies and projects end up at this crossroads and consider some strategies to try to avoid it. Ivett challenges the myth that you should never rewrite but points to two key factors that need to be present for a successful large-scale rewrite or refactor. They end by talking about how to get management on board for such large-scale rewrite or refactor projects. Brought to you by IEEE Computer Society and IEEE Software magazine.",
+  "author": "SE-Radio Team",
+  "published": "Thu, 20 Feb 2025 00:21:00 +0000",
+  "source": "http://feeds.feedburner.com/se-radio",
+  "categories": [
+    "refactoring",
+    "rewrite",
+    "legacy code",
+    "technical debt"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
