@@ -1,0 +1,24 @@
+{
+  "id": "48459b67-2208-41eb-ab96-68b164dc30fc",
+  "title": "Network of statistical distributions",
+  "link": "https://flowingdata.com/2025/02/28/network-of-statistical-distributions/",
+  "description": "The network of 76 probability distributions show how they are connected: Solid lines…Tags: distributions",
+  "author": "Nathan Yau",
+  "published": "Fri, 28 Feb 2025 11:55:02 +0000",
+  "source": "https://flowingdata.com/feed",
+  "categories": [
+    "Network Visualization",
+    "distributions"
+  ],
+  "byline": "Nathan Yau",
+  "length": 395,
+  "excerpt": "The network of 76 probability distributions show how they are connected: Solid lines represent special cases and transformations from one distribution to another. Dashed arrows are used for asympto…",
+  "siteName": "FlowingData",
+  "favicon": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512-210x210.png",
+  "text": "The network of 76 probability distributions show how they are connected: Solid lines represent special cases and transformations from one distribution to another. Dashed arrows are used for asymptotic relationships, typically as the limit as one or more parameters approach the boundary of the parameter space. Dotted arrows represent Bayesian relationships. Well, I guess that clears things up.",
+  "image": "https://flowingdata.com/wp-content/uploads/2025/02/univariate-distributions.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n                \n        \n        \u003cp\u003eThe \u003ca href=\"https://www.math.wm.edu/~leemis/chart/UDR/UDR.html\"\u003enetwork of 76 probability distributions\u003c/a\u003e show how they are connected:\u003c/p\u003e\n\u003cblockquote\u003e\u003cp\u003eSolid lines represent special cases and transformations from one distribution to another.\u003c/p\u003e\n\u003cp\u003eDashed arrows are used for asymptotic relationships, typically as the limit as one or more parameters approach the boundary of the parameter space.\u003c/p\u003e\n\u003cp\u003eDotted arrows represent Bayesian relationships.\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003eWell, I guess that clears things up.\u003c/p\u003e\n    \n\t\n        \n\t\t\n    \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-02-28T11:55:02Z",
+  "modifiedTime": "2025-02-25T22:00:36Z"
+}
