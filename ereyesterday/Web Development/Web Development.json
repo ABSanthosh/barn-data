@@ -1,0 +1,123 @@
+[
+  {
+    "id": "02645620-9e37-4e40-a3e0-09b07c651bf9",
+    "title": "Enter picture-in-picture automatically when playing media",
+    "link": "https://developer.chrome.com/blog/automatic-picture-in-picture-media-playback?hl=en",
+    "description": "Chrome allows web apps playing media to automatically enter picture-in-picture.",
+    "author": "",
+    "published": "Wed, 05 Feb 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "a44ff887-208a-434d-8b31-722babae5ddb",
+    "title": "New in Chrome 133",
+    "link": "https://developer.chrome.com/blog/new-in-chrome-133?hl=en",
+    "description": "Chrome 133 is rolling out now! There's some exciting new CSS features and plenty more to discover.",
+    "author": "",
+    "published": "Tue, 04 Feb 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "099da267-0cd7-495d-b0d2-322794878394",
+    "title": "A CSS-Only Star Rating Component and More! (Part 1)",
+    "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-1/",
+    "description": "In this article, you'll learn how to make a full-on star rating component out of nothing but a single input element and vanilla CSS. A CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Temani Afif",
+    "published": "Fri, 28 Feb 2025 14:03:32 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/s_6EC2E918F9FF544DE42522C8E1E743BEA7AF9A2CDD6E60C3751AA633089197F0_1739696982022_image.png?resize=758%2C349\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "attributes",
+      "borders",
+      "forms"
+    ]
+  },
+  {
+    "id": "9cf97717-3027-47f7-ba7c-9581e54a8c25",
+    "title": "Using \u0026 Styling the Details Element",
+    "link": "https://css-tricks.com/using-styling-the-details-element/",
+    "description": "Now that we're 5+ years into the details element, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it. Using \u0026 Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Wed, 26 Feb 2025 16:07:14 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/01/Screenshot-2025-01-15-at-8.56.22%E2%80%AFAM.png?resize=2034%2C1054\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Notes",
+      "details/summary",
+      "html elements"
+    ]
+  },
+  {
+    "id": "d2cd395f-172a-4555-92ef-c397584d7c98",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "90d29b98-12ab-42c8-8fa8-f89148b60436",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "bb1cda75-c511-4115-a450-862b349cf865",
+    "title": "Launching Interop 2025",
+    "link": "https://hacks.mozilla.org/2025/02/interop-2025/",
+    "description": "Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024’s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements, Storage Access API, and CSS Zoom. The post Launching Interop 2025 appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "James Graham",
+    "published": "Thu, 13 Feb 2025 16:59:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2025/02/Pasted-image-500x348.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "Firefox",
+      "Web Developers",
+      "Accessibility",
+      "browsers",
+      "firefox",
+      "interop",
+      "interoperability",
+      "storage",
+      "WebRTC"
+    ]
+  },
+  {
+    "id": "cacb122c-99b9-4c22-b240-132eac99573c",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
+    "description": "Mozilla and Filament have introduced Uniffi for React Native, a tool that allows developers to leverage the safety and performance benefits of Rust in cross-platform React Native apps. The post Introducing Uniffi for React Native: Rust-Powered Turbo Modules appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Mark Mayo",
+    "published": "Wed, 04 Dec 2024 19:38:01 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Developer Tools",
+      "Featured Article",
+      "c++",
+      "firefox",
+      "react",
+      "rust"
+    ]
+  }
+]
