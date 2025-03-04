@@ -1,0 +1,474 @@
+[
+  {
+    "id": "a57aefb0-3a8d-4c97-a940-4c2fc7c9e651",
+    "title": "How to turn a Raspberry Pi into a retro gaming machine you can take anywhere",
+    "link": "https://www.xda-developers.com/raspberry-pi-retro-gaming-machine-retropie/",
+    "description": "Turning a Raspberry Pi into a retro gaming console is easy with RetroPie",
+    "author": "Tom Li",
+    "published": "Tue, 04 Mar 2025 01:00:11 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/02/xda-raspberry-pie-retro-game-hub-feature.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Single-Board Computers",
+      "Raspberry Pi",
+      "Retro Gaming"
+    ]
+  },
+  {
+    "id": "3b9c99b2-6de8-452b-a687-2f48eb337f52",
+    "title": "10 overhyped tech flops that deserved to fail",
+    "link": "https://www.xda-developers.com/overhyped-tech-flops-that-deserved-fail/",
+    "description": "Despite all the hype, these products utterly flopped in sales.",
+    "author": "Saeed Wazir",
+    "published": "Tue, 04 Mar 2025 00:00:11 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2025/02/nokia-lumia-windows-phone.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Other Hardware",
+      "Microsoft",
+      "google",
+      "Apple"
+    ]
+  },
+  {
+    "id": "ad754329-6626-41f4-8a03-5f42b2b391dc",
+    "title": "AAA: Android Faithful is Your New Android Home! - With Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635b",
+    "description": "All About Android fans, listen up! If you were disappointed when the show went away, then you'll be happy to know that Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman brought the AAA fun to a new home called Android Faithful. Each week, the AF crew discusses the latest news, hardware, and apps for the world's biggest mobile operating system. Special guests, from journalists, to industry big wigs, to execs from inside the Google mothership join the crew to detail the ongoing evolution of Google's Android. Join us and be a part of the Android Faithful! Hosts: Jason Howell, Ron Richards, and Huyen Tue Dao Co-Host: Mishaal Rahman Visit AndroidFaithful.com or search your favorite podcatcher to subscribe!",
+    "author": "TWiT",
+    "published": "Tue, 02 Jan 2024 14:45:00 PST",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa_635b/aaa_635b.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android"
+    ]
+  },
+  {
+    "id": "f42c3582-5772-4f68-9d3d-f122ca3e9f03",
+    "title": "AAA 635: Hall of Fame - A long awaited look at the very best Android hardware and apps since the beginning",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635",
+    "description": "Sharing news regarding the future of All About Android. Huyen just got her Pixel Tablet! She shares her thoughts. Android Hardware Hall of Fame. Android App Hall of Fame. All About All About Android. Read our show notes here: https://bit.ly/42V2ymq Hosts: Jason Howell, Ron Richards, Huyen Tue Dao, and Florence Ion Subscribe to All About Android at https://twit.tv/shows/all-about-android. Get episodes ad-free with Club TWiT at https://twit.tv/clubtwit Sponsor: decisions.com/twit",
+    "author": "TWiT",
+    "published": "Tue, 20 Jun 2023 21:59:06 PDT",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa0635/aaa0635.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android",
+      " all about android",
+      " Jason Howell",
+      " Ron Richards",
+      " Florence Ion",
+      " huyen tue dao",
+      " all about android last episode",
+      " all about android final episode",
+      " all about android dead",
+      " pixel tablet first impressions",
+      " pixel tablet hands on",
+      " pixel tablet preview"
+    ]
+  },
+  {
+    "id": "6c65fdf8-a088-4fff-94b5-e24240c93eb4",
+    "title": "We’re at MWC showcasing the latest AI features on Android.",
+    "link": "https://blog.google/feed/android-gemini-mobile-world-congress-2025/",
+    "description": "This week at MWC in Barcelona, we’re showing how AI on Android can help you day-to-day with fun, interactive demos for attendees. You can learn how Gemini Live can help …",
+    "author": "Menaka ShroffSenior Director, Global Android Marketing",
+    "published": "Mon, 03 Mar 2025 07:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AA25-blog-post-header-image_W20.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Gemini Features",
+      "Android"
+    ]
+  },
+  {
+    "id": "4304b2df-9518-4359-8bb7-f92080aa6d4a",
+    "title": "Dozens of new mobile apps are coming to cars with Google built-in.",
+    "link": "https://blog.google/feed/mobile-apps-cars-google-built-in/",
+    "description": "Starting this week, cars with Google built-in will get dozens of new apps to enjoy while parked.This launch is part of our car ready mobile apps program, which we introd…",
+    "author": "Vivek RadhakrishnanTechnical Program ManagerAndroid",
+    "published": "Wed, 19 Feb 2025 16:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/carma_Volvo_XC60_new_rb.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Android",
+      "Google Play"
+    ]
+  },
+  {
+    "id": "61888854-0fdf-403b-84a1-a0897cde0214",
+    "title": "INTERACT with the REAL WORLD using this new GEMINI live feature! #Gemini #google #mwc25",
+    "link": "https://www.youtube.com/watch?v=eMEYF3U5hUg",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2025-03-03T21:00:42+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "9c38461d-8c03-478d-a34b-8eed7f183f48",
+    "title": "LEARN how to make gelato using Google's GEMINI! #gemini #google #mwc25",
+    "link": "https://www.youtube.com/watch?v=Iqx7Ul09rfM",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2025-03-03T19:27:21+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "3b60ea77-bc77-4701-9fe8-2a51f7e8c5dc",
+    "title": "Deal: This Jackery power station fits in your palm, and is 40% off",
+    "link": "https://www.androidauthority.com/jackery-explorer-100-plus-portable-power-station-deal-3531740/",
+    "description": "This power station is actually portable, and it's 40% off right now!",
+    "author": "Edgar Cervantes",
+    "published": "Tue, 04 Mar 2025 01:03:37 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2025/03/Jackery-Explorer-100-Plus-Power-Station-on-hand-palm.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "Anker",
+      "Battery",
+      "Battery Packs",
+      "Jackery",
+      "Power bank"
+    ]
+  },
+  {
+    "id": "42d89bb6-ee66-4755-8513-7c29e7728998",
+    "title": "Apple iPad Mini drops to its all-time low price, saving you $100",
+    "link": "https://www.androidauthority.com/apple-ipad-mini-a17-pro-deal-4-3531741/",
+    "description": "This is the best small tablet around, and it's on sale!",
+    "author": "Edgar Cervantes",
+    "published": "Mon, 03 Mar 2025 23:54:20 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/11/apple-ipad-mini-7-in-hand.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "Apple",
+      "Apple iPad"
+    ]
+  },
+  {
+    "id": "b51e3d7c-d022-428a-b86f-4f7f914cc32b",
+    "title": "What's going on with PS3 for Android emulation?",
+    "link": "https://www.androidcentral.com/gaming/whats-going-on-with-ps3-for-android-emulation",
+    "description": "Over the past week or so, there's been a flurry of updates with PS3 emulation on Android. Hopefully, this is just the beginning of something incredible.",
+    "author": "",
+    "published": "Mon, 03 Mar 2025 23:23:14 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/5LG5X3EXaVBA8XZhPPZjbR.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Gaming"
+    ]
+  },
+  {
+    "id": "2dedd047-7152-45f7-aaa6-77cf00267d56",
+    "title": "Next Galaxy Ring could come with sensors to measure body and surface temperatures",
+    "link": "https://www.androidcentral.com/wearables/next-galaxy-ring-could-come-with-sensors-to-measure-body-and-surface-temperatures",
+    "description": "Samsung seems to have filed a new patent that shows a Ring fitted with temperature sensors.",
+    "author": "",
+    "published": "Mon, 03 Mar 2025 22:57:05 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/KMbUhCn4bUehTLkmfqKTya.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Wearables"
+    ]
+  },
+  {
+    "id": "51ab7cc6-ae5a-442a-b683-b0c7363bdd5d",
+    "title": "The Pirate Queen: Interview With Lucy Liu \u0026 Eloise Singer",
+    "link": "https://sites.libsyn.com/23914/the-pirate-queen-interview-with-lucy-liu-eloise-singer",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar and Nick Sutrich chat with Hollywood legend Lucy Liu and Pirate Queen director Eloise Singer about their amazing new VR game The Pirate Queen: A Forgotten Legend... Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu",
+    "author": "Android Central",
+    "published": "Thu, 28 Mar 2024 22:50:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_280324_MIXDOWN_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "gaming",
+      "quest",
+      "Android",
+      "Meta",
+      "VR",
+      "lucyliu",
+      "thepiratequeen",
+      "eloisesinger"
+    ]
+  },
+  {
+    "id": "e2f043a2-b8c9-4022-85d3-16ec6356f31d",
+    "title": "Could The US BAN TikTok?!",
+    "link": "https://sites.libsyn.com/23914/could-the-us-ban-tiktok",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar, Nick Sutrich, and Jerry Hildenbrand discuss just how good the Honor Magic 6 Pro's camera really is, why more people are buying the Galaxy S24 Plus, why US lawmakers want TikTok banned, how Apple acquiring DarwinAI could give Google Gemini some serious competition, and more! Links:  The Honor Magic 6 Pro camera seriously blows me away - Android Central The Galaxy S24 Plus is a hit, and I'm not surprised - Android Central Why US lawmakers want TikTok banned - Android Central Apple's latest AI acquisition might give Google Gemini some serious competition - Android Central Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu @gbhil",
+    "author": "Android Central",
+    "published": "Mon, 18 Mar 2024 17:00:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_150324_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "iPhone",
+      "Google",
+      "honor",
+      "Galaxy",
+      "microsoft",
+      "Apple",
+      "samsung",
+      "AI",
+      "Android",
+      "Gemini",
+      "TikTok",
+      "darwinai"
+    ]
+  },
+  {
+    "id": "5914912e-ee6f-4e6e-bf16-6bb7cff4be79",
+    "title": "Fin Part Deux",
+    "link": "http://podcasts.androidauthority.com/fin-part-deux",
+    "description": "This is the last episode of the second season of the Android Authority podcast. That sucks. But that doesn’t mean we don’t have tech to talk about. Adam, Joe, and Jonathan gather for one last time to talk about Motorola’s upcoming flagship, and care for your RAZR. LG is keeping the headphone jack flame a’burnin. And finally, we look back on some other operating systems that have come and gone over the years. RIP webOS, RIP Windows Phone, RIP #AAPodcast Podcast Pick: Real Graphene Power Bank 10,000 mAh Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 30, 2020 Topics Huawei rep allegedly says company won't use Google apps even if it can Graphene batteries: What are they and why are they a big deal? Motorola says 'bumps and lumps are normal' on Razr screen Motorola tipped to unveil new flagship smartphone at MWC 2020 LG headphone jacks are sticking around, but need your financial support Android alternatives that tried and failed over the last decade The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Check out the other podcasts in our network!The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Fri, 31 Jan 2020 23:48:40 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/aapod_fin_part_deux_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": null
+  },
+  {
+    "id": "e0ecbc2c-b036-4a2e-bd57-47d4c7816b9c",
+    "title": "LG’s promise and Google’s experiments",
+    "link": "http://podcasts.androidauthority.com/lgs-promise-and-googles-experiments",
+    "description": "We have a ton of housecleaning to take care of right off the bat including the Moto RAZR, Whatsapp’s dark mode, MWC 2020 and more. Plus, we take a look at LG’s implementation of Android 10 on the LG V50 with dual screen. Speaking of dual screens, Microsoft has some thoughts on how to implement dual screens. Google is experimenting with ways to help you use your phone less, and one of our editors wants you to update apps less often. What’s up with that? Podcast Pick: LG G8x Visit http://www.andauth.co/PodcastPicks Affiliate disclosure: We may receive compensation in connection with your purchase of products via links on this page. The compensation received will never influence the content, topics or posts made on this podcast. Recorded January 23, 2020 Topics Motorola Razr preorders start on January 26 at Verizon Many 2020 Chromebooks will see 8 years of updates WhatsApp dark mode is finally here (for some users) MWC 2020: What to expect Who is BBK, the world's second largest phone manufacturer? Juan Carlos Bagnell - LG V50 on Android 10: New OS, New UX, AND A DESKTOP MODE! Microsoft outlines dual screen possibilities with Surface Duo These Google experimental apps help you develop healthy phone habits Shadowgun War Games is mobile games' version of Overwatch Why you might want to disable automatic app updates on the Play Store The Android Authority podcast is: Adam Doud - @DeadTechnology Jonathan Feist - @JFeist1 / @DroneRushcom Joe Hindy - @ThatJoeHindy Produced by Adam Doud Special appearance by:Juan Carlos Bagnell - @Somegadgetguy www.somegadgetguy.com Check out the other podcasts in our network! The DGiT Daily podcast The SoundGuys Podcast",
+    "author": "",
+    "published": "Sat, 25 Jan 2020 00:30:34 +0000",
+    "image": "https://traffic.libsyn.com/secure/androidauthority/Aapod_week4_2020_final.mp3?dest-id=242501",
+    "source": "https://androidauthority.libsyn.com/rss",
+    "categories": [
+      "microsoft",
+      "moto",
+      "duo",
+      "surface",
+      "motorola",
+      "2020",
+      "lg",
+      "vivo",
+      "mwc",
+      "razr",
+      "Chromebooks",
+      "WhatsApp",
+      "v50",
+      "oneplus",
+      "mwc2020",
+      "bbk"
+    ]
+  },
+  {
+    "id": "770af0c9-0798-432a-9ad5-9a965aa7df18",
+    "title": "Galaxy Tab S8 series new leak reveals almost everything",
+    "link": "https://androidcommunity.com/galaxy-tab-s8-series-new-leak-reveals-almost-everything-20220203/",
+    "description": "February 9 is expected to be an exciting one for Samsung. As it unfolds the Unpacked event with enthusiasm, there will be some devices we would be looking forward to. Of course, the Galaxy S22 flagship series is on everyone’s radar, if you’re someone waiting for a decent, feature-packed Android tablet, you should look out […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:51:26 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Samsung",
+      "Tablets"
+    ]
+  },
+  {
+    "id": "2e44b728-1363-44a3-9db3-982a37a233cb",
+    "title": "Malicious authenticator app removed from Google Play Store",
+    "link": "https://androidcommunity.com/malicious-authenticator-app-removed-from-google-play-store-20220203/",
+    "description": "Seems like Google Play cannot shave off its curse of hosting undetected malware apps. In a recent development, an authenticator app going by the name 2FA Authenticator remained under the radar for 15 days on the Play Store and more than 10,000 people downloaded the malicious app capable of stealing financial information. Now the app […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:11:31 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Apps",
+      "Google",
+      "Google Play",
+      "malware",
+      "Phones"
+    ]
+  },
+  {
+    "id": "d88faebe-7047-4a1c-b1ef-1032c188c231",
+    "title": "T-Mobile CEO implies that last year's price hikes were just the beginning",
+    "link": "https://www.androidpolice.com/t-mobile-ceo-implies-price-hikes-are-coming/",
+    "description": "Even 'legacy' plans won't be safe",
+    "author": "Timi Cantisano",
+    "published": "Mon, 03 Mar 2025 23:42:27 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/t-mobile-revvl-6x-pro-display-home.JPG",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Carriers"
+    ]
+  },
+  {
+    "id": "232a25c4-461c-4dab-b858-37e7c69c4fa2",
+    "title": "Newly unveiled Samsung Flex Gaming merges handhelds and foldables",
+    "link": "https://www.androidpolice.com/mwc-2025-new-samsung-flex-gaming-foldable-handheld-concept/",
+    "description": "It was only a matter of time",
+    "author": "Chris Thomas",
+    "published": "Mon, 03 Mar 2025 23:06:09 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/03/samsung-flex-gaming-mwc-2025.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Handheld Gaming",
+      "MWC 2025",
+      "Samsung",
+      "Gadgets",
+      "Gaming Handhelds",
+      "MWC 2025",
+      "Samsung"
+    ]
+  },
+  {
+    "id": "985b64e9-bbae-468e-ab26-de165837cabc",
+    "title": "Save up to 40% from the Soundcore Anker Q20i Headphones!",
+    "link": "https://phandroid.com/2025/03/03/save-up-to-40-from-the-soundcore-anker-q20i-headphones/",
+    "description": "Get them with this massive discount! The post Save up to 40% from the Soundcore Anker Q20i Headphones! appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Mon, 03 Mar 2025 17:39:06 +0000",
+    "image": "https://m.media-amazon.com/images/I/31QaxIKZjFL.jpg",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Deals",
+      "Devices",
+      "amazon deals",
+      "soundcore q20i"
+    ]
+  },
+  {
+    "id": "b7a5770a-59b9-4f39-b9e4-a50328762a6b",
+    "title": "The Nintendo Switch, Eight Years On: Aging Like Fine Wine",
+    "link": "https://phandroid.com/2025/03/03/the-nintendo-switch-eight-years-on-aging-like-fine-wine/",
+    "description": "Japanese gaming veteran Nintendo has remained a constant presence within an ever-changing market. The post The Nintendo Switch, Eight Years On: Aging Like Fine Wine appeared first on Phandroid.",
+    "author": "Mike Viray",
+    "published": "Mon, 03 Mar 2025 17:29:12 +0000",
+    "image": "https://phandroid.com/wp-content/uploads/2022/05/nintendo-switch.png",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Devices",
+      "Games",
+      "Opinion",
+      "gaming",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": "1fad0f62-538b-4dde-9dc4-8c1440dfb925",
+    "title": "Doogee expands product portfolio with two tablets and three smartwatches",
+    "link": "https://www.gsmarena.com/doogee_expands_product_portfolio_with_two_tablets_and_three_smartwatches-news-66789.php",
+    "description": "Doogee showcased half a dozen smartphones at MWC in Barcelona, and that wasn't even the entire range the company announced: there are also two LTE tablets with big screens and three entry-level smartwatches. The tablets are part of the Tab E3 family. There is a Pro version with a 13\" IPS LCD that supports up to 90 Hz refresh rate. It has a sleek metal body designed for optimal heat dissipation, and Doogee positions it for students, professionals, and creative people. The Tab E3 Pro is powered by a Helio G100 chipset with 8 GB RAM and 256 GB storage. It has a 16 MP camera on the back...",
+    "author": "",
+    "published": "Mon, 03 Mar 2025 19:31:02 +0100",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "e87d0c53-15c5-4cde-9f8a-d9d86fac1cd7",
+    "title": "nubia Neo 3 and Neo 3 GT budget gaming smartphones go official, ZTE Flip2 foldable now global",
+    "link": "https://www.gsmarena.com/zte_announces_new_budget_gaming_phones__nubia_neo_3_3_gt_launches_its_flip2_foldable_globally-news-66788.php",
+    "description": "This year's MWC seems to be quite eventful for ZTE as the company announced a handful of new products - two budget-oriented gaming smartphones called nubia Neo 3 and Neo 3 GT, launched its nubia Flip2 clamshell foldable globally, added two camera-centric smartphones to its portfolio nubia Focus 2 and Focus 2 Ultra and showcased its Red Magic Pad 3D Explorer Edition tablet. nubia Neo 3 Although the new nubia Neo 3 and 3 GT devices are expected to be very affordable, they offer touch-sensitive shoulder triggers and large displays with a 120Hz refresh rate. The Neo 3 runs on a Unisoc...",
+    "author": "",
+    "published": "Mon, 03 Mar 2025 18:32:02 +0100",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "3c0ccc67-9f19-43dc-92a1-17690727703b",
+    "title": "Samsung Galaxy S25 Ultra is $440 Off Without Trades, $1,140 Off With Trades",
+    "link": "https://www.droid-life.com/2025/03/03/samsung-galaxy-s25-ultra-is-440-off-without-trades-1140-off-with-trades/",
+    "description": "Samsung kicked off one of their regularly schedule “Discover” sales this week, bringing a new round of discounts on almost all of their products, including the Galaxy S25 series. Since we’re a month out from initial launch, the discounts will now shift around to try and keep you interested, if you didn’t already upgrade. For … Continued Read the original post: Samsung Galaxy S25 Ultra is $440 Off Without Trades, $1,140 Off With Trades",
+    "author": "Kellen",
+    "published": "Mon, 03 Mar 2025 17:57:37 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2025/02/S25-Ultra-Review-8-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Deals",
+      "News",
+      "Galaxy S25",
+      "Galaxy S25 Ultra",
+      "Samsung"
+    ]
+  },
+  {
+    "id": "0e34c956-727f-48f5-a254-b9ab74b882a8",
+    "title": "Pixel 9a Snuck Through the FCC",
+    "link": "https://www.droid-life.com/2025/03/03/pixel-9a-has-gone-through-the-fcc/",
+    "description": "The Pixel 9a is not much of a secret at this point, thanks to countless retailer leaks that have given us imagery, specs, and a launch date. This is one of the worst kept secrets in recent tech memory, with the only surprise being that it is arriving so soon. We typically see Google’s A-Series … Continued Read the original post: Pixel 9a Snuck Through the FCC",
+    "author": "Kellen",
+    "published": "Mon, 03 Mar 2025 16:45:09 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2025/02/Pixel-9a-Purple-1-980x630.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "News",
+      "FCC",
+      "Google",
+      "Pixel 9a"
+    ]
+  },
+  {
+    "id": "9d2e2d58-8685-4a6c-be49-39cb3f401e87",
+    "title": "How to Update Redmi Note 10 Pro to Android 12 (Custom ROM Build)",
+    "link": "https://cyanogenmods.org/redmi-note-10-pro-android-12-2/",
+    "description": "The latest Android 12 has been released and the same is now available for Redmi Note 10 Pro via an Android 12 custom ROM update build. This is a step-by-step guide that explains how to update Redmi Note 10 Pro to Android 12. [su_note note_color=”#F9D9D9″ text_color=”#AA4343″ radius=”3″ class=”” id=””]DISCLAIMER: Installing a custom ROM requires advanced ... Read more",
+    "author": "Siba",
+    "published": "Thu, 03 Oct 2024 17:46:30 +0000",
+    "image": "",
+    "source": "https://www.cyanogenmods.org/feed",
+    "categories": [
+      "Android 12",
+      "Redmi Note 10 Pro",
+      "Xiaomi"
+    ]
+  },
+  {
+    "id": "d5267683-a888-4d6e-9fd1-4af53fbb13ad",
+    "title": "Trainstation 2 Codes – March 2025",
+    "link": "https://www.talkandroid.com/460527-trainstation-2-codes/",
+    "description": "Find the latest codes for TrainStation 2 here! Keep reading for more!",
+    "author": "Hamza Rashid",
+    "published": "Mon, 03 Mar 2025 18:09:26 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Game Codes"
+    ]
+  },
+  {
+    "id": "b657b599-2207-498d-9221-54ded06fc188",
+    "title": "Left to Survive Promo Codes – March 2025",
+    "link": "https://www.talkandroid.com/75771-left-to-survive-promo-codes/",
+    "description": "Find the latest Left to Survive Promo codes here! Keep on reading for more!",
+    "author": "Jean-Roux Denysschen",
+    "published": "Mon, 03 Mar 2025 18:07:26 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Game Codes"
+    ]
+  }
+]
