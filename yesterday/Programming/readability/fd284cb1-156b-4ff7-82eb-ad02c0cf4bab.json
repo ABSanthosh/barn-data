@@ -1,0 +1,28 @@
+{
+  "id": "fd284cb1-156b-4ff7-82eb-ad02c0cf4bab",
+  "title": "SE Radio 657: Hong Minhee on ActivityPub and the Fediverse",
+  "link": "http://se-radio.net/se-radio-657-hong-minhee-on-activitypub-and-the-fediverse",
+  "description": "Hong Minhee, an open source developer and creator of the Fedify ActivityPub library, discusses the ActivityPub protocol and the fediverse with SE Radio's Jeremy Jung. They explore ActivityPub use cases, including microblogging applications such as Mastodon and Misskey, as well as activities built into the specification such as Like, Follow, and Accept. They also discuss extending the specification to include properties like Discoverable and Suspended, how different implementations communicate when they don’t implement the same extensions, ND the use of JSON-LD and why it is challenging to implement. Finally, they consider the HTTP-based inbox communication model, difficulties with scaling when using a push rather than a pull model, account migration, and resources for implementing the ActivityPub specification. Brought to you by IEEE Computer Society and IEEE Software magazine.",
+  "author": "SE-Radio Team",
+  "published": "Thu, 27 Feb 2025 23:01:00 +0000",
+  "source": "http://feeds.feedburner.com/se-radio",
+  "categories": [
+    "mastodon",
+    "w3c",
+    "fediverse",
+    "social media",
+    "web standards",
+    "ActivityPub"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

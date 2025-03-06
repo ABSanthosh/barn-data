@@ -1,0 +1,203 @@
+[
+  {
+    "id": "bece07d8-9633-4e68-9ad4-82462fd4db73",
+    "title": "The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks",
+    "link": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
+    "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
+    "author": "Kevin Leary",
+    "published": "Mon, 03 Mar 2025 08:00:00 GMT",
+    "image": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "08ba0264-1402-4bdf-869a-d1cf6c6095e0",
+    "title": "Sunshine And March Vibes (2025 Wallpapers Edition)",
+    "link": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
+    "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
+    "author": "Cosima Mielke",
+    "published": "Fri, 28 Feb 2025 13:00:00 GMT",
+    "image": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "86cb2a25-84ed-4c3a-8bb9-1e7448d7b9c4",
+    "title": "10 Best Cheap Drawing Tablets in 2025 – Expert Picks (Mar)",
+    "link": "https://justcreative.com/best-cheap-drawing-tablets/",
+    "description": "Are you looking for the best cheap drawing tablets? Good news, because you can get a high-performing tablet without spending hundreds of dollars. See our list.",
+    "author": "Jacob Cass",
+    "published": "Fri, 28 Feb 2025 05:00:58 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2024/08/317wQGueXqL._SL500_.webp",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "Drawing",
+      "Budget",
+      "Cheap",
+      "Drawing Tablet",
+      "Smart Devices",
+      "Tablet"
+    ]
+  },
+  {
+    "id": "6f3fb4de-c61e-4af4-ba31-244eaba14985",
+    "title": "10+ Best Computers for Digital Art in 2025 (Mar)",
+    "link": "https://justcreative.com/best-computers-for-digital-art/",
+    "description": "In this article, we’ll take an in-depth look at 10 of the best computers for digital art and how they compare to each other.",
+    "author": "Jacob Cass",
+    "published": "Fri, 28 Feb 2025 05:00:50 +0000",
+    "image": "https://m.media-amazon.com/images/I/31ZkuRCWqIL._SL160_.jpg",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "Digital Art",
+      "best computers for digital art",
+      "Computer"
+    ]
+  },
+  {
+    "id": "7b1fe27f-321f-453e-82af-079ce029ea3f",
+    "title": "Scope in Generative AI Features",
+    "link": "https://www.nngroup.com/articles/scope-ai-features/",
+    "description": "When designing AI product features, scope shapes key decisions. Research shows that focused AI features lead to better user understanding and adoption.",
+    "author": "Kate Moran",
+    "published": "Fri, 28 Feb 2025 18:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "49d91430-d9f7-4c48-87ab-d5a22cd97d06",
+    "title": "User-Interface Elements: Glossary",
+    "link": "https://www.nngroup.com/articles/ui-elements-glossary/",
+    "description": "Use this glossary to quickly clarify definitions for key graphical user-interface elements and controls.",
+    "author": "Raluca Budiu, Kara Rivenbark",
+    "published": "Fri, 28 Feb 2025 18:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "a5d48e15-caff-4142-838d-a16c44aab9da",
+    "title": "The Optimal Design for Sidebar Indicators",
+    "link": "https://uxmovement.com/navigation/the-optimal-design-for-sidebar-indicators/",
+    "description": "A sidebar navigation on an interface offers users multiple items to select. After making a selection, they need a visual cue to identify the chosen item. This cue is called an indicator. Every sidebar needs a clear and non-distracting selection indicator. However, many designers continue to use bad practices that make it hard for users […] The post The Optimal Design for Sidebar Indicators first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 18:05:18 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "aa758630-86fc-4571-8c4c-9baca38b2d57",
+    "title": "How to Design a Sidebar That Saves Screen Space",
+    "link": "https://uxmovement.com/navigation/how-to-design-a-sidebar-that-saves-screen-space/",
+    "description": "Screen space on a desktop interface is more important than you think. Most designers take it for granted because a desktop screen contains so much space. However, when it comes to data display, every pixel counts. A sidebar can occupy a lot of width space and diminish the content area. As a result, users will […] The post How to Design a Sidebar That Saves Screen Space first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Fri, 22 Nov 2024 17:58:44 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "3acef5dd-9b7c-494f-9ac8-aa036ff8f083",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "96b73711-917c-4241-b238-b838d3d08c3e",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "c55dcc07-9e72-447e-a320-c681cb961317",
+    "title": "Navigating embedding vectors",
+    "link": "https://uxdesign.cc/navigating-embedding-vectors-09fb846149fa?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Tom Hatton",
+    "published": "Tue, 04 Mar 2025 08:44:34 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*XxIXq6VZJ5-_Qx2jfA9hCw.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "artificial-intelligence",
+      "product-design",
+      "ai",
+      "design",
+      "ux"
+    ]
+  },
+  {
+    "id": "a1d04969-12aa-4e9d-a69a-cadd8f57d0ec",
+    "title": "AI transparency in UX: Designing clear AI interactions",
+    "link": "https://uxdesign.cc/ai-transparency-in-ux-designing-clear-ai-interactions-ba9b6ba4761b?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Allie Paschal",
+    "published": "Tue, 04 Mar 2025 08:40:22 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*1u9YM2q3K7smIB0rilImbw.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "design-systems",
+      "ui",
+      "ux",
+      "ai",
+      "ux-design"
+    ]
+  },
+  {
+    "id": "3f644864-7868-4a91-8881-46b6423d7ce6",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "50ebca1f-169a-4f5b-bc83-e467f5c4cd4c",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]

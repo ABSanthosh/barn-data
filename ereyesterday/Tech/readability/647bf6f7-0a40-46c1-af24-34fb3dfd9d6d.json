@@ -1,0 +1,21 @@
+{
+  "id": "647bf6f7-0a40-46c1-af24-34fb3dfd9d6d",
+  "title": "Comparing Fuchsia components and Linux containers [video]",
+  "link": "https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/",
+  "description": "Comments",
+  "author": "",
+  "published": "Mon, 03 Mar 2025 21:06:37 +0000",
+  "source": "https://news.ycombinator.com/rss",
+  "categories": null,
+  "byline": "",
+  "length": 854,
+  "excerpt": "Fuchsia is a new (non-Linux) operating system from Google, and one of the key pieces of Fuchsia's design is the component framework. Components on Fuchsia have many similarities with some of the container solutions on Linux (such as Docker): they both fetch content addressed blobs from the network, assemble those blobs into an isolated filesystem structure that holds all the dependencies necessary to run some piece of software, and launch namespaced processes with that created directory as its root.",
+  "siteName": "",
+  "favicon": "https://fosdem.org/2025/apple-touch-icon.png",
+  "text": "Fuchsia is a new (non-Linux) operating system from Google, and one of the key pieces of Fuchsia's design is the component framework. Components on Fuchsia have many similarities with some of the container solutions on Linux (such as Docker): they both fetch content addressed blobs from the network, assemble those blobs into an isolated filesystem structure that holds all the dependencies necessary to run some piece of software, and launch namespaced processes with that created directory as its root. The most interesting details are where these two projects diverge. Both have different use cases and requirements, which leads to different strengths between the systems. This talk will largely be focusing on where and why these two similar technologies diverge. Relevant links: - Fuchsia's source code - Fuchsia's code review - Getting started page",
+  "image": "https://fosdem.org/2025/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cp\u003e\u003ca href=\"https://fuchsia.dev/\"\u003eFuchsia\u003c/a\u003e is a new (non-Linux) operating system from Google, and one of the key pieces of Fuchsia\u0026#39;s design is \u003ca href=\"https://fuchsia.dev/fuchsia-src/concepts/components/v2/introduction?hl=en\"\u003ethe component framework\u003c/a\u003e. Components on Fuchsia have many similarities with some of the container solutions on Linux (such as Docker): they both fetch content addressed blobs from the network, assemble those blobs into an isolated filesystem structure that holds all the dependencies necessary to run some piece of software, and launch namespaced processes with that created directory as its root.\u003c/p\u003e\n\u003cp\u003eThe most interesting details are where these two projects diverge. Both have different use cases and requirements, which leads to different strengths between the systems. This talk will largely be focusing on where and why these two similar technologies diverge.\u003c/p\u003e\n\u003cp\u003eRelevant links:\n- \u003ca href=\"https://fuchsia.googlesource.com/fuchsia/\"\u003eFuchsia\u0026#39;s source code\u003c/a\u003e\n- \u003ca href=\"https://fuchsia-review.googlesource.com/\"\u003eFuchsia\u0026#39;s code review\u003c/a\u003e\n- \u003ca href=\"https://fuchsia.dev/fuchsia-src/get-started/learn-fuchsia\"\u003eGetting started page\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
