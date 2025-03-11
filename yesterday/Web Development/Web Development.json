@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2e8e5c01-5877-458f-868c-5bf8b0d2aa74",
+    "title": "Introducing command and commandfor",
+    "link": "https://developer.chrome.com/blog/command-and-commandfor?hl=en",
+    "description": "Learn about the new capabilities for declarative behavior on buttons.",
+    "author": "",
+    "published": "Fri, 07 Mar 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "5bbca16e-d349-4d17-8867-0c4eac9ec5fd",
+    "title": "Use scheduler.yield() to break up long tasks",
+    "link": "https://developer.chrome.com/blog/use-scheduler-yield?hl=en",
+    "description": "scheduler.yield() is a new API for ergonomically splitting up long tasks and getting prioritized continuation of execution.",
+    "author": "",
+    "published": "Thu, 06 Mar 2025 08:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "22c2aeaf-ba85-4edb-92ac-62adcd2353aa",
+    "title": "A CSS-Only Star Rating Component and More! (Part 2)",
+    "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/",
+    "description": "In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property. A CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Temani Afif",
+    "published": "Fri, 07 Mar 2025 13:14:12 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/DLxrh0pl.png?resize=977%2C254\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "forms",
+      "Scroll Driven Animation"
+    ]
+  },
+  {
+    "id": "ca92101e-fd24-401a-b877-c9fd6b4677da",
+    "title": "Maybe don’t use custom properties in shorthand properties",
+    "link": "https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/",
+    "description": "This easily qualifies as a \"gotcha\" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration. Maybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Thu, 06 Mar 2025 16:33:55 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Links",
+      "cascade",
+      "custom properties"
+    ]
+  },
+  {
+    "id": "57579980-c0cc-4a32-b131-727295848bc6",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "c87e8c89-b66a-4dea-a911-299a3f2dbfc2",
+    "title": "How to Add a Header to a curl Request",
+    "link": "https://davidwalsh.name/curl-add-header",
+    "description": "curl is one of those great utilities that’s been around seemingly forever and has endless use cases. These days I find myself using curl to batch download files and test APIs. Sometimes my testing leads me to using different HTTP headers in my requests. To add a header to a curl request, use the -H […] The post How to Add a Header to a curl Request appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Sat, 03 Aug 2024 16:51:46 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "a1799f78-f193-4726-9abb-43114fa0a7c6",
+    "title": "Launching Interop 2025",
+    "link": "https://hacks.mozilla.org/2025/02/interop-2025/",
+    "description": "Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024’s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements, Storage Access API, and CSS Zoom. The post Launching Interop 2025 appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "James Graham",
+    "published": "Thu, 13 Feb 2025 16:59:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2025/02/Pasted-image-500x348.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "Firefox",
+      "Web Developers",
+      "Accessibility",
+      "browsers",
+      "firefox",
+      "interop",
+      "interoperability",
+      "storage",
+      "WebRTC"
+    ]
+  },
+  {
+    "id": "607bc4e2-b9cf-4a4a-817d-339e5b1a0aa8",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
+    "description": "Mozilla and Filament have introduced Uniffi for React Native, a tool that allows developers to leverage the safety and performance benefits of Rust in cross-platform React Native apps. The post Introducing Uniffi for React Native: Rust-Powered Turbo Modules appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Mark Mayo",
+    "published": "Wed, 04 Dec 2024 19:38:01 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Developer Tools",
+      "Featured Article",
+      "c++",
+      "firefox",
+      "react",
+      "rust"
+    ]
+  }
+]
