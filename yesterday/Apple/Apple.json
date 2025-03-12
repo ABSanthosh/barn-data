@@ -1,0 +1,365 @@
+[
+  {
+    "id": "8d0fbca4-6ad1-44f4-9e92-40e4e2535b45",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "11e37192-6aff-412e-85a0-78affd74fe34",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  },
+  {
+    "id": "9adfbc3a-0dcf-4926-a80c-5c062c3950dd",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "ed6145b6-273f-4f10-8d38-b6f4a4604853",
+    "title": "The Overcast Redesign: Part One",
+    "link": "https://marco.org/2022/03/25/overcast-redesign-2022",
+    "description": "Overcast’s latest update (2022.2) brings the largest redesign in its nearly-eight-year history, plus many of the most frequently requested features and lots of under-the-hood improvements. I’m pretty proud of this one. For this first and largest phase of the redesign, I focused on the home screen, playlist screen, typography, and spacing. (I plan to revamp the now-playing and individual-podcast screens in a later update.) The home screen is radically different: Home screen, before (left) and after (right). Playlists now have strong visual identities for nicer and easier navigation. Each playlist has a customizable color, and a custom icon can be selected from over 3,000 SF Symbols to match modern iOS design and the other icons within Overcast. And playlists can be manually reordered with drag-and-drop. Recently played and newly published episodes can now be displayed on the home screen for quick access, much like the widget and CarPlay experience. Podcasts can now be pinned to the top of the home-screen list. Pinned podcasts can also be manually reordered with drag-and-drop. I’ve also rethought the old stacked “Podcasts” and “Played Podcasts” sections to better match people’s needs and expectations. Now, the toggle atop the podcast list switches between three modes: podcasts with current episodes, all followed podcasts, and inactive podcasts (those that you don’t follow and therefore won’t get any more episodes from, or haven’t posted a new episode in a long time). The playlist screen’s structure remains mostly the same, while refining the design for the modern era: Playlist screen, before (left) and after (right). Here, it’s more apparent that I’ve replaced the system San Francisco font with an alternate variant, San Francisco Rounded, to increase legibility and better match the personality of the app. I’ve also added highly demanded features: By far, Overcast’s most-requested feature is a Mark as Played feature. That’s now available as a checkmark button on episode rows, as well as a left-side swipe action. The second-most-requested feature is a way to view all starred episodes. Special playlists for Starred, Downloaded, and In Progress can now be created. The light and dark themes now each have a customizable tint color from the modern iOS UI-color palette, including these favorites from beta testers: And throughout the app, I’ve made tons of tweaks and bug fixes, including: Notifications and background downloads are now much more reliable. Episode downloads can now be individually deleted or re-downloaded. Links can now be opened in Safari. (under Nitpicky Details) Performance is now significantly better with very large playlists and collections. Fixed bugs with episode-duration detection, CarPlay lists, Mac-app sharing, and much more. So much is better in this update that I can’t even remember it all. Thank you so much to everyone who helped me beta-test this massive update. As always, Overcast is free in the App Store. Go get it!",
+    "author": "",
+    "published": "Fri, 25 Mar 2022 10:57:51 EDT",
+    "image": "https://marco.org/media/2022/03/ocredesign2022-1-after.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "1c32821e-d0ca-4249-9cb4-a7b68e8beabd",
+    "title": "Apple Pay coming soon to more UAE and Qatar card networks",
+    "link": "https://9to5mac.com/2025/03/10/apple-pay-uae-qatar-card/",
+    "description": "Apple Pay has been available in the United Arab Emirates and Qatar for a while now, but Apple has been working with local banking institutions to expand support even further. Apple Pay will soon be available to customers of more card networks in the UAE and Qatar. more…",
+    "author": "Filipe Espósito",
+    "published": "Mon, 10 Mar 2025 22:28:41 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/04/Apple-Pay-generic.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "04ce3013-b7fa-4e1a-a922-f77d4a5d4e86",
+    "title": "Apple Maps EV Routing adds Tesla Supercharger (NACS) support for Ford drivers",
+    "link": "https://9to5mac.com/2025/03/10/apple-maps-ev-routing-adds-tesla-supercharger-nacs-support-for-ford-drivers/",
+    "description": "Apple is rolling out a notable update to Apple Maps EV Routing for Ford drivers. Starting today, Ford Mustang Mach-E and F-150 Lightning drivers can use Apple Maps EV Routing via CarPlay to plan road trips that include Tesla Superchargers – or any station that uses the North American Charging Standard (NACS) connector. more…",
+    "author": "Chance Miller",
+    "published": "Mon, 10 Mar 2025 21:18:00 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/apple-maps-ev-routing-tesla.jpeg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "9fe4c919-344a-41ac-8212-936f66b56537",
+    "title": "💬 5 ways to text better with iPhone 16e #Shorts",
+    "link": "https://www.youtube.com/watch?v=xIKJUzMvr_U",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-03-05T17:02:40+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "05bb279d-348b-4ae6-9c6a-7dd2967a2eea",
+    "title": "🥾 3 outdoorsy features on iPhone 16e #Shorts",
+    "link": "https://www.youtube.com/watch?v=7FOyAAHF5lk",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-03-05T17:02:28+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "bc2f44fc-5020-4998-aa52-d75334643a79",
+    "title": "Apple introduces the new MacBook Air with the M4 chip and a sky blue color",
+    "link": "https://www.apple.com/newsroom/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-03-05T14:00:09.730Z",
+    "image": "https://www.apple.com/newsroom/images/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/tile/Apple-MacBook-Air-hero-250305-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "PRESS RELEASE"
+    ]
+  },
+  {
+    "id": "7158460d-fa7b-42d6-b44a-45baa6b2ef79",
+    "title": "Apple unveils new Mac Studio, the most powerful Mac ever",
+    "link": "https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-03-05T13:59:05.403Z",
+    "image": "https://www.apple.com/newsroom/images/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/tile/Apple-Mac-Studio-front-250305-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "PRESS RELEASE"
+    ]
+  },
+  {
+    "id": "f745eff7-5cbe-42bc-9d45-322ec569e5a2",
+    "title": "TP-Link Deco BE5000 review: whole-home mesh Wi-Fi 7 on a budget",
+    "link": "https://appleinsider.com/articles/25/03/11/tp-link-deco-be5000-review-whole-home-mesh-wi-fi-7-on-a-budget?utm_medium=rss",
+    "description": "Managing your home network shouldn't be a full-time job, and TP-Link's Deco line of Wi-Fi 7 routers help keep things simple, connected, and future-proofed without breaking the bank.TP-Link Deco BE5000 review: an affordable, performant mesh networkI'm coming from a set of Linksys Wi-Fi 6 routers that are mid-tier and run about $250 per node. Moving lower in the range to the TP-Link Deco BE5000 worried me, but they actually improved my home network in every conceivable aspect.Apple basically abandoned HomeKit Router support, so I was open to trying new brands and router types. The TP-Link Deco range offers several great features, an easy to navigate app, and a very strong connection in a home filled with gadgets. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Wesley Hilliard",
+    "published": "Tue, 11 Mar 2025 00:22:18 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/62781-130508-Deco-4-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "c1cf17a1-4539-4ac4-b5fc-a594f3a07d7b",
+    "title": "Ford announces NACS charger integration for EV Routing in Apple Maps",
+    "link": "https://appleinsider.com/articles/25/03/11/ford-announces-nacs-charger-integration-for-ev-routing-in-apple-maps?utm_medium=rss",
+    "description": "Owners of select CarPlay-compatible Ford models can now see NACS chargers along their planned route in Apple Maps.Ford has announced that NACS chargers will be visible along users' planned routes in Apple Maps via CarPlay.Ford announced that the Mustang Mach-E and F-150 Lightning, which both support Apple Maps EV Routing in CarPlay, will now be able to automatically direct drivers to the nearest NACS fast charging station whenever the vehicle needs to be charged. This means that users will see compatible Tesla Superchargers and other stations that use the North American Charging Standard, or NACS, within Apple Maps.Indications of this feature first appeared in the second developer beta of iOS 18.4, which contained text strings informing users of NACS charging stations along their route. Now, the capability is finally available to end users. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Marko Zivkovic",
+    "published": "Tue, 11 Mar 2025 00:20:02 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/62920-130598-60564-124592-60360-124363-CarPlay-in-iOS-18-Home-Screen-xl-xl-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "2a80331d-8671-4c1c-bcc5-08842e786392",
+    "title": "Lock in lifetime access to Babbel language learning for just $129.99",
+    "link": "https://www.cultofmac.com/deals/babbel-language-learning-app-deal",
+    "description": "Gain lifetime access to all 14 of the languages offered in the Babbel app with this great limited-time deal. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Cult of Mac Deals",
+    "published": "Mon, 10 Mar 2025 23:05:51 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2022/09/CoM-Babbel.jpeg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Deals",
+      "Babbel",
+      "Cult of Mac Deals",
+      "language apps"
+    ]
+  },
+  {
+    "id": "46566555-c400-4f90-8fbb-ccec23fd48a0",
+    "title": "iOS 19 and macOS 16 might bring massive redesigns",
+    "link": "https://www.cultofmac.com/news/ios-19-macos-16-redesign-rumors",
+    "description": "Get ready for major changes in iOS 19 and macOS 17. Apple supposedly plans to change the look and feel of many operating system features. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Ed Hardy",
+    "published": "Mon, 10 Mar 2025 21:17:03 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2025/03/macOS-17-visionOS.jpg.webp",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "News",
+      "Apple rumors",
+      "iPadOS",
+      "macOS"
+    ]
+  },
+  {
+    "id": "c7924578-270c-4975-9437-24a8713f2fc7",
+    "title": "iPhone 16e Review: I Was Wrong About It 🤷‍♂️",
+    "link": "https://www.youtube.com/watch?v=43L8j9F88WA",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-03-07T17:54:48+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "c58871c6-d118-4bc6-a480-93827a4680f0",
+    "title": "This tiny portable projector is insane 🤯",
+    "link": "https://www.youtube.com/watch?v=oct73MQYk1o",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-03-06T20:18:05+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "b729023b-435e-471b-93bd-c7480162a393",
+    "title": "Front Page Tech on a New UI Style for iOS 19, Back on January 17",
+    "link": "https://www.youtube.com/watch?v=HaP_q9W3AQE",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-03-11T01:00:19Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "8f3e5094-6815-4508-adeb-e8435778e7b7",
+    "title": "Yours Truly Guesting on ‘Upgrade’ With Jason Snell",
+    "link": "https://www.relay.fm/upgrade/554",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-03-10T22:26:56Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "6b30996e-ecb8-4db2-8a79-6921fd1a05a0",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 10:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "6cc2f467-6509-41dc-a2c1-1d91a980f215",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 06:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "49099a7c-cdee-4bd8-ad24-c1e0b4e5df9a",
+    "title": "iOS 19 and macOS 16 will reportedly bring a huge interface overhaul",
+    "link": "https://www.macworld.com/article/2632571/ios-19-and-macos-16-will-reportedly-bring-a-huge-interface-overhaul.html",
+    "description": "Macworld According to a new report from Bloomberg’s Mark Gurman (who is easily the most accurate reporter of Apple’s unannounced upcoming products and features), we are in for some major change later this year. With iOS 19, iPadOS 19, and macOS 16, Apple intends to introduce “one of the most dramatic software overhauls in the company’s history,” according to Gurman’s sources. The aim is to transform the interface “for a new generation of users.” For iPhone and iPad, it’s going to be the biggest change since iOS 7, where Apple ditched the skeuomorphic design language in favor of a new flat design, changed lock screen, a control panel, and more. For macOS, it would be the biggest change since macOS Big Sur (macOS 11) in 2020. The company has struggled to bring its AI efforts up to the level of its competitors, and recently suffered a setback when it announced its big new Siri features won’t be coming this year. There will certainly be new Apple Intelligence features as part of iOS 19 and macOS 16, but with a string of delays pushing the most exciting stuff back, all hopes are on a dramatic new interface to help drive excitement and demand. According to the source, the interface is said to be based “loosely” on the Vision Pro software, which gives us pause–the Vision OS interface is good for a gaze-and-pinch interaction model but is rather simplistic compared to the expectations for iPhones or Macs. We hope “loosely” carries a lot of weight. Still, the article claims the overall goal is to make Apple’s various operating systems more consistent, instead of the jarring difference between icons, windows, and interface elements we see today. The new interface will be unveiled at WWDC in June, and is expected to be the highlight of the new iOS and macOS. If history has taught us anything, it’s that it will have a mixed reception at best, as major design changes are almost always met with criticism at first.",
+    "author": "",
+    "published": "Mon, 10 Mar 2025 20:57:40 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/03/ios-19-hero-1.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "iOS"
+    ]
+  },
+  {
+    "id": "240eb3cc-5e40-4bac-82c4-4d2ed9e5e702",
+    "title": "iOS 18.4 beta 3 is out now",
+    "link": "https://www.macworld.com/article/2605277/ios-18-4-beta-begins-with-huge-apple-intelligence-expansion-but-no-new-siri.html",
+    "description": "Macworld iOS 18.4 is destined to be a big release. The headline feature of iOS 18 is Apple Intelligence, and the various AI features have been rolling out piece by piece. After getting no major new AI features in iOS 18.3, Apple is bringing Apple Intelligence to many more countries in iOS 18.4 as well as a new device—Vision Pro. However, the anticipated Siri update has to wait. There are several big Siri updates coming, including personal context, app intents, and screen reading, but they’re missing from the first iOS 18.4 beta. Instead, Apple says Apple Intelligence “will receive additional features in the coming months, including expanded capabilities for Siri.” That likely means the whole update has been pushed to iOS 18.5. The iOS 18.4 beta began on February 21 with a developer beta, and the first public beta on February 24. We expect the final release in early April. Updated March 10: The third beta of iOS 18.4 is available for developers today. What’s new in iOS 18.4 We’ll update this section with the features and changes found in the latest iOS 18.4 beta, as they are found. Apple Intelligence languages: Including Simplified Chinese, German, French, Italian, Japanese, Korean, Brazilian Portuguese, and Spanish—along with localized English for Singapore and India. Apple Intelligence regions: With iOS 18.4, iPhone and iPad users in the EU will gain access to Apple Intelligence features for the first time. Siri in Control Center: There are new Control Center options for Type to Siri and Talk to Siri. Visual Intelligence: You can now invoke Visual Intelligence on the Action button or from Control Center, and Visual Intelligence is available on iPhone 15 Pro. Prioritize Notifications: Apple Intelligence will attempt to show notifications that may be important in a separate section on the lock screen. Go to Settings \u003e Notifications \u003e Prioritize Notifications to enable. New Emoji: There are seven new emoji in this release—Face with bags under eyes, Fingerprint, Harp, Leafless tree, Root vegetable, Shovel, Splatter. Image Playground sketch style: The third image style for Image Playground, sketch, is finally here. It was demonstrated back at WWDC last summer but never made it into a prior iOS 18 release. Food in News+: A new section in Apple News+ for curated recipes, restaurant reviews, and curated stories about food and dining. Ambient Music: You can add four different ambient music categories to Control Center: Sleep, Chill, Productivity, and Wellbeing. CarPlay third icon row: The two-row limit for app icons on CarPlay displays has been expanded to three rows. Apple Vision Pro app: iOS 18.4 brings a new iPhone app that offers users a new way to download Vision Pro apps and games from the App Store on your iPhone, as well as browse Apple TV content and access your library of spatial photos and videos. It only shows up if you have a Vision Pro associated with the same Apple ID. Mail categories in iPadOS: With the iPadOS 18.4 release, the iPad version of the Mail app finally gets the categories that have been on the iPhone since iOS 18.2. Default translation app: In the Default Apps section of Settings, there is now an option to set a default translation app. iOS 18.4: How to install the developer beta You’ll need to be registered as an Apple developer. Beginning with iOS 18.4, you don’t need to be in the $99 per year developer program to access the developer beta. A free developer account will do. You can get one via Xcode or the Apple Developer app in iOS. Here’s how to do it via the Apple Developer app: Download the Apple Developer App from the App Store. Open the app. Tap on Account. Sign in using your usual Apple ID. Registered developers can choose to get the Public Beta instead by selecting iOS Public Beta in the Software Update screen. It may take a little time after registering as a developer for the option to appear in Software Updates. iOS 18.4: How to install the public beta If you want to be among the first to test iOS 18.4, you can sign up for the public beta test, which should arrive in late February. The process for installing a beta has changed in iOS 16.4. Here’s how the new process works now: Click Sign Up on the Apple Beta page and register with your Apple ID. Log in to the Beta Software Program. Click Enroll your iOS device. Open the Settings app, tap General, then Software Update. In the Beta Updates section, select the iOS Public Beta. It may take a few moments after registering for the beta option to appear in Software Update. Find out everything you need to know about iOS 18 in our iOS 18 superguide.",
+    "author": "",
+    "published": "Mon, 10 Mar 2025 19:10:31 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/03/ios18-4-6.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "iOS"
+    ]
+  },
+  {
+    "id": "b0950361-c0e2-4196-ba08-d733118dc419",
+    "title": "Deals: AirPods 4 for $99, AirPods Pro 2 for $169, Apple Watch 10 for $299",
+    "link": "https://osxdaily.com/2025/03/10/deals-airpods-4-for-99-airpods-pro-2-for-169-apple-watch-10-for-299/",
+    "description": "More great Apple deals are on tap from Amazon today, including big discounts on AirPods and Apple Watch Series 10. Let’s take a look! AirPods 4 are on sale for just $99, cutting 22% off the $129 retail price. These are wildly popular headphones for a reason, and not just because of the iconic stylish ... Read More",
+    "author": "OSXDaily",
+    "published": "Mon, 10 Mar 2025 20:50:05 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Deals",
+      "deals"
+    ]
+  },
+  {
+    "id": "e72f8638-be96-422b-9c03-96ec9752eb33",
+    "title": "3rd Beta of iOS 18.4, MacOS Sequoia 15.4, iPadOS 18.4, Available for Testing",
+    "link": "https://osxdaily.com/2025/03/10/3rd-beta-of-ios-18-4-macos-sequoia-15-4-ipados-18-4-available-for-testing/",
+    "description": "Apple has released the third beta version of MacOS Sequoia 15.4, iOS 18.4, and iPadOS 18.4, for users who are participating in the beta testing programs for Apple system software. These beta builds are working on a variety of new features and capabilities, including refinements to Apple Intelligence, the controversial and frustrating sorted Mail Categories ... Read More",
+    "author": "Paul Horowitz",
+    "published": "Mon, 10 Mar 2025 19:18:34 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "News",
+      "beta",
+      "iOS 18 beta",
+      "iOS 18.4",
+      "iPadOS 18 beta",
+      "iPadOS 18.4",
+      "macOS Sequoia 15.4",
+      "MacOS Sequoia beta"
+    ]
+  },
+  {
+    "id": "97d5f732-5744-41b2-952c-492688c4e6aa",
+    "title": "DEVONthink: Store, Organize, and Work the Smart Way [Sponsor]",
+    "link": "https://www.macstories.net/sponsored/devonthink-store-organize-and-work-the-smart-way-sponsor/",
+    "description": "DEVONthink 3 is the all-in-one solution to organizing and retrieving documents across macOS, iOS, and iPadOS. By supporting numerous file formats, it’s the perfect solution to bring your work together in one powerful hub. What sets DEVONthink apart is its many information retrieval features. The app learns from the way you use it, so it […]",
+    "author": "MacStories Team",
+    "published": "Mon, 10 Mar 2025 12:28:20 +0000",
+    "image": "https://cdn.macstories.net/deviceshot-devonthink-3-1741609215976.png",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "Sponsored Posts",
+      "sponsorships"
+    ]
+  },
+  {
+    "id": "09a87ad8-9a29-4038-8147-64e1361fd3cc",
+    "title": "Notes on the Apple Intelligence Delay",
+    "link": "https://www.macstories.net/stories/notes-on-the-apple-intelligence-delay/",
+    "description": "Simon Willison, one of the more authoritative independent voices in the LLM space right now, published a good theory on what may have happened with Apple’s delay of Apple Intelligence’s Siri personalization features: I have a hunch that this delay might relate to security. These new Apple Intelligence features involve Siri responding to requests to […]",
+    "author": "Federico Viticci",
+    "published": "Sat, 08 Mar 2025 11:31:23 +0000",
+    "image": "https://cdn.macstories.net/img_0180-1741433255356.jpeg",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "stories",
+      "AI",
+      "Apple Intelligence",
+      "artificial intelligence",
+      "siri"
+    ]
+  },
+  {
+    "id": "c417a622-b8ad-4e1a-a4d8-437b1f4ebde1",
+    "title": "∞ The Dalrymple Report: iPad, MacBook Air, and Mac Studio",
+    "link": "https://www.loopinsight.com/2025/03/07/the-dalrymple-report-ipad-macbook-air-and-mac-studio/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-ipad-macbook-air-and-mac-studio",
+    "description": "It was a big week for Apple with all kinds of new hardware announcements to fit every lifestyle and budget. We had a new iPad and a couple of models of the iPad Air; new MacBook Air M4; and the fastest Mac ever, the new Mac Studio. Follow this podcast Show Notes: Skype is dead. Long live Skype Fix for when your Apple TV remote stops changing the volume on your TV M3 iPad Air Apple unveils new Mac Studio, the most powerful Mac ever Apple reveals M3 Ultra, taking Apple silicon to a new extreme Apple announces new M4 MacBook Air, starting at $999 Shows and movies we're watching The Day of the Jackal, Peacock Boy Swallows Universe, Netflix Tracker, Paramount+",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 07 Mar 2025 17:00:25 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "8ffa26f1-7624-4adf-bae3-1e284a8beb01",
+    "title": "∞ The Dalrymple Report: Is iPhone 16e worth it?, WiFi QR code, and Alexa+",
+    "link": "https://www.loopinsight.com/2025/02/28/the-dalrymple-report-is-iphone-16e-worth-it-wifi-qr-code-and-alexa/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-is-iphone-16e-worth-it-wifi-qr-code-and-alexa",
+    "description": "The iPhone 16e was announced a little while ago so Dave and I take some time to look at the features of the new device and wonder if it fills the needs of its target market. Dave gives us a tip about giving visitors to your house a QR code to join the WiFi instead of sharing or telling everyone the password. Alexa+, Amazon's digital assistant is nearly complete and ready for primetime. Follow this podcast Show Notes: Steve Jobs' 70th birthday Jony Ive on the BBC’s Desert Island Discs Steve Jobs coin Is the iPhone 16e worth it? Passwords app and WiFi QR code Amazon Debuts Alexa+ Generative AI Shows and movies we're watching Disclaimer, Apple TV+ The Pitt, Noah Wiley, ER fame, Max",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 28 Feb 2025 14:02:28 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  }
+]
