@@ -1,0 +1,23 @@
+{
+  "id": "9978bc66-46b8-4c79-b0d2-b088e69fa6fe",
+  "title": "Take a closer look at our new Gemini models for robotics.",
+  "link": "https://blog.google/feed/gemini-robotics-video/",
+  "description": "Today, Google DeepMind announced a new family of Gemini models designed for robotics. Gemini Robotics is a vision-language-action (VLA) model that takes natural language…",
+  "author": "Phil EspositoVideo Producer, The Keyword",
+  "published": "Wed, 12 Mar 2025 17:01:00 +0000",
+  "source": "https://www.blog.google/rss/",
+  "categories": [
+    "Google DeepMind"
+  ],
+  "byline": "Phil Esposito",
+  "length": 536,
+  "excerpt": "Today, Google DeepMind announced a new family of Gemini models designed for robotics. Gemini Robotics is a vision-language-action (VLA) model that takes natural language and images as input and outputs actions, allowing robots to physically move and perform tasks. The second model is Gemini Robotics-ER, a reasoning model that enhances skills like identifying objects and their parts in 3D space.Take a look at what robots can do using these Gemini models, from folding origami to packing lunches to spelling words with Scrabble tiles.",
+  "siteName": "Google",
+  "favicon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20250306-1741",
+  "text": "Today, Google DeepMind announced a new family of Gemini models designed for robotics. Gemini Robotics is a vision-language-action (VLA) model that takes natural language and images as input and outputs actions, allowing robots to physically move and perform tasks. The second model is Gemini Robotics-ER, a reasoning model that enhances skills like identifying objects and their parts in 3D space.Take a look at what robots can do using these Gemini models, from folding origami to packing lunches to spelling words with Scrabble tiles.",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/apollo_lunch_packing.max-1440x810.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv slot=\"uni-short-post-description-slot\"\u003e\u003cp data-block-key=\"o4qlq\"\u003eToday, \u003ca href=\"https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/?utm_source=keywordsnippet\u0026amp;utm_medium=referral\"\u003eGoogle DeepMind announced\u003c/a\u003e a new family of Gemini models designed for robotics. Gemini Robotics is a vision-language-action (VLA) model that takes natural language and images as input and outputs actions, allowing robots to physically move and perform tasks. The second model is Gemini Robotics-ER, a reasoning model that enhances skills like identifying objects and their parts in 3D space.\u003c/p\u003e\u003cp data-block-key=\"9njav\"\u003eTake a look at what robots can do using these Gemini models, from folding origami to packing lunches to spelling words with Scrabble tiles.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-03-12T17:01:00Z",
+  "modifiedTime": null
+}
