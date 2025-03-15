@@ -1,0 +1,416 @@
+[
+  {
+    "id": "87c6a3a7-a43e-4870-9ac0-77c9ab643a23",
+    "title": "Off By One",
+    "link": "https://xkcd.com/3062/",
+    "description": "",
+    "author": "",
+    "published": "Wed, 12 Mar 2025 04:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/off_by_one.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "833f0246-9a4f-4ca9-8196-d2ca068041d9",
+    "title": "Water Balloons",
+    "link": "https://xkcd.com/3061/",
+    "description": "",
+    "author": "",
+    "published": "Mon, 10 Mar 2025 04:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/water_balloons.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "83154d68-aca9-41d8-895c-28951387ddd8",
+    "title": "Sunday Secrets",
+    "link": "https://postsecret.com/2025/03/09/sunday-secrets-546/",
+    "description": "The post Sunday Secrets appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sun, 09 Mar 2025 00:03:00 +0000",
+    "image": "https://i0.wp.com/postsecret.com/wp-content/uploads/2025/03/sister.jpg?resize=386%2C526\u0026ssl=1",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "7581725a-780d-4c72-a58c-ca8dacd62612",
+    "title": "Lost Cameras and Orphan Photos",
+    "link": "https://postsecret.com/2025/03/09/orphan-photos-lost-cameras/",
+    "description": "Telling a secret can be transformative; it can change our relationship with people we know, and even those we will never meet. More than once I have watched strangers inspired by a shared secret self-organize into purposeful communities of kindness. One of those stories began in 2007 when I pulled a postcard from my mailbox […] The post Lost Cameras and Orphan Photos appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sun, 09 Mar 2025 00:02:00 +0000",
+    "image": "https://i0.wp.com/postsecret.com/wp-content/uploads/2021/08/pix.jpg?resize=434%2C295\u0026ssl=1",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "6f5f2910-14b2-4a4c-8fd6-a732933f1f34",
+    "title": "Saturday Morning Breakfast Cereal - Cosmology",
+    "link": "https://www.smbc-comics.com/comic/cosmology-3",
+    "description": "Click here to go see the bonus panel!Hovertext:I think we could increase the number of stem phds just by changing the title from Doctor to Ultimate Grandmaster.Today's News:",
+    "author": "Zach Weinersmith",
+    "published": "Wed, 12 Mar 2025 11:19:31 -0400",
+    "image": "https://www.smbc-comics.com/comics/1741792931-20250312.webp",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  },
+  {
+    "id": "bcbc338b-e8d7-4b74-a7ea-75b583aed447",
+    "title": "Saturday Morning Breakfast Cereal - Kiss",
+    "link": "https://www.smbc-comics.com/comic/kiss",
+    "description": "Click here to go see the bonus panel!Hovertext:A guy on bluesky accidentally read right to left, and it makes the first three panels a lot funnier.Today's News:",
+    "author": "Zach Weinersmith",
+    "published": "Tue, 11 Mar 2025 09:53:10 -0400",
+    "image": "https://www.smbc-comics.com/comics/1741701196-20250311_compressed.webp",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  },
+  {
+    "id": "830d800b-3d7d-4af6-8f21-810aa9945794",
+    "title": "The HOA really hates us, I think.",
+    "link": "https://thebloggess.com/2025/03/05/the-hoa-really-hates-us-i-think/",
+    "description": "Just a quick note from the front-lines of our strange, ongoing battle with our Home Owner’s Association, who doesn’t think year-round 12-foot-skeletons are acceptable because skeletons are seasonal and Halloween is over. Bone Crawford remains standing. Happy early St. Patrick’s Day.",
+    "author": "thebloggess",
+    "published": "Wed, 05 Mar 2025 20:28:42 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  },
+  {
+    "id": "72614c30-96a9-41f9-9717-0d8bd0233281",
+    "title": "Hello, Ohio!",
+    "link": "https://thebloggess.com/2025/02/25/hello-ohio/",
+    "description": "So, this Sunday the Upper Arlington Library in Ohio is bringing out to do a talk and I’m very excited about it but also really nervous because I haven’t accepted many speaking gigs in the last five years, in part because I’m self-conscious about a nervous tic that I’ve developed that you’ve no doubt noticedContinue reading \"Hello, Ohio!\"",
+    "author": "thebloggess",
+    "published": "Tue, 25 Feb 2025 20:05:22 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  },
+  {
+    "id": "5fc47fd0-6287-4dc2-aa0c-660fde4f2b3c",
+    "title": "CodeSOD: Expressing a Leak",
+    "link": "https://thedailywtf.com/articles/expressing-a-leak",
+    "description": "We previously discussed some whitespacing choices in a C++ codebase. Tim promised that there were more WTFs lurking in there, and has delivered one. Let's start with this class constructor: QBatch_arithExpr::QBatch_arithExpr(QBatch_unOp, const QBatch_snippet \u0026, const QBatch_snippet \u0026); You'll notice that this takes a parameter of type QBatch_unOp. What is that type? Well, it's an enumerated type describing the kind of operation this arithExpr represents. That is to say, they're not using real inheritance, but instead switching on the QBatch_unOp value to decide which code branch to execute- hand-made, home-grown artisanal inheritance. And while there are legitimate reasons to avoid inheritance, this is a clear case of \"is-a\" relationships, and it would allow compile-time checking of how you combine your types. Tim also points out the use of the \"repugnant west const\", which is maybe a strong way to word it, but definitely using only \"east const\" makes it a lot easier to understand what the const operator does. It's worth noting that in this example, the second parameters is a const reference (not a reference to a const value). Now, they are using inheritance, just not in that specific case: class QBatch_paramExpr : public QBatch_snippet {...}; There's nothing particularly wrong with this, but we're going to use this parameter expression in a moment. QBatch_arithExpr* Foo(QBatch_snippet *expr) { // snip QBatch_arithExpr *derefExpr = new QBatch_arithExpr(enum_tag1, *(new QBatch_paramExpr(paramId))); assert(derefExpr); return new QBatch_arithExpr(enum_tag2, *expr, *derefExpr); } Honestly, in C++ code, seeing a pile of \"*\" operators and raw pointers is a sign that something's gone wrong, and this is no exception. Let's start with calling the QBatch_arithExpr constructor- we pass it *(new QBatch_paramExpr(paramId)), which is a multilayered \"oof\". First, the new operator will heap allocate and construct an object, and return a pointer to that object. We then dereference that pointer, and pass the value as a reference to the constructor. This is an automatic memory leak; because we never trap the pointer, we never have the opportunity to release that memory. Remember kids, in C/C++ you need clear ownership semantics and someone needs to be responsible for deallocating all of the allocated memory- every new needs a delete, in this case. Now, new QBatch_arithExpr(...) will also return a pointer, which we put in derefExpr. We then assert on that pointer, confirming that it isn't null. Which… it can't be. A constructor may fail and throw an exception, but you'll never get a null (now, I'm sure a sufficiently motivated programmer can mix nothrow and -fno-exceptions to get constructors to return null, but that's not happening here, and shouldn't happen anywhere). Then we dereference that pointer and pass it to QBatch_arithExpr- creating another memory leak. Two memory leaks in three lines of code, where one line is an assert, is fairly impressive. Elsewhere in the code, shared_pointer objects are used, wit their names aliased to readable types, aka QBatch_arithExpr::Ptr, and if that pattern were followed here, the memory leaks would go away. As Tim puts it: \"Some folks never quite escaped their Java background,\" and in this case, I think it shows. Objects are allocated with new, but never deleted, as if there's some magical garbage collector which is going to find the unused objects and free them. [Advertisement] BuildMaster allows you to create a self-service release management platform that allows different teams to manage their applications. Explore how!",
+    "author": "Remy Porter",
+    "published": "Wed, 12 Mar 2025 06:30:00 GMT",
+    "image": "https://thedailywtf.com/images/inedo/buildmaster-icon.png",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "CodeSOD"
+    ]
+  },
+  {
+    "id": "f047a99e-032b-427e-8fb7-b0268b6fb624",
+    "title": "Representative Line: Broken Up With",
+    "link": "https://thedailywtf.com/articles/broken-up-with",
+    "description": "Marco found this wreck, left behind by a former co-worker: $(\"#image_sample\").html('No image selected, select an image to see how it looks in the banner!'); This code uses the JQuery library to find an element in the web page with the ID \"image_sample\", and then replaces its contents with this hard-coded blob of HTML. I really appreciate the use of self-closing, XHTML style BR tags, which was a fad between 2000 and 2002, but never truly caught on, and was basically forgotten by the time HTML5 dropped. But this developer insisted that self-closing tags were the \"correct\" way to write HTML. Pity they didn't put any thought in the \"correct\" way to add blank space to page beyond line breaks. Or the correct way to populate the DOM that isn't accessing the inner HTML of an element. At least this was a former co-worker. [Advertisement] ProGet’s got you covered with security and access controls on your NuGet feeds. Learn more.",
+    "author": "Remy Porter",
+    "published": "Tue, 11 Mar 2025 06:30:00 GMT",
+    "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "Representative Line"
+    ]
+  },
+  {
+    "id": "1919ab4b-9132-4b87-a47e-8c69174ed5be",
+    "title": "Stop trying to solve my problem",
+    "link": "http://theoatmeal.com/comics/solve_my_problem?no_popup=1",
+    "description": "A lifesaverView on my website",
+    "author": "Matthew Inman",
+    "published": "2025-02-24T22:50:32+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/solve_my_problem_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "857e3477-8d4c-469c-a773-563996afdbc3",
+    "title": "In 150 characters or less",
+    "link": "http://theoatmeal.com/comics/150_characters?no_popup=1",
+    "description": "This is based on a poem by Nikita GillView on my website",
+    "author": "Matthew Inman",
+    "published": "2025-01-21T20:46:26+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/150_characters_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "7f38eba1-1969-439a-864f-f1f40eea384d",
+    "title": "Tesla Dealerships Attacked With Molotov Cocktails",
+    "link": "https://theonion.com/tesla-dealerships-attacked-with-molotov-cocktails/",
+    "description": "Tesla car dealerships across the U.S. have been attacked with guns and Molotov cocktails in recent days over what protesters believe is Elon Musk’s overreach in government. What do you think? The post Tesla Dealerships Attacked With Molotov Cocktails appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Wed, 12 Mar 2025 17:22:55 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2025/02/Face-Young-Woman.jpg?w=200",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "American Voices",
+      "Elon Musk",
+      "Tesla",
+      "Vol 61: Issue 11"
+    ]
+  },
+  {
+    "id": "1b2bc24b-91b5-4382-8732-c72bc9082641",
+    "title": "Only Good-Looking Person In Office Mingles With Hideous Coworkers Like Missionary Among Lepers",
+    "link": "https://theonion.com/only-good-looking-person-in-office-mingles-with-hideous-coworkers-like-missionary-among-lepers/",
+    "description": "CHICAGO—Showing a graciousness and magnanimity that the rest of the world has denied these pariahs and rejects, Jordan Hall, the only good-looking person in the office, was reportedly mingling Wednesday with his hideous coworkers like a missionary among lepers. Several reports indicated that the handsome and fit Hall was drinking and eating alongside the outcasts […] The post Only Good-Looking Person In Office Mingles With Hideous Coworkers Like Missionary Among Lepers appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Wed, 12 Mar 2025 13:00:00 +0000",
+    "image": "",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "Local",
+      "Vol 61: Issue 11",
+      "Work"
+    ]
+  },
+  {
+    "id": "a7ef3e8c-fc82-4a2c-b032-aa1bd2f3862a",
+    "title": "5 of the Most Important Poops in History",
+    "link": "https://www.cracked.com/article_45031_5-of-the-most-important-poops-in-history.html?newsletter-cat=science-history",
+    "description": "By Jesse Published: January 09th, 2025",
+    "author": "",
+    "published": "Thu, 09 Jan 2025 08:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "21c9e492-9f77-435a-a51b-2729804c84e8",
+    "title": "Deleted Scenes From ‘The Blues Brothers’ Were Rescued by the FBI",
+    "link": "https://www.cracked.com/article_45033_deleted-scenes-from-the-blues-brothers-were-rescued-by-the-fbi.html?newsletter-cat=movies-tv",
+    "description": "By JM McNab Published: January 09th, 2025",
+    "author": "",
+    "published": "Thu, 09 Jan 2025 06:40:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "2bd1d0f6-721b-44a2-9fca-30568444b3c1",
+    "title": "Comic for 2021.12.21",
+    "link": "http://explosm.net/comics/6060/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Tue, 21 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "7a63077b-b5e5-47f9-831d-80d88a059336",
+    "title": "Comic for 2021.12.20",
+    "link": "http://explosm.net/comics/6059/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Mon, 20 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "721d3b05-4f1c-46de-a977-c791b7588501",
+    "title": "Entitled sister-in-law demands her 10-year-old gets first pick at weekly family dinner party, brother-in-law snaps and puts her in her place: ‘[I used] my thundering voice’",
+    "link": "https://cheezburger.com/39602181/entitled-sister-in-law-demands-her-10-year-old-gets-first-pick-at-weekly-family-dinner-party-brother",
+    "description": "When you are a parent, you stand up for your kid, obviously. You always have their back and make sure that they can always come to you for help and to feel safe. That being said, they are still just kids, which means not every choice they make is the right choice—they're still learning. Still be part of their team, of course, but make sure they also face the consequences of their actions. Or else they'll grow up to be an entitled Karen.  Unfortunately, entitled Karens are also mothers and tend to raise a little army of Karens along with her who either grow up continuing the Karen ways, or they have an epiphany and become better people and usually go no-contact with their entitled parent. Who knows what this 10-year-old is going to do when he grows up, but right now, he's being backed up by a Karen mother and some of the family members have had enough. For example, her brother-in-law who has no problem speaking sternly to her.",
+    "author": "Elna McHilderson",
+    "published": "Wed, 12 Mar 2025 17:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "parents of teens",
+      "karens",
+      "dads",
+      "funny dads",
+      "witty parents",
+      "funny moms",
+      "wholesome family memes",
+      "kids",
+      "toddlers",
+      "reddit karen",
+      "moms",
+      "sarcastic parents",
+      "parenting",
+      "Memes",
+      "what goes around comes around",
+      "raising teens",
+      "entitled people karma",
+      "lol",
+      "pay back",
+      "parenting memes",
+      "new parents",
+      "karens in the wild",
+      "justice served",
+      "entitled",
+      "karen karma",
+      "r-entitled",
+      "Reddit",
+      "karen story",
+      "funny",
+      "karma",
+      "karen",
+      "parents",
+      "funny parenting",
+      "entitled people"
+    ]
+  },
+  {
+    "id": "841755cf-8fb1-437a-9b76-fbb278c218d9",
+    "title": "‘I locked him out’: Cyber security contractor locks a client out of their computer system after they refuse to pay an invoice, teaching them a lesson about weaseling out of their end of the deal",
+    "link": "https://cheezburger.com/39600133/i-locked-him-out-cyber-security-contractor-locks-a-client-out-of-their-computer-system-after-they",
+    "description": "Contractors seem to always get burned when it comes to payday. My dad is a general contractor and despite working for luxury clients whose remodel budgets almost always exceed $10 million, they somehow always think of new excuses to avoid paying for $1,000 invoices and petty cash deals. When it comes to closing out a payment that's a drop in the bucket, why do customers get so stingy? The job is done, now you have to pay. That's why a lot of contractors refuse to start work until payment has been received, but in some cases that's unavoidable. This cyber security expert in our next story had a client that he believed was good for their cash, until he realized on payday that they were just as cheap and unreliable as Scrooge McDuck.",
+    "author": "Jesse Kessenheimer",
+    "published": "Wed, 12 Mar 2025 16:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "customer service",
+      "sys admin",
+      "security",
+      "cyber security",
+      "employee",
+      "invoice",
+      "work",
+      "coworkers",
+      "customers",
+      "technology",
+      "client",
+      "employees",
+      "computer",
+      "Tech",
+      "locked out",
+      "contractor",
+      "payback"
+    ]
+  },
+  {
+    "id": "574c25ad-a322-4cef-a81d-ca1887506e2d",
+    "title": "'Should I divorce him or should I become his rival?': Wife writes funny fan-fiction story of her grown-up husband roleplaying as a cat online for 3 years, internet reacts hilariously and mistakes her silliness for seriousness",
+    "link": "https://cheezburger.com/39575301/should-i-divorce-him-or-should-i-become-his-rival-wife-writes-funny-fan-fiction-story-of-her-grown",
+    "description": "We're not going to lie to you, feline fam, we have often dreamed of mysteriously waking up one day in the body of a cat. Just leaving behind our jobs, our friends, even ice cream, all to be a lazy house cat purrfectly perturbed by our inept hoomans. However, that dream has stayed a dream because we know it's not physically pawssible (yet). However, there are others that take it one step further by pretending to be a cat…online. Now, we must be clear that this story is 100% fiction, but we're sure there are people who do this for real. The poster (wife) wrote an absolutely hissterical fan-fiction post about her husband pretending to be a cat online for three years. But, that's not even the best part. The commenters somehow seemed to miss the fact that it was not real, and their reactions are purrfectly serious. It's a giant trainwreck of a post, but it's one we can't look away from in all the funniest ways. Soak up all the silliness below!",
+    "author": "Blake Seidel",
+    "published": "Wed, 12 Mar 2025 08:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "hilarious",
+      "online",
+      "marriage",
+      "internet",
+      "wife",
+      "fan fiction",
+      "husband",
+      "divorce",
+      "Cats",
+      "funny",
+      "animals",
+      "relationship drama"
+    ]
+  },
+  {
+    "id": "4b282eeb-eccd-4425-b840-45ab542a20bd",
+    "title": "20 Ameowzing Photos Capturing How an Itty Bitty Maine Coon Kitty Turns Into a Majestic Fluffy Feline",
+    "link": "https://cheezburger.com/39587589/20-ameowzing-photos-capturing-how-an-itty-bitty-maine-coon-kitty-turns-into-a-majestic-fluffy-feline",
+    "description": "Maine Coons. We have all seen them, we all love them, but do we really know them? Sure, we know that fully-grown Maine Coons are majestic and beautiful and regal, and we know that itty bitty Maine Coon kittens are too fluffy for their own good and have yet to grow into their ears. We know that, and every post and story about Maine Coons that we see makes us happy, makes us aww. But we have never had Maine Coons ourselves, and we don't think that we have ever seen the process - from itty bitty to mighty fluffy. Apparently, we have been missing out a lot. Who knew that there ameowzing and meowgical Maine Coons have an awkward phase as teenagers? We didn't, but now that we know, we feel like this information was crucial to our lives. We don't know how we would have continued to live had we continued not knowing this. Right now, everything seems a little bit brighter. And our desire to adopt a Maine Coon has risen by about… one million.",
+    "author": "Mariel Ruvinsky",
+    "published": "Wed, 12 Mar 2025 06:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "aww",
+      "pics",
+      "wholesome",
+      "cat",
+      "adorable",
+      "cute",
+      "cute cats",
+      "Cats"
+    ]
+  },
+  {
+    "id": "5bcc7725-0f49-431e-aa62-bce84c2445e6",
+    "title": "The Glam Gals",
+    "link": "https://awkwardfamilyphotos.com/2025-glamourous-gals",
+    "description": "“My mom and I did “mother/daughter” glamour shots at a local motel in a janky hotel room in the late 90s. The photographer thought it would be a lovely idea to have us sit back to back and be encircled by black and white feather boas. He also commented on my “beautiful eyes.” At the time,... The post The Glam Gals appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Team Awkward",
+    "published": "Fri, 14 Feb 2025 23:23:12 +0000",
+    "image": "https://s3.awkwardfamilyphotos.com/wp-content/uploads/2025/02/19112053/glam-731x1024.png",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Misc",
+      "Mom"
+    ]
+  },
+  {
+    "id": "109bcc02-baac-4929-b17f-333ac9d06f8a",
+    "title": "Big Red",
+    "link": "https://awkwardfamilyphotos.com/2024/bigred",
+    "description": "“My amazing mullet!” (submitted by Annie) The post Big Red appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Team Awkward",
+    "published": "Thu, 23 Jan 2025 02:54:52 +0000",
+    "image": "https://s3.awkwardfamilyphotos.com/wp-content/uploads/2024/12/22185449/inbound3669388423149842718.jpg",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Kids",
+      "Misc"
+    ]
+  },
+  {
+    "id": "d30cd109-1df6-494d-a1bd-854992ad3521",
+    "title": "Narratoid",
+    "link": "https://www.penny-arcade.com/news/post/2025/03/12/narratoid",
+    "description": "I don't name the things inside Monster Hunter Wilds! That was not my job. But if it had been my job, I would have probably named it the same thing just to get an easy strip out of it. They're giving this shit away! They're giving this shit away.",
+    "author": "",
+    "published": "Wed, 12 Mar 2025 20:53:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "2d8f6abc-0085-4166-ab8e-ea7829e8c381",
+    "title": "Narratoid",
+    "link": "https://www.penny-arcade.com/comic/2025/03/12/narratoid",
+    "description": "New Comic: Narratoid",
+    "author": "",
+    "published": "Wed, 12 Mar 2025 07:01:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "bd4fad0a-f4e5-4466-a46e-0d7f45c0904a",
+    "title": "01/15/21 PHD comic: 'NEW BOOK! Out of Your Mind!'",
+    "link": "http://www.phdcomics.com/comics.php?f=2051",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"NEW BOOK! Out of Your Mind!\" - originally published 1/15/2021 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Mon, 31 Jan 2022 11:24:26 -0800",
+    "image": "http://www.phdcomics.com/comics/archive/phd011525s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  },
+  {
+    "id": "ac135f65-a0ee-4ab4-a2f5-17baaae9cb59",
+    "title": "08/31/23 PHD comic: 'New Book! Oliver's Great Big Universe!'",
+    "link": "http://www.phdcomics.com/comics.php?f=2050",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"New Book! Oliver's Great Big Universe!\" - originally published 8/31/2023 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Tue, 14 Dec 2021 11:53:03 -0800",
+    "image": "http://www.phdcomics.com/comics/archive/phd083123s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  }
+]
