@@ -1,0 +1,275 @@
+[
+  {
+    "id": "dc78215c-2ead-4cb0-a906-c32eb79d95f4",
+    "title": "Customize Your iPhone with Unique App Launch Sound Effects",
+    "link": "https://apple.gadgethacks.com/how-to/custom-app-sounds-iphone-ipad/",
+    "description": "There are plenty of ways to personalize your iPhone or iPad, right down to how it responds when you open an app. With a quick setup, you can have it play a custom sound every time you launch your favorite apps, adding a unique touch to your daily routine. Apple's Shortcuts app makes it easy to automate tasks, including playing a custom sound whenever you launch an app. Whether you want a nostalgic startup chime, a sci-fi beep, or a voice clip announcing each app, this feature adds a unique touch to your iPhone or iPad experience. Once set up, your iPhone or iPad will automatically play the assigned sound every time you open the selected app — no extra taps required. RequirementsiPhone or iPad running the latest iOS or iPadOS version Shortcuts app (preinstalled) A sound effect (either a system-based one or a custom file) Start a new personal 'App' automationLaunch the Shortcuts app on your iPhone or iPad. This is where you'll create an automation that plays a sound whenever you open a...more",
+    "author": "",
+    "published": "Fri, 14 Mar 2025 14:31:22 GMT",
+    "image": "https://assets.content.technologyadvice.com/app_launch_sounds_cover_8edf4f4b8c.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "2e431e57-2486-4aef-9677-b543303f4710",
+    "title": "Safari on iPhone Finally Lets You Check a Site's Security — Here's How to Verify SSL/TLS Certificates",
+    "link": "https://apple.gadgethacks.com/how-to/check-site-connection-safari-iphone-ipad/",
+    "description": "In an era where cybersecurity threats are constantly evolving, knowing whether a website is secure is more important than ever. Apple has finally addressed a long-standing limitation in Safari for iPhone and iPad, allowing us to view SSL/TLS certificate details in iOS 18.4 and iPadOS 18.4 — something we could already do on macOS for over a decade. A long-awaited feature for Safari on iOS and iPadOSUntil now, Safari on iPhone and iPad lacked a way to inspect a website's security certificate beyond the simple lock icon in the address bar. This meant you couldn't access detailed insights into a site's security — something that browsers like Chrome and Firefox have long provided. Even Safari on Mac has supported certificate lookup for over a decade. With iOS 18.4 and iPadOS 18.4, Apple introduces a long-awaited feature that finally lets us see in-depth security details of a website's connection directly within Safari. This update is a significant step forward in improving transparency and...more",
+    "author": "Justin Meyers",
+    "published": "Wed, 12 Mar 2025 22:57:14 GMT",
+    "image": "https://assets.content.technologyadvice.com/safari_page_security_certs_cover_2b7c94ca82.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "d7590272-e0b4-499e-8716-bacf4295e415",
+    "title": "El Diablo Cocktail",
+    "link": "https://abeautifulmess.com/el-diablo-cocktail/",
+    "description": "Looking for a visually stunning cocktail recipe to serve? Try the El Diablo. This recipe is made with tequila, crème de cassis, lime juice, grenadine, ginger beer and an optional garnish of peppers to resemble devil horns. It’s a classic tequila cocktail that’s easy to make and delicious. This recipe first appeared as the Mexican…",
+    "author": "Elsie Larson",
+    "published": "Thu, 13 Mar 2025 13:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/01/El-Diablo-Recipe.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Cocktails",
+      "Food",
+      "Tequila"
+    ]
+  },
+  {
+    "id": "99ad18f4-305a-4bc0-8066-f8a76d07e76f",
+    "title": "Alfredo Sauce",
+    "link": "https://abeautifulmess.com/kitchen-basics-alfredo-sauce/",
+    "description": "Homemade Alfredo sauce is one of the easiest pasta sauces to make from scratch. Made from just five simple ingredients, this recipe is easy and one of those that is truly better homemade than from a jar. Plus, it’s easy! With only five basic ingredients, anyone can have success with this recipe. I usually serve…",
+    "author": "Emma Chapman",
+    "published": "Tue, 11 Mar 2025 13:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2012/10/alfredo-sauce.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Dinner/Lunch",
+      "Food",
+      "Pasta"
+    ]
+  },
+  {
+    "id": "66fafe8b-fb29-4781-baa4-5bebbb920259",
+    "title": "C+P: Combining the Usefulness of C with the Excellence of Prolog",
+    "link": "https://hackaday.com/2025/03/14/cp-combining-the-usefulness-of-c-with-the-excellence-of-prolog/",
+    "description": "In a move that will absolutely not over-excite anyone, nor lead to any heated arguments, [needleful] posits that their C Plus Prolog (C+P for short) programming language is the best …read more",
+    "author": "Maya Posch",
+    "published": "Fri, 14 Mar 2025 23:00:12 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/03/c_plus_prolog_hello_world.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Software Development",
+      "c++",
+      "prolog"
+    ]
+  },
+  {
+    "id": "b11634d5-2b4f-46be-9dbe-842a3a8ca763",
+    "title": "Pi Hand is a Digital Display of a Different Sort",
+    "link": "https://hackaday.com/2025/03/14/pi-hand-is-a-digital-display-of-a-different-sort/",
+    "description": "Hackers enjoy a good theme, and so it comes as no surprise that every time March 14th (Pi Day) rolls around, the tip line sees an uptick in mathematical activity. …read more",
+    "author": "Tom Nardi",
+    "published": "Fri, 14 Mar 2025 20:00:15 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/03/pihand_feat2.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Microcontrollers",
+      "Robots Hacks",
+      "Pi",
+      "Pi day",
+      "robotic hand"
+    ]
+  },
+  {
+    "id": "77756a8a-0c63-4e57-a051-60eae550c1a4",
+    "title": "Combating Unwanted Holiday Guests: Dust Bunnies",
+    "link": "https://www.doityourself.com/stry/combating-unwanted-holiday-guests-dust-bunnies",
+    "description": "Keep your home sparkling and your air quality clean with these tips.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg0.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/972/dust-bunny-195972.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "9c803d3d-4e9e-4fdf-8284-0c9541d1d512",
+    "title": "Learn These Basic Car Maintenance Skills Before a Road Trip",
+    "link": "https://www.doityourself.com/stry/learn-these-basic-car-maintenance-skills-before-a-road-trip",
+    "description": "They can come in very handy in a tough situation.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg2.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/694/shutterstock_104261411-703694.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "97cb1497-9980-4d54-b016-d4ecea34e250",
+    "title": "Romanticize Your Home",
+    "link": "https://centsationalstyle.com/2025/02/romanticize-your-home/",
+    "description": "Happy Valentine’s Day all! The sun just popped out after a week of storms and it’s a beautiful day. It’s still so cold, and on winter days I like to work from home sipping my coffee by morning light as I work on my laptop. There’s a a lot of chatter online romanticizing one’s life,… Keep Reading →",
+    "author": "Kate Riley",
+    "published": "Fri, 14 Feb 2025 16:41:48 +0000",
+    "image": "https://centsationalstyle.com/wp-content/uploads/2025/02/plants-on-table.jpg",
+    "source": "https://centsationalstyle.com/feed/",
+    "categories": [
+      "Design + Decorating Articles",
+      "Style Files",
+      "inspiration"
+    ]
+  },
+  {
+    "id": "54a98f16-9a62-4b3e-bb2a-1799ccb79cc5",
+    "title": "Weekend Reading 2.9.25",
+    "link": "https://centsationalstyle.com/2025/02/weekend-reading-2-9-25/",
+    "description": "Hello all and Happy February to you. I’m at home today watching the Superbowl and catching up on some little projects around the house. Now that the nest is empty, it’s quiet and clean but still has those cozy touches and that feeling of comfort. I’ve been lighting a favorite candle in the evening and… Keep Reading →",
+    "author": "Kate Riley",
+    "published": "Sun, 09 Feb 2025 23:55:46 +0000",
+    "image": "https://centsationalstyle.com/wp-content/uploads/2025/02/wood-white-kitchen-weekend-.jpg",
+    "source": "https://centsationalstyle.com/feed/",
+    "categories": [
+      "Weekend Reading",
+      "weekend reading"
+    ]
+  },
+  {
+    "id": "ed13a20a-1350-4985-9831-460b37ed8806",
+    "title": "Modern Games That Hit Different on a CRT",
+    "link": "https://www.howtogeek.com/modern-games-that-hit-different-on-a-crt/",
+    "description": "What's new is old again.",
+    "author": "Sydney Butler",
+    "published": "Fri, 14 Mar 2025 22:00:14 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/03/vector-art-of-a-vintage-computer-with-a-screenshot-of-cyberpunk-2077-on-its-crt-screen.png",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Video Games",
+      "Retro Gaming",
+      "PC Gaming",
+      "Monitors"
+    ]
+  },
+  {
+    "id": "5c29227a-a493-45fe-a8b2-bf60eb39855c",
+    "title": "5 Reasons You Can Skip a 4K Monitor",
+    "link": "https://www.howtogeek.com/reasons-you-can-skip-a-4k-monitor/",
+    "description": "A handful of reasons you should save your money.",
+    "author": "Sydney Butler",
+    "published": "Fri, 14 Mar 2025 21:30:14 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/03/a-4k-monitor-with-some-question-marks-around.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Windows",
+      "Monitors",
+      "pc building",
+      "Productivity"
+    ]
+  },
+  {
+    "id": "c435c08d-4d12-4148-bab1-7846d501d5a5",
+    "title": "Hand-Quilted Coasters",
+    "link": "https://ohhappyday.com/2022/10/hand-quilted-coasters/",
+    "description": "Get ready for those shorter days and cooler nights by adding a little warmth and color to your home or next gathering. We partnered with Fiskars to use their collection of fabric cutting tools to craft these modern patchwork style coasters. These require a bit of machine sewing but are super beginner friendly, and the...Read More",
+    "author": "olivia",
+    "published": "Tue, 04 Oct 2022 15:09:34 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/BLOG_OHD_FiskarsCoasters-Hero1.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "place cards",
+      "autumn",
+      "coasters",
+      "cutter",
+      "cutting mat",
+      "diy",
+      "drinks",
+      "fabric",
+      "fall",
+      "fiskars",
+      "quilt",
+      "scissors",
+      "sewing"
+    ]
+  },
+  {
+    "id": "eab59b0d-1e96-43a7-9c5c-d778ad46db40",
+    "title": "5 Ways to Fall",
+    "link": "https://ohhappyday.com/2022/09/5-ways-to-fall/",
+    "description": "We are rounding up some of our favorite Fall throwbacks. This also means Halloween is around the corner and it’s time to start costume brainstorming – any suggestions? In the meantime, here are a few of our favorite DIYs to start your Fall Checklist! Rainbow Pumpkin Centerpiece – an OHD classic! Ombre Leaves Backdrop –...Read More",
+    "author": "Jordan",
+    "published": "Fri, 30 Sep 2022 16:49:26 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/FALL2.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "party",
+      "craft",
+      "diy",
+      "fall",
+      "ombre",
+      "pies",
+      "pumpkin",
+      "rainbow",
+      "roundup",
+      "smores"
+    ]
+  },
+  {
+    "id": "20bf6855-ca42-4c31-9668-9aa10f7f1681",
+    "title": "The Clever Hack That Makes Changing Diapers Easier",
+    "link": "https://ikeahackers.net/2025/03/ikea-changing-table.html",
+    "description": "When I was planning my son’s nursery, I remember gawking at inspo pieces that boasted spending thousands on their baby’s room. We were working with a much smaller budget, so a $1,000 changing table (or even a $500 one) was not an option. Therefore, I appreciate repurposing other pieces, as Maxi Marie (@maxis.homestory) did with this IKEA KALLAX changing table hack. If you’re trying to stretch your dollars in your baby’s nursery, I think the changing table is one of […] The post The Clever Hack That Makes Changing Diapers Easier appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Thu, 13 Mar 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Changing Tables",
+      "20 BRILLIANT WAYS TO HACK THE IKEA KALLAX BOOKCASE",
+      "Latest on IG"
+    ]
+  },
+  {
+    "id": "c161ead8-1881-4448-9b8d-a8388a1d3927",
+    "title": "IKEA’s New Spring Collection is the Cutest Thing You’ll See Today",
+    "link": "https://ikeahackers.net/2025/03/ikea-tjarlek-spring-collection.html",
+    "description": "What if every day could feel like the first day of spring? That’s what IKEA designers imagined when they launched the TJÄRLEK collection, filled with vibrant colors, whimsical shapes, and playful patterns. The cheery assortment of tableware, decor, and glassware proclaims the coming of springtime, but they’re so darn cute, that you may want to use them all year long. Create the Perfect Springtime Tablescape Any Time of Year The new IKEA TJÄRLEK collection gives you everything you need to […] The post IKEA’s New Spring Collection is the Cutest Thing You’ll See Today appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Wed, 12 Mar 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Products",
+      "Featured",
+      "ikea"
+    ]
+  },
+  {
+    "id": "0f3cb896-e8c8-4824-8357-6779ca8c6917",
+    "title": "Make Your Android Phone Even Smarter by Setting ChatGPT as Its Voice Assistant",
+    "link": "https://www.makeuseof.com/chatgpt-android-voice-assistant/",
+    "description": "You can now talk to ChatGPT directly from your phone's home screen.",
+    "author": "Jowi Morales",
+    "published": "Fri, 14 Mar 2025 23:16:04 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2025/02/chatgpt-logo-on-smartphone-screen.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Technology Explained",
+      "ChatGPT",
+      "Android"
+    ]
+  },
+  {
+    "id": "c3b94133-d759-4baa-8b42-f579616167a3",
+    "title": "It's 2025, and This Company Just Launched a Brand New Blu-ray Player",
+    "link": "https://www.makeuseof.com/sony-launches-new-ubp-x700-k-blu-ray-player/",
+    "description": "There's a new way to play old-school discs.",
+    "author": "Brent Dirks",
+    "published": "Fri, 14 Mar 2025 21:23:13 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2025/03/sony-dvd-ubp-x700-player.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Entertainment",
+      "Blu-ray"
+    ]
+  }
+]

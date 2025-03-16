@@ -1,0 +1,314 @@
+[
+  {
+    "id": "d2e8aade-97b8-431d-9456-98bdfdd10ebd",
+    "title": "Safari on iPhone Finally Lets You Check a Site's Security — Here's How to Verify SSL/TLS Certificates",
+    "link": "https://apple.gadgethacks.com/how-to/check-site-connection-safari-iphone-ipad/",
+    "description": "In an era where cybersecurity threats are constantly evolving, knowing whether a website is secure is more important than ever. Apple has finally addressed a long-standing limitation in Safari for iPhone and iPad, allowing us to view SSL/TLS certificate details in iOS 18.4 and iPadOS 18.4 — something we could already do on macOS for over a decade. A long-awaited feature for Safari on iOS and iPadOSUntil now, Safari on iPhone and iPad lacked a way to inspect a website's security certificate beyond the simple lock icon in the address bar. This meant you couldn't access detailed insights into a site's security — something that browsers like Chrome and Firefox have long provided. Even Safari on Mac has supported certificate lookup for over a decade. With iOS 18.4 and iPadOS 18.4, Apple introduces a long-awaited feature that finally lets us see in-depth security details of a website's connection directly within Safari. This update is a significant step forward in improving transparency and...more",
+    "author": "Justin Meyers",
+    "published": "Wed, 12 Mar 2025 22:57:14 GMT",
+    "image": "https://assets.content.technologyadvice.com/safari_page_security_certs_cover_2b7c94ca82.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "91a15582-f491-4957-aa16-76ee1fb70e7e",
+    "title": "iOS 18.4 Has 50+ New Features and Changes for iPhone You Won't Want to Miss",
+    "link": "https://ios.gadgethacks.com/news/ios-18.4-features/",
+    "description": "Apple's iOS 18.4 update for iPhone is on the way, and it's bringing some exciting new tools, smart refinements, and deeper Apple Intelligence integration that make your iPhone experience even better. Whether you're looking for ways to stay more organized, enhance your daily workflow, or enjoy new forms of entertainment, this update has something for everyone. Apple Intelligence continues to evolve, with new ways to streamline notifications and help you focus on what truly matters. Key apps are getting notable improvements, making it easier to find what you need, stay productive, and personalize your iPhone like never before. Plus, Apple has a brand-new app that offers a unique way to play certain types of music — though you won't find it alongside your other apps. Beyond that, iOS 18.4 delivers subtle yet meaningful improvements that touch nearly every corner of the system, from communication tools to privacy enhancements. Even the Photos and Safari apps have received useful upgrades...more",
+    "author": "Justin Meyers",
+    "published": "Wed, 12 Mar 2025 16:34:04 GMT",
+    "image": "https://assets.content.technologyadvice.com/18_4_cover_4_acbd856bdc.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "e4ba3a6d-3955-4e5e-8566-c16717c930b2",
+    "title": "BritCSS: Write CSS With British English Spellings",
+    "link": "https://hackaday.com/2025/03/13/britcss-write-css-with-british-english-spellings/",
+    "description": "Everyone knows that there is only one proper English, with the rest being mere derivatives that bastardize the spelling and grammar. Despite this, the hoodlums who staged a violent uprising …read more",
+    "author": "Maya Posch",
+    "published": "Thu, 13 Mar 2025 23:00:48 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/03/britcss_codepen_example.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "internet hacks",
+      "css",
+      "the death of the english language"
+    ]
+  },
+  {
+    "id": "1bff7e96-d042-4f3e-9aeb-f3665824f034",
+    "title": "Have Li-ion Batteries Gone Too Far?",
+    "link": "https://hackaday.com/2025/03/13/have-li-ion-batteries-gone-too-far/",
+    "description": "The proliferation of affordable lithium batteries has made modern life convenient in a way we could only imagine in the 80s when everything was powered by squadrons of AAs, or …read more",
+    "author": "Navarre Bartz",
+    "published": "Thu, 13 Mar 2025 20:00:37 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/02/mba-inside.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Battery Hacks",
+      "batteries",
+      "design",
+      "European Union",
+      "Li-ion",
+      "lithium battery",
+      "repair",
+      "reuse",
+      "right to repair"
+    ]
+  },
+  {
+    "id": "92524745-71bd-46ef-b6bc-2b23b3b4356e",
+    "title": "El Diablo Cocktail",
+    "link": "https://abeautifulmess.com/el-diablo-cocktail/",
+    "description": "Looking for a visually stunning cocktail recipe to serve? Try the El Diablo. This recipe is made with tequila, crème de cassis, lime juice, grenadine, ginger beer and an optional garnish of peppers to resemble devil horns. It’s a classic tequila cocktail that’s easy to make and delicious. This recipe first appeared as the Mexican…",
+    "author": "Elsie Larson",
+    "published": "Thu, 13 Mar 2025 13:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/01/El-Diablo-Recipe.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Cocktails",
+      "Food",
+      "Tequila"
+    ]
+  },
+  {
+    "id": "a516d07d-2695-4d33-bdc8-1b36cc89127d",
+    "title": "Alfredo Sauce",
+    "link": "https://abeautifulmess.com/kitchen-basics-alfredo-sauce/",
+    "description": "Homemade Alfredo sauce is one of the easiest pasta sauces to make from scratch. Made from just five simple ingredients, this recipe is easy and one of those that is truly better homemade than from a jar. Plus, it’s easy! With only five basic ingredients, anyone can have success with this recipe. I usually serve…",
+    "author": "Emma Chapman",
+    "published": "Tue, 11 Mar 2025 13:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2012/10/alfredo-sauce.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Dinner/Lunch",
+      "Food",
+      "Pasta"
+    ]
+  },
+  {
+    "id": "ee2ae26b-01e7-4d95-ab40-9b2216e91985",
+    "title": "Combating Unwanted Holiday Guests: Dust Bunnies",
+    "link": "https://www.doityourself.com/stry/combating-unwanted-holiday-guests-dust-bunnies",
+    "description": "Keep your home sparkling and your air quality clean with these tips.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg0.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/972/dust-bunny-195972.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "c6dc2a19-d2ac-4d11-9142-4749d467bcbb",
+    "title": "Learn These Basic Car Maintenance Skills Before a Road Trip",
+    "link": "https://www.doityourself.com/stry/learn-these-basic-car-maintenance-skills-before-a-road-trip",
+    "description": "They can come in very handy in a tough situation.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg2.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/694/shutterstock_104261411-703694.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "a1c83057-b6e7-4e6a-b2af-b91bc4848537",
+    "title": "6 Things an Xbox Handheld Needs to Do to Replace My Steam Deck",
+    "link": "https://www.howtogeek.com/things-an-xbox-handheld-needs-to-do-to-replace-my-steam-deck/",
+    "description": "Game Pass in my pocket is a tempting prospect.",
+    "author": "Tim Brookes",
+    "published": "Thu, 13 Mar 2025 22:00:14 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/03/xbox-logo-light-close-up.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Video Games",
+      "xbox",
+      "Handheld Gaming",
+      "Steam Deck",
+      "Steam Deck OLED"
+    ]
+  },
+  {
+    "id": "8e3dc85e-32e2-4068-910c-ed84339b14cb",
+    "title": "The Light Phone 3 Wants to Free You From Modern Distractions",
+    "link": "https://www.howtogeek.com/light-phone-3-phone-reveal/",
+    "description": "You'll have to pay a lot for this digital detox, though.",
+    "author": "Arol Wright",
+    "published": "Thu, 13 Mar 2025 21:38:55 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/03/light-phone-3-featured-image.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Android",
+      "Android Phones \u0026 Tablets"
+    ]
+  },
+  {
+    "id": "56e7dbb9-aef3-4038-83a7-59977657196a",
+    "title": "Romanticize Your Home",
+    "link": "https://centsationalstyle.com/2025/02/romanticize-your-home/",
+    "description": "Happy Valentine’s Day all! The sun just popped out after a week of storms and it’s a beautiful day. It’s still so cold, and on winter days I like to work from home sipping my coffee by morning light as I work on my laptop. There’s a a lot of chatter online romanticizing one’s life,… Keep Reading →",
+    "author": "Kate Riley",
+    "published": "Fri, 14 Feb 2025 16:41:48 +0000",
+    "image": "https://centsationalstyle.com/wp-content/uploads/2025/02/plants-on-table.jpg",
+    "source": "https://centsationalstyle.com/feed/",
+    "categories": [
+      "Design + Decorating Articles",
+      "Style Files",
+      "inspiration"
+    ]
+  },
+  {
+    "id": "7667a72c-6b46-44e1-95a4-784379b562f2",
+    "title": "Weekend Reading 2.9.25",
+    "link": "https://centsationalstyle.com/2025/02/weekend-reading-2-9-25/",
+    "description": "Hello all and Happy February to you. I’m at home today watching the Superbowl and catching up on some little projects around the house. Now that the nest is empty, it’s quiet and clean but still has those cozy touches and that feeling of comfort. I’ve been lighting a favorite candle in the evening and… Keep Reading →",
+    "author": "Kate Riley",
+    "published": "Sun, 09 Feb 2025 23:55:46 +0000",
+    "image": "https://centsationalstyle.com/wp-content/uploads/2025/02/wood-white-kitchen-weekend-.jpg",
+    "source": "https://centsationalstyle.com/feed/",
+    "categories": [
+      "Weekend Reading",
+      "weekend reading"
+    ]
+  },
+  {
+    "id": "638356ee-1217-42dd-991a-5ff0f69b0986",
+    "title": "Hand-Quilted Coasters",
+    "link": "https://ohhappyday.com/2022/10/hand-quilted-coasters/",
+    "description": "Get ready for those shorter days and cooler nights by adding a little warmth and color to your home or next gathering. We partnered with Fiskars to use their collection of fabric cutting tools to craft these modern patchwork style coasters. These require a bit of machine sewing but are super beginner friendly, and the...Read More",
+    "author": "olivia",
+    "published": "Tue, 04 Oct 2022 15:09:34 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/BLOG_OHD_FiskarsCoasters-Hero1.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "place cards",
+      "autumn",
+      "coasters",
+      "cutter",
+      "cutting mat",
+      "diy",
+      "drinks",
+      "fabric",
+      "fall",
+      "fiskars",
+      "quilt",
+      "scissors",
+      "sewing"
+    ]
+  },
+  {
+    "id": "f3a4332b-2813-4c8e-bcc4-eea0b6cd3e7c",
+    "title": "5 Ways to Fall",
+    "link": "https://ohhappyday.com/2022/09/5-ways-to-fall/",
+    "description": "We are rounding up some of our favorite Fall throwbacks. This also means Halloween is around the corner and it’s time to start costume brainstorming – any suggestions? In the meantime, here are a few of our favorite DIYs to start your Fall Checklist! Rainbow Pumpkin Centerpiece – an OHD classic! Ombre Leaves Backdrop –...Read More",
+    "author": "Jordan",
+    "published": "Fri, 30 Sep 2022 16:49:26 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/FALL2.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "party",
+      "craft",
+      "diy",
+      "fall",
+      "ombre",
+      "pies",
+      "pumpkin",
+      "rainbow",
+      "roundup",
+      "smores"
+    ]
+  },
+  {
+    "id": "836aaf14-4753-4cde-929e-11df29b70c7d",
+    "title": "How to Stop iPhone Notifications From Interrupting Your Music",
+    "link": "https://www.makeuseof.com/stop-iphone-notifications-interrupting-music/",
+    "description": "Because nothing sucks more.",
+    "author": "John Awa-abuon",
+    "published": "Thu, 13 Mar 2025 20:00:13 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/08/an-iphone-playing-background-sounds-with-airpods-pro-in-the-foreground-and-a-monitor-with-a-keyboard-in-the-background.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "IPhone",
+      "iPhone Tips",
+      "iPhone",
+      "Streaming Music"
+    ]
+  },
+  {
+    "id": "21d23af1-53fb-499a-9704-077f9c82721b",
+    "title": "These Are the 7 Best Reasons to Buy a New Chromebook",
+    "link": "https://www.makeuseof.com/best-reasons-buy-chromebook/",
+    "description": "If I could go back, I'd probably buy something different—but Chromebooks do have amazing features.",
+    "author": "Shan Abdul",
+    "published": "Thu, 13 Mar 2025 19:00:14 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2025/03/man-holding-chromebook-under-arm.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Technology Explained",
+      "Chromebook",
+      "Chrome OS",
+      "Buying Tips"
+    ]
+  },
+  {
+    "id": "9a14f9b2-1129-40f6-bc25-05ca0149c81d",
+    "title": "The Clever Hack That Makes Changing Diapers Easier",
+    "link": "https://ikeahackers.net/2025/03/ikea-changing-table.html",
+    "description": "When I was planning my son’s nursery, I remember gawking at inspo pieces that boasted spending thousands on their baby’s room. We were working with a much smaller budget, so a $1,000 changing table (or even a $500 one) was not an option. Therefore, I appreciate repurposing other pieces, as Maxi Marie (@maxis.homestory) did with this IKEA KALLAX changing table hack. If you’re trying to stretch your dollars in your baby’s nursery, I think the changing table is one of […] The post The Clever Hack That Makes Changing Diapers Easier appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Thu, 13 Mar 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Changing Tables",
+      "20 BRILLIANT WAYS TO HACK THE IKEA KALLAX BOOKCASE",
+      "Latest on IG"
+    ]
+  },
+  {
+    "id": "9dd02702-1952-49f1-8982-1951172e3a38",
+    "title": "IKEA’s New Spring Collection is the Cutest Thing You’ll See Today",
+    "link": "https://ikeahackers.net/2025/03/ikea-tjarlek-spring-collection.html",
+    "description": "What if every day could feel like the first day of spring? That’s what IKEA designers imagined when they launched the TJÄRLEK collection, filled with vibrant colors, whimsical shapes, and playful patterns. The cheery assortment of tableware, decor, and glassware proclaims the coming of springtime, but they’re so darn cute, that you may want to use them all year long. Create the Perfect Springtime Tablescape Any Time of Year The new IKEA TJÄRLEK collection gives you everything you need to […] The post IKEA’s New Spring Collection is the Cutest Thing You’ll See Today appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Wed, 12 Mar 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Products",
+      "Featured",
+      "ikea"
+    ]
+  },
+  {
+    "id": "d942a1d7-adc5-41dd-a357-14bdacc2ab73",
+    "title": "I Used One of 2025’s Trendiest Furniture-Flip Methods on My IKEA HEMNES",
+    "link": "https://www.apartmenttherapy.com/ikea-hemnes-bobbin-detail-diy-37468180?utm_source=RSS\u0026utm_medium=feed\u0026utm_campaign=Category%2FChannel%3A+projects",
+    "description": "And I love the way it turned out. READ MORE...",
+    "author": "Chelsea Angelos",
+    "published": "Thu, 13 Mar 2025 14:00:00 -0400",
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_660/stock/shutterstock_1714113178",
+    "source": "https://www.apartmenttherapy.com/projects.rss",
+    "categories": [
+      "Home Projects",
+      "DIY",
+      "Furniture",
+      "IKEA"
+    ]
+  },
+  {
+    "id": "ee3417cf-4db1-4df4-84a8-4721d325bc33",
+    "title": "A 1908 Home’s Bathroom Gut Reno Adds Vintage Charm Back In",
+    "link": "https://www.apartmenttherapy.com/white-vintage-bathroom-makeover-floral-wallpaper-ba-37467537?utm_source=RSS\u0026utm_medium=feed\u0026utm_campaign=Category%2FChannel%3A+projects",
+    "description": "The hand-built vanity is so cool. READ MORE...",
+    "author": "Abby Monteil",
+    "published": "Wed, 12 Mar 2025 18:00:00 -0400",
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_660/at/home-projects/2025/2025-03/diana-d-bathroom/diana-d-bathroom-before-tagged-1",
+    "source": "https://www.apartmenttherapy.com/projects.rss",
+    "categories": [
+      "Home Projects",
+      "Before \u0026 After",
+      "Featured BA",
+      "Renovating",
+      "Bathroom"
+    ]
+  }
+]

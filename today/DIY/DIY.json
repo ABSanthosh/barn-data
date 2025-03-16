@@ -1,0 +1,275 @@
+[
+  {
+    "id": "ee7984a2-a9d0-43c3-81fd-79d6603c5eac",
+    "title": "Customize Your iPhone with Unique App Launch Sound Effects",
+    "link": "https://apple.gadgethacks.com/how-to/custom-app-sounds-iphone-ipad/",
+    "description": "There are plenty of ways to personalize your iPhone or iPad, right down to how it responds when you open an app. With a quick setup, you can have it play a custom sound every time you launch your favorite apps, adding a unique touch to your daily routine. Apple's Shortcuts app makes it easy to automate tasks, including playing a custom sound whenever you launch an app. Whether you want a nostalgic startup chime, a sci-fi beep, or a voice clip announcing each app, this feature adds a unique touch to your iPhone or iPad experience. Once set up, your iPhone or iPad will automatically play the assigned sound every time you open the selected app — no extra taps required. RequirementsiPhone or iPad running the latest iOS or iPadOS version Shortcuts app (preinstalled) A sound effect (either a system-based one or a custom file) Start a new personal 'App' automationLaunch the Shortcuts app on your iPhone or iPad. This is where you'll create an automation that plays a sound whenever you open a...more",
+    "author": "",
+    "published": "Fri, 14 Mar 2025 14:31:22 GMT",
+    "image": "https://assets.content.technologyadvice.com/app_launch_sounds_cover_8edf4f4b8c.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "8325a123-4c8c-4ff8-bd3c-5ec2ea263f59",
+    "title": "Safari on iPhone Finally Lets You Check a Site's Security — Here's How to Verify SSL/TLS Certificates",
+    "link": "https://apple.gadgethacks.com/how-to/check-site-connection-safari-iphone-ipad/",
+    "description": "In an era where cybersecurity threats are constantly evolving, knowing whether a website is secure is more important than ever. Apple has finally addressed a long-standing limitation in Safari for iPhone and iPad, allowing us to view SSL/TLS certificate details in iOS 18.4 and iPadOS 18.4 — something we could already do on macOS for over a decade. A long-awaited feature for Safari on iOS and iPadOSUntil now, Safari on iPhone and iPad lacked a way to inspect a website's security certificate beyond the simple lock icon in the address bar. This meant you couldn't access detailed insights into a site's security — something that browsers like Chrome and Firefox have long provided. Even Safari on Mac has supported certificate lookup for over a decade. With iOS 18.4 and iPadOS 18.4, Apple introduces a long-awaited feature that finally lets us see in-depth security details of a website's connection directly within Safari. This update is a significant step forward in improving transparency and...more",
+    "author": "Justin Meyers",
+    "published": "Wed, 12 Mar 2025 22:57:14 GMT",
+    "image": "https://assets.content.technologyadvice.com/safari_page_security_certs_cover_2b7c94ca82.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "57678007-439a-4215-b699-66db7871ce19",
+    "title": "Combating Unwanted Holiday Guests: Dust Bunnies",
+    "link": "https://www.doityourself.com/stry/combating-unwanted-holiday-guests-dust-bunnies",
+    "description": "Keep your home sparkling and your air quality clean with these tips.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg0.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/972/dust-bunny-195972.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "24b1eea3-4181-4b46-b10e-e1dfadc09aa3",
+    "title": "Learn These Basic Car Maintenance Skills Before a Road Trip",
+    "link": "https://www.doityourself.com/stry/learn-these-basic-car-maintenance-skills-before-a-road-trip",
+    "description": "They can come in very handy in a tough situation.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg2.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/694/shutterstock_104261411-703694.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "e7b1283c-e1df-4299-a0df-f9f2c3f0a49a",
+    "title": "Hackaday Europe 2025: Streaming Live",
+    "link": "https://hackaday.com/2025/03/15/hackaday-europe-2025-streaming-live/",
+    "description": "Hackaday Europe 2025 is in full swing, and whether you’re experiencing it live in Berlin or following along from home, here’s where you’ll find all the info you need to …read more",
+    "author": "Tom Nardi",
+    "published": "Sat, 15 Mar 2025 10:36:06 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/01/evb-banner1.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "cons",
+      "News",
+      "2025 Hackaday Europe",
+      "live steam"
+    ]
+  },
+  {
+    "id": "db21658c-8b3d-4d1a-8bbb-541baee2fe93",
+    "title": "Add WebUSB Support To Firefox With a Special USB Device",
+    "link": "https://hackaday.com/2025/03/15/add-webusb-support-to-firefox-with-a-special-usb-device/",
+    "description": "The WebUSB standard is certainly controversial. Many consider it a security risk, and, to date,  only Chromium-based browsers support it. But there is a workaround that is, ironically, supposed to …read more",
+    "author": "Maya Posch",
+    "published": "Sat, 15 Mar 2025 23:00:55 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2021/11/firefox-egl-featured.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "computer hacks",
+      "Security Hacks",
+      "firefox",
+      "U2F",
+      "WebUSB"
+    ]
+  },
+  {
+    "id": "36ba7962-2175-4638-b105-ff1c2fa0b809",
+    "title": "White Tea Shot",
+    "link": "https://abeautifulmess.com/white-tea-shot/",
+    "description": "The White Tea Shot is sweet and fresh. It has a base of vodka, but tastes like peach and lemon-lime soda. It’s a cousin to our favorite, the Green Tea Shot. With a prep time of mere minutes, this recipe is easy to make for a group. If you’re looking for a fruity flavor shot…",
+    "author": "Elsie Larson",
+    "published": "Sat, 15 Mar 2025 13:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2023/11/white-tea-shot.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Cocktails",
+      "Food",
+      "Shots"
+    ]
+  },
+  {
+    "id": "6e66e439-4194-476b-9840-328ae6f11c89",
+    "title": "El Diablo Cocktail",
+    "link": "https://abeautifulmess.com/el-diablo-cocktail/",
+    "description": "Looking for a visually stunning cocktail recipe to serve? Try the El Diablo. This recipe is made with tequila, crème de cassis, lime juice, grenadine, ginger beer and an optional garnish of peppers to resemble devil horns. It’s a classic tequila cocktail that’s easy to make and delicious. This recipe first appeared as the Mexican…",
+    "author": "Elsie Larson",
+    "published": "Thu, 13 Mar 2025 13:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/01/El-Diablo-Recipe.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Cocktails",
+      "Food",
+      "Tequila"
+    ]
+  },
+  {
+    "id": "5f728e88-8d64-48fc-8193-e6c98332d67a",
+    "title": "Romanticize Your Home",
+    "link": "https://centsationalstyle.com/2025/02/romanticize-your-home/",
+    "description": "Happy Valentine’s Day all! The sun just popped out after a week of storms and it’s a beautiful day. It’s still so cold, and on winter days I like to work from home sipping my coffee by morning light as I work on my laptop. There’s a a lot of chatter online romanticizing one’s life,… Keep Reading →",
+    "author": "Kate Riley",
+    "published": "Fri, 14 Feb 2025 16:41:48 +0000",
+    "image": "https://centsationalstyle.com/wp-content/uploads/2025/02/plants-on-table.jpg",
+    "source": "https://centsationalstyle.com/feed/",
+    "categories": [
+      "Design + Decorating Articles",
+      "Style Files",
+      "inspiration"
+    ]
+  },
+  {
+    "id": "62345c28-7fff-41f0-bce0-31281b8f5198",
+    "title": "Weekend Reading 2.9.25",
+    "link": "https://centsationalstyle.com/2025/02/weekend-reading-2-9-25/",
+    "description": "Hello all and Happy February to you. I’m at home today watching the Superbowl and catching up on some little projects around the house. Now that the nest is empty, it’s quiet and clean but still has those cozy touches and that feeling of comfort. I’ve been lighting a favorite candle in the evening and… Keep Reading →",
+    "author": "Kate Riley",
+    "published": "Sun, 09 Feb 2025 23:55:46 +0000",
+    "image": "https://centsationalstyle.com/wp-content/uploads/2025/02/wood-white-kitchen-weekend-.jpg",
+    "source": "https://centsationalstyle.com/feed/",
+    "categories": [
+      "Weekend Reading",
+      "weekend reading"
+    ]
+  },
+  {
+    "id": "83af0898-dad5-4eb3-875a-e80553010f50",
+    "title": "10 Hot Facts About Venus",
+    "link": "https://www.howtogeek.com/facts-about-venus/",
+    "description": "Earth's \"evil twin\" hides many secrets under its opaque atmosphere.",
+    "author": "Goran Damnjanovic",
+    "published": "Sat, 15 Mar 2025 22:00:14 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/venus-featured.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Space"
+    ]
+  },
+  {
+    "id": "bb7075e3-999b-4213-80c3-5d4c662bf6c2",
+    "title": "New to Anime? Stream These Shows 9 Right Now",
+    "link": "https://www.howtogeek.com/new-to-anime-stream-these-shows-right-now/",
+    "description": "It's time for a crash course in Japan's most famous export.",
+    "author": "Sydney Butler",
+    "published": "Sat, 15 Mar 2025 21:30:15 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/03/shutterstock_2081183671.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Streaming",
+      "Anime",
+      "Netflix",
+      "Crunchyroll"
+    ]
+  },
+  {
+    "id": "ec737732-5bb5-4dc8-8d45-4887ef1cec11",
+    "title": "The Clever Hack That Makes Changing Diapers Easier",
+    "link": "https://ikeahackers.net/2025/03/ikea-changing-table.html",
+    "description": "When I was planning my son’s nursery, I remember gawking at inspo pieces that boasted spending thousands on their baby’s room. We were working with a much smaller budget, so a $1,000 changing table (or even a $500 one) was not an option. Therefore, I appreciate repurposing other pieces, as Maxi Marie (@maxis.homestory) did with this IKEA KALLAX changing table hack. If you’re trying to stretch your dollars in your baby’s nursery, I think the changing table is one of […] The post The Clever Hack That Makes Changing Diapers Easier appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Thu, 13 Mar 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Changing Tables",
+      "20 BRILLIANT WAYS TO HACK THE IKEA KALLAX BOOKCASE",
+      "Latest on IG"
+    ]
+  },
+  {
+    "id": "596899fd-4c8c-4250-92ce-3ff13e7f28d7",
+    "title": "IKEA’s New Spring Collection is the Cutest Thing You’ll See Today",
+    "link": "https://ikeahackers.net/2025/03/ikea-tjarlek-spring-collection.html",
+    "description": "What if every day could feel like the first day of spring? That’s what IKEA designers imagined when they launched the TJÄRLEK collection, filled with vibrant colors, whimsical shapes, and playful patterns. The cheery assortment of tableware, decor, and glassware proclaims the coming of springtime, but they’re so darn cute, that you may want to use them all year long. Create the Perfect Springtime Tablescape Any Time of Year The new IKEA TJÄRLEK collection gives you everything you need to […] The post IKEA’s New Spring Collection is the Cutest Thing You’ll See Today appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Wed, 12 Mar 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Products",
+      "Featured",
+      "ikea"
+    ]
+  },
+  {
+    "id": "aa797b9e-0def-49b1-a2c6-579ff05c4bf3",
+    "title": "Hand-Quilted Coasters",
+    "link": "https://ohhappyday.com/2022/10/hand-quilted-coasters/",
+    "description": "Get ready for those shorter days and cooler nights by adding a little warmth and color to your home or next gathering. We partnered with Fiskars to use their collection of fabric cutting tools to craft these modern patchwork style coasters. These require a bit of machine sewing but are super beginner friendly, and the...Read More",
+    "author": "olivia",
+    "published": "Tue, 04 Oct 2022 15:09:34 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/BLOG_OHD_FiskarsCoasters-Hero1.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "place cards",
+      "autumn",
+      "coasters",
+      "cutter",
+      "cutting mat",
+      "diy",
+      "drinks",
+      "fabric",
+      "fall",
+      "fiskars",
+      "quilt",
+      "scissors",
+      "sewing"
+    ]
+  },
+  {
+    "id": "6cbe33d2-42e3-474f-a18f-d47a3d9c4b11",
+    "title": "5 Ways to Fall",
+    "link": "https://ohhappyday.com/2022/09/5-ways-to-fall/",
+    "description": "We are rounding up some of our favorite Fall throwbacks. This also means Halloween is around the corner and it’s time to start costume brainstorming – any suggestions? In the meantime, here are a few of our favorite DIYs to start your Fall Checklist! Rainbow Pumpkin Centerpiece – an OHD classic! Ombre Leaves Backdrop –...Read More",
+    "author": "Jordan",
+    "published": "Fri, 30 Sep 2022 16:49:26 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/FALL2.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "party",
+      "craft",
+      "diy",
+      "fall",
+      "ombre",
+      "pies",
+      "pumpkin",
+      "rainbow",
+      "roundup",
+      "smores"
+    ]
+  },
+  {
+    "id": "2269fcaf-1d90-4389-8b40-b2b25ad3be4f",
+    "title": "This Free Lightroom Alternative Changed How I Develop Photos",
+    "link": "https://www.makeuseof.com/rawtherapee-free-lightroom-alternative/",
+    "description": "Pro-level photo editing without the price tag.",
+    "author": "Yadullah Abidi",
+    "published": "Sat, 15 Mar 2025 22:00:14 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/03/rawtherapee-featured-muo.JPG",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Creative",
+      "Image Editor",
+      "Adobe Lightroom"
+    ]
+  },
+  {
+    "id": "6969d57e-210b-401c-b42c-cd8af7f09931",
+    "title": "This One Simple Edit Makes Any Photo Look Professional",
+    "link": "https://www.makeuseof.com/make-photos-professional-with-filters/",
+    "description": "A splash of the right color.",
+    "author": "Danny Maiorca",
+    "published": "Sat, 15 Mar 2025 21:00:14 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/09/a-person-selecting-filters-to-apply-to-a-photo-on-an-iphone.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Creative",
+      "Photography Tips",
+      "Image Editing Tips",
+      "Smartphone Photography"
+    ]
+  }
+]

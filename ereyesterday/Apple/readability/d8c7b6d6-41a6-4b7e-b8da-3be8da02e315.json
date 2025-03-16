@@ -1,0 +1,26 @@
+{
+  "id": "d8c7b6d6-41a6-4b7e-b8da-3be8da02e315",
+  "title": "Where’s Swift Assist?",
+  "link": "https://www.macstories.net/linked/wheres-swift-assist/",
+  "description": "Last June at WWDC, Apple announced Swift Assist, a way to generate Swift code using natural language prompts. However, as Tim Hardwick writes for MacRumors, Swift Assist hasn’t been heard from since then: Unlike Apple Intelligence, Swift Assist never appeared in beta. Apple hasn’t announced that it’s been delayed or cancelled. The company has since […]",
+  "author": "John Voorhees",
+  "published": "Thu, 13 Mar 2025 13:16:27 +0000",
+  "source": "https://www.macstories.net/feed",
+  "categories": [
+    "Linked",
+    "developer tools",
+    "developers",
+    "Swift"
+  ],
+  "byline": "",
+  "length": 820,
+  "excerpt": "Last June at WWDC, Apple announced Swift Assist, a way to generate Swift code using natural language prompts. However, as Tim Hardwick writes for MacRumors, Swift Assist hasn’t been heard from since then: Unlike Apple Intelligence, Swift Assist never appeared in beta. Apple hasn’t announced that it’s been delayed or cancelled. The company has since",
+  "siteName": "",
+  "favicon": "https://www.macstories.net/app/themes/macstories4/images/apple-touch-icon-152x152-precomposed.png",
+  "text": "Last June at WWDC, Apple announced Swift Assist, a way to generate Swift code using natural language prompts. However, as Tim Hardwick writes for MacRumors, Swift Assist hasn’t been heard from since then: Unlike Apple Intelligence, Swift Assist never appeared in beta. Apple hasn’t announced that it’s been delayed or cancelled. The company has since released Xcode 16.3 beta 2, and as Michael Tsai points out, it’s not even mentioned in the release notes. Meanwhile, developers have moved on, adopting services like Cursor, which does much of what was promised with Swift Assist, if not more. A similar tool built specifically for Swift projects and Apple’s APIs would be a great addition to Xcode, but it’s been nine months, and developers haven’t heard anything more about Swift Assist. Apple owes them an update.",
+  "image": "https://56243e3f6f46fe44a301-deabeb5f3878e3553d0b065ea974f9bf.ssl.cf1.rackcdn.com/256px.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle id=\"content\"\u003e\n\n    \n\n    \u003cdiv\u003e\n                        \u003cp id=\"p1\"\u003eLast June at WWDC, Apple announced \u003ca href=\"https://developer.apple.com/videos/play/wwdc2024/102/?time=1438\" rel=\"noopener noreferrer\"\u003eSwift Assist\u003c/a\u003e, a way to generate Swift code using natural language prompts. However, \u003ca href=\"https://www.macrumors.com/2025/03/13/apple-announced-swift-assist-wwdc24-so-where-is-it/\" rel=\"noopener noreferrer\"\u003eas Tim Hardwick writes for MacRumors\u003c/a\u003e, Swift Assist hasn’t been heard from since then:\u003c/p\u003e\n\u003cblockquote id=\"blockquote2\"\u003e\u003cp\u003e\n  Unlike Apple Intelligence, Swift Assist never appeared in beta. Apple hasn’t announced that it’s been delayed or cancelled. The company has since released Xcode 16.3 beta 2, and as \u003ca href=\"https://mjtsai.com/blog/2025/03/12/whither-swift-assist/\" rel=\"noopener noreferrer\"\u003eMichael Tsai points out\u003c/a\u003e, it’s not even mentioned in the \u003ca href=\"https://developer.apple.com/documentation/xcode-release-notes/xcode-16_3-release-notes\" rel=\"noopener noreferrer\"\u003erelease notes\u003c/a\u003e.\n\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp id=\"p3\"\u003eMeanwhile, developers have moved on, adopting services like \u003ca href=\"https://www.cursor.com/\" rel=\"noopener noreferrer\"\u003eCursor\u003c/a\u003e, which does much of what was promised with Swift Assist, \u003ca href=\"https://birchtree.me/blog/watch-me-write-a-task-manager-in-30-minutes/\" rel=\"noopener noreferrer\"\u003eif not more\u003c/a\u003e. A similar tool built specifically for Swift projects and Apple’s APIs would be a great addition to Xcode, but it’s been nine months, and developers haven’t heard anything more about Swift Assist. Apple owes them an update.\u003c/p\u003e\n            \u003c/div\u003e\n\n    \n        \n\n    \n    \n    \n\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-03-13T13:16:27-04:00",
+  "modifiedTime": null
+}
