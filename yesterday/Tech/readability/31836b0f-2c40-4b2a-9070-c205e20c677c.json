@@ -1,0 +1,23 @@
+{
+  "id": "31836b0f-2c40-4b2a-9070-c205e20c677c",
+  "title": "Cloudflare Accused of Blocking Niche Browsers",
+  "link": "https://tech.slashdot.org/story/25/03/15/236215/cloudflare-accused-of-blocking-niche-browsers?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+  "description": "Long-time Slashdot reader BenFenner writes: For the third time in recent memory, CloudFlare has blocked large swaths of niche browsers and their users from accessing web sites that CloudFlare gate-keeps. In the past these issues have been resolved quickly (within a week) and apologies issued with promises to do better. (See 2024-03-11, 2024-07-08, and 2025-01-30.) This time around it has been over six weeks and CloudFlare has been unable or unwilling to fix the problem on their end, effectively stalling any progress on the matter with various tactics including asking browser developers to sign overarching NDAs. That last link is an update posted today by Pale Moon's main developer: Our current situation remains unchanged: CloudFlare is still blocking our access to websites through the challenges, and the captcha/turnstile continues to hang the browser until our watchdog terminates the hung script after which it reloads and hangs again after a short pause (but allowing users to close the tab in that pause, at least). To say that this upsets me is an understatement. Other than deliberate intent or absolute incompetence, I see no reason for this to endure. Neither of those options are very flattering for CloudFlare. I wish I had better news. In a comment, Slashdot reader BenFenner shares a list posted by Pale Moon's developer of reportedly affected browsers: Pale MoonBasiliskWaterfoxFalkonSeaMonkeyVarious Firefox ESR flavorsThorium (on some systems)Ungoogled ChromiumK-MeleonLibreWolfMyPal 68Otter browser Slashdot reader Z00L00K speculates that \"this is some kind of anti-bot measure that fails. I suspect that the reason for them wanting a NDA to be signed is to prevent ways to circumvent the anti-bot measures...\" Read more of this story at Slashdot.",
+  "author": "EditorDavid",
+  "published": "2025-03-15T23:48:00+00:00",
+  "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "categories": [
+    "networking"
+  ],
+  "byline": "",
+  "length": 1,
+  "excerpt": "×",
+  "siteName": "",
+  "favicon": "https://a.fsdn.com/sd/m/assets/apple-touch-icon-precomposed2X-e553cba2892b057428cabcdff1a372fc.png",
+  "text": "×",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\n\n\n\n\n\u003cdiv id=\"ccpa-modal\"\u003e\n        \u003cp\u003e\u003cspan id=\"modal-close\"\u003e×\u003c/span\u003e\u003c/p\u003e\n    \u003c/div\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
