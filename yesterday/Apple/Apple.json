@@ -1,0 +1,369 @@
+[
+  {
+    "id": "b3a7229c-277c-4fc6-8978-5e2f49f19c32",
+    "title": "Apple Pay now available for local banks in Puerto Rico",
+    "link": "https://9to5mac.com/2025/03/18/apple-pay-puerto-rico/",
+    "description": "Following the expansion of Tap to Pay on iPhone to multiple more countries this morning, Apple has now officially launched Apple Pay in Puerto Rico, bringing support for cards issued by local banks. more…",
+    "author": "Filipe Espósito",
+    "published": "Tue, 18 Mar 2025 22:48:09 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/04/Apple-Pay-generic.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "6e78b723-1229-4ba7-8213-30b1572cf778",
+    "title": "Gentler Streak update makes it easier to find health information",
+    "link": "https://9to5mac.com/2025/03/18/gentler-streak-update-health/",
+    "description": "Gentler Streak, the Apple Design Awards-winning fitness and wellness app, is getting another update – this time to make the app even easier and more intuitive to use. After adding new Home Screen widgets with health metrics, Gentler Streak is now introducing a new For You tab that combines the user’s Streak with health information from the wellness section. more…",
+    "author": "Filipe Espósito",
+    "published": "Tue, 18 Mar 2025 22:30:17 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/gentler-streak.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "d51af46d-2b4c-49a5-bcbc-f479a4adb746",
+    "title": "Someday, by Spike Jonze | AirPods 4 with Active Noise Cancellation",
+    "link": "https://www.youtube.com/watch?v=urTfEEsGHds",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-03-18T10:29:33+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "7cbef8ef-e110-4a62-a594-0792f7194c4b",
+    "title": "Metallica — Official Trailer | Apple Vision Pro",
+    "link": "https://www.youtube.com/watch?v=4e5DgSrN3E4",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-03-14T23:40:59+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "53d69ab6-69d7-4243-bdeb-d121fdff0e0e",
+    "title": "Apple unveils immersive concert experience with Metallica for Apple Vision Pro",
+    "link": "https://www.apple.com/newsroom/2025/03/apple-unveils-immersive-concert-experience-with-metallica-for-apple-vision-pro/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-03-11T22:26:38.833Z",
+    "image": "https://www.apple.com/newsroom/images/2025/03/apple-unveils-immersive-concert-experience-with-metallica-for-apple-vision-pro/tile/Apple-Vision-Pro-Apple-Immersive-Video-Metallica-hero-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "45cca272-5f18-4901-b4c1-be637d052f30",
+    "title": "Apple Arcade launches new Katamari and Space Invaders games in April",
+    "link": "https://www.apple.com/newsroom/2025/03/apple-arcade-launches-new-katamari-and-space-invaders-games-in-april/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-03-11T13:59:25.997Z",
+    "image": "https://www.apple.com/newsroom/images/2025/03/apple-arcade-launches-new-katamari-and-space-invaders-games-in-april/tile/Apple-Arcade-hero-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "d733af47-571d-45a6-9975-5132c7b6b384",
+    "title": "Now patched vulnerability left Apple Passwords open to targeted phishing attacks",
+    "link": "https://appleinsider.com/articles/25/03/19/now-patched-vulnerability-left-apple-passwords-open-to-targeted-phishing-attacks?utm_medium=rss",
+    "description": "From iOS 18 when the Passwords app debuted to the iOS 18.2 update, users could have exposed passwords to a bad actor on a privileged network, but you're likely safe.Apple Passwords left users open to targeted phishing attacksApple released iOS 18 in September 2024 with the new Passwords app, but it relied on the less secure HTTP protocol, not HTTPS, when opening links or fetching icons. This meant a bad actor on a privileged network could intercept the HTTP request and redirect users to a fake website and harvest the login.Security research company Mysk uncovered this issue and reported it to Apple in September, and the Passwords app was patched in December with iOS 18.2. That means the vulnerability was live in the wild for those three months and continued to be for anyone running a release prior to iOS 18.2. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Wesley Hilliard",
+    "published": "Wed, 19 Mar 2025 00:46:58 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/63021-130831-Passwords-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "50cc43d3-d477-4027-99a6-196f490caf26",
+    "title": "LincPlus LincStation N2 review: All-SSD network storage, with style",
+    "link": "https://appleinsider.com/articles/25/03/19/lincplus-lincstation-n2-review-all-ssd-network-storage-with-style?utm_medium=rss",
+    "description": "The LincPlus LincStation N2 is a network-attached storage device that offers a compact and stylish way to store your data, but an all-SSD experience just isn't necessary on just about every network in the target market.LincPlus LincStation N2The original LincStation N1 was an attempt by LincPlus to create a network-attached storage device that offered speed without sacrificing appearances. Instead of a sizable block meant to be hidden from view in a networking closet, the LincStation N1 did so with a device that looked completely different.Instead, it was a flash-focused storage appliance that wouldn't look out of place next to a game console or a DVD player. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Mike Wuerthele",
+    "published": "Wed, 19 Mar 2025 00:01:37 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/62900-130556-LincPlusLincStationN2-1-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "b1da96d8-75c9-455f-8a8b-97adbcad82cd",
+    "title": "Apple's M3 iPad Air is an iPad Pro Killer?",
+    "link": "https://www.youtube.com/watch?v=Kn6GbnabXXA",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-03-14T17:16:00+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "e0a4db81-8486-4f57-93d5-5d3deb74e41e",
+    "title": "M4 MacBook Air is Still Apple's BEST Laptop",
+    "link": "https://www.youtube.com/watch?v=pdCUzCHcwIA",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-03-12T17:51:28+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "702f8a8a-3410-44d4-a6fe-ebe4e88fb452",
+    "title": "Hyperspace 1.1",
+    "link": "https://hypercritical.co/hyperspace/",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-03-18T23:03:41Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "bd415a83-e838-4c66-9b9b-b07f3f46e37f",
+    "title": "Saturday Night Live’s Cue Cards",
+    "link": "https://www.youtube.com/watch?v=3djg59JUrmc",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-03-18T16:46:35Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "5675d88d-dd81-464a-adce-aa48ba1f139c",
+    "title": "Price cut: $30 lifetime subscription gives you access to ChatGPT, Mistral AI and more",
+    "link": "https://www.cultofmac.com/deals/1minai-all-in-one-ai-tool",
+    "description": "Get an AI tool that brings top AI models like ChatGPT, Mistral AI and more together in one interface. Enter 1minAI, the all-in-one AI tool. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Cult of Mac Deals",
+    "published": "Tue, 18 Mar 2025 20:40:36 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2024/06/sale_326640_article_image.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Deals",
+      "AI",
+      "ChatGPT",
+      "Cult of Mac Deals"
+    ]
+  },
+  {
+    "id": "e5c8dafd-eecc-44a6-b93e-abbba2868ce0",
+    "title": "iPad mini 7 sale saves you $100",
+    "link": "https://www.cultofmac.com/deals/ipad-mini-deal",
+    "description": "Save on Apple’s most portable tablet. A new iPad mini deal on the 7th-gen tablet knocks as much as 20% off the cost. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Ed Hardy",
+    "published": "Tue, 18 Mar 2025 15:45:58 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2025/01/iPad-mini-7-sale.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Deals",
+      "iPad",
+      "iPad mini"
+    ]
+  },
+  {
+    "id": "27084400-20fc-4cb8-b9b8-e5812a0da603",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 10:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "94fd4ff0-ba5f-4d9c-a3fe-d685cf059919",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 06:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "5ed9de26-0a74-4b2d-969d-470ade86b3ec",
+    "title": "Future iPhones might ditch the USB-C port. Good",
+    "link": "https://www.macworld.com/article/2641477/future-iphones-might-ditch-the-usb-c-port-good.html",
+    "description": "Macworld I had a revelation recently while testing the wired charging speed of my trusty iPhone 16 Plus. In six months of ownership, it occurred to me as I blew the dust out like an archaeologist examining an ancient pot, I had never plugged a cable into my iPhone’s USB-C port. It seemed impossible, but it was true. And it made me think. Do iPhone owners even need ports? When reports suggest that Apple is working on a smartphone with no port at all, everyone loses their minds. But if I can go half a year without using my iPhone’s USB-C port and not even notice, where’s the issue? If Apple wants to ditch the iPhone’s USB-C port, I say: Good. The port at the bottom of an iPhone used to be absolutely fundamental to its well-being. Whether 30-pin, Lightning, or latterly USB-C, the charging/data port was the main, often the only route into or out of the iPhone. Aside from charging, this port was vital in the early days for uploading music and books onto the device and getting photos and videos off it. Syncing and backing up were done via a wired connection, too. But one by one these uses switched from wired only, to wired or wireless, to MagSafe, to who still uses a wire? Most of us will have memories of times when the port connection became unreliable, and of how much of a pain this was. From that point until you got a new phone the cable had to be waggled in a specific way to make it start charging, or the phone had to be laid upside down or at some weird angle. “Don’t use that cable,” you’d warn a friend. “It only plays nicely with the official Apple one.” Just another of those modern conveniences that make life hell. MagSafe is already a fantastic wireless option for (most) iPhones.shutterstock.com / serhatctk Of late, however, this particular set of annoyances has faded into the background, at least for me. I charge wirelessly overnight when the slower speed doesn’t matter. I get my music via streaming, not being 87 years old, and I transfer everything else wirelessly to and from the phone, this not being 2009. Literally, the only time I’ve needed the port since I bought the phone is to test how effective the port is. Okay, you’re saying: bully for you, you don’t need the port. But what’s the problem with keeping it as an option? Where’s the harm? The harm, my Socratic friend, is that including a design element the user doesn’t need is a waste of resources and a cause of unnecessary compromises. As I explained when defending the notch several years ago, seemingly isolated design decisions have a knock-on effect throughout the rest of the product. And if Apple was able to ditch the USB-C port it would be able to make the phone better in various other ways. Most obviously, having a physical opening on a phone is just asking for unwanted things to work their way inside. The dust I mentioned earlier; water, and spilled coffee. The iPhone 16 Plus has an excellent ingress-protection rating of IP68 but it took Apple more than a decade to reach that point because the port made it so difficult to keep dust and water out of the device. Open up your iPhone and you’ll see numerous design adaptations and compromises around the port module to waterproof the whole apparatus; these could be ditched tomorrow if the port wasn’t there, freeing up room within the chassis. That’s on top of the room you’d gain from removing the port module itself, of course. If you’ve got extra room inside the chassis you can install a bigger battery, or move other components around into a more optimal configuration. Removing the port could enable Apple to have a speaker across the full width of the bottom edge, and it would make accessing the internals of your phone for repairs a simpler process. It could even enable the company to make its iPhones thinner, transcending a limitation currently imposed by the thickness of the port. This year’s Oppo Find N5, which resorts to a custom-designed USB-C port to shave off every possible millimeter, is a good example of the way in which manufacturers are hitting a brick wall in their quest for ever-slimmer phones. As long as customers insist on plugging cables into their phones, companies won’t be able to get the size down any further. That USB-C port prevents the device from getting any thinner.Foundry | Alex Walker-Todd Maybe the biggest reason why I want Apple to ditch the USB-C port, however, is that it will force the industry, and society, to finally bite the bullet and fully embrace wireless. Apple has massive weight as a force for change. When iPhones stopped having 3.5mm headphone jacks, accessory makers shifted their focus from wired to wireless (or in some cases, for a time, Lightning or USB-C) headphones, and such devices became cheaper, better, and more widely available and understood. If a chunk of wealthy iPhone owners suddenly lost their USB-C ports, Android manufacturers would likely follow suit, and the same thing would happen for wireless chargers. Cars would start to be sold as standard with Qi2 magnetic mounts rather than, or as well as, the cable ports many currently offer. Wireless charging pucks would become commonplace in homes and offices. And companies (including, I’d expect, Apple itself, because it would be keen to appease EU regulators) would throw their weight behind the development of faster, more efficient and longer-distance wireless charging standards in a way that would be less appealing if wired was still an easy option. I don’t imagine for a second that the USB-C port would disappear overnight. If the iPhone 18 series, for example, turned out to be portless, there would still be an iPhone 17e with a port, not to mention older generations still on sale at a lower price. For those who still want a port, the option would remain–likely for many years, if the slow death of the Home button is anything to go by. Nobody would be forced to join the revolution right away. But the revolution is coming, and the sooner we get started, the better.",
+    "author": "",
+    "published": "Tue, 18 Mar 2025 18:26:45 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/03/iPhone-16e-review-USB-C-port-2.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "iPhone"
+    ]
+  },
+  {
+    "id": "8fa402c3-bfde-4757-9226-8cb8fca7e541",
+    "title": "Best MacBook Air deals this month",
+    "link": "https://www.macworld.com/article/673333/best-macbook-air-deals.html",
+    "description": "Macworld In March 2025, Apple introduced new MacBook Air models with M4 chips, bringing them into line with the MacBook Pro models with M4 chips introduced in October 2024. The 2025 MacBook Air brings some significant improvements: you can now plug in two or more external displays thanks to Thunderbolt 4 support, there’s a new Sky Blue color, and prices start at $999 for the current generation model – that’s $100/£100 less than previously (in the past the entry-level model was an older generation). Now that the M4 MacBook Air is here it’s the perfect time to buy an M4 MacBook Air, we don’t expect to see any large discounts for a while, there are already some small savings from from KRCS in the U.K. and Amazon in the U.S. Look for the best prices below. There may be bigger deals on the older M3 MacBook Air which has now been discontinued. There are a few things to look out for with M3 MacBook Air deals: Make sure that it includes 16GB RAM or more as there are some older M3 MacBook Air models with just 8GB RAM; the equivalent M3 MacBook Air prices were $100/£100 more than the new M4 MacBook Air, so make sure any discount compares favourably to the price of the current model. We’ll only include the best deals below with a clear explanation of what you are saving. We follow all the Apple resellers all year round, so we know the best prices resellers have sold Apple products for–and we know if they have a really good deal and not just an ok deal. Check out the best deals we are seeing right now below. If you aren’t sure whether to buy the MacBook Air or MacBook Pro we recommend you read about the differences between the MacBook Air and Pro. We also have a MacBook buying guide to help you decide. Best MacBook Air deals right now As we mentioned above, in March 2025 Apple introduced the M4 MacBook Air. The new model went on sale on March 12. There are already small savings to be had from Amazon in the U.S. and KRCS in the U.K. The biggest savings are likely to be on the M3 MacBook Air, if you buy an M3 model make sure it has 16GB RAM and that the saving favorably matches the price of the newer model. U.S.: Amazon, 13-inch MacBook Air, M4 (10-core CPU/10-core GPU, 512GB/24GB RAM) £1,397.62 (£1.38 off, MSRP £1,399) Amazon, 15-inch MacBook Air, M4 (10-core CPU/10-core GPU, 256GB/16GB RAM) £1,196.69 (£2.31 off, MSRP £1,199) The deals on older models are much bigger, but keep the new equivalent price in mind. Amazon, 13-inch MacBook Air, M3 (8-core CPU/8-core GPU, 256GB/16GB RAM): $849 ($150 off, equivalent M4 model is $999) Amazon, 13-inch MacBook Air, M3 (8-core CPU/10-core GPU, 512GB/16GB RAM): $1,049 ($100 off, equivalent M4 model is $1,199) Amazon, 13-inch MacBook Air, M3 (8-core CPU/10-core GPU, 512GB/24GB RAM): $1,199 ($200 off, equivalent M4 model is $1,399) U.K.: KRCS, 13-inch MacBook Air, M4 (10-core CPU/8-core GPU, 256GB/16GB RAM) £899.10 (£100 off, RRP £999) Amazon, 13-inch MacBook Air, M4 (10-core CPU/8-core GPU, 512GB/16GB RAM) £1,129.97 (£70 off, RRP $1,1199) KRCS, 15-inch MacBook Air, M4 (10-core CPU/10-core GPU, 256GB/16GB RAM) £1,079.10 (£119 off, RRP £1,199) Every MacBook Air deal right now In the tables below you will see the best price right now for the various MacBook Air models Apple makes. Note Apple’s recommended retail price and you will be able to see just how good the deals on the MacBook Air are. M4 13-inch MacBook Air, 10-core CPU/8-core GPU, 256GB, 16GB RAM, MSRP $999/£999 Retailer Price $974 View Deal $989 View Deal $998 View Deal $999 View Deal $999 View Deal Price comparison from over 24,000 stores worldwide View more prices Product Price Price comparison from Backmarket M4 13-inch MacBook Air, 10-core CPU/10-core GPU, 512GB, 16GB RAM, MSRP $1,199/£1,199 Retailer Price $1,194 View Deal $1199 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M4 13-inch MacBook Air, 10-core CPU/10-core GPU, 1TB, 24GB RAM, MSRP $1,399/£1,399 Retailer Price $1,399 View Deal $1399 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M4 15-inch MacBook Air, 10-core CPU/10-core GPU, 256GB, 16GB RAM, MSRP $1,199/£1,199 Retailer Price $1,198 View Deal $1199 View Deal $1199 View Deal $1199 View Deal $1199 View Deal Price comparison from over 24,000 stores worldwide View more prices Product Price Price comparison from Backmarket M4 15-inch MacBook Air, 10-core CPU/10-core GPU, 512GB, 16GB RAM, MSRP $1,399/£1,399 Retailer Price $1,381 View Deal $1399 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M4 15-inch MacBook Air, 10-core CPU/10-core GPU, 512B, 24GB RAM, MSRP $1,599/£1,599 Retailer Price $1,578.95 View Deal $1599 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket Discontinued MacBook Air models While stock is still available you may be able to pick up a deal on these discontinued Macs. The M4 MacBook Air already costs $100/£100 less than the M3 MacBook Air did. Plus, in October 2024 Apple doubled the RAM in the M3 MacBook Air and you may still find a model with 8GB RAM on sale. Just keep these points in mind when looking for a deal. M3 M3 13-inch MacBook Air, 8-core CPU/8-core GPU, 256GB, 16GB RAM, was $1,099/£1,099 Retailer Price $849 View Deal $854 View Deal $899 View Deal $1099 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M3 13-inch MacBook Air, 8-core CPU/10-core GPU, 512GB, 16GB RAM, was $1,299/£1,299 (was $1,499/£1,499) Retailer Price $999 View Deal $999 View Deal $1099 View Deal $1189 View Deal $1269 View Deal $1299 View Deal $1299 View Deal Price comparison from over 24,000 stores worldwide View more prices Product Price Price comparison from Backmarket M3 13-inch MacBook Air, 8-core CPU/10-core GPU, 512GB, 24GB RAM, was $1,499/£1,499 Retailer Price $1,099 View Deal $1099 View Deal $1224 View Deal $1499 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M3 15-inch MacBook Air, 8-core CPU/10-core GPU, 256GB, 16GB RAM, was $1,299/£1,299 Retailer Price $999 View Deal $1,064 View Deal $1091 View Deal $1299 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M3 15-inch MacBook Air, 8-core CPU/10-core GPU, 512GB, 16GB RAM, was $1,499/£1,499 (was $1,699/£1,699) Retailer Price $1099 View Deal $1,299 View Deal $1399 View Deal $1499 View Deal $1499 View Deal Price comparison from over 24,000 stores worldwide View more prices Product Price Price comparison from Backmarket M3 15-inch MacBook Air, 8-core CPU/10-core GPU, 512GB, 24GB RAM, was $1,699/£1,699 Retailer Price $1,399 View Deal $1399 View Deal $1477 View Deal $1699 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M3 13-inch MacBook Air, 8-core CPU/8-core GPU, 8GB RAM, 256GB, MSRP was $1,099/£1,099 Retailer Price $799 View Deal $889 View Deal $999 View Deal $1099 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M3 13-inch MacBook Air, 8-core CPU/8-core GPU, 8GB RAM, 512GB, MSRP was $1,299/£1,299 Retailer Price $1099 View Deal $1199 View Deal $1299 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M3 15-inch MacBook Air, 8-core CPU/10-core GPU, 256GB, 8GB RAM, MSRP was $1,299/£1,299 Retailer Price $949.95 View Deal $1099 View Deal $1199 View Deal $1,209.95 View Deal $1299 View Deal Price comparison from over 24,000 stores worldwide View more prices Product Price Price comparison from Backmarket M3 15-inch MacBook Air, 8-core CPU/10-core GPU, 512GB, 8GB RAM, MSRP was $1,499/£1,499 – discontinued Retailer Price $1279 View Deal $1349 View Deal $1,359.95 View Deal $1399 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M2 M2 13-inch MacBook Air, 8-core CPU/8-core GPU, 256GB, 16GB RAM, was $999/£999 Retailer Price $699 View Deal $795 View Deal $799 View Deal $899 View Deal $914 View Deal Price comparison from over 24,000 stores worldwide View more prices Product Price Price comparison from Backmarket M2 13.6-inch MacBook Air, 8-core CPU/8-core GPU, 256GB, was $999/£999 Retailer Price $749 View Deal $799 View Deal $799 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M2 13.6-inch MacBook Air, 8-core CPU/10-core GPU, 512GB, was $1,199/£1,199 Retailer Price $929 View Deal $949 View Deal $949 View Deal $982.95 View Deal $1099 View Deal $1499 View Deal Price comparison from over 24,000 stores worldwide View more prices Product Price Price comparison from Backmarket M2 15-inch MacBook Air, 8-core CPU/10-core GPU, 256GB, WAS $1,299/£1,399. (Discontinued) Retailer Price $1299 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket M2 15-inch MacBook Air, 8-core CPU/10-core GPU, 512GB, WAS $1,499/£1,599. Retailer Price $1399 View Deal $1499 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket Where to buy the MacBook Air You can buy a MacBook Air directly from Apple in the US or at Apple UK. You may, however, find a MacBook Air in stock and discounted at one of these resellers. There are plenty of stores and Apple Premium Resellers around the world that offer discounts on new and old Macs, so it’s worth shopping around (read our Where to buy a Mac article for more advice). One benefit of buying from Apple is you could trade in your old Mac and get money off. We have an article explaining How to get money off with Apple’s trade-in program. We recommend the following resellers: U.S. retailers Want to buy a MacBook Air from Apple? View the MacBook Air in the Apple Store. You may be able to save money on a refurbished MacBook Air. View the MacBook Air in the Apple Refurbished Store. Get an education discount: View the MacBook Air in the Apple Education Store. View the MacBook Air at Amazon. View the MacBook Air at B\u0026H Photo. View the MacBook Air at Best Buy View the MacBook Air at Walmart. You can find the MacBook Air at Adorama. Looking for other ways to save money. Find out if you can save money buying Apple products from another country. U.K. retailers If you want to buy a MacBook Air from Apple: View the MacBook Air in the Apple Store. You may be able to get money off an older model from Apple’s refurb store: View the MacBook Air in the Apple Refurbished Store. Save money if you are a teacher or student: View the MacBook Air in the Apple Education Store. Get a Mac from Amazon where we often see discounts: View the MacBook Air at Amazon. AO.com also offers discounts from time to time: View the MacBook Air at AO.com You may find the MacBook Air at Argos, although we only tend to see deals in conjunction with events like Black Friday. We often see great deals on MacBook Air at BT Shop. View the MacBook Air at Currys. View the MacBook Air at Ebuyer View the MacBook Air at John Lewis. We often see discounts on the MacBook Air at Laptops Direct. . You may also find discounts on the MacBook Air at Very. U.K. Apple Authorised Resellers KRCS Insight iStore Select Western Computer Jigsaw Best refurbished MacBook Air deals The deals you will see above are from Apple resellers rather than Apple itself – Apple very rarely drops the prices of the Macs it sells. However, that doesn’t mean you can’t save money buying from Apple: if you want to get a discount on a Mac from Apple you can buy a refurbished Mac. It’s not only Apple that sells refurbished Macs, but Apple does offer some great incentives to buy from Apple’s Refurbished Store, so we do recommend taking a look there for great MacBook Air deals. The Macs in Apple’s refurbished store may be ex-display stock, or they may have been returned to Apple due to a fault, but they are fully reconditioned now and come with a full year’s warranty. It’s not like buying secondhand. Read about buying a refurbished Mac. In the U.S. you’ll find the following MacBook Air available in the refurbished store: 15-inch MacBook Air, M2, 10-core GPU, $929 13-inch MacBook Air, M3, 10-core GPU, $849 Get a refurbished MacBook at Apple's refurbished store (U.S.) In the U.K. you’ll find a slightly smaller selection of Mac laptops available from Apple’s refurbished store. Here’s what you can find: 15-inch MacBook Air, M2, 10-core GPU, £1,099 13-inch MacBook Air, M3, 10-core GPU, £929 Get a refurbished MacBook at Apple's refurbished store (U.K.) You can get refurbished Macs from other suppliers too, including the following refurbished resellers listed below: In the U.S.: Apple Amazon Back Market Best Buy Decluttr Gainsaver OWC Mac Of All Trades Refurb.me In the U.K.: Affordable Mac Apple Amazon BackMarket Hoxton Macs Laptops Direct MacFinder Mac 4 Sale Music Magpie Amazon also has a certified refurbished store for Apple products, but we would advise against buying any products that are older than five years – most of the products we see on the Amazon refurbished store are very old. Another place to look is BackMarket US and BackMarket UK, which sells refurbished Macs and other Apple products. We also recommend Hoxton Macs in the U.K. Other ways to save money Students should check the Apple Education Store, where they will be able to pick up a discount (as long as they qualify for one). Read more: How to get a student discount from Apple. There is also Apple holds a “Back To Uni” event which runs in the US from June to September (and in the UK from July to October) and means you will get free AirPods with your purchase!",
+    "author": "",
+    "published": "Tue, 18 Mar 2025 17:23:12 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/03/IMG_2709-4.jpeg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "MacBook"
+    ]
+  },
+  {
+    "id": "2e5a4f50-8720-4385-aaf5-e3f49495a986",
+    "title": "How to Show QR Code for Wi-Fi on iPhone, Mac, iPad",
+    "link": "https://osxdaily.com/2025/03/18/make-qr-code-wifi-iphone-ipad-mac/",
+    "description": "One very easy and convenient way to share access to a wi-fi router is by generating a QR code for joining that wi-fi router, which can be useful for house guests, offices, waiting rooms, rentals, restaurants, shops, and just about anywhere else with wi-fi that people might want to join. It can also make it ... Read More",
+    "author": "Paul Horowitz",
+    "published": "Tue, 18 Mar 2025 22:23:32 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "iPad",
+      "iPhone",
+      "Mac OS",
+      "Tips \u0026 Tricks",
+      "convert wifi password to QR",
+      "iOS",
+      "iPadOS",
+      "Mac",
+      "macOS",
+      "passwords",
+      "qr code",
+      "share wifi using QR code",
+      "tips",
+      "tricks"
+    ]
+  },
+  {
+    "id": "74f74986-2fa6-4fdf-8cf7-30fa51af018a",
+    "title": "Deals: EarPods Wired Headphones for $16, M3 iPad Air for $549, \u0026 More",
+    "link": "https://osxdaily.com/2025/03/18/deals-earpods-wired-headphones-for-16-m3-ipad-air-for-549-more/",
+    "description": "While AirPods are wildly popular and completely wireless, there’s a growing movement of people who like to use more traditional wired headphones instead of wireless, whether it’s with their iPhone, iPad, or Mac. Many people even prefer the wired headphones over wireless for various reasons. Apple still produces the classic white wired Apple EarPods headphones ... Read More",
+    "author": "OSXDaily",
+    "published": "Tue, 18 Mar 2025 21:53:25 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Deals",
+      "deals"
+    ]
+  },
+  {
+    "id": "2ecdb5b7-8820-4c71-97d4-a6fdb1084b05",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "dc63ba3f-5359-4265-a660-670083331156",
+    "title": "The Overcast Redesign: Part One",
+    "link": "https://marco.org/2022/03/25/overcast-redesign-2022",
+    "description": "Overcast’s latest update (2022.2) brings the largest redesign in its nearly-eight-year history, plus many of the most frequently requested features and lots of under-the-hood improvements. I’m pretty proud of this one. For this first and largest phase of the redesign, I focused on the home screen, playlist screen, typography, and spacing. (I plan to revamp the now-playing and individual-podcast screens in a later update.) The home screen is radically different: Home screen, before (left) and after (right). Playlists now have strong visual identities for nicer and easier navigation. Each playlist has a customizable color, and a custom icon can be selected from over 3,000 SF Symbols to match modern iOS design and the other icons within Overcast. And playlists can be manually reordered with drag-and-drop. Recently played and newly published episodes can now be displayed on the home screen for quick access, much like the widget and CarPlay experience. Podcasts can now be pinned to the top of the home-screen list. Pinned podcasts can also be manually reordered with drag-and-drop. I’ve also rethought the old stacked “Podcasts” and “Played Podcasts” sections to better match people’s needs and expectations. Now, the toggle atop the podcast list switches between three modes: podcasts with current episodes, all followed podcasts, and inactive podcasts (those that you don’t follow and therefore won’t get any more episodes from, or haven’t posted a new episode in a long time). The playlist screen’s structure remains mostly the same, while refining the design for the modern era: Playlist screen, before (left) and after (right). Here, it’s more apparent that I’ve replaced the system San Francisco font with an alternate variant, San Francisco Rounded, to increase legibility and better match the personality of the app. I’ve also added highly demanded features: By far, Overcast’s most-requested feature is a Mark as Played feature. That’s now available as a checkmark button on episode rows, as well as a left-side swipe action. The second-most-requested feature is a way to view all starred episodes. Special playlists for Starred, Downloaded, and In Progress can now be created. The light and dark themes now each have a customizable tint color from the modern iOS UI-color palette, including these favorites from beta testers: And throughout the app, I’ve made tons of tweaks and bug fixes, including: Notifications and background downloads are now much more reliable. Episode downloads can now be individually deleted or re-downloaded. Links can now be opened in Safari. (under Nitpicky Details) Performance is now significantly better with very large playlists and collections. Fixed bugs with episode-duration detection, CarPlay lists, Mac-app sharing, and much more. So much is better in this update that I can’t even remember it all. Thank you so much to everyone who helped me beta-test this massive update. As always, Overcast is free in the App Store. Go get it!",
+    "author": "",
+    "published": "Fri, 25 Mar 2022 10:57:51 EDT",
+    "image": "https://marco.org/media/2022/03/ocredesign2022-1-after.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "85fff4f9-b401-4778-8674-4487213b2422",
+    "title": "∞ The Dalrymple Report: Apple’s pathetic AI, Metallica, new Siri delayed",
+    "link": "https://www.loopinsight.com/2025/03/14/the-dalrymple-report-apples-pathetic-ai-metallica-new-siri-delayed/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-apples-pathetic-ai-metallica-new-siri-delayed",
+    "description": "It seems I may have been right after all—Apple is far behind in AI and now other people are realizing it too. Gruber wrote a scathing piece on Apple and its failed promises about Apple Intelligence. Apple unvieled an immersive concert experience featuring Metallica for its Vision Pro users, and Apple has officially delayed the release of the next generation Siri. Follow this podcast Show Notes: Something Is Rotten in the State of Cupertino Apple unveils immersive concert experience with Metallica for Apple Vision Pro A New System-Wide UI Look for iOS — Let Alone MacOS, Too — Would Be a Huge Deal Apple officially pushing back Siri Shows and movies we're watching The Agency, Paramount+ The Studio Running Point, Netflix",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 14 Mar 2025 12:58:25 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "de86ec77-3d4d-45cf-a844-f141dc43e4d8",
+    "title": "∞ The Dalrymple Report: iPad, MacBook Air, and Mac Studio",
+    "link": "https://www.loopinsight.com/2025/03/07/the-dalrymple-report-ipad-macbook-air-and-mac-studio/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-ipad-macbook-air-and-mac-studio",
+    "description": "It was a big week for Apple with all kinds of new hardware announcements to fit every lifestyle and budget. We had a new iPad and a couple of models of the iPad Air; new MacBook Air M4; and the fastest Mac ever, the new Mac Studio. Follow this podcast Show Notes: Skype is dead. Long live Skype Fix for when your Apple TV remote stops changing the volume on your TV M3 iPad Air Apple unveils new Mac Studio, the most powerful Mac ever Apple reveals M3 Ultra, taking Apple silicon to a new extreme Apple announces new M4 MacBook Air, starting at $999 Shows and movies we're watching The Day of the Jackal, Peacock Boy Swallows Universe, Netflix Tracker, Paramount+",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 07 Mar 2025 17:00:25 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "67a346db-a527-4b13-ba4b-f49ae678596d",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "b204f06a-4ce5-4cf2-a4e7-4898c72e5a54",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  },
+  {
+    "id": "61dc4188-06ac-4538-a58b-6fa3cba07bda",
+    "title": "Choosing Optimism About iOS 19",
+    "link": "https://www.macstories.net/linked/choosing-optimism-about-ios-19/",
+    "description": "I loved this post by David Smith on his decision to remain optimistic about Apple’s rumored iOS 19 redesign despite, well, you know, everything: Optimism isn’t enthusiasm. Enthusiasm is a feeling, optimism is a choice. I have much less of the enthusiastic feelings these days about my relationship to Apple and its technologies (discussed here […]",
+    "author": "Federico Viticci",
+    "published": "Tue, 18 Mar 2025 10:38:39 +0000",
+    "image": "",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "Linked",
+      "apple",
+      "design",
+      "iOS 19"
+    ]
+  },
+  {
+    "id": "a38468c0-8db6-46da-894c-97869c35836b",
+    "title": "Fello AI: All-In-One AI Chat Client for macOS [Sponsor]",
+    "link": "https://www.macstories.net/sponsored/fello-ai-all-in-one-ai-chat-client-for-macos-sponsor/",
+    "description": "Fello AI is a native macOS app that unifies today’s top AI models into one streamlined chat client. Instead of juggling multiple subscriptions and clunky web tools, you can now access models like ChatGPT-4o, Claude 3.7 Sonnet, Gemini 2.0 Pro, Grok, LLaMA, or Perplexity all from a single interface. Designed for professionals, students, and creatives, […]",
+    "author": "MacStories Team",
+    "published": "Mon, 17 Mar 2025 11:00:41 +0000",
+    "image": "https://cdn.macstories.net/cover-1742172962868.png",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "Sponsored Posts",
+      "sponsorships"
+    ]
+  }
+]
