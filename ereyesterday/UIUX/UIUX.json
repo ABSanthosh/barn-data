@@ -1,0 +1,206 @@
+[
+  {
+    "id": "114d646c-abde-4e8e-849f-a69fb4954903",
+    "title": "Web Components Vs. Framework Components: What’s The Difference?",
+    "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
+    "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
+    "author": "Gabriel Shoyombo",
+    "published": "Mon, 17 Mar 2025 10:00:00 GMT",
+    "image": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "f166abe9-dd48-4fcf-bfb0-3d990ec7ca43",
+    "title": "How To Prevent WordPress SQL Injection Attacks",
+    "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
+    "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
+    "author": "Anders Johansson",
+    "published": "Thu, 13 Mar 2025 08:00:00 GMT",
+    "image": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "ee25b91d-58d9-4c54-bb68-c9391fa2e6fb",
+    "title": "[Podcast] Should Brands Get Political? The Risks \u0026 Rewards of Taking a Stand with Jeroen Reuven Bours",
+    "link": "https://justcreative.com/politics-in-branding",
+    "description": "In today’s polarized world, should brands take a stand on political and social issues—or is neutrality the smarter move? Learn more in this podcast!",
+    "author": "Jacob Cass",
+    "published": "Wed, 12 Mar 2025 22:05:19 +0000",
+    "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/2705.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Podcast",
+      "Brands",
+      "business and politics",
+      "design agency",
+      "influence",
+      "Politics",
+      "Social Issues"
+    ]
+  },
+  {
+    "id": "dbe9c2b5-652f-4ad7-b271-22855c4ccff0",
+    "title": "10 Best Cheap Drawing Tablets in 2025 – Expert Picks (Mar)",
+    "link": "https://justcreative.com/best-cheap-drawing-tablets/",
+    "description": "Are you looking for the best cheap drawing tablets? Good news, because you can get a high-performing tablet without spending hundreds of dollars. See our list.",
+    "author": "Jacob Cass",
+    "published": "Fri, 28 Feb 2025 05:00:58 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2024/08/317wQGueXqL._SL500_.webp",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "Drawing",
+      "Budget",
+      "Cheap",
+      "Drawing Tablet",
+      "Smart Devices",
+      "Tablet"
+    ]
+  },
+  {
+    "id": "4e524bef-1905-419c-91af-d878d2daa5f1",
+    "title": "UX Leads Adoption of AI Chat",
+    "link": "https://www.nngroup.com/articles/ux-ai-adoption/",
+    "description": "UX ranks among top fields adopting AI, mostly in writing, design, and coding tasks — though complex or human-centric UX activities remain largely AI-free",
+    "author": "Raluca Budiu",
+    "published": "Fri, 14 Mar 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "e4129c87-ec7b-476f-8f18-3b031146a732",
+    "title": "UX Mindsets: Fixed Versus Growth",
+    "link": "https://www.nngroup.com/articles/mindsets-fixed-vs-growth/",
+    "description": "Embrace adaptability in UX: reframe challenges, balance research with action, and foster a growth mindset to keep up with this evolving industry.",
+    "author": "Alita Kendrick",
+    "published": "Fri, 14 Mar 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "12621fd5-cc9c-43bb-8f32-18891576d888",
+    "title": "A bright future for strategic thinkers",
+    "link": "https://uxdesign.cc/a-bright-future-for-strategic-thinkers-4e9c7aafe65f?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Ed Orozco",
+    "published": "Wed, 19 Mar 2025 19:49:35 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*EPMMtKQHj4sMX2FH7sZ9CA.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "user-experience",
+      "ux",
+      "product-design",
+      "strategy",
+      "ux-research"
+    ]
+  },
+  {
+    "id": "8594da08-0837-405e-888b-cd3ce9b5ac72",
+    "title": "How to grow as a designer even when you’re overwhelmed with work",
+    "link": "https://uxdesign.cc/how-to-grow-as-a-designer-even-when-youre-overwhelmed-with-work-f904aef29c84?source=rss----138adf9c44c---4",
+    "description": "Experimentation is a critical part of growing as a designerContinue reading on UX Collective »",
+    "author": "Kai Wong",
+    "published": "Tue, 18 Mar 2025 20:43:47 GMT",
+    "image": "https://cdn-images-1.medium.com/max/640/1*pyqlXnDXpnJqBmCjvgnyHw.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "productivity",
+      "ux-design",
+      "product-design",
+      "design",
+      "ux"
+    ]
+  },
+  {
+    "id": "9c609c67-f598-400d-841c-5aa657cbb739",
+    "title": "How to Group Your Sidebar Items for Better Findability",
+    "link": "https://uxmovement.com/navigation/how-to-group-your-sidebar-items-for-better-findability/",
+    "description": "When a sidebar contains many items, grouping is necessary to help users find them faster. However, most designers don’t group their sidebar items and force users to scan an entire list. This results in slow navigation times and poor findability. Grouping improves findability by enabling users to spot a group and scan the items in […] The post How to Group Your Sidebar Items for Better Findability first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:27:48 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "3147d784-fa20-4b78-bbf3-629dc443df21",
+    "title": "How to Make Any Sidebar Menu Easier to Scan",
+    "link": "https://uxmovement.com/navigation/how-to-make-any-sidebar-menu-easier-to-scan/",
+    "description": "How easy to scan is your sidebar menu? If you haven’t optimized the spacing, users will likely spend more time navigating and finding items. Balancing the spacing in the sidebar can help users navigate faster and easier. A typical mistake designers make is adding too much or not enough space. Both can make scanning for […] The post How to Make Any Sidebar Menu Easier to Scan first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:24:10 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "6ab40dc5-e11b-4f3a-bb6b-5403aaae96d2",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "326dbeac-940a-401f-bda5-27801675397e",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "e922b133-b42d-47a4-b4c2-f2b4e6fa9ad9",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "6000f961-4f22-45ac-8485-0e92e30841cc",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]

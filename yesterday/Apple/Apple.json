@@ -1,0 +1,374 @@
+[
+  {
+    "id": "272464ce-02f8-4f54-a49c-35c525e3f03e",
+    "title": "Nothing Phone 3a Pro vs iPhone 16e: Not Even Close!",
+    "link": "https://www.youtube.com/watch?v=D3q5ZI5v9CY",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-03-19T17:49:29+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "258427ea-e35f-4f90-8032-e203fd338770",
+    "title": "Apple's M3 iPad Air is an iPad Pro Killer?",
+    "link": "https://www.youtube.com/watch?v=Kn6GbnabXXA",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-03-14T17:16:00+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "4863d368-7308-4091-a170-231637a8a367",
+    "title": "The Seneca",
+    "link": "https://www.norbauer.co/pages/the-seneca",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-03-21T00:03:51Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "a6677b89-aa6f-46cd-bb10-2f2534b3d009",
+    "title": "Gurman: Tim Cook Has Put Mike Rockwell in Charge of Siri, Reporting to Craig Federighi",
+    "link": "https://www.bloomberg.com/news/articles/2025-03-20/apple-vision-pro-chief-mike-rockwell-named-siri-head-giannandrea-keeps-ai-role",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-03-20T16:26:42Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "772c0d8c-3fbb-4b35-9862-9ce676078421",
+    "title": "iOS 18.4 is packed with clues about Apple’s next big product launch",
+    "link": "https://www.macworld.com/article/2636745/the-apple-news-food-section-suggests-that-a-homepad-is-on-the-way.html",
+    "description": "Macworld Apple has long been rumored to be working on a smart home control tablet, which many have dubbed “HomePad.” The device will reportedly feature a new interface that lets users control their smart home accessories, view relevant data like the temperature and weather, FaceTime their contacts, and more. It won’t have an App Store, it is said but will feature purpose-driven Apple apps and services. While the company doesn’t typically acknowledge unreleased projects publicly, the new Food section in the Apple News app and other iOS 18.4 changes all but confirm the HomePad is on the way. The UIs have it For those unfamiliar, iOS and iPadOS 18.4 (currently in beta) introduce a new Food section in the Apple News app, for News+ subscribers. The tab highlights nutrition-related news, diet recommendations, and other food-related articles. More importantly, it integrates an extensive recipe catalog, letting you view the ingredients and cooking directions without needing to skip through the fluff and backstory typically bundled with online recipes. Upon entering the recipe catalog on my iPad for the first time, I was immediately struck by its user interface. The tab features gigantic buttons with noticeably large touch targets not seen in other native iPad apps. It feels like an experimental sneak peek of the HomePad’s interface rather than software specifically designed for the iPad. After starting a random recipe, the steps were displayed in huge typography on my iPad. The text is massive, and I could easily read it from across the room. It’s almost like the UI belongs to a product you’d mount to a wall or rest on the counter, not a tablet you hold in your hands. Foundry The well-thought-out view isn’t limited to oversized elements. When following a recipe, you can quickly start a timer by hitting the mentioned duration in the directions. This takes the Clock app and Siri out of the process and makes it a one-tap feature—perfect when following along with a recipe. The implementation is invaluable to cooks; when your hands are covered in messy ingredients, you can effortlessly tap the display with your wrist, knuckle, or nose to start a timer. Baking in the frameworks Beyond the user-facing Food section, the latest betas of iOS, iPadOS, and tvOS 18.4 include a few under-the-hood tweaks that further point to an imminent HomePad launch. Starting with tvOS, the latest prerelease build adopts the ChatKit framework that handles some iMessage features. Given that Apple TVs and HomePods don’t offer the Messages app, it’s almost certain that the implementation is designed for the HomePad. After all, the smart home hub will likely run a modified version of tvOS that unlocks iOS-like features not available on the Apple TV, such as texting. Similarly, iOS 18.4 introduces a fresh CookingKit framework that could add more recipe-related features at the system level. So, for example, users may be able to search for a specific recipe by searching for an ingredient in Spotlight. This proves that the Food section in Apple News isn’t just a minor addition that the company will later neglect. It’s building an entire system around it, potentially committing to serious development and upgrades in the coming years. Yet again, this suggests the HomePad is on the horizon, as its assistance in the kitchen is expected to be one of its key selling points. Foundry The iOS 18.4 beta also references a new Home category in Apple’s product lineup, further indicating the HomePad release is right around the corner. Spicing up Siri With iOS 18.4 beta, Apple also added a ton of new actions to the Shortcuts app, providing users with granular control over system apps and laying the groundwork for a big Siri update. When Apple’s virtual assistant adopts the new App Intents, users will be able to almost fully control apps via voice commands. This will tie well with Apple News’ Food section on the HomePad, as you’ll likely be able to have Siri initiate the bundled timers and scroll through the steps instead of awkwardly tapping with your nose when your hands are occupied or walking to the wall where it’s mounted. The new Siri will play a big role in the HomePad since it is likely to heavily rely on hands-free input. Siri in its current form isn’t smart or powerful enough to run a device like HomePad, but an updated version is on the way. It was supposed to launch this spring, but now that the big Siri upgrades have been pushed back to “the coming year,” Apple is likely to delay the HomePad as well. HomePad needs to coincide with a time when Apple can at least promise the new Siri is “coming soon,” which means a fall release at the earliest. Voice commands will be critical to HomePad, so Apple can’t launch it with the improved Siri so far away.Foundry Something is coming iOS 18.4 proves that the HomePad is no longer just a theoretical device or prototype lying in some secret Apple basement. The company’s latest software updates share as-close-to-concrete evidence that the project is actively being built, and its release could realistically follow before the year-end. Earlier rumors pointed to a spring release, but the recent Siri delays may have reportedly bumped that back to later in the year. A spring launch would now mean the HomePad doesn’t include the hotly anticipated Siri features and that’s unlikely to happen. What’s more, Apple is expected to introduce the biggest design and interface overhaul in years when iOS 19 and macOS 16 are released this fall. That new design, which will reportedly streamline the interface across devices, could debut in HomePad, but with the Siri delays, it makes more sense to launch the HomePad closer to when iOS 19 arrives. Beyond the Food section in Apple News, the specific frameworks in iOS and tvOS, as well as the declaration of the Home device category in the code, reveal that the HomePad’s first official preview is nearing. One possibility is a WWDC reveal in June, with shipping in the fall. Apple could also unveil HomePad at its September iPhone event (though the iPhone 17 appears to be a larger-than-usual launch). Or perhaps Apple will hold a dedicated smart home event in October in the slot usually reserved for Macs. But whenever it arrives, thanks to iOS 18.4 we know one thing for sure: Apple is working on something big.",
+    "author": "",
+    "published": "Thu, 20 Mar 2025 18:41:48 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/03/news-food-hero-4.jpeg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "Apple Inc, Smart Home"
+    ]
+  },
+  {
+    "id": "c3d799d3-a6dd-484c-b9a6-310fccd47a60",
+    "title": "Best cheap VPNs for Mac: The cheapest VPN deals for Mac, iPhone or iPad",
+    "link": "https://www.macworld.com/article/673709/vpn-deals-for-mac.html",
+    "description": "Macworld If you want to unblock regional content on streaming services like Netflix, iPlayer, and Prime, or access websites that aren’t available in your region, a VPN is an essential tool. VPN services can also give you online privacy as well as letting you securely connect to open Wi-Fi networks in cafes, hotels, airports and other places. But VPNs tend to have complex pricing structures, with long-term contract pricing and offers that seem to offer huge discounts, making identifying a good deal more complex than it is with other types of software. We have tested 14 of the best VPNs for Mac so we know which ones are the best – and we know which ones offer the best value for money. In this article we will help you find the cheapest VPN to suit your needs. Every month we assess the best VPN for Mac deals so we can keep an eye out for the best discounts on offer right now. Find out which VPN we think is the best in our Best Mac VPN group test. We also evaluate the Best VPN for iPad and Best VPN for iPhone. All of the services you’ll find below are ones we’d use ourselves – and we do so daily. We’ll let you know the latest prices and best deals so you can find the VPN that suites you at the best price. Best VPN deals right now All these deals save a significant amount compared to paying for each of these services on a rolling monthly subscription. VPN providers tend to offer year-round discounts, however there are some deals that mean you won’t be locked into a monthly fee, or at least not one that will expire soon. Here is one of the best examples: One deal to take a look at is FastestVPN’s Lifetime plan – which with 93% off makes it an absolute bargain as you pay once and have access to the VPN for life. It’s a one-off $40 (approx £33) and the company says that the full price would be $600. We have plenty more deals for shoppers in the U.S., U.K., Canada and Australia below. Note that many of the deals lock you in for a year or two years after which you can end up paying a lot more, so check out the advertised monthly price. We recommend setting a reminder in your calendar to cancel and look for a new deal to replace the one you had at the end of the contract period. Best free VPN There are a few free VPNs on offer but our advice is usually to be very cautious about them. Companies that give stuff away will be making money somehow, and you can’t be sure they aren’t selling your data. One decent VPN that does offer a free tier is Proton VPN (read our review). You can use Proton VPN for nothing, as long as you’re happy with U.S., Japan, and Netherlands as your server locations. It’s also limiting in that you can only connect a single device, and speeds are slower than the paid plans, but the free version is available on all platforms and if you like it you can always subscribe to get the whole package which will unblock a host of features, including an ad and tracker blocker and improved speed of up to 10 Gbit, as well as an expanded 10-device limit. There’s Port Forwarding for downloads and gaming, too, as well as a Kill Switch for disconnecting should the VPN drop out. Get Proton VPN free Best cheap VPNs for Mac We’re reviewed all these services in our round-up of the best VPNs for Mac. Below you will find details of the best deals available in the U.S., U.K., Australia and Canada currently for each of the major VPN providers – these deals change all the time. Most VPNs cost less than $5/£5 per month, with some less than $3/£3 a month. There are even some free VPNs, but these are usually very limited and could be collecting data about you. The ones we share here are generally around $3/£3 a month or less. Here are our top recommendations for the cheapest Mac VPNs: NordVPN – 73% off Surfshark – 86% off Private Internet Access – 85% off CyberGhost – 82% off As we said above, just remember to take a note of the renewal date when you start a subscription so that you can cancel it before you get charged the full price. Read How to use a VPN on a Mac for more information, and if you still aren’t sure why you need a VPN read: Should I use a VPN on my Mac/iPhone? Best VPN deals: Save money on a VPN for your Mac 1. NordVPN Pros Incredibly easy to use Plenty of server options Price When Reviewed: Basic plan from $3.09 a month for two years. Usually $12.99. Basic 2-Year Plan $3.09 a monthBasic 1-Year Plan$4.99 a monthBasic Monthly Plan$12.99 a month NordVPN is a fully featured VPN option that’s secure, easy to use, and unbelievably fast compared to its competitors. Prices change all the time. NordVPN’s Basic plan is currently $2.99/£2.59/CA$4.69/A$ a month for 2 years. Read our full NordVPN review 2. Surfshark Pros Simple to use No device limits Price When Reviewed: Starter plan from $1.99 a month for two years + 3 free months. Usually $15.45 a month. Starter 2-Year Plan (+ 3 free months)$1.99 a monthStarter 1-Year Plan (+ 3 free months)$3.19 a monthStarter Monthly Plan$15.45 a month SurfShark is a great VPN option that’s as easy to use as the best of them, while maintaining security across an unlimited number of devices – something we don’t see often. Right now Surfshark’s Starter plan is $1.99/£1.69 a month for 2 years + 3 free months. Read our full Surfshark review 3. Private Internet Access Pros Lots of power features Privacy-minded Great value Price When Reviewed: From $2.19 a month for two years + 4 free months. Usually $11.99 a month. Unlimited devices. 2-Year Plan (+4 free months)$2.19 a month6-Month Plan$7.50 a monthMonthly plan$11.99 a month Private Internet Access (PIA) offers a robust feature set that makes it one of the more impressive VPNs out there. Right now PIA Has a deal that means you pay $2.03/£1.69 a month for two years and get two months free. Read our full Private Internet Access review 4. CyberGhost Pros Simple to use Decent speeds Plenty of servers Price When Reviewed: $2.19 a month for two years + 2 free months. Usually $12.99 a month. 2-Year Plan (+ 2 free months)$2.19 a month6-Month Plan$6.99 a monthMonthly Plan$12.99 a month CyberGhost takes a lot of the complexity out of VPN usage, for better and for worse. On the one hand, some users may want more power-user features. At the moment you can get 82% off at Cyberghost. This is $2.19/£1.92 a month for 2 years with 2 free months. It’s fully refundable for 45 days, according to the company. Read our full CyberGhost review 5. hide.me VPN Pros Dedicated streaming servers Impressive free tier Cons Slightly clunky UI Price When Reviewed: From $3.84 a month for 2 years + 2 free months. Usually $9.95 a month. 2-Year Plan (+ 2 free months)$3.84 a month1-Year Plan$6.67 a monthMonthly plan$9.95 a month Hide.me is a solid VPN with a great free tier, but the UI isn’t particularly intuitive. Hide.me’s deal means you pay $3.84/£3.84 a month for 26 months. Read our full hide.me VPN review 6. ProtonVPN Pros Simple to use Free plan Great speed Cons Setup on macOS was a little fiddly Only sells in $, € and Swiss Franks Price When Reviewed: From $2.99 a month for two years. Usually $9.99 a month. 2-Year Plan$2.99 a month1-Year Plan$3.99 a monthProton VPN FreeFree account, 1 device Proton VPN’s free tier, ease of use, and impressive speeds put it right near the top of our VPN recommendations. There is a free tier of Proton VPN, but if you want a bit more flexibility and a few more features prices start at $4.49/€4.49 a month for two years. Usually $9.99/€9.99 a month. The Swiss-based company doesn’t seem to like pounds, so it’s dollars or euros, unfortunately. Read our full ProtonVPN review How to find the best VPN deal for Mac VPN subscriptions typically work out cheaper if you commit for a year or longer, which saves a lot of money. Prices rarely exceed $6/£6 per month with multi-year subscriptions and are often closer to $2/£2… or even less. Many major VPN providers offer discounts through the year, and sometimes even offer permanent discounts. These discounts can look impressive at first. It’s not uncommon to see a countdown timer telling you when the deal ends – but these are almost always to induce FOMO – the fear of missing out – in order to persuade you to sign up immediately. Large discounts are par for the course with VPN services, especially when you’re subscribing for several years. This makes it all the more important to look into the various providers and what each has to offer, before jumping into a long-term commitment. All VPNs we’ve tested offer cross-device coverage too, so you can use them on your Mac, iPhone, iPad and more. We’ve separately rounded up the best iPhone VPNs and iPad VPNs. For our recommendations of Mac Antivirus Software that we have tested see: Best Antivirus for Mac 2024: Top Security Software Compared.",
+    "author": "",
+    "published": "Thu, 20 Mar 2025 16:40:07 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/03/best-vpn-deals-for-mac-2021-1.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "MacOS, Personal Software, Security Software and Services, VPN"
+    ]
+  },
+  {
+    "id": "c7d3fb33-dec5-4119-96e5-09cc61cfe8a2",
+    "title": "Fixing Safari for Mac Error “This webpage was reloaded because a problem occurred”",
+    "link": "https://osxdaily.com/2025/03/19/fixing-safari-for-mac-error-this-webpage-was-reloaded-because-a-problem-occurred/",
+    "description": "Safari is a fantastic web browser on the Mac, but that doesn’t mean it’s always trouble-free. One issue that Safari users may see on the Mac from time to time will cause a webpage to refresh and then throw an error message that says “this webpage was reloaded because a problem occurred”. You might also ... Read More",
+    "author": "Ali Khan",
+    "published": "Wed, 19 Mar 2025 20:58:38 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Mac OS",
+      "Tips \u0026 Tricks",
+      "Troubleshooting",
+      "Mac",
+      "macOS",
+      "safari",
+      "tips",
+      "tricks"
+    ]
+  },
+  {
+    "id": "d28bbd9a-67e6-4456-9dcb-d38c647fc8b5",
+    "title": "Deals: M3 MacBook Air 13″ 24GB / 512GB for $1099",
+    "link": "https://osxdaily.com/2025/03/19/deals-m3-macbook-air-13-24gb-512gb-for-1099/",
+    "description": "Sure Apple just spec-bumped the MacBook Air to have an M4 chip, but if you don’t mind having the M3 chip instead, you can get a whopping 27% off the original retail price of an upgraded model with 24GB RAM and a 512GB SSD. This is still a fantastic Mac and has the M3 chip ... Read More",
+    "author": "OSXDaily",
+    "published": "Wed, 19 Mar 2025 20:28:41 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Deals",
+      "deals"
+    ]
+  },
+  {
+    "id": "71c0912f-cdc7-4611-8f1f-f952f76b76fb",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 10:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "ed01fe0e-63d3-4b83-a86b-103a5c5a1c8c",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 06:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "ede8e334-3d1c-4c1c-ba05-4ee1446316e2",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "561b21f0-cace-47bc-a90a-59230be320bc",
+    "title": "The Overcast Redesign: Part One",
+    "link": "https://marco.org/2022/03/25/overcast-redesign-2022",
+    "description": "Overcast’s latest update (2022.2) brings the largest redesign in its nearly-eight-year history, plus many of the most frequently requested features and lots of under-the-hood improvements. I’m pretty proud of this one. For this first and largest phase of the redesign, I focused on the home screen, playlist screen, typography, and spacing. (I plan to revamp the now-playing and individual-podcast screens in a later update.) The home screen is radically different: Home screen, before (left) and after (right). Playlists now have strong visual identities for nicer and easier navigation. Each playlist has a customizable color, and a custom icon can be selected from over 3,000 SF Symbols to match modern iOS design and the other icons within Overcast. And playlists can be manually reordered with drag-and-drop. Recently played and newly published episodes can now be displayed on the home screen for quick access, much like the widget and CarPlay experience. Podcasts can now be pinned to the top of the home-screen list. Pinned podcasts can also be manually reordered with drag-and-drop. I’ve also rethought the old stacked “Podcasts” and “Played Podcasts” sections to better match people’s needs and expectations. Now, the toggle atop the podcast list switches between three modes: podcasts with current episodes, all followed podcasts, and inactive podcasts (those that you don’t follow and therefore won’t get any more episodes from, or haven’t posted a new episode in a long time). The playlist screen’s structure remains mostly the same, while refining the design for the modern era: Playlist screen, before (left) and after (right). Here, it’s more apparent that I’ve replaced the system San Francisco font with an alternate variant, San Francisco Rounded, to increase legibility and better match the personality of the app. I’ve also added highly demanded features: By far, Overcast’s most-requested feature is a Mark as Played feature. That’s now available as a checkmark button on episode rows, as well as a left-side swipe action. The second-most-requested feature is a way to view all starred episodes. Special playlists for Starred, Downloaded, and In Progress can now be created. The light and dark themes now each have a customizable tint color from the modern iOS UI-color palette, including these favorites from beta testers: And throughout the app, I’ve made tons of tweaks and bug fixes, including: Notifications and background downloads are now much more reliable. Episode downloads can now be individually deleted or re-downloaded. Links can now be opened in Safari. (under Nitpicky Details) Performance is now significantly better with very large playlists and collections. Fixed bugs with episode-duration detection, CarPlay lists, Mac-app sharing, and much more. So much is better in this update that I can’t even remember it all. Thank you so much to everyone who helped me beta-test this massive update. As always, Overcast is free in the App Store. Go get it!",
+    "author": "",
+    "published": "Fri, 25 Mar 2022 10:57:51 EDT",
+    "image": "https://marco.org/media/2022/03/ocredesign2022-1-after.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "3c054804-7ed3-44d8-9ec9-6bbb8b2ac3d9",
+    "title": "∞ The Dalrymple Report: Apple’s pathetic AI, Metallica, new Siri delayed",
+    "link": "https://www.loopinsight.com/2025/03/14/the-dalrymple-report-apples-pathetic-ai-metallica-new-siri-delayed/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-apples-pathetic-ai-metallica-new-siri-delayed",
+    "description": "It seems I may have been right after all—Apple is far behind in AI and now other people are realizing it too. Gruber wrote a scathing piece on Apple and its failed promises about Apple Intelligence. Apple unvieled an immersive concert experience featuring Metallica for its Vision Pro users, and Apple has officially delayed the release of the next generation Siri. Follow this podcast Show Notes: Something Is Rotten in the State of Cupertino Apple unveils immersive concert experience with Metallica for Apple Vision Pro A New System-Wide UI Look for iOS — Let Alone MacOS, Too — Would Be a Huge Deal Apple officially pushing back Siri Shows and movies we're watching The Agency, Paramount+ The Studio Running Point, Netflix",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 14 Mar 2025 12:58:25 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "01f939ca-dcdc-4ec7-b9b0-6a70d37d9374",
+    "title": "∞ The Dalrymple Report: iPad, MacBook Air, and Mac Studio",
+    "link": "https://www.loopinsight.com/2025/03/07/the-dalrymple-report-ipad-macbook-air-and-mac-studio/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-ipad-macbook-air-and-mac-studio",
+    "description": "It was a big week for Apple with all kinds of new hardware announcements to fit every lifestyle and budget. We had a new iPad and a couple of models of the iPad Air; new MacBook Air M4; and the fastest Mac ever, the new Mac Studio. Follow this podcast Show Notes: Skype is dead. Long live Skype Fix for when your Apple TV remote stops changing the volume on your TV M3 iPad Air Apple unveils new Mac Studio, the most powerful Mac ever Apple reveals M3 Ultra, taking Apple silicon to a new extreme Apple announces new M4 MacBook Air, starting at $999 Shows and movies we're watching The Day of the Jackal, Peacock Boy Swallows Universe, Netflix Tracker, Paramount+",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 07 Mar 2025 17:00:25 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "cd7aa5de-c5f9-48d7-a918-4c36e0787f9e",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "2e60f520-007d-44cf-98e6-5ea0c38bbb09",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  },
+  {
+    "id": "8fc94f6e-9d9b-45ee-9d24-98ee7956caae",
+    "title": "Bloomberg Reports that Apple Is Shaking up Siri Leadership",
+    "link": "https://www.macstories.net/linked/bloomberg-reports-that-apple-is-shaking-up-siri-leadership/",
+    "description": "Less than two weeks ago, Apple announced that it was delaying the launch of a more personalized Siri. Today, Mark Gurman, reporting for Bloomberg, says the company is shuffling leadership of the project, too. According to Gurman: Chief Executive Officer Tim Cook has lost confidence in the ability of AI head John Giannandrea to execute […]",
+    "author": "John Voorhees",
+    "published": "Thu, 20 Mar 2025 17:57:13 +0000",
+    "image": "",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "Linked",
+      "AI",
+      "apple",
+      "Apple Intelligence",
+      "management",
+      "siri"
+    ]
+  },
+  {
+    "id": "32e040e6-38b6-4f5b-92f7-02ec6616f354",
+    "title": "Scratchpad: The Cross-Device Text Utility That Pairs Perfectly with Your Clipboard Manager",
+    "link": "https://www.macstories.net/reviews/scratchpad-the-cross-device-text-utility-that-pairs-perfectly-with-your-clipboard-manager/",
+    "description": "One of the best indicators of how sticky a cross-device utility will be in my setup is how quickly I install it everywhere. For Sindre Sorhus’ Scratchpad, the answer was “very sticky.” The simple text utility works on the iPhone, iPad, Mac, Apple Watch, and Vision Pro (via iPad compatibility mode), and as soon as […]",
+    "author": "John Voorhees",
+    "published": "Thu, 20 Mar 2025 14:33:24 +0000",
+    "image": "https://cdn.macstories.net/cleanshot-2025-03-19-at-07-07-02-2x-1742382635168.png",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "reviews",
+      "app",
+      "apple watch",
+      "iPad",
+      "iPhone",
+      "mac",
+      "plain text",
+      "text editor",
+      "utility",
+      "Vision Pro"
+    ]
+  },
+  {
+    "id": "111cd4bb-d1cc-4388-9ea9-366b59fbd81d",
+    "title": "Someday, by Spike Jonze | AirPods 4 with Active Noise Cancellation",
+    "link": "https://www.youtube.com/watch?v=urTfEEsGHds",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-03-18T10:29:33+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "0d3e2664-fdda-4cb0-adb8-2259577db210",
+    "title": "Metallica — Official Trailer | Apple Vision Pro",
+    "link": "https://www.youtube.com/watch?v=4e5DgSrN3E4",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-03-14T23:40:59+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "f41cd1c6-00bc-4d0c-bfe4-4f846ceda709",
+    "title": "Apple hit with lawsuit over ‘false advertising’ of Apple Intelligence features",
+    "link": "https://9to5mac.com/2025/03/20/apple-intelligence-lawsuit-advertising/",
+    "description": "Apple continues to face the fallout from its decision to delay the “more personalized Siri” that it first announced last summer as part of Apple Intelligence. Axios reports that Apple is facing a federal lawsuit alleging that its “promotion of now-delayed Apple Intelligence features constituted false advertising and unfair competition.” more…",
+    "author": "Chance Miller",
+    "published": "Thu, 20 Mar 2025 22:50:21 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/apple-fifth-ave-apple-intelligence-iphone-16.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "13747a9e-6951-4a89-88c7-a55e500c8bb7",
+    "title": "Threads adds topics to profiles and new options for managing posts",
+    "link": "https://9to5mac.com/2025/03/20/threads-topics-profiles-managing-posts/",
+    "description": "Meta on Thursday announced new features coming to Threads, the company’s microblogging platform. Users will now have the option to add specific topics to their profiles, as well as more controls over who can reply or quote a post. more…",
+    "author": "Filipe Espósito",
+    "published": "Thu, 20 Mar 2025 22:41:44 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/07/instagram-threads-icon.webp?w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "396aeb1a-4849-4b37-ac5c-edd507de239d",
+    "title": "Apple unveils immersive concert experience with Metallica for Apple Vision Pro",
+    "link": "https://www.apple.com/newsroom/2025/03/apple-unveils-immersive-concert-experience-with-metallica-for-apple-vision-pro/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-03-11T22:26:38.833Z",
+    "image": "https://www.apple.com/newsroom/images/2025/03/apple-unveils-immersive-concert-experience-with-metallica-for-apple-vision-pro/tile/Apple-Vision-Pro-Apple-Immersive-Video-Metallica-hero-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "39be486c-21e6-47dc-96dd-5c91a965da42",
+    "title": "Apple Arcade launches new Katamari and Space Invaders games in April",
+    "link": "https://www.apple.com/newsroom/2025/03/apple-arcade-launches-new-katamari-and-space-invaders-games-in-april/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-03-11T13:59:25.997Z",
+    "image": "https://www.apple.com/newsroom/images/2025/03/apple-arcade-launches-new-katamari-and-space-invaders-games-in-april/tile/Apple-Arcade-hero-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "b54e76de-442c-4cbb-b983-b1987b83e3e4",
+    "title": "Speediance VeloNix stationary bike review: a solid biking experience for those who can afford it",
+    "link": "https://appleinsider.com/articles/25/03/21/speediance-velonix-stationary-bike-review-a-solid-biking-experience-for-those-who-can-afford-it?utm_medium=rss",
+    "description": "If you love hitting your local spin class but don't want to leave the comfort of home, the Speediance VeloNix brings the spin class to you — for a price.Speediance VeloNix Smart Exercise Bike I'm not much of a \"cardio girlie\" as it were. You can get me in the gym to strength train all day every day — that's never been an issue. However, getting me on a treadmill or elliptical — or, God forbid the stairmaster — is nigh impossible.The one thing that I do like, though, is cycling. In 2023, I tested out the Ride 1UP Roadster and I've been hooked since. In fact, I biked more than 1200 miles in 2024 alone. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Amber Neely",
+    "published": "Fri, 21 Mar 2025 00:18:46 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/62996-130770-DC535C91-ABD9-4486-9481-E81F2C6D6A88-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "363d1dd4-3fc6-4763-b282-11ca6f099a3f",
+    "title": "Apple's premature Apple Intelligence ad subject of new lawsuit",
+    "link": "https://appleinsider.com/articles/25/03/20/apples-premature-apple-intelligence-ad-subject-of-new-lawsuit?utm_medium=rss",
+    "description": "Apple Intelligence was meant to get a feature that relied on contextual data to provide results, but that has been delayed and is now part of a lawsuit seeking class action status.Apple Intelligence ad target of latest lawsuitLawsuits are a dime a dozen in the United States, something Apple is very familiar with. The latest isn't a surprise to those following the Apple Intelligence debacle after a promised feature was delayed into \"the coming year.\"According to a report from Axios, the lawsuit originated with Clarkson Law Firm in San Jose. It specifically highlights a now-pulled ad featuring Bella Ramsey asking for information about a person she had a meeting with. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Wesley Hilliard",
+    "published": "Thu, 20 Mar 2025 23:11:11 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/63047-130932-Apple-Intelligence-neon-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "5910767a-24e7-4464-bbfe-4abcbe2352ae",
+    "title": "Price drop: Digitize all your old film and slides with this Kodak scanner",
+    "link": "https://www.cultofmac.com/deals/kodak-slide-n-scan-film-scanner",
+    "description": "Easily digitize old slides and film negatives (color or black-and-white) to preserve them with the Kodak Scan N Save slide film scanner. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Cult of Mac Deals",
+    "published": "Thu, 20 Mar 2025 20:40:48 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2023/11/COM-Kodak-Scanner.jpeg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Deals",
+      "Cult of Mac Deals",
+      "Kodak",
+      "scanners"
+    ]
+  },
+  {
+    "id": "5a627fb1-e009-4215-b687-f97c7dfbdc70",
+    "title": "Carême: Chef. Spy. Lover. And French beyond belief. [Apple TV+ trailer]",
+    "link": "https://www.cultofmac.com/news/careme-chef-spy-lover-and-french-beyond-belief-apple-tv-trailer",
+    "description": "Watch the \"Carême\" trailer for a rags-to-riches story of the world's first celebrity chef -- and a spy, with a side of pretentiousness. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "David Snow",
+    "published": "Thu, 20 Mar 2025 17:18:39 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2025/03/032025_apple_tv_debuts_trailer_for_daring_new_french_language_drama_careme_big_image_post.jpg.slideshow_large.jpg.webp",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "News",
+      "Apple TV+",
+      "Apple TV+ trailers",
+      "drama series"
+    ]
+  }
+]
