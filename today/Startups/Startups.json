@@ -1,0 +1,621 @@
+[
+  {
+    "id": "657f2239-08ac-4e39-b844-31af86f2e1cc",
+    "title": "Superlinear Returns",
+    "link": "http://www.paulgraham.com/superlinear.html",
+    "description": "",
+    "author": "",
+    "published": "",
+    "image": "",
+    "source": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+    "categories": null
+  },
+  {
+    "id": "1e1b5b3c-66a0-4bd4-8dbe-0e011c821a85",
+    "title": "How to Do Great Work",
+    "link": "http://www.paulgraham.com/greatwork.html",
+    "description": "",
+    "author": "",
+    "published": "",
+    "image": "",
+    "source": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+    "categories": null
+  },
+  {
+    "id": "1856d990-9d90-4219-b1af-e2be1fcc8708",
+    "title": "19 Years Ago Today",
+    "link": "https://feld.com/archives/2023/05/19-years-ago-today/",
+    "description": "I got an email from Matt Blumberg this morning with the above image that said, “We have been blogging for 19 years. I can remember sitting together above Super Liquor futzing with Typepad like it was yesterday.” “Super Liquor” is Superior Liquor in Superior, Colorado, which was on the first floor of the building off […] The post 19 Years Ago Today appeared first on Brad Feld.",
+    "author": "Brad Feld",
+    "published": "Wed, 10 May 2023 15:57:14 +0000",
+    "image": "https://i0.wp.com/feld.com/wp-content/uploads/2023/05/image001.png?resize=691%2C504\u0026ssl=1",
+    "source": "https://feld.com/archives/tag/blog/feed",
+    "categories": [
+      "Technology",
+      "blog",
+      "fred wilson",
+      "matt blumberg"
+    ]
+  },
+  {
+    "id": "f0747bff-321e-4893-950f-e2699de1bd80",
+    "title": "The Moment You Realize You Aren’t Comfortable With What You Wrote",
+    "link": "https://feld.com/archives/2018/12/the-moment-your-realize-you-arent-comfortable-with-what-your-wrote/",
+    "description": "I just spent the last 30 minutes writing a blog post around a simple phrase that I like. I built out my thought process around it, used a handful of examples, and then filled in some additional ideas. I was proofreading it when I decided to go try to find the original source of the […] The post The Moment You Realize You Aren’t Comfortable With What You Wrote appeared first on Brad Feld.",
+    "author": "Brad Feld",
+    "published": "Tue, 11 Dec 2018 15:22:03 +0000",
+    "image": "",
+    "source": "https://feld.com/archives/tag/blog/feed",
+    "categories": [
+      "Personal",
+      "blog"
+    ]
+  },
+  {
+    "id": "1455c3b5-f415-4c2e-b8c6-c54244e3826c",
+    "title": "Built For You Spring ‘25: The future of customer service is calling",
+    "link": "https://www.intercom.com/blog/built-for-you-spring-25-the-future-of-customer-service-is-calling/",
+    "description": "At Built For You Spring '25, we show you how Fin AI Agent is redefining what's possible for customer service with new capabilities to answer any question, on any channel, across any platform.",
+    "author": "Francesca Conde",
+    "published": "Wed, 19 Mar 2025 17:12:03 +0000",
+    "image": "https://blog.intercomassets.com/blog/wp-content/uploads/2025/03/Fin-Vision.jpg.optimal.jpg",
+    "source": "https://www.intercom.com/blog/feed",
+    "categories": [
+      "Customer Service",
+      "News \u0026 Updates",
+      "Built For You",
+      "Fin",
+      "Fin AI Agent"
+    ]
+  },
+  {
+    "id": "88befbce-a40c-4ad9-a980-da5ed40ee3cc",
+    "title": "Response Time: Vol. 42",
+    "link": "https://www.intercom.com/blog/response-time-vol-042/",
+    "description": "In our latest “Response Time” interview, we ask Harry Spence, Director of Customer Support at ScreenCloud, about what he can do that a bot will never be able to replicate, and more.",
+    "author": "Kate Sugrue",
+    "published": "Mon, 17 Mar 2025 12:00:09 +0000",
+    "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU1NGxoN2k1dnVkeDJwZ2RhenFndm1ybGx4NG84ZjBhbXRhZTRqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sf5U5y6zy7EoU8PSoz/giphy.gif",
+    "source": "https://www.intercom.com/blog/feed",
+    "categories": [
+      "Customer Service",
+      "Response Time"
+    ]
+  },
+  {
+    "id": "9da91cc6-c8a8-4d25-85a4-b4acc069d82e",
+    "title": "Healing Isn’t a Quick Fix—It’s a Journey!",
+    "link": "https://www.youtube.com/watch?v=Ar-kSEK7_L4",
+    "description": "",
+    "author": "Marie Forleo",
+    "published": "2025-03-21T15:00:13+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=marieforleo",
+    "categories": null
+  },
+  {
+    "id": "f62dad03-51ab-4149-ac29-3a8ad6ac469b",
+    "title": "Easy Money Is a Lie—But Making Money Feel Easy?",
+    "link": "https://www.youtube.com/watch?v=3BFOnyOy6QY",
+    "description": "",
+    "author": "Marie Forleo",
+    "published": "2025-03-20T15:00:04+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=marieforleo",
+    "categories": null
+  },
+  {
+    "id": "4309cd6d-ef58-4acd-aeee-fc9cbaeab75c",
+    "title": "Live from SXSW: Mike and Kass Lazerow’s ‘messy’ path to success",
+    "link": "",
+    "description": "Serial entrepreneurs and investors Mike and Kass Lazerow are best known for co-founding Buddy Media, the social media marketing platform that sold to Salesforce for $745 million. Host Jeff Berman joined the Lazerows on stage at the 2025 SXSW conference to discuss their extraordinary career journey as co-founders and spouses. They’ve distilled their most meaningful business lessons into a new book: Shoveling $h!t: A Love Story About the Entrepreneur's Messy Path to Success. Book details: https://shovelingshit.com/Note: Kass Lazerow is on the board of WaitWhat — the company that makes this podcast.Read a transcript of this episode: https://mastersofscale.comSubscribe to the Masters of Scale weekly newsletter: https://mastersofscale.com/subscribeSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+    "author": "",
+    "published": "Thu, 20 Mar 2025 09:00:00 -0000",
+    "image": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/rss.art19.com/episodes/a9b58089-16b5-4b00-9ce0-a43ce906f8a1.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+    "source": "https://rss.art19.com/masters-of-scale",
+    "categories": [
+      "Jeff Berman",
+      "Mindset",
+      "Bob Safian",
+      "Diversity \u0026 Inclusion",
+      "Management",
+      "Entrepreneurship",
+      "Business",
+      "Reid Hoffman",
+      "Startups"
+    ]
+  },
+  {
+    "id": "e88474e5-a44d-4646-a4c3-048c44fb24c7",
+    "title": "From 'Trump bump' to 'Trump slump,' with Betterment CEO Sarah Levy",
+    "link": "",
+    "description": "Recent market swings are causing whiplash for everyday investors. Sarah Levy, CEO of digital investment platform Betterment returns to Rapid Response to shed light on a market in flux. Levy explores the evolving volatility of crypto, socially responsible investing, generational attitudes to finance, and more. Amid the noise around our economy, Sarah offers a clear-eyed vision to help everyone find their own unique approach to money. Visit the Rapid Response website here: https://www.rapidresponseshow.com/See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+    "author": "",
+    "published": "Tue, 18 Mar 2025 09:00:00 -0000",
+    "image": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/rss.art19.com/episodes/96a2133f-e3ff-4789-a090-0774e766bdf1.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+    "source": "https://rss.art19.com/masters-of-scale",
+    "categories": [
+      "Jeff Berman",
+      "Mindset",
+      "Bob Safian",
+      "Diversity \u0026 Inclusion",
+      "Management",
+      "Entrepreneurship",
+      "Business",
+      "Reid Hoffman",
+      "Startups"
+    ]
+  },
+  {
+    "id": "a0328c2f-4deb-41fc-9c40-cc58656dfc00",
+    "title": "world's worst website lol",
+    "link": "https://www.producthunt.com/posts/world-s-worst-website-lol",
+    "description": "",
+    "author": "Milo AI",
+    "published": "2025-03-22T01:12:00-07:00",
+    "image": "",
+    "source": "https://www.producthunt.com/feed",
+    "categories": null
+  },
+  {
+    "id": "92285fe6-2238-4e8e-a62a-1e3f7f8f53e4",
+    "title": "The \"think\" tool from Claude",
+    "link": "https://www.producthunt.com/posts/the-think-tool-from-claude",
+    "description": "",
+    "author": "Ankit Sharma",
+    "published": "2025-03-21T12:49:30-07:00",
+    "image": "",
+    "source": "https://www.producthunt.com/feed",
+    "categories": null
+  },
+  {
+    "id": "feafac47-8e2d-4814-9c7f-29b7ab950d0e",
+    "title": "Small Biz Breakdown: What’s With All the Hype Over Agentic AI?",
+    "link": "https://smallbiztrends.com/small-business-breakdown-agentic-ai-march-23-2025/",
+    "description": "Our Small Biz Breakdown discusses all the hype about agentic AI and wonder if it's just that or there's more to it, especially for small businesses.",
+    "author": "Small Business Editor",
+    "published": "Sun, 23 Mar 2025 22:25:30 +0000",
+    "image": "",
+    "source": "https://feeds2.feedburner.com/SmallBusinessTrends",
+    "categories": [
+      "Small Business News"
+    ]
+  },
+  {
+    "id": "e1c652f9-b2c3-40a5-aef4-0b957ea171d6",
+    "title": "Meta Begins Testing Community Notes on Facebook, Instagram, and Threads",
+    "link": "https://smallbiztrends.com/meta-community-notes-testing-launch-2025/",
+    "description": "Meta has begun testing its new Community Notes feature on Facebook, Instagram, and Threads in the U.S., replacing its third-party fact-checking program with a crowd-sourced approach.",
+    "author": "Joshua Sophy",
+    "published": "Sun, 23 Mar 2025 19:04:29 +0000",
+    "image": "",
+    "source": "https://feeds2.feedburner.com/SmallBusinessTrends",
+    "categories": [
+      "Small Business News"
+    ]
+  },
+  {
+    "id": "629e21d2-4f9a-4e73-a0d1-27b1976e170f",
+    "title": "Smart Passive Income Unites Two Entrepreneurial Communities with a Tiered Membership Model",
+    "link": "https://www.smartpassiveincome.com/blog/smart-passive-income-unites-two-entrepreneurial-communities-with-a-tiered-membership-model/",
+    "description": "Sign up for our weekly Unstuck newsletter at https://www.smartpassiveincome.com/newsletter/ The merger enhances access to high-quality resources, support, and connections for entrepreneurs at every stage of their journey. The post Smart Passive Income Unites Two Entrepreneurial Communities with a Tiered Membership Model appeared first on Smart Passive Income.",
+    "author": "Kelsey Bressie",
+    "published": "Mon, 16 Dec 2024 21:06:20 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/smartpassiveincome",
+    "categories": [
+      "Newsroom"
+    ]
+  },
+  {
+    "id": "1e6d2f0d-d2df-41dd-8a44-4b4bdc3865fe",
+    "title": "Kit Review 2024",
+    "link": "https://www.smartpassiveincome.com/blog/kit-review-2024/",
+    "description": "Sign up for our weekly Unstuck newsletter at https://www.smartpassiveincome.com/newsletter/ Want to know if Kit is the right email service provider for your business? Read our comprehensive Kit review. The post Kit Review 2024 appeared first on Smart Passive Income.",
+    "author": "Ray Sylvester",
+    "published": "Tue, 26 Nov 2024 22:09:55 +0000",
+    "image": "https://www.smartpassiveincome.com/wp-content/uploads/2024/10/Kit-Tools-Logo.png",
+    "source": "http://feeds.feedburner.com/smartpassiveincome",
+    "categories": [
+      "Email Marketing"
+    ]
+  },
+  {
+    "id": "65fe1739-9790-47b1-bb00-ca7c6bf3e189",
+    "title": "How to Flip the Script, Beat China and Russia – And Fix the Broken Department of Defense",
+    "link": "https://steveblank.com/2024/12/03/how-to-flip-the-script-and-beat-china-and-russia-and-fix-the-broken-department-of-defense/",
+    "description": "A version of this post previously appeared in War on the Rocks. This version has been updated with suggestions from leaders across the Department of Defense and Venture Capital community. BLUF: In WW II, the U.S. outsourced advanced weapons systems development to civilians. The weapons they developed won the war. It’s time to do that […]",
+    "author": "steve blank",
+    "published": "Tue, 03 Dec 2024 14:00:55 +0000",
+    "image": "https://i0.wp.com/steveblank.com/wp-content/uploads/2024/12/wotr-logo.jpg?resize=150%2C33\u0026ssl=1",
+    "source": "https://steveblank.com/feed/",
+    "categories": [
+      "National Security"
+    ]
+  },
+  {
+    "id": "cae5e289-06a4-44f6-9640-32f1d8120338",
+    "title": "Quantum Computing – An Update",
+    "link": "https://steveblank.com/2024/10/22/quantum-computing-an-update/",
+    "description": "In March 2022 I wrote a description of the Quantum Technology Ecosystem. I thought this would be a good time to check in on the progress of building a quantum computer and explain more of the basics. Just as a reminder, Quantum technologies are used in three very different and distinct markets: Quantum Computing, Quantum […]",
+    "author": "steve blank",
+    "published": "Tue, 22 Oct 2024 13:00:16 +0000",
+    "image": "https://i0.wp.com/steveblank.com/wp-content/uploads/2022/03/quantum-markets.jpg?resize=386%2C117\u0026ssl=1",
+    "source": "https://steveblank.com/feed/",
+    "categories": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "057574b8-ed20-45e6-a8d0-3228b3f5e415",
+    "title": "Healthcare Reputation Management: 7 Tricks to Do First",
+    "link": "https://www.quicksprout.com/healthcare-reputation-management/",
+    "description": "Staying on top of what people are saying or writing about you is about more than ego. It helps you amplify the positive and quickly resolve anything negative—before it blows up. Healthcare providers face a unique challenge when it comes to their reputations. How current and future patients view you […] The post Healthcare Reputation Management: 7 Tricks to Do First appeared first on .",
+    "author": "Quick Sprout Editorial",
+    "published": "Tue, 30 Apr 2024 16:00:00 +0000",
+    "image": "",
+    "source": "https://www.quicksprout.com/rss",
+    "categories": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "fc45f2d3-4d69-4648-ad45-4ede3b9fa136",
+    "title": "3 Types of Call Center Reporting and Which Is Right for You",
+    "link": "https://www.quicksprout.com/call-center-reporting/",
+    "description": "Managing a call center well requires a lot of careful decision-making and even more data to back it up. At the same time, though, it can be extremely difficult to know which KPIs and metrics matter the most to your specific business. There are three types of call center reports […] The post 3 Types of Call Center Reporting and Which Is Right for You appeared first on .",
+    "author": "Quick Sprout Editorial",
+    "published": "Thu, 25 Apr 2024 16:00:00 +0000",
+    "image": "",
+    "source": "https://www.quicksprout.com/rss",
+    "categories": [
+      "Operations"
+    ]
+  },
+  {
+    "id": "99173ad2-5383-48ed-b792-4d22dfb66e21",
+    "title": "“Minions” record-breaking viral strategy, TikTok algo, reframing semiconductors \u0026 energy | E1500",
+    "link": "https://thisweekinstartups.com/minions-record-breaking-viral-strategy-tiktok-algo-reframing-semiconductors-energy-e1500/",
+    "description": "On today's show, Molly and Jason catch up after the long weekend (0:00) before breaking down how the new \"Minions\" movie broke a box office record by using TikTok, catchy hooks, and viral marketing (5:19). They also cover TikTok dropping plans to expand its ecommerce platform into the US and Europe (29:52), before covering the \"Chips Act\" stalemate and discussing how we should reframe semiconductor manufacturing and energy independence as national defense issues (35:50). Links referenced in the show: https://www.frontiersin.org/articles/10.3389/fnhum.2021.578644/full https://www.bloomberg.com/opinion/articles/2022-07-04/chipmakers-and-us-congress-are-playing-a-stupid-game-of-chicken",
+    "author": "Jason Calacanis",
+    "published": "Wed, 06 Jul 2022 01:17:48 +0000",
+    "image": "https://media.blubrry.com/startups/thisweekinstartups.s3.us-west-2.amazonaws.com/startups/itunes/TWiST-E1500.mp4",
+    "source": "http://feeds.feedburner.com/twistvid",
+    "categories": [
+      "2022",
+      "Startups"
+    ]
+  },
+  {
+    "id": "a43ef735-aaf8-43c0-9724-d159f9e80efb",
+    "title": "VC School: What’s a venture scale business + Matt Duesterberg of OhmConnect | E1499",
+    "link": "https://thisweekinstartups.com/vc-school-whats-a-venture-scale-business-matt-duesterberg-of-ohmconnect-e1499/",
+    "description": "For today's VC Sunday School, Molly asks Jason about what makes a venture scale business (2:20). Then, for This Week in Climate Startups, Molly sits down with Matt Duesterberg, co-founder of OhmConnect (19:38).",
+    "author": "Jason Calacanis",
+    "published": "Sun, 03 Jul 2022 13:00:26 +0000",
+    "image": "https://media.blubrry.com/startups/thisweekinstartups.s3.us-west-2.amazonaws.com/startups/itunes/TWiST-E1499.mp4",
+    "source": "http://feeds.feedburner.com/twistvid",
+    "categories": [
+      "2022",
+      "Startups",
+      "Sunday VC School"
+    ]
+  },
+  {
+    "id": "a9f654fb-d78d-4b5f-9d80-cd7f1f0d3c18",
+    "title": "409: Betting on Yourself and Building a Personal Brand with Mallory Files",
+    "link": "https://share.transistor.fm/s/f41b67b4",
+    "description": "SummaryIn this engaging episode of Startup Junkies, hosts Caleb Talley, Daniel Koonce, and Jeff Amerine are joined by Mallory Files, Owner of Ozark Charcuterie Wine Bar, who shares her inspiring journey from experiencing burnout in a full-time job to creating a thriving catering service and eventually opening a successful wine bar.Feeling the pressure of a demanding job and grappling with mental health challenges, Mallory discovered solace in creating charcuterie boards, inspired by her grandmother’s culinary finesse. Encouraged by friends and her therapist to pursue this passion, she started an Instagram page that quickly grew into a business. Despite facing personal challenges, including a difficult pregnancy, Mallory persevered, leading her business to remarkable growth through strategic social media and SEO efforts.Mallory's entrepreneurial spirit shines as she describes the distinct customer avatars she created for her catering and wine bar clients, as well as her decision to focus more on catering while integrating the wine bar aspect creatively. The discussion highlights her marketing strategy, emphasizing SEO over social media and targeting specific customer needs.The hosts delve into Mallory's efforts in managing a growing team and expanding her product offerings, all while maintaining a personalized touch. Mallory shares her vision for the future, including aspirations for personal branding and scaling her business wisely. Her story is one of resilience and strategic growth, offering valuable insights for aspiring entrepreneurs navigating similar paths. Tune in today!Show Notes(00:00) Introduction(03:03) Mallory’s Backstory(07:43) Costly Convenience vs. Budget Living(10:17) Marketing Strategies for Platforms and Audiences(12:36) Curating an Ideal Audience(17:34) What Goes Into a Perfect Charcuterie Board(21:49) Custom Gourmet Platter Experience(22:48) Balancing Kindness with Assertiveness(26:42) Building a Personal Brand Journey(29:24) Embracing Change in Business(31:19) Closing ThoughtsLinksCaleb TalleyDaniel KoonceJeff AmerineStartup JunkieStartup Junkie YouTubeMallory FilesOzark Charcuterie \u0026 Wine Bar",
+    "author": "Startup Junkie",
+    "published": "Mon, 17 Mar 2025 05:00:00 -0100",
+    "image": "https://media.transistor.fm/f41b67b4/2225b3b2.mp3",
+    "source": "https://startupjunkie.libsyn.com/rss",
+    "categories": [
+      "Entrepreneur",
+      "NWA",
+      "SMB",
+      "Technology",
+      "businessmanagement",
+      "northwestarkansas",
+      "smallbusiness",
+      "startup",
+      "tech"
+    ]
+  },
+  {
+    "id": "b47bf848-5578-4552-9b31-994793395c5a",
+    "title": "408: Innovating Men’s Fashion with AI-Driven Styling with Anya Cheng",
+    "link": "https://share.transistor.fm/s/6947dacd",
+    "description": "SummaryIn this episode of Startup Junkies, hosts Caleb Talley and Harrison Kitson connect with Anya Cheng, the founder of Taelor, a men's clothing service that uses AI technology. The discussion starts with Anya detailing her journey from working in big tech companies like Meta and eBay to founding Taelor, inspired by her own wardrobe challenges while being a leader in those organizations. Taelor simplifies fashion for men who dislike shopping, using AI to select outfits based on users' preferences and needs and offering rental services.Throughout the episode, Anya illustrates Taelor's success, noting its impressive growth and partnerships with renowned companies and influencers. The company integrates global brands and works even with emerging designers, offering high-quality clothing. Taelor collaborates with women’s rental services and dating sites to reach more consumers. Anya highlights how Taelor aids sustainability by reducing waste from unsold inventory through a circular fashion model.The conversation discusses the importance of customer feedback and AI in evolving the business, as well as the secret to startup success—believe in yourself and trust your knowledge of the problem you aim to solve. Moreover, Anya emphasizes the value of curiosity and open-minded networking for entrepreneurial growth. The episode concludes with details on how listeners can explore Taelor, offering discounts for a firsthand experience of their service. Overall, the episode provides a deep dive into the challenges and triumphs of combining fashion with cutting-edge technology in a startup venture!Show Notes(00:00) Introduction(04:28) Post-Holiday Wardrobe Updates(09:14) Online Personalized Style Consultations(10:54) Everyday and Occasion Fashion Styling(14:21) A One-Stop Shop for Men’s Needs(19:00) Global Partnerships with Quality Brands(22:13) Startup Resilience and Self-Belief(23:16) Interactive Development and Feedback Importance(27:01) Embracing Curiosity and Not Just Strategy(27:45) Closing ThoughtsLinksCaleb TalleyHarrison KitsonStartup JunkieStartup Junkie YouTubeAnya ChengTaelor",
+    "author": "Startup Junkie",
+    "published": "Mon, 10 Mar 2025 05:00:00 -0100",
+    "image": "https://media.transistor.fm/6947dacd/3e1a029b.mp3",
+    "source": "https://startupjunkie.libsyn.com/rss",
+    "categories": [
+      "Entrepreneur",
+      "NWA",
+      "SMB",
+      "Technology",
+      "businessmanagement",
+      "northwestarkansas",
+      "smallbusiness",
+      "startup",
+      "tech"
+    ]
+  },
+  {
+    "id": "de6d8fc2-d81c-42d9-8af9-aac6cffbe971",
+    "title": "‘Gradually then suddenly’: Is AI job displacement following this pattern?",
+    "link": "https://venturebeat.com/ai/gradually-then-suddenly-is-ai-job-displacement-following-this-pattern/",
+    "description": "Many technological shifts have coincided with economic downturns. Will 2025 be the year AI not only augments jobs but starts to replace them?",
+    "author": "Gary Grossman, Edelman",
+    "published": "Sun, 23 Mar 2025 20:15:00 +0000",
+    "image": "https://venturebeat.com/wp-content/uploads/2025/03/image1_33685a.png?w=578",
+    "source": "https://feeds.feedburner.com/venturebeat/SZYF",
+    "categories": [
+      "AI",
+      "DataDecisionMakers",
+      "AI jobs",
+      "AI, ML and Deep Learning",
+      "category-/Business \u0026 Industrial",
+      "Conversational AI",
+      "Generative AI",
+      "large language models",
+      "NLP"
+    ]
+  },
+  {
+    "id": "f4d0ab53-89cb-41b8-8d75-20751ca745c8",
+    "title": "The open-source AI debate: Why selective transparency poses a serious risk",
+    "link": "https://venturebeat.com/ai/the-open-source-ai-debate-why-selective-transparency-poses-a-serious-risk/",
+    "description": "It is misleading to call AI open source when no one can look at, experiment with and understand each element that went into creating it.",
+    "author": "Jason Corso, University of Michigan, Voxel51",
+    "published": "Sat, 22 Mar 2025 20:45:00 +0000",
+    "image": "https://venturebeat.com/wp-content/uploads/2025/03/nuneybits_Abstract_art_of_robot_scientist_vs_robot_businessman_632ad8fb-90de-4747-8bda-2faf5ffcd5be.webp?w=578",
+    "source": "https://feeds.feedburner.com/venturebeat/SZYF",
+    "categories": [
+      "AI",
+      "DataDecisionMakers",
+      "AI, ML and Deep Learning",
+      "Apache Spark",
+      "category-/Science/Computer Science",
+      "linux",
+      "MySQL",
+      "Open source",
+      "open source AI",
+      "php"
+    ]
+  },
+  {
+    "id": "4592e61b-3aac-45b1-8f1e-7e170e203e0f",
+    "title": "#801: In Case You Missed It: February 2025 Recap of \"The Tim Ferriss Show\"",
+    "link": "",
+    "description": "This is a special inbetweenisode, which serves as a recap of the episodes from last month. It features a short clip from each conversation in one place so you can easily jump around to get a feel for the episode and guest.Based on your feedback, this format has been tweaked and improved since the first recap episode. For instance, listeners suggested that the bios for each guest can slow the momentum, so we moved all the bios to the end. See it as a teaser. Something to whet your appetite. If you like what you hear, you can of course find the full episodes at tim.blog/podcast. Please enjoy! This episode is brought to you by 5-Bullet Friday, my very own email newsletter.Timestamps:Brandon Sanderson: 03:24Seth Godin: 12:08L.A. Paul: 21:08Dr. Keith Baar: 31:53Full episode titles:#794: Brandon Sanderson on Building a Fiction Empire, Creating $40M+ Kickstarter Campaigns, Unbreakable Habits, The Art of World-Building, and The Science of Magic Systems #792: Seth Godin on Playing the Right Game and Strategy as a Superpower#796: L.A. Paul — On Becoming a Vampire, Whether or Not to Have Kids, Getting Incredible Mentorship for $250, Transformative Experiences, and More#797: Dr. Keith Baar, UC Davis — Simple Exercises That Can Repair Tendons (Tennis Elbow, etc.), Collagen Fact vs. Fiction, Isometrics vs. Eccentrics, JAK Inhibitors, Growth Hormone vs. IGF-1, The Anti-RICE Protocol, and How to Use Load as an Anti-InflammatorySee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+    "author": "",
+    "published": "Fri, 21 Mar 2025 15:00:59 -0000",
+    "image": "https://rss.art19.com/episodes/43baae54-7ddc-4be3-8bb0-d6f9e5f93302.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+    "source": "https://rss.art19.com/tim-ferriss-show",
+    "categories": [
+      "startups",
+      "Longform Interviews",
+      "Entrepreneurship",
+      "Productivity",
+      "Timothy Ferriss Show",
+      "Timothy Ferriss",
+      "Lifestyle Design",
+      "Tim Ferris",
+      "Tim Ferriss",
+      "The 4-Hour Workweek",
+      "Tools of Titans",
+      "The Tim Ferriss Show"
+    ]
+  },
+  {
+    "id": "51f1bc61-3b24-43a6-be33-b38ba684de59",
+    "title": "#800: Ev Williams — The Art of Pivoting (e.g., Odeo to Twitter), Strategic Quitting, The Dangers of Premature Scaling, Must-Read Books, and More",
+    "link": "",
+    "description": "Ev Williams is the co-founder of Mozi, a new social network that helps you connect in person with the people you care about. Over the past 25 years, Ev has co-founded several companies that have helped shape the modern internet—including Blogger, Medium, and Twitter. This episode was recorded live at Diggnation, where digg.com was relaunched. Go to digg.com and sign up to get early access when invites go out.Sponsors:David Protein Bars 28g of protein, 150 calories, and 0g of sugar: https://davidprotein.com/tim (Buy 4 cartons, get the 5th free.)Sundays for Dogs ultra-high-quality dog food: https://sundaysfordogs.com/tim (save 50% on your first order)Wealthfront high-yield cash account: https://Wealthfront.com/Tim (Start earning 4.00% Annual Percentage Yield (APY) on your short-term cash until you’re ready to invest. And when new clients open an account today, you can get an extra fifty-dollar bonus with a deposit of five hundred dollars or more.) Terms \u0026 Conditions apply. APY as of 12/27/24 and is subject to change. Tim Ferriss receives cash compensation from Wealthfront Brokerage, LLC for advertising and holds a non-controlling equity interest in the corporate parent of Wealthfront Brokerage. See full disclosures here.Timestamps:[00:00:00] Start[00:05:35] Kevin Rose starts the party like it's 2004.[00:07:27] Ev's first internet product.[00:08:54] How technology became social for Ev.[00:10:52] The simple idea behind Mozi.[00:12:05] Strategic quitting vs. sunk-cost perseverance.[00:18:36] How Odeo begat Twitter.[00:22:01] Twitter's $11,000 SXSW 2007 inflection point.[00:23:45] Ev's hopes for Mozi's evolution.[00:25:02] Favorite books and information inputs.[00:30:45] Raising a generation to co-exist with AI.[00:33:12] Ev's billboard.[00:35:56] How Ev learned to manage his feelings.[00:37:16] Facing strangers as an introvert with the Hoffman Process.[00:39:57] Recently adopted habits that have galvanized positive change.[00:42:44] The silver lining of being fired from Twitter.[00:45:18] Contemplating how the universe works with The One by Heinrich Päs.[00:47:04] How Ev stocks his reading list arsenal.[00:50:26] Big thoughts on a Medium regret.[00:52:47] Resisting the urge to bloat Mozi with superfluous features.[00:55:40] How Mozi balances privacy with utility.[00:57:40] Parting thoughts.See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+    "author": "",
+    "published": "Wed, 19 Mar 2025 21:26:05 -0000",
+    "image": "https://rss.art19.com/episodes/0627c7db-4cdb-468f-b7e1-bf0fe76f561b.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386",
+    "source": "https://rss.art19.com/tim-ferriss-show",
+    "categories": [
+      "startups",
+      "Longform Interviews",
+      "Entrepreneurship",
+      "Productivity",
+      "Timothy Ferriss Show",
+      "Timothy Ferriss",
+      "Lifestyle Design",
+      "Tim Ferris",
+      "Tim Ferriss",
+      "The 4-Hour Workweek",
+      "Tools of Titans",
+      "The Tim Ferriss Show"
+    ]
+  },
+  {
+    "id": "0e8b0380-05d4-40e3-8e3d-cf81a6e1682e",
+    "title": "I’ve Moved Onchain",
+    "link": "https://avc.com/2024/05/ive-moved-onchain/",
+    "description": "Over the last few years, I’ve moved my internet life from web2 to web3 and rarely use any web2 services anymore. So I am starting a series called “I’ve Moved Onchain” to explain this journey to everyone and today’s opening post is about blogging, naturally. I’ve blogged at AVC.com for a very long time. I […]",
+    "author": "Fred Wilson",
+    "published": "Thu, 02 May 2024 17:30:40 +0000",
+    "image": "",
+    "source": "https://avc.com/feed/",
+    "categories": [
+      "blockchain",
+      "crypto",
+      "Web3",
+      "Weblogs"
+    ]
+  },
+  {
+    "id": "4c4a808f-b914-4817-a81a-30452866f4a6",
+    "title": "Transit Tech Lab",
+    "link": "https://avc.com/2024/01/transit-tech-lab/",
+    "description": "The Partnership for NYC, alongside its partners at the MTA, the Port Authority of New York and New Jersey, NJ TRANSIT, and NYC Department of Transportation, launched a call for applications for the 6th annual Transit Tech Lab this week. To kick off this year’s program, the Transit Tech Lab is seeking early and growth-stage […]",
+    "author": "Fred Wilson",
+    "published": "Wed, 10 Jan 2024 13:49:57 +0000",
+    "image": "",
+    "source": "https://avc.com/feed/",
+    "categories": [
+      "NYC",
+      "Travel",
+      "Web/Tech"
+    ]
+  },
+  {
+    "id": "ec101946-e10e-4363-aeb9-058f4ded1fba",
+    "title": "Bandwidth: The Untold Story of Ambition, Deception, and Innovation that Shaped the Internet Age and Dot-Com Boom",
+    "link": "https://feld.com/archives/2025/01/bandwidth-the-untold-story-of-ambition-deception-and-innovation-that-shaped-the-internet-age-and-dot-com-boom/",
+    "description": "Dan Caruso’s new book Bandwidth: The Untold Story of Ambition, Deception, and Innovation that Shaped the Internet Age and Dot-Com Boom is available for pre-order, to be released on February 4, 2025. Order your copy today on Amazon or Barnes \u0026 Noble. You can also subscribe to Dan’s Bandwidth newsletter to receive updates on the […] The post Bandwidth: The Untold Story of Ambition, Deception, and Innovation that Shaped the Internet Age and Dot-Com Boom appeared first on Brad Feld.",
+    "author": "Brad Feld",
+    "published": "Fri, 10 Jan 2025 18:53:25 +0000",
+    "image": "https://i0.wp.com/feld.com/wp-content/uploads/2025/01/AD_4nXcmB8JVgFv2Mqfzt6hFjekZUzo4Li8Cosg2mU_hlWoOvmq3Ud0p_JDR1WHWCUpp_rKX64rhGpL5IheiTR3dJauYhYklZ8Xb2s-WOVtX3WM9WGODMMVPvzMkir3rAMfzbRYVL1nH.png?resize=1600%2C836\u0026ssl=1",
+    "source": "https://feld.com/feed",
+    "categories": [
+      "Books",
+      "book",
+      "dan caruso"
+    ]
+  },
+  {
+    "id": "9c841417-4887-4bc1-aa9d-6f99440d82e6",
+    "title": "EPOCH: A Poetic Psy-Phi Saga",
+    "link": "https://feld.com/archives/2024/09/epoch-a-poetic-psy-phi-saga/",
+    "description": "Are you interested in AI? Do you enjoy science fiction? Do you have an opinion about how AI will impact the human species? Are you enthusiastic about it or worried about it? Or do you think you know the answer? Dave Jilk (my first business partner and one of my closest friends) recently published EPOCH: […] The post EPOCH: A Poetic Psy-Phi Saga appeared first on Brad Feld.",
+    "author": "Brad Feld",
+    "published": "Mon, 02 Sep 2024 18:44:45 +0000",
+    "image": "",
+    "source": "https://feld.com/feed",
+    "categories": [
+      "Books",
+      "dave jilk",
+      "sci-fi",
+      "books"
+    ]
+  },
+  {
+    "id": "81e936ca-3b5f-4964-9137-36858fbf6a04",
+    "title": "Unlock Pro-level Photo Editing: App and Course Bundle Now Below $90",
+    "link": "https://www.entrepreneur.com/science-technology/unlock-pro-level-photo-editing-app-and-course-bundle-now/488771",
+    "description": "Take your photography editing to the next level with this Luminar Neo app, course, and add-on bundle.",
+    "author": "Entrepreneur Store",
+    "published": "Sun, 23 Mar 2025 16:00:00 GMT",
+    "image": "https://assets.entrepreneur.com/content/3x2/2000/1742426831-323436-TheAward-WinningLuminarNeoLifetimeBundle-Article-Image1.jpg",
+    "source": "http://feeds.feedburner.com/entrepreneur/latest",
+    "categories": [
+      "false"
+    ]
+  },
+  {
+    "id": "a387b17e-64e3-48b1-9984-9c6a238922b2",
+    "title": "How Supporting Entrepreneurs Will Save Us From Economic Instability",
+    "link": "https://www.entrepreneur.com/leadership/why-entrepreneurship-is-the-cure-to-an-unstable-economy/487028",
+    "description": "In times rife with economic pressures and instability, the entrepreneurial spirit stands out as society's beacon of hope.",
+    "author": "Jon Michail",
+    "published": "Sun, 23 Mar 2025 14:00:00 GMT",
+    "image": "https://assets.entrepreneur.com/content/3x2/2000/1742507280-support-entrepreneurs-during-economic-instability-0325-g169937251.jpg",
+    "source": "http://feeds.feedburner.com/entrepreneur/latest",
+    "categories": [
+      "false"
+    ]
+  },
+  {
+    "id": "3a539f9a-8ee3-4fbe-a9d8-933d5f868ca9",
+    "title": "Why the Future of Space Starts in LA",
+    "link": "https://bothsidesofthetable.com/why-the-future-of-space-starts-in-la-d4b42a146aab?source=rss----97f98e5df342---4",
+    "description": "",
+    "author": "Mark Suster",
+    "published": "Wed, 12 Jun 2024 15:50:02 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*WVDYrzALKXWGeb8kmpWSgA.png",
+    "source": "https://bothsidesofthetable.com/feed",
+    "categories": [
+      "venture-capital",
+      "space",
+      "los-angeles"
+    ]
+  },
+  {
+    "id": "3612c210-c8ac-450d-8acc-b5083632a90f",
+    "title": "Praying to the God of Valuation",
+    "link": "https://bothsidesofthetable.com/praying-to-the-god-of-valuation-7f6758ba3b16?source=rss----97f98e5df342---4",
+    "description": "",
+    "author": "Mark Suster",
+    "published": "Mon, 12 Dec 2022 00:55:56 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*6jnzEciOWUIZ82L16eYgiA.jpeg",
+    "source": "https://bothsidesofthetable.com/feed",
+    "categories": null
+  },
+  {
+    "id": "d4680e08-ffa9-41e7-b141-e7494666cde1",
+    "title": "English Scientists Develop Fast, High-Quality AI Weather Model for Desktops",
+    "link": "https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction",
+    "description": "Article URL: https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction Comments URL: https://news.ycombinator.com/item?id=43456723 Points: 33 # Comments: 2",
+    "author": "bentobean",
+    "published": "Sun, 23 Mar 2025 23:33:39 +0000",
+    "image": "",
+    "source": "https://hnrss.org/frontpage",
+    "categories": null
+  },
+  {
+    "id": "a5e6671a-b9b3-41cf-8b7e-0f9edd77ac7d",
+    "title": "Shift-to-Middle Array: A Faster Alternative to Std:Deque?",
+    "link": "https://github.com/attilatorda/Shift-To-Middle_Array",
+    "description": "Article URL: https://github.com/attilatorda/Shift-To-Middle_Array Comments URL: https://news.ycombinator.com/item?id=43456669 Points: 42 # Comments: 26",
+    "author": "AttilaT",
+    "published": "Sun, 23 Mar 2025 23:20:27 +0000",
+    "image": "",
+    "source": "https://hnrss.org/frontpage",
+    "categories": null
+  },
+  {
+    "id": "ae1cd74d-3667-4f28-a995-160689c711a5",
+    "title": "Do this to unlock your business",
+    "link": "https://www.youtube.com/watch?v=-g0QNnnNT7M",
+    "description": "",
+    "author": "GaryVee",
+    "published": "2025-03-24T00:00:00+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk",
+    "categories": null
+  },
+  {
+    "id": "6219a85c-4769-4b1c-83cb-d12b6d92c483",
+    "title": "Did this 2008 social media platform get it right??",
+    "link": "https://www.youtube.com/watch?v=rQXQycMVvx0",
+    "description": "",
+    "author": "GaryVee",
+    "published": "2025-03-23T19:00:29+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk",
+    "categories": null
+  },
+  {
+    "id": "05ed58b8-1cdf-43f8-8a1e-2067319e6ba9",
+    "title": "The Hope, Think, Know Compass",
+    "link": "https://www.inc.com/natalie-nixon/the-hope-think-know-compass/91153634",
+    "description": "Your three-point compass for transformation.",
+    "author": "Natalie Nixon",
+    "published": "Sun, 23 Mar 2025 13:00:00 -0400",
+    "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/03/GettyImages-483766641.jpg",
+    "source": "https://www.inc.com/rss/",
+    "categories": [
+      "Lead"
+    ]
+  },
+  {
+    "id": "a147330a-e1e5-494b-9b30-f9e74206fa28",
+    "title": "How Empathetic Leadership Drives Business Success",
+    "link": "https://www.inc.com/moshe-engelberg/how-empathetic-leadership-drives-business-success/91163723",
+    "description": "Organizations with high empathy scores decrease turnover and increase profits.",
+    "author": "Moshe Engelberg",
+    "published": "Sun, 23 Mar 2025 12:00:00 -0400",
+    "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/03/GettyImages-2193100064.jpg",
+    "source": "https://www.inc.com/rss/",
+    "categories": [
+      "Lead"
+    ]
+  }
+]
