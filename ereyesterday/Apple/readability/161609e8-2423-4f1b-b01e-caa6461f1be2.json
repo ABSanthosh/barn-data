@@ -1,0 +1,21 @@
+{
+  "id": "161609e8-2423-4f1b-b01e-caa6461f1be2",
+  "title": "WorkOS: Launch Week",
+  "link": "https://workos.com/launch-week/?utm_source=daringfireball\u0026utm_medium=RSS\u0026utm_campaign=q12025",
+  "description": "",
+  "author": "John Gruber",
+  "published": "2025-03-21T22:38:04Z",
+  "source": "https://daringfireball.net/feeds/main",
+  "categories": null,
+  "byline": "",
+  "length": 258,
+  "excerpt": "A week of feature releases from WorkOS",
+  "siteName": "",
+  "favicon": "https://cdn.prod.website-files.com/67c6feed7f5f031522f5db1c/67ceb3d1a464abf72964e8fc_lw-favicon.png",
+  "text": "\"aud\": \"SuperApp\",\"urn:my_app:full_name\": “Alice Smith”,\"urn:my_app:user_city\": “New York,\"urn:my_app:department\": “Marketing”,\"urn:my_app:organization_tier\": ,\"urn:third_party_app:address\": \"azp\": \"http://localhost:3000\",\"exp\": 1639398300,\"iat\": 1639398272,",
+  "image": "https://cdn.prod.website-files.com/67c6feed7f5f031522f5db1c/67cebad7fb32dd1d2673bd1a_lw-og-image.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cmain\u003e\u003csection\u003e\u003cdiv\u003e\u003ca href=\"https://workos.com/blog/workos-connect\" target=\"_blank\"\u003e\u003c/a\u003e\u003cdiv\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg src=\"https://cdn.prod.website-files.com/67c6feed7f5f031522f5db1c/67cef83f4eddd5565456d25d_connect-mac.png\" loading=\"lazy\" width=\"86\" height=\"99\" alt=\"\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg src=\"https://cdn.prod.website-files.com/67c6feed7f5f031522f5db1c/67cefeb84291098727f1f4ce_chip.png\" loading=\"lazy\" width=\"96\" height=\"96\" alt=\"\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv\u003e\u003ca href=\"https://workos.com/blog/vault\" target=\"_blank\"\u003e\u003c/a\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg src=\"https://cdn.prod.website-files.com/67c6feed7f5f031522f5db1c/67d02afad41bec76b495019b_vault-glow.webp\" loading=\"lazy\" width=\"105\" alt=\"\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv\u003e\u003ca href=\"https://workos.com/blog/custom-objects\" target=\"_blank\"\u003e\u003c/a\u003e\u003cdiv\u003e\u003cp\u003e\u0026#34;aud\u0026#34;: \u003cspan\u003e\u0026#34;SuperApp\u0026#34;\u003c/span\u003e,\u003cbr/\u003e\u0026#34;urn:my_app:full_name\u0026#34;: “Alice Smith”,\u003cbr/\u003e\u0026#34;urn:my_app:user_city\u0026#34;: “New York,\u003cbr/\u003e\u0026#34;urn:my_app:department\u0026#34;: “Marketing”,\u003cbr/\u003e\u0026#34;urn:my_app:organization_tier\u0026#34;: ,\u003cbr/\u003e\u0026#34;urn:third_party_app:address\u0026#34;: \u003cbr/\u003e\u0026#34;azp\u0026#34;: \u003cspan\u003e\u0026#34;http://localhost:30\u003c/span\u003e00\u0026#34;,\u003cbr/\u003e\u0026#34;exp\u0026#34;: 1639398300,\u003cbr/\u003e\u0026#34;iat\u0026#34;: 1639398272,\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003c/section\u003e\u003c/main\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

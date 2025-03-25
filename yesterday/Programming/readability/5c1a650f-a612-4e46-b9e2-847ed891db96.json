@@ -1,0 +1,21 @@
+{
+  "id": "5c1a650f-a612-4e46-b9e2-847ed891db96",
+  "title": "GitLab achieves PCI DSS Attestation of Compliance",
+  "link": "https://about.gitlab.com/blog/2025/03/17/gitlab-achieves-pci-dss-attestation-of-compliance",
+  "description": "",
+  "author": "Sasha Gazlay",
+  "published": "2025-03-17T00:00:00.000Z",
+  "source": "https://about.gitlab.com/atom.xml",
+  "categories": null,
+  "byline": "Sasha Gazlay",
+  "length": 1219,
+  "excerpt": "Learn how our completion of the AoC as a Level 1 Service Provider, along with our broader security credentials, helps us support customers' compliance efforts.",
+  "siteName": "GitLab",
+  "favicon": "https://about.gitlab.com/blog/nuxt-images/ico/favicon-192x192.png?cache=2022041",
+  "text": "Compliance with the Payment Card Industry (PCI) Data Security Standard (DSS) helps to alleviate security vulnerabilities and protect cardholder data. The PCI standard is required of any enterprise handling credit card and related authentication data or whose services could impact the security of the cardholder data environment. GitLab, as the most comprehensive AI-powered DevSecOps platform, provides the tools and resources to support our customers’ security posture, including those handling PCI-relevant data. GitLab is pleased to announce the successful achievement of a PCI DSS Attestation of Compliance (AoC) as a Level 1 Service Provider. The AoC comes after an independent Qualified Security Assessor-led validation of our alignment to the PCI DSS. The attestation, in addition to GitLab’s broader compliance credentials, demonstrates the dedication to our mission of being the leading example in security, innovation, and transparency in our information security practices. Please visit GitLab’s Trust Center to view our AoC as well as details on shared responsibilities when relying on our attestation. Also, check out our PCI compliance page, which explains how GitLab can support your compliance efforts.",
+  "image": "https://images.ctfassets.net/r9o86ar0p03f/3LZkiDjHLjhqEkvOvBsVKp/865f3b30b23c6b0be52fe3303de0266e/blog-image-template-1800x945__4_.png?fm=webp\u0026w=820\u0026h=500",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv data-v-37f1022b=\"\" data-v-53094866=\"\" data-v-74bd29c6=\"\"\u003e\u003cp\u003eCompliance with the \u003ca href=\"https://www.pcisecuritystandards.org/\"\u003ePayment Card Industry (PCI) Data Security Standard (DSS)\u003c/a\u003e helps to alleviate security vulnerabilities and protect cardholder data. The PCI standard is required of any enterprise handling credit card and related authentication data or whose services could impact the security of the cardholder data environment. GitLab, as the most comprehensive AI-powered DevSecOps platform, provides the tools and resources to support our customers’ security posture, including those handling PCI-relevant data.\u003c/p\u003e\n\u003cp\u003eGitLab is pleased to announce the successful achievement of a PCI DSS Attestation of Compliance (AoC) as a Level 1 Service Provider. The AoC comes after an independent Qualified Security Assessor-led validation of our alignment to the PCI DSS. The attestation, in addition to GitLab’s broader compliance credentials, demonstrates the dedication to our mission of being the leading example in security, innovation, and \u003ca href=\"https://about.gitlab.com/handbook/values/#transparency\"\u003etransparency\u003c/a\u003e in our information security practices.\u003c/p\u003e\n\u003cp\u003ePlease visit GitLab’s \u003ca href=\"https://about.gitlab.com/security/\"\u003eTrust Center\u003c/a\u003e to view our AoC as well as details on shared responsibilities when relying on our attestation. Also, check out \u003ca href=\"https://about.gitlab.com/compliance/pci-compliance/\"\u003eour PCI compliance page\u003c/a\u003e, which explains how GitLab can support your compliance efforts.\u003c/p\u003e\n\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-03-17T00:00:00Z",
+  "modifiedTime": null
+}

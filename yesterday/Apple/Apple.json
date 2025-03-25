@@ -1,0 +1,376 @@
+[
+  {
+    "id": "04921f75-6ebf-45c8-af76-53305df1816b",
+    "title": "Apple Maps bug randomly showing airport baggage claim pins",
+    "link": "https://9to5mac.com/2025/03/23/apple-maps-airport-baggage-claim-bug/",
+    "description": "A strange Apple Maps bug is showing point-of-interest pins for a smattering of airport baggage claim stations across the United States, while the map is zoomed far way enough that otherwise almost no landmarks, let alone airports, are marked. The random baggage claim pins appear across Apple Maps on iPhone, iPad and Mac. This is obviously a glitch with the data being served by the Apple Maps backend, and should be fixable by Apple with a server update. more…",
+    "author": "Benjamin Mayo",
+    "published": "Sun, 23 Mar 2025 20:27:58 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/apple-maps-baggage-claim.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "a72155b6-085b-4d96-b049-61fdc0ad5413",
+    "title": "Apple’s recent executive shake-up has me optimistic about the future of Siri",
+    "link": "https://9to5mac.com/2025/03/23/apple-executive-shakeup-new-siri-revamp-ai/",
+    "description": "On Thursday, Bloomberg reported that Apple CEO Tim Cook had “lost confidence” in SVP of AI John Giannandrea. In turn, he’ll no longer be in charge of Siri product development, and now Vision Pro head Mike Rockwell will be taking the lead. While pretty much any news for Siri would be good news at this point, I’m optimistic in Mike Rockwell’s ability to turn Siri around. I’ll explain. more…",
+    "author": "Michael Burkhardt",
+    "published": "Sun, 23 Mar 2025 18:42:55 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/iOS-18.1-Beta-4-Features-Type-to-Siri-Suggestions-1.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "245dfee8-78c9-40b2-bcd0-9602dafea771",
+    "title": "Someday, by Spike Jonze | AirPods 4 with Active Noise Cancellation",
+    "link": "https://www.youtube.com/watch?v=urTfEEsGHds",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-03-18T10:29:33+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "088c4c4d-0f92-4262-9f5e-44caa457645c",
+    "title": "Metallica — Official Trailer | Apple Vision Pro",
+    "link": "https://www.youtube.com/watch?v=4e5DgSrN3E4",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-03-14T23:40:59+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "896f8022-f471-482c-8ff9-71d7199e6c27",
+    "title": "Apple unveils immersive concert experience with Metallica for Apple Vision Pro",
+    "link": "https://www.apple.com/newsroom/2025/03/apple-unveils-immersive-concert-experience-with-metallica-for-apple-vision-pro/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-03-11T22:26:38.833Z",
+    "image": "https://www.apple.com/newsroom/images/2025/03/apple-unveils-immersive-concert-experience-with-metallica-for-apple-vision-pro/tile/Apple-Vision-Pro-Apple-Immersive-Video-Metallica-hero-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "40e7f76b-3192-43f8-96b1-7741b6d64625",
+    "title": "Apple Arcade launches new Katamari and Space Invaders games in April",
+    "link": "https://www.apple.com/newsroom/2025/03/apple-arcade-launches-new-katamari-and-space-invaders-games-in-april/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-03-11T13:59:25.997Z",
+    "image": "https://www.apple.com/newsroom/images/2025/03/apple-arcade-launches-new-katamari-and-space-invaders-games-in-april/tile/Apple-Arcade-hero-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "b0cd5137-c2cb-40ac-a991-26a18dd2c5a8",
+    "title": "Philips Hue Secure doorbell accidentally leaks via an iOS app",
+    "link": "https://appleinsider.com/articles/25/03/23/philips-hue-secure-doorbell-accidentally-leaks-via-an-ios-app?utm_medium=rss",
+    "description": "Signify is seemingly close to launching its own Philips Hue video doorbell, following a leak in the company's own iOS app.Philips Hue Secure Camera [left], and the iOS app leak for its doorbell - Image Credit: HueBlogSignify's Philips Hue collection covers a lot of smart home devices, with the list chiefly consisting of lights and security cameras. While it doesn't currently have a video doorbell in its imaging collection, that could change within a matter of months.Revealed by HueBlog, the Hue app for iOS was updated in March to include an option to register devices by QR code, with there also an option to add hardware without the QR code too. It's this latter option that confirmed the existence of the device. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Malcolm Owen",
+    "published": "Sun, 23 Mar 2025 20:24:04 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/63064-130985-philipshuedoorebell1-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "b8c55d36-a815-4f80-ba7d-4473d20da996",
+    "title": "iPhone Fold leaker reaffirms 2026 launch forecasts",
+    "link": "https://appleinsider.com/articles/25/03/23/iphone-fold-leaker-reaffirms-2026-launch-forecasts?utm_medium=rss",
+    "description": "The iPhone Fold is once again being forecast for launch in 2026, continuing a run of rumors and predictions about the foldable smartphone.A render of what the iPhone Fold could look like - Image Credit: AppleInsiderThe long-rumored iPhone Fold is widely expected to be in development and is slowly making its way to becoming a full product. As for when that could happen, the wait for consumers may not be that long at all.In Sunday's newsletter for Bloomberg, Mark Gurman talks about Apple's upcoming foldable device. Potentially called the \"iPhone Fold,\" Gurman says he expects the model to arrive \"next year,\" in 2026. Rumor Score: 🤔 Possible Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Malcolm Owen",
+    "published": "Sun, 23 Mar 2025 17:36:04 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/63062-130979-63011-130803-62784-130303-iphonefoldheader1-xl-xl-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "3993f2bd-aa78-4b9d-af32-9098f3057da9",
+    "title": "A tale of two Airs: iPad and MacBook reviews [The CultCast]",
+    "link": "https://www.cultofmac.com/news/cultcast-691-macbook-air-vs-ipad-air-reviews",
+    "description": "This week on Cult of Mac's podcast: Griffin goes deep on M3 iPad Air and M4 MacBook Air after toiling on his hands-on reviews. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Lewis Wallace",
+    "published": "Sun, 23 Mar 2025 18:00:30 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2025/03/CultCast-691-iPad-Air-vs-MacBook-Air.jpg.webp",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "News",
+      "AirPods",
+      "Apple rumors",
+      "iOS 19",
+      "iPad Air",
+      "MacBook Air",
+      "Siri",
+      "The CultCast"
+    ]
+  },
+  {
+    "id": "e0e22acb-95a3-4558-a331-42071b9de9f6",
+    "title": "Today in Apple history: Macintosh LC II is the Mac mini of its day",
+    "link": "https://www.cultofmac.com/apple-history/macintosh-lc-ii-launch",
+    "description": "On March 23, 1992, Apple released the Macintosh LC II, a low-cost “headless” Macintosh that was roughly analogous with today’s Mac minis. (via Cult of Mac - Apple news, rumors, reviews and how-tos)",
+    "author": "Luke Dormehl",
+    "published": "Sun, 23 Mar 2025 15:43:40 +0000",
+    "image": "https://www.cultofmac.com/wp-content/uploads/2017/03/MG_5756.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Apple history",
+      "Mac",
+      "System 7",
+      "TIAH: 1990s",
+      "TIAH: Macs",
+      "Today in Apple history",
+      "vintage Apple computers"
+    ]
+  },
+  {
+    "id": "f64356bf-f416-4ab9-8132-0f795602578e",
+    "title": "The Talk Show: ‘Podcasting Technology Cadence’",
+    "link": "https://daringfireball.net/thetalkshow/2025/03/23/ep-419",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-03-23T17:24:10Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "3666a322-31f0-4655-8c33-44ace5757d85",
+    "title": "Weekly Sponsorships Here at Daring Fireball",
+    "link": "https://daringfireball.net/feeds/sponsors/",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-03-21T22:38:27Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "b109939e-3e5b-44f9-8bae-5a8122281b6b",
+    "title": "Apple's Siri Disaster: Delays, Executive Shakeup \u0026 Lawsuits Explained",
+    "link": "https://www.youtube.com/watch?v=Oa3ZDjtfORw",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-03-21T17:16:45+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "5c7b05a8-3020-4392-926e-51191f793678",
+    "title": "Nothing Phone 3a Pro vs iPhone 16e: Not Even Close!",
+    "link": "https://www.youtube.com/watch?v=D3q5ZI5v9CY",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-03-19T17:49:29+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "7835a8e5-b4ce-43ac-b72a-6a3ed9702524",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 10:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "4ee9449a-2a50-4ebf-83b0-f6b89b584bf7",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 06:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "151cde9d-df88-4941-8884-44aea01b7c39",
+    "title": "An iPhone without a USB-C port? Yes, please",
+    "link": "https://www.macworld.com/article/2641477/future-iphones-might-ditch-the-usb-c-port-good.html",
+    "description": "Macworld I had a revelation recently while testing the wired charging speed of my trusty iPhone 16 Plus. In six months of ownership, it occurred to me as I blew the dust out like an archaeologist examining an ancient pot, I had never plugged a cable into my iPhone’s USB-C port. It seemed impossible, but it was true. And it made me think. Do iPhone owners even need ports? When reports suggest that Apple is working on a smartphone with no port at all, everyone loses their minds. But if I can go half a year without using my iPhone’s USB-C port and not even notice, where’s the issue? If Apple wants to ditch the iPhone’s USB-C port, I say: Good. The port at the bottom of an iPhone used to be absolutely fundamental to its well-being. Whether 30-pin, Lightning, or latterly USB-C, the charging/data port was the main, often the only route into or out of the iPhone. Aside from charging, this port was vital in the early days for uploading music and books onto the device and getting photos and videos off it. Syncing and backing up were done via a wired connection, too. But one by one these uses switched from wired only, to wired or wireless, to MagSafe, to who still uses a wire? Most of us will have memories of times when the port connection became unreliable, and of how much of a pain this was. From that point until you got a new phone the cable had to be waggled in a specific way to make it start charging, or the phone had to be laid upside down or at some weird angle. “Don’t use that cable,” you’d warn a friend. “It only plays nicely with the official Apple one.” Just another of those modern conveniences that make life hell. MagSafe is already a fantastic wireless option for (most) iPhones.shutterstock.com / serhatctk Of late, however, this particular set of annoyances has faded into the background, at least for me. I charge wirelessly overnight when the slower speed doesn’t matter. I get my music via streaming, not being 87 years old, and I transfer everything else wirelessly to and from the phone, this not being 2009. Literally, the only time I’ve needed the port since I bought the phone is to test how effective the port is. Okay, you’re saying: bully for you, you don’t need the port. But what’s the problem with keeping it as an option? Where’s the harm? The harm, my Socratic friend, is that including a design element the user doesn’t need is a waste of resources and a cause of unnecessary compromises. As I explained when defending the notch several years ago, seemingly isolated design decisions have a knock-on effect throughout the rest of the product. And if Apple was able to ditch the USB-C port it would be able to make the phone better in various other ways. Most obviously, having a physical opening on a phone is just asking for unwanted things to work their way inside. The dust I mentioned earlier; water, and spilled coffee. The iPhone 16 Plus has an excellent ingress-protection rating of IP68 but it took Apple more than a decade to reach that point because the port made it so difficult to keep dust and water out of the device. Open up your iPhone and you’ll see numerous design adaptations and compromises around the port module to waterproof the whole apparatus; these could be ditched tomorrow if the port wasn’t there, freeing up room within the chassis. That’s on top of the room you’d gain from removing the port module itself, of course. If you’ve got extra room inside the chassis you can install a bigger battery, or move other components around into a more optimal configuration. Removing the port could enable Apple to have a speaker across the full width of the bottom edge, and it would make accessing the internals of your phone for repairs a simpler process. It could even enable the company to make its iPhones thinner, transcending a limitation currently imposed by the thickness of the port. This year’s Oppo Find N5, which resorts to a custom-designed USB-C port to shave off every possible millimeter, is a good example of the way in which manufacturers are hitting a brick wall in their quest for ever-slimmer phones. As long as customers insist on plugging cables into their phones, companies won’t be able to get the size down any further. That USB-C port prevents the device from getting any thinner.Foundry | Alex Walker-Todd Maybe the biggest reason why I want Apple to ditch the USB-C port, however, is that it will force the industry, and society, to finally bite the bullet and fully embrace wireless. Apple has massive weight as a force for change. When iPhones courageously stopped having 3.5mm headphone jacks, accessory makers shifted their focus from wired to wireless (or in some cases, for a time, Lightning or USB-C) headphones, and such devices became cheaper, better, and more widely available and understood. If a chunk of wealthy iPhone owners suddenly lost their USB-C ports, Android manufacturers would likely follow suit, and the same thing would happen for wireless chargers. Cars would start to be sold as standard with Qi2 magnetic mounts rather than, or as well as, the cable ports many currently offer. Wireless charging pucks would become commonplace in homes and offices. And companies (including, I’d expect, Apple itself, because it would be keen to appease EU regulators) would throw their weight behind the development of faster, more efficient and longer-distance wireless charging standards in a way that would be less appealing if wired was still an easy option. I don’t imagine for a second that the USB-C port would disappear overnight. If the iPhone 18 series, for example, turned out to be portless, there would still be an iPhone 17e with a port, not to mention older generations still on sale at a lower price. For those who still want a port, the option would remain–likely for many years, if the slow death of the Home button is anything to go by. Nobody would be forced to join the revolution right away. But the revolution is coming, and the sooner we get started, the better.",
+    "author": "",
+    "published": "Sun, 23 Mar 2025 19:39:51 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/03/iPhone-16e-review-USB-C-port-4.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "iPhone"
+    ]
+  },
+  {
+    "id": "9f162ad0-d443-4f7c-8641-aa7e8b78a9a3",
+    "title": "Apple silicon speed test: Every iPhone, iPad, and Mac processor compared",
+    "link": "https://www.macworld.com/article/556384/apple-processors-pro-max-ultra-iphone-ipad-mac-benchmarks.html",
+    "description": "Macworld At the heart of every Apple device is an Apple processor. Apple has been using its own chips in its iPhones and iPads for more than a decade, while Apple silicon in the Mac is already in its fourth generation. What’s remarkable about Apple silicon is its performance and power efficiency. But all chips aren’t created equally. Understanding the performance differences between each chip will help with your buying decisions, especially when you’re deciding between iPhone 16 or MacBook models. Knowing how each chip performs gives you a better idea of what products to buy and whether or not it’s worth your money to step up to a higher model. Let’s take a look at how the new processors compare with the rest of the processors in the iPhone, iPad, and Mac lineup and see how each performs and what that means to you. For the sake of consistency, we’ve used Geekbench 6 benchmarks. Here’s every chip and how the benchmarks compare with each other. Update March 23, 2025: Added benchmarks for the M3 Ultra chip; added the new iPhone 16e, iPad, iPad Air, Mac Studio, and MacBook Air. Every current processor compared Results are scores. Higher scores/longer bars are faster. Chips in this chart are currently available in Apple devices. Before we get into the individual processors, let’s let the chips fall where they may. In the above chart, we’ve only included chips that are in Apple’s current product lineups for the sake of keeping the chart manageable. The Mac section below includes all of the chips, from the M1 to the current chip. If you’re looking for scores of chips that are no longer being used in Apple’s active iPhone or iPad lineups (such as the A12 Bionic), check out the Geekbench Browser. It’s a somewhat predictable chart, with the fastest Mac chips at the top, followed by a mix of iPads and iPhones. But there are still some fascinating results: owners of the iPad Pro can say their tablet is about as fast as a MacBook Air and that wouldn’t be much of a reach. And the difference between the $599 iPhone 16e and the $999 iPhone 16 Pro isn’t as huge as their price difference indicates. If you’re not seeing all the bar chart labels, it may be because your browser font is set larger than the default, or your browser is zoomed in. You’ll need to set the font size and browser view to the default to see all the chart labels. Read about how Apple’s M series processors compare to Intel in our Mac processor guide. iPhone processors Results are scores. Higher scores/longer bars are faster. Chips in this chart are currently available in Apple devices. Let’s look at the specifications of the iPhones currently in Apple’s lineup so we can understand the differences between them. ProcessorPerformance coresEfficiency coresGraphics coresNeural EngineMemoryThermal Design PowerDevicesA18 Pro2 at 4.04GHz4 at 2.2GHz616-core8GB10WiPhone 16 ProiPhone 16 Pro MaxA182 at 4.04GHz4 at 2.2GHz516-core8GB9WiPhone 16iPhone 16 PlusA182 at 4.04GHz4 at 2.2GHz416-core8GB9WiPhone 16eA16 Bionic2 at 3.46GHz4 at 2.02GHz516-core8GB6WiPhone 15Specifications of chips used in current Apple iPhones. Not surprisingly, the A18 Pro in the iPhone 16 Pro is the fastest. The difference between the A18 Pro and the A18 in the iPhone 16 is that the A18 has one fewer GPU core. The iPhone 163 has two fewer GPU cores than the iPhone 16 Pro. Apple iPhone 16 Pro Read our review Price When Reviewed: $999 Best Prices Today: $999 at Apple | $999 at Apple | $999.99 at Best Buy iPad processors Results are scores. Higher scores/longer bars are faster. Chart includes chips in discontinued Apple devices. The staggered release of Apple’s iPad lineup creates an odd-looking performance order of CPU and its device. ProcessorPerformance coresEfficiency coresGraphics coresNeural EngineMemoryTransistorsThermal Design PowerDevicesM44 at 4.4GHz6 at 2.851016-core16GB28 billion20W13″ \u0026 11″ iPad ProM43 at 4.4GHz6 at 2.851016-core8GB28 billion20W13″ \u0026 11″ iPad ProM34 at 3.49GHz4 at 2.06GHz916-core8GB20 billion15W13″ \u0026 11″ iPad AirA17 Pro2 at 3.78GHz4 at 2.11GHz516-core8GB19 billion8WiPad miniA162 at 3.46GHz3 at 2.02GHz416-core6GB11.8 billion6WiPad (11th gen)Specifications of chips used in current Apple iPads. The M4-equipped iPad Pros are the fastest models, and the gap between them and the iPad and iPad mini is significant. Furthermore, the M4 is 1.5 times faster than the M2 that it replaced in the previous iPad Pros. The 11th-gen iPad that was released in the spring of 2025 has an A16, an upgrade from the A14 Bionic in the previous model. Apple iPad mini (A17 Pro) Read our review Price When Reviewed: $499 (128GB; Wi-Fi only) | $599 (256GB; Wi-Fi only) | $799 (512GB; Wi-Fi only) Best Prices Today: $399 at Amazon | $399 at Best Buy | $479 at Walmart Electronics Mac processors Results are scores. Higher scores/longer bars are faster. Chart includes chips in discontinued Apple devices. With Apple’s M-series of chips for the Mac, the company’s release schedule involves the base version in the MacBook Air, 13-inch MacBook Pro, Mac mini, and iMac. Apple then modifies it to create higher-end versions. The latest M-Series chip is the M4, which was released with the new iMac, Mac mini, and the MacBook Pro in the fall of 2024. The M4 Pro and Max were also released in the MacBook Pro, replacing the M3 Pro and Max in those laptops. The M3 Ultra is now in the Mac Studio but Mac Pro still uses the M2 Ultra. The MacBook Air uses the M4 chip. ProcessorPerformance coresEfficiency coresGraphics coresNeural EngineBase memoryTransistorsThermal Design PowerDeviceM3 Ultra24 at 4.52GHz8 at 2.59GHz8032-core96GB184 billion140WMac StudioM3 Ultra20 at 4.52GHz8 at 2.59GHz6032-core96GB184 billion140WMac StudioM4 Max12 at 4.52GHz4 at 2.59GHz4016-core48GB70W14″ \u0026 16″ MacBook ProM4 Max10 at 4.52GHz4 at 2.59GHz3216-core36GB62W14″ \u0026 16″ MacBook ProM4 Pro10 at 4.52GHz4 at 2.59GHz2016-core24GB46W14″ \u0026 16″ MacBook Pro. Mac miniM4 Pro8 at 4.52GHz4 at 2.59GHz1616-core24GB38W14″ MacBook Pro, Mac miniM2 Ultra16 at 3.49GHz8 at 2.4GHz7632-core64GB134 billon80WM2 Ultra16 at 3.49GHz8 at 2.4GHz6032-core64GB134 billon80WM44 at 4.41GHz6 at 2.59GHz1016-core16GB28 billion22WiMac, 14″ MacBook ProM44 at 4.41GHz4 at 2.59GHz816-core16GB28 billion20WiMacSpecifications of chips used in current Apple Macs. The M4 Max is a beast of a chip, blazing in both CPU and GPU performance but it’s not the fastest. The M2 Ultra is in the Mac Pro, which has PCIe expansion slots. If you don’t need such slots, you can opt for an M3 Ultra Mac Studio. The M3 Ultra is Apple’s fastest Mac. Apple 14-inch MacBook Pro (M4) Read our review Price When Reviewed: $1,599 | $1,799 | $1,999 Best Prices Today: $1399 at B\u0026H | $1439 at Walmart Electronics | $1499 at Adorama The chip that started it all, the good ol’ M1, may seem slow compared to Apple’s more current chips—but that’s not to undermine Apple’s original Mac processor. Remember, the M1 blows past the Intel processors it replaced, resulting in a significant price/performance value.",
+    "author": "",
+    "published": "Sun, 23 Mar 2025 08:45:00 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/03/apple-silicon-m3-a17.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "CPUs and Processors, iPad, iPhone, Mac"
+    ]
+  },
+  {
+    "id": "38a4d00a-84ff-40e3-bb5e-fd08fc342bd8",
+    "title": "Fixing Safari for Mac Error “This webpage was reloaded because a problem occurred”",
+    "link": "https://osxdaily.com/2025/03/19/fixing-safari-for-mac-error-this-webpage-was-reloaded-because-a-problem-occurred/",
+    "description": "Safari is a fantastic web browser on the Mac, but that doesn’t mean it’s always trouble-free. One issue that Safari users may see on the Mac from time to time will cause a webpage to refresh and then throw an error message that says “this webpage was reloaded because a problem occurred”. You might also ... Read More",
+    "author": "Ali Khan",
+    "published": "Wed, 19 Mar 2025 20:58:38 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Mac OS",
+      "Tips \u0026 Tricks",
+      "Troubleshooting",
+      "Mac",
+      "macOS",
+      "safari",
+      "tips",
+      "tricks"
+    ]
+  },
+  {
+    "id": "39b23bdb-d2fe-44f1-b11b-6219a408d574",
+    "title": "Deals: M3 MacBook Air 13″ 24GB / 512GB for $1099",
+    "link": "https://osxdaily.com/2025/03/19/deals-m3-macbook-air-13-24gb-512gb-for-1099/",
+    "description": "Sure Apple just spec-bumped the MacBook Air to have an M4 chip, but if you don’t mind having the M3 chip instead, you can get a whopping 27% off the original retail price of an upgraded model with 24GB RAM and a 512GB SSD. This is still a fantastic Mac and has the M3 chip ... Read More",
+    "author": "OSXDaily",
+    "published": "Wed, 19 Mar 2025 20:28:41 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Deals",
+      "deals"
+    ]
+  },
+  {
+    "id": "cc1d2469-24ef-4514-9388-480bbeeee591",
+    "title": "∞ The Dalrymple Report: Apple Intelligence blunder and Siri is wrong (again)",
+    "link": "https://www.loopinsight.com/2025/03/21/the-dalrymple-report-apple-intelligence-blunder-and-siri-is-wrong-again/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-apple-intelligence-blunder-and-siri-is-wrong-again",
+    "description": "Just when you think it couldn't get any worse, Siri strikes again. Ask Siri, \"what month is it?\" on your iPhone and you get the reply, \"Sorry, I don't understand.\" Apple's Siri executive held a meeting about the technology and was pretty brutal about the failings Apple has had until now. Oh yeah, Apple Intelligence is delayed, again. Follow this podcast Brought to you by: LinkedIn Jobs: LinkedIn Jobs helps you find the candidates you want to talk to, faster. Did you know every week, nearly 40 million job seekers visit LinkedIn? Post your job for free at LinkedIn.com/DALRYMPLE. Terms and conditions apply. Show Notes: AirTag resetting drama Apple unveils immersive concert experience with Metallica for Apple Vision Pro Apple Siri exec Robby Walker, lays out some reality in Siri all hands meeting Should Tim apologize, a la Apple Maps? Michael Gartenberg on the Lessons Apple Learned (and Hopefully Has Not Forgotten) From MobileMe Shows and movies we're watching The Are Murders, Netflix Celtics City, Max",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 21 Mar 2025 14:44:03 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "a4d2e469-da6a-4e2f-9a9e-9e26c6f15aca",
+    "title": "∞ The Dalrymple Report: Apple’s pathetic AI, Metallica, new Siri delayed",
+    "link": "https://www.loopinsight.com/2025/03/14/the-dalrymple-report-apples-pathetic-ai-metallica-new-siri-delayed/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-apples-pathetic-ai-metallica-new-siri-delayed",
+    "description": "It seems I may have been right after all—Apple is far behind in AI and now other people are realizing it too. Gruber wrote a scathing piece on Apple and its failed promises about Apple Intelligence. Apple unvieled an immersive concert experience featuring Metallica for its Vision Pro users, and Apple has officially delayed the release of the next generation Siri. Follow this podcast Show Notes: Something Is Rotten in the State of Cupertino Apple unveils immersive concert experience with Metallica for Apple Vision Pro A New System-Wide UI Look for iOS — Let Alone MacOS, Too — Would Be a Huge Deal Apple officially pushing back Siri Shows and movies we're watching The Agency, Paramount+ The Studio Running Point, Netflix",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 14 Mar 2025 12:58:25 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "45a9c4a3-2ce0-4a1b-bb25-728c18221f26",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "4cae8fc8-1026-4a7f-a654-37cffb8310d3",
+    "title": "The Overcast Redesign: Part One",
+    "link": "https://marco.org/2022/03/25/overcast-redesign-2022",
+    "description": "Overcast’s latest update (2022.2) brings the largest redesign in its nearly-eight-year history, plus many of the most frequently requested features and lots of under-the-hood improvements. I’m pretty proud of this one. For this first and largest phase of the redesign, I focused on the home screen, playlist screen, typography, and spacing. (I plan to revamp the now-playing and individual-podcast screens in a later update.) The home screen is radically different: Home screen, before (left) and after (right). Playlists now have strong visual identities for nicer and easier navigation. Each playlist has a customizable color, and a custom icon can be selected from over 3,000 SF Symbols to match modern iOS design and the other icons within Overcast. And playlists can be manually reordered with drag-and-drop. Recently played and newly published episodes can now be displayed on the home screen for quick access, much like the widget and CarPlay experience. Podcasts can now be pinned to the top of the home-screen list. Pinned podcasts can also be manually reordered with drag-and-drop. I’ve also rethought the old stacked “Podcasts” and “Played Podcasts” sections to better match people’s needs and expectations. Now, the toggle atop the podcast list switches between three modes: podcasts with current episodes, all followed podcasts, and inactive podcasts (those that you don’t follow and therefore won’t get any more episodes from, or haven’t posted a new episode in a long time). The playlist screen’s structure remains mostly the same, while refining the design for the modern era: Playlist screen, before (left) and after (right). Here, it’s more apparent that I’ve replaced the system San Francisco font with an alternate variant, San Francisco Rounded, to increase legibility and better match the personality of the app. I’ve also added highly demanded features: By far, Overcast’s most-requested feature is a Mark as Played feature. That’s now available as a checkmark button on episode rows, as well as a left-side swipe action. The second-most-requested feature is a way to view all starred episodes. Special playlists for Starred, Downloaded, and In Progress can now be created. The light and dark themes now each have a customizable tint color from the modern iOS UI-color palette, including these favorites from beta testers: And throughout the app, I’ve made tons of tweaks and bug fixes, including: Notifications and background downloads are now much more reliable. Episode downloads can now be individually deleted or re-downloaded. Links can now be opened in Safari. (under Nitpicky Details) Performance is now significantly better with very large playlists and collections. Fixed bugs with episode-duration detection, CarPlay lists, Mac-app sharing, and much more. So much is better in this update that I can’t even remember it all. Thank you so much to everyone who helped me beta-test this massive update. As always, Overcast is free in the App Store. Go get it!",
+    "author": "",
+    "published": "Fri, 25 Mar 2022 10:57:51 EDT",
+    "image": "https://marco.org/media/2022/03/ocredesign2022-1-after.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "ef4de02d-b381-4b9e-907b-2cc9b8d624a9",
+    "title": "Podcast Rewind: MacWhisper, Vibe Coding, Live Albums, and Immersive Metallica",
+    "link": "https://www.macstories.net/news/podcast-rewind-macwhisper-vibe-coding-live-albums-and-immersive-metallica/",
+    "description": "Enjoy the latest episodes from MacStories’ family of podcasts: Comfort Zone Darth Chris makes an appearance, Niléane has an exclusive first look at…checks notes… the iPhone 16 Pro, Matt insists on talking about MacWhisper even more, and the crew actually all followed the rules in this week’s challenge (a miracle!). MacStories Unwind This week, Federico […]",
+    "author": "John Voorhees",
+    "published": "Fri, 21 Mar 2025 22:48:29 +0000",
+    "image": "https://cdn.macstories.net/untitled-1738434411572.png",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "news",
+      "Comfort Zone",
+      "Magic Rays of Light",
+      "podcast",
+      "unwind"
+    ]
+  },
+  {
+    "id": "66610ab4-0246-420e-8f0c-007bc648fbe7",
+    "title": "Bloomberg Reports that Apple Is Shaking up Siri Leadership",
+    "link": "https://www.macstories.net/linked/bloomberg-reports-that-apple-is-shaking-up-siri-leadership/",
+    "description": "Less than two weeks ago, Apple announced that it was delaying the launch of a more personalized Siri. Today, Mark Gurman, reporting for Bloomberg, says the company is shuffling leadership of the project, too. According to Gurman: Chief Executive Officer Tim Cook has lost confidence in the ability of AI head John Giannandrea to execute […]",
+    "author": "John Voorhees",
+    "published": "Thu, 20 Mar 2025 17:57:13 +0000",
+    "image": "",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "Linked",
+      "AI",
+      "apple",
+      "Apple Intelligence",
+      "management",
+      "siri"
+    ]
+  },
+  {
+    "id": "ed26a3c6-e5dc-4866-9562-a9f05f08a456",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "67cf45e5-1558-42a8-a69f-2686f9add7ab",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  }
+]

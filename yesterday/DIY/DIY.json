@@ -1,0 +1,288 @@
+[
+  {
+    "id": "cdb02757-2bfe-422b-a192-ad6a979b4cf7",
+    "title": "Use This Safari Trick to Highlight and Share Specific Text from Any Webpage on Your iPhone",
+    "link": "https://apple.gadgethacks.com/how-to/share-highlighted-text-safari-ios-ipados/",
+    "description": "Safari has a hidden feature for your iPhone that will change how you share, receive, and interact with links — and barely anyone knows about it. The feature works on the latest iOS software, as well as the latest iPadOS and macOS versions. Still, you won't find any information about it in Safari's app or settings, so it's pretty hidden if you haven't seen it by accident yet. What does it do? It lets you share a link to specific words or phrases on almost any webpage — automatically highlighting them when someone opens it. Whether you're quoting a source, pointing out a key section in a long article, or referencing something ultra-specific, Safari now supports a clever URL trick that makes it effortless. Jump to a sectionHow anchor links work How text fragments work How to open URLs with text fragments How to create links with text fragments to share If text fragments aren't working for you Example uses of text fragments How anchor links workYou've probably come across it many times: a...more",
+    "author": "Justin Meyers",
+    "published": "Fri, 21 Mar 2025 20:43:35 GMT",
+    "image": "https://assets.content.technologyadvice.com/safari_text_fragment_cover1_00d6dc4032.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "074dfc2f-34c9-4abf-a0f3-02f8aca74c2a",
+    "title": "iOS 18.4 Has 50+ New Features and Changes for iPhone You Won't Want to Miss",
+    "link": "https://ios.gadgethacks.com/news/ios-18.4-features/",
+    "description": "Apple's iOS 18.4 update for iPhone is on the way, and it's bringing some exciting new tools, smart refinements, and deeper Apple Intelligence integration that make your iPhone experience even better. Whether you're looking for ways to stay more organized, enhance your daily workflow, or enjoy new forms of entertainment, this update has something for everyone. Apple Intelligence continues to evolve, with new ways to streamline notifications and help you focus on what truly matters. Key apps are getting notable improvements, making it easier to find what you need, stay productive, and personalize your iPhone like never before. Plus, Apple has a brand-new app that offers a unique way to play certain types of music — though you won't find it alongside your other apps. Beyond that, iOS 18.4 delivers subtle yet meaningful improvements that touch nearly every corner of the system, from communication tools to privacy enhancements. Even the Photos and Safari apps have received useful upgrades...more",
+    "author": "Justin Meyers",
+    "published": "Fri, 21 Mar 2025 20:32:40 GMT",
+    "image": "https://assets.content.technologyadvice.com/18_4_cover_4_acbd856bdc.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "f6c8b1ec-8735-4c2b-a813-c74fa38c687b",
+    "title": "Lynchburg Lemonade",
+    "link": "https://abeautifulmess.com/lynchburg-lemonade/",
+    "description": "The Lynchburg Lemonade is named after Lynchburg, Tennessee, where the Jack Daniel’s Distillery is located. This popular recipe is made with whiskey, triple sec, lemon juice and lemon-lime soda. If you like whiskey and lemonade, you’ll love this recipe! Related: Old Fashioned, Whiskey Sour, Whiskey Ginger, Paper Plane. Ingredients Instructions In a cocktail shaker, combine the Tennessee…",
+    "author": "Elsie Larson",
+    "published": "Sun, 23 Mar 2025 13:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/01/Lynchburg-Lemonade.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Cocktails",
+      "Food",
+      "Whiskey"
+    ]
+  },
+  {
+    "id": "91ce03e1-f4cd-46e1-b59a-819594a076ce",
+    "title": "Oven Baked BBQ Chicken",
+    "link": "https://abeautifulmess.com/bbq-chicken/",
+    "description": "I love BBQ sauce. Like, no really, I LOVE it. So this BBQ chicken recipe really highlights this love. This is also a super simple, easy and quick way to make BBQ chicken. Being from Missouri I love slow roasted, charcoal barbecue and certainly smoked meats of all kinds (although brisket will probably always have…",
+    "author": "Emma Chapman",
+    "published": "Fri, 21 Mar 2025 13:27:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/03/BBQ-chicken.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Dinner/Lunch",
+      "Food"
+    ]
+  },
+  {
+    "id": "35ac3c2f-44a2-415e-8c83-c4552e949eb4",
+    "title": "Hackaday Links: March 23, 2025",
+    "link": "https://hackaday.com/2025/03/23/hackaday-links-march-23-2025/",
+    "description": "What a long, strange trip it’s been for NASA astronauts Suni Williams and Bruce Wilmore, who finally completed their eight-day jaunt to space after 289 days. The duo returned to …read more",
+    "author": "Dan Maloney",
+    "published": "Sun, 23 Mar 2025 23:00:57 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Hackaday Columns",
+      "Hackaday links",
+      "astronauts",
+      "atari",
+      "chatbot",
+      "ChatGPT-4o",
+      "dragon",
+      "ESA",
+      "hackaday links",
+      "iss",
+      "LLM",
+      "Meme",
+      "nasa",
+      "retrocomputing",
+      "Starliner",
+      "surplus",
+      "Vivaldi"
+    ]
+  },
+  {
+    "id": "d9cc76fb-9174-48b1-9a3f-ee62851d056b",
+    "title": "RTL-SDR with Only a Browser",
+    "link": "https://hackaday.com/2025/03/23/rtl-sdr-with-only-a-browser/",
+    "description": "Surely by now you’ve at least heard of RTL-SDR — a software project that let’s cheap TV tuner dongles work as a software-defined radios. A number of projects and tools …read more",
+    "author": "Al Williams",
+    "published": "Sun, 23 Mar 2025 20:00:43 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/03/websdr.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Radio Hacks",
+      "Software Hacks",
+      "RTL-SDR",
+      "WebUSB"
+    ]
+  },
+  {
+    "id": "238a11bd-594e-48ef-a1d7-e0cab076e0b2",
+    "title": "Combating Unwanted Holiday Guests: Dust Bunnies",
+    "link": "https://www.doityourself.com/stry/combating-unwanted-holiday-guests-dust-bunnies",
+    "description": "Keep your home sparkling and your air quality clean with these tips.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg0.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/972/dust-bunny-195972.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "b9c5137b-d5d1-4b4a-b9d9-9d86baec29b4",
+    "title": "Learn These Basic Car Maintenance Skills Before a Road Trip",
+    "link": "https://www.doityourself.com/stry/learn-these-basic-car-maintenance-skills-before-a-road-trip",
+    "description": "They can come in very handy in a tough situation.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg2.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/694/shutterstock_104261411-703694.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "d1ca884a-3aef-4eb3-8b96-a72e9309ebb8",
+    "title": "Weekend Reading 3.16.25",
+    "link": "https://centsationalstyle.com/2025/03/weekend-reading-3-16-25/",
+    "description": "This is the first weekend I’ve been home in a month! I was away the past three weekends, first we visited my daughter in Santa Barbara, next we ran away on a 4 day trip to Kauai, and then we drove up north to visit our son at his university. Finally, a weekend to enjoy… Keep Reading →",
+    "author": "Kate Riley",
+    "published": "Sun, 16 Mar 2025 16:55:21 +0000",
+    "image": "https://media.centsationalstyle.com/wp-content/uploads/2025/03/19053627/a-frame.jpg",
+    "source": "https://centsationalstyle.com/feed/",
+    "categories": [
+      "Weekend Reading",
+      "weekend reading"
+    ]
+  },
+  {
+    "id": "df32a873-31f3-4dd7-8116-a7f6d678b21b",
+    "title": "Romanticize Your Home",
+    "link": "https://centsationalstyle.com/2025/02/romanticize-your-home/",
+    "description": "Happy Valentine’s Day all! The sun just popped out after a week of storms and it’s a beautiful day. It’s still so cold, and on winter days I like to work from home sipping my coffee by morning light as I work on my laptop. There’s a a lot of chatter online romanticizing one’s life,… Keep Reading →",
+    "author": "Kate Riley",
+    "published": "Fri, 14 Feb 2025 16:41:48 +0000",
+    "image": "https://media.centsationalstyle.com/wp-content/uploads/2025/02/19053630/plants-on-table.jpg",
+    "source": "https://centsationalstyle.com/feed/",
+    "categories": [
+      "Design + Decorating Articles",
+      "Style Files",
+      "inspiration"
+    ]
+  },
+  {
+    "id": "b2cffde4-4431-4ef5-a9aa-150d8ee71f53",
+    "title": "Believe It or Not, Saturn's Rings have Disappeared Today",
+    "link": "https://www.howtogeek.com/saturns-rings-have-disappeared/",
+    "description": "They'll be back.",
+    "author": "Nick Lewis",
+    "published": "Sun, 23 Mar 2025 22:02:48 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/03/pia11667.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Space",
+      "Astronomy"
+    ]
+  },
+  {
+    "id": "3ff880d2-cc03-4c62-b325-045d053266e8",
+    "title": "10 Tricks You Can Do With FFmpeg on Linux",
+    "link": "https://www.howtogeek.com/tricks-you-can-do-with-ffmpeg-on-linux/",
+    "description": "FFmpeg is way cooler than it sounds.",
+    "author": "Haroon Javed",
+    "published": "Sun, 23 Mar 2025 20:00:15 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/10/example-of-alias-running-on-the-linux-terminal.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Linux",
+      "Linux \u0026 macOS Terminal",
+      "media",
+      "Video Editing"
+    ]
+  },
+  {
+    "id": "d4fa0f17-7ab8-4f20-bfab-9290b124405b",
+    "title": "Don't Miss These 8 Underrated Microsoft Copilot Features",
+    "link": "https://www.makeuseof.com/microsoft-copilot-underrated-features/",
+    "description": "Don't let these features slip through the net; get more out of Copliot by using its most underrated tools.",
+    "author": "Danny Maiorca",
+    "published": "Sun, 23 Mar 2025 15:45:14 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-smartphone-screen.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Technology Explained",
+      "Microsoft Copilot",
+      "Artificial Intelligence",
+      "Software Recommendations"
+    ]
+  },
+  {
+    "id": "283ce21c-7386-4e57-b255-bfcb050da896",
+    "title": "How ChatGPT’s Deep Research Can Be Improved With 8 Key Features",
+    "link": "https://www.makeuseof.com/chatgpt-deep-research-extra-features/",
+    "description": "ChatGPT's Deep Research is fantastic, but these features would make it so much better.",
+    "author": "Danny Maiorca",
+    "published": "Sun, 23 Mar 2025 15:30:15 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/chatgpt-running-on-an-iphone-with-a-macbook-pro-and-airpods-in-the-background.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Technology Explained",
+      "ChatGPT",
+      "Artificial Intelligence",
+      "Chatbot"
+    ]
+  },
+  {
+    "id": "017c39dd-1a26-4779-b123-2565c47399e5",
+    "title": "Hand-Quilted Coasters",
+    "link": "https://ohhappyday.com/2022/10/hand-quilted-coasters/",
+    "description": "Get ready for those shorter days and cooler nights by adding a little warmth and color to your home or next gathering. We partnered with Fiskars to use their collection of fabric cutting tools to craft these modern patchwork style coasters. These require a bit of machine sewing but are super beginner friendly, and the...Read More",
+    "author": "olivia",
+    "published": "Tue, 04 Oct 2022 15:09:34 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/BLOG_OHD_FiskarsCoasters-Hero1.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "place cards",
+      "autumn",
+      "coasters",
+      "cutter",
+      "cutting mat",
+      "diy",
+      "drinks",
+      "fabric",
+      "fall",
+      "fiskars",
+      "quilt",
+      "scissors",
+      "sewing"
+    ]
+  },
+  {
+    "id": "3d6f73c5-3131-49a5-974d-c802c275d4e3",
+    "title": "5 Ways to Fall",
+    "link": "https://ohhappyday.com/2022/09/5-ways-to-fall/",
+    "description": "We are rounding up some of our favorite Fall throwbacks. This also means Halloween is around the corner and it’s time to start costume brainstorming – any suggestions? In the meantime, here are a few of our favorite DIYs to start your Fall Checklist! Rainbow Pumpkin Centerpiece – an OHD classic! Ombre Leaves Backdrop –...Read More",
+    "author": "Jordan",
+    "published": "Fri, 30 Sep 2022 16:49:26 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/FALL2.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "party",
+      "craft",
+      "diy",
+      "fall",
+      "ombre",
+      "pies",
+      "pumpkin",
+      "rainbow",
+      "roundup",
+      "smores"
+    ]
+  },
+  {
+    "id": "8e647ae6-a58a-4358-86b4-0f608d71ec55",
+    "title": "The MOPPE Hack That Makes Grabbing Spices Ridiculously Simple",
+    "link": "https://ikeahackers.net/2025/03/wall-mounted-spice-rack.html",
+    "description": "Is it just me, or does it seem like every kitchen has an obligatory drawer full of spices (many of which you’ve never heard of)? We organized our spices into a built-in spice rack on the side of our kitchen island. However, I know that for many people the spices simply collect on the countertop, adding to the clutter. It makes sense to want your spices close at hand when you’re cooking. But you also want to keep your counters […] The post The MOPPE Hack That Makes Grabbing Spices Ridiculously Simple appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Thu, 20 Mar 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Kitchen",
+      "IKEA Moppe Mini Chest Hacks",
+      "Latest on IG"
+    ]
+  },
+  {
+    "id": "6fb0482c-ef9d-41ec-95de-671d11124a85",
+    "title": "Is LÅDMAKARE the Next Big Thing in IKEA Shelving?",
+    "link": "https://ikeahackers.net/2025/03/ikea-ladmakare-shelving.html",
+    "description": "It looks like IKEA has done it again, creating an affordable yet stylish storage solution that boasts adaptability and maximizes space. The new LÅDMAKARE series delivers a sleek aesthetic that incorporates nicely with various styles and offers a custom look without breaking the bank. But what sets this new species apart from the other storage superstars in the IKEA ecosystem? Perhaps the LÅDMAKARE line isn’t here to compete, but rather, to play well with others, offering customers even more ways […] The post Is LÅDMAKARE the Next Big Thing in IKEA Shelving? appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Wed, 19 Mar 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Products",
+      "Featured",
+      "LÅDMAKARE"
+    ]
+  }
+]
