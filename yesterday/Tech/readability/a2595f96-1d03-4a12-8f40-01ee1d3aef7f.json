@@ -1,0 +1,23 @@
+{
+  "id": "a2595f96-1d03-4a12-8f40-01ee1d3aef7f",
+  "title": "Software Engineer Runs Generative AI On 20-Year-Old PowerBook G4",
+  "link": "https://apple.slashdot.org/story/25/03/24/2253253/software-engineer-runs-generative-ai-on-20-year-old-powerbook-g4?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+  "description": "A software engineer successfully ran Meta's Llama 2 generative AI model on a 20-year-old PowerBook G4, demonstrating how well-optimized code can push the limits of legacy hardware. MacRumors' Joe Rossignol reports: While hardware requirements for large language models (LLMs) are typically high, this particular PowerBook G4 model from 2005 is equipped with a mere 1.5GHz PowerPC G4 processor and 1GB of RAM. Despite this 20-year-old hardware, my brother was able to achieve inference with Meta's LLM model Llama 2 on the laptop. The experiment involved porting the open-source llama2.c project, and then accelerating performance with a PowerPC vector extension called AltiVec. His full blog post offers more technical details about the project. Read more of this story at Slashdot.",
+  "author": "BeauHD",
+  "published": "2025-03-25T00:20:00+00:00",
+  "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "categories": [
+    "macbook"
+  ],
+  "byline": "",
+  "length": 747,
+  "excerpt": "A software engineer successfully ran Meta's Llama 2 generative AI model on a 20-year-old PowerBook G4, demonstrating how well-optimized code can push the limits of legacy hardware. MacRumors' Joe Rossignol reports: While hardware requirements for large language models (LLMs) are typically high, thi...",
+  "siteName": "",
+  "favicon": "",
+  "text": "A software engineer successfully ran Meta's Llama 2 generative AI model on a 20-year-old PowerBook G4, demonstrating how well-optimized code can push the limits of legacy hardware. MacRumors' Joe Rossignol reports: While hardware requirements for large language models (LLMs) are typically high, this particular PowerBook G4 model from 2005 is equipped with a mere 1.5GHz PowerPC G4 processor and 1GB of RAM. Despite this 20-year-old hardware, my brother was able to achieve inference with Meta's LLM model Llama 2 on the laptop. The experiment involved porting the open-source llama2.c project, and then accelerating performance with a PowerPC vector extension called AltiVec. His full blog post offers more technical details about the project.",
+  "image": "https://a.fsdn.com/sd/topics/applelaptop_64.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"fhbody-176805297\"\u003e\n\t\n\t\t\n\t\n\n\t\n\t\t\n\t\t\u003cp\u003e\n\t\t\t\n\t\t \t\n\t\t\t\tA software engineer \u003ca href=\"https://www.macrumors.com/2025/03/24/powerbook-g4-generative-ai/\"\u003esuccessfully ran Meta\u0026#39;s Llama 2 generative AI model on a 20-year-old PowerBook G4\u003c/a\u003e, demonstrating how well-optimized code can push the limits of legacy hardware. MacRumors\u0026#39; Joe Rossignol reports: \u003ci\u003e While hardware requirements for large language models (LLMs) are typically high, this particular PowerBook G4 model from 2005 is equipped with a mere 1.5GHz PowerPC G4 processor and 1GB of RAM. Despite this 20-year-old hardware, my brother was able to achieve inference with Meta\u0026#39;s LLM model Llama 2 on the laptop. The experiment involved porting the open-source llama2.c project, and then accelerating performance with a PowerPC vector extension called AltiVec. \u003c/i\u003e His full \u003ca href=\"http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html\"\u003eblog post\u003c/a\u003e offers more technical details about the project.\u003cbr/\u003e\n\t\t \t\n\t\t\u003c/p\u003e\n\n\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\n\t\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
