@@ -1,0 +1,200 @@
+[
+  {
+    "id": "8ffc7562-2b55-4fb7-a1d4-d0d3b66ef82a",
+    "title": "Adaptive Video Streaming With Dash.js In React",
+    "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+    "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
+    "author": "Teng Wei Herr",
+    "published": "Thu, 27 Mar 2025 13:00:00 GMT",
+    "image": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "6e71874e-5c7f-49bd-91fb-405f42d95784",
+    "title": "Previewing Content Changes In Your Work With document.designMode",
+    "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
+    "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
+    "author": "Victor Ayomipo",
+    "published": "Fri, 21 Mar 2025 08:00:00 GMT",
+    "image": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "eb22952b-ad12-4f8e-afda-10cd0a49fd65",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "7bc1cb73-e373-4c9a-991f-34bbc3d18166",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  },
+  {
+    "id": "77f8d441-8f9e-459f-8916-4a5f037e31a3",
+    "title": "10 Best Desktop Replacement Laptops in 2025",
+    "link": "https://justcreative.com/desktop-replacement-laptops/",
+    "description": "Razer Blade 15 is our #1 choice for best desktop replacement laptop you can buy in 2025. Discover more desktop replacement laptops in our post.",
+    "author": "Jacob Cass",
+    "published": "Thu, 27 Mar 2025 04:00:30 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2025/03/31fncl0iJWL._SL500_.webp",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "best laptop",
+      "Desktop",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "c2171274-5270-46b7-85ff-d162c95fb2e4",
+    "title": "11+ Best Staplers in 2025",
+    "link": "https://justcreative.com/best-stapler/",
+    "description": "Looking for the best stapler in 2023? No wonder, as the best staplers are a permanent fixture on every desk. Fill that empty space you've been trying to fill.",
+    "author": "Jacob Cass",
+    "published": "Thu, 27 Mar 2025 04:00:20 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2025/03/418hEUVDsVL._SL500_.webp",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear",
+      "best staplers",
+      "Office Hardware",
+      "Stapler"
+    ]
+  },
+  {
+    "id": "66ba877f-9e91-4e00-849c-5f3ce3e414ad",
+    "title": "Discoverability of AI Features: Learn from Amazon’s Mistakes",
+    "link": "https://www.nngroup.com/articles/discoverability-ai-amazon/",
+    "description": "Even AI features that offer value won’t be used if people don’t notice them. Consider existing mental models and design best practices to increase engagement.",
+    "author": "Kate Moran, Feifei Liu",
+    "published": "Fri, 21 Mar 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "16b1b209-fb37-4c8a-be08-e1de20306afe",
+    "title": "UX Layoff Crisis: A Guide for Resilience and Recovery",
+    "link": "https://www.nngroup.com/articles/ux-layoff-guide/",
+    "description": "Lost your UX job in a layoff? Use this step-by-step guide to preserve your professionalism and optimism during this stressful experience.",
+    "author": "Evan Sunwall",
+    "published": "Fri, 21 Mar 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "e4badcd2-344f-4a1b-b876-88f907378825",
+    "title": "Is this the death or dawn of human creativity?",
+    "link": "https://uxdesign.cc/is-this-the-death-or-dawn-of-human-creativity-29acaa0f7ad1?source=rss----138adf9c44c---4",
+    "description": "Should we fear AI as a creativity villain or celebrate it as a creativity companion?Continue reading on UX Collective »",
+    "author": "Ian Batterbee",
+    "published": "Thu, 27 Mar 2025 23:04:51 GMT",
+    "image": "https://cdn-images-1.medium.com/max/752/0*9GWrzj3-m2cur2BH",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "psychology",
+      "design",
+      "ai",
+      "creativity",
+      "ux"
+    ]
+  },
+  {
+    "id": "1764ac99-3ec1-4f21-948c-d375c3d05401",
+    "title": "Can we actually design for sustainability?",
+    "link": "https://uxdesign.cc/can-we-actually-design-for-sustainability-ef784ba06ad2?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Allie Paschal",
+    "published": "Thu, 27 Mar 2025 23:02:55 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*YVVSFX9aFnQLWaL3",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "climate-change",
+      "ux",
+      "sustainable-development",
+      "design",
+      "sustainability"
+    ]
+  },
+  {
+    "id": "7a99aa53-8d26-427e-ab2e-c1ee99b5e9a8",
+    "title": "How to Group Your Sidebar Items for Better Findability",
+    "link": "https://uxmovement.com/navigation/how-to-group-your-sidebar-items-for-better-findability/",
+    "description": "When a sidebar contains many items, grouping is necessary to help users find them faster. However, most designers don’t group their sidebar items and force users to scan an entire list. This results in slow navigation times and poor findability. Grouping improves findability by enabling users to spot a group and scan the items in […] The post How to Group Your Sidebar Items for Better Findability first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:27:48 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "fba5d290-2be7-4fca-981e-ff983b33ae92",
+    "title": "How to Make Any Sidebar Menu Easier to Scan",
+    "link": "https://uxmovement.com/navigation/how-to-make-any-sidebar-menu-easier-to-scan/",
+    "description": "How easy to scan is your sidebar menu? If you haven’t optimized the spacing, users will likely spend more time navigating and finding items. Balancing the spacing in the sidebar can help users navigate faster and easier. A typical mistake designers make is adding too much or not enough space. Both can make scanning for […] The post How to Make Any Sidebar Menu Easier to Scan first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:24:10 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "bfd7535f-e918-47c0-b3c1-1c52656ef2c0",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "21193a8d-b54a-4f26-93a0-d47fc7ffa25e",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  }
+]

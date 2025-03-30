@@ -1,0 +1,201 @@
+[
+  {
+    "id": "21f35a20-ab58-4b6f-896f-5c0d65db9e62",
+    "title": "Adaptive Video Streaming With Dash.js In React",
+    "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+    "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
+    "author": "Teng Wei Herr",
+    "published": "Thu, 27 Mar 2025 13:00:00 GMT",
+    "image": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "d85074b1-ada3-45de-b148-5da5850350f3",
+    "title": "Previewing Content Changes In Your Work With document.designMode",
+    "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
+    "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
+    "author": "Victor Ayomipo",
+    "published": "Fri, 21 Mar 2025 08:00:00 GMT",
+    "image": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "d20cded1-4d95-4c27-a967-124949996c42",
+    "title": "The Return of the UX Generalist",
+    "link": "https://www.nngroup.com/articles/return-ux-generalist/",
+    "description": "AI advances make UX generalists valuable, reversing the trend toward specialization. Understanding multiple disciplines is increasingly important.",
+    "author": "Sarah Gibbons, Evan Sunwall",
+    "published": "Fri, 28 Mar 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "faaf61f3-10f3-4edc-9edb-608c75c83fa3",
+    "title": "Four AI Superpowers: Where AI Improves Products",
+    "link": "https://www.nngroup.com/articles/ai-superpowers/",
+    "description": "When using AI consider its four \"superpowers\": content creation, summarization, basic data analysis, and perspective taking.",
+    "author": "Connor Joyce",
+    "published": "Fri, 28 Mar 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "cc113dc1-b15d-4579-9d7c-4e1ce662d265",
+    "title": "🧘‍♀️ 20+ Yoga Fonts for Tranquil \u0026 Balanced Designs",
+    "link": "https://justcreative.com/yoga-fonts/",
+    "description": "Discover the best yoga fonts and create tranquil, balanced and harmonious designs for your yoga projects. We've rounded up the best here for you.",
+    "author": "Jacob Cass",
+    "published": "Fri, 28 Mar 2025 04:00:59 +0000",
+    "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f9d8-200d-2640-fe0f.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "exercise font",
+      "Fonts",
+      "human fonts",
+      "yoga'"
+    ]
+  },
+  {
+    "id": "dd18cedc-cf2f-4b1e-92dd-18a14e798e7b",
+    "title": "15+ Aztec Fonts for Amazing Designs",
+    "link": "https://justcreative.com/aztec-fonts/",
+    "description": "Aztec fonts are inspired by the intricate \u0026 mesmerizing art of the Aztec civilization, known for its rich traditions. Find the best Aztec fonts here.",
+    "author": "Jacob Cass",
+    "published": "Fri, 28 Mar 2025 04:00:36 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2023/05/Aztec-Fonts-main-1024x603.jpg",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "aztec fonts",
+      "Fonts",
+      "mexican"
+    ]
+  },
+  {
+    "id": "7d93d5a8-9086-4af3-b9e6-c27f910a113e",
+    "title": "Individualism, pop bands \u0026 workplace collaboration",
+    "link": "https://uxdesign.cc/individualism-pop-bands-workplace-collaboration-e72dbc80c742?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Raff Di Meo",
+    "published": "Sat, 29 Mar 2025 18:16:31 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*hSDfpzifxLzH5TN6.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "collaboration",
+      "ux",
+      "product-design",
+      "design",
+      "technology"
+    ]
+  },
+  {
+    "id": "a6b26097-b6fa-468c-a7b4-54d7aa29f2a6",
+    "title": "Duolingo’s 6-step reactivation experience",
+    "link": "https://uxdesign.cc/duolingos-6-step-reactivation-experience-9ad65f04a569?source=rss----138adf9c44c---4",
+    "description": "It’s not just about getting users back — it’s about what happens next.Continue reading on UX Collective »",
+    "author": "Rosie Hoggmascall",
+    "published": "Sat, 29 Mar 2025 11:41:51 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1418/1*id7e1jDt_mdjh2w4Nusk9A.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "design",
+      "product-management",
+      "startup",
+      "growth",
+      "ux"
+    ]
+  },
+  {
+    "id": "b03a1ccd-f781-4da6-ba3c-ea9ba33c0072",
+    "title": "How to Group Your Sidebar Items for Better Findability",
+    "link": "https://uxmovement.com/navigation/how-to-group-your-sidebar-items-for-better-findability/",
+    "description": "When a sidebar contains many items, grouping is necessary to help users find them faster. However, most designers don’t group their sidebar items and force users to scan an entire list. This results in slow navigation times and poor findability. Grouping improves findability by enabling users to spot a group and scan the items in […] The post How to Group Your Sidebar Items for Better Findability first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:27:48 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "202d1e52-c35c-408b-8995-2193e46c8536",
+    "title": "How to Make Any Sidebar Menu Easier to Scan",
+    "link": "https://uxmovement.com/navigation/how-to-make-any-sidebar-menu-easier-to-scan/",
+    "description": "How easy to scan is your sidebar menu? If you haven’t optimized the spacing, users will likely spend more time navigating and finding items. Balancing the spacing in the sidebar can help users navigate faster and easier. A typical mistake designers make is adding too much or not enough space. Both can make scanning for […] The post How to Make Any Sidebar Menu Easier to Scan first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:24:10 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "6e6ff684-52d2-4117-919e-0ff9920f26b4",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "db4f627e-7b85-44e2-a45e-4c175c77a88f",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "713e5782-73fd-4ea5-abb7-dce4d4186d71",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "3806ebdd-64db-44f1-9309-3681fa3f261a",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]
