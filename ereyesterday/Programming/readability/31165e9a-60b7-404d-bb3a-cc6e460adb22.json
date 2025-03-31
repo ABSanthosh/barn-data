@@ -1,0 +1,29 @@
+{
+  "id": "31165e9a-60b7-404d-bb3a-cc6e460adb22",
+  "title": "SE Radio 661: Sunil Mallya on Small Language Models",
+  "link": "http://se-radio.net/se-radio-661-sunil-mallya-on-small-language-models",
+  "description": "Sunil Mallya, co-founder and CTO of Flip AI, discusses small language models with host Brijesh Ammanath. They begin by considering the technical distinctions between SLMs and large language models.  LLMs excel in generating complex outputs across various natural language processing tasks, leveraging extensive training datasets on with massive GPU clusters. However, this capability comes with high computational costs and concerns about efficiency, particularly in applications that are specific to a given enterprise. To address this, many enterprises are turning to SLMs, fine-tuned on domain-specific datasets. The lower computational requirements and memory usage make SLMs suitable for real-time applications. By focusing on specific domains, SLMs can achieve greater accuracy and relevance aligned with specialized terminologies. The selection of SLMs depends on specific application requirements. Additional influencing factors include the availability of training data, implementation complexity, and adaptability to changing information, allowing organizations to align their choices with operational needs and constraints. This episode is sponsored by Codegate.",
+  "author": "SE-Radio Team",
+  "published": "Tue, 25 Mar 2025 19:55:00 +0000",
+  "source": "http://feeds.feedburner.com/se-radio",
+  "categories": [
+    "Training",
+    "RAG",
+    "LLM",
+    "SLM",
+    "Enterprise Adoption",
+    "small language model",
+    "Retrieval-Augmented Generation"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
