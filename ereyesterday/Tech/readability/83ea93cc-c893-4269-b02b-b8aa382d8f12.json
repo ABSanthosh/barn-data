@@ -1,0 +1,24 @@
+{
+  "id": "83ea93cc-c893-4269-b02b-b8aa382d8f12",
+  "title": "New AI-powered weather forecasts are coming to people across Africa.",
+  "link": "https://blog.google/feed/google-ai-weather-forecasting-africa/",
+  "description": "Today, Google announced new short-term precipitation forecasts are now available across Africa in Search. This expands upon our work to use machine learning to tackle th…",
+  "author": "Emmanuel Asiedu BrempongResearch EngineerGoogle Research Africa",
+  "published": "Fri, 28 Mar 2025 16:10:00 +0000",
+  "source": "https://www.blog.google/rss/",
+  "categories": [
+    "Search",
+    "Google in Africa"
+  ],
+  "byline": "Emmanuel Asiedu Brempong",
+  "length": 775,
+  "excerpt": "Today, Google announced new short-term precipitation forecasts are now available across Africa in Search. This expands upon our work to use machine learning to tackle the challenge of forecasting the next few hours of rain.These forecasts are made possible through advancements in Google Research\u0026#x27;s AI-powered nowcasting (the forecasting of weather in the very near future) model MetNet, which uses satellite data and ground observations to produce state-of-the-art precipitation forecasts in data-sparse regions of the world. Google’s technology can predict global precipitation with high accuracy within a five-kilometer radius every 15 minutes for the next 12 hours — all under one minute.Read more about this work in Africa and around the world on the Google Africa blog.",
+  "siteName": "Google",
+  "favicon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20250319-1634",
+  "text": "Today, Google announced new short-term precipitation forecasts are now available across Africa in Search. This expands upon our work to use machine learning to tackle the challenge of forecasting the next few hours of rain.These forecasts are made possible through advancements in Google Research's AI-powered nowcasting (the forecasting of weather in the very near future) model MetNet, which uses satellite data and ground observations to produce state-of-the-art precipitation forecasts in data-sparse regions of the world. Google’s technology can predict global precipitation with high accuracy within a five-kilometer radius every 15 minutes for the next 12 hours — all under one minute.Read more about this work in Africa and around the world on the Google Africa blog.",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Africa-Weather-Social-Share.max-1440x810.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv slot=\"uni-short-post-description-slot\"\u003e\u003cp data-block-key=\"ltpu2\"\u003eToday, Google announced new short-term precipitation forecasts are now available across Africa in Search. This expands upon our work to use machine learning to tackle the challenge of forecasting the next few hours of rain.\u003c/p\u003e\u003cp data-block-key=\"ard41\"\u003eThese forecasts are made possible through advancements in \u003ca href=\"https://research.google/\"\u003eGoogle Research\u0026#39;s\u003c/a\u003e AI-powered nowcasting (the forecasting of weather in the very near future) model \u003ca href=\"https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/454727\"\u003eMetNet\u003c/a\u003e, which uses satellite data and ground observations to produce state-of-the-art precipitation forecasts in data-sparse regions of the world. Google’s technology can predict global precipitation with high accuracy within a five-kilometer radius every 15 minutes for the next 12 hours — all under one minute.\u003c/p\u003e\u003cp data-block-key=\"7k2fk\"\u003eRead more about this work in Africa and around the world on the \u003ca href=\"https://blog.google/intl/en-africa/products/explore-get-answers/nowcasting-on-search-is-bringing-ai-powered-weather-forecasts-to-users-across-africa/\"\u003eGoogle Africa blog\u003c/a\u003e.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-03-28T16:10:00Z",
+  "modifiedTime": null
+}
