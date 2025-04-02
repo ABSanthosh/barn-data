@@ -1,0 +1,247 @@
+[
+  {
+    "id": "c5ecc9d6-2010-42bf-ab15-ce698e00a880",
+    "title": "How to Clone Any Android App on Your Samsung Galaxy Phone Without Using Any Third-Party Tools",
+    "link": "https://samsung.gadgethacks.com/how-to/clone-any-android-app-your-samsung-galaxy-phone-without-using-any-third-party-tools-0385004/",
+    "description": "Samsung has a cool security feature built into One UI with an interesting side effect that lets you have two separate copies of any Android app on your Galaxy phone. And that's not the only integrated Samsung tool for cloning apps. Some mobile apps have built-in account switching so that you can use two or more separate accounts in one place. Amazon, Gmail, Google Play, Instagram, Messenger, Reddit, Snapchat, TikTok, Twitter, and YouTube all come to mind. But what about the Android apps that don't provide account switching? Don't Miss: How to Hide Apps on Your Samsung Galaxy's Home Screen, App Tray, and Search If you have two or three Facebook accounts, you can switch between them easily on a computer but not in the mobile app. To switch Facebook accounts on your phone, you'll need to clone the Facebook app. The same goes for Skype, Tinder, WhatsApp, Zoom, and any other apps where you want two accounts running simultaneously. Samsung has two easy ways to clone apps on your Galaxy...more",
+    "author": "Justin Meyers",
+    "published": "Fri, 28 Mar 2025 22:47:11 GMT",
+    "image": "https://assets.content.technologyadvice.com/clone_apps_samsung_40e7617ef8.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "d8ac6f76-c64b-4807-8185-8edbc0b25684",
+    "title": "Use Whisper on Mac to Transcribe Audio and Video Files Instantly in Terminal",
+    "link": "https://macos.gadgethacks.com/how-to/whisper-transcribe-audio-video-terminal-mac/",
+    "description": "Turn your Mac into a powerful transcription machine using the same AI that powers OpenAI's ChatGPT. With just a few Terminal commands, you can convert audio and video files into accurate text in minutes. If you've never touched Terminal before, don't worry — setting up Whisper on macOS Sequoia 15 is easier than it looks and worth it. Whether you're working with YouTube videos, interviews, lectures, or voice notes, Whisper can handle all the heavy lifting. Whisper is a free, open-source speech-to-text neural network from OpenAI that runs entirely on your machine — no internet required after setup. Once you get it going, it's fast, secure, and dead simple — and it can chew through just about any audio or video format you throw at it. And it's the perfect tool if you're sick of glitchy web-based transcription services, expensive Mac apps, and clunky browser extensions with limitations, such as file size caps, watermarks, ads, or lousy accuracy. Yes, it lives in the Terminal — that black...more",
+    "author": "Justin Meyers",
+    "published": "Thu, 27 Mar 2025 21:27:01 GMT",
+    "image": "https://assets.content.technologyadvice.com/mac_whisper_cover_9d36cd1d1e.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "e40e45a1-038b-43b0-acf9-71b6ccf1d55e",
+    "title": "10 Things I Love Sunday",
+    "link": "https://abeautifulmess.com/10-things-i-love-sunday-341-2/",
+    "description": "Hello, friends. It’s been a while since I wrote one of these, but we decided we missed doing it and decided to bring it back. In case you’re not a longtime blog reader, this is our weekly roundup of favorite things. It typically includes a book, television or media, a favorite recipe and recent purchases.…",
+    "author": "Elsie Larson",
+    "published": "Sun, 30 Mar 2025 05:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/03/10-things-I-love-sunday.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Window Shopping"
+    ]
+  },
+  {
+    "id": "311abfc0-1a8f-4a00-ac04-8eb7a23c3d3b",
+    "title": "Easy Elote Recipe",
+    "link": "https://abeautifulmess.com/elote-recipe/",
+    "description": "I love Elotes, or Mexican street corn. It’s sweet, it’s salty and it can have a little spice and heat to it as well! Elote is often served corn on the cob-style. But you could also cut the corn off the cob (or used canned corn) to make Elote en vaso, or corn in a…",
+    "author": "Emma Chapman",
+    "published": "Sat, 29 Mar 2025 13:04:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/03/elote.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Dinner/Lunch",
+      "Food",
+      "Snacks + Appetizers"
+    ]
+  },
+  {
+    "id": "65256f35-b643-423c-86c0-a3100b7100b2",
+    "title": "A Music Box Commanded By NFC Tags",
+    "link": "https://hackaday.com/2025/03/31/a-music-box-commanded-by-nfc-tags/",
+    "description": "[Luca Dentella] recently encountered a toy, which was programmed to read different stories aloud based on the figurine placed on top. It inspired him to build an audio device using …read more",
+    "author": "Lewin Day",
+    "published": "Mon, 31 Mar 2025 23:00:09 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/03/NFCMusicPlayer-1-17-screenshot.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Misc Hacks",
+      "mp3 player",
+      "NFC",
+      "NFC reader"
+    ]
+  },
+  {
+    "id": "d338da69-432d-4507-adac-f4fc4e2bc814",
+    "title": "Levitating Lego Generator Runs On Air",
+    "link": "https://hackaday.com/2025/03/31/levitating-lego-generator-runs-on-air/",
+    "description": "[Jamie] decided to build a generator, and Lego is his medium of choice. Thus was created a fancy levitating generator that turns a stream of air into electricity.  The basic …read more",
+    "author": "Lewin Day",
+    "published": "Mon, 31 Mar 2025 20:00:53 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/03/Making-a-LEVITATING-Lego-Generator-Powered-by-Air-12-38-screenshot.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Toy Hacks",
+      "generator",
+      "lego",
+      "radio"
+    ]
+  },
+  {
+    "id": "2fe8b007-92db-44fc-a18c-0e6bb7e0e77d",
+    "title": "Combating Unwanted Holiday Guests: Dust Bunnies",
+    "link": "https://www.doityourself.com/stry/combating-unwanted-holiday-guests-dust-bunnies",
+    "description": "Keep your home sparkling and your air quality clean with these tips.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg0.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/972/dust-bunny-195972.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "fb58bce7-114d-4ec2-9435-098bfc318c69",
+    "title": "Learn These Basic Car Maintenance Skills Before a Road Trip",
+    "link": "https://www.doityourself.com/stry/learn-these-basic-car-maintenance-skills-before-a-road-trip",
+    "description": "They can come in very handy in a tough situation.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg2.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/694/shutterstock_104261411-703694.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "3a01302e-6f8d-435c-91db-cb572d6e7014",
+    "title": "I Used Many Cross-Platform Email Clients to Find the Best One",
+    "link": "https://www.howtogeek.com/favorite-cross-platform-email-client/",
+    "description": "Choosing an email client shouldn't be this hard.",
+    "author": "Patrick Campanale",
+    "published": "Mon, 31 Mar 2025 22:25:57 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/02/a7306754.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Web",
+      "Email",
+      "Windows",
+      "Productivity",
+      "Microsoft"
+    ]
+  },
+  {
+    "id": "3b4a0207-fba7-45d9-8a42-0534c34aecbf",
+    "title": "6 USB Drive Uses You're Missing Out On",
+    "link": "https://www.howtogeek.com/usb-drive-uses-youre-missing-out-on/",
+    "description": "Get the most out of your USB drive.",
+    "author": "Shan Abdul",
+    "published": "Mon, 31 Mar 2025 22:01:06 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/03/usb-ports-of-a-laptop-and-two-usb-drives.png",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Web",
+      "USB",
+      "storage",
+      "computer hardware"
+    ]
+  },
+  {
+    "id": "ed1e1d8f-cf15-4023-a65c-27c4c344ec7b",
+    "title": "More Windows 11 Computers Will Get Copilot+ AI Features Soon",
+    "link": "https://www.makeuseof.com/windows-11-copilot-ai-features/",
+    "description": "Copilot+ AI Windows features are coming to more PCs",
+    "author": "Yadullah Abidi",
+    "published": "Tue, 01 Apr 2025 00:26:15 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/coplit-logo-appearing-on-a-windows-laptop.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Windows",
+      "Windows 11",
+      "Microsoft Copilot",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "id": "8bfa12ae-45ed-4e3c-a11f-a636618e673f",
+    "title": "These Are the 5 Best Chrome Extensions That Google Just Killed",
+    "link": "https://www.makeuseof.com/best-chrome-extensions-google-killed/",
+    "description": "Besides its own projects, Google sometimes kills third-party tools.",
+    "author": "Danny Maiorca",
+    "published": "Mon, 31 Mar 2025 22:48:34 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/07/chrome-logo-with-alert-symbol.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Internet",
+      "Google Chrome",
+      "Google",
+      "Browser Extensions"
+    ]
+  },
+  {
+    "id": "0a248fc2-1655-4633-af06-876ac14d73b0",
+    "title": "We’re Over the Moon for This Clever Lighting Hack",
+    "link": "https://ikeahackers.net/2025/03/moon-wall-light.html",
+    "description": "Clever lighting can turn a drab room fab in a flash, but that doesn’t mean it has to be expensive. Sometimes, the most simple ideas deliver the most impactful results. I think this hack is a great example of what you can do when you use a dash of ingenuity and a little DIY power. Marlena Schubert (@schuberts_haustagebuch) turns the IKEA SNUDDA Lazy Susan into a cute wall-mounted moon lamp for a kid’s room. The idea is very similar to […] The post We’re Over the Moon for This Clever Lighting Hack appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Thu, 27 Mar 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Wall",
+      "Snudda"
+    ]
+  },
+  {
+    "id": "928ae896-8c72-4813-8b70-29f1311c33bd",
+    "title": "These IKEA Picks Are the Perfect Recipe for a Playful, Cheery Kitchen",
+    "link": "https://ikeahackers.net/2025/03/ikea-kitchenware-refresh.html",
+    "description": "Did you know the average American spends a staggering 1,000 hours per year in their kitchen, according to a recent survey by OnePoll? It’s certainly true for our household. On any given day, we spent many hours in the kitchen — using it as an art studio, conversation space, classroom, and everything in between. IKEA gets this. They understand a kitchen is so much more than just a place to cook. And kitchenware should not only be practical but also […] The post These IKEA Picks Are the Perfect Recipe for a Playful, Cheery Kitchen appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Wed, 26 Mar 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Products",
+      "Featured",
+      "ikea"
+    ]
+  },
+  {
+    "id": "f793f9fb-f56b-4981-929c-c063f52fd3f5",
+    "title": "Hand-Quilted Coasters",
+    "link": "https://ohhappyday.com/2022/10/hand-quilted-coasters/",
+    "description": "Get ready for those shorter days and cooler nights by adding a little warmth and color to your home or next gathering. We partnered with Fiskars to use their collection of fabric cutting tools to craft these modern patchwork style coasters. These require a bit of machine sewing but are super beginner friendly, and the...Read More",
+    "author": "olivia",
+    "published": "Tue, 04 Oct 2022 15:09:34 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/BLOG_OHD_FiskarsCoasters-Hero1.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "place cards",
+      "autumn",
+      "coasters",
+      "cutter",
+      "cutting mat",
+      "diy",
+      "drinks",
+      "fabric",
+      "fall",
+      "fiskars",
+      "quilt",
+      "scissors",
+      "sewing"
+    ]
+  },
+  {
+    "id": "849dcd7a-651e-4697-aa23-2c21233f3fa0",
+    "title": "5 Ways to Fall",
+    "link": "https://ohhappyday.com/2022/09/5-ways-to-fall/",
+    "description": "We are rounding up some of our favorite Fall throwbacks. This also means Halloween is around the corner and it’s time to start costume brainstorming – any suggestions? In the meantime, here are a few of our favorite DIYs to start your Fall Checklist! Rainbow Pumpkin Centerpiece – an OHD classic! Ombre Leaves Backdrop –...Read More",
+    "author": "Jordan",
+    "published": "Fri, 30 Sep 2022 16:49:26 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/FALL2.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "party",
+      "craft",
+      "diy",
+      "fall",
+      "ombre",
+      "pies",
+      "pumpkin",
+      "rainbow",
+      "roundup",
+      "smores"
+    ]
+  }
+]
