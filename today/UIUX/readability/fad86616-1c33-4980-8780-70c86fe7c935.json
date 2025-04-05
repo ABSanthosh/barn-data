@@ -1,0 +1,27 @@
+{
+  "id": "fad86616-1c33-4980-8780-70c86fe7c935",
+  "title": "Manus AI: real or hype?",
+  "link": "https://uxdesign.cc/manus-ai-real-or-hype-404254922290?source=rss----138adf9c44c---4",
+  "description": "Early observations of Manus AI and comparison to other AI toolsContinue reading on UX Collective »",
+  "author": "Ian Xiao",
+  "published": "Fri, 04 Apr 2025 06:44:15 GMT",
+  "source": "https://uxdesign.cc/feed",
+  "categories": [
+    "technology",
+    "ai",
+    "design",
+    "ux",
+    "data-science"
+  ],
+  "byline": "Ian Xiao",
+  "length": 1330,
+  "excerpt": "This article compares Manus AI with Gemini, ChatGPT, Perplexity, and Claude. It explores new AI features and what the future of agentic AI may look like.",
+  "siteName": "UX Collective",
+  "favicon": "https://miro.medium.com/v2/resize:fill:256:256/1*dn6MbbIIlwobt0jnUcrt_Q.png",
+  "text": "Manus AI: real or hype?Early observations of Manus AI and comparison to other AI toolsTLDR: If we look at the Hype scale (10 being “very hyped \u0026 it’s fake marketing”, 1 being “this is real and already very useful”), I shifted from 7–9 toward 3–5 after using the early access version. Manus is a real contender that takes one step towards “doing stuff for you” from “just answering questions”.But Manus’ pricing model surfaces inevitable issues of “AI accountability” and “contract dispute” that we need to address as agentic solutions make their ways into our lives and work.After Anthropic revealed Computer Use in October 2024. Manus AI, built by a team in China, surprised the community in March 2025. Unlike Anthropic’s developer-first approach, Manus is taking a bold step by promising a General Agent that’s consumer-facing from Day 1. Many were skeptical about its capabilities. The demo seemed too good to be true.I received early access today (April 2, 2025). I am excited to peek and understand how it compares to popular, state-of-the-art solutions in the market, specifically Google’s Gemini, Anthropic’s Claude, Perplexity, and OpenAI’s ChatGPT.Is Manus a real deal or just hype (or even fake marketing as some claimed)?Before we dive in, here is the launch video from a month ago (~March 2025) in case you missed it.",
+  "image": "https://miro.medium.com/v2/resize:fit:1200/1*nwepEm6-uPQuazHG9ZcKeA.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cp\u003e\u003ch2 id=\"1402\" data-testid=\"storyTitle\"\u003eManus AI: real or hype?\u003c/h2\u003e\u003c/p\u003e\u003cdiv\u003e\u003ch2 id=\"21b7\"\u003eEarly observations of Manus AI and comparison to other AI tools\u003c/h2\u003e\u003cdiv\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003ca href=\"https://medium.com/@ianxiao?source=post_page---byline--404254922290---------------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"Ian Xiao\" src=\"https://miro.medium.com/v2/resize:fill:88:88/1*YiMe8m9a8bmqOUzprwkalg.png\" width=\"44\" height=\"44\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003cdiv aria-hidden=\"false\"\u003e\u003ca href=\"https://uxdesign.cc/?source=post_page---byline--404254922290---------------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"UX Collective\" src=\"https://miro.medium.com/v2/resize:fill:48:48/1*mDhF9X4VO0rCrJvWFatyxg.png\" width=\"24\" height=\"24\" loading=\"lazy\" data-testid=\"publicationPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003cfigure\u003e\u003c/figure\u003e\u003cp id=\"c92b\"\u003e\u003cstrong\u003eTLDR:\u003c/strong\u003e If we look at the Hype scale (10 being “very hyped \u0026amp; it’s fake marketing”, 1 being “this is real and already very useful”), I shifted from 7–9 toward 3–5 after using the early access version. Manus is a real contender that takes one step towards “doing stuff for you” from “just answering questions”.\u003c/p\u003e\u003cp id=\"d7c7\"\u003eBut Manus’ pricing model surfaces inevitable issues of “AI accountability” and “contract dispute” that we need to address as agentic solutions make their ways into our lives and work.\u003c/p\u003e\u003cp id=\"521d\"\u003eAfter Anthropic revealed \u003ca href=\"https://www.anthropic.com/news/3-5-models-and-computer-use\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003eComputer Use\u003c/a\u003e in October 2024. Manus AI, built by a team in China, surprised the community in March 2025. Unlike Anthropic’s developer-first approach, Manus is taking a bold step by promising a General Agent that’s consumer-facing from Day 1. Many were skeptical about its capabilities. The demo seemed too good to be true.\u003c/p\u003e\u003cp id=\"b93d\"\u003eI received early access today (April 2, 2025). I am excited to peek and understand how it compares to popular, state-of-the-art solutions in the market, specifically Google’s Gemini, Anthropic’s Claude, Perplexity, and OpenAI’s ChatGPT.\u003c/p\u003e\u003cp id=\"aeff\"\u003e\u003cstrong\u003eIs Manus a real deal or just hype (or even fake marketing as some claimed)?\u003c/strong\u003e\u003c/p\u003e\u003cp id=\"49e9\"\u003eBefore we dive in, here is the launch video from a month ago (~March 2025) in case you missed it.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-04-04T06:44:15.497Z",
+  "modifiedTime": null
+}
