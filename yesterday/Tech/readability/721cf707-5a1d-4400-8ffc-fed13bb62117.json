@@ -1,0 +1,23 @@
+{
+  "id": "721cf707-5a1d-4400-8ffc-fed13bb62117",
+  "title": "Start building with Gemini 2.5 Pro.",
+  "link": "https://blog.google/products/gemini/gemini-preview-model-billing-update/",
+  "description": "We’ve seen incredible developer enthusiasm and early adoption of Gemini 2.5 Pro, and we’ve been listening to your feedback. To make this powerful model available to more…",
+  "author": "Logan KilpatrickSenior Product Manager",
+  "published": "Fri, 04 Apr 2025 15:00:00 +0000",
+  "source": "https://www.blog.google/rss/",
+  "categories": [
+    "Gemini Models"
+  ],
+  "byline": "Logan Kilpatrick",
+  "length": 555,
+  "excerpt": "We’ve seen incredible developer enthusiasm and early adoption of Gemini 2.5 Pro, and we’ve been listening to your feedback. To make this powerful model available to more developers, we’re moving Gemini 2.5 Pro into public preview in the Gemini API in Google AI Studio today, with Vertex AI rolling out shortly.Priced competitively, this gives developers access to increased rate limits to use with 2.5 Pro. The experimental version of Gemini 2.5 Pro remains available for free with lower rate limits. We look forward to seeing what you build with 2.5 Pro.",
+  "siteName": "Google",
+  "favicon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20250401-1731",
+  "text": "We’ve seen incredible developer enthusiasm and early adoption of Gemini 2.5 Pro, and we’ve been listening to your feedback. To make this powerful model available to more developers, we’re moving Gemini 2.5 Pro into public preview in the Gemini API in Google AI Studio today, with Vertex AI rolling out shortly.Priced competitively, this gives developers access to increased rate limits to use with 2.5 Pro. The experimental version of Gemini 2.5 Pro remains available for free with lower rate limits. We look forward to seeing what you build with 2.5 Pro.",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2-5_Snippet_1.max-1440x810.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv slot=\"uni-short-post-description-slot\"\u003e\u003cp data-block-key=\"jxzkk\"\u003eWe’ve seen incredible developer enthusiasm and early adoption of Gemini 2.5 Pro, and we’ve been listening to your feedback. To make this powerful model available to more developers, we’re moving Gemini 2.5 Pro into public preview in the Gemini API in \u003ca href=\"https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-pro-exp-03-25\"\u003eGoogle AI Studio\u003c/a\u003e today, with Vertex AI rolling out shortly.\u003c/p\u003e\u003cp data-block-key=\"6eh4e\"\u003e\u003ca href=\"http://ai.google.dev/pricing\"\u003ePriced\u003c/a\u003e competitively, this gives developers access to increased rate limits to use with 2.5 Pro. The experimental version of Gemini 2.5 Pro remains available for free with lower rate limits. We look forward to seeing what you build with 2.5 Pro.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-04-04T15:00:00Z",
+  "modifiedTime": null
+}
