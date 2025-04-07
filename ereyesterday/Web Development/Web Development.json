@@ -1,0 +1,119 @@
+[
+  {
+    "id": "12dd822a-81d0-4ccc-8fad-8d5861503661",
+    "title": "Insights sidebar in the DevTools Performance panel",
+    "link": "https://developer.chrome.com/blog/devtools-insights-sidebar?hl=en",
+    "description": "Learn about the new performance insights, the power of Lighthouse directly in the DevTools Performance panel.",
+    "author": "",
+    "published": "Wed, 02 Apr 2025 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "1a470ebc-a27a-4241-9813-2d9690d035ce",
+    "title": "Making :visited more private",
+    "link": "https://developer.chrome.com/blog/visited-links?hl=en",
+    "description": "How Chrome now prevents privacy leaks that use visited links.",
+    "author": "",
+    "published": "Wed, 02 Apr 2025 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "c9ff364d-ce0a-4b0a-ba7e-8dc035fdeda2",
+    "title": "Easy way to upload, transform and deliver files and images (Sponsored)",
+    "link": "https://davidwalsh.name/easy-way-to-upload-transform-and-deliver-files-and-images",
+    "description": "Managing media is a really difficult task if you try to do all of it yourself, especially if the media comes from other sources. The file can be submitted in any state and size, but what if you need something really specific? You can code it all yourself or you can use an awesome service […] The post Easy way to upload, transform and deliver files and images (Sponsored) appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Mon, 24 Mar 2025 22:58:30 +0000",
+    "image": "https://davidwalsh.name/demo/2025/03/SCR-20250316-ntgo-1024x567.png",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Sponsored",
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "d8c20dc6-84bd-4654-95d4-e5237bebfb8a",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "a77fb0b1-fe1c-40ac-9c4c-11b13b202c0b",
+    "title": "Improving Firefox Stability in the Enterprise by Reducing DLL Injection",
+    "link": "https://hacks.mozilla.org/2025/03/improving-firefox-stability-in-the-enterprise-by-reducing-dll-injection/",
+    "description": "Beginning in version 138, Firefox will offer an alternative to DLL injection for Data Loss Prevention (DLP) deployments in enterprise environments. DLL Injection DLL injection into Firefox is a topic we’ve covered on the Hacks blog before. In 2023, we blogged about the Firefox capability to let users block third-party DLLs from being loaded. We […] The post Improving Firefox Stability in the Enterprise by Reducing DLL Injection appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Haik Aftandilian",
+    "published": "Tue, 25 Mar 2025 18:31:16 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Enterprise",
+      "Feature",
+      "Firefox"
+    ]
+  },
+  {
+    "id": "b9bf0d9e-d88e-4643-8094-b407f3a124cb",
+    "title": "Launching Interop 2025",
+    "link": "https://hacks.mozilla.org/2025/02/interop-2025/",
+    "description": "Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024’s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements, Storage Access API, and CSS Zoom. The post Launching Interop 2025 appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "James Graham",
+    "published": "Thu, 13 Feb 2025 16:59:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2025/02/Pasted-image-500x348.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "Firefox",
+      "Web Developers",
+      "Accessibility",
+      "browsers",
+      "firefox",
+      "interop",
+      "interoperability",
+      "storage",
+      "WebRTC"
+    ]
+  },
+  {
+    "id": "f12f2994-57ee-4aa3-b561-2cdb67a05fb0",
+    "title": "A New “Web” Readiness Report",
+    "link": "https://css-tricks.com/a-new-web-readiness-report/",
+    "description": "HTML 5 Readiness was a site that showed through a rainbow of colors the browser support for several web features. What about a new version? A New “Web” Readiness Report originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Juan Diego Rodríguez",
+    "published": "Fri, 04 Apr 2025 13:05:22 +0000",
+    "image": "https://css-tricks.com/wp-content/uploads/2025/03/juandivideo2.mp4",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "browser",
+      "resource"
+    ]
+  },
+  {
+    "id": "ea6293ad-7ec4-48e3-aef4-69e0a8e93be7",
+    "title": "SMIL on?",
+    "link": "https://css-tricks.com/smil-on/",
+    "description": "Well, it turns out that SVG's built-in animation features were never deprecated as planned. Sure, CSS and JavaScript are more than capable of carrying the load, but it's good to know that SMIL is not dead in the water as previously thought, and is actually well-supported. SMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Wed, 02 Apr 2025 12:37:19 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "animation",
+      "SVG"
+    ]
+  }
+]
