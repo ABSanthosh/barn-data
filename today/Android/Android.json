@@ -1,0 +1,441 @@
+[
+  {
+    "id": "7e1e9128-b867-4521-a90f-e90eae2a8efd",
+    "title": "I turned my HomePod into a Spotify Connect device with Raspberry Pi",
+    "link": "https://www.xda-developers.com/homepod-spotify-connect-with-raspberry-pi/",
+    "description": "Turning HomePod into a Spotify Connect device makes it available to all mobiles and computers on a local network.",
+    "author": "Samir Makwana",
+    "published": "Tue, 08 Apr 2025 01:00:19 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/04/spotify-on-mac-playing-music-on-apple-homepod.JPG",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "Smart Home",
+      "Apple HomePod Mini",
+      "Spotify",
+      "Raspberry Pi"
+    ]
+  },
+  {
+    "id": "3ce2b0ec-0da8-4836-9b49-d64b3c7529a8",
+    "title": "Stats for Mac is a free, open-source application that I can't live without",
+    "link": "https://www.xda-developers.com/stats-for-mac-free-open-source/",
+    "description": "If you're looking for a free, open-source alternative to iStat Menus on macOS, then this is it.",
+    "author": "Adam Conway",
+    "published": "Tue, 08 Apr 2025 00:00:18 GMT",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/04/stats-mac-feature-image.jpg",
+    "source": "https://www.xda-developers.com/feed/",
+    "categories": [
+      "macOS",
+      "Stats"
+    ]
+  },
+  {
+    "id": "424449b4-e91a-45ad-8e66-1939d302683f",
+    "title": "Here's how we're helping developers build safer apps more efficiently on Google Play and Android.",
+    "link": "https://blog.google/technology/developers/google-play-android-safety-2025/",
+    "description": "On the Android Developers Blog, we’re sharing how we're making it easier than ever for developers to build safe apps, while also continuing to strengthen our ecosys…",
+    "author": "",
+    "published": "Tue, 25 Mar 2025 18:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bad_Apps_Blog__Data_Visualisati.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Android",
+      "Google Play",
+      "Developers",
+      "Safety \u0026 Security"
+    ]
+  },
+  {
+    "id": "649738b2-2743-4cbe-868f-3640a8217ee2",
+    "title": "How Google and NVIDIA are teaming up to solve real-world problems with AI",
+    "link": "https://blog.google/technology/ai/google-nvidia-gtc-ai/",
+    "description": "An overview of the collaboration between Google and NVIDIA and a preview of the announcements at GTC this week.",
+    "author": "Keyword Team\u003cdepartment/\u003e\u003ccompany/\u003e",
+    "published": "Tue, 18 Mar 2025 20:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_Lockup.max-600x600.format-webp.webp",
+    "source": "https://blog.google/products/android/rss",
+    "categories": [
+      "Android",
+      "Alphabet",
+      "Google DeepMind",
+      "Google Cloud",
+      "AI"
+    ]
+  },
+  {
+    "id": "a7d140c5-5497-4655-8333-6adebcd7f882",
+    "title": "Why don’t Android phones have this obvious feature yet? #Qi2 #PhoneAccessories #shorts",
+    "link": "https://www.youtube.com/watch?v=0KmFlYENuHk",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2025-04-07T18:52:52+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "2a5f23ec-9292-441f-be67-eea89bced9e1",
+    "title": "iPhone users always get this wrong about Android. #Android #iPhone #iPhoneToAndroid #shorts",
+    "link": "https://www.youtube.com/watch?v=DyIGm0Rk6qI",
+    "description": "",
+    "author": "Android Authority",
+    "published": "2025-04-04T19:51:07+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+    "categories": null
+  },
+  {
+    "id": "da8798a6-7935-4612-9603-238fe9748aa9",
+    "title": "Google Messages is making it easier to unsubscribe from automated text messages",
+    "link": "https://www.androidauthority.com/google-messages-unsubscribe-button-3542411/",
+    "description": "Google Messages is rolling out a new feature that helps you unsubscribe from automated business texts",
+    "author": "Mishaal Rahman",
+    "published": "Mon, 07 Apr 2025 22:00:49 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2024/03/Google-Messages-logo-on-smartphone-laying-on-table-4.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Google Messages"
+    ]
+  },
+  {
+    "id": "fe75baea-eae0-4b3b-91cf-41fcf16b2c73",
+    "title": "Google’s most useful, underrated service could soon have an app of its very own",
+    "link": "https://www.androidauthority.com/notebooklm-app-3542401/",
+    "description": "All the power of desktop NotebookLM, finally with an interface optimized for smaller screens.",
+    "author": "Stephen Schenck",
+    "published": "Mon, 07 Apr 2025 21:40:13 +0000",
+    "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/notebooklm-car-manual-feat.jpg",
+    "source": "https://www.androidauthority.com/feed",
+    "categories": [
+      "News",
+      "Google",
+      "Google Gemini",
+      "NotebookLM"
+    ]
+  },
+  {
+    "id": "1cbe3e64-d9e4-43d9-b80e-c1c188821deb",
+    "title": "Google's AI Mode gets Gemini's multimodal powers making it a visual search expert",
+    "link": "https://www.androidcentral.com/apps-software/google-assistant/googles-ai-mode-gets-geminis-multimodal-powers",
+    "description": "Google announced that it allows AI Mode users the ability to visually search",
+    "author": "",
+    "published": "Mon, 07 Apr 2025 21:03:53 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/WMab7m8CVng8rUHffk5bgR.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "Google Assistant",
+      "Apps \u0026amp; Software"
+    ]
+  },
+  {
+    "id": "f31cdaef-be42-4aec-9482-95ce255685b5",
+    "title": "Gemini Live's video streaming, screen sharing support comes to Pixel 9 series",
+    "link": "https://www.androidcentral.com/apps-software/ai/gemini-lives-video-streaming-screen-sharing-support-comes-to-pixel-9-series",
+    "description": "Gemini Live with live video streaming and screen sharing is available on the Pixel 9 and Galaxy S25 starting today.",
+    "author": "",
+    "published": "Mon, 07 Apr 2025 20:24:31 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/gbE7NDe2Rut6zCprCEjsVE.jpg",
+    "source": "http://feeds.androidcentral.com/androidcentral",
+    "categories": [
+      "AI",
+      "Apps \u0026amp; Software"
+    ]
+  },
+  {
+    "id": "46f37bcc-611d-41f9-82df-658b66a86bf1",
+    "title": "Galaxy Tab S8 series new leak reveals almost everything",
+    "link": "https://androidcommunity.com/galaxy-tab-s8-series-new-leak-reveals-almost-everything-20220203/",
+    "description": "February 9 is expected to be an exciting one for Samsung. As it unfolds the Unpacked event with enthusiasm, there will be some devices we would be looking forward to. Of course, the Galaxy S22 flagship series is on everyone’s radar, if you’re someone waiting for a decent, feature-packed Android tablet, you should look out […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:51:26 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Samsung",
+      "Tablets"
+    ]
+  },
+  {
+    "id": "6687a4d6-ac3a-4fe5-9a32-d3f907ea9d9c",
+    "title": "Malicious authenticator app removed from Google Play Store",
+    "link": "https://androidcommunity.com/malicious-authenticator-app-removed-from-google-play-store-20220203/",
+    "description": "Seems like Google Play cannot shave off its curse of hosting undetected malware apps. In a recent development, an authenticator app going by the name 2FA Authenticator remained under the radar for 15 days on the Play Store and more than 10,000 people downloaded the malicious app capable of stealing financial information. Now the app […]",
+    "author": "Bharat Bhushan",
+    "published": "Thu, 03 Feb 2022 17:11:31 +0000",
+    "image": "",
+    "source": "https://androidcommunity.com/feed/",
+    "categories": [
+      "Archive",
+      "Android",
+      "Apps",
+      "Google",
+      "Google Play",
+      "malware",
+      "Phones"
+    ]
+  },
+  {
+    "id": "2d48ac07-0c19-4bea-b878-099ffc578412",
+    "title": "Snatch up this top-tier game controller for half off before it sells out",
+    "link": "https://www.androidpolice.com/razer-kishi-v2-50-deal/",
+    "description": "Elevate your mobile gaming experience",
+    "author": "Timi Cantisano",
+    "published": "Tue, 08 Apr 2025 00:48:58 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/07/razer-kishi-v2-review-diablo-full.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Razer Kishi V2",
+      "Razer",
+      "Accessories",
+      "Razer"
+    ]
+  },
+  {
+    "id": "def39fcd-8c53-4f7b-b380-9344a9e88527",
+    "title": "Google mandates every new remote must have a Free TV button",
+    "link": "https://www.androidpolice.com/mandatory-free-tv-button/",
+    "description": "Mandatory button starts in April",
+    "author": "Nathan Drescher",
+    "published": "Mon, 07 Apr 2025 23:37:34 GMT",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/02/google-tv-streamer-tips-tricks.jpg",
+    "source": "http://feeds.feedburner.com/AndroidPolice",
+    "categories": [
+      "Google TV",
+      "Smart TV",
+      "Google TV"
+    ]
+  },
+  {
+    "id": "e6ad3727-8cbc-4073-9050-fa4aebc6a331",
+    "title": "The Pirate Queen: Interview With Lucy Liu \u0026 Eloise Singer",
+    "link": "https://sites.libsyn.com/23914/the-pirate-queen-interview-with-lucy-liu-eloise-singer",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar and Nick Sutrich chat with Hollywood legend Lucy Liu and Pirate Queen director Eloise Singer about their amazing new VR game The Pirate Queen: A Forgotten Legend... Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu",
+    "author": "Android Central",
+    "published": "Thu, 28 Mar 2024 22:50:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_280324_MIXDOWN_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "gaming",
+      "quest",
+      "Android",
+      "Meta",
+      "VR",
+      "lucyliu",
+      "thepiratequeen",
+      "eloisesinger"
+    ]
+  },
+  {
+    "id": "5431ac4f-0605-4404-8317-7ad2d2c1802c",
+    "title": "Could The US BAN TikTok?!",
+    "link": "https://sites.libsyn.com/23914/could-the-us-ban-tiktok",
+    "description": "On this week's episode of the Android Central Podcast, Shruti Shekar, Nick Sutrich, and Jerry Hildenbrand discuss just how good the Honor Magic 6 Pro's camera really is, why more people are buying the Galaxy S24 Plus, why US lawmakers want TikTok banned, how Apple acquiring DarwinAI could give Google Gemini some serious competition, and more! Links:  The Honor Magic 6 Pro camera seriously blows me away - Android Central The Galaxy S24 Plus is a hit, and I'm not surprised - Android Central Why US lawmakers want TikTok banned - Android Central Apple's latest AI acquisition might give Google Gemini some serious competition - Android Central Follow us on Twitter: @AndroidCentral @Shruti_Shekar @Gwanatu @gbhil",
+    "author": "Android Central",
+    "published": "Mon, 18 Mar 2024 17:00:14 +0000",
+    "image": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/androidcentral/Android_Central_Podcast_150324_EDIT.mp3?dest-id=35189",
+    "source": "http://feeds.feedburner.com/AndroidCentralPodcast",
+    "categories": [
+      "technology",
+      "iPhone",
+      "Google",
+      "honor",
+      "Galaxy",
+      "microsoft",
+      "Apple",
+      "samsung",
+      "AI",
+      "Android",
+      "Gemini",
+      "TikTok",
+      "darwinai"
+    ]
+  },
+  {
+    "id": "de37a433-0d04-40a0-b23a-fb1d65633966",
+    "title": "How to Update Redmi Note 10 Pro to Android 12 (Custom ROM Build)",
+    "link": "https://cyanogenmods.org/redmi-note-10-pro-android-12-2/",
+    "description": "The latest Android 12 has been released and the same is now available for Redmi Note 10 Pro via an Android 12 custom ROM update build. This is a step-by-step guide that explains how to update Redmi Note 10 Pro to Android 12. [su_note note_color=”#F9D9D9″ text_color=”#AA4343″ radius=”3″ class=”” id=””]DISCLAIMER: Installing a custom ROM requires advanced ... Read more",
+    "author": "Siba",
+    "published": "Thu, 03 Oct 2024 17:46:30 +0000",
+    "image": "",
+    "source": "https://www.cyanogenmods.org/feed",
+    "categories": [
+      "Android 12",
+      "Redmi Note 10 Pro",
+      "Xiaomi"
+    ]
+  },
+  {
+    "id": "7b8137c3-ebc8-4e67-b4d9-55f282593ae4",
+    "title": "Pixel Watch 2 and 3 Get Scam Detection in April Feature Drop",
+    "link": "https://www.droid-life.com/2025/04/07/pixel-watch-2-and-3-get-scam-detection-in-april-feature-drop/",
+    "description": "There is a surprise update rolling out to the Pixel Watch series this month, one we weren’t expecting because Google had previously stated that June would be the next update month. However, Google admitted that it needed to address some bugs associated with the Wear OS 5.1 update from March and so that might be … Continued Read the original post: Pixel Watch 2 and 3 Get Scam Detection in April Feature Drop",
+    "author": "Kellen",
+    "published": "Mon, 07 Apr 2025 22:23:35 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2023/11/Google-Pixel-Watch-2-1-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "News",
+      "Google",
+      "Pixel Watch 2",
+      "Pixel Watch 3",
+      "Scam Detection"
+    ]
+  },
+  {
+    "id": "d7eb8d06-8a30-42de-b8bf-a216a80fdfca",
+    "title": "Pixel Watch Gets a Surprise April Update to Fix Bugs",
+    "link": "https://www.droid-life.com/2025/04/07/pixel-watch-gets-a-surprise-april-update-to-fix-bugs/",
+    "description": "If you look through the community forums of Google’s Pixel Watch or the various subreddits that share experiences, the March Pixel Watch update to Wear OS 5.1 has not been without issues. The most noteworthy of the bugs that Google has acknowledged has to do with delayed notifications on watches. Google said a couple of … Continued Read the original post: Pixel Watch Gets a Surprise April Update to Fix Bugs",
+    "author": "Kellen",
+    "published": "Mon, 07 Apr 2025 21:37:32 +0000",
+    "image": "https://www.droid-life.com/wp-content/uploads/2024/09/Pixel-Watch-3-Review-13-980x653.jpg",
+    "source": "https://www.droid-life.com/feed",
+    "categories": [
+      "Featured",
+      "News",
+      "Google",
+      "Pixel Watch",
+      "Pixel Watch 2",
+      "Pixel Watch 3",
+      "Update"
+    ]
+  },
+  {
+    "id": "0b1b842f-161c-4288-b38d-458a60e12327",
+    "title": "Google AI Mode update brings powerful multimodal search",
+    "link": "https://phandroid.com/2025/04/07/google-ai-mode-update-brings-powerful-multimodal-search/",
+    "description": "Google AI Mode update expands multimodal search with Lens, giving users richer answers from photos and complex queries. The post Google AI Mode update brings powerful multimodal search appeared first on Phandroid.",
+    "author": "Tyler Lee",
+    "published": "Mon, 07 Apr 2025 16:00:01 +0000",
+    "image": "",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "News",
+      "Software",
+      "ai",
+      "Google"
+    ]
+  },
+  {
+    "id": "dafca7d8-52e4-4868-bc51-260ec93355f7",
+    "title": "Best Fast-Charging Power Banks for Pixel 9 \u0026 Pixel 9 Pro (2025)",
+    "link": "https://phandroid.com/2025/04/07/best-fast-charging-power-banks-for-pixel-9-pixel-9-pro-2025/",
+    "description": "Here are our top picks for fast, reliable charging power banks on the go for the Pixel 9, Pixel 9 Pro, and Pixel 9 Pro XL. The post Best Fast-Charging Power Banks for Pixel 9 \u0026 Pixel 9 Pro (2025) appeared first on Phandroid.",
+    "author": "Tyler Lee",
+    "published": "Mon, 07 Apr 2025 13:15:19 +0000",
+    "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f552.png",
+    "source": "http://feeds2.feedburner.com/AndroidPhoneFans",
+    "categories": [
+      "Accessories",
+      "Deals",
+      "Devices",
+      "Evergreen",
+      "Handsets",
+      "Google",
+      "Pixel 9",
+      "Power Banks"
+    ]
+  },
+  {
+    "id": "d1afbe2f-7ac6-4d93-9e21-810f8d617236",
+    "title": "More details about Qualcomm's Snapdragon 8 Elite 2 outed",
+    "link": "https://www.gsmarena.com/more_details_about_qualcomms_snapdragon_8_elite_2_outed-news-67286.php",
+    "description": "Qualcomm's Snapdragon 8 Elite 2 is coming this year, most likely in October, and last month its AnTuTu score got leaked showing massive improvements compared to the original 8 Elite. Today a new rumor out of China shares some more details about Qualcomm's next top of the line SoC. It is said to be using second-generation Oryon CPU Cores, which will increase performance by about 25%. The GPU's independent cache is also allegedly growing from 12MB to 16MB, and GPU performance will be increased by about 30% overall. The chip will support LPDDR5X and LPDDR6 RAM too. Those are all the...",
+    "author": "",
+    "published": "Tue, 08 Apr 2025 00:59:02 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "9a916ec5-2f90-4a38-9d17-10142ba487ba",
+    "title": "Huawei Enjoy 70X Lite live images and specs leak revealing a surprising chipset choice",
+    "link": "https://www.gsmarena.com/huawei_enjoy_70x_lite_live_images_and_specs_leak_revealing_a_surprising_chipset_choice-news-67284.php",
+    "description": "Huawei launched the mid-range Enjoy 70X back in January, and now it seems like it's almost ready to give us a slightly toned down version, called Enjoy 70X Lite. This has been leaked today in a couple of live hands-on images, which you can see below. We also have specs to talk about. Intriguingly, the 70X Lite will be powered by a Snapdragon chipset, unlike the 70X which uses the Kirin 8000A. This means the Lite version won't have 5G support since Huawei can't use 5G Snapdragon chips due to the US sanctions against it. Huawei Enjoy 70X Lite leaked hands-on images It will be...",
+    "author": "",
+    "published": "Mon, 07 Apr 2025 23:43:02 +0200",
+    "image": "",
+    "source": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "categories": [
+      "news"
+    ]
+  },
+  {
+    "id": "4a280899-440f-43ad-b785-b3ac972e3e18",
+    "title": "AAA: Android Faithful is Your New Android Home! - With Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635b",
+    "description": "All About Android fans, listen up! If you were disappointed when the show went away, then you'll be happy to know that Jason Howell, Ron Richards, Huyen Tue Dao, and Mishaal Rahman brought the AAA fun to a new home called Android Faithful. Each week, the AF crew discusses the latest news, hardware, and apps for the world's biggest mobile operating system. Special guests, from journalists, to industry big wigs, to execs from inside the Google mothership join the crew to detail the ongoing evolution of Google's Android. Join us and be a part of the Android Faithful! Hosts: Jason Howell, Ron Richards, and Huyen Tue Dao Co-Host: Mishaal Rahman Visit AndroidFaithful.com or search your favorite podcatcher to subscribe!",
+    "author": "TWiT",
+    "published": "Tue, 02 Jan 2024 14:45:00 PST",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa_635b/aaa_635b.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android"
+    ]
+  },
+  {
+    "id": "1a587a68-b1b9-4156-9de5-0bf00aea48da",
+    "title": "AAA 635: Hall of Fame - A long awaited look at the very best Android hardware and apps since the beginning",
+    "link": "https://twit.tv/shows/all-about-android/episodes/635",
+    "description": "Sharing news regarding the future of All About Android. Huyen just got her Pixel Tablet! She shares her thoughts. Android Hardware Hall of Fame. Android App Hall of Fame. All About All About Android. Read our show notes here: https://bit.ly/42V2ymq Hosts: Jason Howell, Ron Richards, Huyen Tue Dao, and Florence Ion Subscribe to All About Android at https://twit.tv/shows/all-about-android. Get episodes ad-free with Club TWiT at https://twit.tv/clubtwit Sponsor: decisions.com/twit",
+    "author": "TWiT",
+    "published": "Tue, 20 Jun 2023 21:59:06 PDT",
+    "image": "https://cdn.twit.tv/audio/aaa/aaa0635/aaa0635.mp3",
+    "source": "https://feeds.twit.tv/aaa.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Android",
+      "Mobile Phones",
+      "Android",
+      " all about android",
+      " Jason Howell",
+      " Ron Richards",
+      " Florence Ion",
+      " huyen tue dao",
+      " all about android last episode",
+      " all about android final episode",
+      " all about android dead",
+      " pixel tablet first impressions",
+      " pixel tablet hands on",
+      " pixel tablet preview"
+    ]
+  },
+  {
+    "id": "a33a4b26-b11f-4693-9a90-af0e91969e71",
+    "title": "My Hotpot Story Codes – April 2025",
+    "link": "https://www.talkandroid.com/46211-my-hotpot-story-codes/",
+    "description": "Find the latest My Hotspot Story codes here! Keep reading for more!",
+    "author": "Jean-Roux Denysschen",
+    "published": "Mon, 07 Apr 2025 16:47:36 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Game Codes"
+    ]
+  },
+  {
+    "id": "46c55b3f-0b6d-4523-8081-e86dc438d364",
+    "title": "X Hero Codes – April 2025",
+    "link": "https://www.talkandroid.com/45101-x-hero-codes/",
+    "description": "Find the latest X Hero codes here! Keep reading for more!",
+    "author": "Shela Baxi",
+    "published": "Mon, 07 Apr 2025 16:46:01 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+    "categories": [
+      "Game Codes"
+    ]
+  }
+]
