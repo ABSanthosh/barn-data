@@ -1,0 +1,242 @@
+[
+  {
+    "id": "fd9da5b0-2a95-4c9a-903a-ea4f4e42ebf9",
+    "title": "iOS 18.5 Brings Small but Smart Upgrades to iPhone — Here's What's New",
+    "link": "https://ios.gadgethacks.com/news/ios-18.5-features/",
+    "description": "Apple's iOS 18.5 update may be lighter on headline features than its predecessor, but it still brings a few quality-of-life upgrades and behind-the-scenes enhancements that make using your iPhone just a bit smoother. It's a smaller release, but if you dig into the details, you'll find thoughtful refinements across core apps and settings that help simplify tasks and give you more control. From quick access settings in Mail to faster recovery options in Photos, iOS 18.5 trims a few extra steps from your daily workflow. AppleCare \u0026 Warranty details have also been reorganized, and the Back Tap detection banner returns after disappearing in iOS 18.4. Plus, Apple Wallet may soon support digital car keys for another vehicle brand. While the long-promised Apple Intelligence-powered Siri experience is still absent, iOS 18.5 continues laying the groundwork with subtle under-the-hood changes. And as usual, many of these features may also appear in iPadOS 18.5 for iPads. Here's a full look at...more",
+    "author": "Justin Meyers",
+    "published": "Tue, 08 Apr 2025 23:38:46 GMT",
+    "image": "https://assets.content.technologyadvice.com/18_5_cover_with_icons_f0aaa09e6e.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "6c3b8532-af2f-4f17-89af-2b0bbaec45cd",
+    "title": "iOS 18.5 Hints at 5G Advanced Support, but Hardware Readiness Is Unclear",
+    "link": "https://ios.gadgethacks.com/news/ios-18-5-5g-advanced-support/",
+    "description": "Apple's first iOS 18.5 beta has introduced a new localization string that suggests the company is preparing support for \"5G Advanced,\" the next evolution of cellular technology. Specifically, the beta includes a new \"status.network.5ga\" = \"5G Advanced\" string, which could point to upcoming system-level support for showing a 5G Advanced label in the iPhone status bar or settings. Joining that string are ones for 5G, 5G+, 5G Evolution (E), 5G Ultra Capacity (UC), 5G Ultra Wideband (UW), LTE, 4G, 3G, Edge (E), and GPRS (G), all supported on iPhone already with their own status bar icons. It hints that Apple is preparing to support 5G Advanced (5G-A) cellular technology based on 3GPP Release 18 standards in a future software or hardware update. What is 5G Advanced?5G Advanced (3GPP Release 18), often described as 5.5G, introduces smarter and more adaptable network capabilities. With support for features like AI-based network optimization, ultra-low latency, and improved location accuracy,...more",
+    "author": "Justin Meyers",
+    "published": "Tue, 08 Apr 2025 16:24:57 GMT",
+    "image": "https://assets.content.technologyadvice.com/5g_advanced_cover_b6b747a443.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "06749e2c-d0fe-42bb-8114-1c390c0a871b",
+    "title": "Easy Chicken Fajitas",
+    "link": "https://abeautifulmess.com/fajitas/",
+    "description": "If you want a fast, easy and healthy dinner option, then you need to make these easy chicken fajitas. These can be made and ready to serve in under 30 minutes with just four ingredients, plus serving items (like salsa, tortillas, etc.). I love to serve these chicken fajitas over rice, for an easy rice…",
+    "author": "Emma Chapman",
+    "published": "Tue, 08 Apr 2025 12:53:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/04/fajitas.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Dinner/Lunch",
+      "Food"
+    ]
+  },
+  {
+    "id": "6db3730f-4011-4ebe-8d20-346bb0b03ba5",
+    "title": "10 Things I Love Sunday",
+    "link": "https://abeautifulmess.com/10-things-i-love-sunday-342-2/",
+    "description": "Hello Friends. Welcome back to another weekly ten things I love roundup. This week we’re taking about books, home decor and things that feel like Spring. 10 Things I Love 1. As you can see in the photo above, we’re deep into renovations at my home. This is a new bathroom we’re working on for…",
+    "author": "Elsie Larson",
+    "published": "Sun, 06 Apr 2025 18:41:18 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/04/ten-things-i-love-sunday.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "6ab1f1ec-d223-44d8-82fe-b16067eb8f89",
+    "title": "Going to the Top with a Raspberry Pi Elevator",
+    "link": "https://hackaday.com/2025/04/09/going-to-the-top-with-a-raspberry-pi-elevator/",
+    "description": "[BorisDigital] was mesmerised by a modern elevator. He decided to see how hard it would be to design his own elevator based on Raspberry Pis. He started out with a …read more",
+    "author": "Al Williams",
+    "published": "Wed, 09 Apr 2025 23:00:56 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/04/elev.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Raspberry Pi",
+      "elevator",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "e569ed2e-f44a-4e83-9340-e963f1bbc146",
+    "title": "FLOSS Weekly Episode 828: Incus Inception",
+    "link": "https://hackaday.com/2025/04/09/floss-weekly-episode-828-incus-inception/",
+    "description": "This week, Jonathan Bennett and Rob Campbell talk to Stéphane Graber about LXC, Linux Containers, and Incus! Why did Incus fork from LXD, why are Fortune 500 companies embracing it, …read more",
+    "author": "Jonathan Bennett",
+    "published": "Wed, 09 Apr 2025 20:00:45 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Hackaday Columns",
+      "Podcasts",
+      "Slider",
+      "FLOSS Weekly"
+    ]
+  },
+  {
+    "id": "7144cec2-fee5-49a9-bb8c-5e766eb6f261",
+    "title": "Combating Unwanted Holiday Guests: Dust Bunnies",
+    "link": "https://www.doityourself.com/stry/combating-unwanted-holiday-guests-dust-bunnies",
+    "description": "Keep your home sparkling and your air quality clean with these tips.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg0.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/972/dust-bunny-195972.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "0eac88c6-2466-4b70-b979-6124113bf69e",
+    "title": "Learn These Basic Car Maintenance Skills Before a Road Trip",
+    "link": "https://www.doityourself.com/stry/learn-these-basic-car-maintenance-skills-before-a-road-trip",
+    "description": "They can come in very handy in a tough situation.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg2.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/694/shutterstock_104261411-703694.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "4331d3ae-881b-48db-aa29-9c51ebaaf41b",
+    "title": "The OnePlus 13 Is the First Non-Pixel to Preview Android 16 (But You Shouldn’t Install It)",
+    "link": "https://www.howtogeek.com/oneplus-13-android-16-beta-2/",
+    "description": "It's called a \"beta\" for a reason.",
+    "author": "Joe Fedewa",
+    "published": "Wed, 09 Apr 2025 21:22:39 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/01/rear-cameras-on-the-back-of-the-oneplus-13.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Android",
+      "OnePlus 13",
+      "OnePlus"
+    ]
+  },
+  {
+    "id": "96173d26-1dfc-403b-abb8-0d7a28cd229f",
+    "title": "The Pixel Watch 3 Is Finally Getting Its “Loss of Pulse” Update",
+    "link": "https://www.howtogeek.com/the-pixel-watch-3-is-finally-getting-its-loss-of-pulse-update/",
+    "description": "It could save your life.",
+    "author": "Joe Fedewa",
+    "published": "Wed, 09 Apr 2025 20:56:09 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/09/pixel-watch-3-health-fitness-5.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Android",
+      "Google Pixel Watch 3",
+      "Google"
+    ]
+  },
+  {
+    "id": "c105106b-1f83-4732-ad5e-b74ce1b4d6e7",
+    "title": "This Beautiful Built-In Adds Instant Elegance Without Breaking the Bank",
+    "link": "https://ikeahackers.net/2025/04/billy-built-in-with-firewood-storage.html",
+    "description": "Custom built-ins typically cost thousands, making many homeowners assume they’re reserved for luxury homes and people with money to burn. But what if I told you that your dream of having a beautiful built-in bookcase was only a DIY project away? Mia of @just_a_scandi turns a few BILLY bookcases into a stunning built-in unit complete with firewood storage. IKEA hacks featuring the ever-popular BILLY bookcase have shown countless ways to create a custom masterpiece without a high-end price tag. For […] The post This Beautiful Built-In Adds Instant Elegance Without Breaking the Bank appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Wed, 09 Apr 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "IKEA Bookshelf Hacks",
+      "IKEA BILLY Bookcase: Expert tips and Ideas",
+      "Latest on IG"
+    ]
+  },
+  {
+    "id": "bbadea94-64bd-4364-b0e4-11f0732dc950",
+    "title": "The Most Anticipated IKEA Collection of the Year Drops April 10",
+    "link": "https://ikeahackers.net/2025/04/ikea-stockholm-2025.html",
+    "description": "It’s the one collection all others are measured against: the STOCKHOLM, otherwise known as the “best of IKEA”. On April 10, this premier collection will unveil another 96 pieces that promise to push IKEA’s boundaries of democratic design. This new drop, marking the eighth edition, celebrates the 40th anniversary of STOCKHOLM and is set to be the largest collection yet. “The purpose of the STOCKHOLM collections has always been to prove that high quality doesn’t need to come at an […] The post The Most Anticipated IKEA Collection of the Year Drops April 10 appeared first on IKEA Hackers.",
+    "author": "Jules Yap",
+    "published": "Tue, 08 Apr 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Products",
+      "Featured",
+      "ikea"
+    ]
+  },
+  {
+    "id": "b8ec71c0-0b58-4b60-aaa2-8eaf85cc6ea6",
+    "title": "5 Features Netflix Killed That I Want Back",
+    "link": "https://www.makeuseof.com/netflix-features-killed/",
+    "description": "I love Netflix, but I wish it still had these features.",
+    "author": "Alvin Wanjala",
+    "published": "Wed, 09 Apr 2025 22:39:10 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2025/02/netflix-logo-on-smartphone-with-cancelled-sign.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Entertainment",
+      "Netflix",
+      "Media Streaming"
+    ]
+  },
+  {
+    "id": "11101cc8-9437-4356-ad1d-015eb986fcf3",
+    "title": "Bored With Studio Ghibli? Try GPT-4o With These 7 AI Art Prompts Instead",
+    "link": "https://www.makeuseof.com/chatgpt-ghibli-alternative-ai-prompts/",
+    "description": "Move over Totoro—this AI can dream wilder.",
+    "author": "Amir M. Bohlooli",
+    "published": "Wed, 09 Apr 2025 22:05:15 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2025/04/a-collage-of-chatgpt-generated-images-based-on-different-art-styles.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Creative",
+      "Artificial Intelligence",
+      "ChatGPT",
+      "Image Editor"
+    ]
+  },
+  {
+    "id": "46fb3cbd-20a6-40b7-9901-44709ea13ee8",
+    "title": "Hand-Quilted Coasters",
+    "link": "https://ohhappyday.com/2022/10/hand-quilted-coasters/",
+    "description": "Get ready for those shorter days and cooler nights by adding a little warmth and color to your home or next gathering. We partnered with Fiskars to use their collection of fabric cutting tools to craft these modern patchwork style coasters. These require a bit of machine sewing but are super beginner friendly, and the...Read More",
+    "author": "olivia",
+    "published": "Tue, 04 Oct 2022 15:09:34 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/BLOG_OHD_FiskarsCoasters-Hero1.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "place cards",
+      "autumn",
+      "coasters",
+      "cutter",
+      "cutting mat",
+      "diy",
+      "drinks",
+      "fabric",
+      "fall",
+      "fiskars",
+      "quilt",
+      "scissors",
+      "sewing"
+    ]
+  },
+  {
+    "id": "7f870cc8-10dd-43a2-98f9-b86e1dc0e46d",
+    "title": "5 Ways to Fall",
+    "link": "https://ohhappyday.com/2022/09/5-ways-to-fall/",
+    "description": "We are rounding up some of our favorite Fall throwbacks. This also means Halloween is around the corner and it’s time to start costume brainstorming – any suggestions? In the meantime, here are a few of our favorite DIYs to start your Fall Checklist! Rainbow Pumpkin Centerpiece – an OHD classic! Ombre Leaves Backdrop –...Read More",
+    "author": "Jordan",
+    "published": "Fri, 30 Sep 2022 16:49:26 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/FALL2.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "party",
+      "craft",
+      "diy",
+      "fall",
+      "ombre",
+      "pies",
+      "pumpkin",
+      "rainbow",
+      "roundup",
+      "smores"
+    ]
+  }
+]
