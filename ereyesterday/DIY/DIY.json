@@ -1,0 +1,244 @@
+[
+  {
+    "id": "faec855e-1364-4e7b-b975-71ffbc91fbf5",
+    "title": "iOS 18.5 Brings Small but Smart Upgrades to iPhone — Here's What's New",
+    "link": "https://ios.gadgethacks.com/news/ios-18.5-features/",
+    "description": "Apple's iOS 18.5 update may be lighter on headline features than its predecessor, but it still brings a few quality-of-life upgrades and behind-the-scenes enhancements that make using your iPhone just a bit smoother. It's a smaller release, but if you dig into the details, you'll find thoughtful refinements across core apps and settings that help simplify tasks and give you more control. From quick access settings in Mail to faster recovery options in Photos, iOS 18.5 trims a few extra steps from your daily workflow. AppleCare \u0026 Warranty details have also been reorganized, and the Back Tap detection banner returns after disappearing in iOS 18.4. Plus, Apple Wallet may soon support digital car keys for another vehicle brand. While the long-promised Apple Intelligence-powered Siri experience is still absent, iOS 18.5 continues laying the groundwork with subtle under-the-hood changes. And as usual, many of these features may also appear in iPadOS 18.5 for iPads. Here's a full look at...more",
+    "author": "Justin Meyers",
+    "published": "Tue, 08 Apr 2025 23:38:46 GMT",
+    "image": "https://assets.content.technologyadvice.com/18_5_cover_with_icons_f0aaa09e6e.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "649b1bec-2c6d-4072-9f55-88ee81c3c30d",
+    "title": "iOS 18.5 Hints at 5G Advanced Support, but Hardware Readiness Is Unclear",
+    "link": "https://ios.gadgethacks.com/news/ios-18-5-5g-advanced-support/",
+    "description": "Apple's first iOS 18.5 beta has introduced a new localization string that suggests the company is preparing support for \"5G Advanced,\" the next evolution of cellular technology. Specifically, the beta includes a new \"status.network.5ga\" = \"5G Advanced\" string, which could point to upcoming system-level support for showing a 5G Advanced label in the iPhone status bar or settings. Joining that string are ones for 5G, 5G+, 5G Evolution (E), 5G Ultra Capacity (UC), 5G Ultra Wideband (UW), LTE, 4G, 3G, Edge (E), and GPRS (G), all supported on iPhone already with their own status bar icons. It hints that Apple is preparing to support 5G Advanced (5G-A) cellular technology based on 3GPP Release 18 standards in a future software or hardware update. What is 5G Advanced?5G Advanced (3GPP Release 18), often described as 5.5G, introduces smarter and more adaptable network capabilities. With support for features like AI-based network optimization, ultra-low latency, and improved location accuracy,...more",
+    "author": "Justin Meyers",
+    "published": "Tue, 08 Apr 2025 16:24:57 GMT",
+    "image": "https://assets.content.technologyadvice.com/5g_advanced_cover_b6b747a443.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "73eca6c1-67e4-4041-a7c5-8112f14fa962",
+    "title": "ASCII to Mainframe",
+    "link": "https://hackaday.com/2025/04/08/ascii-to-mainframe/",
+    "description": "IBM mainframes are known for very unusual terminals. But IBM made many different things, including the IBM 3151 ASCII terminal, which uses a cartridge to emulate a VT220 terminal. [Norbert …read more",
+    "author": "Al Williams",
+    "published": "Tue, 08 Apr 2025 23:00:23 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/04/ibm.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Retrocomputing",
+      "ibm",
+      "mainframe"
+    ]
+  },
+  {
+    "id": "d3af15d4-2be0-4045-9e1d-8661b35715f2",
+    "title": "Designing A Tone Control Properly",
+    "link": "https://hackaday.com/2025/04/08/designing-a-tone-control-properly/",
+    "description": "Many years ago, audio equipment came with a tone control, a simple RC filter that would cut or boost the bass to taste. As time passed, this was split into …read more",
+    "author": "Jenny List",
+    "published": "Tue, 08 Apr 2025 20:00:51 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/04/3be-featured.jpg",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "home entertainment hacks",
+      "audio",
+      "filters",
+      "headphone amplifier",
+      "tone control"
+    ]
+  },
+  {
+    "id": "ee7a7e82-abfb-4dee-a8b1-ecd017d1ca08",
+    "title": "Combating Unwanted Holiday Guests: Dust Bunnies",
+    "link": "https://www.doityourself.com/stry/combating-unwanted-holiday-guests-dust-bunnies",
+    "description": "Keep your home sparkling and your air quality clean with these tips.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg0.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/972/dust-bunny-195972.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "e5afea77-8731-4816-b261-482580df1f71",
+    "title": "Learn These Basic Car Maintenance Skills Before a Road Trip",
+    "link": "https://www.doityourself.com/stry/learn-these-basic-car-maintenance-skills-before-a-road-trip",
+    "description": "They can come in very handy in a tough situation.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg2.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/694/shutterstock_104261411-703694.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "7c85fa34-a603-455e-a345-cc87bfee69dd",
+    "title": "10 Games That Should Never, Ever Be Remade",
+    "link": "https://www.howtogeek.com/games-that-should-never-ever-be-remade/",
+    "description": "Some things are perfect the way they are.",
+    "author": "Sydney Butler",
+    "published": "Tue, 08 Apr 2025 22:00:15 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/04/an-ai-generated-image-of-what-chrono-trigger-could-look-like-as-a-modern-remake.png",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Video Games",
+      "Retro Gaming",
+      "History",
+      "PC Gaming"
+    ]
+  },
+  {
+    "id": "5199d4e8-4af2-4dd2-ba89-53902e5aa7f6",
+    "title": "reMarkable Announces Tariff-Induced Price Hike for E-ink Tablets",
+    "link": "https://www.howtogeek.com/remarkable-tablets-tariff-price-hike/",
+    "description": "Buy a reMarkable tablet now to avoid the upcoming price hike.",
+    "author": "Andrew Heinzman",
+    "published": "Tue, 08 Apr 2025 21:30:24 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/11/01-2024-11-23-12-04-04.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Android",
+      "Remarkable"
+    ]
+  },
+  {
+    "id": "5f92d3de-a754-40bb-bf3d-07c24cda7d31",
+    "title": "6 Reasons I Skipped a Smart TV and Bought a Streaming Stick Instead",
+    "link": "https://www.makeuseof.com/reasons-skip-smart-tv-buy-streaming-stick-instead/",
+    "description": "It took me a while to come around, but a streaming stick is so much better than a smart TV.",
+    "author": "Sanuj Bhatia",
+    "published": "Tue, 08 Apr 2025 21:39:38 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/08/some-streaming-devices-with-a-blurred-living-room-in-the-background-1.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Entertainment",
+      "Apple TV",
+      "Google TV",
+      "Smart TV",
+      "Media Streaming"
+    ]
+  },
+  {
+    "id": "13abfe45-08e8-41f5-864a-867c1ac49cac",
+    "title": "5 Practical Ways I Put My Old Laptops to Use",
+    "link": "https://www.makeuseof.com/practical-ways-put-old-laptop-to-use/",
+    "description": "Don't throw that laptop away just yet—it has years of life left in it!",
+    "author": "Jayric Maning",
+    "published": "Tue, 08 Apr 2025 21:01:53 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/09/futuristic-environment-with-an-old-laptop-with-a-broken-screen-next-to-a-modern-laptop.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Technology Explained",
+      "Laptop Tips",
+      "DIY Project Ideas"
+    ]
+  },
+  {
+    "id": "2455816a-9aaf-4c68-86e0-ca56ae9357aa",
+    "title": "The Most Anticipated IKEA Collection of the Year Drops April 10",
+    "link": "https://ikeahackers.net/2025/04/ikea-stockholm-2025.html",
+    "description": "It’s the one collection all others are measured against: the STOCKHOLM, otherwise known as the “best of IKEA”. On April 10, this premier collection will unveil another 96 pieces that promise to push IKEA’s boundaries of democratic design. This new drop, marking the eighth edition, celebrates the 40th anniversary of STOCKHOLM and is set to be the largest collection yet. “The purpose of the STOCKHOLM collections has always been to prove that high quality doesn’t need to come at an […] The post The Most Anticipated IKEA Collection of the Year Drops April 10 appeared first on IKEA Hackers.",
+    "author": "Jules Yap",
+    "published": "Tue, 08 Apr 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Products",
+      "Featured",
+      "ikea"
+    ]
+  },
+  {
+    "id": "9c72dd76-97ed-4504-9ed1-8975e8db3344",
+    "title": "The Hidden Gems I’m Snagging at the IKEA Spring Sale (Without Breaking My $500 Budget!)",
+    "link": "https://ikeahackers.net/2025/04/ikea-spring-sale-2025.html",
+    "description": "We’re gearing up for longer, sunnier days, and we want a backyard that entices us to step outside and spend time together. Our budget is slim right now, and I know we’re not alone. Therefore, I thought it would be fun to see what kind of an impact $500 could make on a humdrum patio. Lucky for me, IKEA’s Spring Sale is in full swing and boasts some amazing picks for 20% to 50% off. (Cha-ching!) Whether you’re in the […] The post The Hidden Gems I’m Snagging at the IKEA Spring Sale (Without Breaking My $500 Budget!) appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Thu, 03 Apr 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Products",
+      "Featured",
+      "ikea"
+    ]
+  },
+  {
+    "id": "b53e0036-f99f-4cdc-b11f-62a5210e78c3",
+    "title": "Hand-Quilted Coasters",
+    "link": "https://ohhappyday.com/2022/10/hand-quilted-coasters/",
+    "description": "Get ready for those shorter days and cooler nights by adding a little warmth and color to your home or next gathering. We partnered with Fiskars to use their collection of fabric cutting tools to craft these modern patchwork style coasters. These require a bit of machine sewing but are super beginner friendly, and the...Read More",
+    "author": "olivia",
+    "published": "Tue, 04 Oct 2022 15:09:34 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/BLOG_OHD_FiskarsCoasters-Hero1.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "place cards",
+      "autumn",
+      "coasters",
+      "cutter",
+      "cutting mat",
+      "diy",
+      "drinks",
+      "fabric",
+      "fall",
+      "fiskars",
+      "quilt",
+      "scissors",
+      "sewing"
+    ]
+  },
+  {
+    "id": "3bc7ddef-4a24-43a6-b68f-4c9a053227ef",
+    "title": "5 Ways to Fall",
+    "link": "https://ohhappyday.com/2022/09/5-ways-to-fall/",
+    "description": "We are rounding up some of our favorite Fall throwbacks. This also means Halloween is around the corner and it’s time to start costume brainstorming – any suggestions? In the meantime, here are a few of our favorite DIYs to start your Fall Checklist! Rainbow Pumpkin Centerpiece – an OHD classic! Ombre Leaves Backdrop –...Read More",
+    "author": "Jordan",
+    "published": "Fri, 30 Sep 2022 16:49:26 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/FALL2.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "party",
+      "craft",
+      "diy",
+      "fall",
+      "ombre",
+      "pies",
+      "pumpkin",
+      "rainbow",
+      "roundup",
+      "smores"
+    ]
+  },
+  {
+    "id": "069cb9ff-0c3c-4d90-81ed-3b0c3f46598d",
+    "title": "Easy Chicken Fajitas",
+    "link": "https://abeautifulmess.com/fajitas/",
+    "description": "If you want a fast, easy and healthy dinner option, then you need to make these easy chicken fajitas. These can be made and ready to serve in under 30 minutes with just four ingredients, plus serving items (like salsa, tortillas, etc.). I love to serve these chicken fajitas over rice, for an easy rice…",
+    "author": "Emma Chapman",
+    "published": "Tue, 08 Apr 2025 12:53:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/04/fajitas.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Dinner/Lunch",
+      "Food"
+    ]
+  },
+  {
+    "id": "62069f6e-6947-4d23-9708-0d007af165b4",
+    "title": "10 Things I Love Sunday",
+    "link": "https://abeautifulmess.com/10-things-i-love-sunday-342-2/",
+    "description": "Hello Friends. Welcome back to another weekly ten things I love roundup. This week we’re taking about books, home decor and things that feel like Spring. 10 Things I Love 1. As you can see in the photo above, we’re deep into renovations at my home. This is a new bathroom we’re working on for…",
+    "author": "Elsie Larson",
+    "published": "Sun, 06 Apr 2025 18:41:18 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/04/ten-things-i-love-sunday.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  }
+]
