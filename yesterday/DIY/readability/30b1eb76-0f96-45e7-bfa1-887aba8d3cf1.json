@@ -1,0 +1,28 @@
+{
+  "id": "30b1eb76-0f96-45e7-bfa1-887aba8d3cf1",
+  "title": "Gemini 2.0 + Robotics = Slam Dunk?",
+  "link": "https://hackaday.com/2025/04/11/gemini-2-0-robotics-slam-dunk/",
+  "description": "Over on the Google blog [Joel Meares] explains how Google built the new family of Gemini Robotics models. The bi-arm ALOHA robot equipped with Gemini 2.0 software can take general …read more",
+  "author": "John Elliot V",
+  "published": "Fri, 11 Apr 2025 23:00:00 +0000",
+  "source": "https://hackaday.com/blog/feed/",
+  "categories": [
+    "Artificial Intelligence",
+    "Robots Hacks",
+    "ai",
+    "ALOHA robot",
+    "Google DeepMind",
+    "Google Gemini 2.0"
+  ],
+  "byline": "",
+  "length": 690,
+  "excerpt": "Over on the Google blog [Joel Meares] explains how Google built the new family of Gemini Robotics models. The bi-arm ALOHA robot equipped with Gemini 2.0 software can take general instructions and …",
+  "siteName": "Hackaday",
+  "favicon": "https://hackaday.com/wp-content/themes/hackaday-2/img/hackaday-logo_1024x1024.png?v=3",
+  "text": "Over on the Google blog [Joel Meares] explains how Google built the new family of Gemini Robotics models. The bi-arm ALOHA robot equipped with Gemini 2.0 software can take general instructions and then respond dynamically to its environment as it carries out its tasks. This family of robots aims to be highly dexterous, interactive, and general-purpose by applying the sort of non-task-specific training methods that have worked so well with LLMs, and applying them to robot tasks. There are two things we here at Hackaday are wondering. Is there anything a robot will never do? And just how cherry-picked are these examples in the slick video? Let us know what you think in the comments!",
+  "image": "https://hackaday.com/wp-content/uploads/2025/04/robot-lunch.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"content\"\u003e\n        \u003cmain id=\"main\" role=\"main\"\u003e\n\n        \n            \n\u003carticle itemscope=\"\" itemtype=\"http://schema.org/Article\" id=\"post-771176\"\u003e\n    \n\n    \u003cdiv itemprop=\"articleBody\"\u003e\n        \u003cp\u003eOver on the Google blog [Joel Meares] explains \u003ca href=\"https://blog.google/products/gemini/how-we-built-gemini-robotics/\" target=\"_blank\"\u003ehow Google built the new family of Gemini Robotics models\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eThe bi-arm ALOHA robot equipped with Gemini 2.0 software can take general instructions and then respond dynamically to its environment as it carries out its tasks. This family of robots aims to be highly dexterous, interactive, and general-purpose by applying the sort of non-task-specific training methods that have worked so well with LLMs, and applying them to robot tasks.\u003c/p\u003e\n\n\u003cp\u003eThere are two things we here at Hackaday are wondering. \u003ca href=\"https://hackaday.com/2022/10/26/robots-are-folding-laundry-but-they-suck-at-it/\"\u003eIs there anything a robot will \u003cem\u003enever\u003c/em\u003e do\u003c/a\u003e? And just how cherry-picked are these examples in the slick video? Let us know what you think in the comments!\u003c/p\u003e\n\n\u003cp\u003e\u003ciframe title=\"Gemini Robotics: Bringing AI to the physical world\" width=\"800\" height=\"450\" src=\"https://www.youtube.com/embed/4MvGnmmP3c0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"\u003e\u003c/iframe\u003e\u003c/p\u003e\n\t            \u003c/div\u003e\n    \u003cul\u003e\n    \t\t\t\t\t\u003cli\u003e\n    \t\t\t\t\u003ca href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhackaday.com%2F2025%2F04%2F11%2Fgemini-2-0-robotics-slam-dunk%2F\" target=\"_blank\"\u003e\n    \t\t\t\t\t\u003ci\u003e\u003cimg src=\"https://hackaday.com/wp-content/themes/hackaday-2/img/share_face.png\"/\u003e \u003c/i\u003e\n    \t\t\t\t\t\t\t\t\t\u003c/a\u003e\n    \t\t\t\u003c/li\u003e\n    \t\t\t\t\t\u003cli\u003e\n                        \u003ca href=\"https://twitter.com/intent/tweet?text=Gemini%202.0%20+%20Robotics%20=%20Slam%20Dunk?%20via%20@hackaday\u0026amp;url=https://hackaday.com/2025/04/11/gemini-2-0-robotics-slam-dunk/\" target=\"_blank\"\u003e\n    \t\t\t\t\t\u003ci\u003e\u003cimg src=\"https://hackaday.com/wp-content/themes/hackaday-2/img/share_twitter.png\"/\u003e\u003c/i\u003e\n    \t\t\t\t\t\t\t\t\t\u003c/a\u003e\n    \t\t\t\u003c/li\u003e\n    \t\t\t\t\t\u003cli\u003e\n    \t\t\t\t\u003ca href=\"https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhackaday.com%2F2025%2F04%2F11%2Fgemini-2-0-robotics-slam-dunk%2F\" target=\"_blank\"\u003e\n    \t\t\t\t\t\u003ci\u003e\u003cimg src=\"https://hackaday.com/wp-content/themes/hackaday-2/img/share_in.png\"/\u003e\u003c/i\u003e\n    \t\t\t\t\t\t\t\t\t\u003c/a\u003e\n    \t\t\t\u003c/li\u003e\n    \t\t\t\t\t\u003cli\u003e\n                \u003ca href=\"mailto:?subject=Gemini+2.0+%2B+Robotics+%3D+Slam+Dunk%3F | Hackaday\u0026amp;body=https%3A%2F%2Fhackaday.com%2F2025%2F04%2F11%2Fgemini-2-0-robotics-slam-dunk%2F\"\u003e\n    \t\t\t\t\t\u003ci\u003e\u003cimg src=\"https://hackaday.com/wp-content/themes/hackaday-2/img/share_mail1.png\"/\u003e\u003c/i\u003e\n    \t\t\t\t\t\t\t\t\t\u003c/a\u003e\n    \t\t\t\u003c/li\u003e\n    \t\t\t\u003c/ul\u003e\n    \n\u003c/article\u003e\n\n            \t\n\t\n            \n\n            \n\n\n        \n        \n\n        \n        \n\n        \n        \u003c/main\u003e\n    \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-04-11T23:00:00Z",
+  "modifiedTime": "2025-04-11T20:40:15Z"
+}
