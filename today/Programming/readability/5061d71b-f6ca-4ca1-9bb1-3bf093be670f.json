@@ -1,0 +1,26 @@
+{
+  "id": "5061d71b-f6ca-4ca1-9bb1-3bf093be670f",
+  "title": "WBIT #7: Exploring WebAssembly with the first SO user to get 10k rep",
+  "link": "https://stackoverflow.blog/2025/04/16/wbit-7-exploring-webassembly-with-the-first-so-user-to-get-10k-rep/",
+  "description": "Kyle interviews Michael Stum, a former Stacker who started (and returned) to answering questions on the community site.",
+  "author": "Ryan Donovan",
+  "published": "Wed, 16 Apr 2025 04:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "wbit",
+    "podcast",
+    "se-tech",
+    "se-stackoverflow"
+  ],
+  "byline": "Ryan Donovan",
+  "length": 755,
+  "excerpt": "Kyle interviews Michael Stum, a former Stacker who started (and returned) to answering questions on the community site.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "April 16, 2025Kyle interviews Michael Stum, a former Stacker who started (and returned) to answering questions on the community site. For today’s interview, Kyle checks in with former Stacker Michael Stum, who is now Principal Software Engineer at neuRealities. They dig into the perfect sandbox that is WebAssembly, Michael’s journey from early Stack Overflow user and employee, and the perils of legacy code.Episode notes:Kyle notes that his only experience with WebAssembly is Blazor. If you’re wondering about Blazor, we covered on the blog in 2020.While Michael may have been the first user to get 10,000 rep, he’s not stopping there.His current employer, neuRealities, is still in stealth mode, shhhh.Find Michael on his blog and possibly elsewhere.",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/807b30d3e40c5bf2242891d8ce4a04d887e4ff78-3840x2160.png?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle itemscope=\"\" itemtype=\"https://schema.org/Article\"\u003e\u003cheader\u003e\u003ctime datetime=\"2025-04-16T04:40:00.000Z\" itemprop=\"datePublished\"\u003e April 16, 2025\u003c/time\u003e\u003cp itemprop=\"abstract\"\u003eKyle interviews Michael Stum, a former Stacker who started (and returned) to answering questions on the community site. \u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://cdn.stackoverflow.co/images/jo7n4k8s/production/807b30d3e40c5bf2242891d8ce4a04d887e4ff78-3840x2160.png?rect=0,72,3840,2016\u0026amp;w=1200\u0026amp;h=630\u0026amp;auto=format\u0026amp;dpr=2\" width=\"1200\" height=\"630\" alt=\"Article hero image\" itemprop=\"image\"/\u003e\u003c/figure\u003e\u003c/header\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003eFor today’s interview, Kyle checks in with former Stacker Michael Stum, who is now Principal Software Engineer at neuRealities. They dig into the perfect sandbox that is WebAssembly, Michael’s journey from early Stack Overflow user and employee, and the perils of legacy code.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEpisode notes\u003c/strong\u003e:\u003c/p\u003e\u003cp\u003eKyle notes that his only experience with WebAssembly is Blazor. If you’re wondering about Blazor, \u003ca href=\"https://stackoverflow.blog/2020/02/26/whats-behind-the-hype-about-blazor/\"\u003ewe covered on the blog in 2020\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eWhile Michael may have been the first user to get 10,000 rep, \u003ca href=\"https://stackoverflow.com/users/91/michael-stum\"\u003ehe’s not stopping there\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eHis current employer, \u003ca href=\"https://www.neurealities.com/\"\u003eneuRealities\u003c/a\u003e, is still in stealth mode, shhhh.\u003c/p\u003e\u003cp\u003eFind Michael on \u003ca href=\"https://www.stum.de/\"\u003ehis blog\u003c/a\u003e and possibly elsewhere.\u003c/p\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
