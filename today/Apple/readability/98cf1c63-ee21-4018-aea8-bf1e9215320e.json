@@ -1,0 +1,27 @@
+{
+  "id": "98cf1c63-ee21-4018-aea8-bf1e9215320e",
+  "title": "AltStore PAL Releases AltStore Classic for EU iPhone Users",
+  "link": "https://www.macstories.net/news/altstore-pal-releases-altstore-classic-for-eu-iphone-users/",
+  "description": "AltStore PAL, the alternative app store for iPhone users in the EU, celebrated its first anniversary today with a whopper of an update. AltStore PAL 2.2 now includes AltStore Classic as one of its catalog of apps. That’s right, a store within a store, which allows users in Europe to sideload hundreds of non-notarized apps. […]",
+  "author": "John Voorhees",
+  "published": "Thu, 17 Apr 2025 18:48:32 +0000",
+  "source": "https://www.macstories.net/feed",
+  "categories": [
+    "news",
+    "AltStore",
+    "DMA",
+    "EU",
+    "regulation"
+  ],
+  "byline": "",
+  "length": 994,
+  "excerpt": "AltStore PAL, the alternative app store for iPhone users in the EU, celebrated its first anniversary today with a whopper of an update. AltStore PAL 2.2 now includes AltStore Classic as one of its catalog of apps. That’s right, a store within a store, which allows users in Europe to sideload hundreds of non-notarized apps.",
+  "siteName": "",
+  "favicon": "https://www.macstories.net/app/themes/macstories4/images/apple-touch-icon-152x152-precomposed.png",
+  "text": "AltStore PAL, the alternative app store for iPhone users in the EU, celebrated its first anniversary today with a whopper of an update. AltStore PAL 2.2 now includes AltStore Classic as one of its catalog of apps. That’s right, a store within a store, which allows users in Europe to sideload hundreds of non-notarized apps. If this sounds odd, it is, but there’s a method to the madness. AltStore Classic allows users to install DolphiniOS, an emulator that uses JIT (Just-In-Time) compilation, which is necessary to emulate more recent games and isn’t allowed by Apple on iOS out of the box. Alongside AltStore PAL 2.2, the AltStore team released StikDebug, an AltStore PAL app that allows any app sideloaded with AltStore Classic to use JIT. I’m in the U.S., so I haven’t tried AltStore Classic, but judging from what I’ve seen on Reddit, JIT can make a big difference for emulators. EU users can read more about the update to AltStore PAL and AltStore Classic in the update’s release notes.",
+  "image": "https://56243e3f6f46fe44a301-deabeb5f3878e3553d0b065ea974f9bf.ssl.cf1.rackcdn.com/256px.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle id=\"content\"\u003e\n\n    \n\n    \u003cdiv\u003e\n                        \u003cp id=\"p1\"\u003eAltStore PAL, \u003ca href=\"https://www.macstories.net/news/altstore-is-now-available-in-the-eu/\" rel=\"noopener noreferrer\"\u003ethe alternative app store\u003c/a\u003e for iPhone users in the EU, celebrated its first anniversary today with a whopper of an update. AltStore PAL 2.2 now includes AltStore Classic as one of its catalog of apps. That’s right, a store within a store, which allows users in Europe to sideload hundreds of non-notarized apps.\u003c/p\u003e\n\u003cp id=\"p2\"\u003eIf this sounds odd, it is, but there’s a method to the madness. AltStore Classic allows users to install \u003ca href=\"https://dolphinios.oatmealdome.me\" rel=\"noopener noreferrer\"\u003eDolphiniOS\u003c/a\u003e, an emulator that uses JIT (Just-In-Time) compilation, which is necessary to emulate more recent games and isn’t allowed by Apple on iOS out of the box. Alongside AltStore PAL 2.2, the AltStore team released StikDebug, an AltStore PAL app that allows any app sideloaded with AltStore Classic to use JIT.\u003c/p\u003e\n\u003cp id=\"p3\"\u003eI’m in the U.S., so I haven’t tried AltStore Classic, but judging from what I’ve seen on \u003ca href=\"https://www.reddit.com/r/EmulationOniOS/\" rel=\"noopener noreferrer\"\u003eReddit\u003c/a\u003e, JIT can make a big difference for emulators. EU users can read more about the update to AltStore PAL and AltStore Classic in \u003ca href=\"https://faq.altstore.io/release-notes/altstore\" rel=\"noopener noreferrer\"\u003ethe update’s release notes\u003c/a\u003e.\u003c/p\u003e\n            \u003c/div\u003e\n\n    \n        \n\n    \n    \n    \n\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-04-17T18:48:32-04:00",
+  "modifiedTime": null
+}

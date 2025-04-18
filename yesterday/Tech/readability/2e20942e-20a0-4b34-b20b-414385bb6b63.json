@@ -1,0 +1,24 @@
+{
+  "id": "2e20942e-20a0-4b34-b20b-414385bb6b63",
+  "title": "See how Wake Forest University redefined its cybersecurity with Google Workspace for Education Plus.",
+  "link": "https://blog.google/outreach-initiatives/education/wake-forest-university-case-study/",
+  "description": "When it came to IT security, Wake Forest University had relied on a fragmented approach, using a legacy identity provider alongside Google Workspace for Education. This …",
+  "author": "Drew SidelHead of North AmericaGoogle Workspace for Education",
+  "published": "Wed, 16 Apr 2025 15:00:00 +0000",
+  "source": "https://www.blog.google/rss/",
+  "categories": [
+    "Learning \u0026 Education",
+    "Google Workspace"
+  ],
+  "byline": "Drew Sidel",
+  "length": 934,
+  "excerpt": "When it came to IT security, Wake Forest University had relied on a fragmented approach, using a legacy identity provider alongside Google Workspace for Education. This legacy system not only complicated the user experience, but also presented significant costs and security risks, prompting the university to seek a unified and robust solution.Wake Forest University recently consolidated the school’s security platform with Google Workspace for Education Plus and saw major improvements:Protecting student records via Context-Aware Access and Data Loss Prevention (DLP), and an Investigation Tool for admins to remove malicious add-ons and revoke access to data that’s accidentally been shared.A significant drop in compromised accounts thanks to Google’s single sign-on and two-step verification.Time savings and substantial cost savings, estimated at around $1 million over a three-year period.Watch the video below to learn more.",
+  "siteName": "Google",
+  "favicon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20250415-2003",
+  "text": "When it came to IT security, Wake Forest University had relied on a fragmented approach, using a legacy identity provider alongside Google Workspace for Education. This legacy system not only complicated the user experience, but also presented significant costs and security risks, prompting the university to seek a unified and robust solution.Wake Forest University recently consolidated the school’s security platform with Google Workspace for Education Plus and saw major improvements:Protecting student records via Context-Aware Access and Data Loss Prevention (DLP), and an Investigation Tool for admins to remove malicious add-ons and revoke access to data that’s accidentally been shared.A significant drop in compromised accounts thanks to Google’s single sign-on and two-step verification.Time savings and substantial cost savings, estimated at around $1 million over a three-year period.Watch the video below to learn more.",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GfE_WakeForestUniversity_CaseStudy_Still005.max-1440x810.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv slot=\"uni-short-post-description-slot\"\u003e\u003cp data-block-key=\"la6qc\"\u003eWhen it came to IT security, Wake Forest University had relied on a fragmented approach, using a legacy identity provider alongside Google Workspace for Education. This legacy system not only complicated the user experience, but also presented significant costs and security risks, prompting the university to seek a unified and robust solution.\u003c/p\u003e\u003cp data-block-key=\"3kggt\"\u003eWake Forest University recently consolidated the school’s security platform with Google Workspace for Education Plus and saw major improvements:\u003c/p\u003e\u003cul\u003e\u003cli data-block-key=\"2jmcd\"\u003eProtecting student records via \u003ca href=\"https://support.google.com/a/answer/12645308?hl=en\"\u003eContext-Aware Access\u003c/a\u003e and \u003ca href=\"https://support.google.com/a/answer/9646351?hl=en\"\u003eData Loss Prevention (DLP)\u003c/a\u003e, and an \u003ca href=\"https://edu.google.com/intl/ALL_us/resources/support/product-demos/investigation-tool/\"\u003eInvestigation Tool\u003c/a\u003e for admins to remove malicious add-ons and revoke access to data that’s accidentally been shared.\u003c/li\u003e\u003cli data-block-key=\"f0r35\"\u003eA significant drop in compromised accounts thanks to Google’s single sign-on and two-step verification.\u003c/li\u003e\u003cli data-block-key=\"jf7p\"\u003eTime savings and substantial cost savings, estimated at around $1 million over a three-year period.\u003c/li\u003e\u003c/ul\u003e\u003cp data-block-key=\"7thut\"\u003eWatch the video below to learn more.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-04-16T15:00:00Z",
+  "modifiedTime": null
+}
