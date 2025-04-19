@@ -1,0 +1,24 @@
+{
+  "id": "d3777e05-f604-4256-ab77-38df3796a5ec",
+  "title": "Our new C2S-Scale LLM helps researchers have conversations with cells.",
+  "link": "https://blog.google/technology/research/cell2sentence-scale/",
+  "description": "Imagine being able to ask a cell how it’s feeling, what it’s doing or how it might respond to a drug — and receiving an answer back in plain English. Today, in partnersh…",
+  "author": "",
+  "published": "Thu, 17 Apr 2025 19:00:00 +0000",
+  "source": "https://www.blog.google/rss/",
+  "categories": [
+    "Research",
+    "AI"
+  ],
+  "byline": "",
+  "length": 1019,
+  "excerpt": "Imagine being able to ask a cell how it’s feeling, what it’s doing or how it might respond to a drug — and receiving an answer back in plain English. Today, in partnership with Yale University, we’re introducing Cell2Sentence-Scale (C2S-Scale), a family of open-source large language models trained to interpret and understand biology at the single-cell level.C2S-Scale bridges biology and artificial intelligence, converting complex cellular data into simple, readable \"cell sentences.\" Researchers can then ask questions about specific cells, like “Is this cell cancerous?” or “How will this cell respond to Drug X?” and receive clear, biologically-informed answers in natural language.C2S-Scale has the potential to:Speed drug development and discoveryPersonalize medicine and improve outcomesDemocratize science through open-source availabilityHelp researchers better understand, treat and prevent diseaseLearn more about how C2S-Scale is advancing medical science, and how to try it yourself, with Google Research.",
+  "siteName": "Google",
+  "favicon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20250415-2003",
+  "text": "Imagine being able to ask a cell how it’s feeling, what it’s doing or how it might respond to a drug — and receiving an answer back in plain English. Today, in partnership with Yale University, we’re introducing Cell2Sentence-Scale (C2S-Scale), a family of open-source large language models trained to interpret and understand biology at the single-cell level.C2S-Scale bridges biology and artificial intelligence, converting complex cellular data into simple, readable \"cell sentences.\" Researchers can then ask questions about specific cells, like “Is this cell cancerous?” or “How will this cell respond to Drug X?” and receive clear, biologically-informed answers in natural language.C2S-Scale has the potential to:Speed drug development and discoveryPersonalize medicine and improve outcomesDemocratize science through open-source availabilityHelp researchers better understand, treat and prevent diseaseLearn more about how C2S-Scale is advancing medical science, and how to try it yourself, with Google Research.",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image2_5m1c0dQ.max-1440x810.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv slot=\"uni-short-post-description-slot\"\u003e\u003cp data-block-key=\"ianzr\"\u003eImagine being able to ask a cell how it’s feeling, what it’s doing or how it might respond to a drug — and receiving an answer back in plain English. Today, in partnership with Yale University, we’re introducing Cell2Sentence-Scale (C2S-Scale), a family of open-source large language models trained to interpret and understand biology at the single-cell level.\u003c/p\u003e\u003cp data-block-key=\"aikk4\"\u003eC2S-Scale bridges biology and artificial intelligence, converting complex cellular data into simple, readable \u0026#34;cell sentences.\u0026#34; Researchers can then ask questions about specific cells, like “Is this cell cancerous?” or “How will this cell respond to Drug X?” and receive clear, biologically-informed answers in natural language.\u003c/p\u003e\u003cp data-block-key=\"928mc\"\u003eC2S-Scale has the potential to:\u003c/p\u003e\u003cul\u003e\u003cli data-block-key=\"6l70q\"\u003eSpeed drug development and discovery\u003c/li\u003e\u003cli data-block-key=\"1f1b9\"\u003ePersonalize medicine and improve outcomes\u003c/li\u003e\u003cli data-block-key=\"8e2qh\"\u003eDemocratize science through open-source availability\u003c/li\u003e\u003cli data-block-key=\"f49mm\"\u003eHelp researchers better understand, treat and prevent disease\u003c/li\u003e\u003c/ul\u003e\u003cp data-block-key=\"fecjr\"\u003eLearn more about how C2S-Scale is advancing medical science, and how to try it yourself, with \u003ca href=\"https://research.google/blog/teaching-machines-the-language-of-biology-scaling-large-language-models-for-next-generation-single-cell-analysis/\"\u003eGoogle Research\u003c/a\u003e.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-04-17T19:00:00Z",
+  "modifiedTime": null
+}

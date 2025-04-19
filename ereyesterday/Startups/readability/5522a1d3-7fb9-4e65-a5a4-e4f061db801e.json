@@ -1,0 +1,21 @@
+{
+  "id": "5522a1d3-7fb9-4e65-a5a4-e4f061db801e",
+  "title": "Kaggle and the Wikimedia Foundation are partnering on open data",
+  "link": "https://blog.google/technology/developers/kaggle-wikimedia/",
+  "description": "Article URL: https://blog.google/technology/developers/kaggle-wikimedia/ Comments URL: https://news.ycombinator.com/item?id=43707768 Points: 2 # Comments: 0",
+  "author": "xnx",
+  "published": "Wed, 16 Apr 2025 17:05:31 +0000",
+  "source": "https://hnrss.org/frontpage",
+  "categories": null,
+  "byline": "Brenda Flynn",
+  "length": 899,
+  "excerpt": "Kaggle is hosting Wikimedia Enterprise's beta release of structured data in both French and English. Kaggle is home to a vast trove of open and accessible data, with more than 461,000 freely accessible datasets. Researchers, students and machine learning practitioners use this data to explore, train, learn and compete in Kaggle competitions.The Wikimedia Foundation is the organization that manages the data from wikipedia.org, the internet’s free encyclopedia. This data documents and describes the world in real time, with a foundational commitment to open access to data and information.Wikipedia’s structured dataset, hosted on Kaggle, is formatted specifically for machine learning, making it ideal for data science, training and development. This collaboration helps researchers and developers have confidence in the quality and provenance of the data.We’re excited to see what people build.",
+  "siteName": "Google",
+  "favicon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20250415-2003",
+  "text": "Kaggle is hosting Wikimedia Enterprise's beta release of structured data in both French and English. Kaggle is home to a vast trove of open and accessible data, with more than 461,000 freely accessible datasets. Researchers, students and machine learning practitioners use this data to explore, train, learn and compete in Kaggle competitions.The Wikimedia Foundation is the organization that manages the data from wikipedia.org, the internet’s free encyclopedia. This data documents and describes the world in real time, with a foundational commitment to open access to data and information.Wikipedia’s structured dataset, hosted on Kaggle, is formatted specifically for machine learning, making it ideal for data science, training and development. This collaboration helps researchers and developers have confidence in the quality and provenance of the data.We’re excited to see what people build.",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kaggle_SS_1920x1080_v3.max-1440x810.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv slot=\"uni-short-post-description-slot\"\u003e\u003cp data-block-key=\"agxeu\"\u003eKaggle is hosting \u003ca href=\"https://enterprise.wikimedia.com/\"\u003eWikimedia Enterprise\u003c/a\u003e\u0026#39;s beta release of structured data in both French and English. \u003ca href=\"http://kaggle.com/\"\u003eKaggle\u003c/a\u003e is home to a vast trove of open and accessible data, with more than 461,000 freely accessible datasets. Researchers, students and machine learning practitioners use this data to explore, train, learn and compete in Kaggle competitions.\u003c/p\u003e\u003cp data-block-key=\"f7ivk\"\u003eThe Wikimedia Foundation is the organization that manages the data from \u003ca href=\"https://www.wikipedia.org/\"\u003ewikipedia.org\u003c/a\u003e, the internet’s free encyclopedia. This data documents and describes the world in real time, with a foundational commitment to open access to data and information.\u003c/p\u003e\u003cp data-block-key=\"14dkd\"\u003eWikipedia’s structured dataset, \u003ca href=\"https://enterprise.wikimedia.com/blog/kaggle-dataset/\"\u003ehosted on Kaggle\u003c/a\u003e, is formatted specifically for machine learning, making it ideal for data science, training and development. This collaboration helps researchers and developers have confidence in the quality and provenance of the data.\u003c/p\u003e\u003cp data-block-key=\"86a26\"\u003eWe’re excited to see what people build.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-04-16T17:00:00Z",
+  "modifiedTime": null
+}
