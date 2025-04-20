@@ -1,0 +1,806 @@
+[
+  {
+    "id": "8c10fbbd-0a00-4f94-b0d2-c5a7dbda9cae",
+    "title": "How I Finally Memorized Modifier Ordering in Compose",
+    "link": "https://zsmb.co/remembering-modifier-order/",
+    "description": "For the longest time, I proudly had no idea of how Modifier ordering works, and would just guess and then guess again when something didn't look quite right. Here's how I finally ended up remembering how the ordering works.",
+    "author": "Márton Braun",
+    "published": "Tue, 04 Jun 2024 09:00:00 +0000",
+    "image": "",
+    "source": "https://zsmb.co/index.xml",
+    "categories": null
+  },
+  {
+    "id": "93034662-b6c1-4ea4-a3b6-7c214e667611",
+    "title": "Building a macOS screen saver in Kotlin",
+    "link": "https://zsmb.co/building-a-macos-screen-saver-in-kotlin/",
+    "description": "This article documents how I created my own custom screen saver for macOS, built almost entirely in Kotlin, using the powers of Kotlin Multiplatform compiled to macOS. Join me for a tale of Kotlin success and macOS failures.",
+    "author": "Márton Braun",
+    "published": "Tue, 05 Mar 2024 12:00:00 +0000",
+    "image": "",
+    "source": "https://zsmb.co/index.xml",
+    "categories": null
+  },
+  {
+    "id": "3005fb95-f380-44ba-b737-d027242ea61e",
+    "title": "Linting on the Side of Caution: Safety \u0026 Security | Android Developers Backstage",
+    "link": "https://www.youtube.com/watch?v=h2xqX8-lXQE",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2025-04-10T21:47:40+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
+    "categories": null
+  },
+  {
+    "id": "a3bf91f3-4d43-4bff-8ea5-8cf43895e3bb",
+    "title": "Google Play PolicyBytes - April 2025 policy updates",
+    "link": "https://www.youtube.com/watch?v=74kce4nodWk",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2025-04-10T17:10:31+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
+    "categories": null
+  },
+  {
+    "id": "4b06028b-dcff-436a-8a3e-7a5e9c3b86a8",
+    "title": "Netflix App Testing At Scale",
+    "link": "https://medium.com/androiddevelopers/netflix-app-testing-at-scale-eb4ef6b40124?source=rss----95b274b437c2---4",
+    "description": "",
+    "author": "Jose Alcérreca",
+    "published": "Wed, 16 Apr 2025 15:55:49 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*O4vuzNcTGYsZfJNKi_uuqA.png",
+    "source": "https://medium.com/feed/androiddevelopers",
+    "categories": [
+      "androiddev",
+      "case-study",
+      "android",
+      "testing",
+      "netflix"
+    ]
+  },
+  {
+    "id": "286f8485-87bf-4b4f-90fb-7d5308d38a2d",
+    "title": "Introducing Testing at Scale blog series",
+    "link": "https://medium.com/androiddevelopers/introducing-testing-at-scale-blog-series-8cd300ae2795?source=rss----95b274b437c2---4",
+    "description": "",
+    "author": "Jose Alcérreca",
+    "published": "Wed, 16 Apr 2025 15:55:36 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*CJU_ykDXcYBBbgYuHkEw1g.png",
+    "source": "https://medium.com/feed/androiddevelopers",
+    "categories": [
+      "featured",
+      "android",
+      "testing-tools",
+      "androiddev",
+      "testing"
+    ]
+  },
+  {
+    "id": "10852f47-fef1-4efc-bb5d-d32c464fa322",
+    "title": "Prioritize media privacy with Android Photo Picker and build user trust",
+    "link": "http://android-developers.googleblog.com/2025/04/google-play-empowering-developers-to-build-user-trust-through-privacy.html",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2025-04-09T10:00:00.000-07:00",
+    "image": "",
+    "source": "http://feeds.feedburner.com/blogspot/hsDu",
+    "categories": [
+      "android developers",
+      "Featured",
+      "Google Play",
+      "Play Console"
+    ]
+  },
+  {
+    "id": "c78ac00b-6874-4ecc-8965-208b4fb74117",
+    "title": "Gemini in Android Studio for businesses: Develop with confidence, powered by AI",
+    "link": "http://android-developers.googleblog.com/2025/04/gemini-in-android-studio-for-business.html",
+    "description": "",
+    "author": "Android Developers",
+    "published": "2025-04-08T17:00:00.000-07:00",
+    "image": "",
+    "source": "http://feeds.feedburner.com/blogspot/hsDu",
+    "categories": [
+      "Android Studio for enterprises",
+      "Gemini for enterprises",
+      "Gemini in Android Studio"
+    ]
+  },
+  {
+    "id": "12fe4359-2522-4e03-9226-28b887178369",
+    "title": "Linting on the Side of Caution: Safety \u0026 Security",
+    "link": "http://adbackstage.libsyn.com/linting-on-the-side-of-caution-safety-security",
+    "description": "What is app safety for Android? What is the Android team working on to ensure developers and users alike enjoy safe and reliable apps? Watch along as Tor Norbye, Chet Haase, Romain Guy, Theresa Khuu, Naheed Vora take a deep dive backstage and discuss what’s new in the Android safety space.   Resources: Enhanced Tools for Secure \u0026 Efficient Development → https://goo.gle/42lo3i8   Watch more Android Developers Backstage → https://goo.gle/adb-podcast Subscribe to Android Developers → https://goo.gle/AndroidDevs    #Featured #Android #AndroidDevelopersBackstage Speakers: Tor Norbye, Chet Haase, Romain Guy, Theresa Khuu, Naheed Vora",
+    "author": "Android Developers",
+    "published": "Thu, 10 Apr 2025 21:48:00 +0000",
+    "image": "https://traffic.libsyn.com/secure/adbackstage/ADB214_V3.mp3?dest-id=2710847",
+    "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
+    "categories": null
+  },
+  {
+    "id": "78113c21-cd91-4851-8a35-1f0ee78cdf94",
+    "title": "Episode 213: Compose runtime and performance",
+    "link": "http://adbackstage.libsyn.com/episode-213-compose-runtime-and-performance",
+    "description": "In this episode, Tor and Romain chat with Leland and Chuck from the Compose team about performance -- recent optimizations, upcoming optimizations, and challenges. Leland: @intelligibabble.bsky.social Chuck: @chuckjaz.bsky.social Tor: @tornorbye.bsky.social Romain: @romainguy, @romainguy.dev, romainguy@androiddev.social Catch videos on YouTube → https://goo.gle/adb-podcast   Subscribe to Android Developers  → https://goo.gle/AndroidDevs  #Featured #Compose #AndroidDevelopersBackstage",
+    "author": "Android Developers",
+    "published": "Tue, 04 Mar 2025 20:58:03 +0000",
+    "image": "https://traffic.libsyn.com/secure/adbackstage/ADB213_V3.mp3?dest-id=2710847",
+    "source": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
+    "categories": [
+      "DEveloper",
+      "developers",
+      "compose",
+      "androidpodcast",
+      "ADB",
+      "androiddevelopers",
+      "androiddevelopersbackstage"
+    ]
+  },
+  {
+    "id": "f0be9ff4-dad0-4d1d-8096-9b760dca9375",
+    "title": "Coroutines and Dispatchers",
+    "link": "https://medium.com/mindorks/coroutines-and-dispatchers-b559094b828e?source=rss----f1a763fc7443--android",
+    "description": "",
+    "author": "Bigyan Thapa",
+    "published": "Wed, 16 Oct 2024 06:48:00 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*zwGCLQ2qqBwzHegoGYDgNg.jpeg",
+    "source": "https://medium.com/feed/mindorks/tagged/android",
+    "categories": [
+      "best-practices",
+      "androiddev",
+      "coroutine",
+      "android",
+      "kotlin"
+    ]
+  },
+  {
+    "id": "e82cb1a2-0ed4-4d07-a13d-bc4510baa381",
+    "title": "Creating Different Build Variants in Android",
+    "link": "https://medium.com/mindorks/creating-different-build-variants-in-android-8291b95352f5?source=rss----f1a763fc7443--android",
+    "description": "",
+    "author": "Amit Shekhar",
+    "published": "Tue, 08 Dec 2020 12:57:57 GMT",
+    "image": "https://medium.com/_/stat?event=post.clientViewed\u0026referrerSource=full_rss\u0026postId=8291b95352f5",
+    "source": "https://medium.com/feed/mindorks/tagged/android",
+    "categories": [
+      "jetpack",
+      "android-apps",
+      "androiddev",
+      "android-app-development",
+      "android"
+    ]
+  },
+  {
+    "id": "297cd775-3133-45ba-860b-51067da82a88",
+    "title": "Introducing Trio | Part III",
+    "link": "https://medium.com/airbnb-engineering/introducing-trio-part-iii-033fbfe2171b?source=rss----53c7c27702d5--android",
+    "description": "",
+    "author": "Eli Hart",
+    "published": "Thu, 11 Apr 2024 17:33:21 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*f5gDJHZdQ6lSewSKhZya-A.jpeg",
+    "source": "https://medium.com/feed/airbnb-engineering/tagged/android",
+    "categories": [
+      "android",
+      "jetpack-compose",
+      "mobile",
+      "engineering",
+      "mobile-app-development"
+    ]
+  },
+  {
+    "id": "b158a94e-dc98-4d4c-bdb6-0e3edd76d939",
+    "title": "Introducing Trio | Part II",
+    "link": "https://medium.com/airbnb-engineering/introducing-trio-part-ii-fe836013a798?source=rss----53c7c27702d5--android",
+    "description": "",
+    "author": "Eli Hart",
+    "published": "Thu, 04 Apr 2024 16:52:13 GMT",
+    "image": "https://cdn-images-1.medium.com/max/862/1*Ill4nQ2nbUwqQakROhb-6Q.jpeg",
+    "source": "https://medium.com/feed/airbnb-engineering/tagged/android",
+    "categories": [
+      "mobile",
+      "mobile-app-development",
+      "engineering",
+      "jetpack-compose",
+      "android"
+    ]
+  },
+  {
+    "id": "138c9ff7-710e-4ce9-a66c-39d6b050c6f0",
+    "title": "Instagram Data Saver Mode",
+    "link": "https://instagram-engineering.com/instagram-data-saver-mode-ffb01fd5a6bd?source=rss----37dc2a3034f2--android",
+    "description": "",
+    "author": "Cristina Acha",
+    "published": "Fri, 13 Dec 2019 18:09:34 GMT",
+    "image": "https://cdn-images-1.medium.com/max/912/1*DFLQYzOGL6yMpXmN28iP7g.png",
+    "source": "https://instagram-engineering.com/feed/tagged/android",
+    "categories": [
+      "data",
+      "android",
+      "instagram",
+      "tech"
+    ]
+  },
+  {
+    "id": "6b927aa6-9192-448a-902a-00a7e89ba37b",
+    "title": "Making Direct Messages Reliable and Fast",
+    "link": "https://instagram-engineering.com/making-direct-messages-reliable-and-fast-a152bdfd697f?source=rss----37dc2a3034f2--android",
+    "description": "",
+    "author": "Tommy Crush",
+    "published": "Wed, 05 Jun 2019 14:57:10 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*hn1cPtyuSP9VYlojdkb_hA.png",
+    "source": "https://instagram-engineering.com/feed/tagged/android",
+    "categories": [
+      "instagram",
+      "ios",
+      "software-engineering",
+      "android",
+      "messaging"
+    ]
+  },
+  {
+    "id": "a5a439cf-f2ee-41d9-9f3c-4512b3d079d7",
+    "title": "Programming Priorities",
+    "link": "https://blog.danlew.net/2025/03/11/programming-priorities/",
+    "description": "Software development (or, you know, life in general) is all about juggling priorities.For this post, I’m thinking specifically about code design priorities. You only have a limited amount of time to implement a feature, so you have to pick and choose which aspects of it to spend",
+    "author": "Dan Lew",
+    "published": "Tue, 11 Mar 2025 14:00:44 GMT",
+    "image": "",
+    "source": "https://blog.danlew.net/rss/",
+    "categories": [
+      "code design"
+    ]
+  },
+  {
+    "id": "01adfea3-e29f-478e-be11-e7ecb7ff297e",
+    "title": "Dan's Edina Sample Ballot Election (2024)",
+    "link": "https://blog.danlew.net/2024/09/30/dans-edina-sample-ballot-election-2024/",
+    "description": "As a summary, here's what I'm voting this year on my Edina, MN ballot (along with links to research on why I'm voting that way):For all partisan races (president, senate, house/state reps) - the DFL candidate.Statewide constitutional amendment - Yes.County",
+    "author": "Dan Lew",
+    "published": "Mon, 30 Sep 2024 15:15:09 GMT",
+    "image": "",
+    "source": "https://blog.danlew.net/rss/",
+    "categories": [
+      "politics"
+    ]
+  },
+  {
+    "id": "15e801f9-68cf-41bd-9d1a-1edcabb97fb9",
+    "title": "257 - Future of AndroidDev in an AI world with Vinay Gaba",
+    "link": "https://fragmentedpodcast.com/episodes/257",
+    "description": "Join us as we talk with Vinay Gaba, Android GDE and leading voice in Android development, about the future of the field. Vinay shares insights from interviews with top Android devs on their three-year predictions, and offers his own perspective. We cover AI's impact, evolving development roles, and crucial future skills.You can find the full shownotes over at fragmentedpodcast.com.Show NotesVinay's personal websiteDispatch - Jetpack Compose newsletterIssue #11 - Future of AndroidDevCursor AI IDEJetbrains AI assistantJetbrains Junie - the coding agentPessimists avoid risk, Optimists change the world.Contact usfragmentedpodcast.comContact usYoutubeKaushik:kau.sh (links to everything)ThreadsBlueskyYoutube@kaushikgopal",
+    "author": "Vinay Gaba, Kaushik Gopal",
+    "published": "Tue, 4 Mar 2025 06:11:42 +0000",
+    "image": "https://cdn.simplecast.com/audio/20f35050-e836-44cd-8f7f-fd13e8cb2e44/episodes/c70df156-a79e-44a3-9ebe-30e28c033f32/audio/2d474979-fbc9-41d3-8b21-6f2e0666ac22/default_tc.mp3?aid=rss_feed\u0026feed=LpAGSLnY",
+    "source": "https://feeds.simplecast.com/LpAGSLnY",
+    "categories": [
+      "airbnb",
+      " androiddev",
+      " ai",
+      " dispatch",
+      " future"
+    ]
+  },
+  {
+    "id": "252e8a69-3557-453f-b19f-7dae3fd429af",
+    "title": "256 - Rapid prototyping with Kotlin",
+    "link": "https://fragmentedpodcast.com/episodes/256/",
+    "description": "In this episode, we dive into the power of rapid prototyping for Android developers using Kotlin. We explore how this crucial skill can impress stakeholders, accelerate your workflow, and help you stay ahead in today's fast-paced tech landscape. We'll cover use cases across scripting, web development (with Ktor \u0026 HTMX), mobile apps (Jetpack Compose), and even touch upon how AI is changing the game!You can find the full shownotes over at fragmentedpodcast.com.Show NotesSimple scriptingState of Kotlin Scripting 2024 - Jetbrains blogKotlin mini-app repo playground-ktAdvent of CodeWeb sitesHugo static site generatorCloudflare PagesSlashdot effectFragmented Podcast Website powered by Henry (Kaushik's custom theme)Web appsKtorHTMXAjaxCSS TransitionsServer Sent EventsYoutube Video showing Ktor + HTMXMobile appsEpisode 252 talking about playground-androidFlutterKotlin Multiplatform KMPReact NativeLLM Based appsStreamlit.Snowflake acquires StreamlitGoogle AI StudioKotlin AIVibe coding an AirBnb cloneContact usfragmentedpodcast.comContact usYoutubeKaushik:kau.sh (links to everything)ThreadsBlueskyYoutube@kaushikgopal",
+    "author": "Kaushik Gopal",
+    "published": "Mon, 24 Feb 2025 20:10:00 +0000",
+    "image": "https://cdn.simplecast.com/audio/20f35050-e836-44cd-8f7f-fd13e8cb2e44/episodes/983a52d2-a331-4eb6-9326-d8e2de785fd7/audio/abc1aa36-e447-4a15-b336-0470e1192998/default_tc.mp3?aid=rss_feed\u0026feed=LpAGSLnY",
+    "source": "https://feeds.simplecast.com/LpAGSLnY",
+    "categories": [
+      "rapid-prototyping",
+      " kotlin",
+      " google-ai-studio",
+      " kotlin-script",
+      " htmx",
+      " ktor"
+    ]
+  },
+  {
+    "id": "0beedadc-1b1c-4626-be5d-f9c24a2f3e77",
+    "title": "Compile-time validation of JNI signatures",
+    "link": "https://jakewharton.com/compile-time-validation-of-jni-signatures/",
+    "description": "",
+    "author": "",
+    "published": "2025-03-12T00:00:00+00:00",
+    "image": "",
+    "source": "https://jakewharton.com/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "75d9826e-facb-4912-9e91-6f3a029aef82",
+    "title": "Deprecating idling resource libraries",
+    "link": "https://jakewharton.com/deprecating-idling-resource-libraries/",
+    "description": "",
+    "author": "",
+    "published": "2025-02-19T00:00:00+00:00",
+    "image": "",
+    "source": "https://jakewharton.com/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "1918a0eb-bd98-4bc8-83d5-22224c7fadc0",
+    "title": "Android Weekly Issue #670",
+    "link": "https://androidweekly.net/issues/issue-670/rss.xml",
+    "description": "Articles \u0026 Tutorials Sponsored Advertise to more than 80k Android developers! We reach out to more than 80k Android developers around the world, every week, through our email newsletter and social media channels. Advertise your Android development related service or product! Delegation with By in Kotlin. Deleagation in Kotlin HyunWoo Lee explains Kotlin’s by keyword for delegation, covering standard delegates like lazy, observable, vetoable, and notNull, and demonstrates creating custom delegates by implementing getValue and setValue functions. Preloading Media: A Future-Forward Approach with ExoPlayer Prateek Batra shows how to enable smoother media playback in ExoPlayer by preloading content using new Media3 tools. Enhancing Note-Taking with Jetpack Compose henni99 introduces WriteBuddy, an open-source Jetpack Compose tool that enhances Android note-taking with features like movable sticky notes and interactive tools such as a laser pointer and tape for dynamic annotations. Debugging Coroutines in IntelliJ and Android Studio Amanda Hinchman shows how to debug Kotlin coroutines in IntelliJ and Android Studio using logging, VM options, and built-in GUI tools. Ultimate Guide for Creating Multi-tone Themed App Icons \u0026 Adaptive App icons Dinoy Raj explains how to design adaptive and themed Android app icons using layered vectors and a monochrome layer for Material You support. Vibe Coding, Kotlin, Finance, and Data Visualization Enrique López-Mañas explores the impact of random number generation methods on Monte Carlo simulations in Kotlin, demonstrating how using separate versus shared random generators can significantly alter long-term portfolio performance outcomes. runCatching vs. try-catch in Kotlin: A Comprehensive Error Handling Comparison Ioannis Anifantakis compares runCatching and try-catch in Kotlin, showing how runCatching enables cleaner and more consistent error handling. Adaptive Camera: Smooth Tabletop Mode with Animations Jolanda Verhoef demonstrates how to create a responsive camera UI in Jetpack Compose that smoothly transitions to tabletop mode on foldable devices using adaptive APIs, hinge-aware layout rulers, and the new animateBounds modifier. Prioritize media privacy with Android Photo Picker and build user trust Google outlines best practices for enhancing user trust on Google Play by minimizing data access, promoting the use of Android Photo Picker over broad media permissions, and encouraging clear in-app explanations for media access requests. Android Manifest file checklist Thomas Künneth offers a checklist for optimizing the AndroidManifest.xml in Compose Multiplatform projects to improve compatibility, appearance, and user experience. The curious case of a weird VerifyError crash Marco Gomiero details his debugging process for a crash after updating to AGP 8.7, ultimately tracing the issue to R8 removing delegated classes used in kotlin-datetime’s DateTimeFormat list. Performance Optimization in Jetpack Compose Ignacio Carrión shares strategies for optimizing Jetpack Compose performance by minimizing recompositions, using stable data, hoisting CompositionLocals, and leveraging profiling tools. Composition Over Inheritance: A Kotlin Perspective Ignacio Carrión advocates for using composition over inheritance in Kotlin to enhance flexibility, reduce coupling, and avoid issues like the diamond problem, using examples like UI component design and delegation. Navigating Kotlin Module Naming Conflicts Andrzej Zabost explains how the Android Gradle Plugin now prevents .kotlin_module file collisions, enabling cleaner module names in multi-module projects without risking build failures. Libraries \u0026 Code WriteBuddy Write smarter, smoother: A Compose-based handwriting assistant ✍️ News Bringing Fuzz Testing to Kotlin with kotlinx.fuzz JetBrains introduces kotlinx.fuzz, a Kotlin-specific fuzz testing framework that uncovers edge cases and bugs by generating random inputs, enhancing reliability in Kotlin libraries. Update on Context Parameters Alejandro Serrano Mena announces that Kotlin 2.2.0 introduces context parameters in Beta as a replacement for context receivers, with migration tools in IntelliJ IDEA 2025.1 and full deprecation of context receivers planned for version 2.3. ￼ Gemini in Android Studio for businesses: Develop with confidence, powered by AI Google introduces Gemini in Android Studio for businesses, offering enhanced privacy, security, and management features—including data governance, IP indemnification, and codebase-aware assistance—through Gemini Code Assist Standard and Enterprise subscriptions. Videos \u0026 Podcasts Android Devs Live Stream - 9-Apr-2025 Jov Mit's livestream coding session looking at: Animations In Compose, Transitions, Custom Layouts, Work Manager and Circuit (Compose-Driven Architecture). Freelancing as Mobile Dev vs. Full-time Job - Which Path Is Best For YOU? Philipp Lackner compares the freelance route with becoming an employee in four categories: Earnings potential, security, freedom and skill development. My 2025 Setup As a Software Engineer Daniel Atitienei guides readers through a personal setup, highlighting how time is spent and showcasing new accessories that make the room feel more homey. Kotlin 2.1.20 - Atomics, UUIDs, and more! - TypeAlias Show #6 The episode covers recent Kotlin and Android news, updates to the Kotlin Roadmap, new experimental Atomic types and UUID changes in the standard library, and the promotion of Clock and Instant from kotlinx.datetime. Announcing Gemini in Android Studio for businesses Gemini in Android Studio is ready for work! What are streaming callables? In this month's Firebase Release Notes video, dive into Firebase's streaming callables. Linting on the Side of Caution: Safety \u0026 Security Tor Norbye, Chet Haase, Romain Guy, Theresa Khuu, Naheed Vora take a deep dive backstage and discuss what’s new in the Android safety space. Specials Why I still podcast for Fragmented Kaushik Gopal reflects on a decade of hosting the Fragmented podcast, highlighting how listener feedback, personal learning, and connections within the Android community continue to motivate him, especially as the show transitions to a seasonal format following co-host Donn Felker’s departure. Events KotlinConf 2025, May 21–23, Copenhagen KotlinConf 2025, happening May 21–23, is the must-attend event for Kotlin developers, featuring hands-on workshops and 100+ talks on Multiplatform, Compose, coroutines, Ktor, Spring, functional programming, and more. Learn from experts at JetBrains, Google, AWS, and beyond—don’t miss this chance to level up your Kotlin skills and connect with the global community!",
+    "author": "",
+    "published": "Sun, 13 Apr 2025 11:46:38 +0000",
+    "image": "https://androidweekly.net/system/images/67fba3/633c93bc150a0059bf/square_aw.png",
+    "source": "https://androidweekly.net/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "7fb8e0cf-d3a1-4810-b89c-c0b474c221dd",
+    "title": "Android Weekly Issue #669",
+    "link": "https://androidweekly.net/issues/issue-669/rss.xml",
+    "description": "Articles \u0026 Tutorials Sponsored The hidden cost of mobile releases [report] Wasted time, delayed fixes, developer frustration. Mobile teams pay more than they realize for outdated release processes. Runway’s new report shares the real ROI of mobile release management — and what it can unlock for your org. Download the report. Introducing Metro Zac Sweers introduces Metro, a compile-time dependency injection framework inspired by Dagger, Anvil, and Kotlin-Inject, aiming to unify their best features into a cohesive solution implemented as a compiler plugin. Routines to Coroutines: How Kotlin Revolutionized Asynchronous Programming Ninad Bhase explains how Kotlin’s coroutines enhance asynchronous programming by introducing suspendable functions and non-blocking operations, enabling concurrent execution that overcomes the blocking limitations of traditional subroutines. Sponsored Advertise to more than 80k Android developers! We reach out to more than 80k Android developers around the world, every week, through our email newsletter and social media channels. Advertise your Android development related service or product! Generics in Kotlin Anthony provides an overview of generics in Kotlin, explaining their role in creating flexible and type-safe code, and delving into concepts such as type parameters, variance (including invariant, covariant, and contravariant types), and best practices for their use. Profile \u0026 Benchmark Android Builds Nika Chapidze outlines methods for analyzing and benchmarking Android build performance using tools like Android Studio’s Build Analyzer, Gradle’s profiling and scanning options, and the Gradle Profiler, providing insights into build durations and task execution times. Finding unnecessary Component Dependencies with Dagger SPI Danil Perevalov discusses utilizing Dagger’s SPI to identify and remove unused component dependencies in Android projects, thereby enhancing build efficiency and reducing unnecessary module interdependencies. Write Testable Time-Dependent Coroutine Code in Kotlin Omar Sahl explains how to write testable, time-dependent coroutine code in Kotlin by replacing System.currentTimeMillis() with a TestCoroutineScheduler-based time source, facilitating more reliable and controlled testing environments. Does Gemini Create Accessible Android Apps? Eevis Panula evaluates the accessibility of Android apps generated by Gemini, noting that the first version had issues like redundant content descriptions and non-scrollable screens, while the second version showed significant improvements, though some problems persisted. Custom Animations and Transitions in Jetpack Compose Ignacio Carrión explores creating custom animations and transitions in Jetpack Compose, discussing animation APIs, custom transitions, and performance optimization techniques. Understanding Dispatchers: Main and Main.immediate Shreyas Patil explains how Dispatchers.Main.immediate runs coroutines instantly on the main thread if possible, unlike Dispatchers.Main which always enqueues them. Libraries \u0026 Code Metro Metro is a compile-time dependency injection framework that draws heavy inspiration from Dagger, Anvil, and Kotlin-Inject. News Sponsored KotlinConf 2025, May 21–23, Copenhagen KotlinConf 2025, happening May 21–23, is the must-attend event for Kotlin developers, featuring hands-on workshops and 100+ talks on Multiplatform, Compose, coroutines, Ktor, Spring, functional programming, and more. Learn from experts at JetBrains, Google, AWS, and beyond—don’t miss this chance to level up your Kotlin skills and connect with the global community! Amper Update April 2025 – IDE and CLI Feature Drop! Amper 0.6.0 is out, with improvements to both the IDE and CLI experience. Read on for all of the details. Videos \u0026 Podcasts My Tech Stack I've Used To Build Apps 2025 Daniel Atitienei talks about what tech stack to use for building native mobile applications in 2025. Android 16 Features, Android Studio Meerkat, New APIs \u0026 More Philipp Lackner summarizes the most relevant news for Android \u0026 Kotlin developers, so you don't need to look it up yourself. No more Manual Koin Initialization - New Context Binding is Awesome! No more Manual Koin Initialization - New Context Binding is Awesome! Anatomy of the SDK Runtime Learn how the SDK Runtime enhances Android app and SDK security and privacy by isolating third party code. This video covers the architecture, communication, permissions, and new distribution model, with more details in the video series. Cloud Functions streaming, new Genkit features, and some App Hosting updates! Join Rosário Fernandes in the March 2025 edition of Firebase Release Notes. Watch along and learn about new features in Cloud Functions, server-side remote config for Python updates, Genkit updates, and more! Android Devs Live Stream - 2-Apr-2025 Jov Mit continues this Android development live stream with: automated end-to-end testing, design patterns: Bulder, Factory, Adapter, Facade, managing 3rd party library code \u0026 reusability, and more. Using Platform-Specific APIs in KMP Apps Learn the art and science of using the expect/actual mechanism to create great KMP applications. Enhancing app performance in Android Christopher Cartland is joined by Nam Nguyen, Software Engineer on Google Maps, and Carmen Jackson, Software Engineer on Android, to discuss how they optimize Android apps for performance. Validating RSS feeds (but what does “valid” even mean?) with Marco Gomiero Code with the Italians and explore the gray area of RSS feed validation with Marco Gomiero. Spoiler: it’s all chaos!",
+    "author": "",
+    "published": "Sun, 06 Apr 2025 11:21:58 +0000",
+    "image": "https://androidweekly.net/system/images/67f262/a23c93bc0e0c006f7a/square_ROI_COVER_-_square__3_.png",
+    "source": "https://androidweekly.net/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "ef2c8cfa-d57a-4b55-abcd-66893153f7e5",
+    "title": "JetBrains IDEs Go AI: Coding Agent, Smarter Assistance, Free Tier",
+    "link": "https://blog.jetbrains.com/blog/2025/04/16/jetbrains-ides-go-ai/",
+    "description": "All JetBrains AI tools – including our improved AI Assistant and new coding agent Junie – are now available within our IDEs under a single subscription and come with a free tier. Ever since we started, more than 25 years ago, our aim has been to make developers more productive and to bring more joy […]",
+    "author": "Kirill Skrygan",
+    "published": "Wed, 16 Apr 2025 12:01:14 +0000",
+    "image": "",
+    "source": "https://blog.jetbrains.com/blog/feed",
+    "categories": [
+      "news",
+      "ai-assistant",
+      "jetbrains-ai",
+      "junie"
+    ]
+  },
+  {
+    "id": "10138e03-1cab-4088-a398-4d840133225c",
+    "title": "Meet the JetBrains Team at GDC 2025",
+    "link": "https://blog.jetbrains.com/blog/2025/03/14/jetbrains-meets-gdc-2025/",
+    "description": "From March 17–21, 2025, the Game Developers Conference (GDC) will bring together professionals from across the game industry at the Moscone Center in San Francisco. JetBrains is excited to once again be part of this event, and we invite you to visit our booth to explore how our tools can enhance your game development workflow. […]",
+    "author": "Anna Ruban",
+    "published": "Fri, 14 Mar 2025 10:05:00 +0000",
+    "image": "https://blog.jetbrains.com/wp-content/uploads/2025/03/Plan-1920-1080.png",
+    "source": "https://blog.jetbrains.com/blog/feed",
+    "categories": [
+      "net-tools",
+      "events",
+      "qodana",
+      "teamcity-2",
+      "youtrack",
+      "conference",
+      "game-developer-conference",
+      "gamedev",
+      "gdc",
+      "rider",
+      "teamcity"
+    ]
+  },
+  {
+    "id": "093978c0-fbaa-4f6b-a9c2-8e237ff505ef",
+    "title": "Migrating Kotlin Plugins to K2 Mode",
+    "link": "https://www.youtube.com/watch?v=HDyWQLNMJQ8",
+    "description": "",
+    "author": "IntelliJ IDEA, a JetBrains IDE",
+    "published": "2024-10-03T08:08:03+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy",
+    "categories": null
+  },
+  {
+    "id": "3e7926c9-1768-4d54-a9fb-6810dda69cc5",
+    "title": "Building Web Applications With Vaadin and the Kotlin DSL",
+    "link": "https://www.youtube.com/watch?v=7jafQyCW07w",
+    "description": "",
+    "author": "Kotlin by JetBrains",
+    "published": "2024-03-21T05:13:56+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy",
+    "categories": null
+  },
+  {
+    "id": "11f2f9e2-eb32-44b9-bcf5-ff148deafb9e",
+    "title": "Running Specific Android UI Tests using TestParameterInjector via a Regex",
+    "link": "https://handstandsam.com/2025/01/15/running-specific-android-ui-tests-using-testparameterinjector-via-a-regex/",
+    "description": "There is documentation on the Android Developer website sharing tips to run Android UI tests via the command-line which I’ve found super useful. It provides examples on how to run specific tests (instead of running them all) including running by package, class or method. This documentation is fantastic, but it doesn’t include the tests_regex argument […]",
+    "author": "Sam Edwards",
+    "published": "Wed, 15 Jan 2025 14:49:13 +0000",
+    "image": "https://handstandsam.com/wp-content/uploads/2025/01/Screenshot-2025-01-15-at-8.43.34 AM-1024x983.png",
+    "source": "https://handstandsam.com/feed/",
+    "categories": [
+      "Updates"
+    ]
+  },
+  {
+    "id": "c5a3ad68-e35c-42e7-826a-c638b1ea2a89",
+    "title": "LLM Based Android UI Testing – “Journeys with Gemini”",
+    "link": "https://handstandsam.com/2024/12/09/llm-based-android-ui-testing-journeys-with-gemini/",
+    "description": "What Do We Know About “Journeys With Gemini”? “Journeys with Gemini” was first (to my knowledge) discussed publicly at Droidcon London during a segment of #TheAndroidShow by Tor Norbye of the Android Studio team. We saw a sneak peek of a new way to write UI tests for Android using Google’s Gemini (AI Model) that […]",
+    "author": "Sam Edwards",
+    "published": "Mon, 09 Dec 2024 15:17:57 +0000",
+    "image": "https://handstandsam.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-9.34.09 AM-974x1024.png",
+    "source": "https://handstandsam.com/feed/",
+    "categories": [
+      "Updates"
+    ]
+  },
+  {
+    "id": "eafd7112-62dd-4442-8307-0163da0db3b3",
+    "title": "Safely accessing lateinit variables",
+    "link": "https://okkotlin.com/lateinits/",
+    "description": "Kotlin, by design, doesn't allow a non-null variable to be left uninitialised during its declaration. To get past this issue, Kotlin's…",
+    "author": "",
+    "published": "Sun, 29 Dec 2019 00:00:00 GMT",
+    "image": "/static/859e64adb6dfef9b22ec0e67fda55294/dbb61/lateinits-sketch-note.png",
+    "source": "https://okkotlin.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "effb4920-aca4-4ff4-ad24-c35d88a4fbe9",
+    "title": "Uniform list access with subscripts",
+    "link": "https://okkotlin.com/subscripts/",
+    "description": "Accessing values from an array using subscripts is a light and easy way to fetch list data. Kotlin brought uniformity in data access across…",
+    "author": "",
+    "published": "Sun, 22 Dec 2019 00:00:00 GMT",
+    "image": "/static/bb2356b02762b1fe4a354d7e9784a4de/dbb61/subscripts-access.png",
+    "source": "https://okkotlin.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "3cd82847-4bfe-48cd-9413-8b07cdcb2ff6",
+    "title": "Making Android Code Cleaner with Use Cases: A Practical Approach Using Kotlin Coroutines",
+    "link": "https://proandroiddev.com/making-android-code-cleaner-with-use-cases-a-practical-approach-using-kotlin-coroutines-2700e724c4fd?source=rss----c72404660798---4",
+    "description": "",
+    "author": "Siarhei Krupenich",
+    "published": "Thu, 17 Apr 2025 13:53:54 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*eVj9Vuqq31RUWd2y",
+    "source": "https://proandroiddev.com/feed",
+    "categories": [
+      "androiddev",
+      "android-app-development",
+      "use-cases",
+      "kotlin-coroutines",
+      "android"
+    ]
+  },
+  {
+    "id": "563ee0a0-e886-4dce-b36f-e4a984e39a25",
+    "title": "Getting Started with Material Design 3 in Jetpack Compose",
+    "link": "https://proandroiddev.com/getting-started-with-material-design-3-in-jetpack-compose-e2e6db2b9fce?source=rss----c72404660798---4",
+    "description": "",
+    "author": "Mubarak Native",
+    "published": "Thu, 17 Apr 2025 13:36:41 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*a-qJK7BMHy55qFN1",
+    "source": "https://proandroiddev.com/feed",
+    "categories": [
+      "jetpack-compose",
+      "android-app-development",
+      "androiddev",
+      "androïd",
+      "material-design"
+    ]
+  },
+  {
+    "id": "7b4594c4-5ca3-4ce9-b365-46da765682e6",
+    "title": "Maps in Jetpack Compose — A beginner’s guide",
+    "link": "https://blog.kotlin-academy.com/maps-in-jetpack-compose-a-beginners-guide-a7f01e1c3ff4?source=rss----e57b304801ef---4",
+    "description": "",
+    "author": "Anitaa Murthy",
+    "published": "Tue, 15 Apr 2025 07:50:52 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*2Ucu6UxZ2BzAvs3BGym_nw.png",
+    "source": "https://blog.kotlin-academy.com/feed",
+    "categories": [
+      "android",
+      "maps",
+      "kotlin",
+      "androiddev",
+      "jetpack-compose"
+    ]
+  },
+  {
+    "id": "ce4da952-4f17-47cf-b2a9-fb24a73b2a56",
+    "title": "Hello Kotliners!",
+    "link": "https://blog.kotlin-academy.com/hello-kotliners-55a268484042?source=rss----e57b304801ef---4",
+    "description": "",
+    "author": "Halina Kt Academy",
+    "published": "Mon, 03 Mar 2025 08:02:43 GMT",
+    "image": "https://cdn-images-1.medium.com/max/981/0*jhAegPwvfco9MgDW.png",
+    "source": "https://blog.kotlin-academy.com/feed",
+    "categories": [
+      "jetpack",
+      "kotlin-multiplatform",
+      "kotlin",
+      "kotlin-coroutines",
+      "jetpack-compose"
+    ]
+  },
+  {
+    "id": "2065c873-2d04-423e-86da-ed54f1601885",
+    "title": "EasyCameraAndGallery",
+    "link": "https://android-arsenal.com/details/1/8492",
+    "description": "An easy implementation for the use of the camera and gallery, customized according to your needs.",
+    "author": "",
+    "published": "Mon, 01 Apr 2024 04:57:33 +0300",
+    "image": "https://raw.githubusercontent.com/AlfredoHdez1709/EasyCameraAndGallery/master/media/image_004.jpeg",
+    "source": "https://feeds.feedburner.com/Android_Arsenal",
+    "categories": null
+  },
+  {
+    "id": "c93176de-b018-4b82-9619-154f36233341",
+    "title": "SimpleCamera",
+    "link": "https://android-arsenal.com/details/1/8491",
+    "description": "Simple Camera is a library that allows you to use cameras in a simplified, easy, fast and effective way. It contains CameraX as an internal library. It simplifies the camera features used by CameraX and provides ease of use with a single library. As updates come on the CameraX side, the library will try to stay up to date. Missing features will be added soon. Like video capturing.",
+    "author": "",
+    "published": "Sun, 31 Mar 2024 12:23:39 +0300",
+    "image": "https://avatars.githubusercontent.com/u/71823127?v=4",
+    "source": "https://feeds.feedburner.com/Android_Arsenal",
+    "categories": null
+  },
+  {
+    "id": "92270475-8fac-411e-b3a6-8820bb8a0d2f",
+    "title": "Introducing Metro",
+    "link": "https://www.zacsweers.dev/introducing-metro/",
+    "description": "I'm excited to share something new I've been working on the past few months!",
+    "author": "Zac Sweers",
+    "published": "Thu, 03 Apr 2025 16:14:23 GMT",
+    "image": "https://www.zacsweers.dev/content/images/2025/03/metro2.png",
+    "source": "https://www.zacsweers.dev/rss/",
+    "categories": [
+      "Metro",
+      "Kotlin",
+      "Dependency Injection",
+      "Anvil",
+      "Dagger"
+    ]
+  },
+  {
+    "id": "557e0ae6-8e37-4437-b454-de88375d2855",
+    "title": "One Last View of Mom",
+    "link": "https://www.zacsweers.dev/one-last-view-of-mom/",
+    "description": "We said goodbye to mom in May after a five year battle with cancer. She left on her own terms, under the care of the wonderful University of Vermont hospice network and Act 39. The day mom passed, my dad and sister asked me to stay with her after she",
+    "author": "Zac Sweers",
+    "published": "Mon, 17 Feb 2025 20:06:38 GMT",
+    "image": "https://www.zacsweers.dev/content/images/2025/02/IMG_3732-1.png",
+    "source": "https://www.zacsweers.dev/rss/",
+    "categories": null
+  },
+  {
+    "id": "4e61c2fb-532b-4c92-8e6f-0f8316dbd76e",
+    "title": "Lint Revisit: Providing Alternatives 🧙‍♀️",
+    "link": "https://zarah.dev/2024/07/24/lintfix-alternatives.html",
+    "description": "In my previous post, we updated our TODO Detector to be more flexible. It is also easily extensible so that if we want to include more parameters or perhaps add more checks, we can follow the existing pattern and modify it.",
+    "author": "Zarah Dominguez",
+    "published": "2024-07-24T00:00:00+00:00",
+    "image": "",
+    "source": "https://zarah.dev/feed.xml",
+    "categories": [
+      "android",
+      "lint"
+    ]
+  },
+  {
+    "id": "23004588-a81a-482c-b853-a0c70aee1381",
+    "title": "Lint Revisit: TODO Detector v2",
+    "link": "https://zarah.dev/2024/07/22/todo-detector-v2.html",
+    "description": "A few years ago, I wrote about writing a Lint rule to validate the format of TODO comments. Whilst I find that Lint is still difficult to grok, I have since learnt a little bit more that I feel a revisit of this rule is warranted.",
+    "author": "Zarah Dominguez",
+    "published": "2024-07-22T00:00:00+00:00",
+    "image": "",
+    "source": "https://zarah.dev/feed.xml",
+    "categories": [
+      "android",
+      "lint"
+    ]
+  },
+  {
+    "id": "3bc69994-7eaf-4690-a94d-8b040888b314",
+    "title": "Exploring Jetpack Compose: SearchBar",
+    "link": "https://joebirch.co/android/exploring-the-searchbar-composable/",
+    "description": "The ability to search for content within an app is a common feature, in fact, you’ll find it somewhere within most applications on your device. On Android, a common UI component we see for this functionality is a floating search bar, placed in a prominent part of the screen. In some cases, this also provides... Continue reading →",
+    "author": "hitherejoe",
+    "published": "Thu, 20 Mar 2025 08:43:26 +0000",
+    "image": "",
+    "source": "https://joebirch.co/feed",
+    "categories": [
+      "Android",
+      "Jetpack Compose",
+      "Android App Development",
+      "Android Development",
+      "AndroidDev",
+      "App Development",
+      "Mobile App Development"
+    ]
+  },
+  {
+    "id": "43e52071-cba4-4fbe-ade7-ae29b213f676",
+    "title": "Migrating to the Compose PullToRefreshBox",
+    "link": "https://joebirch.co/android/migrating-to-the-compose-pulltorefreshbox/",
+    "description": "Pull to Refresh is a common pattern we find across mobile apps – it allows our users to refresh the content of screen in a single swipe. Jetpack Compose has provided support for this for some time, through the pullRefresh modifier. In your code, this would look something like the following: While this was great... Continue reading →",
+    "author": "hitherejoe",
+    "published": "Fri, 31 Jan 2025 11:43:55 +0000",
+    "image": "",
+    "source": "https://joebirch.co/feed",
+    "categories": [
+      "Android",
+      "Jetpack Compose",
+      "Android App Development",
+      "Android Apps",
+      "Android Development",
+      "AndroidDev",
+      "App Development",
+      "jetpack compose",
+      "jetpackcompose",
+      "Material Design",
+      "Mobile App Development"
+    ]
+  },
+  {
+    "id": "3f312a9a-f88e-4886-be3c-6a7b29cc7698",
+    "title": "droidcon NYC 2018 - The State of the Kotlin ecosystem",
+    "link": "https://www.youtube.com/watch?v=0i_1wpuAl9w",
+    "description": "",
+    "author": "droidcon NYC",
+    "published": "2018-10-17T17:14:00+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSLXy31j2Z0sdDeeAX5JpPw",
+    "categories": null
+  },
+  {
+    "id": "eddeedc9-f572-4a9d-992e-ee3bf9d03f4b",
+    "title": "droidcon NYC 2018 - Slice It Up: Driving the user engagement outside your app",
+    "link": "https://www.youtube.com/watch?v=5VPUjy79y10",
+    "description": "",
+    "author": "droidcon NYC",
+    "published": "2018-10-17T17:14:00+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSLXy31j2Z0sdDeeAX5JpPw",
+    "categories": null
+  },
+  {
+    "id": "102f4ae6-2ffb-4c1d-8f31-e7e30980986d",
+    "title": "Droidcon SF 2018 - highlight video",
+    "link": "https://www.youtube.com/watch?v=1Iz-bApOP5w",
+    "description": "",
+    "author": "droidcon SF",
+    "published": "2018-12-10T19:30:53+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg",
+    "categories": null
+  },
+  {
+    "id": "dd9add32-9752-41ec-8df2-35ea96aefbad",
+    "title": "droidcon SF 2018 - Improving Android Build performance",
+    "link": "https://www.youtube.com/watch?v=XZFnuFUMT7w",
+    "description": "",
+    "author": "droidcon SF",
+    "published": "2018-12-01T22:11:39+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg",
+    "categories": null
+  },
+  {
+    "id": "9667592d-fc72-4feb-9bdc-e6a358e57886",
+    "title": "UIViewPropertyAnimator is Too Cute",
+    "link": "https://publicobject.com/2025/01/26/uiviewpropertyanimator/",
+    "description": "I was using the old UIView APIs when I found some code that broke my brain. Here’s Swift code to animates a UIButton from opaque to transparent over one second.let button = ... let animateOut = UIViewPropertyAnimator(duration: 1.0, curve: .easeInOut) { print(\"2 alpha=\\(button.alpha)\") button.alpha = 0.0",
+    "author": "Jesse Wilson",
+    "published": "Sun, 26 Jan 2025 21:04:55 GMT",
+    "image": "",
+    "source": "https://publicobject.com/rss/",
+    "categories": null
+  },
+  {
+    "id": "234dc6fa-3ee3-42ce-87e0-ada5d0c30240",
+    "title": "Try Something Simpler",
+    "link": "https://publicobject.com/2025/01/05/try-something-simpler/",
+    "description": "The late Joe Armstrong had a great rule for error handling that stuck with me.‘If you can’t do what you want to do try to do something simpler’I was thinking about this recently. I was writing code to embed resource files in an iOS application binary. Here’",
+    "author": "Jesse Wilson",
+    "published": "Sun, 05 Jan 2025 05:38:25 GMT",
+    "image": "",
+    "source": "https://publicobject.com/rss/",
+    "categories": null
+  },
+  {
+    "id": "08913c49-d413-4c97-b230-e361a21b2088",
+    "title": "UseCases: Injectable Functions",
+    "link": "https://chrynan.codes/usecases-injectable-functions/",
+    "description": "This post demystifies use cases: they’re just functions with dependency injection. Single-purpose classes that simplify complex logic by letting DI handle dependencies, making code cleaner and testable.",
+    "author": "Chris Keenan",
+    "published": "Wed, 19 Mar 2025 22:59:19 GMT",
+    "image": "https://cdn.getmidnight.com/26ffcef53c44522efbfe7fef964a4058/2025/03/img-4.png",
+    "source": "https://chrynan.codes/rss/",
+    "categories": [
+      "kotlin",
+      "usecase",
+      "dependency injection",
+      "dependency-injection",
+      "abstraction",
+      "soc",
+      "dry",
+      "clean-architecture",
+      "architecture",
+      "design-patterns"
+    ]
+  },
+  {
+    "id": "979fe8e6-46a5-421f-aeee-c852e02436ea",
+    "title": "Modularizing with Intent: Finding the Right Module Naming Convention",
+    "link": "https://chrynan.codes/modularizing-with-intent-finding-the-right-module-naming-convention/",
+    "description": "Kotlin module naming convention: [group-]domain-layer[-contexts]. Flat, flexible, KMP-friendly—read on!",
+    "author": "Chris Keenan",
+    "published": "Wed, 19 Mar 2025 16:05:10 GMT",
+    "image": "https://cdn.getmidnight.com/26ffcef53c44522efbfe7fef964a4058/2025/03/img-2.png",
+    "source": "https://chrynan.codes/rss/",
+    "categories": [
+      "kotlin",
+      "gradle",
+      "module",
+      "naming",
+      "convention",
+      "conventions",
+      "kmp",
+      "structure",
+      "organization",
+      "code"
+    ]
+  },
+  {
+    "id": "4160a268-fcd3-4f4e-8db3-f297a9a26aa8",
+    "title": "The pursuit of fast feedback loops",
+    "link": "https://saket.me/fast-feedback-loops/",
+    "description": "Sebastian Sellmair from JetBrains recently showed off a prototype of hot-reloading Compose UI code for deploying changes without rebuilding the project. It looks exciting and I want it to succeed. At the same time, I’ve learned to be cautiously optimistic about hot-reload solutions. The dream of hot-reloadable android code is old — and frankly, cold. […] The post The pursuit of fast feedback loops appeared first on Saket Narayan.",
+    "author": "Saket Narayan",
+    "published": "Wed, 27 Nov 2024 17:46:56 +0000",
+    "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f525.png",
+    "source": "https://saket.me/feed/",
+    "categories": [
+      "Android"
+    ]
+  },
+  {
+    "id": "4e26f686-b2cc-43a6-8593-3eb64ee0b32f",
+    "title": "Building a sub-sampling image viewer for Compose UI",
+    "link": "https://saket.me/compose-sub-sampling-image-viewer/",
+    "description": "How do you display a 100mb image on Android without running into OutOfMemoryError? You can’t. But you can cheat. For years Android developers have used Dave Morrissey’s excellent library, subsampling-scale-image-view for displaying large bitmaps with deep zoom. It optimizes memory usage by loading lower resolution bitmaps whenever possible and avoiding loading parts of the original […] The post Building a sub-sampling image viewer for Compose UI appeared first on Saket Narayan.",
+    "author": "Saket Narayan",
+    "published": "Wed, 09 Aug 2023 21:07:52 +0000",
+    "image": "https://saket.me/wp-content/uploads/2023/08/sampled_vs_non_samped.jpg",
+    "source": "https://saket.me/feed/",
+    "categories": [
+      "Android"
+    ]
+  },
+  {
+    "id": "b416eaa1-bf52-4035-815f-846861413846",
+    "title": "Ông Trùm Bắn Cá 88Bet: Thế Giới Biển Sâu Vô Cùng Hấp Dẫn",
+    "link": "https://goobar.io/ong-trum-ban-ca-88bet-the-gioi-bien-sau/",
+    "description": "Bước vào thế giới biển sâu của Ông Trùm Bắn Cá 88Bet, nơi bạn không chỉ giải trí mà còn có cơ hội săn phần thưởng hấp dẫn. Với đồ họa đỉnh cao và lối chơi cuốn hút, đây là sân chơi lý tưởng cho mọi game thủ yêu thích thử thách dưới đại dương. [...]",
+    "author": "Nguyễn Quang Linh",
+    "published": "Sat, 25 Jan 2025 09:08:24 +0000",
+    "image": "https://goobar.io/wp-content/uploads/2025/01/ong-trum-ban-ca-1.webp",
+    "source": "https://goobar.io/feed",
+    "categories": [
+      "Bắn cá"
+    ]
+  },
+  {
+    "id": "54ebd137-5437-491e-8cb1-b32bbe2ee360",
+    "title": "Câu Cá Phát Tài 88Bet: Giải Trí Vui Nhộn, Kiếm Tiền Thật",
+    "link": "https://goobar.io/cau-ca-phat-tai-88bet-giai-tri-vui-nhon/",
+    "description": "Câu Cá Phát Tài tại 88Bet là trò chơi giải trí hấp dẫn, kết hợp giữa yếu tố vui nhộn và cơ hội kiếm tiền thật. Với giao diện bắt mắt và phần thưởng giá trị, đây là sân chơi không thể bỏ qua cho những ai đam mê thử vận may và kỹ năng. [...]",
+    "author": "Nguyễn Quang Linh",
+    "published": "Sat, 25 Jan 2025 08:58:07 +0000",
+    "image": "https://goobar.io/wp-content/uploads/2025/01/cau-ca-phat-tai-1.webp",
+    "source": "https://goobar.io/feed",
+    "categories": [
+      "Bắn cá"
+    ]
+  }
+]
