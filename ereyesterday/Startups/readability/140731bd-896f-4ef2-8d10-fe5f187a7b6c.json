@@ -1,0 +1,21 @@
+{
+  "id": "140731bd-896f-4ef2-8d10-fe5f187a7b6c",
+  "title": "Hypertext TV",
+  "link": "https://hypertext.tv/",
+  "description": "Article URL: https://hypertext.tv/ Comments URL: https://news.ycombinator.com/item?id=43732805 Points: 48 # Comments: 6",
+  "author": "coloneltcb",
+  "published": "Fri, 18 Apr 2025 23:29:04 +0000",
+  "source": "https://hnrss.org/frontpage",
+  "categories": null,
+  "byline": "",
+  "length": 110,
+  "excerpt": "Daily programming for the handmade web. Airing now.",
+  "siteName": "",
+  "favicon": "",
+  "text": "Brightness Color Tint Horizontal Vertical TV Guide Testing Credits Add a website Report an issue",
+  "image": "/assets/og.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv role=\"menu\" aria-label=\"Menu Options\" data-astro-cid-2j44jlrm=\"\" id=\"menu\" data-open=\"false\"\u003e  \u003chr data-astro-cid-2j44jlrm=\"\"/\u003e \u003cp\u003e \u003clabel role=\"menuitem\" tabindex=\"-1\" data-astro-cid-2j44jlrm=\"\"\u003e \u003cspan data-astro-cid-2j44jlrm=\"\"\u003eBrightness\u003c/span\u003e  \u003c/label\u003e \u003clabel role=\"menuitem\" tabindex=\"-1\" data-astro-cid-2j44jlrm=\"\"\u003e \u003cspan data-astro-cid-2j44jlrm=\"\"\u003eColor\u003c/span\u003e  \u003c/label\u003e \u003clabel role=\"menuitem\" tabindex=\"-1\" data-astro-cid-2j44jlrm=\"\"\u003e \u003cspan data-astro-cid-2j44jlrm=\"\"\u003eTint\u003c/span\u003e  \u003c/label\u003e \u003clabel role=\"menuitem\" tabindex=\"-1\" data-astro-cid-2j44jlrm=\"\"\u003e \u003cspan data-astro-cid-2j44jlrm=\"\"\u003eHorizontal\u003c/span\u003e  \u003c/label\u003e \u003clabel role=\"menuitem\" tabindex=\"-1\" data-astro-cid-2j44jlrm=\"\"\u003e \u003cspan data-astro-cid-2j44jlrm=\"\"\u003eVertical\u003c/span\u003e  \u003c/label\u003e\u003c/p\u003e\u003chr data-astro-cid-2j44jlrm=\"\"/\u003e \u003cp\u003e\u003ca href=\"https://hypertext.tv/\" role=\"menuitem\" tabindex=\"-1\" onclick=\"fathom.trackEvent(\u0026#39;menu: click tv guide\u0026#39;)\" data-astro-cid-2j44jlrm=\"\"\u003eTV Guide\u003c/a\u003e \u003ca href=\"https://hypertext.tv/test\" role=\"menuitem\" tabindex=\"-1\" onclick=\"fathom.trackEvent(\u0026#39;menu: click testing\u0026#39;)\" data-astro-cid-2j44jlrm=\"\"\u003eTesting\u003c/a\u003e \u003ca href=\"https://hypertext.tv/credits\" role=\"menuitem\" tabindex=\"-1\" onclick=\"fathom.trackEvent(\u0026#39;menu: click credits\u0026#39;)\" data-astro-cid-2j44jlrm=\"\"\u003eCredits\u003c/a\u003e\u003c/p\u003e\u003chr data-astro-cid-2j44jlrm=\"\"/\u003e \u003cp\u003e\u003ca href=\"https://github.com/evadecker/hypertext.tv\" role=\"menuitem\" tabindex=\"-1\" onclick=\"fathom.trackEvent(\u0026#39;menu: click add website\u0026#39;)\" data-astro-cid-2j44jlrm=\"\"\u003eAdd a website\u003c/a\u003e \u003ca href=\"https://github.com/evadecker/hypertext.tv/issues\" role=\"menuitem\" tabindex=\"-1\" onclick=\"fathom.trackEvent(\u0026#39;menu: click report issue\u0026#39;)\" data-astro-cid-2j44jlrm=\"\"\u003eReport an issue\u003c/a\u003e\u003c/p\u003e\u003chr data-astro-cid-2j44jlrm=\"\"/\u003e \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

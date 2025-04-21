@@ -1,0 +1,23 @@
+{
+  "id": "e91e04e7-94d9-41fd-917b-19bb9dbd2310",
+  "title": "How we’re helping Google Play developers deliver better user experiences through improved performance insights.",
+  "link": "https://blog.google/products/google-play/updates-google-play-console-developers/",
+  "description": "We're sharing the latest Google Play Console updates that make it easier for developers to gain actionable performance insights and deliver better user experiences. High…",
+  "author": "Kobi GluckDirector of Product Management, Google Play",
+  "published": "Fri, 18 Apr 2025 20:30:00 +0000",
+  "source": "https://www.blog.google/rss/",
+  "categories": [
+    "Google Play"
+  ],
+  "byline": "Kobi Gluck",
+  "length": 450,
+  "excerpt": "We're sharing the latest Google Play Console updates that make it easier for developers to gain actionable performance insights and deliver better user experiences. Highlights include:A redesigned app dashboard that puts important metrics front and centerNew pre-review checks and Android vitals quality metrics, including an excessive wake locks metric that identifies potential battery drain issuesYou can learn more on the Android Developers Blog.",
+  "siteName": "Google",
+  "favicon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20250415-2003",
+  "text": "We're sharing the latest Google Play Console updates that make it easier for developers to gain actionable performance insights and deliver better user experiences. Highlights include:A redesigned app dashboard that puts important metrics front and centerNew pre-review checks and Android vitals quality metrics, including an excessive wake locks metric that identifies potential battery drain issuesYou can learn more on the Android Developers Blog.",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google-Play-Banner-16x91x.max-1440x810.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv slot=\"uni-short-post-description-slot\"\u003e\u003cp data-block-key=\"wez0o\"\u003eWe\u0026#39;re sharing the latest Google Play Console updates that make it easier for developers to gain actionable performance insights and deliver better user experiences. Highlights include:\u003c/p\u003e\u003cul\u003e\u003cli data-block-key=\"inpe\"\u003eA redesigned app dashboard that puts important metrics front and center\u003c/li\u003e\u003cli data-block-key=\"4irvc\"\u003eNew pre-review checks and Android vitals quality metrics, including an excessive wake locks metric that identifies potential battery drain issues\u003c/li\u003e\u003c/ul\u003e\u003cp data-block-key=\"2jl5q\"\u003eYou can learn more on the \u003ca href=\"https://android-developers.googleblog.com/2025/04/play-console-insights.html\"\u003eAndroid Developers Blog\u003c/a\u003e.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-04-18T20:30:00Z",
+  "modifiedTime": null
+}
