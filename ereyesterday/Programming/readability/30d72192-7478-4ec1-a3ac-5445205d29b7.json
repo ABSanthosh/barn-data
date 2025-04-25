@@ -1,0 +1,27 @@
+{
+  "id": "30d72192-7478-4ec1-a3ac-5445205d29b7",
+  "title": "Visually orchestrating data diagnostics but platform agnostic",
+  "link": "https://stackoverflow.blog/2025/04/22/visually-orchestrating-data-diagnostics-but-platform-agnostic/",
+  "description": "Ryan chats with Dataiku CEO and cofounder Florian Douetteau about the complexities of the genAI data stack and how his company is orchestrating it.",
+  "author": "Ryan Donovan",
+  "published": "Tue, 22 Apr 2025 04:48:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "podcast",
+    "generative-ai",
+    "data",
+    "se-stackoverflow",
+    "se-tech"
+  ],
+  "byline": "Ryan Donovan",
+  "length": 819,
+  "excerpt": "Ryan chats with Dataiku CEO and cofounder Florian Douetteau about the complexities of the genAI data stack and how his company is orchestrating it.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "April 22, 2025Ryan chats with Dataiku CEO and cofounder Florian Douetteau about the complexities of the genAI data stack and how his company is orchestrating it. In another conversation recording at HumanX, Ryan chats with Dataiku CEO and cofounder Florian Douetteau about the complexities of the genAI data stack and how his company is orchestrating it. They cover the early days of data science hype, the importance of the basics to enterprise genAI programs, and why a guy who coded his own garbage collector back in the day created a no-code/low-code pipeline tool.Episode notes:Dataiku orchestrates data stacks and lets you create analytics, models, and agents.Find Florian on LinkedIn.This episode was recorded at HumanX last month. Next year’s conference will be April 6-9, 2026 in San Francisco. Register today!",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle itemscope=\"\" itemtype=\"https://schema.org/Article\"\u003e\u003cheader\u003e\u003ctime datetime=\"2025-04-22T04:48:00.000Z\" itemprop=\"datePublished\"\u003e April 22, 2025\u003c/time\u003e\u003cp itemprop=\"abstract\"\u003eRyan chats with Dataiku CEO and cofounder Florian Douetteau about the complexities of the genAI data stack and how his company is orchestrating it. \u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026amp;h=630\u0026amp;auto=format\u0026amp;dpr=2\" width=\"1200\" height=\"630\" alt=\"Article hero image\" itemprop=\"image\"/\u003e\u003c/figure\u003e\u003c/header\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003eIn another conversation recording at HumanX, Ryan chats with Dataiku CEO and cofounder Florian Douetteau about the complexities of the genAI data stack and how his company is orchestrating it. They cover the early days of data science hype, the importance of the basics to enterprise genAI programs, and why a guy who coded his own garbage collector back in the day created a no-code/low-code pipeline tool.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEpisode notes:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.dataiku.com/\"\u003eDataiku\u003c/a\u003e orchestrates data stacks and lets you create analytics, models, and agents.\u003c/p\u003e\u003cp\u003eFind Florian on \u003ca href=\"https://www.linkedin.com/in/fdouetteau/\"\u003eLinkedIn\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eThis episode was recorded at \u003ca href=\"https://www.humanx.co/\"\u003eHumanX\u003c/a\u003e last month. Next year’s conference will be April 6-9, 2026 in San Francisco. \u003ca href=\"https://www.humanx.co/early-bird\"\u003eRegister today\u003c/a\u003e!\u003c/p\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
