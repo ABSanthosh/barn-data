@@ -1,0 +1,21 @@
+{
+  "id": "d0aec104-42a5-417b-bc13-2b1c4c8716a3",
+  "title": "You wouldn't steal a font",
+  "link": "https://fedi.rib.gay/notes/a6xqityngfubsz0f",
+  "description": "Comments",
+  "author": "",
+  "published": "Wed, 23 Apr 2025 19:42:36 +0000",
+  "source": "https://news.ycombinator.com/rss",
+  "categories": null,
+  "byline": "",
+  "length": 10,
+  "excerpt": "Today Melissa Lewis over on BlueSky pointed out that the font used in the infamous \"You wouldn't steal a car\" anti-piracy campaign was actually designed by Just van Rossum, whose brother, Guido, created the Python programming language (https://bsky.app/profile/melissa.news/post/3ln7hx5rhcj2v) She also pointed out that the font had been cloned and released illegally for free under the name \"XBAND Rough\". Naturally, it would be hilarious if the anti-piracy campaign actually turned out to have used this pirated font, so I went sleuthing and quickly found a PDF from the campaign site with the font embedded (https://web.archive.org/web/20051223202935/http://www.piracyisacrime.com:80/press/pdfs/150605_8PP_brochure.pdf). So I chucked it into FontForge and yep, turns out the campaign used a pirated font the entire time! 📎",
+  "siteName": "fedi.rib.gay",
+  "favicon": "https://fedi.rib.gay/apple-touch-icon.png?1745457235808",
+  "text": "Loading...",
+  "image": "https://fedi.rib.gay/files/64c03b12-ca4c-4ee9-8428-fd40f0ead029",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"splash\"\u003e\u003cp\u003e\u003cimg id=\"splashIcon\" src=\"https://fedi.rib.gay/static-assets/splash.png?1745457235808\"/\u003e\u003cspan id=\"splashText\"\u003eLoading...\u003c/span\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
