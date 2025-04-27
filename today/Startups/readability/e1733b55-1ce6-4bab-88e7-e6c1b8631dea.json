@@ -1,0 +1,21 @@
+{
+  "id": "e1733b55-1ce6-4bab-88e7-e6c1b8631dea",
+  "title": "Path is a utility for working with paths",
+  "link": "https://gitlab.com/SpyrjaGaldr/path",
+  "description": "A recent post here got me thinking about my own personal gripes with OS path handling offerings. So I've basically spent the passed couple of days working on a little project in an attempt to rectify the situation somewhat (in the spirit of cross-platform development). It should also work pretty well with existing tools. Let me know what you think, and feel free to open an issue or a pull-request if you have any problems getting it running it on your system. Enjoy!https://simonsafar.com/2025/path_as_system_call/https://news.ycombinator.com/item?id=43788728 Comments URL: https://news.ycombinator.com/item?id=43808428 Points: 4 # Comments: 0",
+  "author": "spyrja",
+  "published": "Sun, 27 Apr 2025 00:27:50 +0000",
+  "source": "https://hnrss.org/frontpage",
+  "categories": null,
+  "byline": "",
+  "length": 216,
+  "excerpt": "GitLab.com",
+  "siteName": "GitLab",
+  "favicon": "https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png",
+  "text": "Skip to content GitLab Why GitLab Pricing Contact Sales Explore Why GitLab Pricing Contact Sales Explore Sign in Get free trial P Loading",
+  "image": "https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\n\n\n\n\n\n\u003cheader data-testid=\"navbar\"\u003e\n\u003ca href=\"#content-body\"\u003eSkip to content\u003c/a\u003e\n\u003cdiv\u003e\n\u003cnav aria-label=\"Explore GitLab\"\u003e\n\u003cdiv\u003e\n\u003cp\u003e\u003cspan\u003eGitLab\u003c/span\u003e\u003c/p\u003e\u003ca title=\"Homepage\" id=\"logo\" aria-label=\"Homepage\" data-track-label=\"main_navigation\" data-track-action=\"click_gitlab_logo_link\" data-track-property=\"navigation_top\" href=\"https://gitlab.com/\"\u003e\n\n\u003c/a\u003e\u003c/div\u003e\n\u003cul\u003e\n\u003cli\u003e\n\n\u003cdiv\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003ca href=\"https://about.gitlab.com/why-gitlab\"\u003eWhy GitLab\n\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003ca href=\"https://about.gitlab.com/pricing\"\u003ePricing\n\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003ca href=\"https://about.gitlab.com/sales\"\u003eContact Sales\n\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003ca href=\"https://gitlab.com/explore\"\u003eExplore\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003ca href=\"https://about.gitlab.com/why-gitlab\"\u003eWhy GitLab\n\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003ca href=\"https://about.gitlab.com/pricing\"\u003ePricing\n\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003ca href=\"https://about.gitlab.com/sales\"\u003eContact Sales\n\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003ca href=\"https://gitlab.com/explore\"\u003eExplore\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003ca href=\"https://gitlab.com/users/sign_in?redirect_to_referer=yes\"\u003eSign in\u003c/a\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003ca href=\"https://gitlab.com/users/sign_up\"\u003e\u003cspan\u003e\nGet free trial\n\n\u003c/span\u003e\n\n\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/nav\u003e\n\u003c/div\u003e\n\u003c/header\u003e\n\n\u003cdiv\u003e\n\n\n\u003cdiv data-testid=\"top-bar\"\u003e\n\n\n\u003c/div\u003e\n\n\u003cdiv\u003e\n\u003cmain id=\"content-body\" itemscope=\"\" itemtype=\"http://schema.org/SoftwareSourceCode\"\u003e\n\n\n\n\n\n\n\n\n\n\n\n\u003cheader\u003e\n\u003cdiv\u003e\n\u003cp\u003e\nP\n\u003c/p\u003e\n\n\n\u003c/div\u003e\n\n\u003c/header\u003e\n\n\n\u003cdiv\u003e\n\n\u003cdiv data-history-link=\"/SpyrjaGaldr/path/-/commits/master\" data-ref-type=\"heads\" id=\"tree-holder\" data-blame-per-page=\"1000\"\u003e\n\u003cp\u003e\u003cspan aria-hidden=\"\"\u003e\u003c/span\u003e\u003cspan\u003eLoading\u003c/span\u003e\n\u003c/p\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\n\u003c/main\u003e\n\u003c/div\u003e\n\n\n\u003c/div\u003e\n\n\n\n\n\n\n\n\n\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
