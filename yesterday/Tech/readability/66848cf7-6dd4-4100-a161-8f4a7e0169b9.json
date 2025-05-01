@@ -1,0 +1,23 @@
+{
+  "id": "66848cf7-6dd4-4100-a161-8f4a7e0169b9",
+  "title": "Intel Says It's Rolling Out Laptop GPU Drivers With 10% To 25% Better Performance",
+  "link": "https://tech.slashdot.org/story/25/04/29/2247217/intel-says-its-rolling-out-laptop-gpu-drivers-with-10-to-25-better-performance?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+  "description": "Ars Technica's Andrew Cunningham reports: Intel's oddball Core Ultra 200V laptop chips -- codenamed Lunar Lake -- will apparently be a one-off experiment, not to be replicated in future Intel laptop chips. They're Intel's only processors with memory integrated onto the CPU package; the only ones with a neural processing unit that meets Microsoft's Copilot+ performance requirements; and the only ones with Intel's best-performing integrated GPUs, the Intel Arc 130V and 140V. Today, Intel announced some updates to its graphics driver that specifically benefit those integrated GPUs, welcome news for anyone who bought one and is trying to get by with it as an entry-level gaming system. Intel says that version 32.0.101.6734 of its graphics driver can speed up average frame rates in some games by around 10 percent, and can speed up \"1 percent low FPS\" (that is, for any given frames per second measurement, whatever your frame rate is the slowest 1 percent of the time) by as much as 25 percent. This should, in theory, make games run better in general and ease some of the stuttering you notice when your game's performance dips down to that 1 percent level. Read more of this story at Slashdot.",
+  "author": "BeauHD",
+  "published": "2025-04-30T00:10:00+00:00",
+  "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "categories": [
+    "intel"
+  ],
+  "byline": "",
+  "length": 1,
+  "excerpt": "×",
+  "siteName": "",
+  "favicon": "https://a.fsdn.com/sd/m/assets/apple-touch-icon-precomposed2X-e553cba2892b057428cabcdff1a372fc.png",
+  "text": "×",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\n\n\n\n\n\u003cdiv id=\"ccpa-modal\"\u003e\n        \u003cp\u003e\u003cspan id=\"modal-close\"\u003e×\u003c/span\u003e\u003c/p\u003e\n    \u003c/div\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
