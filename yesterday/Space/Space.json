@@ -1,0 +1,148 @@
+[
+  {
+    "id": "211a302e-e6d7-4618-88bd-5482f64a19a5",
+    "title": "Starship | Seventh Flight Test",
+    "link": "https://www.youtube.com/watch?v=Pn6e1O5bEyA",
+    "description": "",
+    "author": "SpaceX",
+    "published": "2025-02-25T00:31:19+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel",
+    "categories": null
+  },
+  {
+    "id": "6e5078b2-9825-483e-acdb-2bcd9410516f",
+    "title": "Starship | Sixth Flight Test",
+    "link": "https://www.youtube.com/watch?v=CMGiNKcVSek",
+    "description": "",
+    "author": "SpaceX",
+    "published": "2025-01-03T16:32:33+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel",
+    "categories": null
+  },
+  {
+    "id": "73b3f9c0-5193-4285-82c2-4cd2897e22eb",
+    "title": "NASA’s SPHEREx Space Telescope Begins Capturing Entire Sky",
+    "link": "https://www.nasa.gov/missions/spherex/nasas-spherex-space-telescope-begins-capturing-entire-sky/",
+    "description": "After weeks of preparation, the space observatory has begun its science mission, taking about 3,600 unique images per day to create a map of the cosmos like no other. Launched on March 11, NASA’s SPHEREx space observatory has spent the last six weeks undergoing checkouts, calibrations, and other activities to ensure it is working as […]",
+    "author": "Anthony Greicius",
+    "published": "Thu, 01 May 2025 21:18:06 +0000",
+    "image": "https://www.nasa.gov/wp-content/uploads/2025/05/1-pia26352-spherexs-dust-cloud-reveal.jpg?w=1024",
+    "source": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "categories": [
+      "SPHEREx (Spectro-Photometer for the History of the Universe and Ices Explorer)",
+      "Astrophysics",
+      "Exoplanets",
+      "Galaxies",
+      "Jet Propulsion Laboratory",
+      "The Search for Life",
+      "The Universe"
+    ]
+  },
+  {
+    "id": "6af95d8a-4641-4659-af73-562db44cef94",
+    "title": "NASA’s Chandra Diagnoses Cause of Fracture in Galactic “Bone”",
+    "link": "https://www.nasa.gov/missions/chandra/nasas-chandra-diagnoses-cause-of-fracture-in-galactic-bone/",
+    "description": "Astronomers have discovered a likely explanation for a fracture in a huge cosmic “bone” in the Milky Way galaxy, using NASA’s Chandra X-ray Observatory and radio telescopes. The bone appears to have been struck by a fast-moving, rapidly spinning neutron star, or pulsar. Neutron stars are the densest known stars and form from the collapse and explosion of massive stars. They […]",
+    "author": "Lee Mohon",
+    "published": "Thu, 01 May 2025 19:05:45 +0000",
+    "image": "https://www.nasa.gov/wp-content/uploads/2025/05/bone.jpg?w=2048",
+    "source": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "categories": [
+      "Chandra X-Ray Observatory",
+      "General",
+      "Marshall Astrophysics",
+      "Marshall Space Flight Center",
+      "Neutron Stars",
+      "Pulsars",
+      "Stars",
+      "The Universe"
+    ]
+  },
+  {
+    "id": "77c57ba1-4403-41b4-9122-9b1755e8fe1d",
+    "title": "How astonishing observatories could do big physics from the moon",
+    "link": "https://www.newscientist.com/article/mg26635401-600-how-astonishing-observatories-could-do-big-physics-from-the-moon/?utm_campaign=RSS%7CNSNS\u0026utm_source=NSNS\u0026utm_medium=RSS\u0026utm_content=space",
+    "description": "As humanity prepares to return to the moon, scientists also have ideas for huge lunar experiments that could revolutionise astrophysics",
+    "author": "",
+    "published": "Wed, 23 Apr 2025 17:00:00 +0100",
+    "image": "",
+    "source": "https://www.newscientist.com/subject/space/feed/",
+    "categories": null
+  },
+  {
+    "id": "500e0217-af42-4f7a-93c4-65fc9da1d00f",
+    "title": "Signs of alien life on exoplanet K2-18b may just be statistical noise",
+    "link": "https://www.newscientist.com/article/2477928-signs-of-alien-life-on-exoplanet-k2-18b-may-just-be-statistical-noise/?utm_campaign=RSS%7CNSNS\u0026utm_source=NSNS\u0026utm_medium=RSS\u0026utm_content=space",
+    "description": "Last week astronomers reported hints of biological activity on a distant planet, but a re-analysis of their data suggests the claimed molecules may not be there at all",
+    "author": "",
+    "published": "Thu, 24 Apr 2025 17:49:21 +0100",
+    "image": "",
+    "source": "https://www.newscientist.com/subject/space/feed/",
+    "categories": null
+  },
+  {
+    "id": "17056f11-8ecd-44e7-a10e-9f7684fdf785",
+    "title": "Soviet-era spacecraft expected to plunge uncontrolled to Earth next week",
+    "link": "https://www.theguardian.com/science/2025/may/02/soviet-era-spacecraft-kosmos-482-uncontrolled-return-earth-next-week",
+    "description": "Kosmos 482, weighing 500kg, was meant to land on Venus in the 1970s but it never made it out of orbit because of a rocket malfunctionA Soviet-era spacecraft meant to land on Venus in the 1970s is expected to soon plunge uncontrolled back to Earth.It’s too early to know where the half-ton mass of metal might come down or how much of it will survive re-entry, according to space debris-tracking experts. Continue reading...",
+    "author": "Associated Press",
+    "published": "Thu, 01 May 2025 23:14:38 GMT",
+    "image": "",
+    "source": "https://www.theguardian.com/science/space/rss",
+    "categories": [
+      "Space",
+      "Russia",
+      "Europe",
+      "Science",
+      "World news"
+    ]
+  },
+  {
+    "id": "f9dc14ec-fbfb-4879-b1c2-76b3c098890d",
+    "title": "Dying satellites can drive climate change and ozone depletion, study finds",
+    "link": "https://www.theguardian.com/news/2025/may/01/dying-satellites-can-drive-climate-change-and-ozone-depletion-study-finds",
+    "description": "Aluminium emissions from satellites as they fall to Earth and burn up is becoming more significant as their numbers soarRight now there are more than 9,000 satellites circumnavigating overhead, keeping track of weather, facilitating communications, aiding navigation and monitoring the Earth. By 2040, there could be more than 60,000. A new study shows that the emissions from expired satellites, as they fall to Earth and burn up, will be significant in future years, with implications for ozone hole recovery and climate.Satellites need to be replaced after about five years. Most old satellites are disposed of by reducing their altitude and letting them burn up as they fall, releasing pollution into Earth’s atmosphere such as aerosolised aluminium. To understand the impact of these growing emissions from expired satellites, researchers simulated the effects associated with an annual release of 10,000 tonnes of aluminium oxide by 2040 (the amount estimated to be released from disposal of 3,000 satellites a year, assuming a fleet of 60,000 satellites). Continue reading...",
+    "author": "Kate Ravilious",
+    "published": "Thu, 01 May 2025 05:00:15 GMT",
+    "image": "",
+    "source": "https://www.theguardian.com/science/space/rss",
+    "categories": [
+      "Satellites",
+      "Climate crisis",
+      "Science",
+      "Space",
+      "Environment",
+      "Pollution"
+    ]
+  },
+  {
+    "id": "be8558d7-a0e4-4dbb-9c95-27922c83cfbf",
+    "title": "NASA still trying to revive silent Lunar Trailblazer moon orbiter",
+    "link": "https://www.space.com/space-exploration/missions/nasa-still-trying-to-revive-silent-lunar-trailblazer-moon-orbiter",
+    "description": "NASA will keep trying for another six weeks to revive its water-hunting Lunar Trailblazer moon probe, which went silent a day after its Feb. 26 launch.",
+    "author": "",
+    "published": "Thu, 01 May 2025 21:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/cDzCKMjVB5HbPmZq5VSYxK.jpeg",
+    "source": "https://www.space.com/feeds/all",
+    "categories": [
+      "Missions",
+      "Space Exploration"
+    ]
+  },
+  {
+    "id": "c55a26fa-50e3-4d85-8d8b-96224f72d195",
+    "title": "Metroid games in order: Chronological and release",
+    "link": "https://www.space.com/entertainment/space-games/metroid-games-in-order-chronological-and-release",
+    "description": "As we prepare for the arrival of Metroid Prime 4, here's the complete timeline of the entire Metroid series, in both chronological and release order.",
+    "author": "",
+    "published": "Thu, 01 May 2025 20:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/yVMKLgytiVYKvBtEzwCeKC.jpg",
+    "source": "https://www.space.com/feeds/all",
+    "categories": [
+      "Space Games",
+      "Entertainment"
+    ]
+  }
+]

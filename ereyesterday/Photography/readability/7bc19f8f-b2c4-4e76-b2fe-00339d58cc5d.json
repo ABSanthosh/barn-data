@@ -1,0 +1,26 @@
+{
+  "id": "7bc19f8f-b2c4-4e76-b2fe-00339d58cc5d",
+  "title": "April Updates to Lightroom Classic, Lightroom, and Camera Raw",
+  "link": "https://lightroomkillertips.com/april-updates-to-lightroom-classic-lightroom-and-camera-raw/",
+  "description": "Adobe has released the latest round of updates for Lightroom Classic (LrC) 14.3, Lightroom desktop (Lr) 8.3, Lightroom (Lr) mobile 10.3, and Camera Raw (ACR) 17.3. Head over to your Creative Cloud Application manager app, check for updates, and get your applications up to date. Along with support for new cameras and lenses, there are bug fixes and a few cool features too boot. Let’s see what new tools we have to explore. Select Landscape (LrC, Lr desktop, ACR) What I’m sure will be the most talked about new feature added LrC, Lr desktop, and ACR is a new masking function that uses AI to recognize elements in a landscape for masking and editing. Much in the same way that People masking can recognize and mask teeth, lips, and hair, the new Select Landscape function can help us mask and edit scene elements like sky, mountains, architecture, vegetation, artificial ground, natural ground, and water. Look for the Landscape option when creating a new mask to start the analysis of the image, and then you’ll be presented with checkboxes corresponding to the elements within the image it recognizes. In this photo it recognized sky, architecture, water, and natural ground. Move your cursor over each element to see the corresponding mask that will be created if you check the box. What a huge timesaver this is going to be! Check the box next to each element to create a separate mask for editing that element by ensuring the Create separate mask box is checked or create a mask that combines multiple elements depending on your image and needs. Of course you can further refine these masks by adding or subtracting with other masks. We’ll do a deeper dive on the power of landscape masks in the near future. Manage Recent Catalogs (LrC) If you’ve got old catalogs on your File \u003e Open Recent list in LrC that you don’t want to show up anymore (without deleting the catalog from your system), then check out the new Manage Recent Catalogs dialog where you can select catalogs and choose to remove them from the recent list. With a catalog selected, click Remove from Recent to clear it. Just to be sure you meant to do it, LrC will prompt you to be sure. Click OK to proceed or Cancel if you were only kidding. Checkerboard Transparent Areas (LrC, Lr) In Develop, with GPU enabled), any transparent pixels will appear with the familiar checkerboard pattern we know from Photoshop when cropping or transforming or merging to pano. Anyone Can Upload (Lr ecosystem) If you have shared albums (or synced collections from LrC that are shared) you can now enable an option for logged in users with access to upload photos of their own to the album. This could be really useful for allow family members to add photos from a recent vacation to a shared album or something similar (screenshot from Lr on the web, which is easily accessible to Lr and LrC users at lightroom.adobe.com). Lot’s of cool stuff to kick the tires on this update, and a couple of other things worth noting. The Remove Reflection function in ACR now works on non-raw files (JPG and HEIF). Also, LrC and Lr can properly render changes made in the current tech preview features (remove reflections and remove distracting people) of ACR when imported (but edits still need to happen only in ACR). In LrC, if shooting tethered, you can now turn off focus point selection in the Tethered Capture Settings window. Remember, should you encounter any issues with any of the apps to report them in the Adobe Community Forums. The post April Updates to Lightroom Classic, Lightroom, and Camera Raw appeared first on Lightroom Killer Tips.",
+  "author": "Rob Sylvan",
+  "published": "Thu, 24 Apr 2025 17:04:12 +0000",
+  "source": "https://lightroomkillertips.com/feed/",
+  "categories": [
+    "Lightroom Classic",
+    "Lightroom Cloud",
+    "Lightroom Updates",
+    "News"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

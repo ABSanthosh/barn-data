@@ -1,0 +1,385 @@
+[
+  {
+    "id": "24f32560-8a1a-4cd5-8bd2-41fea3c8662b",
+    "title": "minifeed",
+    "link": "https://tyler.io/2025/01/minifeed/",
+    "description": "I recently discovered minifeed, and it has quickly become one of my favorite things on the internet. Once, maybe twice a day, I load the homepage and browse through the latest posts from real blogs written by real humans. I almost always find something surprising, delightful, weird, or just plain fun to read. Even better, I come away with a new blogger to follow.",
+    "author": "Tyler",
+    "published": "Wed, 15 Jan 2025 02:47:20 +0000",
+    "image": "",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "9f3ee7b1-b6a2-497f-ad50-a4f746065cf1",
+    "title": "Advice",
+    "link": "https://tyler.io/2025/01/advice/",
+    "description": "My son turned eleven last month. He reads all the time (fantasy books are his favorite) and has started planning and building his own worlds to write stories about. He made a to-do list in his writing notebook, and I asked him if I could share it here. It's good advice.",
+    "author": "Tyler",
+    "published": "Fri, 10 Jan 2025 15:41:20 +0000",
+    "image": "https://cdn.tyler.io/wp-content/uploads/2025/01/writing-todo-list-860x1024.jpg",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "c5520a28-2784-4cb9-9c06-baa143c9fe1c",
+    "title": "Scalable Continuous Integration for iOS",
+    "link": "https://albertodebortoli.com/2024/01/03/scalable-continuous-integration-for-ios/",
+    "description": "How Just Eat Takeaway.com leverage AWS, Packer, Terraform and GitHub Actions to manage a CI stack of macOS runners.",
+    "author": "Alberto De Bortoli",
+    "published": "Wed, 03 Jan 2024 22:26:50 GMT",
+    "image": "https://albertodebortoli.com/content/images/2024/01/1_SaGE67XSSeflkTKknVOHbg.webp",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": [
+      "CI",
+      "mobile",
+      "iOS",
+      "AWS",
+      "macOS"
+    ]
+  },
+  {
+    "id": "3107bbca-b8a5-406d-82d5-1d6211d1b716",
+    "title": "The idea of a Fastlane replacement",
+    "link": "https://albertodebortoli.com/2023/10/29/the-idea-of-a-fastlane-replacement/",
+    "description": "PreludeFastlane is widely used by iOS teams all around the world. It became the standard de facto to automate common tasks such as building apps, running tests, and uploading builds to App Store Connect. Fastlane has been recently moved under the Mobile Native Foundation which is amazing as Google",
+    "author": "Alberto De Bortoli",
+    "published": "Sun, 29 Oct 2023 22:57:38 GMT",
+    "image": "https://images.unsplash.com/photo-1647118762210-393b52e96fbc?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxzdGVsbGFyfGVufDB8fHx8MTY5ODYxODcwNXww\u0026ixlib=rb-4.0.3\u0026q=80\u0026w=2000",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": null
+  },
+  {
+    "id": "7b8a00f2-fd3a-4107-af34-4c7c318de8d7",
+    "title": "From Engineer to Manager: A Year of Growth and Transformation",
+    "link": "https://benoitpasquier.com/2023/06/from-engineer-to-manager-a-year-of-growth-and-transformation/",
+    "description": "It feels like it was yesterday when I became an engineering manager but it has been almost a year. I want to take this time to reflect on the challenges and learnings from this journey.",
+    "author": "",
+    "published": "Sun, 11 Jun 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "1ae777fe-43ac-4fdf-a9f2-cb88cdd69729",
+    "title": "Things to know before becoming an Engineering Manager",
+    "link": "https://benoitpasquier.com/2023/02/things-to-know-before-becoming-an-engineering-manager/",
+    "description": "The journey from individual contributor to engineering manager isn’t always straightforward. Today, I’ll share what it means to become an engineering manager from my point of view, and a few important points to be aware of before making this transition.",
+    "author": "",
+    "published": "Sun, 19 Feb 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "b4af6276-417d-40c6-82ca-7fe49e03a9ab",
+    "title": "A Trick For Opening Magic Links in Your RSS Reader",
+    "link": "https://fabisevi.ch/2025/03/28/opening-magic-links-in-your-rss-reader/",
+    "description": "This blog post is documentation for a very specific problem I run into about once a year. That’s rare enough to forget how I solved it, but frequent enough to waste 15 minutes rediscovering the answer. And let’s be honest: it’s not the big problems that drive you mad — it’s the little ones that feel like their own Sisyphean hell. The Problem Some websites 1 require you to log in using a magic link — a one-time link emailed to you that signs you in when clicked. It’s usually seamless. But on iOS, it can quietly become a headache. 2",
+    "author": "Joe Fabisevich",
+    "published": "Fri, 28 Mar 2025 00:00:00 GMT",
+    "image": "",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "5ffad121-9ffb-4991-87f2-bf3f0431dcc0",
+    "title": "Lights, Camera, Action Button",
+    "link": "https://fabisevi.ch/2025/02/28/lights-camera-action-button/",
+    "description": "The iPhone 15 Pro launched with a marquee feature, the Action Button. The Action Button set out to replace the mute switch, which had existed since the first iPhone was released back in 2007. The Action Button is a software-powered button, replacing what previously was a hardware switch that would toggle your phone’s silent mode on or off. The appeal of the Action Button was that now you could decide what the side button should do for you. If you wanted it to be a mute switch, no problem, the Action Button can still be one. But if you want to use it to toggle your flashlight, launch the camera, or turn on Do Not Disturb mode, these alternatives and more are now possible. The unspoken downside has always been that it’s hard to decide what the Action Button should do, if it can only do one thing.",
+    "author": "Joe Fabisevich",
+    "published": "Fri, 28 Feb 2025 00:00:00 GMT",
+    "image": "/static/ba668be0d7696b359dbcd74da833d227/587b0/action-button.png",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "4bcb0fe6-6b3e-4829-b1ad-acb025c78c8f",
+    "title": "Hello Developer: April 2025",
+    "link": "https://developer.apple.com/news/?id=ytujvuu3",
+    "description": "In this edition: Revisit foundational sessions, join us to dive into SwiftUI, and meet an Apple Design Award winner that defies description.Read the full article",
+    "author": "",
+    "published": "Tue, 08 Apr 2025 07:55:43 PDT",
+    "image": "https://devimages-cdn.apple.com/wwdc-services/articles/images/E0814621-AD9D-46B6-B254-BB1C1250182C/2048.jpeg",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "d03f48f1-701e-441b-b34a-2b084fa985e3",
+    "title": "Rooms at the top: How this ADA-winning team built a title that defies description",
+    "link": "https://developer.apple.com/news/?id=sqd5xv4n",
+    "description": "Ask Jason Toff whether his Apple Design Award winner is a game or an app, and his answer is yes.“There’s no one-sentence description for Rooms, and that can be a blessing,” laughs Toff, CEO and head designer of Things, Inc. “It’s not entirely a game, and it’s not entirely a tool. It’s more like a toy.”It’s also a blank canvas, cozy game, coding teacher, and social network — but we’re getting ahead of ourselves. At its heart, Rooms is a collection of user-generated 3-D spaces that feels like the open-ended world of the early internet. Start with an empty room or existing template, then fill it with an array of voxel decorations, items, pets, and avatars to create whatever space you like: a college apartment, medieval castle chamber, floating fantasy realm, pirate ship, or a Weezer concert (really), to name just a few. The only limits are the room’s boundaries — and Rooms fans have even gotten around those. “Our 404 page is a room with no walls,” Toff says, “so people just started copying it to work around the constraint.”ADA FACT SHEETRooms Winner: Visuals and Graphics Team: Things, Inc. Available on: iOS, iPadOS Team size: 4 Learn more about RoomsDownload Rooms from the App StoreIn fact, that community element is a strong point: This creative tapestry of quirky games, tranquil havens, and clever ideas has been conjured by real people, which makes Rooms a social network as well. What’s more, users can click on each item to reveal its underlying code, offering them more options for customization.To create Rooms — which, incidentally, won the ADA for Visuals and Graphics in games — Toff and cofounders Nick Kruge and Bruno Oliveira threw themselves back into their childhoods. “I was obsessed with Legos as a kid,” says Toff, not unexpectedly. “I found myself wondering, ‘What’s the digital equivalent of that?’” Rooms isn’t just about rooms; creators have plenty of ways to noodle on their ideas.Drawing on that inspiration — as well as Toff’s experiences with Kid Pix on his dad’s 1989-era Mac — the Rooms team began envisioning something that, as Oliveira says, kept the floor low but the ceiling high. “We wanted anyone from 4-year-olds to their grandparents to be able to use Rooms,” he says, “and that meant making something free-form and creative.”It also meant building something that gave a sense of approachability and creativity, which led them right to voxels. “Blocks have a charm, but they can also be kind of ugly,” Toff laughs. “Luckily, Bruno’s were cute and soft, so they felt approachable and familiar.” And from Oliveira’s side, blocks offered a practical value. “It’s much easier to do 3-D modeling with blocks,” says Oliveira. “You can just add or remove voxels whenever you want, which lowers the bar for everyone.” We wanted anyone from 4-year-olds to their grandparents to be able to use Rooms, and that meant making something free-form and creative.Jason Toff, CEO and head designer of Things, Inc.Rooms launched in 2023 as a web-based app that included 1,000 voxel objects and allowed users to write their own code. It gained traction through both word of mouth and, more directly, a video that went viral in the cozy-gaming community. “All of a sudden, we had all these people coming,” says Oliveira, “and we realized we needed to prioritize the mobile app. Nick was like, ‘I think we can get feature parity with desktop on the iPhone screen,’ and we basically pulled a rabbit out of a hat.” Today, the vast majority of Rooms users are on mobile, where they spend the bulk of their time editing. “We were just shocked by how much time people were spending making rooms,” he says. “These weren’t quick five-minute projects. We did not anticipate that.”Of course the Things, Inc. team rebuilt their own offices in Rooms.All that building fed into a social aspect as well. Toff says most of the items in Rooms are now created, edited, and amplified by lots of different users. “Here’s a good example: We have a sway effect that makes things wave back and forth a little,” he says. “Someone realized that if they put some branches on a tree and added that effect, the tree immediately looked alive. Now everyone’s doing that. There’s a real additive effect to building in Rooms.” Today, the Rooms library contains more than 10,000 items.There’s a lot of power under the hood, too. “Rooms uses a Lua scripting language that runs in a C++ context,” says Oliveira, “so it’s kind of Lua, encased in C++, encased in Unity, encased in iOS.” Every room, he says, is a new Unity instance. And adding native iOS elements — like sliders on the Explore page and a bottom navigation — gives what he calls the “design chef’s kiss.”An early sketch of Rooms shows how the room design came together early in the process.Like its community, the Rooms team is used to moving fast. “One day I said, ‘It would be cool if this had a D-pad and A/B buttons,” says Toff, “and about 10 hours later Bruno was like, ‘Here you go.’” On another lark, Toff mentioned that it would be fun to let users fly around their rooms, and Kruge and Oliveira promptly created a “camera mode” that’s come to be known internally as the “Jason-Cam.”That’s satisfying to a team that simply set out to build a cutting-edge plaything. “We always had this metaphor that Rooms was a swimming pool with a shallow side and a deep side,” says Oliveira. “It should be fun for people dabbling in the shallow side. But it should also be amazing for people swimming in the deep end. If you just want to look at rooms, you can. But you can also dive all the way down and write complicated code. There’s something for everyone.”Meet the 2024 Apple Design Award winnersBehind the Design is a series that explores design practices and philosophies from finalists and winners of the Apple Design Awards. In each story, we go behind the screens with the developers and designers of these award-winning apps and games to discover how they brought their remarkable creations to life.",
+    "author": "",
+    "published": "Tue, 08 Apr 2025 06:00:03 PDT",
+    "image": "https://devimages-cdn.apple.com/wwdc-services/articles/images/1D88B7BB-F915-4863-8008-370756EB4CE6/2048.jpeg",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "4faf5486-d7b4-4d67-87df-10ccac4b4388",
+    "title": "Building with nightly Swift toolchains on macOS",
+    "link": "https://oleb.net/2024/swift-toolchains/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-03-05T18:54:44Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "b7fa3a6f-9bf8-4c09-98e4-6e4901ccb259",
+    "title": "How the Swift compiler knows that DispatchQueue.main implies @MainActor",
+    "link": "https://oleb.net/2024/dispatchqueue-mainactor/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-02-29T18:54:47Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "26151c7e-1071-4327-823f-616e611f7c60",
+    "title": "Magical Particle Effects with SwiftUI Canvas",
+    "link": "https://nerdyak.tech/development/2024/06/27/particle-effects-with-SwiftUI-Canvas.html",
+    "description": "In one of the previous posts, I shared a simple way of Creating particle effects in SwiftUI. The approach is super easy and utilizes the power of viewModifiers, but I would not recommend it for production use as it is performance-greedy when having a bigger amount of particles in place (because each particle is a single view)",
+    "author": "Pavel Zak",
+    "published": "2024-06-27T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "Canvas",
+      "Particles",
+      "BlendMode",
+      "TimelineView"
+    ]
+  },
+  {
+    "id": "364fad5d-c0ce-40b9-add8-397f2c373388",
+    "title": "SwiftUI transitions with distortion effect and Metal Shaders",
+    "link": "https://nerdyak.tech/development/2023/06/16/distortionEffect-with-Metal-shaders-for-better-transitions.html",
+    "description": "This year DubDub is over and I am very excited about the new developer treats that iOS17 will bring us that expand the animation possibilities of SwiftUI. I am talking mainly about the PhaseAnimator, KeyframeAnimator and the ability to utilize Metal shaders on SwiftUI views through modifiers .distortionEffect, .layerEffect, and .colorEffect (docs).",
+    "author": "Pavel Zak",
+    "published": "2023-06-16T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "distortionEffect",
+      "Metal",
+      "Shaders",
+      "transitions"
+    ]
+  },
+  {
+    "id": "1354dcb6-ccd2-459d-9032-a1615ed9603c",
+    "title": "iOS Accessibility Values",
+    "link": "https://mobilea11y.com/blog/accessibility-values/",
+    "description": "For iOS, Accessibility values are one of the building blocks of how Accessibility works on the platform, along with traits, labels, hints, and showing/hiding elements. If you’re familiar with WCAG or web accessibility, accessibility values are the value part of WCAG 4.1.2: Name, Role, Value. Values Not every element in your view will have a value - in fact, most won’t. Any element that ‘contains’ some data, data that is not included in the element’s label requires an accessibility value to be set.",
+    "author": "",
+    "published": "Sun, 19 Jun 2022 10:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "c91df08a-b770-4e89-9056-8a38d61d0457",
+    "title": "iOS UIKit Accessibility traits",
+    "link": "https://mobilea11y.com/blog/traits/",
+    "description": "Accessibility traits on iOS is the system by which assistive technologies know how to present your interface to your users. The exact experience will vary between assistive technologies, in some cases they may change the intonation of what VoiceOver reads, or add additional options for navigation, sometimes they will disable that assistive technology from accessing the element, or change how the assistive tech functions. They are the ‘Role’ part of the fundamental rule of making something accessible to screen readers - WCAG’s 4.",
+    "author": "",
+    "published": "Fri, 13 Aug 2021 07:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "660a14a3-f35b-45e7-a20f-921827253ad6",
+    "title": "Using Swift’s defer keyword within async and throwing contexts",
+    "link": "https://www.swiftbysundell.com/articles/using-defer-within-async-and-throwing-contexts",
+    "description": "How Swift’s defer keyword can be incredibly useful when working with code scopes that have multiple exit points, such as throwing or async functions.",
+    "author": "",
+    "published": "Tue, 15 Apr 2025 16:45:00 +0200",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "cecd8d98-f52b-4959-8c91-432bed8ae540",
+    "title": "Modern URL construction in Swift",
+    "link": "https://www.swiftbysundell.com/articles/modern-url-construction-in-swift",
+    "description": "How to combine Foundation’s latest URL APIs with Swift features like macros, to be able to work with both static and dynamic URLs in simpler and more predictable ways.",
+    "author": "",
+    "published": "Mon, 31 Mar 2025 13:00:00 +0200",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "80a521c0-73c9-40a7-91f2-89c9e7c01f05",
+    "title": "Using Swift’s defer keyword within async and throwing contexts",
+    "link": "https://www.swiftbysundell.com/articles/using-defer-within-async-and-throwing-contexts",
+    "description": "How Swift’s defer keyword can be incredibly useful when working with code scopes that have multiple exit points, such as throwing or async functions.",
+    "author": "",
+    "published": "Tue, 15 Apr 2025 16:45:00 +0200",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "924eacf2-7170-4dc8-aba3-e44b6ca82f78",
+    "title": "Modern URL construction in Swift",
+    "link": "https://www.swiftbysundell.com/articles/modern-url-construction-in-swift",
+    "description": "How to combine Foundation’s latest URL APIs with Swift features like macros, to be able to work with both static and dynamic URLs in simpler and more predictable ways.",
+    "author": "",
+    "published": "Mon, 31 Mar 2025 13:00:00 +0200",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "259bd0cc-304c-4299-9d4f-359ca043e1ff",
+    "title": "How I'm using AI to improve my software engineering productivity (and why it will not steal your job)",
+    "link": "https://swiftrocks.com/how-im-using-ai-for-software-engineering",
+    "description": "AI has become an important part of my daily software engineering work, so I wanted to write a post sharing how exactly I've been using it in case you're wondering how to use it to improve your productivity as well! Foreword: AI will not steal your software engineering job Before getting to the details of how AI has been helping me to code, I wanted to address the topic of AI replacing software engineers. Recently, my social media feeds have become full of people making predictions about how in X months/years everything in the software engineering industry will be done by AI, via doomsday-style content about how everyone is going to lose their jobs and everything will fall apart. If you look at who's writing these kinds of posts, you'll notice something interesting: they are either executives who have never done any kind of software engineering, or beginners with no industry experience. Honestly, that should tell you everything you need to know about these \"predictions\". But in the interest of being informative, I'll try to explain why they are nonsense. The problem with these \"predictions\" is that the people making them for some reason seem to view software engineering as nothing more than coding and closing tasks on JIRA. You arrive at work, pick a task that is very well defined and requires no clarification whatsoever, code it, close it, pick another task that is once again perfectly defined, and repeat that ad-infimum for the entire duration of your career. But the reality of software engineering is far more complex than that. While there's certainly a good amount of coding, it's extremely rare that the problems a software engineer needs to solve are perfectly defined from the get-go as claimed by the people making these predictions. This means that more often than not the job is not really about coding, but rather figuring out what exactly needs to be coded, by asking yourself questions such as: What problems are we facing right now? What are the current objectives of the company? What is the current state of the company? What is most important for our users? Who will benefit from X problem being solved? What does the codebase looks like today? Are there any patterns or traps I need to be aware of? Are there any political fights going on around me that would affect what I should focus on? What's the current state of the industry? Are there any new tools that can help me solve my problems? The answers to questions like the ones above provide you with context that helps you define how (and when) exactly certain problems should be solved, and is a critical aspect of software engineering even for junior developers. And the interesting part is that the more senior you become, the less coding you do, and the more time you spend answering these types of questions to help your team/company determine which way it should go. This is something I've also written about on my Focus not on the task, but on the problem behind the task blog post. While AI can be quite good at solving very simple and perfectly defined problems, it is exceptionally bad at handling anything that requires taking this level of context into account, which is something that software engineers constantly have to do. This is very easy to confirm if you have doubts about it: Grab any AI agent and project of your choice (or ask the agent to make a new one), and keep asking it to include more features in your project. While it may do relatively well the first time, it is inevitable that the AI will start confusing itself and destroying the codebase on the subsequent requests. This is because AI today doesn't understand context, and as one user on HackerNews wrote, it's like working with a junior developer that has amnesia. Thus, while AI today can be amazing as a coding assistant (which I'll go into more detail further below), the thought of it replacing software engineers is frankly hilarious. One counterargument that some people have is that while this is true today, it doesn't mean that in the future the AI won't be able to understand context and thus be able to do complex tasks. While this is true, what must be noted about this is that an AI capable of understanding context (and gathering it on its own) would be so powerful that it wouldn't just replace software engineers; it would replace all of humanity. If such a thing is achieved then software engineering jobs would be the least of our concerns, so I think it's a sort of weird argument to consider. Our entire lives would change in this scenario. With that out of the way, I'd like to now present my favorite use cases for AI today! Use case 1: Getting simple tasks done quickly One thing that AI is very good as of writing is solving very concrete and straightforward problems. So when I have to do very menial tasks like changing configuration files or writing a simple function that does X and Y, nowadays what I do is simply ask Cursor to do it for me, sit back, and watch the show. Even when taking into account that the AI might not get it 100% correct and that I'll still have to patch the code afterward, this still saves me a massive amount of time overall compared to having me do everything by myself and is definitely my favorite use case of AI today. This is especially true when doing (simple) work on languages that I'm not very familiar with, as the AI in this case is also sparing me from having to do multiple trips to StackOverflow. I still need to do so since the AI will sometimes recommend things that are not correct for my case, but again, even when considering these setbacks, I can get the work done at a much faster pace. It must be noted however that the important keyword here is simple, concrete, and straightforward. As mentioned previously, trying to have the AI solve complex problems that require large amounts of context such as code reviews or designing large features will not work in any meaningful way and is a sure way to waste everyone's time. Use case 2: Searching for things when I don't know what exactly I'm looking for I find that Google tends to provide good results if you know exactly what you're looking for. But if you don't really know what is it that you're trying to find out, you'll have a hard time with it. For example, the other day I was trying to find what the _start function in iOS (the first function called when your app is launched) is, where it's defined, and what it does. But if I go now and search for \"_start function iOS\" on Google, I will not find a straight answer to this question. Google does return somewhat good results (the second search result contains some interesting information about it if you scroll down far enough), but it cannot give me a direct response because I asked the wrong question. I know today that what I should've done is ask it about details of how C programs are linked, but I didn't know this back then, so I couldn't have done that. AI does not have this problem. If you don't know what you're looking for, you can explain your situation to it and it will point you in the right direction: In this example, you can see that ChatGPT immediately pointed out that I asked the wrong question before attempting to explain it! Although the AI's answers won't always be 100% accurate, I find them to be accurate enough to allow me to use Google to find the rest of the information. Just like the previous case, this is not so much about having the AI do everything for me (which it can't), but rather allowing me to save time and get where I want faster. Use case 3: Asking questions that are too specific for Google Even if you know exactly what you're looking for, you may have difficulty using Google if your question is too specific. For example, you cannot search Google on \"how to implement X thing in Swift in my app that is using XYZ frameworks in X iOS version with dependency injection bridging an Obj-C type after the user logged in on my TODO list app using Apple Sign-in from Italy during a rainy day in October\". For cases like this, usually what you need to do is break your problem into multiple, more generic queries, open many tabs that each help you with a specific part of the problem, and then use all of that combined knowledge to come up with the actual answer to your question. AI excels at this. You can be as specific as you want and you'll get a relevant answer. Most coding questions fall into this category, although for these specifically nowadays I prefer using Cursor's code gen features directly as mentioned above. In this case, I could've probably found the answer I was looking for in Google by making a bunch of generic searches about C++ global constructors and good practices, opening a bunch of tabs, and summarizing everything I found. But by asking ChatGPT, I was able to save several hours of my time instead. Use case 4: I want FAST answers It has been getting harder and harder to get fast answers to your questions with Google. Today, it's very unlikely that the answer to a question will lie at the top of a page you've opened. As SEO optimization became more and more important for survival on the web, the amount of stuff you have to endure before getting to the actual content has increased significantly. There will be a lengthy introduction, a pause for sponsors, ten paragraphs about how the question reminds the author about a personal story of how their dog bodyslammed their grandma on Christmas, a call to action for the author's newsletter, some backstory on the question, and only then you'll get to the actual content. I find that there are many cases where this fluff is relevant and worth reading. But there are also many cases when I'm in a hurry and would much rather just get a straight answer to my question. This is also something that I find AI to be quite good at. It generally doesn't try to educate you on things you didn't ask, it just straight up answers your question. By asking follow-up questions regarding one or more things it mentioned in its answer, I can get all of the information I need to learn something new considerably faster than if I had used Google instead. Even though I still need to use Google to double-check if the AI didn't hallucinate particular pieces of information, this ability to quickly gather relevant information saves me an absurd amount of time.",
+    "author": "Bruno Rocha",
+    "published": "Tue, 15 Apr 2025 11:50:00 GMT+2",
+    "image": "https://i.imgur.com/KuTBOgc.png",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "eebe9051-7849-4a77-b3bf-78fcb4d92d67",
+    "title": "Things that did (and didn't) contribute to Burnout Buddy's success",
+    "link": "https://swiftrocks.com/things-that-did-and-didnt-contribute-to-burnout-buddys-success",
+    "description": "Back in 2022 I launched Burnout Buddy, and today the app has succeeded far beyond my expectations. Netting between $600 and $1000 each month as of writing, BB has been growing 100% organically with little to no effort on my part. In this post, I'd like to lay out exactly what I've done that I believe contributed (and didn't contribute) to this growth, serving as documentation and inspiration for the indie dev community out there. Things that helped Understanding ASO I cannot understate the value of having a good grasp of App Store Optimization (ASO). The case is simple: It doesn't matter how good your app is, if you don't get eyes on it, it will never succeed. ASO refers to being strategic about how you assemble your app's store listing (keywords, name, subtitle, description, screenshots, etc) so that it ranks well when people search for keywords related to your app. In many cases what you actually want to do is avoid popular keywords in the beginning, focusing on less popular ones where you have more of a fighting chance until you get \"popular\" enough that you can try challenging the real ones. How and when you ask for reviews also plays a big role here as reviews also affect your app's rank. I strongly recommend Appfigures for learning and applying ASO for your apps. The owner, Ariel, has posted many videos explaining different strategies you can take, and that's how I got to know about it. In my case, ASO was only time-intensive in the first few weeks following the app's launch. After it picked up some steam and became no.1 in a couple of important keywords, I was able to leave it alone and enjoy full organic growth ever since. I'm my app's primary user Most indie apps fail because they are trying to solve problems that don't exist. The devs come up with the solution first, and then try to find users who have a problem that match their solution. This rarely works. The easiest way to avoid this is to ignore other people and just focus on your own set of problems. If you can manage to build something that would make your own life better, certainly you'll find other people who will also appreciate it. In my case, I built Burnout Buddy because iOS's default Screen Time feature was too simple for me. I wanted to make more complex scenarios such as schedule or location based conditions, but iOS only allows you to setup simple time limits. You also can't do \"strict\" conditions where there's no way to disable the block once it goes into effect. I searched for other alternatives, but none of them were good enough for me. So I built my own! Once my problem was solved, I figured out that most likely there were others out there who could also make use of it. I made the app public with zero expectations, and sure enough, there were tons of other people with the same problem I had. Being my app's primary user also means that I'm perfectly positioned to know which features the app should and shouldn't have. I don't need things like user interviews, because again, I built this for myself. All I have to do is ask myself what I'd like the app to do, and the result is sure to also be a hit with others with the same problem the app aims to solve. I attribute Pieter Level's Make book for helping me understand this concept. It's also a great resource for learning more about indie development and how to create successful products in general! No backend, everything happens client-side Another decision that I've made that massively simplified things for me is that everything happens on the client. There are no accounts or backend, and I gather zero data from the users. This means I have no backend to manage, and most importantly, no monthly server costs. As long as Apple doesn't push iOS updates that break the APIs I use (unfortunately happens a lot), I can trust that everything is working as it should and focus my attention on other things. People seem to really appreciate this too, since many apps nowadays have accounts for no reason other than wanting to hoard data which is really shady. The app just works After the first couple of releases, I spent a good amount of time building a good suite of tests and architecting the app so that it would be easy to expand and make it even more testable. This means I very rarely have to worry about whether or not I'll push something that will fundamentally break the app. Having no backend-related code also greatly helped here. This doesn't mean that the app is bug-free (there are a bunch of SwiftUI issues I can't seem to solve, and Apple somehow manages to break their APIs on every iOS release as mentioned above), but when it comes to the core experience of the app, I can trust that everything works as it should. This saved a lot of testing / debugging time on my end and also made sure I almost never had to deal with support e-mails regarding broken features and such. I don't extort my users Burnout Buddy is a one-time $9.99 bucks purchase. For a long time it used to be $4.99 even. Why this matters? Because most alternatives are stupidly expensive subscriptions. Most of them also don't have backends and have even less features than BB, why the hell are these apps subscription-based??? Some people justify that subscriptions are necessary even for \"simple\" apps like BB because of things like recurring support work. While I can see the point, I also think there are other ways to tackle these issues. I for example created a FAQ support page, and that reduced 99.9% of the support requests. I'm not trying to extort my users and I believe this was a strong factor for the app's success. Things that didn't help It would be naive of me to claim that everything went right. I've made a couple of bad decisions that worked against the app's success, and I wanted to document them as well. Thinking I could make it big without marketing Like I mentioned in the ASO section, it doesn't matter how good your app is. You need to get the word out, otherwise it will just not work. There is a saying in tech that goes \"if you build something good, people will follow\". Whoever said this has absolutely never attempted to sell something. I'm as a tech nerd as it can get and I can safely say that when it comes to building businesses, marketing is a billion times more important than building the actual product! Unfortunately for me, I hate doing marketing work. I'm fine with putting a sponsorship section on this blog, but reaching out to journalists and hustling on X / LinkedIn is really not my thing. This means that while thankfully I was able to do just enough of it to get some nice results in the beginning, the app is destined to die a slow death as it drops in ranking in the App Store and other similar apps manage to get their word out better than me. Marketing is something you have to do constantly, but unfortunately for me it's something I just don't want to do, so there will always be a hard cap to how far I can go with any given project alone. Making the app too cheap This will sound weird because I mentioned above that not extorting my users was a positive. But allow me to clarify this. One thing I've learned the hard way is that you need to avoid cheapskates like the plague. This means people who expect nothing but the highest quality products, but at the same time are not willing to pay anything for it. You know when you see one because they behave like huge assholes and will do everything in their power to extract as much value from you as possible while giving nothing in return, much like the meme of a Karen screaming at the supermarket cashier because of some worthless coupon. When Burnout Buddy was $4.99, I was constantly having my support e-mail being spammed by such people. They would constantly aggressively complain about different app features and demand refunds, often threatening that they would download a different app if I didn't help them (...why would I care about that?). A lot of these reports didn't even make sense, they were clearly people just searching for excuses to be an asshole and get free stuff. It was such a waste of my time that I even briefly considered abandoning the project entirely / pulling it from the App Store just so I wouldn't have to deal with them anymore. It was only when I read someone complaining about the exact same problem on HackerNews that I realized what my issue was. It's not that giving support is a thankless job, it's that the app was too cheap. The cheapskates are attracted by free (or in this case, almost free) products. If you raise the price of your product just slightly, you can filter out these people without driving way the good (and kind) users. After doing just that, these bizarre e-mails completely vanished without resulting in any loss of revenue. While I of course still get support requests every now and then, they are now all very polite and helpful, which makes everything a breeze! In other words, the \"fail\" here is that I should've made the app cost $9.99 from the get-go to have filtered the cheapskates from the very beginning. Not gathering analytics This is an interesting one because it's both a good and a bad thing depending on how you look at it. I mentioned above that having no accounts was a good thing because it made things easier on my side and was appreciated by the users. But it also meant that I had no information regarding how users were using the app. This made things harder for me because 1) I couldn't determine which features were more popular / worth expanding upon (and which ones weren't), and 2) when people reported bugs, I had no easy way to trace their steps in order to quickly reproduce the issue (or to confirm they misunderstood the app / were doing something wrong). If I could go back, I would probably have gone for a solution that allowed me to gather analytics data for the above reasons. Using SwiftUI This is mostly out-of-topic for this post, so I'll keep it short. I decided to use SwiftUI for this project as a learning opportunity, and I sort of regret it. As mentioned in my SwiftUI vs UIKit post, SwiftUI is good for simple apps, but awful for more complex ones. As BB grew and became more intricate, SwiftUI became more and more of an issue. The app today is full of dirty hacks and visual bugs that are impossible to solve (as of writing) because they originate from SwiftUI itself, in ways that are impossible for me to control without dumping the entire framework.",
+    "author": "Bruno Rocha",
+    "published": "Thu, 23 Jan 2025 13:00:00 GMT+1",
+    "image": "",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "15ccbf2e-a23b-4ce7-a887-fdf0272572e3",
+    "title": "SwiftUI Label and Button Style View Modifiers",
+    "link": "https://useyourloaf.com/blog/swiftui-label-and-button-style-view-modifiers/",
+    "description": "A quick tip on creating convenient extensions on SwiftUI Label and Button Styles. Button and Label Styles I’ve written about creating custom SwiftUI Button and Label styles. Here’s an example of an adaptive label style which switches the icon and title to a vertical layout for compact horizontal size classes: struct AdaptiveLabelStyle: LabelStyle { @Environment(\\.horizontalSizeClass) var horizontalSizeClass func makeBody(configuration: Configuration) -\u003e some View { if horizontalSizeClass == .compact { VStack { configuration.icon configuration.title } } else { Label(configuration) } } } Another example of a custom capsule button style which places the button label in a filled yellow capsule, uses a monospaced font design, and animates the symbol when pressed: struct CapsuleButtonStyle: ButtonStyle { func makeBody(configuration: Configuration) -\u003e some View { configuration.label .padding() .foregroundStyle(.black) .background(.yellow, in: Capsule()) .fontDesign(.monospaced) .symbolVariant(configuration.isPressed ? .fill : .none) } } Here’s how they both look when applied to a view: VStack(spacing: 16) { Label(\"Favourite\", systemImage: \"star\") .labelStyle(AdaptiveLabelStyle()) Button(\"Start\", systemImage: \"play.circle\") {} .buttonStyle(CapsuleButtonStyle()) } This is like creating custom View modifiers. The difference is that it seems less common to create the convenience extension on LabelStyle or ButtonStyle. For example, I’d like to use a more compact form of the modifier: Label(\"Favourite\", systemImage: \"star\") .labelStyle(.adaptive) Button(\"Start\", systemImage: \"play.circle\") {} .buttonStyle(.capsule) It’s a small improvement, but I don’t see any documentation from Apple on how to achieve that. Extending ButtonStyle Looking at the definitions of the built-in styles gives us a clue on what’s needed. For example, here’s the bordered button style (some annotations omitted for brevity): extension PrimitiveButtonStyle where Self == BorderedButtonStyle { static var bordered: BorderedButtonStyle { get } } I’m not using the more flexible PrimitiveButtonStyle but a similar approach works for ButtonStyle: extension ButtonStyle where Self == CapsuleButtonStyle { static var capsule: CapsuleButtonStyle { CapsuleButtonStyle() } } I can now use the compact form of the button style modifier: .buttonStyle(.capsule) Extending LabelStyle The LabelStyle works the same way: extension LabelStyle where Self == AdaptiveLabelStyle { static var adaptive: AdaptiveLabelStyle { AdaptiveLabelStyle() } } That allows me to write: .labelStyle(.adaptive) What About Parameters? What if my custom style has a parameter? Let’s make the color in our capsule button style configurable: struct CapsuleButtonStyle: ButtonStyle { let color: Color init(_ color: Color) { self.color = color } func makeBody(configuration: Configuration) -\u003e some View { configuration.label .padding() .foregroundStyle(.black) .background(color, in: Capsule()) .fontDesign(.monospaced) .symbolVariant(configuration.isPressed ? .fill : .none) } } Our ButtonStyle extension becomes a function instead of a var: extension ButtonStyle where Self == CapsuleButtonStyle { static func capsule(_ color: Color) -\u003e CapsuleButtonStyle { CapsuleButtonStyle(color) } } In use: .buttonStyle(.capsule(.orange)) See Also SwiftUI Button Imaged When Pressed Adapting SwiftUI Label Style SwiftUI Custom View modifiers SwiftUI Label and Button Style View Modifiers was originally posted 28 Apr 2025 on useyourloaf.com. Want this direct to your inbox? Sign up and get my free WWDC viewing guide PDF.",
+    "author": "",
+    "published": "Mon, 28 Apr 2025 10:50:50 +0100",
+    "image": "https://useyourloaf.com/blog/swiftui-label-and-button-style-view-modifiers/001.png",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "f1c8e40b-82d4-4e22-8844-c378c8d86338",
+    "title": "SwiftUI Keyboard Shortcut Scope",
+    "link": "https://useyourloaf.com/blog/swiftui-keyboard-shortcut-scope/",
+    "description": "A SwiftUI keyboard shortcut remains active as long as the control it’s attached to is still in the view hierarchy, even when not onscreen. Adding Keyboard Shortcuts SwiftUI added The .keyboardShortcut modifier in iOS 14. You apply the modifier to a control. The keyboard shortcut performs the primary action of the control. The shortcut defaults to using the command modifier but you can change that: .keyboardShortcut(\"D\", modifiers: [.control, .option]) Here’s an example of navigation from a root to detail view with keyboard shortcuts applied to the buttons: struct ContentView: View { @State private var isPresented: Bool = false var body: some View { NavigationStack { VStack(spacing: 16) { Button(\"Detail\") { isPresented = true } .keyboardShortcut(\"D\") Button(\"New\") { ... } .keyboardShortcut(\"N\") } .navigationTitle(\"Title\") .navigationBarTitleDisplayMode(.inline) .navigationDestination(isPresented: $isPresented) { Button(\"Edit\") { ... } .keyboardShortcut(\"E\") .navigationTitle(\"Detail\") } } } } A command-N on the root view performs the new button action. A command-D performs the detail button action triggering a navigation to the detail view. On the detail view, command-E performs the edit button action. Keyboard Shortcut Scope What’s surprising to me is that the command-N and command-D keyboard shortcuts are still active on the detail view. You can see this when holding down the command key to view the available keyboard shortcuts. Here’s the available shortcuts from the root view: If I navigate to the detail view, the new and detail button are no longer onscreen but their shortcuts still show up and trigger their actions: What’s Happening? From the documentation: The target of a keyboard shortcut is resolved in a leading-to-trailing, depth-first traversal of one or more view hierarchies. On macOS, the system looks in the key window first, then the main window, and then the command groups; on other platforms, the system looks in the active scene, and then the command groups. So the system searches for the first control associated with the shortcut in the window/scene view hierarchy. It doesn’t matter if the control is offscreen. I can see situations where you might want a shortcut to trigger when the control is offscreen but it’s not what I want here. Workaround The best workaround I’ve been able to come up with is to disable controls when I don’t want the shortcut to be active. In this example, I can use the isPresented state to disable the new and detail commands when I’m presenting the detail view: Button(\"Detail\") { isPresented = true } .keyboardShortcut(\"D\") .disabled(isPresented) Button(\"New\") { ... } .keyboardShortcut(\"N\") .disabled(isPresented) See also this comment from Curt Clifton SwiftUI Keyboard Shortcut Scope was originally posted 07 Apr 2025 on useyourloaf.com. Want this direct to your inbox? Sign up and get my free WWDC viewing guide PDF.",
+    "author": "",
+    "published": "Mon, 07 Apr 2025 13:07:55 +0100",
+    "image": "https://useyourloaf.com/blog/swiftui-keyboard-shortcut-scope/001.png",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "fc868da0-3bcd-46aa-b003-f1ca0b2a8c46",
+    "title": "317: Optimizing for Battery Life",
+    "link": "http://relay.fm/radar/317",
+    "description": "Testing our apps for power consumption and adjusting behavior to maximize battery life.",
+    "author": "Marco Arment and David Smith",
+    "published": "Thu, 24 Apr 2025 14:30:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar317.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  },
+  {
+    "id": "a788c080-ef93-4dff-baf7-34d396ccd0ee",
+    "title": "316: Job Security",
+    "link": "http://relay.fm/radar/316",
+    "description": "Whether \"anyone\" can make apps now with AI tools, and how that affects our apps, relevant skills, and careers.",
+    "author": "Marco Arment and David Smith",
+    "published": "Thu, 10 Apr 2025 14:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar316.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  },
+  {
+    "id": "ad7ca900-eb54-4887-afaa-ca147d074a81",
+    "title": "Seattle Xcoders Presentation Meetings Return",
+    "link": "https://inessential.com/2025/03/16/seattle_xcoders_presentations_return.html",
+    "description": "Thanks to the enterprising and tireless Xcoders organizers (not me — I’m just the PR guy), we’re finally returning to presentation meetings. At long last! Thursday, April 3. Read all about it on the Xcoders blog.",
+    "author": "",
+    "published": "Sun, 16 Mar 2025 11:45:00 -0700",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "8ec3dce7-38b7-4c9a-a3ed-5ba5f9b8f45e",
+    "title": "Harris for President",
+    "link": "https://inessential.com/2024/10/31/harris_for_president.html",
+    "description": "Donald Trump is a gross villain and a traitor to our country. He’s a convicted felon, adjudicated rapist, and head of a criminal organization; he works with criminals and he pardons criminals; he’s a narcissist and violent insurrectionist, racist and misogynist; he’s the master of lies and corruption and self-serving. He plans to rule as a fascist dictator, and this time has the backing to do so, for the benefit of him and his ultra-wealthy friends. Not for you. For everybody else, the various enemies within — everybody who isn’t a straight white male who goes along with the program — there will be concentration camps, deportation, prison, and rumors and threats of each. There will be more deaths in hospital parking lots. I have voted for Kamala Harris. I ask you to vote for her too. I happen to think Harris would be very good, possibly even great, as president. But it hardly matters! Voting for her is how we stop this. And we have to stop this.",
+    "author": "",
+    "published": "Thu, 31 Oct 2024 13:04:03 -0700",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "71fba68b-9889-415c-8559-07f58e36c104",
+    "title": "Swift 6 suitable notification observers in iOS",
+    "link": "https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/",
+    "description": "The author discusses challenges managing side projects, specifically updating SignalPath to Swift 6. They encountered errors related to multiple notification observations but resolved them by shifting to publishers, avoiding sendable closure issues. Although the new approach risks background thread notifications, the compiler is satisfied with the adjustments made to the code.",
+    "author": "Toomas Vahter",
+    "published": "Mon, 18 Nov 2024 16:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "iOS",
+      "Swift"
+    ]
+  },
+  {
+    "id": "41f51323-adfd-4dec-a78c-a53c7f0d0f19",
+    "title": "AnyClass protocol and Objective-C methods",
+    "link": "https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/",
+    "description": "AnyClass is a protocol all classes conform to and it comes with a feature I was not aware of. But first, how to I ended up with using AnyClass. While working on code using CoreData, I needed a way to enumerate all the CoreData entities and call a static function on them. If that function […]",
+    "author": "Toomas Vahter",
+    "published": "Mon, 04 Nov 2024 16:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "iOS",
+      "Swift",
+      "AnyClass"
+    ]
+  },
+  {
+    "id": "f94334d3-28f1-4186-a8c6-1aa21e6e1ea5",
+    "title": "Solar Powered Birdhouse",
+    "link": "https://atomicbird.com/blog/birdhouse-solar-power/",
+    "description": "In my last couple of posts I’ve talked about the hardware and software behind my birdhouse camera project. I haven’t previously covered how I’m giving it all enough power to operate, and therein lies a tale. No Power? No Problem If I had a power outlet located anywhere near the bird house, this would have been easy. Pretty much any micro-USB power adapter would plug into the Raspberry Pi, and I’d be set.",
+    "author": "",
+    "published": "Thu, 19 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "33ec73e4-ed13-435b-9e1c-aee2a1dbe721",
+    "title": "Raspberry Pi Birdhouse Software",
+    "link": "https://atomicbird.com/blog/birdhouse-software/",
+    "description": "In my last post I went over the components of the bird house camera I set up this year to get a better look at the local black-capped chickadees. Today I’ll talk about the software that makes it work. Initial Setup Being relatively new to Raspberry Pi, I started off with a full install of Raspbian Deskop. It’s more than I need, since I won’t have anything like a desktop setup, but with a 64GB SD card I wasn’t concerned about the space.",
+    "author": "",
+    "published": "Mon, 09 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  }
+]
