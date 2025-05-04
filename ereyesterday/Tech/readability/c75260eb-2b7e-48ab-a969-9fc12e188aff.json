@@ -1,0 +1,33 @@
+{
+  "id": "c75260eb-2b7e-48ab-a969-9fc12e188aff",
+  "title": "Time saved by AI offset by new work created, study suggests",
+  "link": "https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/",
+  "description": "Survey of 2023–2024 data finds that AI created more tasks for 8.4 percent of workers.",
+  "author": "Benj Edwards",
+  "published": "Thu, 01 May 2025 21:32:27 +0000",
+  "source": "http://feeds.arstechnica.com/arstechnica/index",
+  "categories": [
+    "AI",
+    "Biz \u0026 IT",
+    "AI and work",
+    "AI assistants",
+    "AI study",
+    "generative ai",
+    "large language models",
+    "machine learning",
+    "The Register",
+    "University of Chicago",
+    "University of Copenhagen"
+  ],
+  "byline": "Benj Edwards",
+  "length": 2108,
+  "excerpt": "Survey of 2023–2024 data finds that AI created more tasks for 8.4 percent of workers.",
+  "siteName": "Ars Technica",
+  "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+  "text": "A new study analyzing the Danish labor market in 2023 and 2024 suggests that generative AI models like ChatGPT have had almost no significant impact on overall wages or employment yet, despite rapid adoption in some workplaces. The findings, detailed in a working paper by economists from the University of Chicago and the University of Copenhagen, provide an early, large-scale empirical look at AI's transformative potential. In \"Large Language Models, Small Labor Market Effects,\" economists Anders Humlum and Emilie Vestergaard focused specifically on the impact of AI chatbots across 11 occupations often considered vulnerable to automation, including accountants, software developers, and customer support specialists. Their analysis covered data from 25,000 workers and 7,000 workplaces in Denmark. Despite finding widespread and often employer-encouraged adoption of these tools, the study concluded that \"AI chatbots have had no significant impact on earnings or recorded hours in any occupation\" during the period studied. The confidence intervals in their statistical analysis ruled out average effects larger than 1 percent. \"The adoption of these chatbots has been remarkably fast,\" Humlum told The Register about the study. \"Most workers in the exposed occupations have now adopted these chatbots... But then when we look at the economic outcomes, it really has not moved the needle.\" AI creating more work? During the study, the researchers investigated how company investment in AI affected worker adoption and how chatbots changed workplace processes. While corporate investment boosted AI tool adoption—saving time for 64 to 90 percent of users across studied occupations—the actual benefits were less substantial than expected. The study revealed that AI chatbots actually created new job tasks for 8.4 percent of workers, including some who did not use the tools themselves, offsetting potential time savings. For example, many teachers now spend time detecting whether students use ChatGPT for homework, while other workers review AI output quality or attempt to craft effective prompts.",
+  "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/AI_work_interference-1152x648.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n                      \n                      \n          \u003cp\u003eA \u003ca href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219933\"\u003enew study\u003c/a\u003e analyzing the Danish labor market in 2023 and 2024 suggests that generative AI models like \u003ca href=\"https://arstechnica.com/information-technology/2023/11/chatgpt-was-the-spark-that-lit-the-fire-under-generative-ai-one-year-ago-today/\"\u003eChatGPT\u003c/a\u003e have had almost no significant impact on overall wages or employment yet, despite rapid adoption in some workplaces. The findings, detailed in a \u003ca href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219933\"\u003eworking paper\u003c/a\u003e by economists from the University of Chicago and the University of Copenhagen, provide an early, large-scale empirical look at AI\u0026#39;s transformative potential.\u003c/p\u003e\n\u003cp\u003eIn \u0026#34;Large Language Models, Small Labor Market Effects,\u0026#34; economists \u003ca href=\"https://www.andershumlum.com/\"\u003eAnders Humlum\u003c/a\u003e and \u003ca href=\"https://www.economics.ku.dk/staff/phd_kopi/?pure=en/persons/655200\"\u003eEmilie Vestergaard\u003c/a\u003e focused specifically on the impact of AI chatbots across 11 occupations often considered vulnerable to automation, including accountants, software developers, and customer support specialists. Their analysis covered data from 25,000 workers and 7,000 workplaces in Denmark.\u003c/p\u003e\n\u003cp\u003eDespite finding widespread and often employer-encouraged adoption of these tools, the study concluded that \u0026#34;AI chatbots have had no significant impact on earnings or recorded hours in any occupation\u0026#34; during the period studied. The confidence intervals in their statistical analysis ruled out average effects larger than 1 percent.\u003c/p\u003e\n\u003cp\u003e\u0026#34;The adoption of these chatbots has been remarkably fast,\u0026#34; Humlum told \u003ca href=\"https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/\"\u003eThe Register\u003c/a\u003e about the study. \u0026#34;Most workers in the exposed occupations have now adopted these chatbots... But then when we look at the economic outcomes, it really has not moved the needle.\u0026#34;\u003c/p\u003e\n\u003ch2\u003eAI creating more work?\u003c/h2\u003e\n\u003cp\u003eDuring the study, the researchers investigated how company investment in AI affected worker adoption and how chatbots changed workplace processes. While corporate investment boosted AI tool adoption—saving time for 64 to 90 percent of users across studied occupations—the actual benefits were less substantial than expected.\u003c/p\u003e\n\u003cp\u003eThe study revealed that AI chatbots actually created new job tasks for 8.4 percent of workers, including some who did not use the tools themselves, offsetting potential time savings. For example, many teachers now spend time detecting whether students use ChatGPT for homework, while other workers review AI output quality or attempt to craft effective prompts.\u003c/p\u003e\n\n          \n                      \n                  \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "3 min read",
+  "publishedTime": "2025-05-01T21:32:27Z",
+  "modifiedTime": "2025-05-01T21:32:46Z"
+}
