@@ -1,0 +1,32 @@
+{
+  "id": "580b0a0a-bf2f-4bed-914e-8d6dee9875c5",
+  "title": "Improving on a 30-year-old hardware architecture",
+  "link": "https://stackoverflow.blog/2025/05/02/improving-on-a-30-year-old-hardware-architecture/",
+  "description": "At HumanX 2025, Ryan chatted with Rodrigo Liang, cofounder and CEO of SambaNova, about reimagining 30-year-old hardware architecture for the AI era.",
+  "author": "Eira May",
+  "published": "Fri, 02 May 2025 07:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "se-tech",
+    "se-stackoverflow",
+    "podcast",
+    "generative-ai",
+    "ai",
+    "hardware",
+    "architecture",
+    "software-architecture",
+    "llm",
+    "humanx"
+  ],
+  "byline": "Eira May",
+  "length": 450,
+  "excerpt": "SambaNova makes a full-stack AI platform and an “intelligent chip” capable of running models of up to five trillion parameters, allowing developers to run state-of-the-art open source models without the time-consuming work of tuning and modeling. See what developers are building with the tech.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "SambaNova makes a full-stack AI platform and an “intelligent chip” capable of running models of up to five trillion parameters, allowing developers to run state-of-the-art open source models without the time-consuming work of tuning and modeling. See what developers are building with the tech.Find Rodrigo on LinkedIn.This episode was recorded at HumanX in March. Next year’s event will be April 6-9, 2026 in San Francisco. Register today!TRANSCRIPT",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003e\u003ca href=\"https://sambanova.ai/\"\u003eSambaNova\u003c/a\u003e makes a full-stack AI platform and an “\u003ca href=\"https://sambanova.ai/press/sambanova-unveils-new-chip-the-sn40l\"\u003eintelligent chip\u003c/a\u003e” capable of running models of up to five trillion parameters, allowing developers to run state-of-the-art open source models without the time-consuming work of tuning and modeling. See \u003ca href=\"https://sambanova.ai/developer-showcase\"\u003ewhat developers are building\u003c/a\u003e with the tech.\u003c/p\u003e\u003cp\u003eFind Rodrigo on \u003ca href=\"https://www.linkedin.com/in/rodrigo-liang/\"\u003eLinkedIn\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eThis episode was recorded at \u003ca href=\"https://www.humanx.co/\"\u003eHumanX\u003c/a\u003e in March. Next year’s event will be April 6-9, 2026 in San Francisco. \u003ca href=\"https://www.humanx.co/early-bird\"\u003eRegister today\u003c/a\u003e!\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://the-stack-overflow-podcast.simplecast.com/episodes/improving-on-a-30-year-old-hardware-architecture/transcript\" rel=\"noopener\" target=\"_blank\"\u003eTRANSCRIPT\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
