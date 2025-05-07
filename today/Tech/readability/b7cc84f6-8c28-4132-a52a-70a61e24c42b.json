@@ -1,0 +1,21 @@
+{
+  "id": "b7cc84f6-8c28-4132-a52a-70a61e24c42b",
+  "title": "Show HN: Clippy – 90s UI for local LLMs",
+  "link": "https://felixrieseberg.github.io/clippy/",
+  "description": "Comments",
+  "author": "",
+  "published": "Tue, 06 May 2025 15:02:22 +0000",
+  "source": "https://news.ycombinator.com/rss",
+  "categories": null,
+  "byline": "",
+  "length": 1547,
+  "excerpt": "Clippy lets you run a variety of large language models (LLMs) locally on your computer while sticking with a user interface of the 1990s. It's a love letter and homage to the late, great Clippy - and the visual design created by Microsoft in that era.",
+  "siteName": "",
+  "favicon": "",
+  "text": "Clippy lets you run a variety of large language models (LLMs) locally on your computer while sticking with a user interface of the 1990s. It's a love letter and homage to the late, great Clippy - and the visual design created by Microsoft in that era. Simple, familiar, and classic chat interface. Send messages to your models, get a response. Batteries included: No complicated setup. Just open the app and chat away. Thanks to llama.cpp and node-llama-cpp, the app will automatically discover the most efficient way to run your models (Metal, CUDA, Vulkan, etc). Custom models, prompts, and parameters: Load your own downloaded models and play with the settings. Offline, local, free: Everything runs on your computers. The only network request Clippy makes is to check for updates (which you can disable). This app is not affiliated, approved, or supported by Microsoft. This project isn't trying to be your best chat bot. I'd like you to enjoy a weird mix of nostalgia for 1990s technology paired with one the most magical technologies we can run on our computers in 2025. Do you want to download Clippy for your computer?",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n          \u003cp\u003e\n            Clippy lets you run a variety of large language models (LLMs)\n            locally on your computer while sticking with a user interface of the\n            1990s. It\u0026#39;s a love letter and homage to the late, great Clippy - and\n            the visual design created by Microsoft in that era.\n          \u003c/p\u003e\n          \u003cul\u003e\n            \u003cli\u003e\n              \u003cstrong\u003eSimple, familiar, and classic chat interface\u003c/strong\u003e.\n              Send messages to your models, get a response.\n            \u003c/li\u003e\n            \u003cli\u003e\n              \u003cstrong\u003eBatteries included: No complicated setup\u003c/strong\u003e. Just\n              open the app and chat away. Thanks to llama.cpp and\n              \u003ccode\u003enode-llama-cpp\u003c/code\u003e, the app will automatically discover\n              the most efficient way to run your models (Metal, CUDA, Vulkan,\n              etc).\n            \u003c/li\u003e\n            \u003cli\u003e\n              \u003cstrong\u003eCustom models, prompts, and parameters\u003c/strong\u003e: Load your\n              own downloaded models and play with the settings.\n            \u003c/li\u003e\n            \u003cli\u003e\n              \u003cstrong\u003eOffline, local, free\u003c/strong\u003e: Everything runs on your\n              computers. The only network request Clippy makes is to check for\n              updates (which you can disable).\n            \u003c/li\u003e\n          \u003c/ul\u003e\n          \u003cp\u003e\n            This app is not affiliated, approved, or supported by Microsoft.\n            This project isn\u0026#39;t trying to be your best chat bot. I\u0026#39;d like you to\n            enjoy a weird mix of nostalgia for 1990s technology paired with one\n            the most magical technologies we can run on our computers in 2025.\n          \u003c/p\u003e\n          \u003cp\u003eDo you want to download Clippy for your computer?\u003c/p\u003e\n          \n        \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": null,
+  "modifiedTime": null
+}

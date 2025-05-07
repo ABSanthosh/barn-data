@@ -1,0 +1,250 @@
+[
+  {
+    "id": "0c8cc82a-33a4-4990-8900-35beefdbf4c0",
+    "title": "iOS 18.5 Brings Small but Smart Upgrades to iPhone — Here's What's New",
+    "link": "https://ios.gadgethacks.com/news/ios-18.5-features/",
+    "description": "Apple's iOS 18.5 update may be lighter on headline features than its predecessor, but it still brings a few quality-of-life upgrades and behind-the-scenes enhancements that make using your iPhone just a bit smoother. It's a smaller release, but if you dig into the details, you'll find thoughtful refinements across core apps and settings that help simplify tasks and give you more control. From quick access settings in Mail to faster recovery options in Photos, iOS 18.5 trims a few extra steps from your daily workflow. AppleCare \u0026 Warranty details have also been reorganized, and the Back Tap detection banner returns after disappearing in iOS 18.4. Plus, Apple Wallet may soon support digital car keys for another vehicle brand. While the long-promised Apple Intelligence-powered Siri experience is still absent, iOS 18.5 continues laying the groundwork with subtle under-the-hood changes. And as usual, many of these features may also appear in iPadOS 18.5 for iPads. Here's a full look at...more",
+    "author": "Justin Meyers",
+    "published": "Mon, 05 May 2025 17:56:02 GMT",
+    "image": "https://assets.content.technologyadvice.com/18_5_cover_with_icons_f0aaa09e6e.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "0a422310-fc5d-46cd-a85a-e1154a2ea2f1",
+    "title": "How to Send Star Wars Emoji in Text Messages and Chats",
+    "link": "https://smartphones.gadgethacks.com/how-to/send-star-wars-emoji-text-messages-chats-0163772/",
+    "description": "Why are there no official Star Wars emoji in the Unicode Standard? We've got the Vulcan Salute from Star Trek, so where's the force choke hand gesture?! While you may never see Star Wars officially invade your emoji keyboard, there are ways to send Star Wars emoji and stickers to your friends in your favorite chat app. What are Star Wars emoji?First, before you start spamming your conversations with Baby Yoda and Darth Vader, know that none of these are official emoji. Actual emoji on your device's keyboard are part of the Unicode Standard, which receives updates frequently. For instance, Apple pushed out its latest emoji update with iOS 18.4. However, just because the Star Wars emoji in this guide aren't official emoji doesn't mean they aren't technically emoji. According to Unicode, emoji are simply \"picture characters,\" and \"emoji\" literally translates to \"picture\" and \"written character\" from Japanese, where they originated. So any pictogram, ideogram, logogram, or whatever-gram...more",
+    "author": "Justin Meyers",
+    "published": "Fri, 02 May 2025 14:48:52 GMT",
+    "image": "https://assets.content.technologyadvice.com/635748950766053262_c21fdcfd5f.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "71461e8b-a0ae-4e5d-b0ad-1a2631f3cc7f",
+    "title": "Podcast Listeners – We want to hear from you!",
+    "link": "https://abeautifulmess.com/podcast-survey/",
+    "description": "Thanks so much for listening to and supporting our podcast! If you heard the latest episode then you know we are gearing up for a new season in mid August 2024. We’ll be putting out new episodes every week for the rest of the year and making a few small improvements along the way. (We…",
+    "author": "Emma Chapman",
+    "published": "Mon, 05 May 2025 10:00:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2023/12/Emma-and-Elsie.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "podcast"
+    ]
+  },
+  {
+    "id": "9ea471a9-9bd0-4db2-8b8b-c656f2ab1abc",
+    "title": "10 Things I Love Sunday",
+    "link": "https://abeautifulmess.com/10-things-i-love-sunday-344-2/",
+    "description": "Hello friends. Welcome back to our weekly roundup of ten things we are loving. May is off to a weird start as currently our kitchen is being renovated. We’re living that air fryer lifestyle for the foreseeable future. It definitely makes me thankful for modern conveniences I typically take for granted. 10 Things I Love…",
+    "author": "Elsie Larson",
+    "published": "Sun, 04 May 2025 13:45:48 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2025/05/paint-brushes.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "db7b65b8-e112-4f05-9f57-5fafd0c98701",
+    "title": "Five Oddest Op Amp Applications",
+    "link": "https://hackaday.com/2025/05/06/five-oddest-op-amp-applications/",
+    "description": "You think of op amps as amplifiers because, no kidding, it is right in the name. But just like some people say, “you could do that with a 555,” [Doctor …read more",
+    "author": "Al Williams",
+    "published": "Tue, 06 May 2025 23:00:03 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/05/amp.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Parts",
+      "analog",
+      "op amps",
+      "parts"
+    ]
+  },
+  {
+    "id": "16ebd0f4-d1fa-434d-98aa-7df8e6fc041d",
+    "title": "A New, Smarter Universal Remote",
+    "link": "https://hackaday.com/2025/05/06/a-new-smarter-universal-remote/",
+    "description": "The remote for [Dillan Stock]’s TV broke, so he built a remote. Not just as a replacement but as something new. For some of us, there was a glorious time …read more",
+    "author": "Matthew Carlson",
+    "published": "Tue, 06 May 2025 20:00:25 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/05/152441997d3561e260f694e759af0d11520daa2318571-2.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "home hacks",
+      "Wireless Hacks",
+      "ESP32",
+      "homeassistant",
+      "remote",
+      "smarthome"
+    ]
+  },
+  {
+    "id": "0fbac911-9b6c-4bc0-b37d-9314ce3cb351",
+    "title": "Combating Unwanted Holiday Guests: Dust Bunnies",
+    "link": "https://www.doityourself.com/stry/combating-unwanted-holiday-guests-dust-bunnies",
+    "description": "Keep your home sparkling and your air quality clean with these tips.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg0.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/972/dust-bunny-195972.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "35f11a03-9f2d-40cb-a088-516492a51e06",
+    "title": "Learn These Basic Car Maintenance Skills Before a Road Trip",
+    "link": "https://www.doityourself.com/stry/learn-these-basic-car-maintenance-skills-before-a-road-trip",
+    "description": "They can come in very handy in a tough situation.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg2.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/694/shutterstock_104261411-703694.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "86240819-e7ac-4489-8564-3fc307003f04",
+    "title": "This Mom Made a Ball Pit From IKEA Shelves (It’s The Funnest Hack We’ve Seen In A Long Time!)",
+    "link": "https://ikeahackers.net/2025/05/diy-ball-pit.html",
+    "description": "I have plenty of fun childhood memories of jumping into ball pits and trying to swim through piles of plastic balls. I mean, as a kid, you haven’t fully lived until you’ve participated in an epic ball toss fight, right? Now, I watch my son giggle with glee as he does the same things that kids were doing generations ago. Undeniably, a ball pit carries a certain nostalgic charm and enduring fun. What kid wouldn’t want to have their very […] The post This Mom Made a Ball Pit From IKEA Shelves (It’s The Funnest Hack We’ve Seen In A Long Time!) appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Tue, 06 May 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Toys \u0026 Play",
+      "20 BRILLIANT WAYS TO HACK THE IKEA KALLAX BOOKCASE",
+      "Latest on IG"
+    ]
+  },
+  {
+    "id": "510934ca-2b87-430f-8d7f-d3f0e9ceecc9",
+    "title": "The Super Long TV Unit We Wanted Didn’t Exist—So We Built It",
+    "link": "https://ikeahackers.net/2025/05/long-tv-cabinet.html",
+    "description": "Sometimes, you just can’t seem to find the piece you want when it comes to furniture. I get this. We’ve been on the hunt for an entryway console for a white, and finding the perfect fit has been a challenge. I’m thinking we’ll ultimately end up doing what Antti Julku (from Vantaa, Finland) did and make one. Antti was looking for a long TV cabinet for the living room and was struggling to find the right one. After seeing some […] The post The Super Long TV Unit We Wanted Didn’t Exist—So We Built It appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Thu, 01 May 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "IKEA TV and Entertainment Center Hacks",
+      "Latest on IG",
+      "Metod",
+      "Sektion"
+    ]
+  },
+  {
+    "id": "0fdb9bda-4179-4fe8-ac8b-33949cf93eca",
+    "title": "As Video Games Get More Expensive, I'm Turning to Subscriptions",
+    "link": "https://www.howtogeek.com/as-video-games-get-more-expensive-im-turning-to-subscriptions/",
+    "description": "Finances can be all the reason to leave.",
+    "author": "Jorge A. Aguilar",
+    "published": "Tue, 06 May 2025 21:00:16 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/05/xbox-game-pass-logo-next-to-a-few-games-and-an-xbox-series-s.jpg",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Video Games",
+      "Xbox Game Pass",
+      "PlayStation Plus",
+      "xbox",
+      "PlayStation",
+      "PC Gaming"
+    ]
+  },
+  {
+    "id": "2a3b0985-f391-4e9f-80df-91f79b3263d1",
+    "title": "How to Make Your Smart Home Devices Play Nicely Together",
+    "link": "https://www.howtogeek.com/how-to-make-your-smart-home-devices-play-nicely-together/",
+    "description": "Integrating different smart home devices can be frustrating, but some things can help.",
+    "author": "Adam Davidson",
+    "published": "Tue, 06 May 2025 20:00:15 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/e1a735c5.png",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Smart Home",
+      "Apple HomeKit \u0026 Apple HomePod",
+      "Amazon Alexa \u0026 Amazon Echo",
+      "Google Home",
+      "Home Assistant"
+    ]
+  },
+  {
+    "id": "f35fb2ba-bd4b-4446-b0fe-23b8caec8877",
+    "title": "Microsoft Copilot Just Received an Enormous Update—but It's Too Little, Too Late",
+    "link": "https://www.makeuseof.com/why-microsoft-copilot-cant-compete-chatgpt/",
+    "description": "Copilot still has a long way to go before it can truly compete with the best.",
+    "author": "Danny Maiorca",
+    "published": "Tue, 06 May 2025 22:44:06 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-smartphone-screen.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Technology Explained",
+      "Microsoft Copilot",
+      "Artificial Intelligence",
+      "Chatbot"
+    ]
+  },
+  {
+    "id": "a110b045-169f-4699-b127-685e894ba8b7",
+    "title": "Spotify’s New Metric Will Help You Discover the Best Podcasts",
+    "link": "https://www.makeuseof.com/spotify-adds-playcounts-podcasts/",
+    "description": "It’s long overdue, but I'm glad I finally have a way to check out the best podcasts at a glance.",
+    "author": "Vinayak Guhanarayan",
+    "published": "Tue, 06 May 2025 22:26:29 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/a-spotify-logo-on-a-smartphone.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Entertainment",
+      "Spotify",
+      "Podcasts"
+    ]
+  },
+  {
+    "id": "94c46664-fc8c-4661-96ca-70bfdfb52491",
+    "title": "Hand-Quilted Coasters",
+    "link": "https://ohhappyday.com/2022/10/hand-quilted-coasters/",
+    "description": "Get ready for those shorter days and cooler nights by adding a little warmth and color to your home or next gathering. We partnered with Fiskars to use their collection of fabric cutting tools to craft these modern patchwork style coasters. These require a bit of machine sewing but are super beginner friendly, and the...Read More",
+    "author": "olivia",
+    "published": "Tue, 04 Oct 2022 15:09:34 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/BLOG_OHD_FiskarsCoasters-Hero1.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "place cards",
+      "autumn",
+      "coasters",
+      "cutter",
+      "cutting mat",
+      "diy",
+      "drinks",
+      "fabric",
+      "fall",
+      "fiskars",
+      "quilt",
+      "scissors",
+      "sewing"
+    ]
+  },
+  {
+    "id": "607c1b8c-bd9d-48db-b2d7-977a88242d13",
+    "title": "5 Ways to Fall",
+    "link": "https://ohhappyday.com/2022/09/5-ways-to-fall/",
+    "description": "We are rounding up some of our favorite Fall throwbacks. This also means Halloween is around the corner and it’s time to start costume brainstorming – any suggestions? In the meantime, here are a few of our favorite DIYs to start your Fall Checklist! Rainbow Pumpkin Centerpiece – an OHD classic! Ombre Leaves Backdrop –...Read More",
+    "author": "Jordan",
+    "published": "Fri, 30 Sep 2022 16:49:26 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/FALL2.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "party",
+      "craft",
+      "diy",
+      "fall",
+      "ombre",
+      "pies",
+      "pumpkin",
+      "rainbow",
+      "roundup",
+      "smores"
+    ]
+  }
+]
