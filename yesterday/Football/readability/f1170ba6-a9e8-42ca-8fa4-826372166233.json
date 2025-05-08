@@ -1,0 +1,23 @@
+{
+  "id": "f1170ba6-a9e8-42ca-8fa4-826372166233",
+  "title": "Dumfries takes pride in Inter´s fight after reaching Champions League final",
+  "link": "https://www.soccernews.com/dumfries-takes-pride-in-inter-s-fight-after-reaching-champions-league-final/385215/",
+  "description": "Denzel Dumfries provided two assists to help Inter reach the Champions League semi-final after a dramatic second-leg showdown with Barcelona at San Siro ended 4-3 to the hosts. A 3-3 draw in the first leg at Montjuic set the stage for another thriller, with Davide Frattesi booking Inter’s spot in the final with an extra-time […] The post Dumfries takes pride in Inter´s fight after reaching Champions League final appeared first on Soccer News.",
+  "author": "SoccerNews",
+  "published": "Wed, 07 May 2025 00:07:00 +0000",
+  "source": "https://www.soccernews.com/feed",
+  "categories": [
+    "General Soccer News"
+  ],
+  "byline": "SoccerNews",
+  "length": 169,
+  "excerpt": "Denzel Dumfries provided two assists to help Inter reach the Champions League semi-final after a dramatic second-leg showdown with Barcelona at San Siro ended 4-3 to the hosts. A 3-3 draw in the first leg at Montjuic set the stage for another thriller, with Davide Frattesi booking Inter’s spot in the final with an extra-time […]",
+  "siteName": "Soccer News",
+  "favicon": "",
+  "text": "Uncaught Error Exception: Invalid Section UID File: /var/www/soccernews.com/public_html/wp-content/themes/SN/single.php Line: 13 Function: ff_get_all_fields_from_section",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003eUncaught Error Exception: Invalid Section UID\n\u003cbr/\u003eFile: /var/www/soccernews.com/public_html/wp-content/themes/SN/single.php\n\u003cbr/\u003eLine: 13\n\u003cbr/\u003eFunction: ff_get_all_fields_from_section\n\u003cbr/\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-05-07T00:07:00Z",
+  "modifiedTime": null
+}
