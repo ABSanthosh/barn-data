@@ -1,0 +1,136 @@
+[
+  {
+    "id": "e0e7bb00-2357-40fa-b372-6d8d0127a926",
+    "title": "Fram2 Polar Orbit Views",
+    "link": "https://www.youtube.com/watch?v=BYTE4MtR0do",
+    "description": "",
+    "author": "SpaceX",
+    "published": "2025-05-04T23:29:11+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel",
+    "categories": null
+  },
+  {
+    "id": "c935602d-a6ce-4409-9441-20490ba043aa",
+    "title": "Starship | Seventh Flight Test",
+    "link": "https://www.youtube.com/watch?v=Pn6e1O5bEyA",
+    "description": "",
+    "author": "SpaceX",
+    "published": "2025-02-25T00:31:19+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel",
+    "categories": null
+  },
+  {
+    "id": "15a3eca1-b508-496b-bea6-d076c1e57825",
+    "title": "NASA Live Coverage, Original Content Now Streaming on Prime Video",
+    "link": "https://www.nasa.gov/news-release/nasa-live-coverage-original-content-now-streaming-on-prime-video/",
+    "description": "NASA’s on-demand streaming service, NASA+, launched a FAST (Free Ad-Supported Television) channel on Prime Video Tuesday, giving viewers another way to watch the agency’s aeronautics, human spaceflight, science, and technology missions unfold on screen. As the agency continues to improve life on Earth and inspire new generations through innovation, exploration, and discovery, NASA+ is dedicated […]",
+    "author": "Jessica Taveau",
+    "published": "Tue, 06 May 2025 20:57:51 +0000",
+    "image": "https://www.nasa.gov/wp-content/uploads/2025/05/nasa-image.jpg?w=1920",
+    "source": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "categories": [
+      "NASA+"
+    ]
+  },
+  {
+    "id": "f1f3e8b2-6330-41d8-bf7e-6a7ccc00d5c8",
+    "title": "NASA’s IXPE Reveals X-ray-Generating Particles in Black Hole Jets",
+    "link": "https://www.nasa.gov/centers-and-facilities/marshall/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/",
+    "description": "The blazar BL Lacertae, a supermassive black hole surrounded by a bright disk and jets oriented toward Earth, provided scientists with a unique opportunity to answer a longstanding question: How are X-rays generated in extreme environments like this? NASA’s IXPE (Imaging X-ray Polarimetry Explorer) collaborated with radio and optical telescopes to find answers. The results […]",
+    "author": "Beth Ridgeway",
+    "published": "Tue, 06 May 2025 20:24:24 +0000",
+    "image": "https://www.nasa.gov/wp-content/uploads/2025/05/g-680772-figueroa-cs80-high-res.jpg?w=2048",
+    "source": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "categories": [
+      "Marshall Space Flight Center",
+      "IXPE (Imaging X-ray Polarimetry Explorer)",
+      "Marshall Astrophysics"
+    ]
+  },
+  {
+    "id": "10835c04-ae83-45f9-bd56-2a59d9485d98",
+    "title": "Dark energy bombshell sparks race to find a new model of the universe",
+    "link": "https://www.newscientist.com/article/2478344-dark-energy-bombshell-sparks-race-to-find-a-new-model-of-the-universe/?utm_campaign=RSS%7CNSNS\u0026utm_source=NSNS\u0026utm_medium=RSS\u0026utm_content=space",
+    "description": "‘Shocking’ results from a major astronomical study have raised doubts about the standard model of cosmology, forcing scientists to consider new ways of understanding dark energy and gravity",
+    "author": "",
+    "published": "Fri, 02 May 2025 13:00:46 +0100",
+    "image": "",
+    "source": "https://www.newscientist.com/subject/space/feed/",
+    "categories": null
+  },
+  {
+    "id": "2dca9577-c8b1-40bf-ae0f-a5b1019a30e0",
+    "title": "How astonishing observatories could do big physics from the moon",
+    "link": "https://www.newscientist.com/article/mg26635401-600-how-astonishing-observatories-could-do-big-physics-from-the-moon/?utm_campaign=RSS%7CNSNS\u0026utm_source=NSNS\u0026utm_medium=RSS\u0026utm_content=space",
+    "description": "As humanity prepares to return to the moon, scientists also have ideas for huge lunar experiments that could revolutionise astrophysics",
+    "author": "",
+    "published": "Wed, 23 Apr 2025 17:00:00 +0100",
+    "image": "",
+    "source": "https://www.newscientist.com/subject/space/feed/",
+    "categories": null
+  },
+  {
+    "id": "c1a186c3-5334-410b-bf8b-3bdf874d62bb",
+    "title": "SpaceX gets FAA approval for 25 Starship launches per year",
+    "link": "https://www.space.com/space-exploration/private-spaceflight/spacex-gets-faa-approval-for-25-starship-launches-per-year",
+    "description": "The FAA has approved SpaceX's request to increase the maximum number of Starship launches from its Starbase site in South Texas per year from five to 25.",
+    "author": "",
+    "published": "Tue, 06 May 2025 21:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/bAfJ6cay9Sr7qNmfxhvYvP.jpg",
+    "source": "https://www.space.com/feeds/all",
+    "categories": [
+      "Private Spaceflight",
+      "Space Exploration"
+    ]
+  },
+  {
+    "id": "02ce47e4-912b-418d-a46f-2da5ded876fb",
+    "title": "Stratolaunch's Talon-A2 prototype goes hypersonic after dropping from world's largest airplane (photos)",
+    "link": "https://www.space.com/technology/stratolaunchs-talon-a2-prototype-goes-hypersonic-after-dropping-from-worlds-largest-airplane-photos",
+    "description": "Stratolaunch Systems conducted its first hypersonic test flight with its Talon-A2 vehicle and Roc carrier plane in December, then repeated the feat in March.",
+    "author": "",
+    "published": "Tue, 06 May 2025 20:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/dAZcvwpAbt7pqDZ2eai72A.jpg",
+    "source": "https://www.space.com/feeds/all",
+    "categories": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "66df3e64-802d-4418-9705-2f9866e38fd1",
+    "title": "What is the best time to see the Eta Aquariids meteor shower 2025? Where and how can I see it in Australia?",
+    "link": "https://www.theguardian.com/science/2025/may/06/eta-aquariids-meteor-shower-2025",
+    "description": "This display caused by Earth passing through debris from Halley’s Comet will peak this week and be most visible on Wednesday – but only if you’re up before dawnGet our breaking news email, free app or daily news podcastStargazers and early risers are in for a stellar show this week, with one of the biggest meteor showers in the southern hemisphere due to light up the skies.The meteors — called the Eta Aquariids – pass through the atmosphere every year, but 2025 is due to be particularly luminous as the moon won’t be visible when they arrive. Continue reading...",
+    "author": "Caitlin Cassidy",
+    "published": "Tue, 06 May 2025 22:43:42 GMT",
+    "image": "",
+    "source": "https://www.theguardian.com/science/space/rss",
+    "categories": [
+      "Astronomy",
+      "Australia news",
+      "Science",
+      "Space"
+    ]
+  },
+  {
+    "id": "a5af20e1-542f-4a2b-88a8-922e596663fe",
+    "title": "Elon Musk’s company town: SpaceX employees vote to create ‘Starbase’",
+    "link": "https://www.theguardian.com/technology/2025/may/03/elon-musk-spacex-texas",
+    "description": "Residents – most of them SpaceX workers – in remote Texas community approve plan to create new cityVoters in a small patch of south Texas voted this weekend to give Elon Musk a town to call his own, officially creating a new city called Starbase in the area where Musk’s SpaceX holds rocket launches.A couple of hundred residents of what was previously known as Boca Chica decided to make their unincorporated neighborhoods into a town that will grant them the authority to pass city ordinances. Continue reading...",
+    "author": "Nick Robins-Early",
+    "published": "Sun, 04 May 2025 02:30:36 GMT",
+    "image": "",
+    "source": "https://www.theguardian.com/science/space/rss",
+    "categories": [
+      "Elon Musk",
+      "Technology",
+      "SpaceX",
+      "Texas",
+      "US news",
+      "Space",
+      "World news"
+    ]
+  }
+]
