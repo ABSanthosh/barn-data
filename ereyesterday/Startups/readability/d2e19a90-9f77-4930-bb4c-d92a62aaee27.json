@@ -1,0 +1,28 @@
+{
+  "id": "d2e19a90-9f77-4930-bb4c-d92a62aaee27",
+  "title": "This Week In Vibe Coding Learning",
+  "link": "https://feld.com/archives/2025/05/this-week-in-vibe-coding-learning/",
+  "description": "Question: If you had limited experience with graphic design software but wanted to do basic stuff for web design, what software would you use? Leave the answers in the comments or email me. As I play around with Vibe coding, I’ve decided to take a new topic each week. For context, look at my Dinostroids: […] The post This Week In Vibe Coding Learning appeared first on Feld Thoughts.",
+  "author": "Brad Feld",
+  "published": "Tue, 06 May 2025 18:20:20 +0000",
+  "source": "https://feld.com/feed",
+  "categories": [
+    "Code",
+    "code",
+    "wordpress",
+    "vibe coding",
+    "cursor",
+    "github"
+  ],
+  "byline": "Brad Feld",
+  "length": 1096,
+  "excerpt": "Question: If you had limited experience with graphic design software but wanted to do basic stuff for web design, what software would you use? Leave the answers in the comments or email me. As I play around with Vibe coding, I’ve decided to take a new topic each week. For context, look at my Dinostroids: […]",
+  "siteName": "Feld Thoughts",
+  "favicon": "https://i0.wp.com/feld.com/wp-content/uploads/2021/10/favicon-1.png?fit=16%2C16\u0026ssl=1",
+  "text": "Question: If you had limited experience with graphic design software but wanted to do basic stuff for web design, what software would you use? Leave the answers in the comments or email me.As I play around with Vibe coding, I’ve decided to take a new topic each week. For context, look at my Dinostroids: My Journey into Vibe Coding. Or just go play Dinostroids.This week, I’ve been learning how to modify WordPress themes. My website has a complex theme that is impossible to change without getting under the hood. The Foundry website is also excessively complex for what it is, but they both turn out to be great to learn on.I understand PHP well enough to read it. After working through WordPress Studio, GitHub, and Cursor, I’ve set up my development pipeline.While the code is a little gnarly, it’s not too bad, and it’s pretty easy to figure out what’s going on. But the wall I’m running into now is that I’m a lightweight at graphic design.While Adobe Photoshop is an obvious choice, and Canva is another obvious choice, I’m looking for “what’s best for a graphic design novice.” Thoughts?",
+  "image": "https://feld.com/wp-content/uploads/2025/05/image.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cem\u003eQuestion: If you had limited experience with graphic design software but wanted to do basic stuff for web design, what software would you use? Leave the answers in the comments or email me.\u003c/em\u003e\u003c/p\u003e\u003cp\u003eAs I play around with Vibe coding, I’ve decided to take a new topic each week. For context, look at my \u003ca href=\"https://feld.com/archives/2025/04/dinostroids-my-journey-into-vibe-coding/\"\u003eDinostroids: My Journey into Vibe Coding\u003c/a\u003e. Or just go play \u003ca href=\"https://www.dinostroids.com/\"\u003eDinostroids\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eThis week\u003cspan\u003e, I’ve been learning how to modify WordPress themes. My website has a complex theme that is impossible to change without getting under the hood. The \u003ca href=\"https://foundry.vc/\" target=\"_blank\"\u003eFoundry\u003c/a\u003e website is also excessively complex for what it is, but they both turn\u003c/span\u003e out to be great to learn on.\u003c/p\u003e\u003cp\u003eI understand PHP well enough to read it. After working through \u003ca href=\"https://developer.wordpress.com/docs/developer-tools/studio/\"\u003eWordPress Studio\u003c/a\u003e, GitHub, and Cursor, I’ve set up my development pipeline.\u003c/p\u003e\u003cp\u003eWhile the code is a little gnarly, it’s not too bad, and it’s pretty easy to figure out what’s going on. But the wall I’m running into now is that I’m a lightweight at graphic design.\u003c/p\u003e\u003cp\u003eWhile Adobe Photoshop is an obvious choice, and Canva is another obvious choice, I’m looking for “what’s best for a graphic design novice.” Thoughts?\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-05-06T18:20:20Z",
+  "modifiedTime": "2025-05-06T18:20:21Z"
+}
