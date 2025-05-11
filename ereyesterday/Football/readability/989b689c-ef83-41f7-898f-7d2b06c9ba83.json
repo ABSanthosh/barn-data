@@ -1,0 +1,23 @@
+{
+  "id": "989b689c-ef83-41f7-898f-7d2b06c9ba83",
+  "title": "Postecoglou ´couldn´t be prouder´ of Europa League finalists Tottenham",
+  "link": "https://www.soccernews.com/postecoglou-couldn-t-be-prouder-of-europa-league-finalists-tottenham/385289/",
+  "description": "Ange Postecoglou said he “couldn’t be prouder” of his Tottenham side for “overcoming adversity” to reach the Europa League final. Dominic Solanke and Pedro Porro were on target as Spurs won 2-0 at Bodo/Glimt to complete a 5-1 aggregate victory over the Norwegian outfit and book a date with Manchester United at San Mames on […] The post Postecoglou ´couldn´t be prouder´ of Europa League finalists Tottenham appeared first on Soccer News.",
+  "author": "SoccerNews",
+  "published": "Thu, 08 May 2025 23:47:00 +0000",
+  "source": "https://www.soccernews.com/feed",
+  "categories": [
+    "General Soccer News"
+  ],
+  "byline": "SoccerNews",
+  "length": 169,
+  "excerpt": "Ange Postecoglou said he “couldn’t be prouder” of his Tottenham side for “overcoming adversity” to reach the Europa League final. Dominic Solanke and Pedro Porro were on target as Spurs won 2-0 at Bodo/Glimt to complete a 5-1 aggregate victory over the Norwegian outfit and book a date with Manchester United at San Mames on […]",
+  "siteName": "Soccer News",
+  "favicon": "",
+  "text": "Uncaught Error Exception: Invalid Section UID File: /var/www/soccernews.com/public_html/wp-content/themes/SN/single.php Line: 13 Function: ff_get_all_fields_from_section",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003eUncaught Error Exception: Invalid Section UID\n\u003cbr/\u003eFile: /var/www/soccernews.com/public_html/wp-content/themes/SN/single.php\n\u003cbr/\u003eLine: 13\n\u003cbr/\u003eFunction: ff_get_all_fields_from_section\n\u003cbr/\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-05-08T23:47:00Z",
+  "modifiedTime": null
+}
