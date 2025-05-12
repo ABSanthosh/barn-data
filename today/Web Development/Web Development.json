@@ -1,0 +1,117 @@
+[
+  {
+    "id": "009dcac6-8e22-443e-8b95-a5231d26de83",
+    "title": "Automatically create passkeys in Google Password Manager on Chrome desktop",
+    "link": "https://developer.chrome.com/blog/passkey-automatic-upgrades?hl=en",
+    "description": "Use the cross-device capabilities of the Digital Credentials API to present digital credentials across devices.",
+    "author": "",
+    "published": "Fri, 09 May 2025 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "a8ff3dbf-0d97-4161-a0e6-0108525f6536",
+    "title": "Verified uploads in the Chrome Web Store",
+    "link": "https://developer.chrome.com/blog/verified-uploads-cws?hl=en",
+    "description": "You can now opt-in to requiring future uploads to the Chrome Web Store to be signed with a trusted private key.",
+    "author": "",
+    "published": "Wed, 07 May 2025 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "3c35d8f4-46c8-4fec-80b9-b61df84d99db",
+    "title": "Easy way to upload, transform and deliver files and images (Sponsored)",
+    "link": "https://davidwalsh.name/easy-way-to-upload-transform-and-deliver-files-and-images",
+    "description": "Managing media is a really difficult task if you try to do all of it yourself, especially if the media comes from other sources. The file can be submitted in any state and size, but what if you need something really specific? You can code it all yourself or you can use an awesome service […] The post Easy way to upload, transform and deliver files and images (Sponsored) appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Mon, 24 Mar 2025 22:58:30 +0000",
+    "image": "https://davidwalsh.name/demo/2025/03/SCR-20250316-ntgo-1024x567.png",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Sponsored",
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "8cde5a06-287b-43de-9d54-3ea53278649a",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "06422fd7-c94f-48aa-8cce-d217b4cda274",
+    "title": "Orbital Mechanics (or How I Optimized a CSS Keyframes Animation)",
+    "link": "https://css-tricks.com/orbital-mechanics-or-how-i-optimized-a-css-keyframes-animation/",
+    "description": "What does it look like to refactor your own code? John Rhea picks apart an old CSS animation he wrote and walks through the thought process of optimizing it. Orbital Mechanics (or How I Optimized a CSS Keyframes Animation) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "John Rhea",
+    "published": "Thu, 08 May 2025 12:33:29 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "animation"
+    ]
+  },
+  {
+    "id": "1b07a6e2-23ea-4670-8edb-a7ffae393c01",
+    "title": "Why is Nobody Using the hwb() Color Function?",
+    "link": "https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/",
+    "description": "Okay, nobody is an exaggeration, but have you seen the stats for hwb()? They show a steep decline, and after working a lot on color in the CSS-Tricks almanac, I’ve just been wondering why that is. Why is Nobody Using the hwb() Color Function? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Sunkanmi Fafowora",
+    "published": "Wed, 07 May 2025 12:25:19 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-05-at-10.43.24%E2%80%AFAM.png?resize=1960%2C1196\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "color"
+    ]
+  },
+  {
+    "id": "b6ec5b14-cbc4-447a-b331-949e10805ed2",
+    "title": "Improving Firefox Stability in the Enterprise by Reducing DLL Injection",
+    "link": "https://hacks.mozilla.org/2025/03/improving-firefox-stability-in-the-enterprise-by-reducing-dll-injection/",
+    "description": "Beginning in version 138, Firefox will offer an alternative to DLL injection for Data Loss Prevention (DLP) deployments in enterprise environments. DLL Injection DLL injection into Firefox is a topic we’ve covered on the Hacks blog before. In 2023, we blogged about the Firefox capability to let users block third-party DLLs from being loaded. We […] The post Improving Firefox Stability in the Enterprise by Reducing DLL Injection appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Haik Aftandilian",
+    "published": "Tue, 25 Mar 2025 18:31:16 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Enterprise",
+      "Feature",
+      "Firefox"
+    ]
+  },
+  {
+    "id": "9180f6e3-d8f9-46dd-8d75-9bcf946eb12a",
+    "title": "Launching Interop 2025",
+    "link": "https://hacks.mozilla.org/2025/02/interop-2025/",
+    "description": "Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024’s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements, Storage Access API, and CSS Zoom. The post Launching Interop 2025 appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "James Graham",
+    "published": "Thu, 13 Feb 2025 16:59:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2025/02/Pasted-image-500x348.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "Firefox",
+      "Web Developers",
+      "Accessibility",
+      "browsers",
+      "firefox",
+      "interop",
+      "interoperability",
+      "storage",
+      "WebRTC"
+    ]
+  }
+]
