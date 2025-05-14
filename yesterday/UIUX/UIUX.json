@@ -1,0 +1,198 @@
+[
+  {
+    "id": "fbde90d8-7df5-4666-9cc8-cda9e3911922",
+    "title": "Integrating Localization Into Design Systems",
+    "link": "https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/",
+    "description": "Learn how two designers tackled the challenges of building a localization-ready design system for a global audience. This case study dives into how Rebecca and Mark combined Figma Variables and design tokens to address multilingual design issues, such as text overflow, RTL layouts, and font inconsistencies.",
+    "author": "Rebecca Hemstad \u0026 Mark Malek",
+    "published": "Mon, 12 May 2025 10:00:00 GMT",
+    "image": "http://files.smashing.media/articles/integrating-localization-into-design-systems/integrating-localization-into-design-systems.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "28752a7b-f375-47b5-b5f7-09610babd031",
+    "title": "Integrating Design And Code With Native Design Tokens In Penpot",
+    "link": "https://smashingmagazine.com/2025/05/integrating-design-code-native-design-tokens-penpot/",
+    "description": "The Penpot team is not slowing down on its mission to build a free design tool that not only offers powerful design features but is also well-integrated with code and modern development practices. In its latest release, Penpot, as the first design tool ever, introduces support for native design tokens. Let’s take a closer look at this concept and how you can employ it in your process.",
+    "author": "Mikołaj Dobrucki",
+    "published": "Thu, 08 May 2025 10:00:00 GMT",
+    "image": "http://files.smashing.media/articles/integrating-design-code-native-design-tokens-penpot/integrating-design-code-native-design-tokens-penpot.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "7d1eb8f7-930e-4e06-8704-ce1bec13bf04",
+    "title": "Logo Package Forge – Test Logo Fonts, Lockups \u0026 Layouts In Seconds (+40% Discount)",
+    "link": "https://justcreative.com/logo-package-forge/",
+    "description": "Speed up your logo design process with Logo Package Forge — test fonts, layouts \u0026 lockups inside Illustrator. Save hours. Get 40% off today with our coupon.",
+    "author": "Jacob Cass",
+    "published": "Mon, 12 May 2025 11:30:24 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2025/05/forge-sets-blog-image-1024x1024.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Logo Design",
+      "Logo Package",
+      "Tool"
+    ]
+  },
+  {
+    "id": "f9f325d5-637c-475d-a2bb-f8dd476da6c7",
+    "title": "Tested the Huion Kamvas 16 Gen 3 for 90 Days: Here’s What You Need to Know",
+    "link": "https://justcreative.com/huion-kamvas-16-gen-3/",
+    "description": "So, I’ve been using the Huion Kamvas 16 Gen 3 for about three months now. Honestly, I didn’t expect much going in, but this thing surprised me in a good ... Read more",
+    "author": "Sarika",
+    "published": "Fri, 09 May 2025 06:16:03 +0000",
+    "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/2b50.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Graphic Design",
+      "Digital Art",
+      "Drawing"
+    ]
+  },
+  {
+    "id": "76e9ba70-c1be-4d40-a20b-be497f6c932c",
+    "title": "Why I’m Not Worried About My UX Job in the Era of AI",
+    "link": "https://www.nngroup.com/articles/ux-job-with-ai/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "AI is a new tool, not a replacement for UX professionals.",
+    "author": "Raluca Budiu",
+    "published": "Fri, 09 May 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "8c13adff-f7ec-44fe-a105-013bd0226068",
+    "title": "AI Design Tools Are Marginally Better: Status Update",
+    "link": "https://www.nngroup.com/articles/ai-design-tools-update-2/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "Despite improvements in narrow-scope AI design tools, most design-specific AI cannot replicate human designers’ output quality.",
+    "author": "Megan Brown, Caleb Sponheim, Taylor Dykes",
+    "published": "Fri, 09 May 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "74f33206-c105-4150-ac08-c591267271ee",
+    "title": "Before you write a great text",
+    "link": "https://uxdesign.cc/before-you-write-a-great-text-eee51d625394?source=rss----138adf9c44c---4",
+    "description": "What good UX Writers do before starting work.Continue reading on UX Collective »",
+    "author": "Rita Kind-Envy",
+    "published": "Mon, 12 May 2025 22:39:14 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1200/1*bXGjTwBw85FqrzRX_03fpw.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "design-thinking",
+      "ux-writing",
+      "writing",
+      "content-design",
+      "ux"
+    ]
+  },
+  {
+    "id": "ab130979-9bec-47b3-ab22-bdd18510be00",
+    "title": "Why I skipped Figma and prototyped in code instead",
+    "link": "https://uxdesign.cc/why-i-skipped-figma-and-prototyped-in-code-instead-8d1dab51c07d?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Patrick Morgan",
+    "published": "Mon, 12 May 2025 22:38:02 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*3k3t73HBMiD-9KSt.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "data-visualization",
+      "prototyping",
+      "ux-design",
+      "product-design",
+      "ux"
+    ]
+  },
+  {
+    "id": "e0c09a33-0c53-4bb2-abb3-12476436b790",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "e23e91dc-2a81-4599-bedc-6c74a83d3db1",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  },
+  {
+    "id": "952316b0-d4f1-4002-a480-98382cffa2b5",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "c14e48d3-407c-40b3-a09a-a63ac6a5d387",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "c568b1ae-daf1-4b4a-9442-fe8ca1067772",
+    "title": "How to Group Your Sidebar Items for Better Findability",
+    "link": "https://uxmovement.com/navigation/how-to-group-your-sidebar-items-for-better-findability/",
+    "description": "When a sidebar contains many items, grouping is necessary to help users find them faster. However, most designers don’t group their sidebar items and force users to scan an entire list. This results in slow navigation times and poor findability. Grouping improves findability by enabling users to spot a group and scan the items in […] The post How to Group Your Sidebar Items for Better Findability first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:27:48 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "23c061d3-5e5a-4274-8c4d-43de5d35e6fc",
+    "title": "How to Make Any Sidebar Menu Easier to Scan",
+    "link": "https://uxmovement.com/navigation/how-to-make-any-sidebar-menu-easier-to-scan/",
+    "description": "How easy to scan is your sidebar menu? If you haven’t optimized the spacing, users will likely spend more time navigating and finding items. Balancing the spacing in the sidebar can help users navigate faster and easier. A typical mistake designers make is adding too much or not enough space. Both can make scanning for […] The post How to Make Any Sidebar Menu Easier to Scan first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:24:10 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  }
+]

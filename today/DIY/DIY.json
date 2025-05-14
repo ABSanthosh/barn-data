@@ -1,0 +1,242 @@
+[
+  {
+    "id": "f94e9de8-789a-4231-b467-441078d45102",
+    "title": "What's New in iOS 18.5? Small but Smart iPhone Upgrades",
+    "link": "https://ios.gadgethacks.com/news/ios-18.5-features/",
+    "description": "The iOS 18.5 update is now out for iPhones, landing on May 12 with a tidy bundle of convenience tweaks sprinkled across Apple's core apps and settings. It isn't a headline‑grabbing release like last time, but the update still shaves steps off everyday tasks, surfaces helpful info where you need it, and quietly prepares your device for what's coming next. Mail finally gets an in‑app switch for Contact Photos, so you can toggle avatars without diving into Settings, while Back Tap once again flashes a confirmation banner to let you know your double‑ or triple‑tap was recognized. A fresh Pride wallpaper joins the collection just in time for Pride Month, and the TV app's new \"Buy with iPhone\" option makes it easier to purchase movies or shows on third‑party streaming devices using Face ID. Apple has also reorganized its AppleCare \u0026 Warranty section and mirrored coverage details in the Apple Account pane, added carrier‑powered satellite tools for the...more",
+    "author": "Justin Meyers",
+    "published": "Tue, 13 May 2025 18:16:33 GMT",
+    "image": "https://assets.content.technologyadvice.com/18_5_cover_with_icons_f0aaa09e6e.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "9f644f81-cdc9-4c7a-b20a-841b6adf64a7",
+    "title": "iOS 18.5 Hints at 5G Advanced Support, but Hardware Readiness Is Unclear",
+    "link": "https://ios.gadgethacks.com/news/ios-18-5-5g-advanced-support/",
+    "description": "Apple's iOS 18.5's code has introduced a new localization string that suggests the company is preparing support for \"5G Advanced,\" the next evolution of cellular technology. Specifically, the code includes a new \"status.network.5ga\" = \"5G Advanced\" string, which could point to upcoming system-level support for showing a 5G Advanced label in the iPhone status bar or settings. Joining that string are ones for 5G, 5G+, 5G Evolution (E), 5G Ultra Capacity (UC), 5G Ultra Wideband (UW), LTE, 4G, 3G, Edge (E), and GPRS (G), all supported on iPhone already with their own status bar icons. It hints that Apple is preparing to support 5G Advanced (5G-A) cellular technology based on 3GPP Release 18 standards in a future software or hardware update. What is 5G Advanced?5G Advanced (3GPP Release 18), often described as 5.5G, introduces smarter and more adaptable network capabilities. With support for features like AI-based network optimization, ultra-low latency, and improved location accuracy, it...more",
+    "author": "Justin Meyers",
+    "published": "Mon, 12 May 2025 18:21:27 GMT",
+    "image": "https://assets.content.technologyadvice.com/5g_advanced_cover_b6b747a443.webp",
+    "source": "https://www.wonderhowto.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "c75d7a78-d551-4c20-9589-8fbe2c910c03",
+    "title": "Breakfast Burrito",
+    "link": "https://abeautifulmess.com/breakfast-burrito/",
+    "description": "I love a savory breakfast and this easy breakfast burrito recipe hits the spot! Crispy potatoes, soft scrambled eggs and plenty of flavor all wrapped up in a warm tortilla. Sign me up immediately. You could likely also call this a breakfast wrap in that there isn’t anything particularly burrito about it other than it’s…",
+    "author": "Emma Chapman",
+    "published": "Mon, 12 May 2025 13:02:00 +0000",
+    "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Breakfast",
+      "Food"
+    ]
+  },
+  {
+    "id": "06863b04-36d2-4892-918a-68ab905d9f71",
+    "title": "Aviation Cocktail",
+    "link": "https://abeautifulmess.com/aviation-cocktail/",
+    "description": "I’m so excited to share this Aviation cocktail recipe with you today. This bright purple classic cocktail is made with gin, crème de violette, maraschino liqueur and freshly squeezed lemon juice. It has a sophisticated flavor that is the closest thing to a fancy bar I can create at home. You’ll love the violet color…",
+    "author": "Elsie Larson",
+    "published": "Fri, 09 May 2025 13:05:00 +0000",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2024/02/Aviation-Cocktail.jpg",
+    "source": "https://abeautifulmess.com/feed",
+    "categories": [
+      "Cocktails",
+      "Food",
+      "Gin"
+    ]
+  },
+  {
+    "id": "d2b24664-d053-47a8-86ff-b444313542de",
+    "title": "A Web Based Controller For Your Garage Door",
+    "link": "https://hackaday.com/2025/05/13/a-web-based-controller-for-your-garage-door/",
+    "description": "Garage doors! You could get out of your vehicle and open and close them yourself, but that kinda sucks. It’s much preferable to have them raise and lower courtesy some …read more",
+    "author": "Lewin Day",
+    "published": "Tue, 13 May 2025 23:00:13 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/05/design.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "Misc Hacks",
+      "ESP32",
+      "garage door",
+      "garage door opener",
+      "magnetic switch"
+    ]
+  },
+  {
+    "id": "a8618e1e-3ced-4b7a-81bf-35a22e793a25",
+    "title": "Thermal Monocular Brings the Heat at 10X",
+    "link": "https://hackaday.com/2025/05/13/thermal-monocular-brings-the-heat-at-10x/",
+    "description": "[Project 326] is following up on his thermal microscope with a thermal telescope or, more precisely, a thermal monocular. In fact, many of the components and lenses in this project …read more",
+    "author": "Al Williams",
+    "published": "Tue, 13 May 2025 20:00:25 +0000",
+    "image": "https://hackaday.com/wp-content/uploads/2025/05/mono.png",
+    "source": "https://hackaday.com/blog/feed/",
+    "categories": [
+      "digital cameras hacks",
+      "ir camera",
+      "telescope"
+    ]
+  },
+  {
+    "id": "0fad7529-06ec-4179-acb7-ee82200dcce0",
+    "title": "Combating Unwanted Holiday Guests: Dust Bunnies",
+    "link": "https://www.doityourself.com/stry/combating-unwanted-holiday-guests-dust-bunnies",
+    "description": "Keep your home sparkling and your air quality clean with these tips.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg0.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/972/dust-bunny-195972.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "552fc93a-a5fa-4344-8581-53381a0db5cc",
+    "title": "Learn These Basic Car Maintenance Skills Before a Road Trip",
+    "link": "https://www.doityourself.com/stry/learn-these-basic-car-maintenance-skills-before-a-road-trip",
+    "description": "They can come in very handy in a tough situation.",
+    "author": "",
+    "published": "",
+    "image": "https://cimg2.ibsrv.net/cimg/www.doityourself.com/660x300_85-1/694/shutterstock_104261411-703694.jpg",
+    "source": "https://www.doityourself.com/feed",
+    "categories": null
+  },
+  {
+    "id": "2b219f5b-071e-4a12-a7b1-a719a6863acf",
+    "title": "The 10 Most Beautiful Headphones Ever Made",
+    "link": "https://www.howtogeek.com/the-most-beautiful-headphones-ever-made/",
+    "description": "Ironically, you can't see them while wearing them the right way.",
+    "author": "Sydney Butler",
+    "published": "Tue, 13 May 2025 22:00:15 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/05/some-headphones-side-by-side-in-a-minimalist-setting.png",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Audio/Video",
+      "headphones",
+      "Speakers",
+      "Audio"
+    ]
+  },
+  {
+    "id": "671f0251-418d-479b-902e-e33d9a6f64f5",
+    "title": "Linux vs. ChromeOS: How Different Are They Really?",
+    "link": "https://www.howtogeek.com/linux-vs-chromeos-how-different-are-they-really/",
+    "description": "They're like third-cousins.",
+    "author": "Sydney Butler",
+    "published": "Tue, 13 May 2025 21:15:15 GMT",
+    "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/05/a-laptop-on-a-surface-with-its-screen-split-between-linux-on-the-left-side-and-chromeos-on-the-right.png",
+    "source": "https://www.howtogeek.com/feed/",
+    "categories": [
+      "Chromebook \u0026 Chrome OS",
+      "Chromebook",
+      "Linux",
+      "laptops"
+    ]
+  },
+  {
+    "id": "2ca2fcac-9b22-4a7e-bb38-123b45e9a62f",
+    "title": "Hand-Quilted Coasters",
+    "link": "https://ohhappyday.com/2022/10/hand-quilted-coasters/",
+    "description": "Get ready for those shorter days and cooler nights by adding a little warmth and color to your home or next gathering. We partnered with Fiskars to use their collection of fabric cutting tools to craft these modern patchwork style coasters. These require a bit of machine sewing but are super beginner friendly, and the...Read More",
+    "author": "olivia",
+    "published": "Tue, 04 Oct 2022 15:09:34 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/BLOG_OHD_FiskarsCoasters-Hero1.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "place cards",
+      "autumn",
+      "coasters",
+      "cutter",
+      "cutting mat",
+      "diy",
+      "drinks",
+      "fabric",
+      "fall",
+      "fiskars",
+      "quilt",
+      "scissors",
+      "sewing"
+    ]
+  },
+  {
+    "id": "8549d924-830b-498e-b1d9-36328b032f98",
+    "title": "5 Ways to Fall",
+    "link": "https://ohhappyday.com/2022/09/5-ways-to-fall/",
+    "description": "We are rounding up some of our favorite Fall throwbacks. This also means Halloween is around the corner and it’s time to start costume brainstorming – any suggestions? In the meantime, here are a few of our favorite DIYs to start your Fall Checklist! Rainbow Pumpkin Centerpiece – an OHD classic! Ombre Leaves Backdrop –...Read More",
+    "author": "Jordan",
+    "published": "Fri, 30 Sep 2022 16:49:26 +0000",
+    "image": "https://d2c5oomqu2hs08.cloudfront.net/wp-content/uploads/2022/09/FALL2.jpg",
+    "source": "http://ohhappyday.com/feed/",
+    "categories": [
+      "party",
+      "craft",
+      "diy",
+      "fall",
+      "ombre",
+      "pies",
+      "pumpkin",
+      "rainbow",
+      "roundup",
+      "smores"
+    ]
+  },
+  {
+    "id": "bb83e7de-1bfc-4461-a935-2ed6e5d85c83",
+    "title": "How Your Next Airbnb Could Be Much More Than Just a Home Rental",
+    "link": "https://www.makeuseof.com/your-next-airbnb-more-than-just-home-rental/",
+    "description": "Airbnb now offers more than just home rentals.",
+    "author": "Dave Parrack",
+    "published": "Tue, 13 May 2025 23:08:18 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2025/05/all-new-airbnb-app-explore.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Android"
+    ]
+  },
+  {
+    "id": "d49fe5cb-dfa6-4c2c-8dd3-14a2f2b39d49",
+    "title": "I Changed the Default Location for Downloads in Windows 11 and You Should Too",
+    "link": "https://www.makeuseof.com/change-windows-downloads-location/",
+    "description": "It's a simple tweak that makes a big difference.",
+    "author": "Digvijay Kumar",
+    "published": "Tue, 13 May 2025 20:00:17 GMT",
+    "image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/05/a-laptop-sitting-on-a-desk-displays-an-open-file-explorer-window.jpg",
+    "source": "https://www.makeuseof.com/feed/",
+    "categories": [
+      "Windows",
+      "Windows Tips",
+      "Windows Customization",
+      "Windows 11"
+    ]
+  },
+  {
+    "id": "fc4038ca-1966-45cc-9022-9005dff0d9ff",
+    "title": "5-Minute LEGO Shelf Hacks That Even Kids Can Build (Mess-Free!)",
+    "link": "https://ikeahackers.net/2025/05/lego-shelf.html",
+    "description": "My son is a LEGO fanatic, and we finally figured out the best way (for us) to keep the brick chaos under control (and easy for him to put away). We got the stair-style TROFAST shelf and sorted all of his LEGO bricks by color. However, displaying some of his favorites, especially his mini-figs, is a whole other story. That’s why I was eager to check out these two hacks. The first LEGO shelf idea is from Ameta Bruestle @anetas_leben, […] The post 5-Minute LEGO Shelf Hacks That Even Kids Can Build (Mess-Free!) appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Tue, 13 May 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "IKEA HACKS"
+    ]
+  },
+  {
+    "id": "5c6c12c8-2f1e-4d2f-9bba-a948f44cd72b",
+    "title": "She Used Just 2 IKEA Pieces to Create This Luxe Hallway Bench (We Can’t Believe How Good it Looks)",
+    "link": "https://ikeahackers.net/2025/05/diy-hallway-bench.html",
+    "description": "I don’t know about you, but when I come home, I prefer to walk into an organized, tidy space. And that’s exactly what IKEA hacker Kirsty Gore (@kjg_home) had in mind with her clever hallway bench hack. With just a TORNVIKEN hanging rod and a BESTÅ shelf unit, she transformed her tight entry space into a chic, organized landing zone—complete with storage, seating, and a dash of bespoke charm. “No more dumping ground!” she says. And we believe her. Ready […] The post She Used Just 2 IKEA Pieces to Create This Luxe Hallway Bench (We Can’t Believe How Good it Looks) appeared first on IKEA Hackers.",
+    "author": "Stacy Randall",
+    "published": "Thu, 08 May 2025 10:00:00 +0000",
+    "image": "",
+    "source": "https://www.ikeahackers.net/feed",
+    "categories": [
+      "Entryway",
+      "20 Creative IKEA BESTÅ Hacks to Inspire you to get your DIY on"
+    ]
+  }
+]
