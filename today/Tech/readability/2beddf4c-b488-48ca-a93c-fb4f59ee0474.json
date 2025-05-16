@@ -1,0 +1,23 @@
+{
+  "id": "2beddf4c-b488-48ca-a93c-fb4f59ee0474",
+  "title": "FBI: US Officials Targeted In Voice Deepfake Attacks Since April",
+  "link": "https://yro.slashdot.org/story/25/05/15/2138238/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+  "description": "The FBI has issued a warning that cybercriminals have started using AI-generated voice deepfakes in phishing attacks impersonating senior U.S. officials. These attacks, involving smishing and vishing tactics, aim to compromise personal accounts and contacts for further social engineering and financial fraud. BleepingComputer reports: \"Since April 2025, malicious actors have impersonated senior U.S. officials to target individuals, many of whom are current or former senior U.S. federal or state government officials and their contacts. If you receive a message claiming to be from a senior U.S. official, do not assume it is authentic,\" the FBI warned. \"The malicious actors have sent text messages and AI-generated voice messages -- techniques known as smishing and vishing, respectively -- that claim to come from a senior U.S. official in an effort to establish rapport before gaining access to personal accounts.\" The attackers can gain access to the accounts of U.S. officials by sending malicious links disguised as links designed to move the discussion to another messaging platform. By compromising their accounts, the threat actors can gain access to other government officials' contact information. Next, they can use social engineering to impersonate the compromised U.S. officials to steal further sensitive information and trick targeted contacts into transferring funds. Today's PSA follows a March 2021 FBI Private Industry Notification (PIN) [PDF] warning that deepfakes (including AI-generated or manipulated audio, text, images, or video) would likely be widely employed in \"cyber and foreign influence operations\" after becoming increasingly sophisticated. Read more of this story at Slashdot.",
+  "author": "BeauHD",
+  "published": "2025-05-16T00:02:00+00:00",
+  "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "categories": [
+    "privacy"
+  ],
+  "byline": "",
+  "length": 1,
+  "excerpt": "×",
+  "siteName": "",
+  "favicon": "https://a.fsdn.com/sd/m/assets/apple-touch-icon-precomposed2X-e553cba2892b057428cabcdff1a372fc.png",
+  "text": "×",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\n\n\n\n\n\u003cdiv id=\"ccpa-modal\"\u003e\n        \u003cp\u003e\u003cspan id=\"modal-close\"\u003e×\u003c/span\u003e\u003c/p\u003e\n    \u003c/div\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
