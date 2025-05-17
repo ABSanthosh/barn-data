@@ -1,0 +1,118 @@
+[
+  {
+    "id": "2baaa58f-4ac8-45d5-b3d5-cdf37010e013",
+    "title": "Enhancements to the element",
+    "link": "https://developer.chrome.com/blog/enhancements-to-permission-element?hl=en",
+    "description": "The permission HTML element is no longer void and also has support for icons.",
+    "author": "",
+    "published": "Mon, 12 May 2025 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "1be58a16-e309-45bc-96cb-8381534aac43",
+    "title": "Automatically create passkeys in Google Password Manager on Chrome desktop",
+    "link": "https://developer.chrome.com/blog/passkey-automatic-upgrades?hl=en",
+    "description": "Use the cross-device capabilities of the Digital Credentials API to present digital credentials across devices.",
+    "author": "",
+    "published": "Fri, 09 May 2025 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "77503fa7-ea12-40a2-ab90-83792656b56f",
+    "title": "Easy way to upload, transform and deliver files and images (Sponsored)",
+    "link": "https://davidwalsh.name/easy-way-to-upload-transform-and-deliver-files-and-images",
+    "description": "Managing media is a really difficult task if you try to do all of it yourself, especially if the media comes from other sources. The file can be submitted in any state and size, but what if you need something really specific? You can code it all yourself or you can use an awesome service […] The post Easy way to upload, transform and deliver files and images (Sponsored) appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Mon, 24 Mar 2025 22:58:30 +0000",
+    "image": "https://davidwalsh.name/demo/2025/03/SCR-20250316-ntgo-1024x567.png",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Sponsored",
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "9807f313-2f54-4729-8f90-9e506cc61fcd",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "c4c78829-57cd-420e-94a7-310c06984715",
+    "title": "Improving Firefox Stability in the Enterprise by Reducing DLL Injection",
+    "link": "https://hacks.mozilla.org/2025/03/improving-firefox-stability-in-the-enterprise-by-reducing-dll-injection/",
+    "description": "Beginning in version 138, Firefox will offer an alternative to DLL injection for Data Loss Prevention (DLP) deployments in enterprise environments. DLL Injection DLL injection into Firefox is a topic we’ve covered on the Hacks blog before. In 2023, we blogged about the Firefox capability to let users block third-party DLLs from being loaded. We […] The post Improving Firefox Stability in the Enterprise by Reducing DLL Injection appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Haik Aftandilian",
+    "published": "Tue, 25 Mar 2025 18:31:16 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Enterprise",
+      "Feature",
+      "Firefox"
+    ]
+  },
+  {
+    "id": "7867fce0-ce38-4809-9e4d-4fce372bde74",
+    "title": "Launching Interop 2025",
+    "link": "https://hacks.mozilla.org/2025/02/interop-2025/",
+    "description": "Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024’s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements, Storage Access API, and CSS Zoom. The post Launching Interop 2025 appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "James Graham",
+    "published": "Thu, 13 Feb 2025 16:59:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2025/02/Pasted-image-500x348.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "Firefox",
+      "Web Developers",
+      "Accessibility",
+      "browsers",
+      "firefox",
+      "interop",
+      "interoperability",
+      "storage",
+      "WebRTC"
+    ]
+  },
+  {
+    "id": "e3e1f2d2-7670-4bdd-9e80-e7b66f948c06",
+    "title": "HTML Email Accessibility Report 2025",
+    "link": "https://css-tricks.com/html-email-accessibility-report-2025/",
+    "description": "Some weekend reading on the heels of Global Accessibility Awareness Day (GAADM), which took place yesterday. The Email Markup Consortium (EMC) released its 2025 study on the accessibility in HTML emails, and the TL;DR is … HTML Email Accessibility Report 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Fri, 16 May 2025 14:38:19 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Links",
+      "accessibility",
+      "html email"
+    ]
+  },
+  {
+    "id": "e7325896-3452-4349-a906-48afb699306c",
+    "title": "Scroll-Driven Animations Inside a CSS Carousel",
+    "link": "https://css-tricks.com/scroll-driven-animations-inside-a-css-carousel/",
+    "description": "Hey, isn't there a fairly new CSS feature that works with scroll regions? Oh yes, that's Scroll-Driven Animations. Shouldn't that mean we can trigger an animation while scrolling through the items in a CSS carousel? Scroll-Driven Animations Inside a CSS Carousel originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Geoff Graham",
+    "published": "Thu, 15 May 2025 12:30:59 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "carousel"
+    ]
+  }
+]
