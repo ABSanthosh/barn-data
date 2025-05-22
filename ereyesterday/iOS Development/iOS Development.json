@@ -1,0 +1,385 @@
+[
+  {
+    "id": "903def5c-7b88-428b-97a3-57dafa46bd03",
+    "title": "minifeed",
+    "link": "https://tyler.io/2025/01/minifeed/",
+    "description": "I recently discovered minifeed, and it has quickly become one of my favorite things on the internet. Once, maybe twice a day, I load the homepage and browse through the latest posts from real blogs written by real humans. I almost always find something surprising, delightful, weird, or just plain fun to read. Even better, I come away with a new blogger to follow.",
+    "author": "Tyler",
+    "published": "Wed, 15 Jan 2025 02:47:20 +0000",
+    "image": "",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "a6299aeb-f332-4696-a658-62f5de99d999",
+    "title": "Advice",
+    "link": "https://tyler.io/2025/01/advice/",
+    "description": "My son turned eleven last month. He reads all the time (fantasy books are his favorite) and has started planning and building his own worlds to write stories about. He made a to-do list in his writing notebook, and I asked him if I could share it here. It's good advice.",
+    "author": "Tyler",
+    "published": "Fri, 10 Jan 2025 15:41:20 +0000",
+    "image": "https://cdn.tyler.io/wp-content/uploads/2025/01/writing-todo-list-860x1024.jpg",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "4b81cd3e-5b69-498c-9412-e6f450300aaf",
+    "title": "Scalable Continuous Integration for iOS",
+    "link": "https://albertodebortoli.com/2024/01/03/scalable-continuous-integration-for-ios/",
+    "description": "How Just Eat Takeaway.com leverage AWS, Packer, Terraform and GitHub Actions to manage a CI stack of macOS runners.",
+    "author": "Alberto De Bortoli",
+    "published": "Wed, 03 Jan 2024 22:26:50 GMT",
+    "image": "https://albertodebortoli.com/content/images/2024/01/1_SaGE67XSSeflkTKknVOHbg.webp",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": [
+      "CI",
+      "mobile",
+      "iOS",
+      "AWS",
+      "macOS"
+    ]
+  },
+  {
+    "id": "53c38bb6-c296-44ad-900a-7d9ee3760022",
+    "title": "The idea of a Fastlane replacement",
+    "link": "https://albertodebortoli.com/2023/10/29/the-idea-of-a-fastlane-replacement/",
+    "description": "PreludeFastlane is widely used by iOS teams all around the world. It became the standard de facto to automate common tasks such as building apps, running tests, and uploading builds to App Store Connect. Fastlane has been recently moved under the Mobile Native Foundation which is amazing as Google",
+    "author": "Alberto De Bortoli",
+    "published": "Sun, 29 Oct 2023 22:57:38 GMT",
+    "image": "https://images.unsplash.com/photo-1647118762210-393b52e96fbc?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxzdGVsbGFyfGVufDB8fHx8MTY5ODYxODcwNXww\u0026ixlib=rb-4.0.3\u0026q=80\u0026w=2000",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": null
+  },
+  {
+    "id": "efb8b5cd-31e1-418c-bd39-56599ae58054",
+    "title": "Swift 6 suitable notification observers in iOS",
+    "link": "https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/",
+    "description": "The author discusses challenges managing side projects, specifically updating SignalPath to Swift 6. They encountered errors related to multiple notification observations but resolved them by shifting to publishers, avoiding sendable closure issues. Although the new approach risks background thread notifications, the compiler is satisfied with the adjustments made to the code.",
+    "author": "Toomas Vahter",
+    "published": "Mon, 18 Nov 2024 16:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "iOS",
+      "Swift"
+    ]
+  },
+  {
+    "id": "84391e93-2402-4882-a418-29cdf3e3271d",
+    "title": "AnyClass protocol and Objective-C methods",
+    "link": "https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/",
+    "description": "AnyClass is a protocol all classes conform to and it comes with a feature I was not aware of. But first, how to I ended up with using AnyClass. While working on code using CoreData, I needed a way to enumerate all the CoreData entities and call a static function on them. If that function […]",
+    "author": "Toomas Vahter",
+    "published": "Mon, 04 Nov 2024 16:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "iOS",
+      "Swift",
+      "AnyClass"
+    ]
+  },
+  {
+    "id": "417fbc14-b5ac-43e7-8ca6-de3e3e618f9f",
+    "title": "From Engineer to Manager: A Year of Growth and Transformation",
+    "link": "https://benoitpasquier.com/2023/06/from-engineer-to-manager-a-year-of-growth-and-transformation/",
+    "description": "It feels like it was yesterday when I became an engineering manager but it has been almost a year. I want to take this time to reflect on the challenges and learnings from this journey.",
+    "author": "",
+    "published": "Sun, 11 Jun 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "cc340439-b220-47f0-aa15-b783059fea40",
+    "title": "Things to know before becoming an Engineering Manager",
+    "link": "https://benoitpasquier.com/2023/02/things-to-know-before-becoming-an-engineering-manager/",
+    "description": "The journey from individual contributor to engineering manager isn’t always straightforward. Today, I’ll share what it means to become an engineering manager from my point of view, and a few important points to be aware of before making this transition.",
+    "author": "",
+    "published": "Sun, 19 Feb 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "77e6c536-ce36-465b-bfb2-6797e9cc9113",
+    "title": "iOS Accessibility Values",
+    "link": "https://mobilea11y.com/blog/accessibility-values/",
+    "description": "For iOS, Accessibility values are one of the building blocks of how Accessibility works on the platform, along with traits, labels, hints, and showing/hiding elements. If you’re familiar with WCAG or web accessibility, accessibility values are the value part of WCAG 4.1.2: Name, Role, Value. Values Not every element in your view will have a value - in fact, most won’t. Any element that ‘contains’ some data, data that is not included in the element’s label requires an accessibility value to be set.",
+    "author": "",
+    "published": "Sun, 19 Jun 2022 10:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "1c3759a3-01fa-4639-95cb-099d32b0573e",
+    "title": "iOS UIKit Accessibility traits",
+    "link": "https://mobilea11y.com/blog/traits/",
+    "description": "Accessibility traits on iOS is the system by which assistive technologies know how to present your interface to your users. The exact experience will vary between assistive technologies, in some cases they may change the intonation of what VoiceOver reads, or add additional options for navigation, sometimes they will disable that assistive technology from accessing the element, or change how the assistive tech functions. They are the ‘Role’ part of the fundamental rule of making something accessible to screen readers - WCAG’s 4.",
+    "author": "",
+    "published": "Fri, 13 Aug 2021 07:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "e2cc95b6-9d8e-48c3-af4e-688e42a3e69a",
+    "title": "Building with nightly Swift toolchains on macOS",
+    "link": "https://oleb.net/2024/swift-toolchains/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-03-05T18:54:44Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "95cf9b05-d64e-4cf6-a61d-77d735469ba4",
+    "title": "How the Swift compiler knows that DispatchQueue.main implies @MainActor",
+    "link": "https://oleb.net/2024/dispatchqueue-mainactor/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-02-29T18:54:47Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "94d434f6-c1c8-458b-8b37-1a4b57eee1f2",
+    "title": "You Should Feed Ducks The Good Bread",
+    "link": "https://fabisevi.ch/2025/05/12/you-should-feed-ducks-the-good-bread/",
+    "description": "Colleen and I were binge-watching Gossip Girl last winter, and there are a few scenes where a stressed and irate Blair Waldorf wanders over to Central Park to feed the ducks. I told Colleen, \"that sounds soothing — we should do that when the weather gets better\". And then, as I’m wont to do, I promptly forgot. But Colleen takes note of moments like that, and a few months later she reminded me: we should actually go feed some ducks. That’s how I found myself in Central Park last weekend, feeding ducks. It was the first beautiful day of spring in New York — the kind of day New Yorkers wait for, when everyone pours out to enjoy sunlight finally breaking through after a long dark winter. We had a picnic, strolled through the park, wandered amidst thousands of New Yorkers — and of course, we fed the ducks. My wife (who I should preface is an extremely kind, caring, and loving person) and I got into a small debate over what kind of bread to feed the ducks. I insisted on buying them a nice loaf, and she felt it was unnecessary — the ducks would happily take our scraps. I argued that buying a good loaf cost us very little but could potentially make their day. Heck, it could even possibly be the best meal they ever have. She replied that there’s no way to know if they’d even notice the difference — to them, it might just be one carb versus another. Three Philosphers Interject I bought the dang bread, and she didn’t mind. I spent the whole afternoon thinking about that moment, and why it meant so much to me. In the end, I came back to three philosophers and their philosophies.",
+    "author": "Joe Fabisevich",
+    "published": "Mon, 12 May 2025 00:00:00 GMT",
+    "image": "",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "f400c567-9a65-453c-9936-aad28daa6963",
+    "title": "A Trick For Opening Magic Links in Your RSS Reader",
+    "link": "https://fabisevi.ch/2025/03/28/opening-magic-links-in-your-rss-reader/",
+    "description": "This blog post is documentation for a very specific problem I run into about once a year. That’s rare enough to forget how I solved it, but frequent enough to waste 15 minutes rediscovering the answer. And let’s be honest: it’s not the big problems that drive you mad — it’s the little ones that feel like their own Sisyphean hell. The Problem Some websites 1 require you to log in using a magic link — a one-time link emailed to you that signs you in when clicked. It’s usually seamless. But on iOS, it can quietly become a headache. 2",
+    "author": "Joe Fabisevich",
+    "published": "Fri, 28 Mar 2025 00:00:00 GMT",
+    "image": "",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "03cf697c-83b3-4868-a3fd-bb2c9936a4c0",
+    "title": "Tax and Price updates for Apps, In-App Purchases, and Subscriptions",
+    "link": "https://developer.apple.com/news/?id=wim4cztw",
+    "description": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.From time to time, we may need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for Apps and In-App Purchases stay consistent across all storefronts.Tax and price updatesAs of May 16:Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in Brazil to account for the Contribuições de Intervenção no Domínio Econômico (CIDE) tax introduction of 10% for developers based outside of Brazil.Beginning June 2:Pricing for apps and In-App Purchases will be updated for Brazil and Kazakhstan if you haven’t selected one of these storefronts as the base storefront for your app or In‑App Purchase.¹ The updates in Brazil also consider the 10% CIDE tax introduction. If you’ve selected Brazil or Kazakhstan as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.The Pricing and Availability section of Apps has been updated in App Store Connect to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.Additional upcoming changesBeginning August 4:All auto-renewable subscription price increases in Austria, Germany, and Poland will require customers to consent to the new price for their subscription to continue renewing. Price increases scheduled with a start date on or after August 4: All customers must consent to the new price. If a subscriber doesn’t agree to the new price or takes no action, Apple will continue to request consent approximately weekly through email, push notifications, and in-app messaging until their subscription expires at the end of their current billing cycle. Price increases scheduled with a start date before August 4: Current notice criteria will remain in effect, even if the renewal occurs after August 4 (for annual subscriptions, renewal could be as late as August 2026). See criteria, noting that consent may apply to customers depending on the size or velocity of your price increases. To help ensure a smooth transition, we recommend avoiding scheduling price increases with a start date between August 2 and August 4.Learn more about managing your pricesView or edit upcoming price changesEdit your app’s base country or regionPricing and availability start times by country or regionSet a price for an In-App PurchaseLearn more about your proceedsView payments and proceedsDownload financial reports¹ Excludes auto-renewable subscriptions.",
+    "author": "",
+    "published": "Fri, 16 May 2025 07:00:46 PDT",
+    "image": "",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "876a35a3-e3c3-4fc8-b841-e4f5149062a3",
+    "title": "Hello Developer: May 2025",
+    "link": "https://developer.apple.com/news/?id=p2nk9tnh",
+    "description": "In this edition: Join us to learn how to make your apps more accessible to everyone. Plus, check out our new and refreshed Pathways, and uncover the time-traveling secrets of the Apple Design Award-winning game The Wreck.Read the full article",
+    "author": "",
+    "published": "Tue, 06 May 2025 09:00:59 PDT",
+    "image": "https://devimages-cdn.apple.com/wwdc-services/articles/images/32E5BC7C-9F57-4A04-83C9-D1CA3A238ED5/2048.jpeg",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "76d08fe8-145f-4b98-9aa6-9800409db861",
+    "title": "Using Swift’s defer keyword within async and throwing contexts",
+    "link": "https://www.swiftbysundell.com/articles/using-defer-within-async-and-throwing-contexts",
+    "description": "How Swift’s defer keyword can be incredibly useful when working with code scopes that have multiple exit points, such as throwing or async functions.",
+    "author": "",
+    "published": "Tue, 15 Apr 2025 16:45:00 +0200",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "71483b68-3073-4183-9eae-20a8da349cf3",
+    "title": "Modern URL construction in Swift",
+    "link": "https://www.swiftbysundell.com/articles/modern-url-construction-in-swift",
+    "description": "How to combine Foundation’s latest URL APIs with Swift features like macros, to be able to work with both static and dynamic URLs in simpler and more predictable ways.",
+    "author": "",
+    "published": "Mon, 31 Mar 2025 13:00:00 +0200",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "b17321d7-1d31-4e5a-b16d-3e86a5f1c717",
+    "title": "Using Swift’s defer keyword within async and throwing contexts",
+    "link": "https://www.swiftbysundell.com/articles/using-defer-within-async-and-throwing-contexts",
+    "description": "How Swift’s defer keyword can be incredibly useful when working with code scopes that have multiple exit points, such as throwing or async functions.",
+    "author": "",
+    "published": "Tue, 15 Apr 2025 16:45:00 +0200",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "bcbb2c4d-8e9c-4426-b6f0-9b6b09f2f034",
+    "title": "Modern URL construction in Swift",
+    "link": "https://www.swiftbysundell.com/articles/modern-url-construction-in-swift",
+    "description": "How to combine Foundation’s latest URL APIs with Swift features like macros, to be able to work with both static and dynamic URLs in simpler and more predictable ways.",
+    "author": "",
+    "published": "Mon, 31 Mar 2025 13:00:00 +0200",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "99a9cb13-b2e2-4980-b8b9-5e2c23bf4e3c",
+    "title": "Magical Particle Effects with SwiftUI Canvas",
+    "link": "https://nerdyak.tech/development/2024/06/27/particle-effects-with-SwiftUI-Canvas.html",
+    "description": "In one of the previous posts, I shared a simple way of Creating particle effects in SwiftUI. The approach is super easy and utilizes the power of viewModifiers, but I would not recommend it for production use as it is performance-greedy when having a bigger amount of particles in place (because each particle is a single view)",
+    "author": "Pavel Zak",
+    "published": "2024-06-27T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "Canvas",
+      "Particles",
+      "BlendMode",
+      "TimelineView"
+    ]
+  },
+  {
+    "id": "1adf40f1-c1a6-4abf-b535-3af9d6cc2384",
+    "title": "SwiftUI transitions with distortion effect and Metal Shaders",
+    "link": "https://nerdyak.tech/development/2023/06/16/distortionEffect-with-Metal-shaders-for-better-transitions.html",
+    "description": "This year DubDub is over and I am very excited about the new developer treats that iOS17 will bring us that expand the animation possibilities of SwiftUI. I am talking mainly about the PhaseAnimator, KeyframeAnimator and the ability to utilize Metal shaders on SwiftUI views through modifiers .distortionEffect, .layerEffect, and .colorEffect (docs).",
+    "author": "Pavel Zak",
+    "published": "2023-06-16T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "distortionEffect",
+      "Metal",
+      "Shaders",
+      "transitions"
+    ]
+  },
+  {
+    "id": "099c8cc4-8b34-4552-ac97-d51ccec9a90d",
+    "title": "How I'm using AI to improve my software engineering productivity (and why it will not steal your job)",
+    "link": "https://swiftrocks.com/how-im-using-ai-for-software-engineering",
+    "description": "AI has become an important part of my daily software engineering work, so I wanted to write a post sharing how exactly I've been using it in case you're wondering how to use it to improve your productivity as well! Foreword: AI will not steal your software engineering job Before getting to the details of how AI has been helping me to code, I wanted to address the topic of AI replacing software engineers. Recently, my social media feeds have become full of people making predictions about how in X months/years everything in the software engineering industry will be done by AI, via doomsday-style content about how everyone is going to lose their jobs and everything will fall apart. If you look at who's writing these kinds of posts, you'll notice something interesting: they are either executives who have never done any kind of software engineering, or beginners with no industry experience. Honestly, that should tell you everything you need to know about these \"predictions\". But in the interest of being informative, I'll try to explain why they are nonsense. The problem with these \"predictions\" is that the people making them for some reason seem to view software engineering as nothing more than coding and closing tasks on JIRA. You arrive at work, pick a task that is very well defined and requires no clarification whatsoever, code it, close it, pick another task that is once again perfectly defined, and repeat that ad-infimum for the entire duration of your career. But the reality of software engineering is far more complex than that. While there's certainly a good amount of coding, it's extremely rare that the problems a software engineer needs to solve are perfectly defined from the get-go as claimed by the people making these predictions. This means that more often than not the job is not really about coding, but rather figuring out what exactly needs to be coded, by asking yourself questions such as: What problems are we facing right now? What are the current objectives of the company? What is the current state of the company? What is most important for our users? Who will benefit from X problem being solved? What does the codebase looks like today? Are there any patterns or traps I need to be aware of? Are there any political fights going on around me that would affect what I should focus on? What's the current state of the industry? Are there any new tools that can help me solve my problems? The answers to questions like the ones above provide you with context that helps you define how (and when) exactly certain problems should be solved, and is a critical aspect of software engineering even for junior developers. And the interesting part is that the more senior you become, the less coding you do, and the more time you spend answering these types of questions to help your team/company determine which way it should go. This is something I've also written about on my Focus not on the task, but on the problem behind the task blog post. While AI can be quite good at solving very simple and perfectly defined problems, it is exceptionally bad at handling anything that requires taking this level of context into account, which is something that software engineers constantly have to do. This is very easy to confirm if you have doubts about it: Grab any AI agent and project of your choice (or ask the agent to make a new one), and keep asking it to include more features in your project. While it may do relatively well the first time, it is inevitable that the AI will start confusing itself and destroying the codebase on the subsequent requests. This is because AI today doesn't understand context, and as one user on HackerNews wrote, it's like working with a junior developer that has amnesia. Thus, while AI today can be amazing as a coding assistant (which I'll go into more detail further below), the thought of it replacing software engineers is frankly hilarious. One counterargument that some people have is that while this is true today, it doesn't mean that in the future the AI won't be able to understand context and thus be able to do complex tasks. While this is true, what must be noted about this is that an AI capable of understanding context (and gathering it on its own) would be so powerful that it wouldn't just replace software engineers; it would replace all of humanity. If such a thing is achieved then software engineering jobs would be the least of our concerns, so I think it's a sort of weird argument to consider. Our entire lives would change in this scenario. With that out of the way, I'd like to now present my favorite use cases for AI today! Use case 1: Getting simple tasks done quickly One thing that AI is very good as of writing is solving very concrete and straightforward problems. So when I have to do very menial tasks like changing configuration files or writing a simple function that does X and Y, nowadays what I do is simply ask Cursor to do it for me, sit back, and watch the show. Even when taking into account that the AI might not get it 100% correct and that I'll still have to patch the code afterward, this still saves me a massive amount of time overall compared to having me do everything by myself and is definitely my favorite use case of AI today. This is especially true when doing (simple) work on languages that I'm not very familiar with, as the AI in this case is also sparing me from having to do multiple trips to StackOverflow. I still need to do so since the AI will sometimes recommend things that are not correct for my case, but again, even when considering these setbacks, I can get the work done at a much faster pace. It must be noted however that the important keyword here is simple, concrete, and straightforward. As mentioned previously, trying to have the AI solve complex problems that require large amounts of context such as code reviews or designing large features will not work in any meaningful way and is a sure way to waste everyone's time. Use case 2: Understanding complex codebases quickly Another thing that I've found AI to be amazing at is when I'm working on a repository that I'm not familiar with and I need to figure out how certain things are wired together. The way I would do this before AI was to spend hours painstakingly reading through the codebase, but now, with the right questions, it's possible for me to get started in a matter of seconds. Here's a concrete recent example to demonstrate what I mean by this. I was recently attempting to craft a Build Server Protocol that would connect to SourceKit-LSP in order to enable iOS development on my specific non-Xcode conditions. The problem here is that SourceKit-LSP is a very complex project. Even though I know what I have to do in theory, I have no idea what SourceKit-LSP expects me to do in practice. But nowadays, instead of having to spend weeks trying to figure this out by searching keywords on the codebase, I can simply ask Cursor to explain the project to me! Similarly to Use case 1, it's to be expected that the explanation provided by the AI will not be 100% accurate. But once again, even when taking this into consideration, the amount of time these explanations save me is mindblowing. Since Cursor in this case provides shortcuts to the relevant parts of the codebase, I am able to very quickly piece together what I am supposed to do / determine which parts of the explanation are correct and which ones aren't. Use case 3: Searching for things when I don't know what exactly I'm looking for I find that Google tends to provide good results if you know exactly what you're looking for. But if you don't really know what is it that you're trying to find out, you'll have a hard time with it. For example, the other day I was trying to find what the _start function in iOS (the first function called when your app is launched) is, where it's defined, and what it does. But if I go now and search for \"_start function iOS\" on Google, I will not find a straight answer to this question. Google does return somewhat good results (the second search result contains some interesting information about it if you scroll down far enough), but it cannot give me a direct response because I asked the wrong question. I know today that what I should've done is ask it about details of how C programs are linked, but I didn't know this back then, so I couldn't have done that. AI does not have this problem. If you don't know what you're looking for, you can explain your situation to it and it will point you in the right direction: In this example, you can see that ChatGPT immediately pointed out that I asked the wrong question before attempting to explain it! Although the AI's answers won't always be 100% accurate, I find them to be accurate enough to allow me to use Google to find the rest of the information. Just like the previous case, this is not so much about having the AI do everything for me (which it can't), but rather allowing me to save time and get where I want faster. Use case 4: Asking questions that are too specific for Google Even if you know exactly what you're looking for, you may have difficulty using Google if your question is too specific. For example, you cannot search Google on \"how to implement X thing in Swift in my app that is using XYZ frameworks in X iOS version with dependency injection bridging an Obj-C type after the user logged in on my TODO list app using Apple Sign-in from Italy during a rainy day in October\". For cases like this, usually what you need to do is break your problem into multiple, more generic queries, open many tabs that each help you with a specific part of the problem, and then use all of that combined knowledge to come up with the actual answer to your question. AI excels at this. You can be as specific as you want and you'll get a relevant answer. Most coding questions fall into this category, although for these specifically nowadays I prefer using Cursor's code gen features directly as mentioned above. In this case, I could've probably found the answer I was looking for in Google by making a bunch of generic searches about C++ global constructors and good practices, opening a bunch of tabs, and summarizing everything I found. But by asking ChatGPT, I was able to save several hours of my time instead. Use case 5: I want FAST answers It has been getting harder and harder to get fast answers to your questions with Google. Today, it's very unlikely that the answer to a question will lie at the top of a page you've opened. As SEO optimization became more and more important for survival on the web, the amount of stuff you have to endure before getting to the actual content has increased significantly. There will be a lengthy introduction, a pause for sponsors, ten paragraphs about how the question reminds the author about a personal story of how their dog bodyslammed their grandma on Christmas, a call to action for the author's newsletter, some backstory on the question, and only then you'll get to the actual content. I find that there are many cases where this fluff is relevant and worth reading. But there are also many cases when I'm in a hurry and would much rather just get a straight answer to my question. This is also something that I find AI to be quite good at. It generally doesn't try to educate you on things you didn't ask, it just straight up answers your question. By asking follow-up questions regarding one or more things it mentioned in its answer, I can get all of the information I need to learn something new considerably faster than if I had used Google instead. Even though I still need to use Google to double-check if the AI didn't hallucinate particular pieces of information, this ability to quickly gather relevant information saves me an absurd amount of time.",
+    "author": "Bruno Rocha",
+    "published": "Tue, 15 Apr 2025 11:50:00 GMT+2",
+    "image": "https://i.imgur.com/4u0M9kM.png",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "09e93e98-5251-46f6-837c-90e159f235fb",
+    "title": "Things that did (and didn't) contribute to Burnout Buddy's success",
+    "link": "https://swiftrocks.com/things-that-did-and-didnt-contribute-to-burnout-buddys-success",
+    "description": "Back in 2022 I launched Burnout Buddy, and today the app has succeeded far beyond my expectations. Netting between $600 and $1000 each month as of writing, BB has been growing 100% organically with little to no effort on my part. In this post, I'd like to lay out exactly what I've done that I believe contributed (and didn't contribute) to this growth, serving as documentation and inspiration for the indie dev community out there. Things that helped Understanding ASO I cannot understate the value of having a good grasp of App Store Optimization (ASO). The case is simple: It doesn't matter how good your app is, if you don't get eyes on it, it will never succeed. ASO refers to being strategic about how you assemble your app's store listing (keywords, name, subtitle, description, screenshots, etc) so that it ranks well when people search for keywords related to your app. In many cases what you actually want to do is avoid popular keywords in the beginning, focusing on less popular ones where you have more of a fighting chance until you get \"popular\" enough that you can try challenging the real ones. How and when you ask for reviews also plays a big role here as reviews also affect your app's rank. I strongly recommend Appfigures for learning and applying ASO for your apps. The owner, Ariel, has posted many videos explaining different strategies you can take, and that's how I got to know about it. In my case, ASO was only time-intensive in the first few weeks following the app's launch. After it picked up some steam and became no.1 in a couple of important keywords, I was able to leave it alone and enjoy full organic growth ever since. I'm my app's primary user Most indie apps fail because they are trying to solve problems that don't exist. The devs come up with the solution first, and then try to find users who have a problem that match their solution. This rarely works. The easiest way to avoid this is to ignore other people and just focus on your own set of problems. If you can manage to build something that would make your own life better, certainly you'll find other people who will also appreciate it. In my case, I built Burnout Buddy because iOS's default Screen Time feature was too simple for me. I wanted to make more complex scenarios such as schedule or location based conditions, but iOS only allows you to setup simple time limits. You also can't do \"strict\" conditions where there's no way to disable the block once it goes into effect. I searched for other alternatives, but none of them were good enough for me. So I built my own! Once my problem was solved, I figured out that most likely there were others out there who could also make use of it. I made the app public with zero expectations, and sure enough, there were tons of other people with the same problem I had. Being my app's primary user also means that I'm perfectly positioned to know which features the app should and shouldn't have. I don't need things like user interviews, because again, I built this for myself. All I have to do is ask myself what I'd like the app to do, and the result is sure to also be a hit with others with the same problem the app aims to solve. I attribute Pieter Level's Make book for helping me understand this concept. It's also a great resource for learning more about indie development and how to create successful products in general! No backend, everything happens client-side Another decision that I've made that massively simplified things for me is that everything happens on the client. There are no accounts or backend, and I gather zero data from the users. This means I have no backend to manage, and most importantly, no monthly server costs. As long as Apple doesn't push iOS updates that break the APIs I use (unfortunately happens a lot), I can trust that everything is working as it should and focus my attention on other things. People seem to really appreciate this too, since many apps nowadays have accounts for no reason other than wanting to hoard data which is really shady. The app just works After the first couple of releases, I spent a good amount of time building a good suite of tests and architecting the app so that it would be easy to expand and make it even more testable. This means I very rarely have to worry about whether or not I'll push something that will fundamentally break the app. Having no backend-related code also greatly helped here. This doesn't mean that the app is bug-free (there are a bunch of SwiftUI issues I can't seem to solve, and Apple somehow manages to break their APIs on every iOS release as mentioned above), but when it comes to the core experience of the app, I can trust that everything works as it should. This saved a lot of testing / debugging time on my end and also made sure I almost never had to deal with support e-mails regarding broken features and such. I don't extort my users Burnout Buddy is a one-time $9.99 bucks purchase. For a long time it used to be $4.99 even. Why this matters? Because most alternatives are stupidly expensive subscriptions. Most of them also don't have backends and have even less features than BB, why the hell are these apps subscription-based??? Some people justify that subscriptions are necessary even for \"simple\" apps like BB because of things like recurring support work. While I can see the point, I also think there are other ways to tackle these issues. I for example created a FAQ support page, and that reduced 99.9% of the support requests. I'm not trying to extort my users and I believe this was a strong factor for the app's success. Things that didn't help It would be naive of me to claim that everything went right. I've made a couple of bad decisions that worked against the app's success, and I wanted to document them as well. Thinking I could make it big without marketing Like I mentioned in the ASO section, it doesn't matter how good your app is. You need to get the word out, otherwise it will just not work. There is a saying in tech that goes \"if you build something good, people will follow\". Whoever said this has absolutely never attempted to sell something. I'm as a tech nerd as it can get and I can safely say that when it comes to building businesses, marketing is a billion times more important than building the actual product! Unfortunately for me, I hate doing marketing work. I'm fine with putting a sponsorship section on this blog, but reaching out to journalists and hustling on X / LinkedIn is really not my thing. This means that while thankfully I was able to do just enough of it to get some nice results in the beginning, the app is destined to die a slow death as it drops in ranking in the App Store and other similar apps manage to get their word out better than me. Marketing is something you have to do constantly, but unfortunately for me it's something I just don't want to do, so there will always be a hard cap to how far I can go with any given project alone. Making the app too cheap This will sound weird because I mentioned above that not extorting my users was a positive. But allow me to clarify this. One thing I've learned the hard way is that you need to avoid cheapskates like the plague. This means people who expect nothing but the highest quality products, but at the same time are not willing to pay anything for it. You know when you see one because they behave like huge assholes and will do everything in their power to extract as much value from you as possible while giving nothing in return, much like the meme of a Karen screaming at the supermarket cashier because of some worthless coupon. When Burnout Buddy was $4.99, I was constantly having my support e-mail being spammed by such people. They would constantly aggressively complain about different app features and demand refunds, often threatening that they would download a different app if I didn't help them (...why would I care about that?). A lot of these reports didn't even make sense, they were clearly people just searching for excuses to be an asshole and get free stuff. It was such a waste of my time that I even briefly considered abandoning the project entirely / pulling it from the App Store just so I wouldn't have to deal with them anymore. It was only when I read someone complaining about the exact same problem on HackerNews that I realized what my issue was. It's not that giving support is a thankless job, it's that the app was too cheap. The cheapskates are attracted by free (or in this case, almost free) products. If you raise the price of your product just slightly, you can filter out these people without driving way the good (and kind) users. After doing just that, these bizarre e-mails completely vanished without resulting in any loss of revenue. While I of course still get support requests every now and then, they are now all very polite and helpful, which makes everything a breeze! In other words, the \"fail\" here is that I should've made the app cost $9.99 from the get-go to have filtered the cheapskates from the very beginning. Not gathering analytics This is an interesting one because it's both a good and a bad thing depending on how you look at it. I mentioned above that having no accounts was a good thing because it made things easier on my side and was appreciated by the users. But it also meant that I had no information regarding how users were using the app. This made things harder for me because 1) I couldn't determine which features were more popular / worth expanding upon (and which ones weren't), and 2) when people reported bugs, I had no easy way to trace their steps in order to quickly reproduce the issue (or to confirm they misunderstood the app / were doing something wrong). If I could go back, I would probably have gone for a solution that allowed me to gather analytics data for the above reasons. Using SwiftUI This is mostly out-of-topic for this post, so I'll keep it short. I decided to use SwiftUI for this project as a learning opportunity, and I sort of regret it. As mentioned in my SwiftUI vs UIKit post, SwiftUI is good for simple apps, but awful for more complex ones. As BB grew and became more intricate, SwiftUI became more and more of an issue. The app today is full of dirty hacks and visual bugs that are impossible to solve (as of writing) because they originate from SwiftUI itself, in ways that are impossible for me to control without dumping the entire framework.",
+    "author": "Bruno Rocha",
+    "published": "Thu, 23 Jan 2025 13:00:00 GMT+1",
+    "image": "",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "eb90c030-dd7e-43af-8890-cb3290da42cd",
+    "title": "318: The Forgotten Customer",
+    "link": "http://relay.fm/radar/318",
+    "description": "Thoughts and feelings about the Apple anti-steering injunction, the way Apple views developers, and how the relationship could constructively move forward if Apple so chose.",
+    "author": "Marco Arment and David Smith",
+    "published": "Thu, 08 May 2025 15:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar318.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  },
+  {
+    "id": "9881a33a-eb6d-477e-9faa-5c2a90d9e7b1",
+    "title": "317: Optimizing for Battery Life",
+    "link": "http://relay.fm/radar/317",
+    "description": "Testing our apps for power consumption and adjusting behavior to maximize battery life.",
+    "author": "Marco Arment and David Smith",
+    "published": "Thu, 24 Apr 2025 14:30:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar317.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  },
+  {
+    "id": "17a38bc8-6f24-498c-b684-024c5b91d201",
+    "title": "SwiftUI Picker With Optional Selection",
+    "link": "https://useyourloaf.com/blog/swiftui-picker-with-optional-selection/",
+    "description": "How do you create a SwiftUI picker that works with optional selection so that not picking a value is possible? SwiftUI Picker A SwiftUI picker expects a binding to a selection. For example, suppose I have a project model that is Identifiable: struct Project: Identifiable { let id = UUID() var name: String ... } To pick a single project from a store of projects: struct ProjectPicker: View { @Binding var project: Project.ID @Environment(ProjectStore.self) private var store var body: some View { Picker(selection: $project) { ForEach(store.projects) { project in Text(project.name) } } label: { Text(\"Project\") } } } The ForEach automatically applies a tag to each Text view using the id of the project. Selecting an item in the picker sets the pickers binding to the identifier of the item. Here’s how that looks when part of a Form to create an item in a project: Optional Selection Sometimes I need a picker to work with an optional binding. Either because I don’t yet have a selection or because not selecting an item is also a valid choice: struct ProjectPicker: View { @Binding var project: Project.ID? ... } Apple provides an example on how to make this work in the documentation for the tag modifier. We need to manually tag each of the picker views with an optional identifier matching the optional type of the picker selection. The tag modifier has a parameter to indicate you want to make it optional: Text(project.name) .tag(project.id, includeOptional: true) Since the includeOptional parameter defaults to true it’s enough to tag the views: Text(project.name) .tag(project.id) Finally, we can also include a None option for when no project is selected. Note we need to cast nil as an optional project ID: Text(\"None\") .tag(nil as Project.ID?) The full project picker with optional selection: struct ProjectPicker: View { @Binding var project: Project.ID? @Environment(ProjectStore.self) private var store var body: some View { Picker(selection: $project) { Text(\"None\") .tag(nil as Project.ID?) ForEach(store.projects) { project in Text(project.name) .tag(project.id) } } label: { Text(\"Project\") } } } SwiftUI Picker With Optional Selection was originally posted 12 May 2025 on useyourloaf.com. Want this direct to your inbox? Sign up and get my free WWDC viewing guide PDF.",
+    "author": "",
+    "published": "Mon, 12 May 2025 11:02:38 +0100",
+    "image": "https://useyourloaf.com/blog/swiftui-picker-with-optional-selection/001.png",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "3a4014ac-681c-4d0c-b786-d2d3dea4d33c",
+    "title": "SwiftData Predicates For Parent Relationships",
+    "link": "https://useyourloaf.com/blog/swiftdata-predicates-for-parent-relationships/",
+    "description": "How do you write SwiftData predicates to query for parent relationships? SwiftData Relationships Suppose I have a SwiftData model with a parent Project class that contains a collection of Topic children: @Model class Project { var name: String ... @Relationship(deleteRule: .cascade, inverse: \\Topic.project) var topics: [Topic]? = [] } @Model class Topic { var name: String ... var project: Project? = nil } The relationship properties are optional for compatibility with CloudKit sync. Query All Topics In A Project In a TopicList view I want to query for all topics owned by a parent project. I’m passing the identifier of the parent project as a parameter to the view and constructing the predicate and query in the view init: struct TopicList: View { let project: Project.ID @Binding var selectedTopic: Topic.ID? @Query(sort: \\Topic.name) private var topics: [Topic] init(project: Project.ID) { self.project = project let predicate = #Predicate\u003cTopic\u003e { topic in topic.project?.persistentModelID == project } self._topics = Query(filter: predicate, sort: \\Topic.name) var body: some View { List(selection: $selectedTopic) { ForEach(topics) { topic in Text(topic.name) } } } Focussing on just the predicate to match the identifier of the topic project. The project attribute of the Topic is an optional so we need to use optional chaining. let predicate = #Predicate\u003cTopic\u003e { topic in topic.project?.persistentModelID == project } That gives me all the topics in a single parent project. What if I want to query for topics in several projects? Query For Children In Set Of Parents Assuming my view is now passed a set of project identifiers to match: let projects: Set\u003cProject.ID\u003e I want to write the following predicate: let predicate = #Predicate\u003cTopic\u003e { topic in projects.contains(topic.project?.persistentModelID) } That doesn’t compile as the contains method doesn’t expect an optional identifier: Cannot convert value of type ‘PersistentIdentifier?’ to expected argument type ‘Project.ID’ (aka ‘PersistentIdentifier’) This article on predicates with optional values gave me some ideas. First using an if-let: let predicate = #Predicate\u003cTopic\u003e { topic in if let parent = topic.project { return projects.contains(parent.persistentModelID) } else { return false } } That works but is clumsy to write. I think I slightly prefer the flatMap version: let predicate = #Predicate\u003cTopic\u003e { $0.project.flatMap { projects.contains($0.persistentModelID) } ?? false } Neither is intuitive and I know I’m going to have to look this up again the next time I need it. KeyPaths Not Supported One other caveat. The #Predicate macro doesn’t handle accessing properties via a keypath. Suppose my set of project identifiers is a property on an observable navigation state class: @Observable NavigationState { let projects: Set\u003cProject.ID\u003e } Attempting to access the projects via the navigation state causes a runtime crash: @Bindable var state: NavigationState let predicate = #Predicate\u003cTopic\u003e { $0.project.flatMap { state.projects.contains($0.persistentModelID) } ?? false } Fatal error: Predicate does not support keypaths with multiple components The workaround is to introduce a temporary variable, outside of the macro, when constructing the predicate: let projects = state.projects let predicate = #Predicate\u003cTopic\u003e { $0.project.flatMap { projects.contains($0.persistentModelID) } ?? false } SwiftData Predicates For Parent Relationships was originally posted 05 May 2025 on useyourloaf.com. Want this direct to your inbox? Sign up and get my free WWDC viewing guide PDF.",
+    "author": "",
+    "published": "Mon, 05 May 2025 10:31:41 +0100",
+    "image": "",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "02c4c93b-ebe7-4744-ae1a-732581e2dd01",
+    "title": "Seattle Xcoders Presentation Meetings Return",
+    "link": "https://inessential.com/2025/03/16/seattle_xcoders_presentations_return.html",
+    "description": "Thanks to the enterprising and tireless Xcoders organizers (not me — I’m just the PR guy), we’re finally returning to presentation meetings. At long last! Thursday, April 3. Read all about it on the Xcoders blog.",
+    "author": "",
+    "published": "Sun, 16 Mar 2025 11:45:00 -0700",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "bf516381-b16b-45fa-8de9-3db5d567cb93",
+    "title": "Harris for President",
+    "link": "https://inessential.com/2024/10/31/harris_for_president.html",
+    "description": "Donald Trump is a gross villain and a traitor to our country. He’s a convicted felon, adjudicated rapist, and head of a criminal organization; he works with criminals and he pardons criminals; he’s a narcissist and violent insurrectionist, racist and misogynist; he’s the master of lies and corruption and self-serving. He plans to rule as a fascist dictator, and this time has the backing to do so, for the benefit of him and his ultra-wealthy friends. Not for you. For everybody else, the various enemies within — everybody who isn’t a straight white male who goes along with the program — there will be concentration camps, deportation, prison, and rumors and threats of each. There will be more deaths in hospital parking lots. I have voted for Kamala Harris. I ask you to vote for her too. I happen to think Harris would be very good, possibly even great, as president. But it hardly matters! Voting for her is how we stop this. And we have to stop this.",
+    "author": "",
+    "published": "Thu, 31 Oct 2024 13:04:03 -0700",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "1ba5d38a-1930-4908-9dec-a8773563693d",
+    "title": "Solar Powered Birdhouse",
+    "link": "https://atomicbird.com/blog/birdhouse-solar-power/",
+    "description": "In my last couple of posts I’ve talked about the hardware and software behind my birdhouse camera project. I haven’t previously covered how I’m giving it all enough power to operate, and therein lies a tale. No Power? No Problem If I had a power outlet located anywhere near the bird house, this would have been easy. Pretty much any micro-USB power adapter would plug into the Raspberry Pi, and I’d be set.",
+    "author": "",
+    "published": "Thu, 19 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "e0338461-db65-43d3-9a2b-786c957a4a24",
+    "title": "Raspberry Pi Birdhouse Software",
+    "link": "https://atomicbird.com/blog/birdhouse-software/",
+    "description": "In my last post I went over the components of the bird house camera I set up this year to get a better look at the local black-capped chickadees. Today I’ll talk about the software that makes it work. Initial Setup Being relatively new to Raspberry Pi, I started off with a full install of Raspbian Deskop. It’s more than I need, since I won’t have anything like a desktop setup, but with a 64GB SD card I wasn’t concerned about the space.",
+    "author": "",
+    "published": "Mon, 09 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  }
+]
