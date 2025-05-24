@@ -1,0 +1,25 @@
+{
+  "id": "e5d38bb6-19c7-4cc4-b853-a599ed837367",
+  "title": "AnyClass protocol and Objective-C methods",
+  "link": "https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/",
+  "description": "AnyClass is a protocol all classes conform to and it comes with a feature I was not aware of. But first, how to I ended up with using AnyClass. While working on code using CoreData, I needed a way to enumerate all the CoreData entities and call a static function on them. If that function […]",
+  "author": "Toomas Vahter",
+  "published": "Mon, 04 Nov 2024 16:00:00 +0000",
+  "source": "https://augmentedcode.io/feed/",
+  "categories": [
+    "iOS",
+    "Swift",
+    "AnyClass"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "8863e336-7c10-4feb-b1d7-398003c71bc3",
+  "title": "181: Memory Management",
+  "link": "https://www.programmingthrowdown.com/episodes/181-memory-management/",
+  "description": "Intro topic: Video Game PricesNews/Links:Step one: Jump in the Lava - Abyssofthttps://youtu.be/WdadpHLAfdA?si=oXYnhB0EdkR_RaPEScalable world models for continuous controlhttps://www.tdmpc2.com/Clever code is probably the worst code you could write - Engineer’s Codexhttps://read.engineerscodex.com/p/clever-code-is-probably-the-worstA new, open source text-to-speech model called Dia has arrived to challenge ElevenLabs, OpenAI and morehttps://venturebeat.com/ai/a-new-open-source-text-to-speech-model-called-dia-has-arrived-to-challenge-elevenlabs-openai-and-more/Book of the ShowPatrickThe Muscle Ladder - Jeff Nippardhttps://amzn.to/44DznszJasonMetaphysics of Warhttps://amzn.to/4jMjvZ5Patreon Plug https://www.patreon.com/programmingthrowdown?ty=hTool of the ShowPatrickPokemon Trading Card Game PocketJasonPhi-4https://huggingface.co/spaces/microsoft/phi-4-multimodalTopic: Memory ManagementMotivationAvoid thrashing / crashesAllocate resources efficientlyKeep high uptimeWhereOS LevelHeap managementVirtual MemoryLanguage/Compiler LevelCppGarbage collectionOwnershipToolsInstrumentationExport to Datadog / GrafanaPython: psutil \u0026 tracemallocValgrindWhat to do when your program uses too much memory?Reduce data sizesCompressionReferencesLazy initializerGenerators \u0026 Back PressureRing buffersArena allocatorsDisk based caching ★ Support this podcast on Patreon ★",
+  "author": "Patrick Wheeler and Jason Gauci",
+  "published": "Mon, 12 May 2025 10:00:00 -0500",
+  "source": "http://feeds.feedburner.com/ProgrammingThrowdown",
+  "categories": [
+    "Programming Throwdown",
+    " Programming Languages",
+    "C",
+    "C",
+    "Java",
+    "Python",
+    "Objective C"
+  ],
+  "byline": "",
+  "length": 27,
+  "excerpt": "180: Reinforcement Learning",
+  "siteName": "",
+  "favicon": "",
+  "text": "180: Reinforcement Learning",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003ca href=\"https://www.programmingthrowdown.com/episodes/180-reinforcement-learning/\"\u003e\u003cdiv\u003e\u003cp\u003e180: Reinforcement Learning\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
