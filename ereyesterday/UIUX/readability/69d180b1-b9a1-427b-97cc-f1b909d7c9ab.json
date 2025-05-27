@@ -1,0 +1,27 @@
+{
+  "id": "69d180b1-b9a1-427b-97cc-f1b909d7c9ab",
+  "title": "Why fonts look better on macOS than on Windows",
+  "link": "https://uxdesign.cc/why-fonts-look-better-on-macos-than-on-windows-51a2b7c57975?source=rss----138adf9c44c---4",
+  "description": "When art and science render the same word, it doesn’t always look the same.Continue reading on UX Collective »",
+  "author": "Kartscrut",
+  "published": "Sat, 24 May 2025 13:02:21 GMT",
+  "source": "https://uxdesign.cc/feed",
+  "categories": [
+    "ux",
+    "typography",
+    "technology",
+    "design",
+    "tech"
+  ],
+  "byline": "Kartscrut",
+  "length": 1442,
+  "excerpt": "If you’ve ever felt that text just looks nicer on a Mac than on a Windows PC, you’re not imagining things. I recently switched from Windows to Mac, and the first thing I noticed was how typing just…",
+  "siteName": "UX Collective",
+  "favicon": "https://miro.medium.com/v2/resize:fill:256:256/1*dn6MbbIIlwobt0jnUcrt_Q.png",
+  "text": "Why fonts look better on macOS than on WindowsWhen art and science render the same word, it doesn’t always look the same.If you’ve ever felt that text just looks nicer on a Mac than on a Windows PC, you’re not imagining things. I recently switched from Windows to Mac, and the first thing I noticed was how typing just feels smoother like the text flows better, looks softer, and is easier on the eyes. At first glance, macOS text tends to appear more faithful to the font’s design, while Windows text looks crisper and more sharply defined. These differences aren’t just accidents, they stem from deliberate choices each operating system made in font rendering philosophy and technique.Print Fidelity vs. Screen ReadabilityText rendering on macOS and Windows reflects two contrasting philosophies. Broadly speaking, Apple prioritizes aesthetic fidelity i.e. rendering fonts true to their design, as if they were printed on paper whereas Microsoft prioritizes on-screen readability and sharpness, even if it means deviating from the font’s pure design. In other words, Apple’s approach preserves the shape and weight of the typeface, while Microsoft’s approach “hammers” outlines to the pixel grid for crispness. This fundamental divergence is why text on a Mac often looks thicker or smoother, and text on Windows often looks thinner but crisper.Rendering Philosophy Apple: render text as it would appear in print, preserving design details…",
+  "image": "https://miro.medium.com/v2/resize:fit:637/1*UQdft3jjg9Vtr1AeOVJ8AA.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cp\u003e\u003ch2 id=\"ad8d\" data-testid=\"storyTitle\"\u003eWhy fonts look better on macOS than on Windows\u003c/h2\u003e\u003c/p\u003e\u003cdiv\u003e\u003ch2 id=\"683e\"\u003eWhen art and science render the same word, it doesn’t always look the same.\u003c/h2\u003e\u003cdiv tabindex=\"-1\" aria-hidden=\"false\"\u003e\u003ca href=\"https://medium.com/@kartscrut?source=post_page---byline--51a2b7c57975---------------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"Kartscrut\" src=\"https://miro.medium.com/v2/da:true/resize:fill:64:64/0*xJDrRKBJH9CPpNrg\" width=\"32\" height=\"32\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e\u003cp id=\"31ce\"\u003eIf you’ve ever felt that text just \u003cem\u003elooks nicer\u003c/em\u003e on a Mac than on a Windows PC, you’re not imagining things. I recently switched from Windows to Mac, and the first thing I noticed was how \u003cstrong\u003etyping just feels smoother \u003c/strong\u003elike the text flows better, looks softer, and is easier on the eyes. At first glance, macOS text tends to appear more faithful to the font’s design, while Windows text looks crisper and more sharply defined. These differences aren’t just accidents, they stem from deliberate choices each operating system made in \u003cstrong\u003efont rendering\u003c/strong\u003e philosophy and technique.\u003c/p\u003e\u003ch2 id=\"b304\"\u003ePrint Fidelity vs. Screen Readability\u003c/h2\u003e\u003cp id=\"12b4\"\u003eText rendering on macOS and Windows reflects two contrasting philosophies. Broadly speaking, Apple prioritizes aesthetic fidelity i.e. rendering fonts true to their design, as if they were printed on paper whereas Microsoft prioritizes on-screen readability and sharpness, even if it means deviating from the font’s pure design. In other words, Apple’s approach preserves the shape and weight of the typeface, while Microsoft’s approach “hammers” outlines to the pixel grid for crispness. This fundamental divergence is why text on a Mac often looks thicker or smoother, and text on Windows often looks thinner but crisper.\u003c/p\u003e\u003cblockquote\u003e\u003cp id=\"b888\"\u003e\u003cstrong\u003e\u003cem\u003eRendering Philosophy\u003c/em\u003e\u003c/strong\u003e\u003cem\u003e \u003cbr/\u003e\u003c/em\u003e\u003cstrong\u003eApple\u003c/strong\u003e: \u003cem\u003erender text as it would appear in print,\u003c/em\u003e preserving design details…\u003c/p\u003e\u003c/blockquote\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-05-24T13:02:20.961Z",
+  "modifiedTime": null
+}

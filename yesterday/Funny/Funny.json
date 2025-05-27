@@ -1,0 +1,391 @@
+[
+  {
+    "id": "487db761-7abe-4221-af68-727cc50555ed",
+    "title": "Drafting",
+    "link": "https://xkcd.com/3093/",
+    "description": "",
+    "author": "",
+    "published": "Fri, 23 May 2025 04:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/drafting.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "fdb306e2-79ed-436f-b906-31773fac939b",
+    "title": "Baker's Units",
+    "link": "https://xkcd.com/3092/",
+    "description": "",
+    "author": "",
+    "published": "Wed, 21 May 2025 04:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/bakers_units.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "7867360e-0ecf-4357-92b8-60ef061cff3f",
+    "title": "Error'd: Mike's Job Search Job",
+    "link": "https://thedailywtf.com/articles/mike-s-job-search-job",
+    "description": "Underqualified Mike S. is suffering a job hunt. \"I could handle uD83D and uDC77 well enough, but I am a little short of uD83C and the all important uDFFE requirement.\"   Frank forecasts frustration. \"The weather app I'm using seems to be a bit confused on my location as I'm on vacation right now.\" It would be a simple matter for the app to simply identify each location, if it can't meaningfully choose only one.   Marc Würth is making me hungry. Says Marc \"I was looking through my Evernote notes for \"transactional\" (email service). It didn't find anything. Evernote, though, tried to be helpful and thought I was looking for some basil (German \"Basilikum\").\"   \"To be from or not from be,\" muses Michael R. Indeed, that is the question at Stansted Shakespeare airport.   That is not the King,\" Brendan commented. \"I posted this on Discord, and my friend responded with \"They have succeeded in alignment. Their AI is truly gender blind.\" Not only gender-blind but apparently also existence-blind as well. I think the Bard might have something quotable here as well but it escapes me. Comment section is open.   ...and angels sing thee to thy rest. [Advertisement] Picking up NuGet is easy. Getting good at it takes time. Download our guide to learn the best practice of NuGet for the Enterprise.",
+    "author": "Lyle Seaman",
+    "published": "Fri, 23 May 2025 06:30:00 GMT",
+    "image": "https://d3hvi6t161kfmf.cloudfront.net/images/24/q1/273/fordailywtf.jpeg",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "Error'd"
+    ]
+  },
+  {
+    "id": "8172a833-7e7e-4718-a57d-5b33789128c8",
+    "title": "CodeSOD: A Trying Block",
+    "link": "https://thedailywtf.com/articles/a-trying-block",
+    "description": "Mark sends us a very simple Java function which has the job of parsing an integer from a string. Now, you might say, \"But Java has a built in for that, Integer.parseInt,\" and have I got good news for you: they actually used it. It's just everything else they did wrong. private int makeInteger(String s) { int i=0; try { Integer.parseInt(s); } catch (NumberFormatException e) { i=0; return i; } i=Integer.parseInt(s); return i; } This function is really the story of variable i, the most useless variable ever. It's doing its best, but there's just nothing for it to do here. We start by setting i to zero. Then we attempt to parse the integer, and do nothing with the result. If it fails, we set i to zero again, just for fun, and then return i. Why not just return 0? Because then what would poor i get to do? Assuming we didn't throw an exception, we parse the input again, storing its result in i, and then return i. Again, we treat i like a child who wants to help paint the living room: we give it a dry brush and a section of wall we're not planning to paint and let it go to town. Nothing it does matters, but it feels like a participant. Now, Mark went ahead and refactored this function basically right away, into a more terse and clear version: private int makeInteger(String s) { try { return Integer.parseInt(s); } catch (NumberFormatException e) { return 0; } } He went about his development work, and then a few days later came across makeInteger reverted back to its original version. For a moment, he wanted to be mad at someone for reverting his change, but no- this was in an entirely different class. With that information, Mark went and did a search for makeInteger in the code, only to find 39 copies of this function, with minor variations. There are an unknown number of copies of the function where the name is slightly different than makeInteger, but a search for Integer.parseInt implies that there may be many more. [Advertisement] Keep all your packages and Docker containers in one place, scan for vulnerabilities, and control who can access different feeds. ProGet installs in minutes and has a powerful free version with a lot of great features that you can upgrade when ready.Learn more.",
+    "author": "Remy Porter",
+    "published": "Thu, 22 May 2025 06:30:00 GMT",
+    "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "CodeSOD"
+    ]
+  },
+  {
+    "id": "81fc75d8-35d1-4e34-9dac-5d6b739d9077",
+    "title": "Where I get my ideas from",
+    "link": "http://theoatmeal.com/comics/ideas_from?no_popup=1",
+    "description": "This comic contains the magic secret of how I get ideas for comicsView on my website",
+    "author": "Matthew Inman",
+    "published": "2025-05-23T17:02:44+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/ideas_from_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "469d6b2d-0761-43bc-8ba2-36e591a34151",
+    "title": "Leftover comics",
+    "link": "http://theoatmeal.com/comics/leftovers?no_popup=1",
+    "description": "These are some comics I submitted to The New Yorker. View on my website",
+    "author": "Matthew Inman",
+    "published": "2025-05-19T15:06:00+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/leftovers_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "ef03a40b-a307-43c9-a3dc-c058b382f78b",
+    "title": "What To Know About ‘Mission: Impossible—The Final Reckoning’",
+    "link": "https://theonion.com/what-to-know-about-mission-impossible-the-final-reckoning/",
+    "description": "Mission: Impossible—The Final Reckoning, the eighth installment in the series, is expected to be another box-office smash. The Onion shares everything you need to know about the film.  Q: Who is directing? A: Christopher McQuarrie with a gun pointed at his head by Tom Cruise. Q: What stunts does Tom Cruise pull off in this […] The post What To Know About ‘Mission: Impossible—The Final Reckoning’ appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Fri, 23 May 2025 15:43:38 +0000",
+    "image": "",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "Entertainment",
+      "Explainer",
+      "Vol 61: Issue 21"
+    ]
+  },
+  {
+    "id": "df39c11d-1c4d-409b-a367-50743d23557c",
+    "title": "Whataburger Sued For $1 Million For Not Holding Onions",
+    "link": "https://theonion.com/whataburger-sued-for-1-million-for-not-holding-onions/",
+    "description": "A Texas man filed a lawsuit against the fast food chain Whataburger alleging that he received onions on his burger despite requesting none, claiming the meal caused an allergic reaction. What do you think? The post Whataburger Sued For $1 Million For Not Holding Onions appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Fri, 23 May 2025 15:40:53 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2025/05/Face-Black.jpg?w=200",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "American Voices",
+      "Food",
+      "Law",
+      "Vol 61: Issue 21"
+    ]
+  },
+  {
+    "id": "47136340-91e5-4034-a704-61f1c8b453c6",
+    "title": "What The Duck?",
+    "link": "https://awkwardfamilyphotos.com/2025/duck-nightmare/",
+    "description": "“My mom thought it would be sweet to hire this living hell of a duck to my 3rd birthday party. This photo was taken seconds before I started screaming and crying in terror.” (submitted by Elisabeth) The post What The Duck? appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Team Awkward",
+    "published": "Thu, 03 Apr 2025 19:06:26 +0000",
+    "image": "https://s3.awkwardfamilyphotos.com/wp-content/uploads/2025/04/03120623/inbound712178304268553129-819x1024.jpg",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Birthdays",
+      "Misc"
+    ]
+  },
+  {
+    "id": "70744f53-098a-4b6c-90e8-53e9342dc143",
+    "title": "The Replacement Plan",
+    "link": "https://awkwardfamilyphotos.com/2025/replacement",
+    "description": "“We had a professional family photo done for my parents Mother’s \u0026 Father’s Day but right after we gave it to them, my brother got a divorce. My dad decided to cut my ex-sister in law out of the photo and replace her with someone else. Then he hung it on the wall like this... The post The Replacement Plan appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Team Awkward",
+    "published": "Sat, 22 Feb 2025 00:00:30 +0000",
+    "image": "https://s3.awkwardfamilyphotos.com/wp-content/uploads/2025/02/21160026/IMG_1495-772x1024.jpeg",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Family Portrait",
+      "Misc"
+    ]
+  },
+  {
+    "id": "cd03a0b0-6f79-46cc-995b-1d506f810d6b",
+    "title": "Comic for 2021.12.21",
+    "link": "http://explosm.net/comics/6060/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Tue, 21 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "4cb3b487-04c3-4916-b797-727df2e8e1f9",
+    "title": "Comic for 2021.12.20",
+    "link": "http://explosm.net/comics/6059/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Mon, 20 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "93f945d8-a56d-4d8c-ade7-0dfe04176ad7",
+    "title": "5 of the Most Important Poops in History",
+    "link": "https://www.cracked.com/article_45031_5-of-the-most-important-poops-in-history.html?newsletter-cat=science-history",
+    "description": "By Jesse Published: January 09th, 2025",
+    "author": "",
+    "published": "Thu, 09 Jan 2025 08:00:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "6d69109d-57fe-4607-9c33-66ac1367f2ec",
+    "title": "Deleted Scenes From ‘The Blues Brothers’ Were Rescued by the FBI",
+    "link": "https://www.cracked.com/article_45033_deleted-scenes-from-the-blues-brothers-were-rescued-by-the-fbi.html?newsletter-cat=movies-tv",
+    "description": "By JM McNab Published: January 09th, 2025",
+    "author": "",
+    "published": "Thu, 09 Jan 2025 06:40:00 -0800",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "2f5809e0-4d73-4cc7-b595-66ec93d42dfd",
+    "title": "Man buys 15-year-old brother a PS5 and $500 gift card, entitled stepmom insists he's not being fair to his 16-year-old stepbrother",
+    "link": "https://cheezburger.com/40716549/man-buys-15-year-old-brother-a-ps5-and-500-gift-card-entitled-stepmom-insists-hes-not-being-fair-to",
+    "description": "You should never be forced into buying someone a present--- it's an act that's supposed to come from the heart. That's why they say it's the thought that counts. Even if you're gifted a sweater you'd never wear, or a clunky coffee mug you can't stand the sight of, the gift-giver thought of you and bought something they thought you'd enjoy. It's less about the value of the gift, and more about the bond that brings you and that person together, whether that's through a long-standing friendship, family ties, or a workplace BFF. This guy is frustrated after giving his little stepbrother a gift that was, admittedly, much cheaper than he gave to his actual brother. They just aren't as close, so this guy figured it'd be fine to give a $25 gift card to the dude he barely sees or interacts with. His stepmom and stepbrother should've just thanked him for the gift (even if they talked about him behind his back after the fact). But instead, a simple gift turned into a whole family debate that isn't going to bring any of them closer together any time soon. Check out the full story below, and see if you think this guy's gifting needs work, or if his dad and stepmom are being unreasonable. Next, read about this mom who banned her 16-year-old daughter from going on spring break… with good reason!",
+    "author": "Remy Millisky",
+    "published": "Sun, 25 May 2025 12:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "family drama",
+      "stepmother",
+      "siblings",
+      "stepmom",
+      "dad",
+      "family",
+      "video games",
+      "step brother",
+      "brothers",
+      "Father"
+    ]
+  },
+  {
+    "id": "f3688c8b-e03e-4b7b-9d80-f642d307c69e",
+    "title": "30-year-old kicks evicted 24-year-old brother and GF out after picking on his 6-year-old son's mom: 'I’m not about to let two grown adults bring chaos into my home'",
+    "link": "https://cheezburger.com/40702469/30-year-old-kicks-evicted-24-year-old-brother-and-gf-out-after-picking-on-his-6-year-old-sons-mom-im",
+    "description": "This dude's chaotic brother and girlfriend are pure trouble. After getting evicted from their apartment, the older brother was generous enough to allow them to crash at his place while they were taking the time they needed to rebound and get back on their feet. The catch was that the older brother had house rules. Nothing over-the-top, but he needed the place to remain orderly and stable for the sake of his 6-year-old son. Unfortunately, this backfired quickly as the younger brother and his girlfriend were simply unable to follow said house rules after about a month. At that point, the older brother was likely already wondering when they were planning on moving out, so when they started to bend his rules, he had plenty of cause to kick them out. However, the straw that really broke the camel's back had to do with the 6-year-old's mother when she came one weekend to drop her son off at the apartment. The drama that ensued led to even more family conflict!",
+    "author": "Ben Weiss",
+    "published": "Sun, 25 May 2025 11:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "family drama",
+      "aita",
+      "AITAH",
+      "kids",
+      "brother",
+      "family feud",
+      "girlfriend",
+      "entitled people karma",
+      "family",
+      "entitled people"
+    ]
+  },
+  {
+    "id": "3df27f3c-fa79-4e07-afdf-ba852f3a1fae",
+    "title": "Spring Shedding Season: 22 Cat Memes Clinging to Your Soul Like Fur on a Black Sweater",
+    "link": "https://cheezburger.com/40692485/spring-shedding-season-22-cat-memes-clinging-to-your-soul-like-fur-on-a-black-sweater",
+    "description": "Oh, spring. First of all, bless you for that giant sneeze you just did. Second of all, it's time to sweep that cat fur that's clinging to everything around your house. You don't have a couch anymore - you have a sittable lump of cat hair. You don't have food anymore - you have edible fur in various tastes. You don't have a floor anymore - you have a wall-to-wall carpet made of everything your cat is shedding this season. So, you know, it's time to take out that broom, the vacuum cleaner, the Dyson, or whatever you use to clean the house - and get some spring work done.If you cleaned well and no more fur is clinging to everything you own, you can now see the hidden comical cat memes that were under that fluffy coat. They might not be as floofy as your feline friend, but they're definitely as funny as cats, as cute as cats, as hilarious as cats, and as wholesome as cats. It's a great way to have a laugh on this lovely spring day.",
+    "author": "Ayala Sorotsky",
+    "published": "Sun, 25 May 2025 10:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "funny cat memes",
+      "silly cats",
+      "feline funnies",
+      "spring",
+      "silly memes",
+      "funny memes",
+      "Memes",
+      "funny cats",
+      "silly",
+      "Cats",
+      "funny",
+      "cat memes"
+    ]
+  },
+  {
+    "id": "eeedc029-a170-4eeb-99f2-425ccea2daa3",
+    "title": "'I wasn't a cat person at all': Tiny kitten found in the wild melt's tough-guy husband's heart, and changes his life furrever",
+    "link": "https://cheezburger.com/40678661/i-wasnt-a-cat-person-at-all-tiny-kitten-found-in-the-wild-melts-tough-guy-husbands-heart-and-changes",
+    "description": "Purrsonally, we believe that everyone is a cat person. Most of them just don't know it yet. They have ideas of what being a cat purrson looks like, or how cats are cold and distant, where that couldn't be furrther from the truth. Sure, some cats like their purrsonal space, but you would never know that if you stepped even one paw into our house. Our partner was a \"dog person\" before they met us. Now they say they can't sleep unless one of our cats is curled up next to them.It's always the boyfriends, husbands, or dads who say they don't want a cat. And in the end, they all fall prey to the kitten's or cat's love. We know it's going to happen, we've seen it countless times, and yet it never fails to pull on our little heartstrings. The tough-guy husband in this video found a tiny kitten in the woods near their house, and as much as he tried to resist the kitten's love, he and the cute kitty became purrfect companions. Watch the heartwarming video below!",
+    "author": "Blake Seidel",
+    "published": "Sun, 25 May 2025 08:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "adoption",
+      "tough guy",
+      "kitten",
+      "animal rescue",
+      "adopted",
+      "husband",
+      "feline",
+      "cat rescue",
+      "forever home",
+      "Cats",
+      "loving",
+      "cute kittens",
+      "animals",
+      "rescue"
+    ]
+  },
+  {
+    "id": "3c70e447-ec1e-4287-9bfe-9d84a7adb073",
+    "title": "Vegemancy",
+    "link": "https://www.penny-arcade.com/news/post/2025/05/23/vegemancy",
+    "description": "I might actually have to grab Fantasy Life i now - after launch, they've pretty significantly changed how multiplayer functions, which in this case means it now has some of the things we would consider \"multiplayer functions.\" And only a couple days after launch! They just announced free DLC to celebrate, shit must be going well over there.",
+    "author": "",
+    "published": "Fri, 23 May 2025 16:39:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "302d2550-3dc1-4622-a4c9-0200768d9482",
+    "title": "Vegemancy",
+    "link": "https://www.penny-arcade.com/comic/2025/05/23/vegemancy",
+    "description": "New Comic: Vegemancy",
+    "author": "",
+    "published": "Fri, 23 May 2025 07:01:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "1a515b72-da52-424a-9e1e-726df6ab068b",
+    "title": "01/15/21 PHD comic: 'NEW BOOK! Out of Your Mind!'",
+    "link": "http://www.phdcomics.com/comics.php?f=2051",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"NEW BOOK! Out of Your Mind!\" - originally published 1/15/2021 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Mon, 31 Jan 2022 11:24:26 -0800",
+    "image": "http://www.phdcomics.com/comics/archive/phd011525s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  },
+  {
+    "id": "f352a7e1-5b98-4aab-8b29-0ef5292d2d98",
+    "title": "08/31/23 PHD comic: 'New Book! Oliver's Great Big Universe!'",
+    "link": "http://www.phdcomics.com/comics.php?f=2050",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"New Book! Oliver's Great Big Universe!\" - originally published 8/31/2023 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Tue, 14 Dec 2021 11:53:03 -0800",
+    "image": "http://www.phdcomics.com/comics/archive/phd083123s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  },
+  {
+    "id": "6c2a9bbb-bce2-40da-9f85-1ba1f63b0e86",
+    "title": "Sunday Secrets",
+    "link": "https://postsecret.com/2025/05/25/sunday-secrets-557/",
+    "description": "The post Sunday Secrets appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sun, 25 May 2025 00:13:00 +0000",
+    "image": "https://i0.wp.com/postsecret.com/wp-content/uploads/2025/05/nojoke.jpg?resize=526%2C347\u0026ssl=1",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "14627f45-a3ea-4ac4-8d69-c5df49e4111e",
+    "title": "Memorial Day Secrets",
+    "link": "https://postsecret.com/2025/05/25/soldiers-secrets/",
+    "description": "The post Memorial Day Secrets appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sun, 25 May 2025 00:09:00 +0000",
+    "image": "",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "855555b5-a930-4258-a749-ae9ebfec1f40",
+    "title": "This post might be upsetting if you love me but just know that I’m going to be okay and if you want to skip it and come back another time that’s totally fine.",
+    "link": "https://thebloggess.com/2025/05/15/this-post-might-be-upsetting-if-you-love-me-but-just-know-that-im-going-to-be-okay-and-if-you-want-to-skip-it-and-come-back-another-time-thats-totally-fine/",
+    "description": "Woof. So, you may have noticed that I’ve been a bit MIA recently and that’s because I got some shitty news and I didn’t want to share until I had more information because I know you guys worry as much as I do, and also because I didn’t want to tell Hailey until they wereContinue reading \"This post might be upsetting if you love me but just know that I’m going to be okay and if you want to skip it and come back another time that’s totally fine.\"",
+    "author": "thebloggess",
+    "published": "Thu, 15 May 2025 20:24:49 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  },
+  {
+    "id": "2132cdc3-9b55-480d-887f-f67ce61f18bc",
+    "title": "Books to distract, engage and love.",
+    "link": "https://thebloggess.com/2025/05/09/books-to-distract-engage-and-love/",
+    "description": "This month’s new book releases held a few of my absolute favorites for the year, which made it quite hard to winnow them down to just two for my book club picks. A good problem to have though. This month we’re sending Fantastic Strangelings When the Tides Held the Moon by Venessa Vida Kelley. It’sContinue reading \"Books to distract, engage and love.\"",
+    "author": "thebloggess",
+    "published": "Fri, 09 May 2025 19:48:11 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  },
+  {
+    "id": "8150e5a0-4d95-4bc2-89db-012446aa032e",
+    "title": "Saturday Morning Breakfast Cereal - Icarus",
+    "link": "https://www.smbc-comics.com/comic/icarus-2",
+    "description": "Click here to go see the bonus panel!Hovertext:CRONUS DID NOTHING WRONGToday's News:",
+    "author": "Zach Weinersmith",
+    "published": "Sun, 25 May 2025 18:09:32 -0400",
+    "image": "https://www.smbc-comics.com/comics/1748210982-20250525.webp",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  },
+  {
+    "id": "164308c9-1653-4626-8be2-56e37969c801",
+    "title": "Saturday Morning Breakfast Cereal - Sylph",
+    "link": "https://www.smbc-comics.com/comic/sylph",
+    "description": "Click here to go see the bonus panel!Hovertext:Locking down the graph joke/obscure word enthusiast crossover crowd.Today's News:",
+    "author": "Zach Weinersmith",
+    "published": "Sat, 24 May 2025 18:19:54 -0400",
+    "image": "https://www.smbc-comics.com/comics/1748125205-20250524.webp",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  }
+]
