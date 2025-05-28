@@ -1,0 +1,26 @@
+{
+  "id": "4a580ec7-3e42-42f8-9e2a-4dcc83f7c3ed",
+  "title": "WBIT #8: Typescript for gut biomes",
+  "link": "https://stackoverflow.blog/2025/05/26/wbit-8-typescript-for-gut-biomes/",
+  "description": "Kyle is joined by his former colleague Tyler McEntee, now a senior software engineer at Jona, to talk about doing everything all at once at a startup.",
+  "author": "Ryan Donovan",
+  "published": "Mon, 26 May 2025 04:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "wbit",
+    "se-tech",
+    "se-stackoverflow",
+    "typescript"
+  ],
+  "byline": "Ryan Donovan",
+  "length": 616,
+  "excerpt": "Kyle is joined by his former colleague Tyler McEntee, now a senior software engineer at Jona, to talk about doing everything all at once at a startup.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "May 26, 2025Kyle is joined by his former colleague Tyler McEntee, now a senior software engineer at Jona, to talk about doing everything all at once at a startup. Kyle is joined by his former colleague Tyler McEntee, now a senior software engineer at Jona. They talk about the many hats he wears on the job and off (he once sent homemade hot sauce to testers at Stack Overflow), the guts of the gut biome evaluation system he works on, and the pleasures of a statically-typed language.Episode notes:Jona provides an AI-powered gut biome test for clinicians and patients alike.Connect with Tyler on Twitter.TRANSCRIPT",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/807b30d3e40c5bf2242891d8ce4a04d887e4ff78-3840x2160.png?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle itemscope=\"\" itemtype=\"https://schema.org/Article\"\u003e\u003cheader\u003e\u003ctime datetime=\"2025-05-26T04:40:00.000Z\" itemprop=\"datePublished\"\u003e May 26, 2025\u003c/time\u003e\u003cp itemprop=\"abstract\"\u003eKyle is joined by his former colleague Tyler McEntee, now a senior software engineer at Jona, to talk about doing everything all at once at a startup. \u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://cdn.stackoverflow.co/images/jo7n4k8s/production/807b30d3e40c5bf2242891d8ce4a04d887e4ff78-3840x2160.png?rect=0,72,3840,2016\u0026amp;w=1200\u0026amp;h=630\u0026amp;auto=format\u0026amp;dpr=2\" width=\"1200\" height=\"630\" alt=\"Article hero image\" itemprop=\"image\"/\u003e\u003c/figure\u003e\u003c/header\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003eKyle is joined by his former colleague Tyler McEntee, now a senior software engineer at Jona. They talk about the many hats he wears on the job and off (he once sent homemade hot sauce to testers at Stack Overflow), the guts of the gut biome evaluation system he works on, and the pleasures of a statically-typed language.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEpisode notes:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://jona.health/\"\u003eJona\u003c/a\u003e provides an AI-powered gut biome test for clinicians and patients alike.\u003c/p\u003e\u003cp\u003eConnect with Tyler on \u003ca href=\"https://x.com/tyler_mcentee\"\u003eTwitter\u003c/a\u003e.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://the-stack-overflow-podcast.simplecast.com/episodes/wbit-8-typescript-for-gut-biomes/transcript\"\u003eTRANSCRIPT\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

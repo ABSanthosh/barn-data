@@ -1,0 +1,24 @@
+{
+  "id": "e3040d18-184f-4006-bdc6-6a40d6a81b78",
+  "title": "We used Gemini to make a web app with stats from the I/O keynote.",
+  "link": "https://blog.google/feed/gemini-canvas-stats-io-2025/",
+  "description": "Last week’s I/O keynote was packed with live demos, model news … and plenty of numbers reflecting the momentum and growth of our products. Since there was so much going …",
+  "author": "",
+  "published": "Tue, 27 May 2025 23:00:00 +0000",
+  "source": "https://www.blog.google/rss/",
+  "categories": [
+    "Gemini App",
+    "Gemini Models"
+  ],
+  "byline": "",
+  "length": 713,
+  "excerpt": "Last week’s I/O keynote was packed with live demos, model news … and plenty of numbers reflecting the momentum and growth of our products. Since there was so much going on, we wanted to try a fresh way to explore and understand some of these updates — so we asked Gemini for some help. We used Canvas (which also got some updates last week) to analyze the transcript from the keynote, pull out some impressive numbers and offer explanations of them. Then we made just a few tweaks to ensure accuracy and zhuzz it up.To see the results, check out this interactive web app — just click on each tile and reveal what that number means. There’s even a post-I/O item in there we think many of you will be interested in!",
+  "siteName": "Google",
+  "favicon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20250514-1654",
+  "text": "Last week’s I/O keynote was packed with live demos, model news … and plenty of numbers reflecting the momentum and growth of our products. Since there was so much going on, we wanted to try a fresh way to explore and understand some of these updates — so we asked Gemini for some help. We used Canvas (which also got some updates last week) to analyze the transcript from the keynote, pull out some impressive numbers and offer explanations of them. Then we made just a few tweaks to ensure accuracy and zhuzz it up.To see the results, check out this interactive web app — just click on each tile and reveal what that number means. There’s even a post-I/O item in there we think many of you will be interested in!",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_hero.max-1440x810.max-1440x810.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n        \u003cuni-short-post title=\"We used Gemini to make a web app with stats from the I/O keynote.\" author=\"\" author-job-title=\"\" author-url=\"\" date=\"May 27, 2025\" url=\"https://blog.google/feed/gemini-canvas-stats-io-2025/\"\u003e\n          \u003cdiv slot=\"uni-short-post-description-slot\"\u003e\u003cp data-block-key=\"g8asi\"\u003eLast week’s \u003ca href=\"https://blog.google/technology/developers/google-io-2025-collection/\"\u003eI/O keynote\u003c/a\u003e was packed with live demos, model news … and plenty of numbers reflecting the momentum and growth of our products. Since there was so much going on, we wanted to try a fresh way to explore and understand some of these updates — so we asked Gemini for some help. We used \u003ca href=\"https://gemini.google/overview/canvas/\"\u003eCanvas\u003c/a\u003e (which also got \u003ca href=\"https://blog.google/products/gemini/gemini-app-updates-io-2025/#canvas\"\u003esome updates last week\u003c/a\u003e) to analyze the transcript from the keynote, pull out some impressive numbers and offer explanations of them. Then we made just a few tweaks to ensure accuracy and zhuzz it up.\u003c/p\u003e\u003cp data-block-key=\"4jh29\"\u003eTo see the results, check out \u003ca href=\"https://g.co/gemini/share/c30bda1a3edb\"\u003ethis interactive web app\u003c/a\u003e — just click on each tile and reveal what that number means. There’s even a post-I/O item in there we think many of you will be interested in!\u003c/p\u003e\u003c/div\u003e\n          \n        \u003c/uni-short-post\u003e\n      \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": "2025-05-27T23:00:00Z",
+  "modifiedTime": null
+}

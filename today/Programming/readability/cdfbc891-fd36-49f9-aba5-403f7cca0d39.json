@@ -1,0 +1,32 @@
+{
+  "id": "cdfbc891-fd36-49f9-aba5-403f7cca0d39",
+  "title": "“The future is agents”: Building a platform for RAG agents",
+  "link": "https://stackoverflow.blog/2025/05/27/the-future-is-agents-building-a-platform-for-rag-agents/",
+  "description": "Douwe Kiela, CEO and cofounder of Contextual AI, joins Ryan and Ben to explore the intricacies of retrieval-augmented generation (RAG). They discuss its origins, the evolution of AI models, the challenges of hallucinations, and the importance of system design. Douwe emphasizes the need for personalization in ranking systems and the role of synthetic data in improving AI models. They also cover the future of RAG, the integration of structured and unstructured data, and the significance of context windows in AI applications.",
+  "author": "Eira May",
+  "published": "Tue, 27 May 2025 07:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "se-tech",
+    "se-stackoverflow",
+    "podcast",
+    "ai",
+    "developer-tools",
+    "dev-tools",
+    "ai-coding",
+    "agentic-ai",
+    "autonomous-agents",
+    "retrieval-augmented-generation"
+  ],
+  "byline": "Eira May",
+  "length": 568,
+  "excerpt": "Douwe Kiela, CEO and cofounder of Contextual AI, joins Ryan and Ben to explore the intricacies of retrieval-augmented generation (RAG). They discuss its origins, the evolution of AI models, the challenges of hallucinations, and the importance of system design. Douwe emphasizes the need for personalization in ranking systems and the role of synthetic data in improving AI models. They also cover the future of RAG, the integration of structured and unstructured data, and the significance of context windows in AI applications.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "May 27, 2025Douwe Kiela, CEO and cofounder of Contextual AI, joins Ryan and Ben to explore the intricacies of retrieval-augmented generation (RAG). They discuss its origins, the evolution of AI models, the challenges of hallucinations, and the importance of system design. Douwe emphasizes the need for personalization in ranking systems and the role of synthetic data in improving AI models. They also cover the future of RAG, the integration of structured and unstructured data, and the significance of context windows in AI applications. Credit: Alexandra Francis",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle itemscope=\"\" itemtype=\"https://schema.org/Article\"\u003e\u003cheader\u003e\u003ctime datetime=\"2025-05-27T07:40:00.000Z\" itemprop=\"datePublished\"\u003e May 27, 2025\u003c/time\u003e\u003cp itemprop=\"abstract\"\u003eDouwe Kiela, CEO and cofounder of Contextual AI, joins Ryan and Ben to explore the intricacies of retrieval-augmented generation (RAG). They discuss its origins, the evolution of AI models, the challenges of hallucinations, and the importance of system design. Douwe emphasizes the need for personalization in ranking systems and the role of synthetic data in improving AI models. They also cover the future of RAG, the integration of structured and unstructured data, and the significance of context windows in AI applications.\u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026amp;h=630\u0026amp;auto=format\u0026amp;dpr=2\" width=\"1200\" height=\"630\" alt=\"Article hero image\" itemprop=\"image\"/\u003e\u003cfigcaption\u003e  \u003cspan\u003e Credit: Alexandra Francis\u003c/span\u003e\u003c/figcaption\u003e\u003c/figure\u003e\u003c/header\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
