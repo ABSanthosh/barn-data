@@ -1,0 +1,28 @@
+{
+  "id": "96d1535d-e34b-474e-b04b-bfe50d27a0cd",
+  "title": "Gemini in Google Drive may finally be useful now that it can analyze videos",
+  "link": "https://arstechnica.com/google/2025/05/gemini-in-google-drive-may-finally-be-useful-now-that-it-can-analyze-videos/",
+  "description": "The chatbot can answer questions and extract data from your uploaded vids.",
+  "author": "Ryan Whitwam",
+  "published": "Thu, 29 May 2025 19:21:35 +0000",
+  "source": "http://feeds.arstechnica.com/arstechnica/index",
+  "categories": [
+    "AI",
+    "Google",
+    "Tech",
+    "Artificial Intelligence",
+    "gemini",
+    "google"
+  ],
+  "byline": "Ryan Whitwam",
+  "length": 1817,
+  "excerpt": "The chatbot can answer questions and extract data from your uploaded vids.",
+  "siteName": "Ars Technica",
+  "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+  "text": "Google's rapid adoption of AI has seen the Gemini \"sparkle\" icon become an omnipresent element in almost every Google product. It's there to summarize your email, add items to your calendar, and more—if you trust it to do those things. Gemini is also integrated with Google Drive, where it's gaining a new feature that could make it genuinely useful: Google's AI bot will soon be able to watch videos stored in your Drive so you don't have to. Gemini is already accessible in Drive, with the ability to summarize documents or folders, gather and analyze data, and expand on the topics covered in your documents. Google says the next step is plugging videos into Gemini, saving you from wasting time scrubbing through a file just to find something of interest. Using a chatbot to analyze and manipulate text doesn't always make sense—after all, it's not hard to skim an email or short document. It can take longer to interact with a chatbot, which might not add any useful insights. Video is different because watching is a linear process in which you are presented with information at the pace the video creator sets. You can change playback speed or rewind to catch something you missed, but that's more arduous than reading something at your own pace. So Gemini's video support in Drive could save you real time. Suppose you have a recorded meeting in video form uploaded to Drive. You could go back and rewatch it to take notes or refresh your understanding of a particular exchange. Or, Google suggests, you can ask Gemini to summarize the video and tell you what's important. This could be a great alternative, as grounding AI output with a specific data set or file tends to make it more accurate. Naturally, you should still maintain healthy skepticism of what the AI tells you about the content of your video.",
+  "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Gemini-Google-Drive-1152x648.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n                      \n                      \n          \u003cp\u003eGoogle\u0026#39;s rapid adoption of AI has seen the Gemini \u0026#34;sparkle\u0026#34; icon become an omnipresent element in almost every Google product. It\u0026#39;s there to summarize your email, \u003ca href=\"https://arstechnica.com/google/2025/03/gmail-gains-gemini-powered-add-to-calendar-button/\"\u003eadd items\u003c/a\u003e to your calendar, and more—if you \u003ca href=\"https://arstechnica.com/gadgets/2025/04/gemini-is-an-increasingly-good-chatbot-but-its-still-a-bad-assistant/\"\u003etrust it to do those things\u003c/a\u003e. Gemini is also integrated with Google Drive, where it\u0026#39;s gaining a new feature that could make it genuinely useful: Google\u0026#39;s AI bot will soon be able to watch videos stored in your Drive so you don\u0026#39;t have to.\u003c/p\u003e\n\u003cp\u003eGemini is already accessible in Drive, with the ability to summarize documents or folders, gather and analyze data, and expand on the topics covered in your documents. Google says the next step is plugging videos into Gemini, saving you from wasting time scrubbing through a file just to find something of interest.\u003c/p\u003e\n\u003cp\u003eUsing a chatbot to analyze and manipulate text doesn\u0026#39;t always make sense—after all, it\u0026#39;s not hard to skim an email or short document. It can take longer to interact with a chatbot, which might not add any useful insights. Video is different because watching is a linear process in which you are presented with information at the pace the video creator sets. You can change playback speed or rewind to catch something you missed, but that\u0026#39;s more arduous than reading something at your own pace. So Gemini\u0026#39;s video support in Drive could save you real time.\u003c/p\u003e\n\u003cp\u003eSuppose you have a recorded meeting in video form uploaded to Drive. You could go back and rewatch it to take notes or refresh your understanding of a particular exchange. Or, Google suggests, you can ask Gemini to summarize the video and tell you what\u0026#39;s important. This could be a great alternative, as grounding AI output with a specific data set or file tends to make it more accurate. Naturally, you should still maintain healthy skepticism of what the AI tells you about the content of your video.\u003c/p\u003e\n\n          \n                      \n                  \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "3 min read",
+  "publishedTime": "2025-05-29T19:21:35Z",
+  "modifiedTime": "2025-05-29T20:16:35Z"
+}
