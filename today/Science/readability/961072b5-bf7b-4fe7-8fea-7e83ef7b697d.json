@@ -1,0 +1,27 @@
+{
+  "id": "961072b5-bf7b-4fe7-8fea-7e83ef7b697d",
+  "title": "Survey microdata for free",
+  "link": "https://flowingdata.com/2025/06/02/survey-microdata-for-free/",
+  "description": "Downloading survey microdata from public resources can be tricky. Sometimes the documentation is…Tags: Anthony Damico, public, R, surveys",
+  "author": "Nathan Yau",
+  "published": "Mon, 02 Jun 2025 09:18:29 +0000",
+  "source": "https://flowingdata.com/feed",
+  "categories": [
+    "Data Sources",
+    "Anthony Damico",
+    "public",
+    "R",
+    "surveys"
+  ],
+  "byline": "Nathan Yau",
+  "length": 968,
+  "excerpt": "Downloading survey microdata from public resources can be tricky. Sometimes the documentation is sparse, the tools are outdated, or the datasets are tucked away in obscure FTP subdirectories. This …",
+  "siteName": "FlowingData",
+  "favicon": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512-210x210.png",
+  "text": "Downloading survey microdata from public resources can be tricky. Sometimes the documentation is sparse, the tools are outdated, or the datasets are tucked away in obscure FTP subdirectories. This is annoying when you just want to work with the data. Analyze Survey Data for Free, maintained by Anthony Damico, aims to streamline the download process via R. From a decade ago: Governments spend billions of dollars each year surveying their populations. If you have a computer and some energy, you should be able to unlock it for free, with transparent, open-source software, using reproducible techniques. We’re in a golden era of public government data, but almost nobody knows how to mine it with technology designed for this millennium. I can change that, so I’m gonna. Help. Use it. The site received an update to make downloading easier across 49 public datasets. Given the data takedowns these days, now seems like a good time to make quick use of the resource.",
+  "image": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"single-post\"\u003e\n                                    \n                \u003cp\u003eDownloading survey microdata from public resources can be tricky. Sometimes the documentation is sparse, the tools are outdated, or the datasets are tucked away in obscure FTP subdirectories. This is annoying when you just want to work with the data.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://asdfree.com/\"\u003eAnalyze Survey Data for Free\u003c/a\u003e, maintained by Anthony Damico, aims to streamline the download process via R. From a decade ago:\u003c/p\u003e\n\u003cblockquote\u003e\u003cp\u003eGovernments spend billions of dollars each year surveying their populations. If you have a computer and some energy, you should be able to unlock it for free, with transparent, open-source software, using reproducible techniques. We’re in a golden era of public government data, but almost nobody knows how to mine it with technology designed for this millennium. I can change that, so I’m gonna. Help. Use it.\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003eThe site received an update to make downloading easier across 49 public datasets. Given the \u003ca href=\"https://flowingdata.com/tag/takedown/\"\u003edata takedowns\u003c/a\u003e these days, now seems like a good time to make quick use of the resource.\u003c/p\u003e\n                \n                \n                                        \n            \n        \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-06-02T09:18:29Z",
+  "modifiedTime": "2025-05-26T17:38:27Z"
+}
