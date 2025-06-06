@@ -1,0 +1,23 @@
+{
+  "id": "f85c9b79-fa52-41e1-a215-e944a3cb3a68",
+  "title": "WHIP Muxer Merged To FFmpeg For Sub-Second Latency Streaming",
+  "link": "https://news.slashdot.org/story/25/06/04/222206/whip-muxer-merged-to-ffmpeg-for-sub-second-latency-streaming?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+  "description": "FFmpeg has added support for WHIP (WebRTC-HTTP Ingestion Protocol), enabling sub-second latency live streaming by leveraging WebRTC's fast, secure video delivery capabilities. It's a major update that introduces a new WHIP muxer to make FFmpeg more powerful for real-time broadcasting applications. Phoronix's Michael Larabel reports: WHIP uses HTTP for exchanging initial information and capabilities and then uses STUN binding to establish a UDP session. Encryption is supported -- and due to WebRTC, mandatory -- with WHIP and audio/video frames are split into RTP packets. WebRTC-HTTP Ingestion Protocol is an IETF standard for ushering low-latency communication over WebRTC to help with streaming/broadcasting uses. With this FFmpeg commit introducing nearly three thousand lines of new code, an initial WHIP muxer has been introduced. You can learn more about WebRTC WHIP in this presentation by Millicast (PDF). Read more of this story at Slashdot.",
+  "author": "BeauHD",
+  "published": "2025-06-05T00:02:00+00:00",
+  "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "categories": [
+    "media"
+  ],
+  "byline": "",
+  "length": 920,
+  "excerpt": "FFmpeg has added support for WHIP (WebRTC-HTTP Ingestion Protocol), enabling sub-second latency live streaming by leveraging WebRTC's fast, secure video delivery capabilities. It's a major update that introduces a new WHIP muxer to make FFmpeg more powerful for real-time broadcasting applications. P...",
+  "siteName": "",
+  "favicon": "",
+  "text": "FFmpeg has added support for WHIP (WebRTC-HTTP Ingestion Protocol), enabling sub-second latency live streaming by leveraging WebRTC's fast, secure video delivery capabilities. It's a major update that introduces a new WHIP muxer to make FFmpeg more powerful for real-time broadcasting applications. Phoronix's Michael Larabel reports: WHIP uses HTTP for exchanging initial information and capabilities and then uses STUN binding to establish a UDP session. Encryption is supported -- and due to WebRTC, mandatory -- with WHIP and audio/video frames are split into RTP packets. WebRTC-HTTP Ingestion Protocol is an IETF standard for ushering low-latency communication over WebRTC to help with streaming/broadcasting uses. With this FFmpeg commit introducing nearly three thousand lines of new code, an initial WHIP muxer has been introduced. You can learn more about WebRTC WHIP in this presentation by Millicast (PDF).",
+  "image": "https://a.fsdn.com/sd/topics/media_64.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"fhbody-177930444\"\u003e\n\t\n\t\t\n\t\n\n\t\n\t\t\n\t\t\u003cp\u003e\n\t\t\t\n\t\t \t\n\t\t\t\tFFmpeg has \u003ca href=\"https://www.phoronix.com/news/FFmpeg-Lands-WHIP-Muxer\"\u003eadded support for WHIP\u003c/a\u003e (WebRTC-HTTP Ingestion Protocol), enabling sub-second latency live streaming by leveraging WebRTC\u0026#39;s fast, secure video delivery capabilities. It\u0026#39;s a major update that introduces a new WHIP muxer to make FFmpeg more powerful for real-time broadcasting applications. Phoronix\u0026#39;s Michael Larabel reports: \u003ci\u003e WHIP uses HTTP for exchanging initial information and capabilities and then uses STUN binding to establish a UDP session. Encryption is supported -- and due to WebRTC, mandatory -- with WHIP and audio/video frames are split into RTP packets. WebRTC-HTTP Ingestion Protocol is an \u003ca href=\"https://www.ietf.org/archive/id/draft-ietf-wish-whip-01.html\"\u003eIETF standard\u003c/a\u003e for ushering low-latency communication over WebRTC to help with streaming/broadcasting uses. With this \u003ca href=\"https://github.com/FFmpeg/FFmpeg/commit/167e343bbe75515a80db8ee72ffa0c607c944a00\"\u003eFFmpeg commit\u003c/a\u003e introducing nearly three thousand lines of new code, an initial WHIP muxer has been introduced. \u003c/i\u003e You can learn more about WebRTC WHIP in \u003ca href=\"https://www.w3.org/2021/03/media-production-workshop/talks/slides/sergio-garcia-murillo-whip.pdf\"\u003ethis presentation by Millicast\u003c/a\u003e (PDF).\u003cbr/\u003e\n\t\t \t\n\t\t\u003c/p\u003e\n\n\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\n\t\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": null,
+  "modifiedTime": null
+}
