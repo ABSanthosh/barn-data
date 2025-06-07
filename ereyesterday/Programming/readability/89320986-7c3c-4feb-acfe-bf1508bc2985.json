@@ -1,0 +1,29 @@
+{
+  "id": "89320986-7c3c-4feb-acfe-bf1508bc2985",
+  "title": "If an attacker can edit your mobile code, how do you defend your app?",
+  "link": "https://stackoverflow.blog/2025/06/04/if-an-attacker-can-edit-your-mobile-code-how-do-you-defend-your-app/",
+  "description": "Ryan is joined by Jan Seredynski, Mobile Security Researcher and Pentester at Guardsquare, to talk about how you protect your app when the attackers control the code and the device it runs on.",
+  "author": "Ryan Donovan",
+  "published": "Wed, 04 Jun 2025 12:47:19 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "se-tech",
+    "se-stackoverflow",
+    "security",
+    "partner-content",
+    "debugging",
+    "compilers",
+    "podcast"
+  ],
+  "byline": "Ryan Donovan",
+  "length": 790,
+  "excerpt": "Ryan is joined by Jan Seredynski, Mobile Security Researcher and Pentester at Guardsquare, to talk about how you protect your app when the attackers control the code and the device it runs on.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "June 4, 2025Ryan is joined by Jan Seredynski, Mobile Security Researcher and Pentester at Guardsquare, to talk about how you protect your app when the attackers control the code and the device it runs on.Ryan is joined by Jan Seredynski, Mobile Security Researcher and Pentester at Guardsquare, to talk about how you protect your app when the attackers control the code and the device it runs on. They discuss how attackers use debuggers to hack your app, how a compiler-based solution can make compiled code harder to understand, and the dark side of accessibility tools.Episode notes:Learn more about mobile application security and how to protect your app.Congrats to Lifeboat badge winner Chitrakshi for rescuing TypeScript Error: No overload matches this call in Express route handler.",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle itemscope=\"\" itemtype=\"https://schema.org/Article\"\u003e\u003cheader\u003e\u003ctime datetime=\"2025-06-04T12:47:19.506Z\" itemprop=\"datePublished\"\u003e June 4, 2025\u003c/time\u003e\u003cp itemprop=\"abstract\"\u003eRyan is joined by Jan Seredynski, Mobile Security Researcher and Pentester at Guardsquare, to talk about how you protect your app when the attackers control the code and the device it runs on.\u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://cdn.stackoverflow.co/images/jo7n4k8s/production/56c6dab9c7d1b66bc662c5f43ea9573418d94d17-2400x1260.webp?w=1200\u0026amp;h=630\u0026amp;auto=format\u0026amp;dpr=2\" width=\"1200\" height=\"630\" alt=\"Article hero image\" itemprop=\"image\"/\u003e\u003c/figure\u003e\u003c/header\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003eRyan is joined by Jan Seredynski, Mobile Security Researcher and Pentester at Guardsquare, to talk about how you protect your app when the attackers control the code and the device it runs on. They discuss how attackers use debuggers to hack your app, how a compiler-based solution can make compiled code harder to understand, and the dark side of accessibility tools.\u003c/p\u003e\u003cp\u003eEpisode notes:\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://hubs.la/Q03nwVnn0\"\u003eLearn more\u003c/a\u003e about mobile application security and how to protect your app.\u003c/p\u003e\u003cp\u003eCongrats to Lifeboat badge winner \u003ca href=\"https://stackoverflow.com/users/27725050/chitrakshi\"\u003eChitrakshi\u003c/a\u003e for rescuing \u003ca href=\"https://stackoverflow.com/questions/79071082/typescript-error-no-overload-matches-this-call-in-express-route-handler/79072621#79072621\"\u003eTypeScript Error: No overload matches this call in Express route handler\u003c/a\u003e.\u003c/p\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
