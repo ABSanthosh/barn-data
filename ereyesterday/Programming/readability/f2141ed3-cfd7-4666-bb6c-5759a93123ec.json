@@ -1,0 +1,26 @@
+{
+  "id": "f2141ed3-cfd7-4666-bb6c-5759a93123ec",
+  "title": "SE Radio 671: Carson Gross on HTMX",
+  "link": "http://se-radio.net/se-radio-671-carson-gross-on-htmx",
+  "description": "In this episode, SE Radio host Sriram Panyam explores HTMX with its creator, Carson Gross, who is also creator of Hyperscript, the mind behind the Grug Brained Developer, a professor of software engineering at Montana State University, and co-author of Hypermedia Systems. HTMX is a modern JavaScript library that allows developers to access AJAX, WebSockets, CSS Transitions, and Server-Sent Events directly in HTML using attributes. It represents a return to hypermedia-driven application architecture while supporting modern user experiences. The episode starts with a look at the current complexity in web development and how HTMX offers an alternative approach. Carson explains the core philosophy of \"HTML as the interface\" and how hypermedia principles influenced HTMX's design. From there, they dive into HTMX's technical concepts, including its attribute system, server-side integration, event handling, and state management approach. Carson shares some real-world implementation strategies, including migration paths from JavaScript frameworks, architectural patterns, and performance considerations -- as well as a few scenarios in which HTMX might not be the best fit. Finally, they look at the growing HTMX ecosystem, community contributions, and future development roadmap. Throughout the episode, Carson provides concrete examples and case studies of HTMX in production environments. Brought to you by IEEE Computer Society and IEEE Software magazine.",
+  "author": "SE-Radio Team",
+  "published": "Wed, 04 Jun 2025 19:52:00 +0000",
+  "source": "http://feeds.feedburner.com/se-radio",
+  "categories": [
+    "web development",
+    "htmx",
+    "hypermedia",
+    "server side rendering"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

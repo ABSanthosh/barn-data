@@ -1,0 +1,21 @@
+{
+  "id": "2cbaffad-beaa-4d19-8afc-4db807e8a2f3",
+  "title": "Convert photos to Atkinson dithering",
+  "link": "https://gazs.github.io/canvas-atkinson-dither/",
+  "description": "Comments",
+  "author": "",
+  "published": "Sat, 07 Jun 2025 20:33:18 +0000",
+  "source": "https://news.ycombinator.com/rss",
+  "categories": null,
+  "byline": "",
+  "length": 649,
+  "excerpt": "This is an implementation of the classic Macintosh 1-bit filter, as used by Hyperdither and HyperScan originally.",
+  "siteName": "",
+  "favicon": "",
+  "text": "What's this? This is an implementation of the classic Macintosh 1-bit filter, as used by Hyperdither and HyperScan originally. It compares every pixel to 50% grey, then changes them to either black or white. The difference between the input and the output is then distributed to the neighbouring pixels as follows (X is the current pixel): X 1/8 1/8 1/8 1/8 1/8 1/8 The rendered image can be rightclicked-saved. (Due to limitations of the browsers(?) you cannot drag it to the desktop) This code uses Canvas, Drag and Drop events, WebWorkers and the FileReader API so you'll need the newest and shiniest browser to try it.",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"helpwindow\"\u003e\n     \u003cheader\u003e\u003ch2\u003eWhat\u0026#39;s this?\u003c/h2\u003e\u003c/header\u003e\n     \u003carticle\u003e\u003cp\u003eThis is an implementation of the classic Macintosh 1-bit filter, as used by \u003ca href=\"http://www.tinrocket.com/software/hyperdither/\"\u003eHyperdither\u003c/a\u003e and HyperScan originally.\u003c/p\u003e \n \n\u003cp\u003eIt compares every pixel to 50% grey, then changes them to either black or white. The difference between the input and the output is then distributed to the neighbouring pixels \u003ca href=\"http://verlagmartinkoch.at/software/dither/index.html\"\u003eas follows\u003c/a\u003e (X is the current pixel):\u003c/p\u003e \n \n\u003cpre\u003e\u003ccode\u003e     X  1/8 1/8\n1/8 1/8 1/8\n    1/8\n\u003c/code\u003e\u003c/pre\u003e \n \n\u003cp\u003eThe rendered image can be rightclicked-saved. (Due to limitations of the browsers(?) you cannot drag it to the desktop)\n \n\u003c/p\u003e\u003cp\u003eThis code uses Canvas, \u003ca href=\"http://www.html5rocks.com/en/tutorials/file/dndfiles/#toc-selecting-files-dnd\"\u003eDrag and Drop events\u003c/a\u003e, \u003ca href=\"https://developer.mozilla.org/en/using_web_workers\"\u003eWebWorkers\u003c/a\u003e and the \u003ca href=\"https://developer.mozilla.org/en/DOM/FileReader\"\u003eFileReader\u003c/a\u003e API so you\u0026#39;ll need the newest and shiniest browser to try it.\u003c/p\u003e\u003c/article\u003e \n   \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

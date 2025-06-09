@@ -1,0 +1,21 @@
+{
+  "id": "efa4a127-e858-43e3-a6ab-cb51ab2fd5ed",
+  "title": "Swift 6 Productivity in the Sudden Age of LLM-Assisted Programming",
+  "link": "https://mister.computer/@kyle/114608923901892223",
+  "description": "",
+  "author": "John Gruber",
+  "published": "2025-06-07T21:10:30Z",
+  "source": "https://daringfireball.net/feeds/main",
+  "categories": null,
+  "byline": "",
+  "length": 0,
+  "excerpt": "At work I’m developing a new iOS app on a small team alongside a small Android team doing the same. We are getting lapped to an unfathomable degree because of how productive they are with Kotlin, Compose, and Cursor. They are able to support all the way back to Android 10 (2019) with the latest features; we are targeting iOS 16 (2022) and have to make huge sacrifices (e.g Observable, parameter packs in generics on types). Swift 6 makes a mockery of LLMs. It is almost untenable.",
+  "siteName": "Mister Computer",
+  "favicon": "https://mister.computer/packs/media/icons/apple-touch-icon-1024x1024-db6849588b44f525363c37b65ef0ac66.png",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
