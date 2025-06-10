@@ -1,0 +1,26 @@
+{
+  "id": "015c2e7d-2be9-46c7-ad87-91a233f91415",
+  "title": "Reduced sampling for Consumer Price Index estimates",
+  "link": "https://flowingdata.com/2025/06/06/reduced-sampling-for-consumer-price-index-estimates/",
+  "description": "The Bureau of Labor Statistics announced a reduction in data collection to put…Tags: budget, Bureau of Labor Statistics, government",
+  "author": "Nathan Yau",
+  "published": "Fri, 06 Jun 2025 11:04:45 +0000",
+  "source": "https://flowingdata.com/feed",
+  "categories": [
+    "Data Sharing",
+    "budget",
+    "Bureau of Labor Statistics",
+    "government"
+  ],
+  "byline": "Nathan Yau",
+  "length": 1128,
+  "excerpt": "The Bureau of Labor Statistics announced a reduction in data collection to put together the Consumer Price Index, which is used to estimate inflation in the United States. BLS is reducing sample in…",
+  "siteName": "FlowingData",
+  "favicon": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512-210x210.png",
+  "text": "The Bureau of Labor Statistics announced a reduction in data collection to put together the Consumer Price Index, which is used to estimate inflation in the United States. BLS is reducing sample in areas across the country. In April, BLS suspended CPI data collection entirely in Lincoln, NE, and Provo, UT. In June, BLS suspended collection entirely in Buffalo, NY. Sample reduction and collection suspension affect both the commodity and services survey and the housing survey. These actions have minimal impact on the overall all-items CPI-U index, but they may increase the volatility of subnational or item-specific indexes. The number of imputed items and the response rates increased in April due to these actions. BLS makes reductions when current resources can no longer support the collection effort. BLS will continue to evaluate survey operations. I am sorry, Buffalo. You no longer directly feed into the national estimates. Budget cuts continue to force agencies to reduce their data coverage, which inevitably shifts the estimates. This seems to be an ongoing challenge across agencies, but it is growing worse.",
+  "image": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"single-post\"\u003e\n                                    \n                \u003cp\u003eThe Bureau of Labor Statistics announced a \u003ca href=\"https://www.bls.gov/cpi/notices/2025/collection-reduction.htm\"\u003ereduction in data collection\u003c/a\u003e to put together the Consumer Price Index, which is used to estimate inflation in the United States.\u003c/p\u003e\n\u003cblockquote\u003e\u003cp\u003eBLS is reducing sample in areas across the country. In April, BLS suspended CPI data collection entirely in Lincoln, NE, and Provo, UT. In June, BLS suspended collection entirely in Buffalo, NY.  \u003c/p\u003e\n\u003cp\u003eSample reduction and collection suspension affect both the commodity and services survey and the housing survey. These actions have minimal impact on the overall all-items CPI-U index, but they may increase the volatility of subnational or item-specific indexes. The number of imputed items and the response rates increased in April due to these actions. BLS makes reductions when current resources can no longer support the collection effort. BLS will continue to evaluate survey operations.\u003c/p\u003e\u003c/blockquote\u003e\n\u003cp\u003eI am sorry, Buffalo. You no longer directly feed into the national estimates.\u003c/p\u003e\n\u003cp\u003eBudget cuts continue to force agencies to reduce their data coverage, which inevitably shifts the estimates. This seems to be an ongoing challenge across agencies, but it is growing worse.\u003c/p\u003e\n                \n                \n                                        \n            \n        \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-06-06T11:04:45Z",
+  "modifiedTime": "2025-06-05T11:07:14Z"
+}
