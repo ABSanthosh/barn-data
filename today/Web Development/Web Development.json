@@ -1,0 +1,83 @@
+[
+  {
+    "id": "e9f099cb-9204-4c74-8782-99286a9093bc",
+    "title": "Support foldable devices with the Viewport Segments API",
+    "link": "https://developer.chrome.com/blog/viewport-segments-api-shipped?hl=en",
+    "description": "The Viewport Segments API has shipped with minor changes to the origin trial covered in this blog post.",
+    "author": "",
+    "published": "Mon, 09 Jun 2025 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "ae3831c8-196e-4c86-97e5-51290922ebd9",
+    "title": "What's happening in Chrome Extensions, June 2025",
+    "link": "https://developer.chrome.com/blog/extension-news-june-2025?hl=en",
+    "description": "An overview of the recent changes in Chrome Extensions, plus exciting upcoming extensions features developers can look forward to.",
+    "author": "",
+    "published": "Fri, 06 Jun 2025 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "9bc783cd-2332-4756-bc96-60670b517655",
+    "title": "Easy way to upload, transform and deliver files and images (Sponsored)",
+    "link": "https://davidwalsh.name/easy-way-to-upload-transform-and-deliver-files-and-images",
+    "description": "Managing media is a really difficult task if you try to do all of it yourself, especially if the media comes from other sources. The file can be submitted in any state and size, but what if you need something really specific? You can code it all yourself or you can use an awesome service […] The post Easy way to upload, transform and deliver files and images (Sponsored) appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Mon, 24 Mar 2025 22:58:30 +0000",
+    "image": "https://davidwalsh.name/demo/2025/03/SCR-20250316-ntgo-1024x567.png",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Sponsored",
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "3ab27433-09e0-4c25-a82e-870017c6daee",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "2041b8ab-a6dd-4759-9e50-7fc66760d0db",
+    "title": "Creating an Auto-Closing Notification With an HTML Popover",
+    "link": "https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/",
+    "description": "The HTML popover attribute transforms elements into top-layer elements that can be opened and closed with a button or JavaScript. Popovers can be dismissed a number of ways, but there is no option to auto-close them. Preethi has a technique you can use. Creating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Preethi",
+    "published": "Mon, 09 Jun 2025 12:58:37 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "popover"
+    ]
+  },
+  {
+    "id": "04b2dc87-88b5-47ec-b632-c917b6756be9",
+    "title": "Better CSS Shapes Using shape() — Part 3: Curves",
+    "link": "https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/",
+    "description": "This is the third article in a series about the CSS shape() function. We've covered drawing lines and arcs in previous articles and, this time, we look specifically at the curve command and how to use it for drawing complex shapes. Better CSS Shapes Using shape() — Part 3: Curves originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Temani Afif",
+    "published": "Fri, 06 Jun 2025 13:52:42 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/s_CA5FF42D54A3B2DEF87A93172940512B207A6EA57FD63EDD21AFC86A6AB687D3_1748026970288_image.png.webp?resize=767%2C469\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "art",
+      "clip-path",
+      "CSS functions",
+      "css shapes"
+    ]
+  }
+]
