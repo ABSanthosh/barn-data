@@ -1,0 +1,32 @@
+{
+  "id": "c3a23dee-722f-43cc-abc7-12fd82b4f0c6",
+  "title": "Better vibes and vibe coding with Gemini 2.5",
+  "link": "https://stackoverflow.blog/2025/06/10/better-vibes-and-vibe-coding-with-gemini-2-5/",
+  "description": "Ryan and Ben welcome Tulsee Doshi and Logan Kilpatrick from Google's DeepMind to discuss the advanced capabilities of the new Gemini 2.5.",
+  "author": "Phoebe Sajor",
+  "published": "Tue, 10 Jun 2025 07:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "ai-coding",
+    "google",
+    "gemini",
+    "dev-tools",
+    "developer-tools",
+    "ai",
+    "se-stackoverflow",
+    "podcast",
+    "data-quality",
+    "developer-experience"
+  ],
+  "byline": "Phoebe Sajor",
+  "length": 1076,
+  "excerpt": "Ryan and Ben welcome Tulsee Doshi and Logan Kilpatrick from Google's DeepMind to discuss the advanced capabilities of the new Gemini 2.5.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "June 10, 2025Ryan and Ben welcome Tulsee Doshi and Logan Kilpatrick from Google's DeepMind to discuss the advanced capabilities of the new Gemini 2.5.Ryan and Ben welcome Tulsee Doshi and Logan Kilpatrick from Google's DeepMind to discuss the advanced capabilities of the new Gemini 2.5, the importance of feedback loops for model improvement and reducing hallucinations, the necessity of great data for advancements, and enhancing developer experience through tool integration.Episode notes:Gemini 2.5 is DeepMind’s most advanced model yet, with strong reasoning and coding capabilities.Connect with Tulsee on LinkedIn.Connect with Logan on LinkedIn and Stack Overflow.Check out our previous episode with Logan. We discussed his unique path from coding to AI to product, the challenges of non-determinism in AI models, and surprising lessons from working at the Apple Store.Congrats to Populist badge winner Pascal MARTIN for answering the question PHP echo vs PHP short echo tags.Our 2025 Developer Survey is live! We want to know what your developer life is like!TRANSCRIPT",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/d2cb4c948681d5ccbb8ff46ed2d69c6f6b6a8990-800x420.jpg?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle itemscope=\"\" itemtype=\"https://schema.org/Article\"\u003e\u003cheader\u003e\u003ctime datetime=\"2025-06-10T07:40:00.000Z\" itemprop=\"datePublished\"\u003e June 10, 2025\u003c/time\u003e\u003cp itemprop=\"abstract\"\u003eRyan and Ben welcome Tulsee Doshi and Logan Kilpatrick from Google\u0026#39;s DeepMind to discuss the advanced capabilities of the new Gemini 2.5.\u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://cdn.stackoverflow.co/images/jo7n4k8s/production/d2cb4c948681d5ccbb8ff46ed2d69c6f6b6a8990-800x420.jpg?w=1200\u0026amp;h=630\u0026amp;auto=format\u0026amp;dpr=2\" width=\"1200\" height=\"630\" alt=\"Article hero image\" itemprop=\"image\"/\u003e\u003c/figure\u003e\u003c/header\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003eRyan and Ben welcome Tulsee Doshi and Logan Kilpatrick from Google\u0026#39;s DeepMind to discuss the advanced capabilities of the new Gemini 2.5, the importance of feedback loops for model improvement and reducing hallucinations, the necessity of great data for advancements, and enhancing developer experience through tool integration.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEpisode notes:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://deepmind.google/models/gemini/pro/\"\u003eGemini 2.5\u003c/a\u003e is DeepMind’s most advanced model yet, with strong reasoning and coding capabilities.\u003c/p\u003e\u003cp\u003eConnect with Tulsee on \u003ca href=\"https://www.linkedin.com/in/tulsee-doshi/\"\u003eLinkedIn\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eConnect with Logan on \u003ca href=\"https://www.linkedin.com/in/logankilpatrick/\"\u003eLinkedIn\u003c/a\u003e and \u003ca href=\"https://stackoverflow.com/users/7619808/logankilpatrick\"\u003eStack Overflow\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eCheck out \u003ca href=\"https://stackoverflow.blog/2024/11/05/how-google-is-helping-developers-get-better-answers-from-ai\"\u003eour previous episode\u003c/a\u003e with Logan. We discussed his unique path from coding to AI to product, the challenges of non-determinism in AI models, and surprising lessons from working at the Apple Store.\u003c/p\u003e\u003cp\u003eCongrats to Populist badge winner \u003ca href=\"https://stackoverflow.com/users/138475/pascal-martin\"\u003ePascal MARTIN\u003c/a\u003e for answering the question \u003ca href=\"https://stackoverflow.com/questions/1386620/php-echo-vs-php-short-echo-tags\"\u003ePHP echo vs PHP short echo tags\u003c/a\u003e.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://stackoverflow.az1.qualtrics.com/jfe/form/SV_1MNG2CYTY2AzkAm?utm_medium=podcast\u0026amp;utm_source=house-ads\u0026amp;utm_campaign=dev-survey-2025\u0026amp;utm_content=launch-survey\"\u003eOur 2025 Developer Survey is live\u003c/a\u003e! We want to know what your developer life is like!\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://the-stack-overflow-podcast.simplecast.com/episodes/better-vibes-and-vibe-coding-with-gemini-25/embed\"\u003eTRANSCRIPT\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": null,
+  "modifiedTime": null
+}
