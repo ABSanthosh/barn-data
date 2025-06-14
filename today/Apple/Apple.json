@@ -1,0 +1,378 @@
+[
+  {
+    "id": "45cac531-aac4-463b-b018-fb6d4a66d9e2",
+    "title": "iOS 26 Liquid Glass Design Hands-On!",
+    "link": "https://www.youtube.com/watch?v=gCov2x7oo6Y",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-06-11T17:22:28+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "1d2a0c9c-dbc0-45c9-a2ba-4607ad582942",
+    "title": "WWDC 2025 Recap: All of Apple’s NEW Features in 10 Minutes!",
+    "link": "https://www.youtube.com/watch?v=TWbpwSIMkAE",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-06-09T23:30:27+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "32d46205-ab46-452f-8404-db9b7d8f8841",
+    "title": "iOS 26 developer beta updated just days after initial release",
+    "link": "https://www.macworld.com/article/2815108/ios-26-beta-release-date-new-features.html",
+    "description": "Macworld As is tradition, Apple released beta versions of its new operating systems to developers on the first day of WWDC on June 9. Beta 1 is for developers only–the public beta will begin in July, probably after two or three developer-only betas. Updated June 13: Apple updated beta 1 for developers today, though the version number has only changed the last letter (from 23A5260n to 23A5260u). This is still “beta 1” and there are likely no new features, just a critical bug or security flaw fixed. What’s in the latest beta The first beta release of iOS 26 has everything Apple demonstrated in its WWDC keynote: Liquid Glass, the new Phone app and features, the new Camera and Photos experience, and more. You can read all about all the new features in our iOS 26 superguide. There are plenty of bugs and unrefined areas, as you would expect with the first beta release of a major new operating system update. Not everything is working as it should, and it is not advised to run this version of the OS unless you’re a developer or have a high tolerance for buggy or unoptimized software. iOS 26: How to install the public beta The public beta is not yet available, but is expected to begin in July. If you want to be among the first to test iOS 26, you can sign up for the public beta test. Click Sign Up on the Apple Beta page and register with your Apple ID. Log in to the Beta Software Program. Click Enroll your iOS device. Open the Settings app, tap General, then Software Update. In the Beta Updates section, select the iOS Public Beta. It may take a few moments after registering for the beta option to appear in Software Update. iOS 26: How to install the developer beta You’ll need to be registered as an Apple developer. You don’t need to be in the $99 per year developer program to access the developer beta, a free developer account will do. You can get one via Xcode or the Apple Developer app in iOS. Here’s how to do it via the Apple Developer app: Download the Apple Developer App from the App Store. Open the app. Tap on Account. Sign in using your usual Apple ID. Registered developers can choose to get the Public Beta instead by selecting iOS Public Beta in the Software Update screen. It may take a little time after registering as a developer for the option to appear in Software Updates. Find out everything you need to know about iOS 18 in our iOS 26 superguide.",
+    "author": "",
+    "published": "Fri, 13 Jun 2025 20:07:56 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/06/ios-26-hero.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "iOS"
+    ]
+  },
+  {
+    "id": "53b2649d-e283-44f0-9b81-eed42f283884",
+    "title": "VirtualMacOSX.com user data exposed in breach",
+    "link": "https://www.macworld.com/article/2814927/virtualmacosx-com-user-data-exposed-in-breach.html",
+    "description": "Macworld Cybersecurity researchers SafetyDetectives reported on Friday about a data breach involving VirtualMacOSX.com, an online provider of cloud services targeted at Mac users. The breach involves data that “belongs to 10,000 of its customers.” SafetyDetectives states that it found a post publicizing a VirtualMacOSX.com database in a forum known for data leaks, cracks, and more. Access to the data was given to those who replied to or liked the post. The data included sensitive information, including full names, financial data, contact info, and passwords. Analysis by SafetyDetectives led them to believe the data is genuine, but the researchers “refrained from testing the exposed credentials” to verify the data due to ethical concerns. VirtualMacOSX.com describes itself as an “affordable, Mac-based home on the web. We offer Mac OS X server plans hosted from our state of the art datacenters in Western Canada (Serving the Americas and Pacific Rim) and Eastern Canada (Serving the Americas and Middle East/Europe).” Plans start at $12.75 per month for an hour of use a day and 2GB of storage.  According to Trustpilot, Canada-based VirtualMacOSX.com averages a rating of 2.5 out of 5 in Trustpilot reviews, with 48 percent of the reviews rated as 1 star. SafetyDetectives calls itself a pro-bono “publishing group of cybersecurity experts, privacy researchers, and technical product reviewers.” Macworld contacted VirtualMacOSX.com via email for comment on the report. How to protect yourself from data breaches The breach covered here doesn’t involve a macOS vulnerability, but one at a service provider. It is not known how an outside party accessed VirtualMacOSX.com’s database and whether the data was encrypted or not. If it was encrypted, it appears that the threat agent had the keys to decrypt the data. In an instance where you believe your data was exposed in a data breach, there are a few steps to take to protect yourself: If you continue to use the service that was breached, change your password and enable two-factor verification. Check your credit report and freeze it. This will help block unauthorized approvals to financial services that are being made in your name. If you need to sign up for a service (such as a loan or credit card), you can temporarily unfreeze your account so a credit check can be performed. Check your records for all of your financial institutions. If you access them online, change your passwords and enable two-factor verification. Some institutions also provide alerts when attempts are made to access your account. Use a service such as Have I Benn Pwned to see if your email address was involved in a data breach. Apple releases security patches through OS updates, so installing them as soon as possible is important. Macworld has several guides to help, including a guide on whether or not you need antivirus software, a list of Mac viruses, malware, and trojans, and a comparison of Mac security software.",
+    "author": "",
+    "published": "Fri, 13 Jun 2025 17:39:37 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/06/mac-security-graphic-1.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "Mac, Security Software and Services"
+    ]
+  },
+  {
+    "id": "b30541b8-2250-44f9-8acc-3cbd02a8e0a7",
+    "title": "How to Install iOS 26 Beta on iPhone Right Now",
+    "link": "https://osxdaily.com/2025/06/12/how-to-install-ios-26-beta/",
+    "description": "iOS 26 for iPhone and iPadOS 26 for iPad has been announced by Apple, and the first beta versions are available to users partcipating in the developer beta programs. With the beta for iOS 26 and iPadOS 26, users can get an early look at the nifty shiny new Liquid Glass interface and it’s redesigned ... Read More",
+    "author": "Paul Horowitz",
+    "published": "Thu, 12 Jun 2025 21:44:00 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "iPad",
+      "iPhone",
+      "Tips \u0026 Tricks",
+      "beta",
+      "iOS",
+      "iOS 26",
+      "iOS 26 beta",
+      "iPadOS",
+      "iPadOS 26",
+      "iPadOS 26 beta",
+      "tips",
+      "tricks"
+    ]
+  },
+  {
+    "id": "3f4f5694-58f6-42d4-9fe7-4b02eb583a36",
+    "title": "Anyone Can Install iOS 26 Developer Beta (But You Probably Shouldn’t)",
+    "link": "https://osxdaily.com/2025/06/11/anyone-can-install-ios-26-beta-but-dont/",
+    "description": "Apple has enthralled the world with some pretty significant visual overhauls to the iPhone and iPad system software, featuring the all new Liquid Glass appearance style. With a new look, plus many new features, it’s no wonder that so many Apple users are curious about downloading iOS 26 beta and installing it right away. And ... Read More",
+    "author": "Paul Horowitz",
+    "published": "Wed, 11 Jun 2025 21:27:25 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "iPad",
+      "iPhone",
+      "News",
+      "Tips \u0026 Tricks",
+      "beta",
+      "iOS 26",
+      "iOS 26 beta",
+      "iPadOS 26",
+      "iPadOS 26 beta",
+      "tips",
+      "tricks"
+    ]
+  },
+  {
+    "id": "4670ccc2-a905-4d54-b971-ed2f16a851e7",
+    "title": "∞ The Dalrymple Report: WWDC review",
+    "link": "https://www.loopinsight.com/2025/06/13/the-dalrymple-report-wwdc-review/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-wwdc-review",
+    "description": "Apple's annual WWDC was this week and there is a lot to unpack. We look at reactions from the keynote and dive into some of the announcements, like the new Liquid Glass interface, and of course, all of the new OS releases. There are some other featues that were announced as well, like AirPods translation that we'll talk about, as well. Follow this podcast Show Notes: MGSeigler on WWDC Apple supercharges its tools AirPods are more versatile than ever with studio-quality audio recording and camera remote visionOS 26 iPadOS 26 Apple Intelligence gets even more powerful macOS Tahoe 26 watchOS 26 iOS 26 Joanna Stern interviews Craig Federighi and Greg Joswiak Shows and movies we're watching Dept. Q, Netflix Secrets We Keep, Netflix Derek DelGaudio’s In \u0026 Of Itself, Hulu",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 13 Jun 2025 15:12:33 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "a3880ce7-d523-43b4-8af7-8b45b8cbe5ff",
+    "title": "∞ The Dalrymple Report: Popcorn, WWDC, and OS numbering",
+    "link": "https://www.loopinsight.com/2025/06/06/the-dalrymple-report-popcorn-wwdc-and-os-numbering/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-popcorn-wwdc-and-os-numbering",
+    "description": "The podcast takes a little twist this week as Dave and I talk about our love of popcorn and Dave's new gadget to help him get the perfect batch every time. We also talk about some of the rumors surrounding WWDC and what we should expect from the keynote on Monday. One of the things that is supposedly changing is the numbering of all the OSes begining with this year's releases. Follow this podcast Show Notes: Popcorn Gadget Apple Denied WWDC: What to expect Sky Apple OS numbering rebrand Apple, says nah Shows and movies we're watching Dept. Q, Netflix Stick, Apple TV+ Fountain of youth, Apple TV+",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 06 Jun 2025 15:50:28 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "82b88dbb-fa35-4024-ac60-20595880b048",
+    "title": "Apple's continued lack of native apps on Vision Pro isn't a good sign for the platform",
+    "link": "https://appleinsider.com/articles/25/06/13/apples-continued-lack-of-native-apps-on-vision-pro-isnt-a-good-sign-for-the-platform?utm_medium=rss",
+    "description": "It seemed odd that Apple didn't port any of its compatible apps in visionOS 2, but not making any of them native in visionOS 26 is downright neglectful.Apple's compatible app list is the same as it always has beenApple Vision Pro is Apple's first spatial computing platform and an expensive one at that. Adoption of the platform has been glacial, and with it, the rollout of software and media that is native to the 3D mixed reality platform.It seemed obvious as we approached WWDC 2025 that Apple would update at least some, if not all, of its compatible apps to native ones. In case you weren't aware, a compatible app is one that runs on Apple Vision Pro in its unmodified 2D iPad or iPhone form. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Wesley Hilliard",
+    "published": "Fri, 13 Jun 2025 18:18:25 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/64008-133229-compatible-apps-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "7af7bac7-3c85-48f3-8005-4e243d9ace65",
+    "title": "Apple slips out a quiet iOS 26 beta 1 update with a new build",
+    "link": "https://appleinsider.com/articles/25/06/13/apple-slips-out-a-quiet-ios-26-beta-1-update-with-a-new-build?utm_medium=rss",
+    "description": "Apple pushed a surprise update to iOS 26 beta 1 that hints at under-the-hood changes without explaining what's new.There's a new version of iOS 26 beta 1 for developersApple has issued a silent update to the first developer beta of iOS 26, changing the build number from 23A5260n to 23A5260u without publishing new release notes. The update appears to be a minor revision rather than a full beta 2 release.The new build began appearing on some devices on June 12, just three days after iOS 26 beta 1 was first released following Apple's WWDC 2025 keynote. The revision suggests Apple is addressing behind-the-scenes issues or finalizing assets without needing to push a formal second beta. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Andrew Orr",
+    "published": "Fri, 13 Jun 2025 17:41:11 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/64018-133233-Beta-again-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "2f1b5e6b-f0df-4928-9f0d-2a7f5adf7732",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "3c46933e-f49f-4f92-b155-6ff60db2b978",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  },
+  {
+    "id": "5a86c5d7-9e22-4d2a-8040-2aa1f9bc44dd",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 10:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "94f2c08c-9698-44e7-85ce-c7b9a5af72f3",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 06:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "a3fdda65-6d3a-4501-bf47-b1053ab3a9a8",
+    "title": "Retreating to Safety",
+    "link": "https://marco.org/2025/05/30/retreat",
+    "description": "Ten years ago, Apple’s Phil Schiller surprised Apple enthusiasts and developers by walking out on stage at John Gruber’s The Talk Show Live WWDC event and giving an open, human, honest interview to a somewhat jaded community. I wrote this in response: Both Apple and Phil Schiller himself took a huge risk in doing this. That they agreed at all is a noteworthy gift to this community of long-time enthusiasts, many of whom have felt under-appreciated as the company has grown. […] Phil’s appearance on the show was warm, genuine, informative, and entertaining. It was human. And humanizing the company and its decisions, especially to developers — remember, developer relations is all under Phil — might be worth the PR risk. This started a ten-year run of interviews by Apple executives on The Talk Show every year at WWDC that proved to be great, surprisingly safe PR for Apple. No executive ever said something they shouldn’t have (they’re pros), no sensational or negative news stories ever resulted from them, and Apple’s enthusiastic fans and developers felt seen, heard, and appreciated. *     *     * For unspecified reasons, Apple has declined to participate this year, ending what had become a beloved tradition in our community — and I can’t help but suspect that it won’t come back. (A lot has changed in the meantime.) Maybe Apple has good reasons. Maybe not. We’ll see what their WWDC PR strategy looks like in a couple of weeks. In the absence of any other information, it’s easy to assume that Apple no longer wants its executives to be interviewed in a human, unscripted, unedited context that may contain hard questions, and that Apple no longer feels it necessary to show their appreciation to our community and developers in this way. I hope that’s either not the case, or it doesn’t stay the case for long. This will be the first WWDC I’m not attending since 2009 (excluding the remote 2020 one, of course). Given my realizations about my relationship with Apple and how they view developers, I’ve decided that it’s best for me to take a break this year, gain some perspective, and decide what my future relationship should look like. Maybe Apple’s leaders are doing that, too.",
+    "author": "",
+    "published": "Fri, 30 May 2025 11:33:22 EDT",
+    "image": "https://marco.org/media/2015/06/tts2015-schiller6.jpg",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "68477a32-cbf5-453d-9676-625e68d04654",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "444877ad-8558-4a07-be30-56703b600412",
+    "title": "Podcast Rewind: WWDC Announcement Details and Apple Original Film Echo Valley",
+    "link": "https://www.macstories.net/news/podcast-rewind-wwdc-announcement-details-and-apple-original-film-echo-valley/",
+    "description": "Enjoy the latest episodes from MacStories’ family of podcasts: AppStories For our second WWDC episode of AppStories, Federico and John dig into the details they’ve learned about what was announced by Apple this week at WWDC 2025. This episode is sponsored by: Clic for Sonos – No lag. No hassle. Just Clic. Elements – A […]",
+    "author": "Devon Dundee",
+    "published": "Thu, 12 Jun 2025 18:52:58 +0000",
+    "image": "https://cdn.macstories.net/image-4-1749665200307.png",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "news",
+      "appstories",
+      "Magic Rays of Light",
+      "podcast",
+      "WWDC25"
+    ]
+  },
+  {
+    "id": "24a48bb1-a0e6-4d50-880a-bfeb8c935c1d",
+    "title": "Stephen Hackett on Opening Up a ‘Macintosh’ Screensaver Treasure Trove",
+    "link": "https://www.macstories.net/linked/stephen-hackett-on-opening-up-a-macintosh-screensaver-treasure-trove/",
+    "description": "As detailed on 512 Pixels, Stephen Hackett managed to break into the beautiful ‘Macintosh’ screensaver and uncover the details of how it was constructed. When looking for macOS Tahoe’s wallpapers, I was reminded of this project. I went digging through the SSD on my MacBook Pro, and my journey through Finder has yielded great fruit. […]",
+    "author": "Jonathan Reed",
+    "published": "Thu, 12 Jun 2025 14:17:06 +0000",
+    "image": "",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "Linked",
+      "Icons",
+      "Macintosh",
+      "screensaver"
+    ]
+  },
+  {
+    "id": "b1756c23-70a7-413f-9ab5-00c5b8491f95",
+    "title": "Apple launches Service Program for M2 Mac mini power issues",
+    "link": "https://9to5mac.com/2025/06/13/apple-launches-service-program-for-m2-mac-mini-power-issues/",
+    "description": "Apple has launched a new Service Program today for a “No Power Issue” affecting a small number of M2 Mac mini users. Affected users are eligible to have their Mac mini repaired at no charge. more…",
+    "author": "Chance Miller",
+    "published": "Fri, 13 Jun 2025 23:51:54 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/Mac-mini-M2-Pro-review-1.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "5cfde0e3-cbea-4edb-b7ce-d189067cac58",
+    "title": "Apple begins selling latest M4 MacBook Air models on its refurbished store",
+    "link": "https://9to5mac.com/2025/06/13/apple-begins-selling-refurbished-m4-macbook-air/",
+    "description": "Today, Apple has begun selling refurbished configurations of its recently released – with a roughly 15% discount compared to MSRP. This follows the addition of in Black and M4 Max/M3 Ultra Mac Studio earlier this week. more…",
+    "author": "Michael Burkhardt",
+    "published": "Fri, 13 Jun 2025 22:58:58 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/M4-MacBook-Air-take-two.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "c6e099f0-de43-4d01-a574-18e43e55d79f",
+    "title": "Screenshots become events. Just like that. #Shorts",
+    "link": "https://www.youtube.com/shorts/B93UVj8MaWo",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-06-12T15:49:10+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "353b6915-a053-47e2-8181-9a9495891255",
+    "title": "Translate your convos live. Yes, live. #Shorts",
+    "link": "https://www.youtube.com/shorts/yEsgrQmeT68",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-06-11T15:53:22+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "4dc56eba-a4ef-4795-b616-6737462c9e8b",
+    "title": "Apple expands tools to help parents protect kids and teens online",
+    "link": "https://www.apple.com/newsroom/2025/06/apple-expands-tools-to-help-parents-protect-kids-and-teens-online/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-06-11T16:00:13.639Z",
+    "image": "https://www.apple.com/newsroom/images/2025/06/apple-expands-tools-to-help-parents-protect-kids-and-teens-online/tile/Apple-WWDC25-iOS-26-child-accounts-01-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "8db96a79-cd62-43b7-afab-fb0a8279a63a",
+    "title": "Apple services deliver powerful features and intelligent updates to users this fall",
+    "link": "https://www.apple.com/newsroom/2025/06/apple-services-deliver-powerful-features-and-intelligent-updates-to-users-this-fall/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-06-10T15:59:42.846Z",
+    "image": "https://www.apple.com/newsroom/images/2025/06/apple-services-deliver-powerful-features-and-intelligent-updates-to-users-this-fall/tile/Apple-WWDC25-iOS-26-services-hero-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "8dbce0b1-6417-4e06-b30a-ad44b3d8bce7",
+    "title": "Meta AI Users Are Inadvertently Sharing Their Private Chats With the World",
+    "link": "https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-06-14T00:24:50Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "405f9660-cfb7-4cdf-afcd-5d3c8046b6b4",
+    "title": "The NYT Goes ‘Reefer Madness’ on ChatGPT",
+    "link": "https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-06-13T23:02:31Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "469c43a0-1a56-4832-8d1f-1b45b505f643",
+    "title": "Why rent cloud storage? Own 2TB for life for just $70.",
+    "link": "https://www.cultofmac.com/deals/filejump-2tb-cloud-storage",
+    "description": "This user-friendly platform makes it simple for anyone to manage their digital assets. Save on a 2TB lifetime FileJump cloud storage plan. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "author": "Cult of Mac Deals",
+    "published": "Fri, 13 Jun 2025 21:00:02 +0000",
+    "image": "https://cdn.cultofmac.com/wp-content/uploads/2024/09/cloud.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Deals",
+      "cloud storage",
+      "Cult of Mac Deals"
+    ]
+  },
+  {
+    "id": "1dd75843-72ab-4b7c-b69a-fa428d9f1000",
+    "title": "AirTag helps couple swipe back their stolen Jaguar",
+    "link": "https://www.cultofmac.com/news/airtag-finds-a-stolen-car",
+    "description": "When an AirTag finds a stolen car, you call the police. But sometimes they're busy. This couple decided to get their Jaguar back themselves. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "author": "David Snow",
+    "published": "Fri, 13 Jun 2025 15:56:36 +0000",
+    "image": "https://cdn.cultofmac.com/wp-content/uploads/2025/06/stolen-Jaquar-E-Pace.jpeg.webp",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "News",
+      "AirTag",
+      "crime"
+    ]
+  }
+]
