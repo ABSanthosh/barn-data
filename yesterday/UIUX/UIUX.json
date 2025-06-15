@@ -1,0 +1,206 @@
+[
+  {
+    "id": "05cdf498-7b66-4952-9b74-28ef2ee31bb5",
+    "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
+    "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
+    "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
+    "author": "Blake Lundquist",
+    "published": "Wed, 11 Jun 2025 13:00:00 GMT",
+    "image": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "95210f72-7613-4e60-985a-0a3af6a369d8",
+    "title": "Decoding The SVG path Element: Line Commands",
+    "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
+    "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
+    "author": "Myriam Frisano",
+    "published": "Mon, 09 Jun 2025 08:00:00 GMT",
+    "image": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "f5c6d7c6-5831-4da5-8698-6b68e21d1efa",
+    "title": "[Podcast] Problem Framing: Rewire How You Think, Create, and Lead with Rory Sutherland",
+    "link": "https://justcreative.com/problem-framing",
+    "description": "Rory takes us deep into the world of problem framing, a powerful technique that flips business challenges to reveal brand solutions hiding in plain sight.",
+    "author": "Jacob Cass",
+    "published": "Wed, 11 Jun 2025 07:46:58 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2019/12/best-brand-strategy-course-online.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Podcast",
+      "Branding",
+      "Brands",
+      "problem framing",
+      "Rory Sutherland",
+      "TED speaker"
+    ]
+  },
+  {
+    "id": "e9a4cd83-d681-4d51-85e0-46cb54f975af",
+    "title": "The Best CorelDRAW Graphics Suite Discounts: Get 10 to 50% Off (2025)",
+    "link": "https://justcreative.com/coreldraw-discounts/",
+    "description": "Save money (10-50%) on CorelDRAW software with these top discounts, sales \u0026 deals. See the best CorelDRAW discounts \u0026 special offers on Graphics Suite \u0026 more.",
+    "author": "Jacob Cass",
+    "published": "Mon, 02 Jun 2025 16:18:38 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2023/10/coreldraw-logo.webp",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Deals \u0026 Freebies",
+      "Adobe",
+      "Corel",
+      "Creative Cloud",
+      "Deals",
+      "Discount",
+      "Illustrator",
+      "Photoshop"
+    ]
+  },
+  {
+    "id": "6fb3c162-684e-45c1-900d-7a13df519259",
+    "title": "AI Summaries of Reviews",
+    "link": "https://www.nngroup.com/articles/ai-reviews/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "AI-generated review summaries extract qualitative key themes from customer feedback, helping shoppers quickly assess what purchasers think about the product.",
+    "author": "Katie Sherwin, Taylor Dykes",
+    "published": "Fri, 13 Jun 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "0e854d25-53ab-4a01-b755-e0c66cf55db0",
+    "title": "The Hamburger-Menu Icon Today: Is it Recognizable?",
+    "link": "https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "Hamburger menus are a more familiar pattern today than 10 years ago, but the same old best practices for hidden navigation still apply.",
+    "author": "Kate Kaplan",
+    "published": "Fri, 13 Jun 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "0cdebcd8-c318-48ba-9b98-6117ccce55ca",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "88f539bf-e27b-42dd-84de-a7d0e1c3cf6b",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  },
+  {
+    "id": "ee188201-811a-43d1-ba1c-110c37e4d65c",
+    "title": "Designing internal vs. external tools",
+    "link": "https://uxdesign.cc/designing-internal-vs-external-tools-785c414a5a62?source=rss----138adf9c44c---4",
+    "description": "How designing for employees vs. customers transforms your daily UX work.Continue reading on UX Collective »",
+    "author": "Raquel Piqueras",
+    "published": "Fri, 13 Jun 2025 11:12:00 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1920/0*1PAjupaNI-tOJYoZ.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "technology",
+      "design",
+      "user-experience",
+      "design-thinking",
+      "work"
+    ]
+  },
+  {
+    "id": "795bc358-9ebe-4b91-9853-6cead8033f4e",
+    "title": "AI-first?",
+    "link": "https://uxdesign.cc/ai-first-37966fceea48?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "jeffm8",
+    "published": "Fri, 13 Jun 2025 00:42:28 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*yZFQnoJhGvnQkxLoryREsQ.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ai",
+      "design",
+      "business",
+      "product-management",
+      "ux"
+    ]
+  },
+  {
+    "id": "5ac44de2-da1e-4821-ab0b-574c312b535a",
+    "title": "How to Group Your Sidebar Items for Better Findability",
+    "link": "https://uxmovement.com/navigation/how-to-group-your-sidebar-items-for-better-findability/",
+    "description": "When a sidebar contains many items, grouping is necessary to help users find them faster. However, most designers don’t group their sidebar items and force users to scan an entire list. This results in slow navigation times and poor findability. Grouping improves findability by enabling users to spot a group and scan the items in […] The post How to Group Your Sidebar Items for Better Findability first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:27:48 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "a1761797-b749-4515-b8d7-9bfbbf55ac59",
+    "title": "How to Make Any Sidebar Menu Easier to Scan",
+    "link": "https://uxmovement.com/navigation/how-to-make-any-sidebar-menu-easier-to-scan/",
+    "description": "How easy to scan is your sidebar menu? If you haven’t optimized the spacing, users will likely spend more time navigating and finding items. Balancing the spacing in the sidebar can help users navigate faster and easier. A typical mistake designers make is adding too much or not enough space. Both can make scanning for […] The post How to Make Any Sidebar Menu Easier to Scan first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:24:10 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "61fc30b0-cc20-438a-b740-4c4e4cc2325d",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "c31dbbed-244c-41e7-8287-e2677e21863e",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  }
+]
