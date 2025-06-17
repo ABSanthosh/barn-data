@@ -1,0 +1,27 @@
+{
+  "id": "d182c065-ee7c-471f-84e1-7e9bb96331b4",
+  "title": "Liquid Glass’ aesthetic entropy: your interface, your problem",
+  "link": "https://uxdesign.cc/liquid-glass-aesthetic-entropy-your-interface-your-problem-c0f514f7f87f?source=rss----138adf9c44c---4",
+  "description": "Apple’s Opinionated Design principles are a thing of the past. Enter the world of reckless customization.Continue reading on UX Collective »",
+  "author": "Federico Cella",
+  "published": "Sun, 15 Jun 2025 15:37:45 GMT",
+  "source": "https://uxdesign.cc/feed",
+  "categories": [
+    "accessibility",
+    "ui",
+    "ux",
+    "product-design",
+    "ios"
+  ],
+  "byline": "Federico Cella",
+  "length": 1208,
+  "excerpt": "Last week, I made a post on Threads voicing my own disapproval of iOS26’s readability issues, after trying the developer beta myself. I thought it would be just a private rant, but my post ignited a…",
+  "siteName": "UX Collective",
+  "favicon": "https://miro.medium.com/v2/resize:fill:256:256/1*dn6MbbIIlwobt0jnUcrt_Q.png",
+  "text": "Apple has made it easier than ever to make your devices feel like you, but also easier than ever to make them illegible — to yourself and everyone else.“Atmosphère chromoplastique no. 235” (1970) by Luis Tomasello. Photo by Rob OoLast week, I made a post on Threads voicing my own disapproval of iOS26’s readability issues, after trying the developer beta myself. I thought it would be just a private rant, but my post ignited a firestorm.“Just change the color” has been the main response. “If you struggle reading, just go into accessibility settings”. While accessibility options are great to have, this misses the point entirely, and underlines a slow but steady shift in the philosophy of Apple’s design principles. It triggered my product designer brain, and I felt like an argument was due.I’m not going to comment on the aesthetics of iOS26 and I’m just going to focus on what seems to be intended for the final release, not bugs of the developer beta.Good defaults \u003e Settings-divingIn my work as product designer at Appspace, we’ve wrestled with this countless times. Should we really give that feature to users, or are they going to abuse it? For example, in our editor for internal communications…",
+  "image": "https://miro.medium.com/v2/resize:fit:1024/1*OMfwM19UmM4UREcR8e8L7g.jpeg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cdiv\u003e\u003ch2 id=\"b230\"\u003e\u003cem\u003eApple has made it easier than ever to make your devices feel \u003c/em\u003elike you\u003cem\u003e, but also easier than ever to make them \u003c/em\u003eillegible\u003cem\u003e — to yourself and everyone else.\u003c/em\u003e\u003c/h2\u003e\u003cdiv tabindex=\"-1\" aria-hidden=\"false\"\u003e\u003ca href=\"https://cellfed.medium.com/?source=post_page---byline--c0f514f7f87f---------------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"Federico Cella\" src=\"https://miro.medium.com/v2/resize:fill:64:64/1*g1MsyOk4wEdzSCPfBFV5Ow.jpeg\" width=\"32\" height=\"32\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e\u003cfigure\u003e\u003cfigcaption\u003e“Atmosphère chromoplastique no. 235” (1970) by Luis Tomasello. Photo by \u003ca href=\"https://www.flickr.com/people/105105658@N03/\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003eRob Oo\u003c/a\u003e\u003c/figcaption\u003e\u003c/figure\u003e\u003cp id=\"f0f7\"\u003eLast week, I made a post on Threads voicing my own disapproval of iOS26’s readability issues, after trying the developer beta myself. I thought it would be just a private rant, but my post ignited a firestorm.\u003c/p\u003e\u003cp id=\"31a2\"\u003e“Just change the color” has been the \u003ca href=\"https://www.threads.com/@federicocella/post/DK2FNDAIaNf?xmt=AQF0bs-yCuG7N9gI5HsoPKMrN8mqrJ-l6XxjF-IuAqDtSg\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003emain response\u003c/a\u003e. “If you struggle reading, just go into accessibility settings”. While accessibility options are great to have, this misses the point entirely, and underlines a slow but steady shift in the philosophy of Apple’s design principles. It triggered my product designer brain, and I felt like an argument was due.\u003c/p\u003e\u003cp id=\"24f0\"\u003eI’m not going to comment on the aesthetics of iOS26 and I’m just going to focus on what seems to be intended for the final release, not bugs of the developer beta.\u003c/p\u003e\u003ch2 id=\"7b87\"\u003eGood defaults \u0026gt; Settings-diving\u003c/h2\u003e\u003cp id=\"b95c\"\u003eIn my work as product designer at \u003ca href=\"http://appspace.com\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003eAppspace\u003c/a\u003e, we’ve wrestled with this countless times. Should we really give that feature to users, or are they going to abuse it? For example, in our editor for internal communications…\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-06-15T15:37:45.64Z",
+  "modifiedTime": null
+}

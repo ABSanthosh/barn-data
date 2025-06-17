@@ -1,0 +1,24 @@
+{
+  "id": "ed70a5a6-4d2b-4968-a9fa-bfabcc5898e6",
+  "title": "Get an audio overview of Search results in Labs, then click through to learn more.",
+  "link": "https://blog.google/products/search/audio-overviews-search-labs/",
+  "description": "Today, we’re launching a new Search experiment in Labs – Audio Overviews, which uses our latest Gemini models to generate quick, conversational audio overviews for certa…",
+  "author": "",
+  "published": "Fri, 13 Jun 2025 15:30:00 +0000",
+  "source": "https://www.blog.google/rss/",
+  "categories": [
+    "Search",
+    "AI"
+  ],
+  "byline": "",
+  "length": 877,
+  "excerpt": "Today, we’re launching a new Search experiment in Labs – Audio Overviews, which uses our latest Gemini models to generate quick, conversational audio overviews for certain search queries. Searching for a topic you’re not familiar with? An audio overview can help you get a lay of the land, offering a convenient, hands-free way to absorb information whether you're multitasking or simply prefer an audio experience.Want to explore a topic further? We display helpful web pages right within the audio player on the search results page so you can easily dive in and learn more.To try it out, opt into the experiment in Labs. When our systems determine it might be useful, you’ll see the option on the search results page to tap to generate a short audio overview on the topic of your query. You can give a thumbs up/down on each discussion, and the experiment as a whole in Labs.",
+  "siteName": "Google",
+  "favicon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20250611-1635",
+  "text": "Today, we’re launching a new Search experiment in Labs – Audio Overviews, which uses our latest Gemini models to generate quick, conversational audio overviews for certain search queries. Searching for a topic you’re not familiar with? An audio overview can help you get a lay of the land, offering a convenient, hands-free way to absorb information whether you're multitasking or simply prefer an audio experience.Want to explore a topic further? We display helpful web pages right within the audio player on the search results page so you can easily dive in and learn more.To try it out, opt into the experiment in Labs. When our systems determine it might be useful, you’ll see the option on the search results page to tap to generate a short audio overview on the topic of your query. You can give a thumbs up/down on each discussion, and the experiment as a whole in Labs.",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AudioOverview_SS.max-1440x810.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv slot=\"uni-short-post-description-slot\"\u003e\u003cp data-block-key=\"qqr79\"\u003eToday, we’re launching a new Search experiment in Labs – Audio Overviews, which uses our latest Gemini models to generate quick, conversational audio overviews for certain search queries. Searching for a topic you’re not familiar with? An audio overview can help you get a lay of the land, offering a convenient, hands-free way to absorb information whether you\u0026#39;re multitasking or simply prefer an audio experience.\u003c/p\u003e\u003cp data-block-key=\"75t3e\"\u003eWant to explore a topic further? We display helpful web pages right within the audio player on the search results page so you can easily dive in and learn more.\u003c/p\u003e\u003cp data-block-key=\"f46rv\"\u003eTo try it out, \u003ca href=\"https://labs.google.com/search/experiment/30\"\u003eopt into the experiment\u003c/a\u003e in Labs. When our systems determine it might be useful, you’ll see the option on the search results page to tap to generate a short audio overview on the topic of your query. You can give a thumbs up/down on each discussion, and the experiment as a whole in Labs.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-06-13T15:30:00Z",
+  "modifiedTime": null
+}

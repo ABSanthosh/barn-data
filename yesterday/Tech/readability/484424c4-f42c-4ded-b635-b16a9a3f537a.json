@@ -1,0 +1,23 @@
+{
+  "id": "484424c4-f42c-4ded-b635-b16a9a3f537a",
+  "title": "Meta's Llama 3.1 Can Recall 42% of the First Harry Potter Book",
+  "link": "https://slashdot.org/story/25/06/15/2230206/metas-llama-31-can-recall-42-of-the-first-harry-potter-book?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+  "description": "Timothy B. Lee has written for the Washington Post, Vox.com, and Ars Technica — and now writes a Substack blog called \"Understanding AI.\" This week he visits recent research by computer scientists and legal scholars from Stanford, Cornell, and West Virginia University that found that Llama 3.1 70BÂ(released in July 2024) has memorized 42% of the first Harry Potter book well enough to reproduce 50-token excerpts at least half the time... The paper was published last month by a team of computer scientists and legal scholars from Stanford, Cornell, and West Virginia University. They studied whether five popular open-weight models — three from Meta and one each from Microsoft and EleutherAI — were able to reproduce text from Books3, a collection of books that is widely used to train LLMs. Many of the books are still under copyright... Llama 3.1 70B — a mid-sized model Meta released in July 2024 — is far more likely to reproduce Harry Potter text than any of the other four models.... Interestingly, Llama 1 65B, a similar-sized model released in February 2023, had memorized only 4.4 percent of Harry Potter and the Sorcerer's Stone. This suggests that despite the potential legal liability, Meta did not do much to prevent memorization as it trained Llama 3. At least for this book, the problem got much worse between Llama 1 and Llama 3. Harry Potter and the Sorcerer's Stone was one of dozens of books tested by the researchers. They found that Llama 3.1 70B was far more likely to reproduce popular books — such as The Hobbit and George Orwell's 1984 — than obscure ones. And for most books, Llama 3.1 70B memorized more than any of the other models... For AI industry critics, the big takeaway is that — at least for some models and some books — memorization is not a fringe phenomenon. On the other hand, the study only found significant memorization of a few popular books. For example, the researchers found that Llama 3.1 70B only memorized 0.13 percent of Sandman Slim, a 2009 novel by author Richard Kadrey. That's a tiny fraction of the 42 percent figure for Harry Potter... To certify a class of plaintiffs, a court must find that the plaintiffs are in largely similar legal and factual situations. Divergent results like these could cast doubt on whether it makes sense to lump J.K. Rowling, Richard Kadrey, and thousands of other authors together in a single mass lawsuit. And that could work in Meta's favor, since most authors lack the resources to file individual lawsuits. Why is it happening? \"Maybe Meta had trouble finding 15 trillion distinct tokens, so it trained on the Books3 dataset multiple times. Or maybe Meta added third-party sources — such as online Harry Potter fan forums, consumer book reviews, or student book reports — that included quotes from Harry Potter and other popular books...\" \"Or there could be another explanation entirely. Maybe Meta made subtle changes in its training recipe that accidentally worsened the memorization problem.\" Read more of this story at Slashdot.",
+  "author": "EditorDavid",
+  "published": "2025-06-15T22:32:00+00:00",
+  "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "categories": [
+    "ai"
+  ],
+  "byline": "",
+  "length": 1,
+  "excerpt": "×",
+  "siteName": "",
+  "favicon": "https://a.fsdn.com/sd/m/assets/apple-touch-icon-precomposed2X-e553cba2892b057428cabcdff1a372fc.png",
+  "text": "×",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\n\n\n\n\n\u003cdiv id=\"ccpa-modal\"\u003e\n        \u003cp\u003e\u003cspan id=\"modal-close\"\u003e×\u003c/span\u003e\u003c/p\u003e\n    \u003c/div\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
