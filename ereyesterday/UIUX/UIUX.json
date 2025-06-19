@@ -1,0 +1,201 @@
+[
+  {
+    "id": "df33f528-3509-4e78-8854-546eb03457dd",
+    "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
+    "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
+    "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
+    "author": "Eric Bailey",
+    "published": "Mon, 16 Jun 2025 13:00:00 GMT",
+    "image": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "5b6084fd-5b12-44fd-bcc6-bd0dd06773e7",
+    "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
+    "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
+    "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
+    "author": "Blake Lundquist",
+    "published": "Wed, 11 Jun 2025 13:00:00 GMT",
+    "image": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "8cff07bc-03ae-4153-b43c-68c6b09dd608",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "1ea6f83d-1043-4242-916a-201dbb08b1ae",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "df8d052d-4946-418b-b1a2-4c69d1d4cef7",
+    "title": "Logo Design Trends 2025: The Biggest Shifts in Brand Identity",
+    "link": "https://justcreative.com/2025-logo-trends-report/",
+    "description": "Discover the top 2025 logo design trends shaping brand identity — from AI-powered motion and nostalgic mascots to organic textures and typographic rebellion.",
+    "author": "Jacob Cass",
+    "published": "Sun, 15 Jun 2025 16:00:44 +0000",
+    "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f525.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Logo Design",
+      "Logo Trends",
+      "LogoLounge"
+    ]
+  },
+  {
+    "id": "418444c5-4590-462d-93b2-91c4259c4d7c",
+    "title": "[Podcast] Problem Framing: Rewire How You Think, Create, and Lead with Rory Sutherland",
+    "link": "https://justcreative.com/problem-framing",
+    "description": "Rory takes us deep into the world of problem framing, a powerful technique that flips business challenges to reveal brand solutions hiding in plain sight.",
+    "author": "Jacob Cass",
+    "published": "Wed, 11 Jun 2025 07:46:58 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2019/12/best-brand-strategy-course-online.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Podcast",
+      "Branding",
+      "Brands",
+      "problem framing",
+      "Rory Sutherland",
+      "TED speaker"
+    ]
+  },
+  {
+    "id": "92c7529c-e765-49ed-bebf-6615fdae1f9c",
+    "title": "Liquid Glass is beautiful, but is the chemistry missing?",
+    "link": "https://uxdesign.cc/liquid-glass-is-beautiful-but-is-the-chemistry-missing-00b4f79ff529?source=rss----138adf9c44c---4",
+    "description": "Apple’s new design language blends science with design. But how is it bonding with the iOS we know?Continue reading on UX Collective »",
+    "author": "Ian Batterbee",
+    "published": "Mon, 16 Jun 2025 11:46:24 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1920/1*ZCtXs-zR21O3J-IZn4Tx8A.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ux",
+      "accessibility",
+      "apple",
+      "technology",
+      "design"
+    ]
+  },
+  {
+    "id": "7c729eaa-1504-4fd8-8ac4-5f5db84c452f",
+    "title": "The future of content design in an AI world",
+    "link": "https://uxdesign.cc/the-future-of-content-design-in-an-ai-world-bb58ba26455c?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Andrew Tipp",
+    "published": "Mon, 16 Jun 2025 11:44:24 GMT",
+    "image": "https://cdn-images-1.medium.com/max/799/0*7nysBjkDNxq4dV5D.jpg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "ux",
+      "content-design",
+      "design",
+      "future",
+      "ai"
+    ]
+  },
+  {
+    "id": "69bb30fe-ef56-447e-b812-58a33729eb2b",
+    "title": "AI Summaries of Reviews",
+    "link": "https://www.nngroup.com/articles/ai-reviews/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "AI-generated review summaries extract qualitative key themes from customer feedback, helping shoppers quickly assess what purchasers think about the product.",
+    "author": "Katie Sherwin, Taylor Dykes",
+    "published": "Fri, 13 Jun 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "0cf38045-5256-4391-bca8-8c8f950ebf5d",
+    "title": "The Hamburger-Menu Icon Today: Is it Recognizable?",
+    "link": "https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "Hamburger menus are a more familiar pattern today than 10 years ago, but the same old best practices for hidden navigation still apply.",
+    "author": "Kate Kaplan",
+    "published": "Fri, 13 Jun 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "89dffbed-e3bc-4f91-9165-f9136ddaaaab",
+    "title": "How to Group Your Sidebar Items for Better Findability",
+    "link": "https://uxmovement.com/navigation/how-to-group-your-sidebar-items-for-better-findability/",
+    "description": "When a sidebar contains many items, grouping is necessary to help users find them faster. However, most designers don’t group their sidebar items and force users to scan an entire list. This results in slow navigation times and poor findability. Grouping improves findability by enabling users to spot a group and scan the items in […] The post How to Group Your Sidebar Items for Better Findability first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:27:48 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "4ddf58cb-b5a3-4e40-9480-0a4794822ccc",
+    "title": "How to Make Any Sidebar Menu Easier to Scan",
+    "link": "https://uxmovement.com/navigation/how-to-make-any-sidebar-menu-easier-to-scan/",
+    "description": "How easy to scan is your sidebar menu? If you haven’t optimized the spacing, users will likely spend more time navigating and finding items. Balancing the spacing in the sidebar can help users navigate faster and easier. A typical mistake designers make is adding too much or not enough space. Both can make scanning for […] The post How to Make Any Sidebar Menu Easier to Scan first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:24:10 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "6e990520-03af-4f05-a6d7-00f8c2918ab8",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "0af3d5cf-0d99-4c45-9652-ccaf94974589",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]

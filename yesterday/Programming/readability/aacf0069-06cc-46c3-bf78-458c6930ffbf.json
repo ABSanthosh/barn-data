@@ -1,0 +1,29 @@
+{
+  "id": "aacf0069-06cc-46c3-bf78-458c6930ffbf",
+  "title": "After 30 years, Java is still brewing up new features",
+  "link": "https://stackoverflow.blog/2025/06/17/after-30-years-java-is-still-brewing-up-new-features/",
+  "description": "It’s Java’s 30th anniversary! Ryan welcomes back Georges Saab,  Senior VP of Development for the Java Platform Group and Chair of the OpenJDK Governing Board, to reflect on Java’s changes over the last five years.",
+  "author": "Phoebe Sajor",
+  "published": "Tue, 17 Jun 2025 07:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "java",
+    "dev-tools",
+    "developer-tools",
+    "ai-coding",
+    "developer-experience",
+    "podcast",
+    "se-stackoverflow"
+  ],
+  "byline": "Phoebe Sajor",
+  "length": 772,
+  "excerpt": "It’s Java’s 30th anniversary! Ryan welcomes back Georges Saab, Senior VP of Development for the Java Platform Group and Chair of the OpenJDK Governing Board, to reflect on Java’s changes over the last five years.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "June 17, 2025It’s Java’s 30th anniversary! Ryan welcomes back Georges Saab,  Senior VP of Development for the Java Platform Group and Chair of the OpenJDK Governing Board, to reflect on Java’s changes over the last five years.Ryan and Georges also explore Java's shift from feature-based to time-based releases, and the advancements to Java’s rich ecosystem for AI workloads and beyond. Plus, where Georges envisions Java being five years from now.Episode notes:Connect with Georges on LinkedIn and see his work on inside.java.Listen to our previous episode with Georges, a celebration of Java’s 25th anniversary.Today we’re shouting out the age-old question What is a NullPointerException, and how do I fix it? which was answered 31 times as a community effort.TRANSCRIPT",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/d2cb4c948681d5ccbb8ff46ed2d69c6f6b6a8990-800x420.jpg?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle itemscope=\"\" itemtype=\"https://schema.org/Article\"\u003e\u003cheader\u003e\u003ctime datetime=\"2025-06-17T07:40:00.000Z\" itemprop=\"datePublished\"\u003e June 17, 2025\u003c/time\u003e\u003cp itemprop=\"abstract\"\u003eIt’s Java’s 30th anniversary! Ryan welcomes back Georges Saab,  Senior VP of Development for the Java Platform Group and Chair of the OpenJDK Governing Board, to reflect on Java’s changes over the last five years.\u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://cdn.stackoverflow.co/images/jo7n4k8s/production/d2cb4c948681d5ccbb8ff46ed2d69c6f6b6a8990-800x420.jpg?w=1200\u0026amp;h=630\u0026amp;auto=format\u0026amp;dpr=2\" width=\"1200\" height=\"630\" alt=\"Article hero image\" itemprop=\"image\"/\u003e\u003c/figure\u003e\u003c/header\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cp\u003eRyan and Georges also explore Java\u0026#39;s shift from feature-based to time-based releases, and the advancements to Java’s rich ecosystem for AI workloads and beyond. Plus, where Georges envisions Java being five years from now.\u003c/p\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003e\u003cstrong\u003eEpisode notes:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eConnect with Georges on \u003ca href=\"https://www.linkedin.com/in/georgessaab/\"\u003eLinkedIn\u003c/a\u003e and see his work on \u003ca href=\"https://inside.java/u/GeorgesSaab/\"\u003einside.java\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eListen to \u003ca href=\"https://stackoverflow.blog/2020/07/30/java-at-25-features-that-made-an-impact-and-a-look-to-the-future/\"\u003eour previous episode\u003c/a\u003e with Georges, a celebration of Java’s 25th anniversary.\u003c/p\u003e\u003cp\u003eToday we’re shouting out the age-old question \u003ca href=\"https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it\"\u003eWhat is a NullPointerException, and how do I fix it?\u003c/a\u003e which was answered 31 times as a community effort.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://the-stack-overflow-podcast.simplecast.com/episodes/after-30-years-java-is-still-brewing-up-new-features/transcript\"\u003eTRANSCRIPT\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
