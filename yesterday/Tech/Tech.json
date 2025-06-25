@@ -1,0 +1,633 @@
+[
+  {
+    "id": "d43df957-787a-4b6f-870c-099150635818",
+    "title": "The next Samsung Unpacked event takes place on July 9",
+    "link": "https://www.engadget.com/mobile/smartphones/the-next-samsung-unpacked-event-takes-place-on-july-9-230044736.html?src=rss",
+    "description": "It's almost time for another one of Samsung's Unpacked events. The third Unpacked to be held this year (following installments in January and May) will take place on July 9 at 10AM ET. It will emanate from Brooklyn, New York and stream on the Samsung Newsroom, the company's website and its YouTube channel. Samsung is promising a look at the \"next evolution of Galaxy AI and the ever-expanding Galaxy ecosystem.\" The company usually debuts its latest foldables in the summer, so we are expecting to see the Galaxy Z Fold 7 and Flip 7 here. As if there was any doubt that this Unpacked will focus on foldables, an image Samsung sent out along with event invitations (embedded below) makes that clear. It's looking like the rumored Galaxy Z Fold Ultra is in store too, as a teaser video includes the phrase \"Ultra Unfolds.\" Way to be subtle, Samsung. Samsung A new Galaxy Watch also seems likely to make an appearance, while rumors have been flying around that this Unpacked may feature a Galaxy S25 FE, which is slated to arrive later this year. We may even get a glimpse of a Samsung tri-fold phone. Meanwhile, the Android XR headset that Samsung has been working on with Google is slated to arrive this year — this Unpacked seems like a good opportunity for the company to spill the beans on that. If you're already pretty sure that you're going to switch to a new Samsung device, you don't necessarily have to wait until July 9 to make a reservation for one of the upcoming models. In fact, if you make a reservation starting tonight on Samsung's website, you can receive a $50 credit.This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/the-next-samsung-unpacked-event-takes-place-on-july-9-230044736.html?src=rss",
+    "author": "Kris Holt",
+    "published": "Mon, 23 Jun 2025 23:00:44 +0000",
+    "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2F2bb69f40-505b-11f0-bff3-98a56c86dc8b\u0026resize=1400%2C933\u0026client=19f2b5e49a271b2bde77\u0026signature=6475fa5b97e56ccb2f1f47a4b78fac9c8c699e7d",
+    "source": "https://www.engadget.com/rss.xml",
+    "categories": [
+      "Technology \u0026 Electronics",
+      "Handheld \u0026 Connected Devices",
+      "site|engadget",
+      "provider_name|Engadget",
+      "region|US",
+      "language|en-US",
+      "author_name|Kris Holt"
+    ]
+  },
+  {
+    "id": "2413bf03-8d04-4eb5-8963-c57b47cd3f0f",
+    "title": "Apple read your mean tweets about Liquid Glass and Finder",
+    "link": "https://www.engadget.com/big-tech/apple-read-your-mean-tweets-about-liquid-glass-and-finder-222230726.html?src=rss",
+    "description": "The more things change, the more they stay the same. After unveiling some new visual elements to the next generation of its operating systems during WWDC 2025, Apple has already walked back some of the proposed design revisions. 9to5Mac noticed that the most recent developer betas included changes to the new Liquid Glass operating system appearance and to the Finder app icon. Liquid Glass was divisive from the start. The idea of layering transparency in the user interface appealed to some, while others felt it was needlessly fussy and hard to read, especially when using the Control Center. In the second developer beta of iOS 26, Apple has increased the darkness and blur on the background when the Control Center is active. The other controversial change centered on the imagery for the Finder app in macOS Tahoe. The previous developer beta flipped the colors in the icon, putting blue on the right and white on the left. It's a reversal of decades of Mac design, which has long had a lighter shade on the right and a darker color on the left, even as other details of the face illustration have changed. And people were not pleased about it. The usual color layout has returned in the current developer beta.This article originally appeared on Engadget at https://www.engadget.com/big-tech/apple-read-your-mean-tweets-about-liquid-glass-and-finder-222230726.html?src=rss",
+    "author": "Anna Washenko",
+    "published": "Mon, 23 Jun 2025 22:22:30 +0000",
+    "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2F26e5c860-507e-11f0-aed7-ccead737fbfb\u0026resize=1400%2C743\u0026client=19f2b5e49a271b2bde77\u0026signature=3605da496c5980c2fe5ca690a1aafd2be4a3e52f",
+    "source": "https://www.engadget.com/rss.xml",
+    "categories": [
+      "Software",
+      "site|engadget",
+      "provider_name|Engadget",
+      "region|US",
+      "language|en-US",
+      "author_name|Anna Washenko"
+    ]
+  },
+  {
+    "id": "7c544737-e173-40c5-a73e-ae7e8ab0e291",
+    "title": "644: You Have to Invert",
+    "link": "https://atp.fm/644",
+    "description": "Pre-show: G4 Doorbell Pro Bespoke 3D-printed mount Fancy-schmancy Marco-recommended Flashlight What betas are we running? Virtual Buddy 𝑥OS 26 \u0026 Version Numbers iOS Apps built against old SDKs get 19.0; new ones get 26.0 (via Gui Rambo) ProcessInfo /System/Library/CoreServices/SystemVersionCompat.plist Tahoe returns 16 when reqiured for compatibility and 26 otherwise (via Howard Oakley) SYSTEM_VERSION_COMPAT=1 = 16 null or SYSTEM_VERSION_COMPAT=0 = 26 Liquid Glass Adopting Liquid Glass Don’t Liquid Glass All the Things Not present in macOS? (via Steve Troughton-Smith) Liquid Glass clone in Flutter (via Dave Wood) Fluid Glass in React (via Francisco Tolmasky) macOS Tahoe Whimsy returns! (via Minimal Nerd) Squircle Jail Squircle ∆ (via Yannic Lung) Say Hello to the New Look of App Icons Squircle Jailbreak! (via Simon B Støvring) Speaking of rounded corners… Build an AppKit App with the New Design Chonky stoplights macOS 26 window control buttons are no longer smol (via Avi Drissman) -[NSTitledFrame sizeOfTitlebarButtons] Missing title bars Missing menu bar fixes GlassBar Boring Old Menu Bar Alignment Tahoe dialog Tahoe dialog, center-icon mockup Left-aligned title bar text images Finder icon controversy Stephen tried Icon Composer with solid results Michael Flarup D. Griffin Jones Icons next to menu items Previously in the HIG (via Stefan Habel) Today in the HIG Tabs contrast Terminal tabs Safari contrast Ridiculous pink in the toolbar in Safari Arrow cursor has been updated Discovery by Nathan Manceaux-Panot Hand cursor as well Floating elements \u0026 compartmentalization Screenshot We all float down here Mario Alberto Guzmán’s observations Steve Troughton-Smith’s observations Clipboard history Stephen Robles Overview video Future of Rosetta Ars Technica New disk image format: ASIF Howard Oakley write-up iOS 26 UI impressions New slider thumbs reveal new info (via Niki Tonsky) Video iPadOS 26 Open window limits (via Steve Troughton-Smith) Previously, in Mac OS X 10.0… Slideover is 💀 UI impressions Testing Liquid Glass UIDesignRequiresCompatibility Vision Pro 4K? (via Steve Troughton-Smith) Post-show: WWDC Favorites Apple’s transcription APIs John Voorhees’s write-up Yap Generable SwitchGlass Members-only ATP Overtime: Apple snubbed Gruber, so who got the nod? Interview roundup on MacRumors Joanna Stern 7-minute excerpt Full 24-minute interview Mark from Tom’s Guide \u0026 Lance from TechRadar Sponsored by: Hello Fresh: America’s #1 Meal Kit Squarespace: Save 10% off your first purchase of a website or domain using code atp. Become a member for ATP Overtime, ad-free episodes, member specials, and our early-release, unedited “bootleg” feed!",
+    "author": "ATP",
+    "published": "Thu, 19 Jun 2025 19:55:52 +0000",
+    "image": "https://atp.fm/audio/y2e1mvbyehixwdzj/atp644.mp3",
+    "source": "https://atp.fm/rss",
+    "categories": null
+  },
+  {
+    "id": "1a626d33-33df-4895-8cd2-1f6bb1920fd0",
+    "title": "643: You Go to Squircle Jail",
+    "link": "https://atp.fm/643",
+    "description": "Pre-show: Initial Switch 2 Reactions Mario Kart World WWDC F1 Sam Henri Gold Marcel Flighty Parcel Control Plane Acorn Post-show: RIP, John’s Mac Pro Members-only ATP Overtime: Apple’s latest paper on the limitations of LLMs Previously discussed on ATP #609 GaryMarcus’ blog post which quotes a summary from Josh Wolfe Gary’s 1998 paper Gary’s 2001 book Sponsored by: Clic for Sonos: Elevate Your Sonos Experience with Clic Sponsored by Betterhelp: Give online therapy a try and get on your way to being your best self. DeleteMe: Making it quick, easy and safe to remove your personal data online. Become a member for ATP Overtime, ad-free episodes, member specials, and our early-release, unedited “bootleg” feed!",
+    "author": "ATP",
+    "published": "Tue, 10 Jun 2025 03:28:33 +0000",
+    "image": "https://atp.fm/audio/ohzpbkhhrm5zdwdu/atp643.mp3",
+    "source": "https://atp.fm/rss",
+    "categories": null
+  },
+  {
+    "id": "4042af37-335c-437e-ac32-afbcf9089f4c",
+    "title": "Researchers get viable mice by editing DNA from two sperm",
+    "link": "https://arstechnica.com/science/2025/06/researchers-get-viable-mice-by-editing-dna-from-two-sperm/",
+    "description": "Altering chemical modifications of DNA lets the DNA from two sperm make a mouse.",
+    "author": "John Timmer",
+    "published": "Mon, 23 Jun 2025 21:34:11 +0000",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-523734886-1152x648.jpg",
+    "source": "http://feeds.arstechnica.com/arstechnica/index",
+    "categories": [
+      "Science",
+      "Biology",
+      "epigenetics",
+      "imprinting",
+      "reproduction"
+    ]
+  },
+  {
+    "id": "facc4d05-6c8f-46ef-9953-5eed20837abb",
+    "title": "With 1.2.2 update, Civilization VII tries to win back traditionalists",
+    "link": "https://arstechnica.com/gaming/2025/06/civilization-vii-patch-lets-you-turn-off-some-controversial-new-features/",
+    "description": "Players can now disable Legacy Paths, Crisis, and quite a bit more.",
+    "author": "Samuel Axon",
+    "published": "Mon, 23 Jun 2025 20:26:11 +0000",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/CIv7-screenshot-1152x648-1750708873.jpg",
+    "source": "http://feeds.arstechnica.com/arstechnica/index",
+    "categories": [
+      "Gaming",
+      "2K Games",
+      "4X",
+      "civilization",
+      "Civilization VII",
+      "Firaxis Games",
+      "grand strategy",
+      "strategy"
+    ]
+  },
+  {
+    "id": "9547b679-aa15-4078-998d-7ac673118bdc",
+    "title": "238: A Specific Flavor of Juice",
+    "link": "http://relay.fm/analogue/238",
+    "description": "Preparing for WWDC, a baby update, and a remembrance.",
+    "author": "Casey Liss and Myke Hurley",
+    "published": "Sat, 07 Jun 2025 11:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/traffic.libsyn.com/secure/analogue/analogue238.mp3",
+    "source": "https://www.relay.fm/analogue/feed",
+    "categories": null
+  },
+  {
+    "id": "9d7825f1-f042-40d4-8366-fd5994f766c2",
+    "title": "237: Core Personality: Papa",
+    "link": "http://relay.fm/analogue/237",
+    "description": "Myke is back and has a lot to catch up on. Casey showed restraint!",
+    "author": "Casey Liss and Myke Hurley",
+    "published": "Sun, 11 May 2025 11:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/traffic.libsyn.com/secure/analogue/analogue237.mp3",
+    "source": "https://www.relay.fm/analogue/feed",
+    "categories": null
+  },
+  {
+    "id": "7df566ce-709e-4f15-a929-a70154a8a806",
+    "title": "Samsung's New Galaxy Foldables Will Be Announced at July 9 Unpacked Event",
+    "link": "https://www.cnet.com/tech/mobile/samsungs-new-galaxy-foldables-will-be-announced-at-july-9-unpacked-event/#ftag=CAD590a51e",
+    "description": "Samsung's been teasing Ultra-grade and slim foldable phones for the upcoming Galaxy Z series. The company may also unveil its next smartwatch.",
+    "author": "Abrar Al-Heeti",
+    "published": "Mon, 23 Jun 2025 23:00:02 +0000",
+    "image": "https://www.cnet.com/a/img/resize/5b65886921d439e7438c73af6673fa468f00ef6e/hub/2025/06/23/f8ef0bae-04ce-4591-be04-93041b7e1774/25-2h-invitation-kv-pc-1440x640-250613.jpg?auto=webp\u0026fit=crop\u0026height=614\u0026width=1092",
+    "source": "https://www.cnet.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "3b25eb8f-f80a-48f2-bc7e-7d5ea01f02ba",
+    "title": "Which Death Stranding 2 Edition Should You Buy?",
+    "link": "https://www.cnet.com/tech/gaming/which-death-stranding-2-edition-should-you-buy/#ftag=CAD590a51e",
+    "description": "The next installment of Hideo Kojima's game for the PlayStation 5 is almost here, and you can get your hands on it before it's released.",
+    "author": "Oscar Gonzalez",
+    "published": "Mon, 23 Jun 2025 22:52:00 +0000",
+    "image": "https://www.cnet.com/a/img/resize/f50fd0c088193b2771a8c8b6a50df95d1685cf42/hub/2025/06/20/fbec549a-9ad5-4751-9a8c-b9b3aacba02d/img-0332.jpg?auto=webp\u0026fit=crop\u0026height=614\u0026width=1092",
+    "source": "https://www.cnet.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "f7eed10a-acbc-4e0f-826a-24512d2b4fb2",
+    "title": "610: Probably Not From Japan",
+    "link": "http://relay.fm/clockwise/610",
+    "description": "Our interest in drones and how we’d use them, household standards for wearing Bluetooth headphones, whether we install OS betas and on which devices, and the rare app or service where we don’t mind seeing ads.",
+    "author": "Dan Moren and Mikah Sargent",
+    "published": "Wed, 18 Jun 2025 18:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise610.mp3",
+    "source": "https://www.relay.fm/clockwise/feed",
+    "categories": null
+  },
+  {
+    "id": "1ed7e0d8-616a-488a-a4e8-33fb3015e741",
+    "title": "609: Are You Coming By to Eat Chili Today?",
+    "link": "http://relay.fm/clockwise/609",
+    "description": "Live from Apple Park (mostly). Apple's new Spotlight for Mac, how iPadOS 26 will change our iPad usage, Apple's latest improvements to messaging, and the Liquid Glass redesign.",
+    "author": "Dan Moren and Mikah Sargent",
+    "published": "Wed, 11 Jun 2025 00:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/clockwiserelay/clockwise609.mp3",
+    "source": "https://www.relay.fm/clockwise/feed",
+    "categories": null
+  },
+  {
+    "id": "421fda8d-e862-4e5d-929b-1d62cf59e6e2",
+    "title": "5 iOS Features You Need to Know",
+    "link": "https://www.youtube.com/watch?v=k3SkJZ0Cszo",
+    "description": "",
+    "author": "CNET",
+    "published": "2025-06-23T12:01:32+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+    "categories": null
+  },
+  {
+    "id": "c7cc5e1f-5f34-4b3c-918a-fe8bfd599ece",
+    "title": "Meet France's Mini Motorcycle-Car Hybrid",
+    "link": "https://www.youtube.com/watch?v=8zuhkN_75bU",
+    "description": "",
+    "author": "CNET",
+    "published": "2025-06-22T12:00:22+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+    "categories": null
+  },
+  {
+    "id": "f43ce43d-3e07-4fe7-b0de-4db0a7241ad8",
+    "title": "Why Ancient Egypt Smashed Hatshepsut’s Statues After Her Death",
+    "link": "https://gizmodo.com/why-ancient-egypt-smashed-hatshepsuts-statues-after-her-death-2000617957",
+    "description": "Scholars have long believed that Hatshepsut’s spiteful predecessor wanted to destroy every image of her, but the truth may be more nuanced.",
+    "author": "Margherita Bassi",
+    "published": "Mon, 23 Jun 2025 23:01:46 +0000",
+    "image": "https://gizmodo.com/app/uploads/2025/06/hatshepsut-fragments.jpg",
+    "source": "https://gizmodo.com/rss",
+    "categories": [
+      "Human History"
+    ]
+  },
+  {
+    "id": "53d7623b-76f5-4d35-a50d-9a12ab34afb2",
+    "title": "Samsung Teases ‘Ultra’ Foldable for Unpacked Event Next Month",
+    "link": "https://gizmodo.com/samsung-teases-ultra-foldable-for-unpacked-event-next-month-2000619171",
+    "description": "Mark your calendar—new Samsung foldables are coming!",
+    "author": "Raymond Wong",
+    "published": "Mon, 23 Jun 2025 23:00:13 +0000",
+    "image": "https://gizmodo.com/app/uploads/2025/06/Samsung-Galaxy-Z-Fold-6-News-Photo.jpg",
+    "source": "https://gizmodo.com/rss",
+    "categories": [
+      "Gadgets",
+      "Android",
+      "foldables",
+      "Samsung",
+      "Smartphones"
+    ]
+  },
+  {
+    "id": "590100c6-7ecd-4d8f-bfd9-985806144c45",
+    "title": "U.S. Chemical Safety Board Could be Eliminated",
+    "link": "https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated",
+    "description": "Comments",
+    "author": "",
+    "published": "Mon, 23 Jun 2025 23:53:20 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
+    "id": "8db7097d-376f-482b-bd35-68b1d28d20e0",
+    "title": "Vera C. Rubin Observatory first images",
+    "link": "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest",
+    "description": "Comments",
+    "author": "",
+    "published": "Mon, 23 Jun 2025 15:41:00 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
+    "id": "187e22ce-145d-4be1-a5ec-9708ae1460eb",
+    "title": "This Classic iPhone Ringtone Has a New Sound in iOS 26",
+    "link": "https://lifehacker.com/tech/your-iphone-is-getting-a-new-ringtone?utm_medium=RSS",
+    "description": "Want to hear it early?",
+    "author": "Jake Peterson",
+    "published": "Mon, 23 Jun 2025 21:30:00 +0000",
+    "image": "",
+    "source": "https://lifehacker.com/rss",
+    "categories": [
+      "Tech"
+    ]
+  },
+  {
+    "id": "1ed999e9-c220-4831-ad97-d861e4d8b452",
+    "title": "These Two Solar-Powered Outdoor Cameras Are on Sale for $200 Right Now",
+    "link": "https://lifehacker.com/tech/eufy-solar-powered-outdoor-2-camera-bundle-deal?utm_medium=RSS",
+    "description": "These self-charging cameras offer solar-powered surveillance without monthly fees.",
+    "author": "Naima Karp",
+    "published": "Mon, 23 Jun 2025 20:43:40 +0000",
+    "image": "https://lifehacker.com/imagery/articles/01JYF73JGGD8ABRFCMNBNCC9FW/images-1.fill.size_autoxauto.v1750709946.jpg",
+    "source": "https://lifehacker.com/rss",
+    "categories": [
+      "Tech"
+    ]
+  },
+  {
+    "id": "07e9b13c-117c-4de4-96e8-7a352f697737",
+    "title": "I put a $3000 GPU in my Average PC... It Was a Mistake",
+    "link": "https://www.youtube.com/watch?v=mzjxfMQ_fis",
+    "description": "",
+    "author": "Linus Tech Tips",
+    "published": "2025-06-23T20:12:11+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+    "categories": null
+  },
+  {
+    "id": "e9003728-7e83-44f6-b74a-ee5e0a5dc1fd",
+    "title": "NVIDIA Never Authorized The Production Of This Card",
+    "link": "https://www.youtube.com/watch?v=HZgQp-WDebU",
+    "description": "",
+    "author": "Linus Tech Tips",
+    "published": "2025-06-22T16:51:25+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+    "categories": null
+  },
+  {
+    "id": "426447b7-8e47-4824-a21f-17499436cd23",
+    "title": "The Android Tablet Problem",
+    "link": "https://www.youtube.com/watch?v=alDhOLhbkbY",
+    "description": "",
+    "author": "Marques Brownlee",
+    "published": "2025-06-20T15:44:16+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+    "categories": null
+  },
+  {
+    "id": "414214fd-b30f-44e7-8dcb-13f559079ffd",
+    "title": "$750 Flashlight vs Phone Flashlight!",
+    "link": "https://www.youtube.com/shorts/I3f_ucrnCUg",
+    "description": "",
+    "author": "Marques Brownlee",
+    "published": "2025-06-16T23:33:11+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+    "categories": null
+  },
+  {
+    "id": "d1793781-5be8-4849-83e7-d10b6253b59e",
+    "title": "470: Terminated",
+    "link": "http://relay.fm/rocket/470",
+    "description": "On the final episode of Rocket, awards are dispensed and reflections are had. Thanks for an amazing 9 years!",
+    "author": "Christina Warren, Brianna Wu, and Simone De Rochefort",
+    "published": "Thu, 28 Dec 2023 21:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/rocketrelay/rocket470.mp3",
+    "source": "https://www.relay.fm/rocket/feed",
+    "categories": null
+  },
+  {
+    "id": "ea97fe04-cff6-4f64-b492-58632d331525",
+    "title": "469: Very Large Online Problems",
+    "link": "http://relay.fm/rocket/469",
+    "description": "A major hack at Insomniac Games begs the question: why does this keep happening to Sony companies? Then, Apple may finally face patent consequences, as it halts sales of its newest Watches in the U.S.",
+    "author": "Christina Warren, Brianna Wu, and Simone De Rochefort",
+    "published": "Thu, 21 Dec 2023 16:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/rocketrelay/rocket469.mp3",
+    "source": "https://www.relay.fm/rocket/feed",
+    "categories": null
+  },
+  {
+    "id": "35f1e26c-b132-48d3-867a-db96797528f0",
+    "title": "Microsoft Sets New 60-Day Limit For System Restore Points In Windows 11 Update",
+    "link": "https://tech.slashdot.org/story/25/06/23/2140208/microsoft-sets-new-60-day-limit-for-system-restore-points-in-windows-11-update?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from ExtremeTech: Microsoft has changed how Windows 11 manages System Restore points after its June 2025 security update. The update, KB5060842, says that starting with Windows 11 version 24H2, System Restore points will be kept for up to 60 days. After 60 days, restore points older than 60 days will no longer be available for use. [...] The change does not change the way restore points are created or used; it only sets a clear time limit for how long they are stored. Windows will still delete older restore points if the allocated disk space fills up. But now there is a firm upper limit of 60 days, regardless of available space. The report notes that restore points in Windows 11 have varied. \"Some restore points were removed after only 10 days, while others sometimes lasted the full 90 days, as reported by XDA Developers.\" The new 60-day limit should give users more certainty about how long their restore points will remain on their system. Read more of this story at Slashdot.",
+    "author": "BeauHD",
+    "published": "2025-06-24T00:45:00+00:00",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+    "categories": [
+      "os"
+    ]
+  },
+  {
+    "id": "213342df-433e-47ea-9b76-7c453a190aeb",
+    "title": "Hinge CEO Says Dating AI Chatbots Is 'Playing With Fire'",
+    "link": "https://slashdot.org/story/25/06/23/2324250/hinge-ceo-says-dating-ai-chatbots-is-playing-with-fire?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "In a podcast interview with The Verge's Nilay Patel, Hinge CEO Justin McLeod described integrating AI into dating apps as promising but warned against relying on AI companionship, likening it to \"playing with fire\" and consuming \"junk food,\" potentially exacerbating the loneliness epidemic. He emphasized Hinge's mission to foster genuine human connections and highlighted upcoming AI-powered features designed to improve matchmaking and provide coaching to encourage real-world interactions. Here's an excerpt from the interview: Again, there's a fine line between prompting someone and coaching them inside Hinge, and we're coaching them in a different way within a more self-contained ecosystem. How do you think about that? Would you launch a full-on virtual girlfriend inside Hinge? Certainly not. I have lots of thoughts about this. I think there's actually quite a clear line between providing a tool that helps people do something or get better at something, and the line where it becomes this thing that is trying to become your friend, trying to mimic emotions, and trying to create an emotional connection with you. That I think is really playing with fire. I think we are already in a crisis of loneliness, and a loneliness epidemic. It's a complex issue, and it's baked into our culture, and it goes back to before the internet. But just since 2000, over the past 20 years, the amount of time that people spend together in real life with their friends has dropped by 70 percent for young people. And it's been almost completely displaced by the time spent staring at screens. As a result, we've seen massive increases in mental health issues, and people's loneliness, anxiety, and depression. I think Mark Zuckerberg was just quoted about this, that most people don't have enough friends. But he said we're going to give them AI chatbots. That he believes that AI chatbots can become your friends. I think that's honestly an extraordinarily reductive view of what a friendship is, that it's someone there to say all the right things to you at the right moment The most rewarding parts of being in a friendship are being able to be there for someone else, to risk and be vulnerable, to share experiences with other conscious entities. So I think that while it will feel good in the moment, like junk food basically, to have an experience with someone who says all the right things and is available at the right time, it will ultimately, just like junk food, make people feel less healthy and mo re drained over time. It will displace the human relationships that people should be cultivating out in the real world. How do you compete with that? That is the other thing that is happening. It is happening. Whether it's good or bad. Hinge is offering a harder path. So you say, \"We've got to get people out on dates.\" I honestly wonder about that, based on the younger folks I know who sometimes say, âoeI just don't want to leave the house. I would rather just talk to this computer. I have too much social pressure just leaving the house in this way.â That's what Hinge is promising to do. How do you compete with that? Do you take it head on? Are you marketing that directly? I'm starting to think very much about taking it head on. We want to continue at Hinge to champion human relationships, real human-to-human-in-real-life relationships, because I think they are an essential part of the human experience, and they're essential to our mental health. It's not just because I run a dating app and, obviously, it's important that people continue to meet. It really is a deep, personal mission of mine, and I think it's absolutely critical that someone is out there championing this. Because it's always easier to race to the bottom of the brain stem and offer people junk products that maybe sell in the moment but leave them worse off. That's the entire model that we've seen from what happened with social media. I think AI chatbots could frankly be much more dangerous in that respect. So what we can do is to become more and more effective and support people more and more, and make it as easy as possible to do the harder and riskier thing, which is to go out and form real relationships with real people. They can let you down and might not always be there for you, but it is ultimately a much more nourishing and enriching experience for people. We can also champion and raise awareness as much as we can. That's another reason why I'm here today talking with you, because I think it's important to put out the counter perspective, that we don't just reflexively believe that AI chatbots can be your friend, without thinking too deeply about what that really implies and what that really means. We keep going back to junk food, but people had to start waking up to the fact that this was harmful. We had to do a lot of campaigns to educate people that drinking Coca-Cola and eating fast food was detrimental to their health over the long term. And then as people became more aware of that, a whole personal wellness industry started to grow, and now that's a huge industry, and people spend a lot of time focusing on their diet and nutrition and mental health, and all these other things. I think similarly, social wellness needs to become a category like that. It's thinking about not just how do I get this junk social experience of social media where I get fed outraged news and celebrity gossip and all that stuff, but how do I start building a sense of social wellness, where I can create an enriching, intimate connection with important people in my life. You can listen to the podcast here. Read more of this story at Slashdot.",
+    "author": "BeauHD",
+    "published": "2025-06-24T00:20:00+00:00",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+    "categories": [
+      "ai"
+    ]
+  },
+  {
+    "id": "e68f3e20-febd-4fe6-91f8-ec18329eab36",
+    "title": "A Reddit cofounder posted an AI video of his late mom, and its dividing the internet",
+    "link": "https://mashable.com/article/reddit-cofounder-ai-video-deceased-mom-divides-internet",
+    "description": "Reddit founder Alexis Ohanian used AI to animate a picture of his late mother, but while some people are touched, others are disturbed.",
+    "author": "",
+    "published": "Mon, 23 Jun 2025 23:44:23 +0000",
+    "image": "https://helios-i.mashable.com/imagery/articles/036bkmrNSIpxvt4K2Etf4wH/hero-image.jpg",
+    "source": "http://feeds.mashable.com/Mashable",
+    "categories": null
+  },
+  {
+    "id": "5062000b-7e58-44f2-a795-ddba6ec4196d",
+    "title": "A Microcar Made for Lane Splitting Like a Motorcycle",
+    "link": "https://mashable.com/video/aemotion-mini-motorcycle-car-hybrid",
+    "description": "French company Aemotion has announced its new microcar, which combines the riding experience of a motorcycle and a car into one tiny four-wheeled vehicle.",
+    "author": "",
+    "published": "Mon, 23 Jun 2025 23:33:35 +0000",
+    "image": "https://helios-i.mashable.com/imagery/videos/04LqlDXcQUqxxZhxCvAWCeF/hero-image.jpg",
+    "source": "http://feeds.mashable.com/Mashable",
+    "categories": null
+  },
+  {
+    "id": "6b0ad319-1ce2-4198-9390-ff9c4cd14c75",
+    "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
+    "link": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
+    "description": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content creation and making creators' lives easier.Why You Need These AI Tools in 2025Content creation has become more demanding than ever. Whether you're a social media influencer, marketer, or business owner, keeping up with the constant need for fresh, engaging content can be overwhelming. That's where AI tools come in – they're not just fancy tech, they're your secret weapon for creating better content faster.Let's Dive Into the Top 10 AI Tools for 20251. ChatGPT: Content Ideation and ScriptwritingWhat Makes It Special: ChatGPT has evolved into a comprehensive content creation assistant by combining advanced language understanding with specialized content optimization features. Its ability to generate, edit, and optimize content while maintaining brand voice and industry expertise makes it an essential tool for creators who need to produce high-quality written content at scale.Key Features:Advanced content generationSEO optimizationBrand voice maintenanceResearch capabilitiesMulti-format adaptationPricing:Free tier availablePlus: $20/monthPro: $200/monthPerfect For: Content writers, marketers, and businesses needing consistent, high-quality written content.2. Canva Magic Studio: Visual Design and Social Media Content CreationWhat Makes It Special: Canva Magic Studio has transformed the graphic design landscape by combining its user-friendly interface with powerful AI capabilities. The platform's ability to understand design principles and automatically generate on-brand content while maintaining professional aesthetics makes it accessible for beginners while providing enough sophistication for professional designers.Key Features:AI design generationBrand kit integrationMagic resizeAnimation toolsTemplate libraryPricing:Free tier availablePro: $6.50/user/monthTeams: $5/user/monthPerfect For: Small businesses, social media managers, and anyone needing quick, professional-looking designs.3. RunwayML : AI Video GeneratorWhat Makes It Special: RunwayML stands out as the ultimate video creation powerhouse by combining professional-grade effects with user-friendly AI technology. Its game-changing ability to manipulate video content – from changing weather effects with a text prompt to removing objects seamlessly in real-time – makes it indispensable for creators who want to produce high-quality video content without getting bogged down by technical complexities.Key Features:Advanced video generation \u0026 editingReal-time visual effectsSmart motion trackingGreen screen effects without actual green screenAI-powered editing suitePricing:Free tier availableStandard: $12/monthPro: $28/monthUnlimited: $76/monthEnterprise: Custom PricePerfect For: Video creators, YouTubers, and social media managers who want to create professional-quality videos quickly. 4. MidJourney: AI Art GenerationWhat Makes It Special: Midjourney V6 has redefined AI image generation by mastering the nuances of professional photography and artistic style. Its ability to understand and execute complex creative directions – from specific lighting conditions to branded visual styles – while maintaining consistent quality across multiple generations makes it the go-to tool for creators who need stunning visuals that align perfectly with their brand identity.Key Features:Photorealistic image generationAdvanced style controlQuick generation timeCommercial usage rightsStrong community supportPricing:Basic: $10/monthStandard: $30/monthPro: $60/monthMega: $120/monthPerfect For: Social media managers, digital marketers, and anyone needing professional-quality visuals consistently.5. Synthesia: AI Avatar-Based Video CreationWhat Makes It Special: Synthesia has transformed video creation by making it possible to create professional-looking AI avatar videos in minutes. Its ability to generate natural-looking presentations in multiple languages with synchronized lip movements and gestures makes it invaluable for creators who need to produce video content at scale without the traditional filming process.Key Features:AI avatar Video creationMulti-language supportCustom avatar optionsProfessional templatesScript to video conversionPricing:Free tier availableStarter: $18/monthCreator: $64/monthEnterprise: Custom pricingPerfect For: Businesses and educators creating training videos, presentations, and multilingual content.6. Descript: Podcast and Video Editing with Transcription FeaturesWhat Makes It Special: Descript has transformed audio and video editing by making it as simple as editing a text document. Its innovative approach to media editing, combined with powerful AI features like automatic transcription and filler word removal, makes professional-quality editing accessible to creators of all skill levels.Key Features:Text-based video editingAutomatic transcriptionFiller word removalScreen recordingCollaborative editingPricing:Hobbyist: $12/monthCreator: $24/monthBusiness: $40/monthEnterprise: Custom pricingPerfect For: Podcasters, video creators, and teams needing efficient audio/video editing solutions.7. ElevenLabs: AI VOICE GENERATIONWhat Makes It Special: ElevenLabs has revolutionized voice synthesis by achieving unprecedented levels of natural speech quality and emotional expression. Its ability to clone voices accurately and generate multiple languages with proper accents and inflections makes it the ultimate tool for creators who need professional-quality voiceovers without the traditional recording process or voice actor limitations.Key Features:Ultra-realistic voice synthesisVoice cloning capabilityMulti-language supportEmotion controlReal-time generationPricing:Free tier availableStarter: $5/monthCreator: $11/monthPro: $99/monthScale: $330/monthBusiness: $1321/monthEnterprise: Custom pricingPerfect For: Podcasters, video creators, and content creators needing professional voiceovers in multiple languages.8. Tribescaler: Viral Content and Headline OptimizationWhat Makes It Special: Tribescaler brings a scientific approach to viral content creation by combining trend analysis with content optimization. Its powerful AI engine analyzes successful content patterns across platforms and provides actionable insights to help creators craft content that's more likely to go viral, while maintaining authenticity and audience engagement.Key Features:Viral content predictionTrend analysisContent optimizationPerformance trackingMulti-platform schedulingPricing:Free tier availablePro: $49/monthPerfect For: Content creators and social media managers focused on maximizing reach and engagement.9. Clickable: Automated Ad Creation and OptimizationWhat Makes It Special: Clickable revolutionizes ad creation by seamlessly blending data-driven insights with creative automation. Its ability to analyze brand assets and automatically generate platform-optimized ad variations while maintaining brand voice transforms the tedious process of ad creation into a streamlined, results-driven workflow that consistently delivers high-performing content.Key Features:Automated ad creationMulti-platform optimizationBuilt-in A/B testingPerformance analyticsTemplate libraryPerfect For: Digital marketers and businesses looking to scale their ad production efficiently.10. Copy AI What Makes It Special: CopyAI has established itself as a powerhouse in AI-powered copywriting by offering specialized content generation for various marketing formats. Its sophisticated understanding of marketing psychology and brand voice, combined with its ability to generate compelling copy across multiple formats and industries, makes it invaluable for marketers and content creators who need to produce engaging, conversion-focused content at scale.Key Features:Advanced marketing copy generationMultiple content type templatesBrand voice customizationMultilingual supportA/B testing variationsPricing:Free tier availablePro: $49/monthAdvanced: $249/monthEnterprise: Custom pricingPerfect For: Marketing teams, copywriters, and businesses needing high-converting marketing copy across multiple channels.ConclusionThe AI tools listed here are revolutionizing the content creation landscape in 2025, making it easier than ever to produce high-quality, engaging, and impactful content. By integrating these tools into your workflow, you can save time, unleash your creativity, and achieve better results.AI doesn't replace creativity; it amplifies it. As a content creator, your unique voice and vision are irreplaceable. These tools serve as enablers, helping you focus on what you do best—creating. Explore, experiment, and innovate. The future of content creation is here, and it's brimming with possibilities.Embrace these technologies, stay ahead of the curve, and watch your creative potential soar. The only limit is your imagination!Note: All features and pricing information are subject to change. Please verify current details with the respective platforms, Also this article contain affiliate links which means we make a small comission if yo buy any premium plan from our linksPricing updated on 01/02/ 2025",
+    "author": "Unknown",
+    "published": "Thu, 02 Jan 2025 09:26:00 +0000",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge5QgwLKWbavTUhIedQLI79z5BGD4h0ZoH4YMK6bGBL6fY4Je8R3GZurMZaJmtYirFS6pS-GgZD3xFAqfln8w8faEY2iDehndQNeez57DoiDsgYFJrIwMOLBjzcZiOJrqYDktm6pmRkwtprJChag0yQoeEZx1Pa_eKnt3kKzz69f-FSPWu_JXQxFq5Z8WZ/s16000/Blue%20Purple%20Futuristic%20Modern%203D%20Tech%20Company%20Business%20Presentation.jpg",
+    "source": "http://feeds.feedburner.com/TechCrunch",
+    "categories": null
+  },
+  {
+    "id": "7fb9041e-2fe6-4648-a19e-d095649f0583",
+    "title": "LimeWire AI Studio Review 2023: Details, Pricing \u0026 Features",
+    "link": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
+    "description": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude of existing AI tools but also brings a fresh approach to content generation. LimeWire not only empowers users to create AI content but also provides creators with creative ways to share and monetize their creations.As we explore LimeWire, our aim is to uncover its features, benefits for creators, and the exciting possibilities it offers for AI content generation. This platform presents an opportunity for users to harness the power of AI in image creation, all while enjoying the advantages of a free and accessible service.Let's unravel the distinctive features that set LimeWire apart in the dynamic landscape of AI-powered tools, understanding how creators can leverage its capabilities to craft unique and engaging AI-generated images.IntroductionLimeWire, a name once associated with the notorious file-sharing tool from the 2000s, has undergone a significant transformation. The LimeWire we discuss today is not the file-sharing application of the past but has re-emerged as an entirely new entity—a cutting-edge AI content publishing platform.This revamped LimeWire invites users to register and unleash their creativity by crafting original AI content, which can then be shared and showcased on the LimeWire Studio. Notably, even acclaimed artists and musicians, such as Deadmau5, Soulja Boy, and Sean Kingston, have embraced this platform to publish their content in the form of NFT music, videos, and images.Beyond providing a space for content creation and sharing, LimeWire introduces monetization models to empower users to earn revenue from their creations. This includes avenues such as earning ad revenue and participating in the burgeoning market of Non-Fungible Tokens (NFTs). As we delve further, we'll explore these monetization strategies in more detail to provide a comprehensive understanding of LimeWire's innovative approach to content creation and distribution.LimeWire Studio welcomes content creators into its fold, providing a space to craft personalized AI-focused content for sharing with fans and followers. Within this creative hub, every piece of content generated becomes not just a creation but a unique asset—ownable and tradable. Fans have the opportunity to subscribe to creators' pages, immersing themselves in the creative journey and gaining ownership of digital collectibles that hold tradeable value within the LimeWire community. Notably, creators earn a 2.5% royalty each time their content is traded, adding a rewarding element to the creative process.The platform's flexibility is evident in its content publication options. Creators can choose to share their work freely with the public or opt for a premium subscription model, granting exclusive access to specialized content for subscribers.LimeWire AI StudioAs of the present moment, LimeWire focuses on AI Image Generation, offering a spectrum of creative possibilities to its user base. The platform, however, has ambitious plans on the horizon, aiming to broaden its offerings by introducing AI music and video generation tools in the near future. This strategic expansion promises creators even more avenues for expression and engagement with their audience, positioning LimeWire Studio as a dynamic and evolving platform within the realm of AI-powered content creation.AI Image Generation ToolsThe LimeWire AI image generation tool presents a versatile platform for both the creation and editing of images. Supporting advanced models such as Stable Diffusion 2.1, Stable Diffusion XL, and DALL-E 2, LimeWire offers a sophisticated toolkit for users to delve into the realm of generative AI art.Much like other tools in the generative AI landscape, LimeWire provides a range of options catering to various levels of complexity in image creation. Users can initiate the creative process with prompts as simple as a few words or opt for more intricate instructions, tailoring the output to their artistic vision. What sets LimeWire apart is its seamless integration of different AI models and design styles. Users have the flexibility to effortlessly switch between various AI models, exploring diverse design styles such as cinematic, digital art, pixel art, anime, analog film, and more. Each style imparts a distinctive visual identity to the generated AI art, enabling users to explore a broad spectrum of creative possibilities.The platform also offers additional features, including samplers, allowing users to fine-tune the quality and detail levels of their creations. Customization options and prompt guidance further enhance the user experience, providing a user-friendly interface for both novice and experienced creators. if (typeof atAsyncOptions !== 'object') var atAsyncOptions = []; atAsyncOptions.push({ 'key': '504b591a28719b1270e09aa4045e24ab', 'format': 'js', 'async': true, 'container': 'atContainer-504b591a28719b1270e09aa4045e24ab', 'params' : {} }); var script = document.createElement('script'); script.type = \"text/javascript\"; script.async = true; script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/504b591a28719b1270e09aa4045e24ab/invoke.js'; document.getElementsByTagName('head')[0].appendChild(script); Excitingly, LimeWire is actively developing its proprietary AI model, signaling ongoing innovation and enhancements to its image generation capabilities. This upcoming addition holds the promise of further expanding the creative horizons for LimeWire users, making it an evolving and dynamic platform within the landscape of AI-driven art and image creation.Sign Up Now To Get Free CreditsAutomatically Mint Your Content As NFTsUpon completing your creative endeavor on LimeWire, the platform allows you the option to publish your content. An intriguing feature follows this step: LimeWire automates the process of minting your creation as a Non-Fungible Token (NFT), utilizing either the Polygon or Algorand blockchain. This transformative step imbues your artwork with a unique digital signature, securing its authenticity and ownership in the decentralized realm.Creators on LimeWire hold the power to decide the accessibility of their NFT creations. By opting for a public release, the content becomes discoverable by anyone, fostering a space for engagement and interaction. Furthermore, this choice opens the avenue for enthusiasts to trade the NFTs, adding a layer of community involvement to the artistic journey.Alternatively, LimeWire acknowledges the importance of exclusivity. Creators can choose to share their posts exclusively with their premium subscribers. In doing so, the content remains a special offering solely for dedicated fans, creating an intimate and personalized experience within the LimeWire community. This flexibility in sharing options emphasizes LimeWire's commitment to empowering creators with choices in how they connect with their audience and distribute their digital creations.After creating your content, you can choose to publish the content. It will automatically mint your creation as an NFT on the Polygon or Algorand blockchain. You can also choose whether to make it public or subscriber-only.If you make it public, anyone can discover your content and even trade the NFTs. If you choose to share the post only with your premium subscribers, it will be exclusive only to your fans.Earn Revenue From Your ContentAdditionally, you can earn ad revenue from your content creations as well.When you publish content on LimeWire, you will receive 70% of all ad revenue from other users who view your images, music, and videos on the platform.This revenue model will be much more beneficial to designers. You can experiment with the AI image and content generation tools and share your creations while earning a small income on the side.LMWR TokensThe revenue you earn from your creations will come in the form of LMWR tokens, LimeWire’s own cryptocurrency.Your earnings will be paid every month in LMWR, which you can then trade on many popular crypto exchange platforms like Kraken, ByBit, and UniSwap.You can also use your LMWR tokens to pay for prompts when using LimeWire generative AI tools.Pricing PlansYou can sign up to LimeWire to use its AI tools for free. You will receive 10 credits to use and generate up to 20 AI images per day. You will also receive 50% of the ad revenue share. However, you will get more benefits with premium plans.Basic plan: For $9.99 per month, you will get 1,000 credits per month, up to 2 ,000 image generations, early access to new AI models, and 50% ad revenue shareAdvanced plan: For $29 per month, you will get 3750 credits per month, up to 7500 image generations, early access to new AI models, and 60% ad revenue sharePro plan: For $49 per month, you will get 5,000 credits per month, up to 10,000 image generations, early access to new AI models, and 70% ad revenue share if (typeof atAsyncOptions !== 'object') var atAsyncOptions = []; atAsyncOptions.push({ 'key': '2060cf2f0491455d459b6b7a0ee275f3', 'format': 'js', 'async': true, 'container': 'atContainer-2060cf2f0491455d459b6b7a0ee275f3', 'params' : {} }); var script = document.createElement('script'); script.type = \"text/javascript\"; script.async = true; script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/2060cf2f0491455d459b6b7a0ee275f3/invoke.js'; document.getElementsByTagName('head')[0].appendChild(script); Pro Plus plan: For $99 per month, you will get 11,250 credits per month, up to 2 2,500 image generations, early access to new AI models, and 70% ad revenue shareWith all premium plans, you will receive a Pro profile badge, full creation history, faster image generation, and no ads.Sign Up Now To Get Free CreditsConclusionIn conclusion, LimeWire emerges as a democratizing force in the creative landscape, providing an inclusive platform where anyone can unleash their artistic potential and effortlessly share their work. With the integration of AI, LimeWire eliminates traditional barriers, empowering designers, musicians, and artists to publish their creations and earn revenue with just a few clicks.The ongoing commitment of LimeWire to innovation is evident in its plans to enhance generative AI tools with new features and models. The upcoming expansion to include music and video generation tools holds the promise of unlocking even more possibilities for creators. It sparks anticipation about the diverse and innovative ways in which artists will leverage these tools to produce and publish their own unique creations.For those eager to explore, LimeWire's AI tools are readily accessible for free, providing an opportunity to experiment and delve into the world of generative art. As LimeWire continues to evolve, creators are encouraged to stay tuned for the launch of its forthcoming AI music and video generation tools, promising a future brimming with creative potential and endless artistic exploration",
+    "author": "Unknown",
+    "published": "Tue, 12 Dec 2023 16:10:00 +0000",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjpMlV4umM2-ZY3vAwynTzCWwbk5_pjVyGQqGGftHzeOmpTyc4aYApxfanU29DyPfjUZz5ZhhDojKe8mpYUG6tcEezDQrg1NTDr8XOBequWD3LOpUKpea4AiaB5mhPpYZSxtk2lRfHnCSNhyphenhyphenXm53l80cTMNA_KtCMfDd9PQNzYWp6A4ylQJtUy_-7GpWsF/w640-h354/limewire-studio.jpg",
+    "source": "http://feeds.feedburner.com/TechCrunch",
+    "categories": [
+      "Ai"
+    ]
+  },
+  {
+    "id": "a91e4f5c-bc13-49fb-8d05-7c3f92be374b",
+    "title": "Meta has hinted at bringing ads to WhatsApp for years, and now they’re finally here. #vergecast",
+    "link": "https://www.youtube.com/shorts/5nos_zvatn0",
+    "description": "",
+    "author": "The Verge",
+    "published": "2025-06-22T14:00:16+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+    "categories": null
+  },
+  {
+    "id": "85a4514c-3e7f-412a-afa5-cb2be6ce5652",
+    "title": "WTF is Trump Mobile? #Vergecast",
+    "link": "https://www.youtube.com/shorts/9B-8m0WqyP8",
+    "description": "",
+    "author": "The Verge",
+    "published": "2025-06-21T14:00:12+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+    "categories": null
+  },
+  {
+    "id": "086cfad2-3efb-4554-b41a-f4339816e3c0",
+    "title": "Yale’s new Google Home smart lock is here — but it costs more thanks to tariffs",
+    "link": "https://www.theverge.com/news/691695/google-nest-yale-smart-lock-with-matter-price-release-date-specs",
+    "description": "The Yale Smart Lock with Matter is launching tomorrow, June 24th, for $189.99 — $20 more than when it was first announced in March. Yale tells The Verge the price increase is due to the impact of tariffs. The lock will be available on Amazon and Yale’s website. According to Yale, the new smart lock was […]",
+    "author": "Jennifer Pattison Tuohy",
+    "published": "2025-06-23T20:02:17-04:00",
+    "image": "",
+    "source": "https://www.theverge.com/rss/index.xml",
+    "categories": [
+      "News",
+      "Smart Home",
+      "Tech"
+    ]
+  },
+  {
+    "id": "f2b411b9-cc4f-413f-9a5f-bd0c7219cf36",
+    "title": "Samsung confirms Unpacked for early July",
+    "link": "https://www.theverge.com/news/691662/samsung-unpacked-july-ultra-foldable",
+    "description": "Samsung’s summer Unpacked is officially on, starting at 10AM ET on Wednesday, July 9th. The invitation features a jazzy little bop and the words “Ultra Unfolds,” so I think it’s safe to assume we’re getting that foldable Ultra phone the company previously hinted at. The event is set to take place in Brooklyn, but you […]",
+    "author": "Allison Johnson",
+    "published": "2025-06-23T19:00:00-04:00",
+    "image": "",
+    "source": "https://www.theverge.com/rss/index.xml",
+    "categories": [
+      "Foldable Phones",
+      "Mobile",
+      "News",
+      "Samsung",
+      "Tech"
+    ]
+  },
+  {
+    "id": "6916c15a-fa77-42de-8e40-b1d5a7df94b0",
+    "title": "Ask a techspert: What is inference?",
+    "link": "https://blog.google/technology/ai/ask-a-techspert-what-is-inference/",
+    "description": "Learn more about AI and inference from Google experts.",
+    "author": "Molly McHugh-JohnsonContributorThe Keyword",
+    "published": "Mon, 23 Jun 2025 17:30:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InferenceHero_v3.max-600x600.format-webp.webp",
+    "source": "https://www.blog.google/rss/",
+    "categories": [
+      "Gemini Models",
+      "Google Cloud",
+      "AI"
+    ]
+  },
+  {
+    "id": "0fa17b88-194d-4952-af98-6a8a5d93189e",
+    "title": "Squid Game: Unleashed is coming to Chromebook.",
+    "link": "https://blog.google/products/chromebooks/squid-game-unleashed-chromebook/",
+    "description": "We're bringing the award-winning Squid Game: Unleashed game to your Chromebook and large screen Android devices like tablets and foldables.Developed by Boss Fight, Netfl…",
+    "author": "",
+    "published": "Mon, 23 Jun 2025 13:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_1_tpD4Fdc.max-600x600.format-webp.webp",
+    "source": "https://www.blog.google/rss/",
+    "categories": [
+      "Chromebooks"
+    ]
+  },
+  {
+    "id": "f885b2f3-cf31-4261-9bc6-4111b929a581",
+    "title": "TWiT 1037: Teach Amanda Fish - AI Backlash",
+    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1037",
+    "description": "Pope Leo makes AI's threat to humanity a signature issue Why We Don't Talk About Job Destruction Israel-Tied Predatory Sparrow Hackers Are Waging Cyberwar on Iran's Financial System Iran restricts internet access to ward off Israeli cyberattacks The AI Slop Fight Between Iran and Israel It's Official: Streaming Is Now the King of TV AI search finds publishers starved of referral traffic Mastodon updates its terms to prohibit AI model training For the first time, social media overtakes TV as Americans' top news source Trump extends TikTok ban deadline for a third time The People Search Sites in the Suspected Minnesota Killer's Notebook Are a Failure of Congress 40,000 Cameras, From Bird Feeders to Baby Monitors, Exposed to the Internet Pavel Durov on his arrest in France, Macron, Russia, the FBI — and the fight for Telegram WhatsApp's rollout of ads will change the app forever Here's your first look at the rebooted Digg Host: Leo Laporte Guests: Jason Calacanis, Amanda Silberling, and Fr. Robert Ballecer, SJ Download or subscribe to This Week in Tech at https://twit.tv/shows/this-week-in-tech Join Club TWiT for Ad-Free Podcasts! Support what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: https://twit.tv/clubtwit Sponsors: spaceship.com/twit uscloud.com canary.tools/twit - use code: TWIT storyblok.com/twittv-25 ZipRecruiter.com/Twit",
+    "author": "TWiT",
+    "published": "Sun, 22 Jun 2025 21:03:57 PDT",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1037/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1037.mp3",
+    "source": "https://feeds.twit.tv/twit.xml",
+    "categories": [
+      "News",
+      "Tech News",
+      "TWiT",
+      " This Week in Tech",
+      " Leo Laporte",
+      " amanda silberling",
+      " Padre",
+      " Robert Ballecer",
+      " jason calacanis",
+      " Pope",
+      " ai",
+      " Israel",
+      " Iran",
+      " YouTube",
+      " Mastodon",
+      " tiktok",
+      " minnesotta",
+      " data brokers",
+      " pavel durov",
+      " telegram",
+      " whatsapp",
+      " Digg"
+    ]
+  },
+  {
+    "id": "ae70b562-7503-4715-9b1a-8d975d86b683",
+    "title": "TWiT 1036: Apple Reflux - Progress in Quantum Computing!",
+    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1036",
+    "description": "Opinionated Design: Early Reactions to Apple's Liquid Glass Design Language Big Tech Is Dealing Flat Design a Death Blow Apple gets over its hang-ups, and the iPad enters a new era Apple Targets Spring 2026 for Release of Delayed Siri AI Upgrade Apple's de-chatbot-ification of AI is nearly complete Google launches Android 16, rolling out now to Pixel Google offers voluntary buyouts to US staff across several businesses and units, including the one housing its core search team and much of the ads organization IBM aims to build the world's first large-scale, error-corrected quantum computer by 2028 Blue Origin Delays Second New Glenn Launch Anne Wojcicki Wins Bidding for 23andMe Twenty-seven states and DC sue 23andMe to oppose the sale of DNA data from its customers without their direct consent YouTube says its ecosystem created 490K jobs and added $55B to the US GDP in 2024 God is hungry for Context: First thoughts on o3 pro Army reserve tech executives meta palantir Nintendo Switch 2 Is Fastest-Selling Game Console of All Time - Slashdot An Experimental New Dating Site Matches Singles Based on Their Browser Histories Anker recalls 1.1 million power banks due to fire hazard risk Local Malls Are Sitting Empty, and Becoming a Headache for Small Towns Bald eagle live cam update: Babies are leaving nest. What's next? Host: Leo Laporte Guests: Jason Hiner, Harry McCracken, and Jason Snell Download or subscribe to This Week in Tech at https://twit.tv/shows/this-week-in-tech Join Club TWiT for Ad-Free Podcasts! Support what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: https://twit.tv/clubtwit Sponsors: oracle.com/twit Melissa.com/twit drata.com/weekintech expressvpn.com/twit zscaler.com/security",
+    "author": "TWiT",
+    "published": "Sun, 15 Jun 2025 20:42:47 PDT",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1036/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1036.mp3",
+    "source": "https://feeds.twit.tv/twit.xml",
+    "categories": [
+      "News",
+      "Tech News",
+      "TWiT",
+      " This Week in Tech",
+      " Leo Laporte",
+      " Apple",
+      " WWDC",
+      " iPad",
+      " apple vision",
+      " Google",
+      " android 16",
+      " blue origin",
+      " quantum computing",
+      " ibm",
+      " anne wojcicki",
+      " 23andme",
+      " YouTube",
+      " o3 pro",
+      " army",
+      " palantir",
+      " nintendo",
+      " switch 2",
+      " anker"
+    ]
+  },
+  {
+    "id": "dd6be000-cab5-4b77-9495-3ec804594ffd",
+    "title": "The Satisfying Keys…",
+    "link": "https://www.youtube.com/shorts/r3wdQT8DERw",
+    "description": "",
+    "author": "Unbox Therapy",
+    "published": "2025-06-23T18:03:02+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
+    "categories": null
+  },
+  {
+    "id": "433e9438-66d1-449d-8011-2bc36ed2b78d",
+    "title": "Unboxing The $13,000 Chair...",
+    "link": "https://www.youtube.com/watch?v=u2u8qZN4DXs",
+    "description": "",
+    "author": "Unbox Therapy",
+    "published": "2025-06-23T03:19:45+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
+    "categories": null
+  },
+  {
+    "id": "5c88406f-b483-45cc-9fbb-a0ab44a4169d",
+    "title": "‘Space umbrella’ returns first striking images of Earth’s forests",
+    "link": "https://thenextweb.com/news/space-umbrella-biomass-first-images-earth-forests",
+    "description": "A giant umbrella-like satellite fitted with European tech has revealed its first images of Earth’s surface. The probe, called “Biomass,” was built by a host of aerospace giants and startups for the European Space Agency (ESA). It launched in April on a Vega-C rocket from Europe’s spaceport in Kourou, French Guiana. European Astrotech, a UK-based startup, was responsible for fuelling the satellite ahead of takeoff. Biomass’ mission is to capture the most detailed measurements of forest carbon ever recorded from space. To get the job done, it’s been equipped with the first-ever P-band radar to enter orbit. It aims to…This story continues at The Next Web",
+    "author": "Siôn Geschwindt",
+    "published": "Mon, 23 Jun 2025 10:26:33 +0000",
+    "image": "https://img-cdn.tnwcdn.com/image?fit=796%2C417\u0026url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F04%2Fbiomass-satellite-space-umbrella-.jpg\u0026signature=a855272e1c828196f78e8ca9431d0547",
+    "source": "https://thenextweb.com/feed/",
+    "categories": [
+      "Deep tech",
+      "Space",
+      "Next Featured"
+    ]
+  },
+  {
+    "id": "b58164dd-299d-4187-82f2-4d38c67eb9e6",
+    "title": "Dutch tech leaders: Europe won’t lead in AI hardware, but can in AI apps",
+    "link": "https://thenextweb.com/news/dutch-tech-wants-europe-lead-ai-apps",
+    "description": "The race to dominate AI infrastructure has left Europe trailing the US — but the continent still has a shot at global leadership in AI apps. That was the verdict of Dutch tech leaders at the Assembly, the invite-only policy track of TNW Conference in Amsterdam. While Silicon Valley controls the scaffolding for AI, they urged Europe to focus on building apps on top. Leading the call was Jeroen van Glabbeek, CEO and founder of CM.com, a customer engagement platform with a market cap of around €217mn and annual revenues of €274mn in 2024. Van Glabbeek believes the US advantage in…This story continues at The Next Web",
+    "author": "Thomas Macaulay",
+    "published": "Fri, 20 Jun 2025 11:38:15 +0000",
+    "image": "https://img-cdn.tnwcdn.com/image?fit=796%2C417\u0026url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F04%2FUntitled-design-9.jpg\u0026signature=29720a297f053c58c29225e8cd1e0c3c",
+    "source": "https://thenextweb.com/feed/",
+    "categories": [
+      "Deep tech",
+      "Startups and technology",
+      "Next Featured",
+      "Investors and funding",
+      "Corporates and innovation"
+    ]
+  },
+  {
+    "id": "256d8e00-95d4-4dc5-b836-cc340b114867",
+    "title": "Checking In on AI and the Big Five",
+    "link": "https://stratechery.com/2025/checking-in-on-ai-and-the-big-five/",
+    "description": "A review of the current state of AI through the lens of the Big Five tech companies.",
+    "author": "Ben Thompson",
+    "published": "Mon, 23 Jun 2025 15:25:43 +0000",
+    "image": "",
+    "source": "http://stratechery.com/feed/",
+    "categories": [
+      "Articles"
+    ]
+  },
+  {
+    "id": "dc768df9-2063-474d-a4ca-9d7a74468329",
+    "title": "2025.25: Snapshots of an Evolving AI Landscape",
+    "link": "https://stratechery.com/2025/snapshots-of-an-evolving-ai-landscape/",
+    "description": "The best Stratechery content from the week of June 16, 2025, including OpenAI getting testy and xAI getting expensive, speedbumps for China's car industry, and Meta continuing its AI hiring spree.",
+    "author": "Ben Thompson",
+    "published": "Fri, 20 Jun 2025 10:00:00 +0000",
+    "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2025/06/GettyImages-1778708098.jpg?resize=1700%2C1204\u0026ssl=1",
+    "source": "http://stratechery.com/feed/",
+    "categories": [
+      "This Week in Stratechery"
+    ]
+  }
+]
