@@ -1,0 +1,201 @@
+[
+  {
+    "id": "83c31da4-69b6-4254-ac07-6b5cdcaa63df",
+    "title": "Decoding The SVG path Element: Curve And Arc Commands",
+    "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
+    "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
+    "author": "Myriam Frisano",
+    "published": "Mon, 23 Jun 2025 10:00:00 GMT",
+    "image": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "f0cdc234-43b5-4bd6-8de9-c883e7e30fd9",
+    "title": "Meet Accessible UX Research, A Brand-New Smashing Book",
+    "link": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
+    "description": "Meet “Accessible UX Research,” our upcoming book to make your UX research inclusive. Learn how to recruit, plan, and design with disabled participants in mind. Print shipping in August 2025. eBook available for download later this summer. Pre-order the book.",
+    "author": "Vitaly Friedman",
+    "published": "Fri, 20 Jun 2025 16:00:00 GMT",
+    "image": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "040ea11b-bc06-4b1c-9b10-b2135b091bef",
+    "title": "Logo Design Trends 2025: The Biggest Shifts in Brand Identity",
+    "link": "https://justcreative.com/2025-logo-trends-report/",
+    "description": "Discover the top 2025 logo design trends shaping brand identity — from AI-powered motion and nostalgic mascots to organic textures and typographic rebellion.",
+    "author": "Jacob Cass",
+    "published": "Sun, 15 Jun 2025 16:00:44 +0000",
+    "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f525.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Logo Design",
+      "Logo Trends",
+      "LogoLounge"
+    ]
+  },
+  {
+    "id": "af1ffa13-dd92-46c6-8c6d-eb76d84df463",
+    "title": "[Podcast] Problem Framing: Rewire How You Think, Create, and Lead with Rory Sutherland",
+    "link": "https://justcreative.com/problem-framing",
+    "description": "Rory takes us deep into the world of problem framing, a powerful technique that flips business challenges to reveal brand solutions hiding in plain sight.",
+    "author": "Jacob Cass",
+    "published": "Wed, 11 Jun 2025 07:46:58 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2019/12/best-brand-strategy-course-online.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Podcast",
+      "Branding",
+      "Brands",
+      "problem framing",
+      "Rory Sutherland",
+      "TED speaker"
+    ]
+  },
+  {
+    "id": "095ea543-b0df-4676-be8e-3bf305468857",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "f84471d1-13dd-4447-97bb-7167abcfc6a6",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  },
+  {
+    "id": "3bfd04f1-2cca-492e-a0a4-788944413b19",
+    "title": "Creating Design Specs for Development",
+    "link": "https://www.nngroup.com/articles/creating-design-specs-for-development/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "Design specifications should provide all the relevant information needed to align the design and development teams.",
+    "author": "Kelley Gordon",
+    "published": "Fri, 20 Jun 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "a021f04b-7c2b-4765-a91b-a13b13106529",
+    "title": "A Research Agenda for Generative AI in UX",
+    "link": "https://www.nngroup.com/articles/genai-ux-research-agenda/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "To navigate this period of change, researchers must explore how generative AI changes what we study and how we study it.",
+    "author": "Raluca Budiu",
+    "published": "Fri, 20 Jun 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "e8d38624-4138-40b8-87d5-0f8b46b6de8e",
+    "title": "Interview with Zack White, Lead Product Designer at Whale, ex-BCG",
+    "link": "https://uxdesign.cc/interview-with-zack-white-lead-product-designer-at-whale-ex-bcg-d01855c724d3?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Emi Knight",
+    "published": "Wed, 25 Jun 2025 00:14:34 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*vCl31LyRrECZkroblynMCg.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "product-design",
+      "product",
+      "ux-design",
+      "design",
+      "user-experience"
+    ]
+  },
+  {
+    "id": "38385be5-9d3a-4722-a3f6-aa4503c79162",
+    "title": "Why designing for users who don't know they have a problem matters",
+    "link": "https://uxdesign.cc/why-designing-for-users-who-dont-know-they-have-a-problem-matters-157247255883?source=rss----138adf9c44c---4",
+    "description": "How to design for problem-unaware usersContinue reading on UX Collective »",
+    "author": "Kai Wong",
+    "published": "Tue, 24 Jun 2025 10:39:17 GMT",
+    "image": "https://cdn-images-1.medium.com/max/2600/1*Ux4Jsyl2vNmZ56fcwONw3A.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "design-thinking",
+      "ux-design",
+      "ux",
+      "design",
+      "product-design"
+    ]
+  },
+  {
+    "id": "5c26b8f7-9837-48a1-91be-6480541f301d",
+    "title": "How to Group Your Sidebar Items for Better Findability",
+    "link": "https://uxmovement.com/navigation/how-to-group-your-sidebar-items-for-better-findability/",
+    "description": "When a sidebar contains many items, grouping is necessary to help users find them faster. However, most designers don’t group their sidebar items and force users to scan an entire list. This results in slow navigation times and poor findability. Grouping improves findability by enabling users to spot a group and scan the items in […] The post How to Group Your Sidebar Items for Better Findability first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:27:48 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "a3bb2d54-a938-4350-a602-2f1cd8cfb787",
+    "title": "How to Make Any Sidebar Menu Easier to Scan",
+    "link": "https://uxmovement.com/navigation/how-to-make-any-sidebar-menu-easier-to-scan/",
+    "description": "How easy to scan is your sidebar menu? If you haven’t optimized the spacing, users will likely spend more time navigating and finding items. Balancing the spacing in the sidebar can help users navigate faster and easier. A typical mistake designers make is adding too much or not enough space. Both can make scanning for […] The post How to Make Any Sidebar Menu Easier to Scan first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:24:10 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "5f035454-67e8-4972-8a9f-eb10cee9d633",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "e78b4595-c32c-4455-ae35-15025ee8d625",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  }
+]
