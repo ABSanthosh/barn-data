@@ -1,0 +1,29 @@
+{
+  "id": "086cc914-5429-4c64-9512-87450a5119af",
+  "title": "You've vibe coded an app. Now what?",
+  "link": "https://stackoverflow.blog/2025/06/25/you-ve-vibe-coded-an-app-now-what/",
+  "description": "On this episode, Ryan chats with Vish Abrams, chief architect at Heroku, about all the work that needs to be done after you’ve vibe coded your dream app.",
+  "author": "Ryan Donovan",
+  "published": "Wed, 25 Jun 2025 04:42:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "vibe-coding",
+    "ai",
+    "infrastructure-management",
+    "se-tech",
+    "partner-content",
+    "se-stackoverflow",
+    "podcast"
+  ],
+  "byline": "Ryan Donovan",
+  "length": 754,
+  "excerpt": "On this episode, Ryan chats with Vish Abrams, chief architect at Heroku, about all the work that needs to be done after you’ve vibe coded your dream app.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "June 25, 2025On this episode, Ryan chats with Vish Abrams, chief architect at Heroku, about all the work that needs to be done after you’ve vibe coded your dream app. On this episode, Ryan chats with Vish Abrams, chief architect at Heroku, about all the work that needs to be done after you’ve vibe coded your dream app. They discuss the security and scaling work needed, why getting the foundation is as important as the business logic, and what skills a vibe coder needs after prompt engineering.Episode notes:Heroku is a platform-as-a-service (PaaS) for deploying, scaling, and managing apps.Connect with Vish on X and LinkedIn.Congrats to Populist badge winner AmaDaden for their answer to How to generate a legend with colors in PlantUML?.TRANSCRIPT",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/a55a32b589a3d5b547c30368c42f17a273cf6b98-2400x1260.png?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003carticle itemscope=\"\" itemtype=\"https://schema.org/Article\"\u003e\u003cheader\u003e\u003ctime datetime=\"2025-06-25T04:42:00.000Z\" itemprop=\"datePublished\"\u003e June 25, 2025\u003c/time\u003e\u003cp itemprop=\"abstract\"\u003eOn this episode, Ryan chats with Vish Abrams, chief architect at Heroku, about all the work that needs to be done after you’ve vibe coded your dream app. \u003c/p\u003e\u003cfigure\u003e\u003cimg src=\"https://cdn.stackoverflow.co/images/jo7n4k8s/production/a55a32b589a3d5b547c30368c42f17a273cf6b98-2400x1260.png?w=1200\u0026amp;h=630\u0026amp;auto=format\u0026amp;dpr=2\" width=\"1200\" height=\"630\" alt=\"Article hero image\" itemprop=\"image\"/\u003e\u003c/figure\u003e\u003c/header\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003eOn this episode, Ryan chats with Vish Abrams, chief architect at Heroku, about all the work that needs to be done after you’ve vibe coded your dream app. They discuss the security and scaling work needed, why getting the foundation is as important as the business logic, and what skills a vibe coder needs after prompt engineering.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEpisode notes:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.heroku.com/?utm_source=stackoverflow\u0026amp;utm_medium=paid\u0026amp;utm_campaign=banners\u0026amp;utm_content=podcast\"\u003eHeroku\u003c/a\u003e is a platform-as-a-service (PaaS) for deploying, scaling, and managing apps.\u003c/p\u003e\u003cp\u003eConnect with Vish on \u003ca href=\"https://x.com/vish\"\u003eX\u003c/a\u003e and \u003ca href=\"https://www.linkedin.com/in/vishvananda/\"\u003eLinkedIn\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eCongrats to Populist badge winner \u003ca href=\"https://stackoverflow.com/users/101054/amadaden\"\u003eAmaDaden\u003c/a\u003e for their answer to \u003ca href=\"https://stackoverflow.com/questions/30999290/how-to-generate-a-legend-with-colors-in-plantuml/44217931#44217931\"\u003eHow to generate a legend with colors in PlantUML?\u003c/a\u003e.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://the-stack-overflow-podcast.simplecast.com/episodes/youve-vibe-coded-an-app-now-what/transcript\"\u003eTRANSCRIPT\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/article\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
