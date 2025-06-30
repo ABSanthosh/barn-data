@@ -1,0 +1,32 @@
+{
+  "id": "77addc6d-d482-46d1-a400-61382a85e0fc",
+  "title": "You’ve got 99 problems but data shouldn’t be one",
+  "link": "https://stackoverflow.blog/2025/06/27/you-ve-got-99-problems-but-data-shouldn-t-be-one/",
+  "description": "Ryan is joined by Tobiko Data co-founders Toby Mao and Iaroslav Zeigerman to talk about the crucial role of rigorous data practices and tooling, the innovations of Tobiko Data’s SQLMesh and SQLGlot, and their insights into the future of data engineering with the rise of AI.",
+  "author": "Phoebe Sajor",
+  "published": "Fri, 27 Jun 2025 07:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "data",
+    "data-engineering",
+    "data-quality",
+    "data-observability",
+    "sql",
+    "podcast",
+    "se-stackoverflow",
+    "tooling",
+    "dev-tools",
+    "developer-tools"
+  ],
+  "byline": "Phoebe Sajor",
+  "length": 400,
+  "excerpt": "Tobiko Data is creating a new standard in data transformation with their Cloud and SQL integrations. You can keep up with their work by joining their Slack community.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "Tobiko Data is creating a new standard in data transformation with their Cloud and SQL integrations. You can keep up with their work by joining their Slack community.Connect with Toby on LinkedIn.Connect with Iaroslav on LinkedIn.Congrats to Stellar Answer badge winner Christian C. Salvadó, whose answer to What's a quick way to comment/uncomment lines in Vim? was saved by over 100 users.TRANSCRIPT",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/d2cb4c948681d5ccbb8ff46ed2d69c6f6b6a8990-800x420.jpg?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003e\u003ca href=\"https://www.tobikodata.com/\"\u003eTobiko Data\u003c/a\u003e is creating a new standard in data transformation with their Cloud and SQL integrations. You can keep up with their work by joining their \u003ca href=\"http://tobikodata.com/slack\"\u003eSlack community\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eConnect with Toby on \u003ca href=\"https://www.linkedin.com/in/toby-mao/\"\u003eLinkedIn\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eConnect with Iaroslav on \u003ca href=\"https://www.linkedin.com/in/izeigerman/\"\u003eLinkedIn\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eCongrats to Stellar Answer badge winner Christian C. Salvadó, whose answer to \u003ca href=\"https://stackoverflow.com/questions/1676632/whats-a-quick-way-to-comment-uncomment-lines-in-vim\"\u003eWhat\u0026#39;s a quick way to comment/uncomment lines in Vim?\u003c/a\u003e was saved by over 100 users.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://the-stack-overflow-podcast.simplecast.com/episodes/youve-got-99-problems-but-data-shouldnt-be-one/transcript\"\u003eTRANSCRIPT\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
