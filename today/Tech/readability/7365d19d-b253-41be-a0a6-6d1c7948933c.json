@@ -1,0 +1,28 @@
+{
+  "id": "7365d19d-b253-41be-a0a6-6d1c7948933c",
+  "title": "If you're using Microsoft Authenticator to store your passwords, don't",
+  "link": "https://www.engadget.com/cybersecurity/if-youre-using-microsoft-authenticator-to-store-your-passwords-dont-225842265.html?src=rss",
+  "description": "Microsoft Authenticator is sunsetting its ability to store your passwords. This month, the service stopped allowing users to add or import new passwords. Beginning in July 2025, users will no longer be able to use autofill with Authenticator, and in August 2025, passwords will no longer be available at all. Payment information stored in Authenticator will be deleted after July, and after the following month, all unsaved generated passwords will be deleted. Passkeys will still be supported in Authenticator. People who want to stay within the Microsoft ecosystem do have the option to use access their saved passwords when using the Edge browser. But if you're not interested in Edge, that means Authenticator users may want to peruse their options for a different password manager. Fortunately, there are several excellent choices for password managers that aren't tied to a particular hardware provider. This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/if-youre-using-microsoft-authenticator-to-store-your-passwords-dont-225842265.html?src=rss",
+  "author": "Anna Washenko",
+  "published": "Mon, 30 Jun 2025 22:58:42 +0000",
+  "source": "https://www.engadget.com/rss.xml",
+  "categories": [
+    "Technology \u0026 Electronics",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US",
+    "language|en-US",
+    "author_name|Anna Washenko"
+  ],
+  "byline": "Anna Washenko",
+  "length": 908,
+  "excerpt": "Current Authenticator users can start using Microsoft Edge or else will need to find a replacement for the password manager capabilities.",
+  "siteName": "Engadget",
+  "favicon": "https://s.yimg.com/kw/assets/favicon-160x160.png",
+  "text": "Microsoft Authenticator is sunsetting its ability to store your passwords. This month, the service stopped allowing users to add or import new passwords. Beginning in July 2025, users will no longer be able to use autofill with Authenticator, and in August 2025, passwords will no longer be available at all. Payment information stored in Authenticator will be deleted after July, and after the following month, all unsaved generated passwords will be deleted. Passkeys will still be supported in Authenticator.People who want to stay within the Microsoft ecosystem do have the option to use access their saved passwords when using the Edge browser. But if you're not interested in Edge, that means Authenticator users may want to peruse their options for a different password manager. Fortunately, there are several excellent choices for password managers that aren't tied to a particular hardware provider.",
+  "image": "https://s.yimg.com/ny/api/res/1.2/cVRDtECpqF.UqDS7Nb7L4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-06/c97a0380-5604-11f0-bed7-a86af4071ac3",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cp\u003eMicrosoft Authenticator is \u003ca data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1\" href=\"https://support.microsoft.com/en-us/account-billing/changes-to-microsoft-authenticator-autofill-09fd75df-dc04-4477-9619-811510805ab6\" rel=\"nofollow noopener\" target=\"_blank\" data-ylk=\"slk:sunsetting;elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1;itc:0;sec:content-canvas\"\u003esunsetting\u003c/a\u003e its ability to store your passwords. This month, the service stopped allowing users to add or import new passwords. Beginning in July 2025, users will no longer be able to use autofill with Authenticator, and in August 2025, passwords will no longer be available at all. Payment information stored in Authenticator will be deleted after July, and after the following month, all unsaved generated passwords will be deleted. Passkeys will still be supported in Authenticator.\u003c/p\u003e\u003cp\u003ePeople who want to stay within the Microsoft ecosystem do have the option to use access their saved passwords when using the Edge browser. But if you\u0026#39;re not interested in Edge, that means Authenticator users may want to peruse their options for a different password manager. Fortunately, there are several excellent choices for \u003ca data-i13n=\"cpos:2;pos:1\" href=\"https://www.engadget.com/cybersecurity/best-password-manager-134639599.html\" data-ylk=\"slk:password managers;cpos:2;pos:1;elm:context_link;itc:0;sec:content-canvas\"\u003e\u003cins\u003epassword managers\u003c/ins\u003e\u003c/a\u003e that aren\u0026#39;t tied to a particular hardware provider.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-06-30T22:58:42Z",
+  "modifiedTime": null
+}
