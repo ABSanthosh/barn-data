@@ -1,0 +1,642 @@
+[
+  {
+    "id": "7365d19d-b253-41be-a0a6-6d1c7948933c",
+    "title": "If you're using Microsoft Authenticator to store your passwords, don't",
+    "link": "https://www.engadget.com/cybersecurity/if-youre-using-microsoft-authenticator-to-store-your-passwords-dont-225842265.html?src=rss",
+    "description": "Microsoft Authenticator is sunsetting its ability to store your passwords. This month, the service stopped allowing users to add or import new passwords. Beginning in July 2025, users will no longer be able to use autofill with Authenticator, and in August 2025, passwords will no longer be available at all. Payment information stored in Authenticator will be deleted after July, and after the following month, all unsaved generated passwords will be deleted. Passkeys will still be supported in Authenticator. People who want to stay within the Microsoft ecosystem do have the option to use access their saved passwords when using the Edge browser. But if you're not interested in Edge, that means Authenticator users may want to peruse their options for a different password manager. Fortunately, there are several excellent choices for password managers that aren't tied to a particular hardware provider. This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/if-youre-using-microsoft-authenticator-to-store-your-passwords-dont-225842265.html?src=rss",
+    "author": "Anna Washenko",
+    "published": "Mon, 30 Jun 2025 22:58:42 +0000",
+    "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2Fc97a0380-5604-11f0-bed7-a86af4071ac3\u0026resize=1400%2C933\u0026client=19f2b5e49a271b2bde77\u0026signature=ddfd7859e85791b878a04a79618b5003abf90acd",
+    "source": "https://www.engadget.com/rss.xml",
+    "categories": [
+      "Technology \u0026 Electronics",
+      "site|engadget",
+      "provider_name|Engadget",
+      "region|US",
+      "language|en-US",
+      "author_name|Anna Washenko"
+    ]
+  },
+  {
+    "id": "13099dc2-bafa-4a86-b948-8b350ff64a7d",
+    "title": "Apple iOS 26: Here are all the new features and improvements for the new iPhone operating system",
+    "link": "https://www.engadget.com/mobile/apple-ios-26-here-are-all-the-new-features-and-improvements-for-the-new-iphone-operating-system-135749944.html?src=rss",
+    "description": "Liquid Glass is a huge new change coming to iOS 26. (Apple) It's true: Apple's iOS 26 (not iOS 19) is coming your way this fall with some cool new features you'll want to try. For those of us who've been loyal to the iPhone for nearly two decades, we're most excited about the fresh home and lock screen redesign. Dubbed Liquid Glass, the new look and feel will extend across all of Apple's upcoming operating systems. The overhaul was one of several big changes coming to iOS, macOS, iPadOS and the rest of Apple's software suite, all of which were showcased during the company's WWDC keynote on June 9. If you're a developer, you can check out the iOS 26 beta 2 now; the public beta coming in July.  After overpromising on AI plans last year, Apple kept its iOS roadmap focused more on basic quality of life improvements this year. There are multiple useful additions coming to the Phone and Messages apps on your iPhone, for instance: Apple execs outlined the ability to weed out spam texts or other unknown senders and an option to hold your spot on a phone call when you've been waiting for a representative to pick up. Plus, a treasured feature that we took for granted is coming back (hint: it's in the Photos app). Siri, meanwhile, is in a holding pattern. Apple has previously specified that its smarter voice assistant — first promised at WWDC 2024 — is delayed until some point \"in the coming year,\" so you shouldn't expect any major changes in the current betas. But there are reports that Apple is aiming to give Siri a bigger brain transplant by basing it on third-party artificial intelligence models like OpenAI's ChatGPT or Anthropic's Claude, which could make 2026 a pivotal year. Keep reading to check out the most notable features coming to your iPhone this fall, according to Apple. Also, make sure your iPhone is eligible to download the iOS 26 update (thankfully, most recent models are). What is iOS 26? While the current iPhone operating system is iOS 18, Apple is skipping the numbering ahead to iOS 26 later this year. The company has decided to line up its iOS version numbers with a year-based system, similar to car model years. So while iOS and its sibling operating systems will be released in late 2025, they're all designated \"26\" to reflect the year ahead. (Meanwhile, iOS 18 is still getting new versions this summer, too.) It's official, we're moving to iOS 26. (Apple) What is Liquid Glass design? Let's be honest. Out of everything announced at WWDC this year, the new Liquid Glass design was the star of the show. The iPhone's home and lock screens have looked pretty much the same year after year — the last exciting thing (in my opinion) was the option to add your own aesthetic to your home screen by customizing your apps and widgets. So seeing the home and lock screens' new facelift is refreshing. So what exactly is Liquid Glass? Apple calls it a \"new translucent material\" since, well, the apps and widgets are clear. However, the screen can still adapt to dark and light modes, depending on surroundings. You'll also notice buttons with a new floating design in several apps, like Phone and Maps. They're designed to be less distracting than the current buttons, but are still easy to see. While the design overhaul has proven to be controversial since its announcement, some — including Engadget's own Devindra Hardawar — like the new direction, even if it's somewhat reminiscent of Microsoft's translucent Windows Vista Aero designs from nearly twenty years ago. That said, as of the newly released iOS 26 beta 2, Apple has already incorporated some user feedback into the design, dialing back the transparency in at least some places. And while it will continue to evolve, Apple users won't be able to escape it: Liquid Glass was designed to make all of Apple's OSes more cohesive. Here's a look at how the translucent aesthetic will look with the new macOS Tahoe 26 on your desktop. What are the new and notable features of iOS 26? iOS 26 has a laundry list of new features. Among the most worthwhile: Phone app redesign: You'll finally be able to scroll through contacts, recent calls and voicemail messages all on one screen. It also comes with a new feature called Hold Assist that'll notify you when an agent comes to the phone so you can avoid the elevator music and continue on with other tasks. Live Translation in Phone, FaceTime and Messages: iOS 26 is bringing the ability to have a conversation via phone call or text message with someone who speaks another language. Live Translation will translate your conversation in real time, which results in some stop-and-go interactions in the examples Apple shared during its presentation. Polls in group chats: Tired of sorting through what seems like hundreds of messages in your group chat? You and your friends will soon be able to create polls in group messages for deciding things like which brunch spot you're eating at or whose car you're taking on a road trip. Filtering unknown senders in Messages: If you haven't received spam texts about unpaid tolls or other citations, you're lucky. For those of us who have, those annoying messages will soon be filtered away in a separate folder. Visual Intelligence: Similar to a reverse Google image search, this new feature will allow you to search for anything that's on your iPhone screen. For instance, if you spot a pair of shoes someone is wearing in an Instagram photo, you can screenshot it and use Visual Intelligence to find those shoes (or similar ones) online. Photos tabs are back: For anyone who's still frustrated with the Photos changes made last year, you'll be happy to know that your tabs are coming back. Library and Collections will have their own separate spaces so you don't have to scroll to infinity to find what you're looking for. Apple's Hold Assist will be nifty for those pesky services that put you on hold for 10 or more minutes. (Apple) Which iPhones will be able to upgrade to iOS 26? A few iPhone models that run the current version of iOS — iPhone XR, XS and XS Max — won't be compatible with the latest upgrade. But any iPhones released in 2019 or later will be eligible for the iOS 26 update. iPhone SE (second generation or later) iPhone 11 iPhone 11 Pro iPhone 11 Pro Max iPhone 12 iPhone 12 mini iPhone 12 Pro iPhone 12 Pro Max iPhone 13 iPhone 13 mini iPhone 13 Pro iPhone 13 Pro Max iPhone 14 iPhone 14 Plus iPhone 14 Pro iPhone 14 Pro Max iPhone 15 iPhone 15 Plus iPhone 15 Pro iPhone 15 Pro Max iPhone 16e iPhone 16 iPhone 16 Plus iPhone 16 Pro iPhone 16 Pro Max Not listed here are the presumed new iPhone 17 models (or maybe iPhone 26?) that are all but certain to be announced and released in September.  When will the iOS 26 beta be available? If you're a developer, you can check out the iOS 26 beta 2 now. The iOS 26 public beta will become available in July via the Apple Beta Software Program. If you're not already a member, you'll need to sign up to try out all the latest features. Just visit beta.apple.com and sign up with your phone number or email address. It's free. Once you're in and the beta is available, you can install it by going to Settings \u003e General \u003e Software Update and selecting iOS 26 public beta. A word of caution: Don't sign up with your main iPhone unless you're OK with any risks that occur with using an OS that isn't finalized. When will the final version of iOS 26 be released? iOS 26 will be released to the public this fall. It usually comes in September, within a week of the Apple iPhone event. Last year, it rolled out to iPhone users on September 16 — exactly one week after the iPhone 16 lineup was announced. If you're more interested in the Apple Intelligence features coming, here's everything Apple revealed for iOS, macOS and more during WWDC. Also, check out how iOS 26 screenshots could be an intriguing preview of Apple's delayed Siri rework. Update, June 30: Noted ongoing iOS 18 releases, and reports that Apple is considering additional external LLMs for Siri.  Update, June 25: Noted changes added in iOS 26 beta 2. This article originally appeared on Engadget at https://www.engadget.com/mobile/apple-ios-26-here-are-all-the-new-features-and-improvements-for-the-new-iphone-operating-system-135749944.html?src=rss",
+    "author": "Katie Teague",
+    "published": "Mon, 30 Jun 2025 22:31:30 +0000",
+    "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2F26e13e10-4ba8-11f0-af67-e4739c3bbb12\u0026resize=1400%2C787\u0026client=19f2b5e49a271b2bde77\u0026signature=80538cce7bdf5e3aa117f4af96db58ea11c61f67",
+    "source": "https://www.engadget.com/rss.xml",
+    "categories": [
+      "Software",
+      "Smart Phones",
+      "Technology \u0026 Electronics",
+      "Handheld \u0026 Connected Devices",
+      "site|engadget",
+      "provider_name|Engadget",
+      "region|US",
+      "language|en-US",
+      "author_name|Katie Teague"
+    ]
+  },
+  {
+    "id": "7ffd986b-420a-478e-8bb1-c01059aa32fb",
+    "title": "238: A Specific Flavor of Juice",
+    "link": "http://relay.fm/analogue/238",
+    "description": "Preparing for WWDC, a baby update, and a remembrance.",
+    "author": "Casey Liss and Myke Hurley",
+    "published": "Sat, 07 Jun 2025 11:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/traffic.libsyn.com/secure/analogue/analogue238.mp3",
+    "source": "https://www.relay.fm/analogue/feed",
+    "categories": null
+  },
+  {
+    "id": "8063124a-c772-4a05-b60c-7f95324886f1",
+    "title": "237: Core Personality: Papa",
+    "link": "http://relay.fm/analogue/237",
+    "description": "Myke is back and has a lot to catch up on. Casey showed restraint!",
+    "author": "Casey Liss and Myke Hurley",
+    "published": "Sun, 11 May 2025 11:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/traffic.libsyn.com/secure/analogue/analogue237.mp3",
+    "source": "https://www.relay.fm/analogue/feed",
+    "categories": null
+  },
+  {
+    "id": "4410a6ad-27e2-4e46-bedd-76e426e510c4",
+    "title": "A mammoth tusk boomerang from Poland is 40,000 years old",
+    "link": "https://arstechnica.com/science/2025/06/a-mammoth-tusk-boomerang-from-poland-is-40000-years-old/",
+    "description": "The boomerang is a one-of-a-kind find from the last place archaeologists expected.",
+    "author": "Kiona N. Smith",
+    "published": "Mon, 30 Jun 2025 21:45:15 +0000",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/boomerang-cropped-1152x648-1751317763.png",
+    "source": "http://feeds.arstechnica.com/arstechnica/index",
+    "categories": [
+      "Science",
+      "ancient people did stuff",
+      "Archaeology",
+      "boomerangs",
+      "mammoth",
+      "paleolithic",
+      "paleolithic europe",
+      "radiocarbon dating",
+      "science"
+    ]
+  },
+  {
+    "id": "f51b790c-5368-42ad-af25-7caf72dc981d",
+    "title": "Analyst: M5 Vision Pro, Vision Air, and smart glasses coming in 2026–2028",
+    "link": "https://arstechnica.com/gadgets/2025/06/apple-will-introduce-vision-air-and-smart-glasses-in-2027-analyst-projects/",
+    "description": "Apple analyst Ming-Chi Quo lays out a whole roadmap for Apple XR devices.",
+    "author": "Samuel Axon",
+    "published": "Mon, 30 Jun 2025 21:24:19 +0000",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-1152x648.jpeg",
+    "source": "http://feeds.arstechnica.com/arstechnica/index",
+    "categories": [
+      "Apple",
+      "Tech",
+      "apple",
+      "Apple Vision Air",
+      "Apple Vision Pro",
+      "ar",
+      "hmd",
+      "visionOS",
+      "VR",
+      "XR"
+    ]
+  },
+  {
+    "id": "8f10ba26-1ebf-473b-9ee1-2e3c171bc7a3",
+    "title": "WTF | Meet the Microcar 🏍️ x 🚗",
+    "link": "https://www.youtube.com/shorts/j1BBe4UXY9E",
+    "description": "",
+    "author": "CNET",
+    "published": "2025-06-30T15:08:07+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+    "categories": null
+  },
+  {
+    "id": "6f61d7b5-0cf8-4af0-b02c-4d8626c2a535",
+    "title": "Are iOS 26 and Android 16 Innovators or Copycats? | All Things Mobile",
+    "link": "https://www.youtube.com/watch?v=MqHlOdMNzDw",
+    "description": "",
+    "author": "CNET",
+    "published": "2025-06-30T12:00:45+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+    "categories": null
+  },
+  {
+    "id": "586be95f-5f47-499a-aeac-e8f214bb0f3f",
+    "title": "Microsoft's 'Blue Screen of Death' Dies After 40 Years of Memes, Jokes, T-Shirts",
+    "link": "https://www.cnet.com/tech/services-and-software/microsofts-blue-screen-of-death-dies-after-40-years-of-memes-jokes-t-shirts/#ftag=CAD590a51e",
+    "description": "Meet its mournful replacement, the black screen of death, which won't have the sad face.",
+    "author": "Alex Valdes",
+    "published": "Tue, 01 Jul 2025 00:26:06 +0000",
+    "image": "https://www.cnet.com/a/img/resize/7cf67ea2c2c19ed6ad53174c742f54b23abf2308/hub/2025/06/26/f9a73c79-3ee4-4fab-b23a-e6fd8833cee0/blue-screen-of-death-gettyimages-1328389388-1.jpg?auto=webp\u0026fit=crop\u0026height=614\u0026width=1092",
+    "source": "https://www.cnet.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "a087dc3c-9a57-41e0-ac44-3c70e77bc47f",
+    "title": "What's a Heat Dome? The Scary Weather Phenomenon Is Making Things Hotter",
+    "link": "https://www.cnet.com/news/what-is-a-heat-dome-the-scary-weather-phenomenon-returns-to-kick-off-summer/#ftag=CAD590a51e",
+    "description": "Man, it's a hot one in a lot of places around the US right now, thanks in part to the heat dome that has taken hold in the atmosphere.",
+    "author": "Thomas Kika",
+    "published": "Mon, 30 Jun 2025 23:59:00 +0000",
+    "image": "https://www.cnet.com/a/img/resize/93ec067bbb110b06e6c4caabcaac5014ad53a205/hub/2024/06/18/14101604-fb36-462b-8ac4-ee370b546fb0/gettyimages-1265147473.jpg?auto=webp\u0026fit=crop\u0026height=614\u0026width=1092",
+    "source": "https://www.cnet.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "9d0e76f6-4d08-41d7-9174-51bce1f550f2",
+    "title": "611: I Set a Trap",
+    "link": "http://relay.fm/clockwise/611",
+    "description": "Apple and Perplexity rumors, the F1 coupon fiasco, our thoughts on device battery health, and whether Apple should build a chatbot.",
+    "author": "Dan Moren and Mikah Sargent",
+    "published": "Wed, 25 Jun 2025 18:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise611.mp3",
+    "source": "https://www.relay.fm/clockwise/feed",
+    "categories": null
+  },
+  {
+    "id": "ba647c25-972a-4251-a48b-d078caa572d6",
+    "title": "610: Probably Not From Japan",
+    "link": "http://relay.fm/clockwise/610",
+    "description": "Our interest in drones and how we’d use them, household standards for wearing Bluetooth headphones, whether we install OS betas and on which devices, and the rare app or service where we don’t mind seeing ads.",
+    "author": "Dan Moren and Mikah Sargent",
+    "published": "Wed, 18 Jun 2025 18:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise610.mp3",
+    "source": "https://www.relay.fm/clockwise/feed",
+    "categories": null
+  },
+  {
+    "id": "1cebafdb-992f-4104-885a-cc3aab5397c6",
+    "title": "645: More Frosting",
+    "link": "https://atp.fm/645",
+    "description": "Pre-Show: Phish \u0026 Wabbit Dave Matthews Season Allianz Ampitheater at Riverfront Belkin UltraGlass 2 Some Administrivia: 🗣️ New ATP Member’s special: ATP Movie Club: Sneakers 🗣️ Sneakers (1992) ATP Performance Shirt Inventory Sale Follow-up: Persistent icon replacement helper apps Pictogram Replacicon Tahoe beta 2 Finder icon updated! Louie Mantia tries again New menu bar background setting! Beta 2, with background Tahoe’s [Not-So-] Naked Robotic Menu Bar (via Vítor) Beta 1, gray Beta 1, red Beta 1, white Safari toolbars (via Lewis Dorigo) Settings → Advanced → Show color in compact tab bar theme_color Yosemite Safari tabs From John’s review Installing betas and DFU mode macvdmtool (via Robert Sherry) DFU Blaster (via Brian LaShomb) InstallAssistant.pkg (via Andy Beyer-Bowden) iOS 26 Beta 2 Frost all the things! The case of Marco’s missing download/check buttons Roman’s observation iPadOS 26 window limits (via Jon Edwards) “Apple Vision Pro 4K” (via Greg Kaplan) visionOS what’s new 2048 Threes All your data are belong to AI companies Apple training models on Feedback attachments ಠ_ಠ Original report from Joachim Meta AI staffers take an interesting approach New York Times 🤝🏻 Amazon AI You can train AI models without copyrighted material… it’s just a pain in the 🍑 Anthropic gets a W… maybe? Ask ATP: Does Marco use Apple CarKey? His car should support it. (via Samuel Polay) CarPlay Ultra partners list is looking… sparse Ferrari keyfob Why does macOS want USB mass storage ejected, but iPadOS doesn’t? (via David Campbell) Post-show: TV Update for Marco RTINGS: Sony Bravia 8 II review RTINGS: Bravia 8 II vs. A95L LG G5 RTINGS: LG G5 review HDTVTest: LG G5 review RTINGS: LG’s New Firmware for the G5 Members-only ATP Overtime: Overlap between appdev \u0026 gamedev Coyote time \u0026 jump buffering Secrets to a great platformer with Unity Destiny health Examples in our apps Sponsored by: Notion: Your notes, docs, and projects in one space. DeleteMe: Making it quick, easy and safe to remove your personal data online. Become a member for ATP Overtime, ad-free episodes, member specials, and our early-release, unedited “bootleg” feed!",
+    "author": "ATP",
+    "published": "Thu, 26 Jun 2025 20:18:36 +0000",
+    "image": "https://traffic.libsyn.com/atpfm/atp645.mp3",
+    "source": "https://atp.fm/rss",
+    "categories": null
+  },
+  {
+    "id": "d21c0a17-4256-4b51-9a03-91fe1c6d2d87",
+    "title": "644: You Have to Invert",
+    "link": "https://atp.fm/644",
+    "description": "Pre-show: G4 Doorbell Pro Bespoke 3D-printed mount Fancy-schmancy Marco-recommended Flashlight What betas are we running? Virtual Buddy 𝑥OS 26 \u0026 Version Numbers iOS Apps built against old SDKs get 19.0; new ones get 26.0 (via Gui Rambo) ProcessInfo /System/Library/CoreServices/SystemVersionCompat.plist Tahoe returns 16 when reqiured for compatibility and 26 otherwise (via Howard Oakley) SYSTEM_VERSION_COMPAT=1 = 16 null or SYSTEM_VERSION_COMPAT=0 = 26 Liquid Glass Adopting Liquid Glass Don’t Liquid Glass All the Things Not present in macOS? (via Steve Troughton-Smith) Liquid Glass clone in Flutter (via Dave Wood) Fluid Glass in React (via Francisco Tolmasky) macOS Tahoe Whimsy returns! (via Minimal Nerd) Squircle Jail Squircle ∆ (via Yannic Lung) Say Hello to the New Look of App Icons Squircle Jailbreak! (via Simon B Støvring) Speaking of rounded corners… Build an AppKit App with the New Design Chonky stoplights macOS 26 window control buttons are no longer smol (via Avi Drissman) -[NSTitledFrame sizeOfTitlebarButtons] Missing title bars Missing menu bar fixes GlassBar Boring Old Menu Bar Alignment Tahoe dialog Tahoe dialog, center-icon mockup Left-aligned title bar text images Finder icon controversy Stephen tried Icon Composer with solid results Michael Flarup D. Griffin Jones Icons next to menu items Previously in the HIG (via Stefan Habel) Today in the HIG Tabs contrast Terminal tabs Safari contrast Ridiculous pink in the toolbar in Safari Arrow cursor has been updated Discovery by Nathan Manceaux-Panot Hand cursor as well Floating elements \u0026 compartmentalization Screenshot We all float down here Mario Alberto Guzmán’s observations Steve Troughton-Smith’s observations Clipboard history Stephen Robles Overview video Future of Rosetta Ars Technica New disk image format: ASIF Howard Oakley write-up iOS 26 UI impressions New slider thumbs reveal new info (via Niki Tonsky) Video iPadOS 26 Open window limits (via Steve Troughton-Smith) Previously, in Mac OS X 10.0… Slideover is 💀 UI impressions Testing Liquid Glass UIDesignRequiresCompatibility Vision Pro 4K? (via Steve Troughton-Smith) Post-show: WWDC Favorites Apple’s transcription APIs John Voorhees’s write-up Yap Generable SwitchGlass Members-only ATP Overtime: Apple snubbed Gruber, so who got the nod? Interview roundup on MacRumors Joanna Stern 7-minute excerpt Full 24-minute interview Mark from Tom’s Guide \u0026 Lance from TechRadar Sponsored by: Hello Fresh: America’s #1 Meal Kit Squarespace: Save 10% off your first purchase of a website or domain using code atp. Become a member for ATP Overtime, ad-free episodes, member specials, and our early-release, unedited “bootleg” feed!",
+    "author": "ATP",
+    "published": "Thu, 19 Jun 2025 19:55:52 +0000",
+    "image": "https://atp.fm/audio/y2e1mvbyehixwdzj/atp644.mp3",
+    "source": "https://atp.fm/rss",
+    "categories": null
+  },
+  {
+    "id": "eab27985-1e96-40e4-8c19-4ecfb1b7bf58",
+    "title": "Mark Zuckerberg Already Knows Your Life. Now He Wants His AI to Run It",
+    "link": "https://gizmodo.com/mark-zuckerberg-already-knows-your-life-now-he-wants-his-ai-to-run-it-2000622496",
+    "description": "In a sweeping new plan, the Meta CEO is assembling an AI \"Avengers team\" to build not just a better chatbot, but a personalized intelligence that anticipates your needs, manages your schedule, and guides your decisions. Welcome to Life-as-a-Service.",
+    "author": "Luc Olinga",
+    "published": "Mon, 30 Jun 2025 23:51:13 +0000",
+    "image": "https://gizmodo.com/app/uploads/2025/01/GettyImages-2170596204.jpg",
+    "source": "https://gizmodo.com/rss",
+    "categories": [
+      "Artificial Intelligence",
+      "Facebook",
+      "generative artificial intelligence",
+      "Mark Zuckerberg"
+    ]
+  },
+  {
+    "id": "22b9eb23-2774-4fcb-b5ae-9f2899b80c0b",
+    "title": "Elon Says He’s Launching ‘the America Party’ to Compete With Democrats and Republicans If Budget Bill Passes",
+    "link": "https://gizmodo.com/elon-says-hes-launching-the-america-party-to-compete-with-democrats-and-republicans-if-budget-bill-passes-2000622406",
+    "description": "\"Our country needs an alternative to the Democrat-Republican uniparty,\" Musk tweeted.",
+    "author": "Matt Novak",
+    "published": "Mon, 30 Jun 2025 23:36:18 +0000",
+    "image": "https://gizmodo.com/app/uploads/2025/06/elon-musk-trump.jpg",
+    "source": "https://gizmodo.com/rss",
+    "categories": [
+      "Politics",
+      "Big Beautiful Bill",
+      "Donald Trump",
+      "Elon Musk"
+    ]
+  },
+  {
+    "id": "c1392ba3-6ff2-4d9d-821b-6bcee95267bf",
+    "title": "Why I’m Excited for Amazfit’s New 'Helio Strap' Fitness Tracker",
+    "link": "https://lifehacker.com/health/amazfits-helio-strap-garmin-whoop?utm_medium=RSS",
+    "description": "It’s $99 and does a lot of what Whoop does, but without a subscription.",
+    "author": "Beth Skwarecki",
+    "published": "Mon, 30 Jun 2025 22:00:00 +0000",
+    "image": "",
+    "source": "https://lifehacker.com/rss",
+    "categories": [
+      "Fitness"
+    ]
+  },
+  {
+    "id": "6152db5b-9896-4ecc-89bf-a52d125db6ed",
+    "title": "Someone Built an Ad Blocker for Real Life, and I Can't Wait to Try It",
+    "link": "https://lifehacker.com/tech/someone-built-an-ad-blocker-for-real-life-and-i-cant-wait-to-try-it?utm_medium=RSS",
+    "description": "Finally, a way to stop getting advertised to while you're walking the dog.",
+    "author": "Stephen Johnson",
+    "published": "Mon, 30 Jun 2025 22:00:00 +0000",
+    "image": "",
+    "source": "https://lifehacker.com/rss",
+    "categories": [
+      "Tech"
+    ]
+  },
+  {
+    "id": "4354633b-a031-4049-94f5-36623d25c433",
+    "title": "Xfinity using WiFi signals in your house to detect motion",
+    "link": "https://www.xfinity.com/support/articles/wifi-motion",
+    "description": "Comments",
+    "author": "",
+    "published": "Mon, 30 Jun 2025 19:03:50 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
+    "id": "c2e9ac4a-cbee-42cd-ae4c-e36cb1abf3b9",
+    "title": "The new skill in AI is not prompting, it's context engineering",
+    "link": "https://www.philschmid.de/context-engineering",
+    "description": "Comments",
+    "author": "",
+    "published": "Mon, 30 Jun 2025 20:53:55 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
+    "id": "628c2fa1-bc8e-4d36-bc5d-34a489743bc0",
+    "title": "I Let My Son Pick ANY Gaming Handheld for His Birthday",
+    "link": "https://www.youtube.com/watch?v=ftlVcrJpLMw",
+    "description": "",
+    "author": "Linus Tech Tips",
+    "published": "2025-06-30T19:27:11+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+    "categories": null
+  },
+  {
+    "id": "a567c742-a90d-4859-be19-4efcea6bcd19",
+    "title": "Apple’s not getting my money - DIY Macbook Storage Upgrade",
+    "link": "https://www.youtube.com/watch?v=M0ZmR6UU_8k",
+    "description": "",
+    "author": "Linus Tech Tips",
+    "published": "2025-06-28T16:56:05+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+    "categories": null
+  },
+  {
+    "id": "7c00f434-9bbb-4394-998e-6e65aaea78f7",
+    "title": "The Android Tablet Problem",
+    "link": "https://www.youtube.com/watch?v=alDhOLhbkbY",
+    "description": "",
+    "author": "Marques Brownlee",
+    "published": "2025-06-20T15:44:16+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+    "categories": null
+  },
+  {
+    "id": "dc8eec67-5c4c-4e64-a9a7-b75d60d85500",
+    "title": "$750 Flashlight vs Phone Flashlight!",
+    "link": "https://www.youtube.com/shorts/I3f_ucrnCUg",
+    "description": "",
+    "author": "Marques Brownlee",
+    "published": "2025-06-16T23:33:11+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+    "categories": null
+  },
+  {
+    "id": "11c6528b-18d9-4cda-b5d6-56d33a30bd6a",
+    "title": "To save Siri, Apple is reportedly looking to OpenAI or Anthropic",
+    "link": "https://mashable.com/article/to-save-siri-apple-reportedly-looking-to-anthropic-openai",
+    "description": "Apple is reportedly talking to OpenAI and Anthropic for using one of their LLMs to power Siri. This comes after numerous reports that the iPhone maker is struggling with the Siri revamp.",
+    "author": "",
+    "published": "Mon, 30 Jun 2025 23:07:44 +0000",
+    "image": "https://helios-i.mashable.com/imagery/articles/06BtiFKD8MEUdFIs8666mm0/hero-image.jpg",
+    "source": "http://feeds.mashable.com/Mashable",
+    "categories": null
+  },
+  {
+    "id": "03b9ef9c-751c-46d0-9186-673b4bb5f421",
+    "title": "Shopping hacks: how to level up your home with deep discount premium gear",
+    "link": "https://mashable.com/article/shopping-hacks-australia-refurbished-tech",
+    "description": "Upgrade your home for less with premium refurbished tech from eBay Australia, offering great deals and buyer protection.",
+    "author": "",
+    "published": "Mon, 30 Jun 2025 22:00:00 +0000",
+    "image": "https://helios-i.mashable.com/imagery/articles/00FKcOUu8Cc9j2mIzBiJIhU/hero-image.jpg",
+    "source": "http://feeds.mashable.com/Mashable",
+    "categories": null
+  },
+  {
+    "id": "083fdc5f-6e77-4019-8c0f-b4cca4de6f4c",
+    "title": "470: Terminated",
+    "link": "http://relay.fm/rocket/470",
+    "description": "On the final episode of Rocket, awards are dispensed and reflections are had. Thanks for an amazing 9 years!",
+    "author": "Christina Warren, Brianna Wu, and Simone De Rochefort",
+    "published": "Thu, 28 Dec 2023 21:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/rocketrelay/rocket470.mp3",
+    "source": "https://www.relay.fm/rocket/feed",
+    "categories": null
+  },
+  {
+    "id": "ff9ee2ad-5ecc-49e0-b63d-e087f720e5b6",
+    "title": "469: Very Large Online Problems",
+    "link": "http://relay.fm/rocket/469",
+    "description": "A major hack at Insomniac Games begs the question: why does this keep happening to Sony companies? Then, Apple may finally face patent consequences, as it halts sales of its newest Watches in the U.S.",
+    "author": "Christina Warren, Brianna Wu, and Simone De Rochefort",
+    "published": "Thu, 21 Dec 2023 16:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/rocketrelay/rocket469.mp3",
+    "source": "https://www.relay.fm/rocket/feed",
+    "categories": null
+  },
+  {
+    "id": "a01d5ace-d7da-4c62-b683-8e3152a0bfb8",
+    "title": "Norwegian Lotto Mistakenly Told Thousands They Were Filthy Rich After Math Error",
+    "link": "https://science.slashdot.org/story/25/06/30/2131215/norwegian-lotto-mistakenly-told-thousands-they-were-filthy-rich-after-math-error?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Thousands of Norwegians briefly believed they had won massive Eurojackpot prizes after a manual coding error by Norsk Tipping mistakenly multiplied winnings by 100 instead of dividing. The Register reports: Eurojackpot, a pan-European lottery launched in 2012, holds two draws per week, and its jackpots start at about $12 million with a rollover cap of $141 million. Norsk Tipping, Norway's Eurojackpot administrator, admitted on Friday that a \"manual error\" it its conversion process from Eurocents to Norwegian kroner multiplied amounts by 100 instead of dividing them. As a result, \"thousands\" of players were briefly shown jackpots far higher than their actual winnings before the mistake was caught, but no incorrect payouts were made. Norsk Tipping didn't disclose how large the false jackpots were, but math suggests the improper amounts were 10,000x times higher. Regardless, it seems like a lot of people thought they were big winners, based on what the company's now-former CEO, Tonje Sagstuen, said on Saturday. \"I have received many messages from people who had managed to make plans for holidays, buying an apartment or renovating before they realized that the amount was wrong,\" Sagstuen said in a statement. \"To them I can only say: Sorry!\" The incorrect prize amounts were visible on the Norsk Tipping website only briefly on Friday, but the CEO still resigned over the weekend following the incident. While one of the Norsk Tipping press releases regarding the incident described it as \"not a technical error,\" it still appears someone fat-fingered a bit of data entry. The company said it will nonetheless be investigating how such a mistake could have happened \"to prevent something similar from happening again.\" Read more of this story at Slashdot.",
+    "author": "BeauHD",
+    "published": "2025-07-01T00:45:00+00:00",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+    "categories": [
+      "math"
+    ]
+  },
+  {
+    "id": "4be2f98f-4af4-47bd-a3f0-4c9e8e99dbe8",
+    "title": "Windows User Base Shrinks By 400 Million In Three Years",
+    "link": "https://tech.slashdot.org/story/25/06/30/2123239/windows-user-base-shrinks-by-400-million-in-three-years?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "An anonymous reader quotes a report from Tom's Hardware: Microsoft EVP Yusuf Mehdi said in a blog post last week that Windows powers over a billion active devices globally. This might sound like a healthy number, but according to ZDNET, the Microsoft annual report for 2022 said that more than 1.4 billion devices were running Windows 10 or 11. Given that these documents contain material information and have allegedly been pored over by the tech giant's lawyers, we can safely assume that Windows' user base has been quietly shrinking in the past three years, shedding around 400 million users. This is probably why Microsoft has been aggressively pushing users to upgrade to Windows 11 after the previous version of the OS loses support -- so that its users would install the latest version of Windows on their current system (or get a new PC if their system is incapable of running the latest version). Although macOS is a threat to Windows, especially with the launch of Apple Silicon, we cannot say that those 400 million users all went and bought a MacBook. That's because, as far back as 2023, Mac sales have also been dropping, with Statista reporting the computer line, once holding more than 85% of the company revenue, now making up just 7.7%. The shrinking Windows user base can be attributed to a combination of factors -- a major one being the global move toward a mobile-first world, where smartphones and tablets are increasingly replacing traditional PCs for everyday computing needs. At the same time, Microsoft's strict hardware requirements for Windows 11 have alienated users with perfectly functional older machines, prompting some to stick with unsupported versions or abandon Windows entirely. Additionally, many users find Windows 11 less intuitive than its predecessor and are frustrated by Microsoft's push toward data collection and Apple-style design changes. Read more of this story at Slashdot.",
+    "author": "BeauHD",
+    "published": "2025-07-01T00:02:00+00:00",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+    "categories": [
+      "windows"
+    ]
+  },
+  {
+    "id": "7d32ed9e-92d9-4c12-9e33-968ca965b2a9",
+    "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
+    "link": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
+    "description": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content creation and making creators' lives easier.Why You Need These AI Tools in 2025Content creation has become more demanding than ever. Whether you're a social media influencer, marketer, or business owner, keeping up with the constant need for fresh, engaging content can be overwhelming. That's where AI tools come in – they're not just fancy tech, they're your secret weapon for creating better content faster.Let's Dive Into the Top 10 AI Tools for 20251. ChatGPT: Content Ideation and ScriptwritingWhat Makes It Special: ChatGPT has evolved into a comprehensive content creation assistant by combining advanced language understanding with specialized content optimization features. Its ability to generate, edit, and optimize content while maintaining brand voice and industry expertise makes it an essential tool for creators who need to produce high-quality written content at scale.Key Features:Advanced content generationSEO optimizationBrand voice maintenanceResearch capabilitiesMulti-format adaptationPricing:Free tier availablePlus: $20/monthPro: $200/monthPerfect For: Content writers, marketers, and businesses needing consistent, high-quality written content.2. Canva Magic Studio: Visual Design and Social Media Content CreationWhat Makes It Special: Canva Magic Studio has transformed the graphic design landscape by combining its user-friendly interface with powerful AI capabilities. The platform's ability to understand design principles and automatically generate on-brand content while maintaining professional aesthetics makes it accessible for beginners while providing enough sophistication for professional designers.Key Features:AI design generationBrand kit integrationMagic resizeAnimation toolsTemplate libraryPricing:Free tier availablePro: $6.50/user/monthTeams: $5/user/monthPerfect For: Small businesses, social media managers, and anyone needing quick, professional-looking designs.3. RunwayML : AI Video GeneratorWhat Makes It Special: RunwayML stands out as the ultimate video creation powerhouse by combining professional-grade effects with user-friendly AI technology. Its game-changing ability to manipulate video content – from changing weather effects with a text prompt to removing objects seamlessly in real-time – makes it indispensable for creators who want to produce high-quality video content without getting bogged down by technical complexities.Key Features:Advanced video generation \u0026 editingReal-time visual effectsSmart motion trackingGreen screen effects without actual green screenAI-powered editing suitePricing:Free tier availableStandard: $12/monthPro: $28/monthUnlimited: $76/monthEnterprise: Custom PricePerfect For: Video creators, YouTubers, and social media managers who want to create professional-quality videos quickly. 4. MidJourney: AI Art GenerationWhat Makes It Special: Midjourney V6 has redefined AI image generation by mastering the nuances of professional photography and artistic style. Its ability to understand and execute complex creative directions – from specific lighting conditions to branded visual styles – while maintaining consistent quality across multiple generations makes it the go-to tool for creators who need stunning visuals that align perfectly with their brand identity.Key Features:Photorealistic image generationAdvanced style controlQuick generation timeCommercial usage rightsStrong community supportPricing:Basic: $10/monthStandard: $30/monthPro: $60/monthMega: $120/monthPerfect For: Social media managers, digital marketers, and anyone needing professional-quality visuals consistently.5. Synthesia: AI Avatar-Based Video CreationWhat Makes It Special: Synthesia has transformed video creation by making it possible to create professional-looking AI avatar videos in minutes. Its ability to generate natural-looking presentations in multiple languages with synchronized lip movements and gestures makes it invaluable for creators who need to produce video content at scale without the traditional filming process.Key Features:AI avatar Video creationMulti-language supportCustom avatar optionsProfessional templatesScript to video conversionPricing:Free tier availableStarter: $18/monthCreator: $64/monthEnterprise: Custom pricingPerfect For: Businesses and educators creating training videos, presentations, and multilingual content.6. Descript: Podcast and Video Editing with Transcription FeaturesWhat Makes It Special: Descript has transformed audio and video editing by making it as simple as editing a text document. Its innovative approach to media editing, combined with powerful AI features like automatic transcription and filler word removal, makes professional-quality editing accessible to creators of all skill levels.Key Features:Text-based video editingAutomatic transcriptionFiller word removalScreen recordingCollaborative editingPricing:Hobbyist: $12/monthCreator: $24/monthBusiness: $40/monthEnterprise: Custom pricingPerfect For: Podcasters, video creators, and teams needing efficient audio/video editing solutions.7. ElevenLabs: AI VOICE GENERATIONWhat Makes It Special: ElevenLabs has revolutionized voice synthesis by achieving unprecedented levels of natural speech quality and emotional expression. Its ability to clone voices accurately and generate multiple languages with proper accents and inflections makes it the ultimate tool for creators who need professional-quality voiceovers without the traditional recording process or voice actor limitations.Key Features:Ultra-realistic voice synthesisVoice cloning capabilityMulti-language supportEmotion controlReal-time generationPricing:Free tier availableStarter: $5/monthCreator: $11/monthPro: $99/monthScale: $330/monthBusiness: $1321/monthEnterprise: Custom pricingPerfect For: Podcasters, video creators, and content creators needing professional voiceovers in multiple languages.8. Tribescaler: Viral Content and Headline OptimizationWhat Makes It Special: Tribescaler brings a scientific approach to viral content creation by combining trend analysis with content optimization. Its powerful AI engine analyzes successful content patterns across platforms and provides actionable insights to help creators craft content that's more likely to go viral, while maintaining authenticity and audience engagement.Key Features:Viral content predictionTrend analysisContent optimizationPerformance trackingMulti-platform schedulingPricing:Free tier availablePro: $49/monthPerfect For: Content creators and social media managers focused on maximizing reach and engagement.9. Clickable: Automated Ad Creation and OptimizationWhat Makes It Special: Clickable revolutionizes ad creation by seamlessly blending data-driven insights with creative automation. Its ability to analyze brand assets and automatically generate platform-optimized ad variations while maintaining brand voice transforms the tedious process of ad creation into a streamlined, results-driven workflow that consistently delivers high-performing content.Key Features:Automated ad creationMulti-platform optimizationBuilt-in A/B testingPerformance analyticsTemplate libraryPerfect For: Digital marketers and businesses looking to scale their ad production efficiently.10. Copy AI What Makes It Special: CopyAI has established itself as a powerhouse in AI-powered copywriting by offering specialized content generation for various marketing formats. Its sophisticated understanding of marketing psychology and brand voice, combined with its ability to generate compelling copy across multiple formats and industries, makes it invaluable for marketers and content creators who need to produce engaging, conversion-focused content at scale.Key Features:Advanced marketing copy generationMultiple content type templatesBrand voice customizationMultilingual supportA/B testing variationsPricing:Free tier availablePro: $49/monthAdvanced: $249/monthEnterprise: Custom pricingPerfect For: Marketing teams, copywriters, and businesses needing high-converting marketing copy across multiple channels.ConclusionThe AI tools listed here are revolutionizing the content creation landscape in 2025, making it easier than ever to produce high-quality, engaging, and impactful content. By integrating these tools into your workflow, you can save time, unleash your creativity, and achieve better results.AI doesn't replace creativity; it amplifies it. As a content creator, your unique voice and vision are irreplaceable. These tools serve as enablers, helping you focus on what you do best—creating. Explore, experiment, and innovate. The future of content creation is here, and it's brimming with possibilities.Embrace these technologies, stay ahead of the curve, and watch your creative potential soar. The only limit is your imagination!Note: All features and pricing information are subject to change. Please verify current details with the respective platforms, Also this article contain affiliate links which means we make a small comission if yo buy any premium plan from our linksPricing updated on 01/02/ 2025",
+    "author": "Unknown",
+    "published": "Thu, 02 Jan 2025 09:26:00 +0000",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge5QgwLKWbavTUhIedQLI79z5BGD4h0ZoH4YMK6bGBL6fY4Je8R3GZurMZaJmtYirFS6pS-GgZD3xFAqfln8w8faEY2iDehndQNeez57DoiDsgYFJrIwMOLBjzcZiOJrqYDktm6pmRkwtprJChag0yQoeEZx1Pa_eKnt3kKzz69f-FSPWu_JXQxFq5Z8WZ/s16000/Blue%20Purple%20Futuristic%20Modern%203D%20Tech%20Company%20Business%20Presentation.jpg",
+    "source": "http://feeds.feedburner.com/TechCrunch",
+    "categories": null
+  },
+  {
+    "id": "9d873617-f36a-4f1e-afea-d17e0e089552",
+    "title": "LimeWire AI Studio Review 2023: Details, Pricing \u0026 Features",
+    "link": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
+    "description": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude of existing AI tools but also brings a fresh approach to content generation. LimeWire not only empowers users to create AI content but also provides creators with creative ways to share and monetize their creations.As we explore LimeWire, our aim is to uncover its features, benefits for creators, and the exciting possibilities it offers for AI content generation. This platform presents an opportunity for users to harness the power of AI in image creation, all while enjoying the advantages of a free and accessible service.Let's unravel the distinctive features that set LimeWire apart in the dynamic landscape of AI-powered tools, understanding how creators can leverage its capabilities to craft unique and engaging AI-generated images.IntroductionLimeWire, a name once associated with the notorious file-sharing tool from the 2000s, has undergone a significant transformation. The LimeWire we discuss today is not the file-sharing application of the past but has re-emerged as an entirely new entity—a cutting-edge AI content publishing platform.This revamped LimeWire invites users to register and unleash their creativity by crafting original AI content, which can then be shared and showcased on the LimeWire Studio. Notably, even acclaimed artists and musicians, such as Deadmau5, Soulja Boy, and Sean Kingston, have embraced this platform to publish their content in the form of NFT music, videos, and images.Beyond providing a space for content creation and sharing, LimeWire introduces monetization models to empower users to earn revenue from their creations. This includes avenues such as earning ad revenue and participating in the burgeoning market of Non-Fungible Tokens (NFTs). As we delve further, we'll explore these monetization strategies in more detail to provide a comprehensive understanding of LimeWire's innovative approach to content creation and distribution.LimeWire Studio welcomes content creators into its fold, providing a space to craft personalized AI-focused content for sharing with fans and followers. Within this creative hub, every piece of content generated becomes not just a creation but a unique asset—ownable and tradable. Fans have the opportunity to subscribe to creators' pages, immersing themselves in the creative journey and gaining ownership of digital collectibles that hold tradeable value within the LimeWire community. Notably, creators earn a 2.5% royalty each time their content is traded, adding a rewarding element to the creative process.The platform's flexibility is evident in its content publication options. Creators can choose to share their work freely with the public or opt for a premium subscription model, granting exclusive access to specialized content for subscribers.LimeWire AI StudioAs of the present moment, LimeWire focuses on AI Image Generation, offering a spectrum of creative possibilities to its user base. The platform, however, has ambitious plans on the horizon, aiming to broaden its offerings by introducing AI music and video generation tools in the near future. This strategic expansion promises creators even more avenues for expression and engagement with their audience, positioning LimeWire Studio as a dynamic and evolving platform within the realm of AI-powered content creation.AI Image Generation ToolsThe LimeWire AI image generation tool presents a versatile platform for both the creation and editing of images. Supporting advanced models such as Stable Diffusion 2.1, Stable Diffusion XL, and DALL-E 2, LimeWire offers a sophisticated toolkit for users to delve into the realm of generative AI art.Much like other tools in the generative AI landscape, LimeWire provides a range of options catering to various levels of complexity in image creation. Users can initiate the creative process with prompts as simple as a few words or opt for more intricate instructions, tailoring the output to their artistic vision. What sets LimeWire apart is its seamless integration of different AI models and design styles. Users have the flexibility to effortlessly switch between various AI models, exploring diverse design styles such as cinematic, digital art, pixel art, anime, analog film, and more. Each style imparts a distinctive visual identity to the generated AI art, enabling users to explore a broad spectrum of creative possibilities.The platform also offers additional features, including samplers, allowing users to fine-tune the quality and detail levels of their creations. Customization options and prompt guidance further enhance the user experience, providing a user-friendly interface for both novice and experienced creators. if (typeof atAsyncOptions !== 'object') var atAsyncOptions = []; atAsyncOptions.push({ 'key': '504b591a28719b1270e09aa4045e24ab', 'format': 'js', 'async': true, 'container': 'atContainer-504b591a28719b1270e09aa4045e24ab', 'params' : {} }); var script = document.createElement('script'); script.type = \"text/javascript\"; script.async = true; script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/504b591a28719b1270e09aa4045e24ab/invoke.js'; document.getElementsByTagName('head')[0].appendChild(script); Excitingly, LimeWire is actively developing its proprietary AI model, signaling ongoing innovation and enhancements to its image generation capabilities. This upcoming addition holds the promise of further expanding the creative horizons for LimeWire users, making it an evolving and dynamic platform within the landscape of AI-driven art and image creation.Sign Up Now To Get Free CreditsAutomatically Mint Your Content As NFTsUpon completing your creative endeavor on LimeWire, the platform allows you the option to publish your content. An intriguing feature follows this step: LimeWire automates the process of minting your creation as a Non-Fungible Token (NFT), utilizing either the Polygon or Algorand blockchain. This transformative step imbues your artwork with a unique digital signature, securing its authenticity and ownership in the decentralized realm.Creators on LimeWire hold the power to decide the accessibility of their NFT creations. By opting for a public release, the content becomes discoverable by anyone, fostering a space for engagement and interaction. Furthermore, this choice opens the avenue for enthusiasts to trade the NFTs, adding a layer of community involvement to the artistic journey.Alternatively, LimeWire acknowledges the importance of exclusivity. Creators can choose to share their posts exclusively with their premium subscribers. In doing so, the content remains a special offering solely for dedicated fans, creating an intimate and personalized experience within the LimeWire community. This flexibility in sharing options emphasizes LimeWire's commitment to empowering creators with choices in how they connect with their audience and distribute their digital creations.After creating your content, you can choose to publish the content. It will automatically mint your creation as an NFT on the Polygon or Algorand blockchain. You can also choose whether to make it public or subscriber-only.If you make it public, anyone can discover your content and even trade the NFTs. If you choose to share the post only with your premium subscribers, it will be exclusive only to your fans.Earn Revenue From Your ContentAdditionally, you can earn ad revenue from your content creations as well.When you publish content on LimeWire, you will receive 70% of all ad revenue from other users who view your images, music, and videos on the platform.This revenue model will be much more beneficial to designers. You can experiment with the AI image and content generation tools and share your creations while earning a small income on the side.LMWR TokensThe revenue you earn from your creations will come in the form of LMWR tokens, LimeWire’s own cryptocurrency.Your earnings will be paid every month in LMWR, which you can then trade on many popular crypto exchange platforms like Kraken, ByBit, and UniSwap.You can also use your LMWR tokens to pay for prompts when using LimeWire generative AI tools.Pricing PlansYou can sign up to LimeWire to use its AI tools for free. You will receive 10 credits to use and generate up to 20 AI images per day. You will also receive 50% of the ad revenue share. However, you will get more benefits with premium plans.Basic plan: For $9.99 per month, you will get 1,000 credits per month, up to 2 ,000 image generations, early access to new AI models, and 50% ad revenue shareAdvanced plan: For $29 per month, you will get 3750 credits per month, up to 7500 image generations, early access to new AI models, and 60% ad revenue sharePro plan: For $49 per month, you will get 5,000 credits per month, up to 10,000 image generations, early access to new AI models, and 70% ad revenue share if (typeof atAsyncOptions !== 'object') var atAsyncOptions = []; atAsyncOptions.push({ 'key': '2060cf2f0491455d459b6b7a0ee275f3', 'format': 'js', 'async': true, 'container': 'atContainer-2060cf2f0491455d459b6b7a0ee275f3', 'params' : {} }); var script = document.createElement('script'); script.type = \"text/javascript\"; script.async = true; script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/2060cf2f0491455d459b6b7a0ee275f3/invoke.js'; document.getElementsByTagName('head')[0].appendChild(script); Pro Plus plan: For $99 per month, you will get 11,250 credits per month, up to 2 2,500 image generations, early access to new AI models, and 70% ad revenue shareWith all premium plans, you will receive a Pro profile badge, full creation history, faster image generation, and no ads.Sign Up Now To Get Free CreditsConclusionIn conclusion, LimeWire emerges as a democratizing force in the creative landscape, providing an inclusive platform where anyone can unleash their artistic potential and effortlessly share their work. With the integration of AI, LimeWire eliminates traditional barriers, empowering designers, musicians, and artists to publish their creations and earn revenue with just a few clicks.The ongoing commitment of LimeWire to innovation is evident in its plans to enhance generative AI tools with new features and models. The upcoming expansion to include music and video generation tools holds the promise of unlocking even more possibilities for creators. It sparks anticipation about the diverse and innovative ways in which artists will leverage these tools to produce and publish their own unique creations.For those eager to explore, LimeWire's AI tools are readily accessible for free, providing an opportunity to experiment and delve into the world of generative art. As LimeWire continues to evolve, creators are encouraged to stay tuned for the launch of its forthcoming AI music and video generation tools, promising a future brimming with creative potential and endless artistic exploration",
+    "author": "Unknown",
+    "published": "Tue, 12 Dec 2023 16:10:00 +0000",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjpMlV4umM2-ZY3vAwynTzCWwbk5_pjVyGQqGGftHzeOmpTyc4aYApxfanU29DyPfjUZz5ZhhDojKe8mpYUG6tcEezDQrg1NTDr8XOBequWD3LOpUKpea4AiaB5mhPpYZSxtk2lRfHnCSNhyphenhyphenXm53l80cTMNA_KtCMfDd9PQNzYWp6A4ylQJtUy_-7GpWsF/w640-h354/limewire-studio.jpg",
+    "source": "http://feeds.feedburner.com/TechCrunch",
+    "categories": [
+      "Ai"
+    ]
+  },
+  {
+    "id": "89b86449-7096-4b61-b323-2739c16e2300",
+    "title": "Find July 4th fireworks with Google Maps' top spots and tips",
+    "link": "https://blog.google/products/maps/july-4th-fireworks-top-spots-tips-2025/",
+    "description": "The Fourth of July is right around the corner, so take a look below at some of the most popular places on Google Maps for watching firework shows across the U.S. Whether…",
+    "author": "",
+    "published": "Mon, 30 Jun 2025 13:45:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Popular_Locations_for_Watching_.max-600x600.format-webp.webp",
+    "source": "https://www.blog.google/rss/",
+    "categories": [
+      "Maps"
+    ]
+  },
+  {
+    "id": "8e2a5674-935f-4022-a3b6-c6b4ac433de7",
+    "title": "Our latest bet on a fusion-powered future",
+    "link": "https://blog.google/outreach-initiatives/sustainability/our-latest-bet-on-a-fusion-powered-future/",
+    "description": "Our new agreement is designed to accelerate the development of fusion power.",
+    "author": "Michael TerrellHead of Advanced Energy",
+    "published": "Mon, 30 Jun 2025 13:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CFS_Thumbnail_M.max-600x600.format-webp.webp",
+    "source": "https://www.blog.google/rss/",
+    "categories": [
+      "Sustainability"
+    ]
+  },
+  {
+    "id": "40012ac7-15e5-4d62-8927-b0ca1dcaafd6",
+    "title": "The race to make AI as multilingual as Europe",
+    "link": "https://thenextweb.com/news/making-multilingual-ai-in-europe",
+    "description": "The European Union has 24 official languages and dozens more unofficial ones spoken across the continent. If you add in the European countries outside the union, then that brings at least a dozen more into the mix. Add dialects, endangered languages, and languages brought by migrants to Europe, and you end up with hundreds of languages. One thing many of us in technology could agree on is that the US dominates — and that extends to online languages. There are many reasons for this, mostly due to American institutions, standards bodies, and companies defining how computers, their operating systems, and…This story continues at The Next Web",
+    "author": "Chris Chinchilla",
+    "published": "Mon, 30 Jun 2025 06:00:02 +0000",
+    "image": "https://img-cdn.tnwcdn.com/image?fit=796%2C417\u0026url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F06%2FUntitled-design-2-1.jpg\u0026signature=b28633b17d77cf7bc90ea30f085ae32b",
+    "source": "https://thenextweb.com/feed/",
+    "categories": [
+      "Insider",
+      "Deep tech",
+      "Startups and technology",
+      "Next Featured",
+      "Corporates and innovation"
+    ]
+  },
+  {
+    "id": "2455268c-e668-4464-b419-e0b63c4d9fa5",
+    "title": "Switzerland leads the world in deep tech investment, report finds",
+    "link": "https://thenextweb.com/news/switzerland-leads-the-world-in-deep-tech-investment-report-finds",
+    "description": "Switzerland pours more of its venture capital into deep tech than any other country, according to new data. The Swiss Deep Tech Report 2025 found that 60% of all Swiss venture funding between 2019 and 2025 went to deep tech — far surpassing any other nation. The capital represents a big bet on cutting-edge science developing into global businesses.   Startups in the sector pulled in $1.9bn in funding last year, up from $1.4bn in 2023, and are on track to hit $2.3bn in 2025. The report was produced by the Deep Tech Nation Switzerland Foundation, a non-profit backed by telecom…This story continues at The Next Web",
+    "author": "Siôn Geschwindt",
+    "published": "Fri, 27 Jun 2025 12:33:13 +0000",
+    "image": "https://img-cdn.tnwcdn.com/image?fit=796%2C417\u0026url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F06%2Fswitzerlandeep-tech-report.jpg\u0026signature=592d95ba8e553e0787b5b7f5e12215e7",
+    "source": "https://thenextweb.com/feed/",
+    "categories": [
+      "Insider",
+      "Ecosystems"
+    ]
+  },
+  {
+    "id": "8263d916-5932-43ac-afde-f3939b5490b4",
+    "title": "Microsoft is saying hello to the Black Screen of Death error message instead. #vergecast",
+    "link": "https://www.youtube.com/shorts/yPQh9Md7omk",
+    "description": "",
+    "author": "The Verge",
+    "published": "2025-06-29T14:01:33+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+    "categories": null
+  },
+  {
+    "id": "ee78de7b-dc10-4067-814b-eb0a391b0745",
+    "title": "Now the T1 Phone 8002 is ‘designed with American values in mind,’ which is… different. #vergecast",
+    "link": "https://www.youtube.com/shorts/75hPAlXBFM4",
+    "description": "",
+    "author": "The Verge",
+    "published": "2025-06-28T14:00:12+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+    "categories": null
+  },
+  {
+    "id": "8637270a-5e57-4aa4-a348-bbc712d6cbc0",
+    "title": "Summer Break: Week of June 30",
+    "link": "https://stratechery.com/2025/summer-break-week-of-june-30/",
+    "description": "Stratechery is on summer break the week of June 30. There will be no Weekly Article or Updates. The next Update will be on Monday, July 7. Dithering, Sharp Tech, and Sharp China will also return the week of July 7. Greatest of All Talk and Asianometry will continue to publish. The full Stratechery posting […]",
+    "author": "Ben Thompson",
+    "published": "Mon, 30 Jun 2025 10:00:00 +0000",
+    "image": "",
+    "source": "http://stratechery.com/feed/",
+    "categories": [
+      "Announcements"
+    ]
+  },
+  {
+    "id": "b8c475a8-7aec-422b-9421-cb7418562852",
+    "title": "2025.26: Two Years Into a New Era for Big Tech",
+    "link": "https://stratechery.com/2025/two-years-into-a-new-era-for-big-tech/",
+    "description": "The best Stratechery content from the week of June 23, 2025, including AI and the Big Five, a compelling ruling on LLMs and the Fair Use Doctrine, and NBA salaries in tech (and the actual NBA).",
+    "author": "Ben Thompson",
+    "published": "Fri, 27 Jun 2025 10:00:00 +0000",
+    "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2025/06/Big_Tech_companies.png?resize=1700%2C507\u0026ssl=1",
+    "source": "http://stratechery.com/feed/",
+    "categories": [
+      "This Week in Stratechery"
+    ]
+  },
+  {
+    "id": "50f39938-d3ea-4dbd-9131-4e203e436d42",
+    "title": "Steam can now show you how much frame generation changes your games",
+    "link": "https://www.theverge.com/news/695543/valve-steam-performance-monitor-frame-generation-frame-rates",
+    "description": "Valve has added a new performance monitor to Steam that can help you understand why a game may or may not be running smoothly. Not only does it break out a game’s overall frame rate, it can tell you how many of those frames were generated by techniques  like Nvidia’s DLSS or AMD’s FSR, according […]",
+    "author": "Jay Peters",
+    "published": "2025-06-30T19:35:06-04:00",
+    "image": "",
+    "source": "https://www.theverge.com/rss/index.xml",
+    "categories": [
+      "Entertainment",
+      "Gaming",
+      "News",
+      "PC Gaming"
+    ]
+  },
+  {
+    "id": "067b4893-a962-428e-8ec3-57d879c47a99",
+    "title": "AT\u0026T says ‘our network’ wasn’t to blame for Trump’s troubled conference call",
+    "link": "https://www.theverge.com/news/695536/att-trump-network-conference-call",
+    "description": "AT\u0026T believes its network wasn’t at fault for a conference call where President Donald Trump accused the company of being “totally unable to make their equipment work properly.” Instead, AT\u0026T is blaming an unnamed “conference call platform.”  Earlier on Monday, President Donald Trump complained on Truth Social about apparent issues with AT\u0026T’s network during a […]",
+    "author": "Jay Peters",
+    "published": "2025-06-30T19:27:56-04:00",
+    "image": "",
+    "source": "https://www.theverge.com/rss/index.xml",
+    "categories": [
+      "AT\u0026T",
+      "Mobile",
+      "News",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
+    "id": "3cdb2dd0-bcb4-4830-8028-9555eece105c",
+    "title": "TWiT 1038: Wu Wei Meets Wu Tang - Microsoft Making Moves in Gaming",
+    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1038",
+    "description": "The panel discusses the current gaming environment More on Apple's Trust-Eroding 'F1 The Movie' Wallet Ad Low-income broadband fund can keep running, says Supreme Court The Supreme Court just upended internet law, and I have questions Meta and Anthropic prevailed in copyright suits against them, but the rulings have major caveats and don't address when AI output might infringe copyright ICE Is Using a New Facial Recognition App to Identify People, Leaked Emails Show Meta says it's winning the talent war with OpenAI Android phones could soon warn you of \"Stingrays\" snooping on your communications Tesla Ordered to Stop 'Deceptive Practices' on Cars' Self-Driving Capabilities in France or Face Thousands in Fines Trump's 'big beautiful bill' could mean slower Wi-Fi for you Future of States' AI Laws Hinges on Senate Rules for Tax Bill The NO FAKES Act Has Changed – and It's So Much Worse Host: Leo Laporte Guests: Dan Patterson, Patrick Beja, and Daniel Rubino Download or subscribe to This Week in Tech at https://twit.tv/shows/this-week-in-tech Join Club TWiT for Ad-Free Podcasts! Support what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: https://twit.tv/clubtwit Sponsors: NetSuite.com/TWIT shopify.com/twit zscaler.com/security outsystems.com/twit expressvpn.com/twit",
+    "author": "TWiT",
+    "published": "Sun, 29 Jun 2025 19:01:59 PDT",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1038/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1038.mp3",
+    "source": "https://feeds.twit.tv/twit.xml",
+    "categories": [
+      "News",
+      "Tech News",
+      "TWiT",
+      " This Week in Tech",
+      " Leo Laporte",
+      " gaming microsoft",
+      " apple f1 movie",
+      " supreme court",
+      " Meta",
+      " Anthropic",
+      " llama",
+      " ice",
+      " palantir",
+      " facial recognition",
+      " Android",
+      " Google",
+      " stingrays",
+      " tesla",
+      " self-driving",
+      " trump",
+      " big beautiful bill",
+      " ai",
+      " no fakes act"
+    ]
+  },
+  {
+    "id": "45a253b5-01fb-46c8-aaf9-a6acd5a2649f",
+    "title": "TWiT 1037: Teach Amanda Fish - AI Backlash",
+    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1037",
+    "description": "Pope Leo makes AI's threat to humanity a signature issue Why We Don't Talk About Job Destruction Israel-Tied Predatory Sparrow Hackers Are Waging Cyberwar on Iran's Financial System Iran restricts internet access to ward off Israeli cyberattacks The AI Slop Fight Between Iran and Israel It's Official: Streaming Is Now the King of TV AI search finds publishers starved of referral traffic Mastodon updates its terms to prohibit AI model training For the first time, social media overtakes TV as Americans' top news source Trump extends TikTok ban deadline for a third time The People Search Sites in the Suspected Minnesota Killer's Notebook Are a Failure of Congress 40,000 Cameras, From Bird Feeders to Baby Monitors, Exposed to the Internet Pavel Durov on his arrest in France, Macron, Russia, the FBI — and the fight for Telegram WhatsApp's rollout of ads will change the app forever Here's your first look at the rebooted Digg Host: Leo Laporte Guests: Jason Calacanis, Amanda Silberling, and Fr. Robert Ballecer, SJ Download or subscribe to This Week in Tech at https://twit.tv/shows/this-week-in-tech Join Club TWiT for Ad-Free Podcasts! Support what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: https://twit.tv/clubtwit Sponsors: spaceship.com/twit uscloud.com canary.tools/twit - use code: TWIT storyblok.com/twittv-25 ZipRecruiter.com/Twit",
+    "author": "TWiT",
+    "published": "Sun, 22 Jun 2025 21:03:57 PDT",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1037/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1037.mp3",
+    "source": "https://feeds.twit.tv/twit.xml",
+    "categories": [
+      "News",
+      "Tech News",
+      "TWiT",
+      " This Week in Tech",
+      " Leo Laporte",
+      " amanda silberling",
+      " Padre",
+      " Robert Ballecer",
+      " jason calacanis",
+      " Pope",
+      " ai",
+      " Israel",
+      " Iran",
+      " YouTube",
+      " Mastodon",
+      " tiktok",
+      " minnesotta",
+      " data brokers",
+      " pavel durov",
+      " telegram",
+      " whatsapp",
+      " Digg"
+    ]
+  },
+  {
+    "id": "9b300e78-98be-4efb-8a35-90b15a91f047",
+    "title": "They Did It Again…(SOUND ON 🔉)",
+    "link": "https://www.youtube.com/shorts/4CsajcFGid4",
+    "description": "",
+    "author": "Unbox Therapy",
+    "published": "2025-06-30T16:46:49+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
+    "categories": null
+  },
+  {
+    "id": "a911ef12-5149-4437-b26a-232fa043278a",
+    "title": "My New ROBOTIC Legs 🦿",
+    "link": "https://www.youtube.com/shorts/VDPoEYQ4pOY",
+    "description": "",
+    "author": "Unbox Therapy",
+    "published": "2025-06-29T15:36:00+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
+    "categories": null
+  }
+]

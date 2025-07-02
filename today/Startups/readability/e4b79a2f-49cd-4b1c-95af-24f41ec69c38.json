@@ -1,0 +1,21 @@
+{
+  "id": "e4b79a2f-49cd-4b1c-95af-24f41ec69c38",
+  "title": "Dittofeed",
+  "link": "https://www.producthunt.com/posts/dittofeed-2",
+  "description": "",
+  "author": "Chandler Craig",
+  "published": "2025-06-30T10:29:26-07:00",
+  "source": "https://www.producthunt.com/feed",
+  "categories": null,
+  "byline": "Max Gurewitz",
+  "length": 233,
+  "excerpt": "Dittofeed is the first developer-focused, open-source alternative to platforms like Klaviyo, Iterable, and Customer.io. Automate transactional and marketing messages to users across email, SMS, mobile push, WhatsApp, Slack, and more.",
+  "siteName": "Product Hunt",
+  "favicon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format",
+  "text": "Dittofeed is the first developer-focused, open-source alternative to platforms like Klaviyo, Iterable, and Customer.io. Automate transactional and marketing messages to users across email, SMS, mobile push, WhatsApp, Slack, and more.",
+  "image": "https://ph-files.imgix.net/a7136398-7e73-484f-af45-f3df44f2c4de.png?auto=format\u0026fit=crop\u0026frame=1\u0026h=512\u0026w=1024",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv data-sentry-component=\"TruncatableContent\" data-sentry-source-file=\"index.tsx\"\u003e\u003cp\u003eDittofeed is the first developer-focused, open-source alternative to platforms like Klaviyo, Iterable, and Customer.io. Automate transactional and marketing messages to users across email, SMS, mobile push, WhatsApp, Slack, and more.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
