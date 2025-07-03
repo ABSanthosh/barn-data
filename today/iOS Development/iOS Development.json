@@ -1,0 +1,389 @@
+[
+  {
+    "id": "789ed27a-ef06-487a-b499-e5cb1b18f277",
+    "title": "Migrating Day One Journal Entries to Obsidian",
+    "link": "https://tyler.io/2025/06/migrating-day-one-journal-entries-to-obsidian/",
+    "description": "I recently moved away from Day One and am now using Obsidian to keep my daily journal. To make that possible, I needed to migrate over a decade’s worth of journal entries into an Obsidian-friendly format. When I first started using Day One, I wrote about it on this blog and said one of the requirements needed to be ... Read more",
+    "author": "Tyler",
+    "published": "Mon, 23 Jun 2025 19:15:14 +0000",
+    "image": "https://cdn.tyler.io/wp-content/uploads/2025/06/458043133-88023a33-3d05-4b0a-9b7b-7a1b557f71e9-1024x726.png",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "942b0d78-11d4-4416-b379-18a091f0eaaa",
+    "title": "All Your Brand Are Belong To Us",
+    "link": "https://tyler.io/2025/06/all-your-brand-are-belong-to-us/",
+    "description": "The last iOS redesign, iOS 7 in 2013, laid the foundation for a neutral, nearly agnostic visual language that third-party developers and companies could build their own brand and corporate design on top of. It was such a clean slate that, twelve years later, most major apps look similar — if not identical — between ... Read more",
+    "author": "Tyler",
+    "published": "Thu, 12 Jun 2025 17:30:30 +0000",
+    "image": "",
+    "source": "https://tyler.io/feed/",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "fb08fb0b-65db-4193-9ab1-c89450bd14c8",
+    "title": "How to setup a Swift Package Registry in Artifactory",
+    "link": "https://albertodebortoli.com/2025/06/06/how-to-setup-a-swift-package-registry-in-artifactory/",
+    "description": "A quick guide to setting up a Swift Package Registry with Artifactory to speed up builds and streamline dependency management.",
+    "author": "Alberto De Bortoli",
+    "published": "Fri, 06 Jun 2025 08:00:00 GMT",
+    "image": "https://albertodebortoli.com/content/images/2025/06/Gemini_Generated_Image_p2p1t1p2p1t1p2p1.jpeg",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": [
+      "swift",
+      "registry",
+      "artifactory"
+    ]
+  },
+  {
+    "id": "f6fd72ca-7167-4dc5-9df5-8bfce7080624",
+    "title": "Scalable Continuous Integration for iOS",
+    "link": "https://albertodebortoli.com/2024/01/03/scalable-continuous-integration-for-ios/",
+    "description": "How Just Eat Takeaway.com leverage AWS, Packer, Terraform and GitHub Actions to manage a CI stack of macOS runners.",
+    "author": "Alberto De Bortoli",
+    "published": "Wed, 03 Jan 2024 22:26:50 GMT",
+    "image": "https://albertodebortoli.com/content/images/2024/01/1_SaGE67XSSeflkTKknVOHbg.webp",
+    "source": "https://albertodebortoli.com/rss/",
+    "categories": [
+      "CI",
+      "mobile",
+      "iOS",
+      "AWS",
+      "macOS"
+    ]
+  },
+  {
+    "id": "ca7d0b2a-4cf6-4cd4-8532-ae1a45a6bf7f",
+    "title": "From Engineer to Manager: A Year of Growth and Transformation",
+    "link": "https://benoitpasquier.com/2023/06/from-engineer-to-manager-a-year-of-growth-and-transformation/",
+    "description": "It feels like it was yesterday when I became an engineering manager but it has been almost a year. I want to take this time to reflect on the challenges and learnings from this journey.",
+    "author": "",
+    "published": "Sun, 11 Jun 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "c25b1c8d-f9bd-4c33-91f0-30d661c07417",
+    "title": "Things to know before becoming an Engineering Manager",
+    "link": "https://benoitpasquier.com/2023/02/things-to-know-before-becoming-an-engineering-manager/",
+    "description": "The journey from individual contributor to engineering manager isn’t always straightforward. Today, I’ll share what it means to become an engineering manager from my point of view, and a few important points to be aware of before making this transition.",
+    "author": "",
+    "published": "Sun, 19 Feb 2023 06:00:00 +0000",
+    "image": "",
+    "source": "https://benoitpasquier.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "d68d5b3f-7b9c-4103-8eb3-84c3e5a64c39",
+    "title": "You Should Feed Ducks The Good Bread",
+    "link": "https://fabisevi.ch/2025/05/12/you-should-feed-ducks-the-good-bread/",
+    "description": "Colleen and I were binge-watching Gossip Girl last winter, and there are a few scenes where a stressed and irate Blair Waldorf wanders over to Central Park to feed the ducks. I told Colleen, \"that sounds soothing — we should do that when the weather gets better\". And then, as I’m wont to do, I promptly forgot. But Colleen takes note of moments like that, and a few months later she reminded me: we should actually go feed some ducks. That’s how I found myself in Central Park last weekend, feeding ducks. It was the first beautiful day of spring in New York — the kind of day New Yorkers wait for, when everyone pours out to enjoy sunlight finally breaking through after a long dark winter. We had a picnic, strolled through the park, wandered amidst thousands of New Yorkers — and of course, we fed the ducks. My wife (who I should preface is an extremely kind, caring, and loving person) and I got into a small debate over what kind of bread to feed the ducks. I insisted on buying them a nice loaf, and she felt it was unnecessary — the ducks would happily take our scraps. I argued that buying a good loaf cost us very little but could potentially make their day. Heck, it could even possibly be the best meal they ever have. She replied that there’s no way to know if they’d even notice the difference — to them, it might just be one carb versus another. Three Philosphers Interject I bought the dang bread, and she didn’t mind. I spent the whole afternoon thinking about that moment, and why it meant so much to me. In the end, I came back to three philosophers and their philosophies.",
+    "author": "Joe Fabisevich",
+    "published": "Mon, 12 May 2025 00:00:00 GMT",
+    "image": "",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "ee42fbfa-c705-427f-ad36-2b90b9756db4",
+    "title": "A Trick For Opening Magic Links in Your RSS Reader",
+    "link": "https://fabisevi.ch/2025/03/28/opening-magic-links-in-your-rss-reader/",
+    "description": "This blog post is documentation for a very specific problem I run into about once a year. That’s rare enough to forget how I solved it, but frequent enough to waste 15 minutes rediscovering the answer. And let’s be honest: it’s not the big problems that drive you mad — it’s the little ones that feel like their own Sisyphean hell. The Problem Some websites 1 require you to log in using a magic link — a one-time link emailed to you that signs you in when clicked. It’s usually seamless. But on iOS, it can quietly become a headache. 2",
+    "author": "Joe Fabisevich",
+    "published": "Fri, 28 Mar 2025 00:00:00 GMT",
+    "image": "",
+    "source": "https://www.fabisevi.ch/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "ff18d396-ec92-4ebd-9b41-fb606d496266",
+    "title": "iOS Accessibility Values",
+    "link": "https://mobilea11y.com/blog/accessibility-values/",
+    "description": "For iOS, Accessibility values are one of the building blocks of how Accessibility works on the platform, along with traits, labels, hints, and showing/hiding elements. If you’re familiar with WCAG or web accessibility, accessibility values are the value part of WCAG 4.1.2: Name, Role, Value. Values Not every element in your view will have a value - in fact, most won’t. Any element that ‘contains’ some data, data that is not included in the element’s label requires an accessibility value to be set.",
+    "author": "",
+    "published": "Sun, 19 Jun 2022 10:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "14ec35df-1af3-4d2f-8615-819b8fd73654",
+    "title": "iOS UIKit Accessibility traits",
+    "link": "https://mobilea11y.com/blog/traits/",
+    "description": "Accessibility traits on iOS is the system by which assistive technologies know how to present your interface to your users. The exact experience will vary between assistive technologies, in some cases they may change the intonation of what VoiceOver reads, or add additional options for navigation, sometimes they will disable that assistive technology from accessing the element, or change how the assistive tech functions. They are the ‘Role’ part of the fundamental rule of making something accessible to screen readers - WCAG’s 4.",
+    "author": "",
+    "published": "Fri, 13 Aug 2021 07:30:56 +0000",
+    "image": "",
+    "source": "https://mobilea11y.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "0cb7a7da-b1e5-4135-9245-c1a4574cad36",
+    "title": "Updates for apps in the European Union",
+    "link": "https://developer.apple.com/news/?id=awedznci",
+    "description": "The European Commission has required Apple to make a series of additional changes under the Digital Markets Act:Communication and promotion of offers Today, we’re introducing updated terms that let developers with apps in the European Union storefronts of the App Store communicate and promote offers for purchase of digital goods or services available at a destination of their choice. The destination can be a website, alternative app marketplace, or another app, and can be accessed outside the app or within the app via a web view or native experience. App Store apps that communicate and promote offers for digital goods or services will be subject to new business terms for those transactions — an initial acquisition fee, store services fee, and for apps on the StoreKit External Purchase Link Entitlement (EU) Addendum, the Core Technology Commission (CTC). The CTC reflects value Apple provides developers through ongoing investments in the tools, technologies, and services that enable them to build and share innovative apps with users. Music streaming apps on the App Store in the European Economic Area (EEA) wanting to use the Music Streaming Services Entitlement (EEA) can use these options. Update to Business Terms for Apps in the European Union By January 1, 2026, Apple plans to move to a single business model in the EU for all developers. Under this single business model, Apple will transition from the Core Technology Fee (CTF) to the CTC on digital goods or services. The CTC will apply to digital goods or services sold by apps distributed from the App Store, Web Distribution, and/or alternative marketplaces. Apps currently under the Alternative Terms Addendum for Apps in the EU continue to be subject only to the CTF until the transition to the CTC is fully implemented next year. At that time, qualifying transactions will be subject to the CTC, and the CTF will no longer apply. Additional details regarding this transition will be provided at a later date. User Experience Update Beginning with iOS 18.6 and iPadOS 18.6, iOS and iPadOS will provide an updated user experience in the EU for installing alternative marketplaces or apps from a developer’s website. Additionally, later this year, we will provide an API which will allow developers to initiate the download of alternatively distributed apps they publish from within their app. To learn more, view Communication and promotion of offers on the App Store in the EU. To read the full terms, view the Alternative Terms Addendum for Apps in the EU or the StoreKit External Purchase Link Entitlement Addendum for EU Apps. You can also request a 30-minute online appointment to ask questions and provide feedback about these changes.",
+    "author": "",
+    "published": "Thu, 26 Jun 2025 08:24:33 PDT",
+    "image": "",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "fe0b9f95-85d5-42c0-aa11-950857362eff",
+    "title": "Today @ WWDC25: Day 5",
+    "link": "https://developer.apple.com/news/?id=k2rqp041",
+    "description": "The European Commission has required Apple to make a series of additional changes under the Digital Markets Act:Communication and promotion of offers Today, we’re introducing updated terms that let developers with apps in the European Union storefronts of the App Store communicate and promote offers for purchase of digital goods or services available at a destination of their choice. The destination can be a website, alternative app marketplace, or another app, and can be accessed outside the app or within the app via a web view or native experience. App Store apps that communicate and promote offers for digital goods or services will be subject to new business terms for those transactions — an initial acquisition fee, store services fee, and for apps on the StoreKit External Purchase Link Entitlement (EU) Addendum, the Core Technology Commission (CTC). The CTC reflects value Apple provides developers through ongoing investments in the tools, technologies, and services that enable them to build and share innovative apps with users. Music streaming apps on the App Store in the European Economic Area (EEA) wanting to use the Music Streaming Services Entitlement (EEA) can use these options. Update to Business Terms for Apps in the European Union By January 1, 2026, Apple plans to move to a single business model in the EU for all developers. Under this single business model, Apple will transition from the Core Technology Fee (CTF) to the CTC on digital goods or services. The CTC will apply to digital goods or services sold by apps distributed from the App Store, Web Distribution, and/or alternative marketplaces. Apps currently under the Alternative Terms Addendum for Apps in the EU continue to be subject only to the CTF until the transition to the CTC is fully implemented next year. At that time, qualifying transactions will be subject to the CTC, and the CTF will no longer apply. Additional details regarding this transition will be provided at a later date. User Experience Update Beginning with iOS 18.6 and iPadOS 18.6, iOS and iPadOS will provide an updated user experience in the EU for installing alternative marketplaces or apps from a developer’s website. Additionally, later this year, we will provide an API which will allow developers to initiate the download of alternatively distributed apps they publish from within their app. To learn more, view Communication and promotion of offers on the App Store in the EU. To read the full terms, view the Alternative Terms Addendum for Apps in the EU or the StoreKit External Purchase Link Entitlement Addendum for EU Apps. You can also request a 30-minute online appointment to ask questions and provide feedback about these changes.",
+    "author": "",
+    "published": "Fri, 13 Jun 2025 07:00:56 PDT",
+    "image": "",
+    "source": "https://developer.apple.com/news/rss/news.rss",
+    "categories": null
+  },
+  {
+    "id": "0d891f23-b9a2-4ee0-9988-e9cd1a2b4f10",
+    "title": "Building with nightly Swift toolchains on macOS",
+    "link": "https://oleb.net/2024/swift-toolchains/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-03-05T18:54:44Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "df90f52a-0778-4e02-9f17-d996ccd02c08",
+    "title": "How the Swift compiler knows that DispatchQueue.main implies @MainActor",
+    "link": "https://oleb.net/2024/dispatchqueue-mainactor/",
+    "description": "",
+    "author": "Ole Begemann",
+    "published": "2024-02-29T18:54:47Z",
+    "image": "",
+    "source": "https://oleb.net/blog/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "f6e31b9d-2819-4682-b52d-ba21d59f6f12",
+    "title": "Magical Particle Effects with SwiftUI Canvas",
+    "link": "https://nerdyak.tech/development/2024/06/27/particle-effects-with-SwiftUI-Canvas.html",
+    "description": "In one of the previous posts, I shared a simple way of Creating particle effects in SwiftUI. The approach is super easy and utilizes the power of viewModifiers, but I would not recommend it for production use as it is performance-greedy when having a bigger amount of particles in place (because each particle is a single view)",
+    "author": "Pavel Zak",
+    "published": "2024-06-27T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "Canvas",
+      "Particles",
+      "BlendMode",
+      "TimelineView"
+    ]
+  },
+  {
+    "id": "78f80161-bc8b-4160-9127-4a01ce4c7166",
+    "title": "SwiftUI transitions with distortion effect and Metal Shaders",
+    "link": "https://nerdyak.tech/development/2023/06/16/distortionEffect-with-Metal-shaders-for-better-transitions.html",
+    "description": "This year DubDub is over and I am very excited about the new developer treats that iOS17 will bring us that expand the animation possibilities of SwiftUI. I am talking mainly about the PhaseAnimator, KeyframeAnimator and the ability to utilize Metal shaders on SwiftUI views through modifiers .distortionEffect, .layerEffect, and .colorEffect (docs).",
+    "author": "Pavel Zak",
+    "published": "2023-06-16T00:00:00+00:00",
+    "image": "",
+    "source": "https://nerdyak.tech/atom.xml",
+    "categories": [
+      "development",
+      "SwiftUI",
+      "distortionEffect",
+      "Metal",
+      "Shaders",
+      "transitions"
+    ]
+  },
+  {
+    "id": "53af2cec-f2f4-41d7-9733-8f17a9ce852e",
+    "title": "Decoding Swift types that require additional data",
+    "link": "https://www.swiftbysundell.com/articles/decoding-swift-types-that-require-additional-data",
+    "description": "How Swift’s CodableWithConfiguration API can be used to inject additional, required data into a type’s decoding process, without having to use optionals or declare any additional decoding-specific types.",
+    "author": "",
+    "published": "Mon, 30 Jun 2025 15:35:00 +0200",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "f51dbd3c-292f-47d9-aa13-ef8ff703d80e",
+    "title": "Tips and tricks for when using SwiftUI’s ViewBuilder",
+    "link": "https://www.swiftbysundell.com/articles/swiftui-viewbuilder-tips-and-tricks",
+    "description": "Let’s explore how we can use SwiftUI’s ViewBuilder within our own code, and a few things that can be good to keep in mind when doing so.",
+    "author": "",
+    "published": "Fri, 30 May 2025 14:25:00 +0200",
+    "image": "",
+    "source": "https://www.swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "d4a42235-49f9-47fb-982a-d22c20dfe0fe",
+    "title": "Decoding Swift types that require additional data",
+    "link": "https://www.swiftbysundell.com/articles/decoding-swift-types-that-require-additional-data",
+    "description": "How Swift’s CodableWithConfiguration API can be used to inject additional, required data into a type’s decoding process, without having to use optionals or declare any additional decoding-specific types.",
+    "author": "",
+    "published": "Mon, 30 Jun 2025 15:35:00 +0200",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "c9f74910-db65-4982-a96f-910cda5239a1",
+    "title": "Tips and tricks for when using SwiftUI’s ViewBuilder",
+    "link": "https://www.swiftbysundell.com/articles/swiftui-viewbuilder-tips-and-tricks",
+    "description": "Let’s explore how we can use SwiftUI’s ViewBuilder within our own code, and a few things that can be good to keep in mind when doing so.",
+    "author": "",
+    "published": "Fri, 30 May 2025 14:25:00 +0200",
+    "image": "",
+    "source": "https://swiftbysundell.com/feed.rss",
+    "categories": null
+  },
+  {
+    "id": "fa5b7f29-9f7e-4171-ba7f-cfa28d6c0602",
+    "title": "Swift 6 suitable notification observers in iOS",
+    "link": "https://augmentedcode.io/2024/11/18/swift-6-friendlier-notification-observers/",
+    "description": "The author discusses challenges managing side projects, specifically updating SignalPath to Swift 6. They encountered errors related to multiple notification observations but resolved them by shifting to publishers, avoiding sendable closure issues. Although the new approach risks background thread notifications, the compiler is satisfied with the adjustments made to the code.",
+    "author": "Toomas Vahter",
+    "published": "Mon, 18 Nov 2024 16:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "iOS",
+      "Swift"
+    ]
+  },
+  {
+    "id": "686ca61b-7363-4d2b-8683-b7e6a68f49cc",
+    "title": "AnyClass protocol and Objective-C methods",
+    "link": "https://augmentedcode.io/2024/11/04/anyclass-protocol-and-objective-c-methods/",
+    "description": "AnyClass is a protocol all classes conform to and it comes with a feature I was not aware of. But first, how to I ended up with using AnyClass. While working on code using CoreData, I needed a way to enumerate all the CoreData entities and call a static function on them. If that function […]",
+    "author": "Toomas Vahter",
+    "published": "Mon, 04 Nov 2024 16:00:00 +0000",
+    "image": "https://2.gravatar.com/avatar/e55a8cd331ba727a325fb2029717f9d584df498403c1462d032f2fa0be8e4777?s=96\u0026d=identicon\u0026r=G",
+    "source": "https://augmentedcode.io/feed/",
+    "categories": [
+      "iOS",
+      "Swift",
+      "AnyClass"
+    ]
+  },
+  {
+    "id": "cce3d4ad-f5eb-4a70-8021-240688064ef0",
+    "title": "Reducing email spam with a domain and catch-all aliases",
+    "link": "https://swiftrocks.com/becoming-unspammable-with-a-domain-and-catchall-email-aliases",
+    "description": "I've recently moved away from a regular Gmail account in favor of receiving email on my very own rockbruno.com domain. I did that not just because I thought it would be cool and because it gives me more control over my internet footprint, but also because if you configure things just right, you can make it effectively impossible for spammers to spam you, even in the case of a data leak. The trick here is that when you have your own domain, most email server providers will have an option to define email aliases, allowing you to \"hide\" your real address behind a fake one. Although in some providers this is a limited and manual process, in others such as Google Workplace (the one I use), you can define wildcard or even regex-based aliases: While this was created primarily to allow companies to catch typos in their inbound mail, you can use it to massively increase your privacy. The idea here is that by having \"infinite\" email aliases, instead of registering on websites with your real address (like me@bla.com), you can instead give each address its own \"dedicated\" alias, like: x@bla.com, for X linkedin@bla.com, for LinkedIn instagram@bla.com, for Instagram That way, when one of these websites inevitably sells or leaks your data, you will know exactly who it was based on which of the aliases you're getting spammed from. You can then follow up by either heavily restricting who can reach that alias or simply nuking it entirely in favor of a new one. In other words this is basically what features like the \"private email\" in Sign in with Apple and other services do under the hood, but completely under your control :) Isn't this the same thing as +? You might know that aliases also technically exist with \"normal\" emails by appending data with +, like me+alias@gmail.com. Isn't it the same thing? No. The problem with + aliases is that some websites intentionally strip the alias portion of the address if you try to use one. I have also encountered cases where some websites would not accept these at all, forcing you to expose your real address. In other words, you can sort of do the above trick with a \"normal\" email address, but your mileage may vary.",
+    "author": "Bruno Rocha",
+    "published": "Sun, 29 Jun 2025 10:00:00 GMT+2",
+    "image": "https://i.imgur.com/85lCkRU.png",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "d8053b95-da78-44a7-8e08-cb62a7c142ca",
+    "title": "How I'm using AI to improve my software engineering productivity (and why it will not steal your job)",
+    "link": "https://swiftrocks.com/how-im-using-ai-for-software-engineering",
+    "description": "AI has become an important part of my daily software engineering work, so I wanted to write a post sharing how exactly I've been using it in case you're wondering how to use it to improve your productivity as well! Foreword: AI will not steal your software engineering job Before getting to the details of how AI has been helping me to code, I wanted to address the topic of AI replacing software engineers. Recently, my social media feeds have become full of people making predictions about how in X months/years everything in the software engineering industry will be done by AI, via doomsday-style content about how everyone is going to lose their jobs and everything will fall apart. If you look at who's writing these kinds of posts, you'll notice something interesting: they are either executives who have never done any kind of software engineering, or beginners with no industry experience. Honestly, that should tell you everything you need to know about these \"predictions\". But in the interest of being informative, I'll try to explain why they are nonsense. The problem with these \"predictions\" is that the people making them for some reason seem to view software engineering as nothing more than coding and closing tasks on JIRA. You arrive at work, pick a task that is very well defined and requires no clarification whatsoever, code it, close it, pick another task that is once again perfectly defined, and repeat that ad-infimum for the entire duration of your career. But the reality of software engineering is far more complex than that. While there's certainly a good amount of coding, it's extremely rare that the problems a software engineer needs to solve are perfectly defined from the get-go as claimed by the people making these predictions. This means that more often than not the job is not really about coding, but rather figuring out what exactly needs to be coded, by asking yourself questions such as: What problems are we facing right now? What are the current objectives of the company? What is the current state of the company? What is most important for our users? Who will benefit from X problem being solved? What does the codebase looks like today? Are there any patterns or traps I need to be aware of? Are there any political fights going on around me that would affect what I should focus on? What's the current state of the industry? Are there any new tools that can help me solve my problems? The answers to questions like the ones above provide you with context that helps you define how (and when) exactly certain problems should be solved, and is a critical aspect of software engineering even for junior developers. And the interesting part is that the more senior you become, the less coding you do, and the more time you spend answering these types of questions to help your team/company determine which way it should go. This is something I've also written about on my Focus not on the task, but on the problem behind the task blog post. While AI can be quite good at solving very simple and perfectly defined problems, it is exceptionally bad at handling anything that requires taking this level of context into account, which is something that software engineers constantly have to do. This is very easy to confirm if you have doubts about it: Grab any AI agent and project of your choice (or ask the agent to make a new one), and keep asking it to include more features in your project. While it may do relatively well the first time, it is inevitable that the AI will start confusing itself and destroying the codebase on the subsequent requests. This is because AI today doesn't understand context, and as one user on HackerNews wrote, it's like working with a junior developer that has amnesia. Thus, while AI today can be amazing as a coding assistant (which I'll go into more detail further below), the thought of it replacing software engineers is frankly hilarious. One counterargument that some people have is that while this is true today, it doesn't mean that in the future the AI won't be able to understand context and thus be able to do complex tasks. While this is true, what must be noted about this is that an AI capable of understanding context (and gathering it on its own) would be so powerful that it wouldn't just replace software engineers; it would replace all of humanity. If such a thing is achieved then software engineering jobs would be the least of our concerns, so I think it's a sort of weird argument to consider. Our entire lives would change in this scenario. With that out of the way, I'd like to now present my favorite use cases for AI today! Use case 1: Getting simple tasks done quickly One thing that AI is very good as of writing is solving very concrete and straightforward problems. So when I have to do very menial tasks like changing configuration files or writing a simple function that does X and Y, nowadays what I do is simply ask Cursor to do it for me, sit back, and watch the show. Even when taking into account that the AI might not get it 100% correct and that I'll still have to patch the code afterward, this still saves me a massive amount of time overall compared to having me do everything by myself and is definitely my favorite use case of AI today. This is especially true when doing (simple) work on languages that I'm not very familiar with, as the AI in this case is also sparing me from having to do multiple trips to StackOverflow. I still need to do so since the AI will sometimes recommend things that are not correct for my case, but again, even when considering these setbacks, I can get the work done at a much faster pace. It must be noted however that the important keyword here is simple, concrete, and straightforward. As mentioned previously, trying to have the AI solve complex problems that require large amounts of context such as code reviews or designing large features will not work in any meaningful way and is a sure way to waste everyone's time. Use case 2: Understanding complex codebases quickly Another thing that I've found AI to be amazing at is when I'm working on a repository that I'm not familiar with and I need to figure out how certain things are wired together. The way I would do this before AI was to spend hours painstakingly reading through the codebase, but now, with the right questions, it's possible for me to get started in a matter of seconds. Here's a concrete recent example to demonstrate what I mean by this. I was recently attempting to craft a Build Server Protocol that would connect to SourceKit-LSP in order to enable iOS development on my specific non-Xcode conditions. The problem here is that SourceKit-LSP is a very complex project. Even though I know what I have to do in theory, I have no idea what SourceKit-LSP expects me to do in practice. But nowadays, instead of having to spend weeks trying to figure this out by searching keywords on the codebase, I can simply ask Cursor to explain the project to me! Similarly to Use case 1, it's to be expected that the explanation provided by the AI will not be 100% accurate. But once again, even when taking this into consideration, the amount of time these explanations save me is mindblowing. Since Cursor in this case provides shortcuts to the relevant parts of the codebase, I am able to very quickly piece together what I am supposed to do / determine which parts of the explanation are correct and which ones aren't. Use case 3: Searching for things when I don't know what exactly I'm looking for I find that Google tends to provide good results if you know exactly what you're looking for. But if you don't really know what is it that you're trying to find out, you'll have a hard time with it. For example, the other day I was trying to find what the _start function in iOS (the first function called when your app is launched) is, where it's defined, and what it does. But if I go now and search for \"_start function iOS\" on Google, I will not find a straight answer to this question. Google does return somewhat good results (the second search result contains some interesting information about it if you scroll down far enough), but it cannot give me a direct response because I asked the wrong question. I know today that what I should've done is ask it about details of how C programs are linked, but I didn't know this back then, so I couldn't have done that. AI does not have this problem. If you don't know what you're looking for, you can explain your situation to it and it will point you in the right direction: In this example, you can see that ChatGPT immediately pointed out that I asked the wrong question before attempting to explain it! Although the AI's answers won't always be 100% accurate, I find them to be accurate enough to allow me to use Google to find the rest of the information. Just like the previous case, this is not so much about having the AI do everything for me (which it can't), but rather allowing me to save time and get where I want faster. Use case 4: Asking questions that are too specific for Google Even if you know exactly what you're looking for, you may have difficulty using Google if your question is too specific. For example, you cannot search Google on \"how to implement X thing in Swift in my app that is using XYZ frameworks in X iOS version with dependency injection bridging an Obj-C type after the user logged in on my TODO list app using Apple Sign-in from Italy during a rainy day in October\". For cases like this, usually what you need to do is break your problem into multiple, more generic queries, open many tabs that each help you with a specific part of the problem, and then use all of that combined knowledge to come up with the actual answer to your question. AI excels at this. You can be as specific as you want and you'll get a relevant answer. Most coding questions fall into this category, although for these specifically nowadays I prefer using Cursor's code gen features directly as mentioned above. In this case, I could've probably found the answer I was looking for in Google by making a bunch of generic searches about C++ global constructors and good practices, opening a bunch of tabs, and summarizing everything I found. But by asking ChatGPT, I was able to save several hours of my time instead. Use case 5: I want FAST answers It has been getting harder and harder to get fast answers to your questions with Google. Today, it's very unlikely that the answer to a question will lie at the top of a page you've opened. As SEO optimization became more and more important for survival on the web, the amount of stuff you have to endure before getting to the actual content has increased significantly. There will be a lengthy introduction, a pause for sponsors, ten paragraphs about how the question reminds the author about a personal story of how their dog bodyslammed their grandma on Christmas, a call to action for the author's newsletter, some backstory on the question, and only then you'll get to the actual content. I find that there are many cases where this fluff is relevant and worth reading. But there are also many cases when I'm in a hurry and would much rather just get a straight answer to my question. This is also something that I find AI to be quite good at. It generally doesn't try to educate you on things you didn't ask, it just straight up answers your question. By asking follow-up questions regarding one or more things it mentioned in its answer, I can get all of the information I need to learn something new considerably faster than if I had used Google instead. Even though I still need to use Google to double-check if the AI didn't hallucinate particular pieces of information, this ability to quickly gather relevant information saves me an absurd amount of time.",
+    "author": "Bruno Rocha",
+    "published": "Tue, 15 Apr 2025 11:50:00 GMT+2",
+    "image": "https://i.imgur.com/4u0M9kM.png",
+    "source": "https://swiftrocks.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "5393fd81-cbed-4c0d-b2ca-ded827f93b09",
+    "title": "Adding Icon Composer icons to Xcode",
+    "link": "https://useyourloaf.com/blog/adding-icon-composer-icons-to-xcode/",
+    "description": "How do you use Icon Composer to add App Icons to an Xcode project? Last updated: Jun 26, 2025 Icon Composer Xcode 26 adds a new Icon Composer tool to build icons for the new Liquid Glass design system. I recommend the Apple Article: Creating your app icon using Icon Composer and the WWDC videos linked below to learn how to best use Icon Composer. The basic idea is that you use your preferred design tool (Photoshop, Sketch, Pixelmator, etc.) to design your icon’s foreground layers. You then export these as fully opaque SVG layers to import into Icon Composer. Using Icon Composer, you add the background, adjust size and positions of the layers, set opacity, color/gradients, shadows, and glass effects. Xcode uses the single .icon file to generate all the icon variants it needs for all supported platforms. Adding Icons to an Xcode Project The step that left me confused when watching the WWDC video was how to add the icons to an Xcode project. You no longer need to add default, dark, and tinted variants of the app icon to the asset catalog in the app bundle. What you need to do is drag the Icon Composer .icon file into the project navigator sidebar of the Xcode project: Once you add the .icon file to the project you no longer need the external file. You can open and edit the icon file in Icon Composer directly from Xcode: I would prefer that we could avoid this two step process. Maybe Apple will add an Icon Composer template to Xcode so we can create a new icon file directly in the project (FB18297643). One final step, in your app target settings, make sure the App Icon Set Name matches the name of the Icon Composer icon file name (without the .icon extension): What About Alternate App Icons? One thing that is missing is support for alternate app icons. I expected to be able to add alternate app icons to the project using Icon Composer. For example, if I create a purple variant of the icon named AppIcon-purple.icon and add it to the project: That should be enough for Xcode to generate the icons (making sure to have “Include all app icon assets” enabled in the build settings - see above). Unfortunately, setting the alternate icon name fails: UIApplication.shared.setAlternateIconName(\"AppIcon-purple\") Investigating some reports from people that claimed to have it working I decided to compare what Xcode generates when I add the app icons to the asset catalog. This is what I see in the Info.plist: Adding those keys to the Info.plist of the target fixes the problem. Note that the ~ipad variant seems to be necessary for it to work on the iPad. Hopefully Apple fixes this in a future Xcode release (FB18233873). Backwards Compatibility One other problem I’ve seen is icons not rendering correctly on older iOS releases. For example, on iOS 16.4 the background is not rendered. This looks like a known issue, the workaround being to keep the asset catalog icons: Icon Composer icons back deploy to older versions of iOS, macOS, and watchOS with inconsistent rendering. (152258860) Workaround: Keep the previous Asset Catalog app icon in your project until this issue is resolved. Learn More Apple Human Interface Guidelines: App Icons Apple Design Resources WWDC25 Say hello to the new look of app icons WWDC25 Create icons with Icon Composer Apple Article: Creating your app icon using Icon Composer Adding Icon Composer icons to Xcode was originally posted 23 Jun 2025 on useyourloaf.com. Want this direct to your inbox? Sign up and get my free WWDC viewing guide PDF.",
+    "author": "",
+    "published": "Mon, 23 Jun 2025 10:32:36 +0100",
+    "image": "https://useyourloaf.com/blog/adding-icon-composer-icons-to-xcode/001.png",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "9b252d93-b218-46a9-b83c-e37239fdc1b6",
+    "title": "WWDC 2025 Viewing Guide",
+    "link": "https://useyourloaf.com/blog/wwdc-2025-viewing-guide/",
+    "description": "My WWDC 2025 viewing guide to help you plan the sessions you want to watch. Where Do I Start? The two big themes for the year are Liquid Glass design and Apple Intelligence. Start by watching the Platforms State of the Union (SOTU) for a summary of what’s new this year. You don’t have to learn everything new today! There are over 100 sessions and a lot of new stuff to learn. You may feel like you’re getting left behind. Don’t let it overwhelm you. You’ve got time. Don’t burn yourself out trying to keep up. Watching The Sessions I watch the videos using the Apple Developer app. It’s available on macOS and iOS. The video player supports from 0.5x to 2x playback, most videos have transcripts, some have summaries, and allow copying of the onscreen sample code. You can also watch on YouTube. There are a lot of sessions, but many are short (10-20 minutes). There’s no padding and Apple’s engineers get to the point quickly. Swift Swift 6.2 is here with some updates to ease the pain of adopting Swift Concurrency: What’s new in Swift Install toolchains with Swiftly. Faster clean builds for macros with pre-built swift-syntax dependencies. Finer controls for compiler diagnostics/warnings. Concrete notification types. New Observation type for tracking changes. Testing attachments and exit tests. InlineArray and Span types. Swift 6.2 is single-threaded by default. Opt-in to infer main actor. Improve memory usage and perforamce with Swift Profile a test to find performance issues. Just because it’s shorter, doesn’t mean it’s faster. Reduce allocations and copying. Exclusivity checks. InlineArray fixed size array. Span types to work with contiguous memory. Swift Binary Parsing library. These Swift Concurrency sessions are essential viewing. This seems like a better Concurrency approach: Embracing Swift concurrency Start by running code on the main thread. Introduce concurrency as you need it. Swift 6.2 allows a module to default to main-actor isolation. Use async tasks to await for data. Interleaving - single thread alternating between tasks. Run code on a background thread by marking method with @concurrent. Use nonisolated for library API and let client decide. Actors to move data off main thread. Enable Approachable Concurrency and Default Actor Isolation build settings. Code-along: Elevate an app with Swift concurrency Transform a single-threaded app to use concurrency as needed. Explore concurrency in SwiftUI SwiftUI views are isolated to the main actor. Tasks in the view run on the main actor. Find the boundaries between your UI code and non-UI code. Default actor isolation setting removes need for most @MainActor annotations. Interoperability with C, C++, and Java: Safely mix C, C++, and Swift Strict memory safety build setting, off by default. Annotate C and C++ functions and types so Swift can use them safely. Explore Swift and Java interoperability Incremental adoption of Swift by mixing Swift and Java code. Calling Swift from Java or vice-versa. Meet Containerization Open source Swift framework to create and run Linux containers on macOS. SwiftUI There’s work to be done updating apps for the new design: What’s new in SwiftUI Recompile for new liquid glass design. Toolbar spacer API. Glass effect. iPadOS menu bar using commands API. Large lists on macOS load 6x faster. New SwiftUI performance instrument. New Animatable macro. Scene bridging to UIKit and AppKit. AssistiveAccess scene type. WebView. 3D charts. New drag and drop API. Rich text editor. Build a SwiftUI app with the new design Liquid glass design system. Extend views outside the safe area with BackgroundExtensionEffect. Sidebars, toolbars, and tab bars float above content. Remove custom presentation backgrounds. Toolbar spacer API splits items into groups. Search at bottom on iPhone. Slider tick marks. GlassEffectContainer for custom controls. Code-along: Cook up a rich text experience in SwiftUI with AttributedString TextEditor supports rich text when bound to an attributed string. Bring Swift Charts to the third dimension Support for 3D charts. PointMark, RuleMark, and RectangleMark take a Z value. Use gestures to rotate the chart. SurfacePlot is a 3D extension to LinePlot. Two camera projections. Meet WebKit for SwiftUI New WebView API to load and display web pages. WebPage is Observable. URLSchemeHandler for custom URLs to load content bundled with App. New Observations API in Swift 6.2 to respond to navigation events. Directly evaluate Javascript. Supports look to scroll on VisionOS. Find-in-page support. UIKit UIKit is not going away and continues to get useful updates: What’s new in UIKit New design system. UISplitViewController support for inspectors and resizable columns. iPadOS menu bar. Menu bars no longer supported in storyboards. Swift Observable to invalidate and update views. Back-deploys to iOS 18. updateProperties() called before layoutSubviews. Support for SwiftUI scene lifecycle, deprecating app delegate callbacks. SF Symbols new effects. Build a UIKit app with the new design UIKit components have been updated with Liquid Glass. Tab bar floats above content. Set desired direction when it minimizes on scroll. Extend background behind sidebars. Toolbars visually group items. Navigation item subtitle. Remove custom backgrounds from navigation, toolbars, and sheets. Search bar placement. Search as a dedicated view. Control sizes are larger. UIGlassEffect. iPadOS A good year for iPadOS bringing macOS style windowing and menu bars to the platform: Make your UIKit app more flexible Best practises to make your app adapt across sizes and platforms. Adopt UIScene life cycle - mandatory in next major release. New trait to determine if parent split view is collapsed. Split view support for Inspector column. UISceneSizeRestrictions to set preferred minimum size. Scenes on iPadOS have macOS style window controls. Use layout guide to keep content clear. UIRequiresFullScreen is deprecated and will be ignored in a future release. Apps will no longer be scaled for new screen sizes. AppKit Build an AppKit app with the new design Rebuild with Xcode 26 to get the Liquid Glass design. Use NSSplitViewController for new glass sidebar, removing any visual effects from sidebar. NSBackgroundExtensionView to mirror and extend content. New larger control sizes and corner radius. Add icons to menu items. watchOS What’s new in watchOS 26 New toolbar and control styles. Use Icon Composer to update your icon. The arm64 architecture is used by Series 9 and later, and Ultra 2 devices. WidgetKit controls in control center, smart stack, or action button. Widgets now configurable. RelevanceKit to suggest widgets in smart stack. Push updates to widgets using APNs. Developer Tools Xcode gets LLM-based coding assistants: What’s new in Xcode 26 Xcode is 24% smaller, no Intel simulator runtimes by default. New tab start page. Pin tabs. Multi-word search. Swift Mode for Voice Control. Playground macro work likes Preview to iterate on code. Type safe Swift symbols for localized strings with auto-generated comments. Coding assist using ChatGPT and other third-party LLM’s (needs macOS Tahoe). Debugger now follows execution into async tasks. Metrics recommendations. Explicitly Built Modules now the default. Enhanced Security capability. XCTHitchMetric. Icon Composer Create icons with Icon Composer New tool to build icons for all platforms in a single file. Start in preferred design tool then export layers for Icon Composer. Add .icon file direct to Xcode project. Instruments Profile and optimize power usage in your app Power Profiler in Instruments. Also available on-device in Developer mode. Optimize CPU performance with Instruments Processor Trace collects complete trace, avoiding sampling bias. Requires M4 or A18. Enable developer setting on device. CPU Counters instrument to find code bottlenecks. Optimize SwiftUI performance with Instruments Interesting new instrument to find performance issues with SwiftUI. Use Cause \u0026 Effect graph to understand dependencies including Observables and the Environment that might be causing view updates. Localization Code-along: Explore localization with Xcode Walk-through localizing an App with String Catalogs. Automatic comment generation using on-device model. New #Bundle macro to refer to resource bundle of current target. Xcode generated symbol names from key/value, enabled by default for new projects. Refactor to convert strings to symbols. Testing Record, replay, and review: UI automation with Xcode Coding Assistant can add accessibilityIdentifiers to relevant parts of view. New code generation system for UI test recording. SwiftData No Core Data sessions this year and only a small update to SwiftData. Not sure anyone was asking for inheritance: SwiftData: Dive into inheritance and schema migration Class inheritance for models. Use for IS-A relationships when you need deep and shallow searches (queries for both root class and subclass). New sortBy property on HistoryDescriptor to fetch history in order. Example of using history tracking to update context for remote changes. WidgetKit What’s new in widgets Adjust existing widgets for clear glass or accented tint presentation. Widgets now on visionOS 26. Can be elevated or recessed into surface. Fixed in space, adapt based on distance of viewer. Widgets and Live Activities on CarPlay. Live Activities on a paired iPhone now appear on macOS Tahoe menu bar. Controls on macOS and watchOS. Widget push updates. Design The Liquid Glass sessions are essential viewing this year: Meet Liquid Glass Liquid Glass lensing bends and shapes light. Adapts to ensure legibility and separate controls from content. Best reserved for navigation layer that floats above content. Do not stack Liquid Glass. Only tint to emphasise primary elements and actions. Reduced Transparency makes Liquid Glass frostier. Get to know the new design system Adjusted System colors for Liquid Glass. Alert Text is left-aligned. Concentricity aligns radii so shapes nest. Larger controls use capsule shapes. Sheets spring from an action source. Remove custom backgrounds from controls. Primary action stays separate and tinted. Hard scroll edge effect on macOS for stronger boundary. Bars rely more on symbols, see HIG for glyphs for common actions. Design foundations from idea to interface Start with app structure. Where am I? What can I do? Where can I go from here? Use toolbar for screen specific actions. Progressive disclosure. Group by time, progress or patterns. Use a cohesive visual style. Design is never really finished. Make a big impact with small writing changes Simplify. Too many filler adverbs and adjectives. Does each word add value. Don’t apologise for errors. Avoid repetition. Lead with the why (move the benefit to the front). Word list to track terms with use/don’t use and definition. Read your writing out loud. Principles of inclusive app design One in seven people have a disability. Vision. Hearing. Motor. Speech. Cognitive. Inclusive design is better for everyone. Involve members of the disability community in your design. Test with VoiceOver and Switch Control. What’s new in SF Symbols 7 Draw path animation inspired by handwriting. Symbol gradients. Annotate custom symbols with path to draw. Say hello to the new look of app icons Liquid glass material layers. Monochrome, light, and dark tint, translucent appearance modes. Rounder corner radius. macOS icons no longer extend outside the shape. Layers \u0026 translucency. Use softer light-to-dark gradients for backgrounds. Use System Light and System Dark for white or black backgrounds. Design interactive snippets Compact views displayed from App Intents in Siri, Spotlight, and Shortcuts. Quick, in-moment experiences. Easy to read with larger type, concise, clear contrast. Buttons for interaction. Result and confirmation snippets. Platform specific sessions: Elevate the design of your iPad app Consider starting with a tab bar. Extend content around navigation. New windowing system with new controls. Apps not yet updated for iOS 26 show controls in safe area. Create a new window for each document. Name your windows. New pointer shape. Menu bar on top edge of iPad. Design widgets for visionOS Three dimensional objects. Compatibility mode for existing iPadOS widgets. Widgets persist in location and are fixed in size. Adapt with user proximity. Paper or glass styles. Elevated or recessed mounting styles. Design hover interactions for visionOS Custom hover effects. Look to scroll. Starts when user looks at edge of scroll view. Opt-in, enable when view is primarily for reading or browsing. Persistent controls stay visible while you look at them. Accessibility Evaluate your app for Accessibility Nutrition Labels Show which accessibility features you support in App Store Connect. Contrast. Dark interface. Larger text. Color. Captions. Reduced Motion. VoiceOver. Make your Mac app more accessible to everyone Group accessibility items into containers for faster navigation with VoiceOver. Merge label and buttons. Rotors to define collections of views. In macOS 26 can suggest initial focus for VoiceOver. Add keyboard shortcuts. Customize your app for Assistive Access Streamlined experience for people with cognitive disabilities. Create an assistive access scene. Set UISupportsAssistiveAccess in Info.plist. Keep to essential features. Icons are supported in the navigation bar. App Store and Distribution What’s new in App Store Connect Upload builds with App Store Connect API later this year. Can reuse a build number if upload fails. Apple-hosted background assets (up to 200GB). TestFlight feedback now in App Store Connect app. App Store Tags generated by Apple’s LLM (human reviewed) you can deselect unwanted tags. Keywords for custom product pages. Offer codes for consumables, non-consumables and non-renewing subscriptions. Review summaries. New age ratings. Accessibility Nutrition Labels. Over 100 new App Analytics metrics. Automate your development process with the App Store Connect API Build upload API and Feedback API. Webhook notifcations API. Apple-Hosted Background Assets API. Dive into App Store server APIs for In-App Purchase App transaction ID added to AppTransaction. Unique ID for each Apple Account per app use to associate customer account with all transactions. Signing requests all use JWS signature format. New Send Consumption Information endpoint when responding to refunds. Optimize your monetization with App Analytics New App Analytics home. Expanded filtering and over 100 new metrics. New monetization section. Machine Learning and Apple Intelligence An API to access an on-device Large Language Model (LLM) was high on everyone’s wish list: Meet the Foundation Models framework API access to Apple’s LLM. On-device so data stays private and can run offline. Experiment with prompts using the new Playground feature in Xcode. On-device model not intended for world knowledge or advanced reasoning. Adapters for common tasks. Use @Generable and @Guide to define Swift type that models returns. Streams partially generated types. Model can callout to tools you define. Session instructions get priority over user prompts. Context is retained during a session. Only available where Apple Intelligence is available. Deep dive into the Foundation Models framework Session throws error when it reaches available context size. Create new session with extract or summary from previous session to provide context. Greedy sampling produces deterministic output. Check for supported languages. @Generable macro defines structured schema for responses. Constrained decoding forces model to return valid tokens for the schema. String properties can use a regex pattern guide. Tool protocol to define functions model can call to access external data. Explore prompt design \u0026 safety for on-device foundation models On-device LLM has ~3-billion parameters, small when compared to cloud based models. May need to break down complex prompts. Avoid maths, code, or tasks requiring real world knowledge. Avoid where facts are critical or provide verified information in prompt. Use prompts like “in a few words” or “in detail” to control output. Provide model with a role. Ask a single, detailed task. Less than five examples in prompt. Use “DO NOT”. Apple designed guardrails to block harmful inputs and throw safety errors. Use instructions to steer model output. Never include user input in instructions. Code-along: Bring on-device AI to your app using the Foundation Models framework See sample code for example of adding Foundation model to generate trip itineraries. Using FoundationModel instrument to profile performance. Discover machine learning \u0026 AI frameworks on Apple platforms Platform tools: Writing Tools, Genmoji. Image Playground. ImageCreator and Foundation Models. ML-API’s: Vision. Natural Language. Translation. Sound Analysis. SpeechAnalyzer. Core ML models. Apple MLX for numerical computing and machine learning. Get started with MLX for Apple silicon MLX open source array framework for Apple silicon. Closely follows numPy. Use from Python, Swift, C++, or C. Explore large language models on Apple silicon with MLX Example of using an M3 Ultra with 512GB unified memory to run latest DeepSeek model. Use Python to load and query LLM’s on-device. Reduce precision by quantizing a model that’s faster to run with reduced memory. Fine tune by training on-device with domain-specific data. MLXSwift to integrate model into Swift code. Dive deeper into writing tools Now on visionOS. Follow-up requests. Rich text with presentation intents. Writing Tools coordinator for custom text engines. Bring advanced speech-to-text to your app with SpeechAnalyzer New API with new speech-to-text model. Faster and more flexible than SFSpeechRecognizer. Supports long-form, conversational, and distant speakers. Live transcription. Private on-device model. Read documents using the Vision framework New API for reading documents. Extract document structure such tables, lists, paragraphs. Identify QR codes, email addresses, phone numbers, URLs. Camera lens smudge detection - prompt user to clean camera lens when dirty. Hand pose detection uses a smaller, modernized model. What’s new in BNNS Graph Basic Neural Network Subroutines, CPU-based inference for tasks like audio or image processing. BNNSGraphBuilder new Swift API to write graphs of operations in Swift. Smaller, real-time and latency-sensitive use cases. App Intents Get to know App Intents Recap of how and why to implement App Intents. App Intents can be added to Swift packages and libraries. Explore new advances in App Intents Interactive snippets. App’s search results show up in image search. NSUserActivities to ask ChatGPT about onscreen content. Conform app entities to IndexedEntity and donate to Spotlight. UndoableIntent protocol. New Intent to work with SwiftUI navigation path. Computed App Entity properties. Develop for Shortcuts and Spotlight with App Intents Access Apple Intelligence models from shortcuts. On-device, private compute cloud, or ChatGPT. Run app actions from Spotlight on Mac. App Services What’s new in Apple Pay Apple Pay dynamic button shows default payment card. Unified preauthorized payments view and notifications. Automatic order tracking, Apple Intelligence detects order and delivery emails in the mail app, converting them to Wallet orders. FinanceKit API now available in UK. Now supports background delivery extension. What’s new in Wallet Poster Event Ticket (iOS 18) now supports multiple upcoming events from one ticket. Boarding passes integrate with Apple’s flight service for updates. New live activity for access to flight information (share via messages). Add passes to wallet automatically (one-time user prompt). Turbocharge your app for CarPlay Message tapbacks, pinned conversations, and compact incoming call UI that doesn’t interrupt navigation. Widgets and Live Activities don’t need CarPlay App (support system small widget). Can exclude CarPlay for game and highly interactive widgets. What’s new in AdAttributionKit Privacy preserving Ad analytics (iOS 17.4). From iOS 18.4, multiple re-engagement campaigns. Configurable attribution window and cooldown period to handle overlapping campaigns. Country code in the postback. Create test postbacks in the iOS Settings app (iOS 18.4). Enhance your app’s multilingual experience Better support for people who are multilingual. Arabizi transliteration keyboard converts latin script to Arabic. Bilingual Arabic-English keyboard. Thai keyboard. Multilingual Siri recommendations. Locale.preferredLanguages may be deprecated, switch to Locale.preferredLocales. Alternate calendars for Gujarati, Marathi, and Korean. Natural selection of bidirectional text (combining LTR and RTL). Writing direction is determined dynamically. Wake up to the AlarmKit API Framework to create alarm based on schedule or countdown. Countdown live activity. Authorization required. Secondary button to run app intent to open app. What’s new in StoreKit and In-App Purchase AppTransaction now includes appTransactionID and originalPlatform. New SubscriptionStatus API. Offer codes now available for consumables, non-consumables, and non-renewing subscriptions. New server APIs require a JSON web signature. New subscription offer view. Meet PaperKit Canvas for drawing and markup elements. Uses by Notes and Journal apps. Now available for macOS Tahoe. System Services Finish tasks in the background New continued processing task. Started by explicit user action, like an export. Has a definite end. Not for routine maintenance, backups, sync. Provide progress updates to the system and an expiration handler. Background GPU access. Supercharge device connectivity with Wi-Fi Aware New in iOS 26, Wi-Fi Aware, cross-platform standard, for direct device-to-device connectivity. Filter and tunnel network traffic with NetworkExtension Use Network Extension to build a VPN app. Use Content Filter API to filter content. In iOS 26, filter on full URL using URL filter. App has no access to traffic. System performs the filtering on behalf of app to maintain privacy. Use structured concurrency with Network framework In iOS and macOS 26 Network framework integrates with Swift concurrency. Declarative syntax to define the protocol stack. Send and receive are async functions. Built-in type, length, value (TLV) framer. Directly send/receive codable types. Network browser to discover devices using Wi-Fi Aware or Bonjour. Optimize home electricity usage with EnergyKit Seems to be US only, provides insights into the local electricity grid so people can reduce or shift usage to take advantage of cheaper/cleaner energy. Discover Apple-Hosted Background Assets On Demand Resources is a legacy technology and will be deprecated, migrate to Background Assets. Apple Developer Program includes 200GB of Apple hosting capacity. Packaging tool to create asset packs. System provides full-featured downloader extension which you can drop into your app. Mock server ships with Xcode so you can test locally. Photos and Camera Enhance your app’s audio recording capabilities In-app input device selection on iOS using new AVKit API. New high quality bluetooth recording option using AirPods. Spatial Audio capture and AudioMix effect. Enhancing your camera experience with capture controls Using device buttons to control camera capture. AirPod clicks to remotely control camera without touching device. Privacy and Security Integrate privacy into your development process Data minimization, on-device processing, transparency and control, protections. What’s new in passkeys New account creation API shows a pre-filled sheet and saves passkey in Passwords app. Synced across devices. New Signal API to tell password manager that user details changed, revoke a passkey, or that a password is no longer needed. Securely transfer passkeys between credential manager apps. Enhance child safety with PermissionKit Uses Family Sharing group to allow child to ask permission from a parent or guardian using Messages. Deliver age-appropriate experiences in your app App Store has finer grained age categories. Parent sets a child’s age range. Declared Age Range framework to confirm a child’s age range. Using age range keeps birth date private. Get ahead with quantum-secure cryptography Harvest now and decrypt later attack requires mitigation now. Quantum secure algorithms are ready for adoption. iMessage already uses quantum secure hybrid encryption. TLS 1.3 has a quantum secure encryption upgrade. Enabled by default in iOS 26. CryptoKit has new secure algorithms. Maps and Location Go further with MapKit New GeoToolbox framework with PlaceDescriptor to find rich data about a place when working with MapKit or other mapping providers. Geocoding now in MapKit deprecating Core Location classes CLGeocoder and CLPlacemark. Cycle directions. Many MapKit APIs now on watchOS. Look Around on MapKitJS. Health and Fitness Meet the HealthKit Medications API New Medications API to read medications data user adds in the Health app. Sample app shows logging of side-effects. Track workouts with HealthKit on iOS and iPadOS Best practises for tracking workouts on iOS. Pair with a heart rate monitor. Access workout data when locked. Siri intent handler to start and stop workouts. App is automatically relaunched on crash, recover active workout. Audio and Video Enhance your app with machine-learning-based video effects New ML-based video-editing effects for Video Toolbox now also available on iOS. Includes frame rate conversion, super resolution and motion blur. Create a seamless mutliview playback experience Playing multiple streams of audio/video, synchronized and unsynchronized using AVFoundation and AVRouting with AirPlay integration. Capture cinema video in your app Cinematic video introduced with iPhone 13 allowing user to rack focus between subjects. New Cinematic Video API to capture cinematic video. Safari and Web What’s new in Safari and WebKit Safari 19 features. CSS scroll-driven animations. Cross document transitions. Anchor layout positioning. Background-clip, shape(), text-wrap: pretty. SVG icons. HDR images. Ogg Opus and Ogg Vorbis. Verify identity documents on the web Online identity verification using digital identity documents. ID’s in Apple Wallet use the mdoc format (US only). W3C Digital Credentials API to request mdocs from Safari and WebKit. Learn more about Declarative Web Push Enhancement of original Web Push to allow notifications to be defined directly in JSON without code. What’s new for the spatial web New HTML Model element, stereoscopic rendering. 180/360-degree or wide field of view spatial video. Website environments in Safari developer preview to provide a virtual environment to website visitors. Spatial Computing Apple continues to extend visionOS: What’s new in visionOS 26 SwiftUI 3D layout modifiers. Presentation from volumes. Render outside app’s bounds. Object Manipulation API. Unified coordinate conversion. RealityKit entities are Observable, directly attach SwiftUI gestures. Spatial Audio Experience API. Persist views in place across restarts. Faster (3x) hand tracking. Support for Sony VR2 and Logitech Muse controllers. Increased memory limits. Render and stream content from a Mac. Nearby Window Sharing in SharePlay apps. Apple Projected Media Profiles. Look to scroll. New Enterpise APIs. What’s new in RealityKit tvOS support. Direct access to ARKit data for anchoring. Pick up and rotate 3D objects and swap hands. Add collision and physics to real world objects. Hide entities behind static real objects. Present 2D images, spatial photos and scenes. Immersive video. Add SwiftUI views directly to entities. Set the scene with SwiftUI in visionOS Windows, volumes, and widgets can lock in place, use scene restoration to bring them back. Default launch behaviour. Snap windows and volumes to physical environment. Stream immersive spaces from macOS to visionOS. Scene Bridging to add SwiftUI volumes and immersive spaces to UIKit or AppKit apps. Meet SwiftUI spatial layout 3D extensions to SwiftUI layout system to build 3D scenes without RealityKit. Most modifiers have a 3D analog. Better together: SwiftUI and RealityKit Load animations from a Model3DAsset. RealityKit entities are now observable. Object Manipulation API works from both SwiftUI or RealityKit. Attach SwiftUI views, gestures, and presentations directly within RealityKit scenes. Unified Coordinate Conversion to convert between RealityKit and SwiftUI. Share visionOS experiences with nearby people Share apps with nearby people in the same space. Participate remotely with FaceTime. Builds on SharePlay. Explore spatial accessory input on visionOS Support for spatial accessories: Sony PlayStation VR2 Sense controller and Logitech Muse. Optimize your custom environments for visionOS Optimizing and baking assets using Houdini procedural tools. Explore video experiences for visionOS Choosing between different video profiles from 2D, 3D, Spatial, 180, 360, Wide and Apple Immersive Video. Blackmagic URSA Cine Immersive camera captures 8160 x 7200 pixels per eye at 90fps. Learn about Apple Immersive Video technologies Apple Immersive Video requires specific cameras like the BlackMagic URSA to capture. How to read, write, and publish immersive videos. New Apple Spatial Audio Format (ASAF) encode with Apple Positional Audio Codec (APAC), playback on all platforms except watchOS. Support immersive video playback in visionOS apps Immersive video playback using QuickLook, AVKit, or RealityKit. Comfort mitigation to detect high motion and reduce immersion. Learn about the Apple Projected Media Profile APMP supports 180, 360, and wide FOV video, can be captured with consumer devices. QuickTime and MP4 file formats. Already supported by Final Cut Pro. Reading, writing, editing, and publishing with Core Media, Video Toolbox, and AVFoundation. Business and Education What’s new in Apple device management and identity Prevent personal Apple Accounts from signing-in to work devices. Migrate between MDM servers. Declarative Device Management extended to Vision Pro and Apple TV. Safari management of bookmarks and homepage. Device reset can now preserve managed apps when wiping user data. Per-app control of app updates. Authenticated Guest mode for shared macs. Tap to login using iPhone or watch. Get to know the ManagedApp Framework New framework for managed deployments. Provide app configuration, provision passwords, certs, and identities. Works with single sign-on, and device attestation. Explore enhancements to your spatial business app Enterprise APIs for in-house visionOS apps. External video and Neural Engine access no longer needs enterprise license. Vision Entitlement Services to check licenses and entitlements. Window follow mode. New ARKit enterprise API to share coordinate spaces. Protected content API to prevent screen captures and sharing. CameraRegionView for dedicated view of specific area you want to watch. Metal and Games Metal 4 is supported on the M1 and A14 Bionic or later: Discover Metal 4 Explore Metal 4 games Go further with Metal 4 games Level up your games Combine Metal 4 machine learning and graphics What’s new in Metal rendering for immersive apps Apple Games Get started with Game Center Use GameKit bundle in Xcode to configure Game Center features. Allows testing of achievements and leaderboards in Xcode. New features for Challenges and Activities. Engage players with the Apple Games app New Games app pre-installed on devices. Any Apps with the Games category show up in the app. Includes Apple Arcade and Game Center in a dedicated games app to make it easier to discover games. Bring your SceneKit project to RealityKit SceneKit is soft-deprecated. SceneKit apps continue to work but framework is in maintenance mode and not recommended. New apps and significant updates should use RealityKit. Differences and ways to port SceneKit apps to RealityKit. WWDC 2025 Viewing Guide was originally posted 16 Jun 2025 on useyourloaf.com. Want this direct to your inbox? Sign up and get my free WWDC viewing guide PDF.",
+    "author": "",
+    "published": "Mon, 16 Jun 2025 09:00:00 +0100",
+    "image": "",
+    "source": "https://useyourloaf.com/blog/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "e0f38c99-b80e-458c-92c0-f0952b53cc5d",
+    "title": "321: WWDC 2025 Aftermath",
+    "link": "http://relay.fm/radar/321",
+    "description": "Initial impressions of WWDC 2025 and what we're going to be doing this summer.",
+    "author": "Marco Arment and David Smith",
+    "published": "Thu, 19 Jun 2025 13:45:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar321.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  },
+  {
+    "id": "1e27dccf-73e7-446c-b240-484508316a21",
+    "title": "320: Before the Barrier",
+    "link": "http://relay.fm/radar/320",
+    "description": "Expectations and preparations for WWDC 2025.",
+    "author": "Marco Arment and David Smith",
+    "published": "Thu, 05 Jun 2025 13:30:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar320.mp3",
+    "source": "https://www.relay.fm/radar/feed",
+    "categories": null
+  },
+  {
+    "id": "895db3f4-3a4d-4495-b801-cee855883e52",
+    "title": "Saturday March",
+    "link": "https://inessential.com/2025/06/13/saturday-march.html",
+    "description": "Tomorrow is No Kings. There’s one near you! Chatting with my friends about how I hate these fascist assholes doesn’t do a damn thing. Protests work. (Imperfectly, sure, with no guarantees. But it sure beats not protesting.)",
+    "author": "",
+    "published": "Fri, 13 Jun 2025 20:04:06 -0700",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "972ee8d6-0c25-47c6-9ace-16855284ec35",
+    "title": "Retirement Day",
+    "link": "https://inessential.com/2025/06/06/retirement-day.html",
+    "description": "I wrote in my love letter to my colleagues at Audible that retirement is coming up — and now it’s here. Today’s the day! I’ve attended my last meetings. I’ve said my goodbyes. My laptop’s ready to ship back to Audible HQ. * * * I started working in 1984, while in high school, busing tables part time at Schaefers Canal House in Chesapeake City, MD. And I stopped working this day in 2025, almost 41 years later, as a senior engineer (which is surprisingly a lot like busing tables — lots of cleanup and setting the table just right for the customers to have a great time). Along the way I worked on, among other apps, Userland Frontier, NetNewsWire, MarsEdit, Glassboard, Vesper, OmniFocus, OmniOutliner, and Audible. * * * My immediate plan — Exhale! Breathe. Enjoy a steak. Watch WWDC from the comfort of home next week. Get back to work on NetNewsWire. 🌲",
+    "author": "",
+    "published": "Fri, 06 Jun 2025 11:20:46 -0700",
+    "image": "",
+    "source": "https://inessential.com/xml/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "6f1ca9fb-dd37-49fb-858e-6c9937ad8659",
+    "title": "Solar Powered Birdhouse",
+    "link": "https://atomicbird.com/blog/birdhouse-solar-power/",
+    "description": "In my last couple of posts I’ve talked about the hardware and software behind my birdhouse camera project. I haven’t previously covered how I’m giving it all enough power to operate, and therein lies a tale. No Power? No Problem If I had a power outlet located anywhere near the bird house, this would have been easy. Pretty much any micro-USB power adapter would plug into the Raspberry Pi, and I’d be set.",
+    "author": "",
+    "published": "Thu, 19 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  },
+  {
+    "id": "5fc75625-07f8-41a0-8a29-3636d7cd1d08",
+    "title": "Raspberry Pi Birdhouse Software",
+    "link": "https://atomicbird.com/blog/birdhouse-software/",
+    "description": "In my last post I went over the components of the bird house camera I set up this year to get a better look at the local black-capped chickadees. Today I’ll talk about the software that makes it work. Initial Setup Being relatively new to Raspberry Pi, I started off with a full install of Raspbian Deskop. It’s more than I need, since I won’t have anything like a desktop setup, but with a 64GB SD card I wasn’t concerned about the space.",
+    "author": "",
+    "published": "Mon, 09 May 2022 00:00:00 +0000",
+    "image": "",
+    "source": "https://atomicbird.com/index.xml",
+    "categories": null
+  }
+]

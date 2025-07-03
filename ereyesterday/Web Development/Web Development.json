@@ -1,0 +1,121 @@
+[
+  {
+    "id": "7f9ffda2-1a35-4ed9-94d4-8ac4427d1b4c",
+    "title": "Chrome 139 beta",
+    "link": "https://developer.chrome.com/blog/chrome-139-beta?hl=en",
+    "description": "Find out about the new features coming to Chrome with the latest beta.",
+    "author": "",
+    "published": "Wed, 25 Jun 2025 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "4638eda2-6bfe-4ed5-abb5-b3a3fb1b8423",
+    "title": "New in Chrome 138",
+    "link": "https://developer.chrome.com/blog/new-in-chrome-138?hl=en",
+    "description": "Several new CSS functions, and built-in AI APIs for summarizing, translating, and detecting language.",
+    "author": "",
+    "published": "Tue, 24 Jun 2025 07:00:00 GMT",
+    "image": "",
+    "source": "https://developer.chrome.com/static/blog/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "2d514594-64a0-49a9-b554-1ac3c50a4fa8",
+    "title": "Easy way to upload, transform and deliver files and images (Sponsored)",
+    "link": "https://davidwalsh.name/easy-way-to-upload-transform-and-deliver-files-and-images",
+    "description": "Managing media is a really difficult task if you try to do all of it yourself, especially if the media comes from other sources. The file can be submitted in any state and size, but what if you need something really specific? You can code it all yourself or you can use an awesome service […] The post Easy way to upload, transform and deliver files and images (Sponsored) appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Mon, 24 Mar 2025 22:58:30 +0000",
+    "image": "https://davidwalsh.name/demo/2025/03/SCR-20250316-ntgo-1024x567.png",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Sponsored",
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "ab3a54e7-b9d6-4629-872e-703cb40a0e03",
+    "title": "How to Download a YouTube Video or Channel",
+    "link": "https://davidwalsh.name/download-youtube-mp3",
+    "description": "The ability to download media on the internet almost feels like a lost art. When I was in my teens, piracy of mp3s, movies, and just about everything else via torrents and apps like Kazaa, LimeWire, Napster, etc. was in full swing. These days sites use blob URLs and other means to prevent downloads. Luckily […] The post How to Download a YouTube Video or Channel appeared first on David Walsh Blog.",
+    "author": "David Walsh",
+    "published": "Wed, 04 Sep 2024 04:42:36 +0000",
+    "image": "https://davidwalsh.name/demo/tjs_block-1.svg",
+    "source": "https://davidwalsh.name/feed",
+    "categories": [
+      "Quick Tips",
+      "Shell"
+    ]
+  },
+  {
+    "id": "b875148c-eb4e-4a01-86b6-2cfee1b22254",
+    "title": "Using CSS Cascade Layers With Tailwind Utilities",
+    "link": "https://css-tricks.com/using-css-cascade-layers-with-tailwind-utilities/",
+    "description": "Being the bad boy I am, I don't take Tailwind's default approach to cascade layers as the \"best\" one. Over a year experimenting with Tailwind and vanilla CSS, I've come across what I believe is a better solution. Using CSS Cascade Layers With Tailwind Utilities originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Zell Liew",
+    "published": "Mon, 30 Jun 2025 13:16:43 +0000",
+    "image": "",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "cascade layers",
+      "framework",
+      "tailwind"
+    ]
+  },
+  {
+    "id": "76c3e043-bd7e-4589-94ee-11b625998ade",
+    "title": "CSS Blob Recipes",
+    "link": "https://css-tricks.com/css-blob-recipes/",
+    "description": "Blob, Blob, Blob. What's the most effective way to create blob shapes in CSS? Turns out, as always, there are many. Let's compare them together! CSS Blob Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+    "author": "Juan Diego Rodríguez",
+    "published": "Fri, 27 Jun 2025 13:48:41 +0000",
+    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/image-3.png?resize=829%2C766\u0026ssl=1",
+    "source": "https://css-tricks.com/feed/",
+    "categories": [
+      "Articles",
+      "art",
+      "blobs",
+      "css shapes"
+    ]
+  },
+  {
+    "id": "0144c72d-874d-4b89-a075-a8f464b26a09",
+    "title": "Improving Firefox Stability in the Enterprise by Reducing DLL Injection",
+    "link": "https://hacks.mozilla.org/2025/03/improving-firefox-stability-in-the-enterprise-by-reducing-dll-injection/",
+    "description": "Beginning in version 138, Firefox will offer an alternative to DLL injection for Data Loss Prevention (DLP) deployments in enterprise environments. DLL Injection DLL injection into Firefox is a topic we’ve covered on the Hacks blog before. In 2023, we blogged about the Firefox capability to let users block third-party DLLs from being loaded. We […] The post Improving Firefox Stability in the Enterprise by Reducing DLL Injection appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "Haik Aftandilian",
+    "published": "Tue, 25 Mar 2025 18:31:16 +0000",
+    "image": "",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Enterprise",
+      "Feature",
+      "Firefox"
+    ]
+  },
+  {
+    "id": "fcd7284e-20fc-46c7-962d-3e0d5c601b3d",
+    "title": "Launching Interop 2025",
+    "link": "https://hacks.mozilla.org/2025/02/interop-2025/",
+    "description": "Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024’s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements, Storage Access API, and CSS Zoom. The post Launching Interop 2025 appeared first on Mozilla Hacks - the Web developer blog.",
+    "author": "James Graham",
+    "published": "Thu, 13 Feb 2025 16:59:13 +0000",
+    "image": "https://hacks.mozilla.org/wp-content/uploads/2025/02/Pasted-image-500x348.png",
+    "source": "https://hacks.mozilla.org/feed/",
+    "categories": [
+      "Featured Article",
+      "Firefox",
+      "Web Developers",
+      "Accessibility",
+      "browsers",
+      "firefox",
+      "interop",
+      "interoperability",
+      "storage",
+      "WebRTC"
+    ]
+  }
+]
