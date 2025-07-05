@@ -1,0 +1,374 @@
+[
+  {
+    "id": "7263fb0a-ba55-4380-91a6-d78258116ed7",
+    "title": "Retreating to Safety",
+    "link": "https://marco.org/2025/05/30/retreat",
+    "description": "Ten years ago, Apple’s Phil Schiller surprised Apple enthusiasts and developers by walking out on stage at John Gruber’s The Talk Show Live WWDC event and giving an open, human, honest interview to a somewhat jaded community. I wrote this in response: Both Apple and Phil Schiller himself took a huge risk in doing this. That they agreed at all is a noteworthy gift to this community of long-time enthusiasts, many of whom have felt under-appreciated as the company has grown. […] Phil’s appearance on the show was warm, genuine, informative, and entertaining. It was human. And humanizing the company and its decisions, especially to developers — remember, developer relations is all under Phil — might be worth the PR risk. This started a ten-year run of interviews by Apple executives on The Talk Show every year at WWDC that proved to be great, surprisingly safe PR for Apple. No executive ever said something they shouldn’t have (they’re pros), no sensational or negative news stories ever resulted from them, and Apple’s enthusiastic fans and developers felt seen, heard, and appreciated. *     *     * For unspecified reasons, Apple has declined to participate this year, ending what had become a beloved tradition in our community — and I can’t help but suspect that it won’t come back. (A lot has changed in the meantime.) Maybe Apple has good reasons. Maybe not. We’ll see what their WWDC PR strategy looks like in a couple of weeks. In the absence of any other information, it’s easy to assume that Apple no longer wants its executives to be interviewed in a human, unscripted, unedited context that may contain hard questions, and that Apple no longer feels it necessary to show their appreciation to our community and developers in this way. I hope that’s either not the case, or it doesn’t stay the case for long. This will be the first WWDC I’m not attending since 2009 (excluding the remote 2020 one, of course). Given my realizations about my relationship with Apple and how they view developers, I’ve decided that it’s best for me to take a break this year, gain some perspective, and decide what my future relationship should look like. Maybe Apple’s leaders are doing that, too.",
+    "author": "",
+    "published": "Fri, 30 May 2025 11:33:22 EDT",
+    "image": "https://marco.org/media/2015/06/tts2015-schiller6.jpg",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "c9cf6adf-9ff3-482e-9644-d9b0ded6178a",
+    "title": "Ten years of Overcast: A new foundation",
+    "link": "https://marco.org/2024/07/16/overcast-rewrite",
+    "description": "Today, on the tenth anniversary of Overcast 1.0, I’m happy to launch a complete rewrite and redesign of most of the iOS app, built to carry Overcast into the next decade — and hopefully beyond. Like podcasts better than blog posts? Listen to ATP #596 for more! What’s new Much faster, more responsive, more reliable, and more accessible. Modern design, optimized for easily-reached controls on today’s phone sizes. Improvements throughout, such as undoing large seeks, new playlist-priority options, easier navigation, and more. What’s not Most features. Overcast is still Overcast! The audio engine. It’s the best part of Overcast, and still leads the industry in sound quality, silence skipping, and volume normalization. (More soon!) The business. I’m still a one-person operation, with no funding or external ownership, serving only my customers. My principles. I always want to make the best podcast app, and I’ll never disrespect your time, attention, or privacy. What’s gone Streaming. Most big podcasts now use dynamic ad insertion, which causes bugs and problems for streaming playback.1 Downloading episodes completely before they begin playback is much more reliable. Tapping a non-downloaded episode will now open the playback screen, download it, then start playback. It works similarly to the way streaming did before, but playback begins after the download completes, not after a portion of it is buffered. On today’s fast networks, this usually only takes a few extra seconds. And in the near future, I’ll be adding smarter options and more control over selective downloading of episodes to further improve the experience for people who don’t automatically download every episode. What’s next The last few missing features from the old app, such as Shortcuts support, storage management, and OPML. These are absent now, but will return soon. More options for downloading and deleting episodes. Upgrading the Apple Watch app to the new, faster sync engine. (The Watch app is currently unchanged from the previous one.) And, of course, more features, including some of your most-requested features over the last decade. Getting this rewrite out the door was a monumental task. Thank you for your patience as I work through this list! Why? Most of Overcast’s core code was 10 years old, which made it cumbersome or impossible to easily move with the times, adopt new iOS functionality, or add new features, especially as one person. That’s why there haven’t been many new features or changes in years. You saw it, and I saw it. I wasn’t able to serve my customers as well as I wanted. For Overcast to have a future, it needed a modern foundation for its second decade. I’ve spent the past 18 months rebuilding most of the app with Swift, SwiftUI, Blackbird, and modern Swift concurrency. Now, development is rapidly accelerating. I’m more responsive, iterating more quickly, and ultimately making the app much better. Thank you all so much for the first decade of Overcast. Here’s to the next one. Dynamic ad insertion (DAI) splices ads into each download, and no two downloads are guaranteed to have the same number or duration of ads. So, for example, if the first half of an episode downloads, then the download fails, and it downloads the second half with another request, the combined audio may jump forward or back at the halfway mark, losing or repeating content. ↩︎",
+    "author": "",
+    "published": "Tue, 16 Jul 2024 08:57:40 EDT",
+    "image": "https://marco.org/media/2024/overcast-rewrite-list.png",
+    "source": "https://marco.org/rss",
+    "categories": null
+  },
+  {
+    "id": "e6ad4edf-8473-4a18-b9cf-1bcfc53c3798",
+    "title": "How to Run MacOS Tahoe 26 Beta in a UTM Virtual Machine",
+    "link": "https://osxdaily.com/2025/07/02/how-to-run-macos-tahoe-26-beta-in-a-utm-virtual-machine/",
+    "description": "There are a variety of different ways to run MacOS Tahoe 26 beta, including installing it as an upgrade to an existing MacOS installation (which is not recommended for most people, by the way), but by far the safest and perhaps simplest way is to use a virtual machine. Virtual Machines (VM) offer isolated virtualized ... Read More",
+    "author": "Paul Horowitz",
+    "published": "Wed, 02 Jul 2025 17:52:53 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Mac OS",
+      "Tips \u0026 Tricks",
+      "Mac",
+      "macOS",
+      "MacOS 26",
+      "MacOS Tahoe",
+      "MacOS Tahoe 26",
+      "MacOS Tahoe Beta",
+      "tips",
+      "tricks",
+      "UTM",
+      "virtual machine",
+      "virtualization",
+      "vm"
+    ]
+  },
+  {
+    "id": "7af3c667-a07c-4962-b511-3ed45363cfc3",
+    "title": "Deals: Up to $175 Off 15″ M4 MacBook Air, iPad Mini 7 for $399, Apple Watch 10 at $299",
+    "link": "https://osxdaily.com/2025/07/02/deals-up-to-175-off-15-m4-macbook-air-ipad-mini-7-for-399-apple-watch-10-at-299/",
+    "description": "Amazon is on it yet again with some really great discounts on Apple products, including discounts on the entire M4 MacBook Air lineup with the upgraded 15″ 24GB model being the most deeply discounted at $175 off retail, the iPad Mini 7 available at a $100 discount for just $399, and slashing $100 off the ... Read More",
+    "author": "OSXDaily",
+    "published": "Wed, 02 Jul 2025 17:51:48 +0000",
+    "image": "",
+    "source": "http://feeds.feedburner.com/osxdaily",
+    "categories": [
+      "Deals",
+      "deals"
+    ]
+  },
+  {
+    "id": "2f8495bd-7fe0-4064-9688-ec514097a3dd",
+    "title": "One more thing… Goodbye from iMore",
+    "link": "https://www.imore.com/apple/one-more-thing-goodbye-from-imore",
+    "description": "Time to power down for good.",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 23:00:00 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/8kts3gvMKEK9MsJtLxS83Q.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Apple"
+    ]
+  },
+  {
+    "id": "88068dc0-2dac-4a3f-b148-a55c0e548b42",
+    "title": "iFi GO bar Kensei review: Stunning sound, fabulous features, premium price",
+    "link": "https://www.imore.com/music-movies-tv/ifi-go-bar-kensei-review",
+    "description": "One of the best mobile DACs I've reviewed, the iFi GO bar Kensei is a masterclass in build quality, and quality features, with audiophile-grade pricing",
+    "author": "",
+    "published": "Wed, 25 Sep 2024 21:54:54 +0000",
+    "image": "https://cdn.mos.cms.futurecdn.net/rthVJM84X2nLRNNyoksasV.jpg",
+    "source": "http://feeds.feedburner.com/TheiPhoneBlog",
+    "categories": [
+      "Music, Movies and TV"
+    ]
+  },
+  {
+    "id": "dce58aa4-98ef-433f-a5c5-ae1967e9567c",
+    "title": "∞ The Dalrymple Report: Alexa+, Charging, and iOS 26",
+    "link": "https://www.loopinsight.com/2025/06/27/the-dalrymple-report-alexa-charging-and-ios-26/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-alexa-charging-and-ios-26",
+    "description": "Dave got a new speaker assistant for his home... and it's powered by Alexa. We talk about how much better Alexa is than Siri and even throw in some comments about Gemini, Google's AI assistant (spoiler, it's better than Siri too). We also talk about charging one device off of anotherfor instance, charging your AirPods using your phone. And we look at some of the new features of Apple's new OSes. Follow this podcast Show Notes: Charge AirPods (or Even an iPhone) With Your iPhone iOS 26 Brings New Functionality to HomePod A few iOS 26 Best and Hidden Features iPhone Users Upset About Apple Promoting F1 Movie With Wallet App Notification Shows and movies we're watching Anatomy of a Scandal, Netflix Sally, Disney+",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 27 Jun 2025 17:41:20 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "634cd10f-9945-4117-b859-1bd3b6ee3b37",
+    "title": "∞ The Dalrymple Report: ETA, Liquid Glass, and iCloud Storage",
+    "link": "https://www.loopinsight.com/2025/06/20/the-dalrymple-report-eta-liquid-glass-and-icloud-storage/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-dalrymple-report-eta-liquid-glass-and-icloud-storage",
+    "description": "Have you ever shared your ETA with someone? Most of us have. Dave has a suggestion for how ETA should work in the future. We talk about the Apple's new design, Liquid Glass, and what drove the company to move in that direction for its OSes. We also talk about a new lawsuit that Apple faces over iCloud storage. Follow this podcast Brought to you by: LinkedIn Jobs: LinkedIn Jobs helps you find the candidates you want to talk to, faster. Did you know every week, nearly 40 million job seekers visit LinkedIn? Post your job for free at LinkedIn.com/DALRYMPLE. Terms and conditions apply. Show Notes: WWDC: The Bento Boxes On AR being the driver for Apple's Liquid Glass Apple must face consumer lawsuit over iCloud storage, US judge rules YouTube's Latest Move Against Ad Blockers: Video Delays Shows and movies we're watching Anatomy of a Scandal, Netflix Trailer to upcoming Springsteen biopic",
+    "author": "Jim Dalrymple",
+    "published": "Fri, 20 Jun 2025 16:02:18 +0000",
+    "image": "",
+    "source": "https://www.loopinsight.com/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "49125fe6-6cf7-4451-9906-8a5b8410f821",
+    "title": "Review: XREAL One’s are incredibly versatile, and they really come to life with the iPad Pro",
+    "link": "https://9to5mac.com/2025/07/02/xreal-one-ar-glasses-review-versatile-with-m4-ipad-pro/",
+    "description": "I’ve been reviewing one of XREAL’s more recent releases of AR glasses: the . These are certainly the most versatile pair of AR glasses I’ve tried out so far, and they actually really come to life somewhere you wouldn’t expect: the M4 iPad Pro running iPadOS 26. come in at just under 3 ounces (84 grams), making them easy to just carry around. more…",
+    "author": "Michael Burkhardt",
+    "published": "Thu, 03 Jul 2025 00:28:25 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/IMG_0111.jpeg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "6e71aac1-a4ed-4dd4-ad36-cb6b430b9077",
+    "title": "Two years in, Apple is now officially on Threads",
+    "link": "https://9to5mac.com/2025/07/02/two-years-in-apple-is-now-officially-on-threads/",
+    "description": "It took a minute, but Apple has at last activated its official Threads account. And thanks to its massive Instagram presence, it instantly picked up nearly 5 million followers. more…",
+    "author": "Marcus Mendes",
+    "published": "Wed, 02 Jul 2025 22:07:49 +0000",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/threads-apple.jpg?quality=82\u0026strip=all\u0026w=1600",
+    "source": "https://9to5mac.com/feed",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "7350de0d-0445-4a7c-9225-7eb43bfa5d9f",
+    "title": "Shot on iPhone 16 Pro | Big Man - Behind The Scenes | Apple",
+    "link": "https://www.youtube.com/watch?v=HVuB_LoUE7Q",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-06-18T19:11:01+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "b890c371-5deb-4596-85fa-ae9b9e8708d9",
+    "title": "Shot on iPhone 16 Pro | Big Man - Starring Stormzy | Apple",
+    "link": "https://www.youtube.com/watch?v=AUrLMJQf2Bw",
+    "description": "",
+    "author": "Apple",
+    "published": "2025-06-18T19:10:36+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+    "categories": null
+  },
+  {
+    "id": "0bf2274d-cb91-476d-869f-6aa8818fead2",
+    "title": "Apple and Major League Baseball announce August “Friday Night Baseball” schedule",
+    "link": "https://www.apple.com/newsroom/2025/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-07-01T15:00:24.565Z",
+    "image": "https://www.apple.com/newsroom/images/logos/quick-reads-logos/Apple-TV-plus-MLB-Friday-Night-Baseball.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "UPDATE"
+    ]
+  },
+  {
+    "id": "d59a6647-14e5-4719-9248-941c785e8dbc",
+    "title": "Apple Music celebrates 10 years with the launch of a new global hub for artists",
+    "link": "https://www.apple.com/newsroom/2025/06/apple-music-celebrates-10-years-with-the-launch-of-a-new-global-hub-for-artists/",
+    "description": "",
+    "author": "Apple Newsroom",
+    "published": "2025-06-30T12:59:33.062Z",
+    "image": "https://www.apple.com/newsroom/images/2025/06/apple-music-celebrates-10-years-with-the-launch-of-a-new-global-hub-for-artists/tile/Apple-Music-10th-anniversary-Los-Angeles-studio-lp.jpg.og.jpg",
+    "source": "https://www.apple.com/newsroom/rss-feed.rss",
+    "categories": [
+      "PRESS RELEASE"
+    ]
+  },
+  {
+    "id": "a89ab392-b3c9-45f5-99c5-b40f4de0de73",
+    "title": "How to use an iPad as a screen for the Nintendo Switch 2",
+    "link": "https://appleinsider.com/inside/ipad/tips/how-to-use-an-ipad-as-a-screen-for-the-nintendo-switch-2?utm_medium=rss",
+    "description": "The Nintendo Switch 2 is a massive hit, but its relatively small screen size is still limiting. Here's how to use an iPad as an external display for better gaming.The welcome screen of the new Switch 2 on our iPad ProNintendo has reportedly sold more than five million units of its new portable gaming device. The new handheld sports a new 7.9-inch display, along with updated controllers, a better design, and a much faster processor.What's always been great about the Switch, is that unlike other consoles that are dedicated handhelds or only work with a TV connected, it does both. It can be used on the go, or it can be docked and used with a display. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Andrew O'Hara",
+    "published": "Wed, 02 Jul 2025 21:14:32 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/64216-133762-DSC_5731-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "b72d6807-a96a-4bf9-af66-c06995d7fba5",
+    "title": "Reminders iOS 26 vs iOS 18: Liquid Glass, Apple Intelligence, and new Lists",
+    "link": "https://appleinsider.com/inside/ios-26/vs/reminders-ios-26-vs-ios-18-liquid-glass-apple-intelligence-and-new-lists?utm_medium=rss",
+    "description": "Reminders in iOS 26 has a few new smart features with Apple Intelligence, and a restrained visual upgrade over iOS 18. Here's how the two versions compare.Reminders iOS 26 vs Reminders iOS 18 - A visual and smart upgradeThe Reminders app isn't really an app that people think about that can do with some improvements. What Apple has at the moment is already a pretty good tool for making lists and following through with them.With the introduction of iOS 26 at WWDC, Apple made quite a few alterations to the app. While the general structure remains untouched, it has refreshed the appearance as well as made it much smarter. Continue Reading on AppleInsider | Discuss on our Forums",
+    "author": "Malcolm Owen",
+    "published": "Wed, 02 Jul 2025 20:04:06 +0000",
+    "image": "https://photos5.appleinsider.com/gallery/64227-133784-remindersios1826header-xl.jpg",
+    "source": "https://appleinsider.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "ca2a72a4-58c9-42df-ad06-9446bbb1f335",
+    "title": "How to Play Nintendo Switch 2 on Your iPad! (Also Xbox \u0026 PS5)",
+    "link": "https://www.youtube.com/watch?v=l9diZp-WQNM",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-07-02T19:11:12+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "e018d414-16e2-403f-a5a0-c41fcebba7d0",
+    "title": "Nothing Headphone (1): Premium Audio, Unique Design, and $299?",
+    "link": "https://www.youtube.com/watch?v=xzd6B35FU20",
+    "description": "",
+    "author": "MacRumors",
+    "published": "2025-07-01T17:30:23+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+    "categories": null
+  },
+  {
+    "id": "09eb3c71-d806-4501-b833-ec5b1c829d42",
+    "title": "Jason Snell: ‘About That A18 Pro MacBook Rumor’",
+    "link": "https://sixcolors.com/post/2025/07/about-that-a16-macbook-rumor/",
+    "description": "",
+    "author": "John Gruber",
+    "published": "2025-07-02T15:40:55Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "f29ce2f5-07cc-4aa1-a4e9-45c486e5adde",
+    "title": "[Sponsor] Phoenix.new",
+    "link": "https://phoenix.new/?utm_source=df",
+    "description": "",
+    "author": "Daring Fireball Department of Commerce",
+    "published": "2025-07-01T16:44:21Z",
+    "image": "",
+    "source": "https://daringfireball.net/feeds/main",
+    "categories": null
+  },
+  {
+    "id": "7b7836dd-5289-4359-8430-854b5a458f69",
+    "title": "Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)",
+    "link": "https://www.macrumors.com/2021/09/21/deals-apple-pencil-macbook-air/",
+    "description": "Today we're tracking a pair of deals, one on the Apple Pencil 2 and one on the 2020 M1 MacBook Air. These sales include the current best price online for the Apple Pencil 2, and an all-time low price on the MacBook Air. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Apple Pencil 2 Firstly, Woot has the Apple Pencil 2 for $109.99, down from $129.00. This sale isn't the lowest price we've ever tracked on this accessory, as it's been down to $99.00 in previous sales earlier this year, but it's still a solid second-best deal if you're looking to purchase an Apple Pencil 2 this week. $19 OFFApple Pencil 2 for $109.99 The Apple Pencil 2 is compatible with the new iPad mini 6, but not the new 10.2-inch iPad. For that tablet, only the original Apple Pencil is supported. MacBook Air Amazon today has the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Space Gray and Silver. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. While the Gold option won't be available until around October 1, you can still purchase a Gold MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Get the Apple Pencil 2 for $109.99 ($19 Off) and 512GB M1 MacBook Air for $1,099.99 ($149 Off)\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Tue, 21 Sep 2021 10:51:07 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/09/sept-21-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "98ae9405-c641-4afe-8520-8a2ce0d3ed86",
+    "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
+    "link": "https://www.macrumors.com/2021/09/13/deals-amazon-macbook-air-2/",
+    "description": "Amazon today is offering the 512GB M1 MacBook Air for $1,099.99, down from $1,249.00. This is a match of the all-time low price on this model of the 2020 MacBook Air, and it's available in Gold and Silver. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll see this sale price reflected on the checkout screen, once an automatic coupon is applied to your order. Only the Gold color is available to ship today, while the Silver option won't be available until around September 21. You can still purchase a Silver MacBook Air today at this discounted price ahead of the delayed shipping date. $149 OFFM1 MacBook Air (512GB) for $1,099.99 The 256GB model is on sale as well, available for $849.99, down from $999.00. All three colors are discounted for this model, but none are in stock today. This is still the lowest price we've ever tracked for the 256GB MacBook Air, so if you're willing to wait a few weeks, it's worth locking in this price while it's available. You can find even more discounts on other MacBooks by visiting our Best Deals guide for MacBook Pro and MacBook Air. In this guide we track the steepest discounts for the newest MacBook models every week, so be sure to bookmark it and check back often if you're shopping for a new Apple notebook.Related Roundup: Apple DealsThis article, \"Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB\" first appeared on MacRumors.comDiscuss this article in our forums",
+    "author": "Mitchel Broussard",
+    "published": "Mon, 13 Sep 2021 06:36:38 PDT",
+    "image": "https://images.macrumors.com/article-new/2021/04/macbook-air-deals.jpg",
+    "source": "http://feeds.macrumors.com/MacRumors-Mac",
+    "categories": [
+      "Deals"
+    ]
+  },
+  {
+    "id": "cc733c1b-b287-4155-b23b-2d9545f94a30",
+    "title": "Last chance to claim settlement from Siri class-action lawsuit [Updated]",
+    "link": "https://www.cultofmac.com/how-to/apple-siri-class-action-lawsuit",
+    "description": "The Siri class-action lawsuit settlement means most Apple users are entitled to receive up to $100 over a privacy claim. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "author": "D. Griffin Jones",
+    "published": "Wed, 02 Jul 2025 23:25:00 +0000",
+    "image": "https://cdn.cultofmac.com/wp-content/uploads/2025/05/Submit-Your-Siri-Claim.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "How-To",
+      "Apple lawsuits",
+      "Siri"
+    ]
+  },
+  {
+    "id": "c0f1d280-dbd1-4d26-8018-fa01d233823b",
+    "title": "Price drop: Grab an M1 MacBook Air for just $429.99",
+    "link": "https://www.cultofmac.com/deals/refurbished-m1-macbook-air-sale",
+    "description": "Pick up the perfect laptop for students at a price that's perfect for anyone. Get a refurbished M1 MacBook Air on sale for just $429.99. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "author": "Cult of Mac Deals",
+    "published": "Wed, 02 Jul 2025 21:00:06 +0000",
+    "image": "https://cdn.cultofmac.com/wp-content/uploads/2024/09/macbook.jpg",
+    "source": "https://www.cultofmac.com/feed",
+    "categories": [
+      "Deals",
+      "Apple deals",
+      "Cult of Mac Deals",
+      "laptops",
+      "Mac",
+      "MacBook Air",
+      "refurbished Apple gear"
+    ]
+  },
+  {
+    "id": "18db04bb-214a-490f-bfc3-3b6dd71fe70d",
+    "title": "iOS 26 feature that turns off headphones when you fall asleep isn’t limited to AirPods",
+    "link": "https://www.macworld.com/article/2835295/ios-26-feature-that-turns-off-headphones-when-you-fall-asleep-isnt-limited-to-airpods.html",
+    "description": "Macworld At the WWDC25 keynote, Apple announced a new AirPods feature that would enable the headphones to pause when they sense that their wearer has fallen asleep. But it’s now been discovered that the function is a little more versatile than that suggests. A contributor to the tech site MacRumors has discovered code that indicates the feature is tied to iOS 26, rather than the AirPods line specifically, and suggests that it will work on Apple’s Beats headphones too. A good thing, since the Beats line-up is broader than the AirPods one and, in the form of the $70 Beats Flex and $80 Beats Solo Buds, boasts two options far cheaper than even the most basic AirPods. Once you’re running iOS 26, a new option to “Pause Media When Falling Asleep” will appear (and should be enabled by default, although this can be toggled in the Settings app once headphones are connected). With this feature activated, any audio that’s playing through your headphones will pause when you drift off, saving your place in a podcast or playlist. It will also shut off your headphones and thereby preserve battery life. Apple has not yet revealed how headphones are able to sense when the wearer is asleep, nor have any clues to this been discovered in beta code. One pair of Apple headphones, the Powerbeats Pro 2, has the ability to monitor heart rate, which would likely be enough, but none of the other models do. In fact, the monitor and sensor arrays vary widely across the Beats and AirPods ranges, so it’s hard to see how one method could be applied to all of them. We don’t expect the feature to extend to third-party headphones, but hopefully Apple will provide more clarity soon. The new feature is part of the new iOS 26 iPhone software update, but to use it you’ll also need to update your headphones with new firmware as well. For AirPods this can be a slightly mystifying process.",
+    "author": "",
+    "published": "Wed, 02 Jul 2025 17:10:58 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/07/beats_solo_buds_arctic_purple_1.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "Headphones, iOS"
+    ]
+  },
+  {
+    "id": "4d69856d-3c1b-49bc-852f-a56f559996c0",
+    "title": "High-tech Mac malware hides itself in fake Zoom update",
+    "link": "https://www.macworld.com/article/2835102/high-tech-mac-malware-hides-itself-in-fake-zoom-update.html",
+    "description": "Macworld SentinelLabs has posted a report about a new malware that targets Mac users of blockchain technologies, such as crypto. The threat agents behind the attack are based in North Korea, according to research by Huntabil.IT, as cited by SentinelLabs. The attack involves executable scripts written in AppleScript, C++, and Nim. Targeted users are sent a meeting invitation via Calendly, a cloud-based B2B scheduling service. The contact is made over Telegram as the attacker impersonates a trusted contact of the target. The invitation includes what appears as a link for a “Zoom SDK update script” but is actually a link to download and install the malware. Once installed, the malware collects “general system data,” browser data, and Telegram chat histories. It collects user data such as the login information of the Mac, the version of macOS being used, and passwords in macOS’s Keychain. SentinelLabs also reports that it targets data from Arc, Brave, Firefox, Google Chrome, and Microsoft Edge; Safari was not listed. How to protect yourself from malware Given the nature of the attack reported by SentinelLabs–Mac users of blockchain technologies who employ Calendly and Telegram–it seems as though most Mac users are not targets. However, the report points out that the use of Nim-based software in conjunction with AppleScript is a relatively new development. This combination helps the malware avoid detection and could be eventually used in a wider attack. The easiest way to protect yourself as an individual user from malware is to avoid downloading software from repositories such as GitHub and other download sites. Apple has vetted software in the Mac App Store, and is the safest way to get apps. If you prefer not to patronize the Mac App Store, then buy software directly from the developer and their website. If you insist on using cracked software, you will always risk malware exposure. Never open links in emails or texts you receive from unknown and unexpected sources. If you get a message that looks like it is from an entity that you do business with, check the sender’s email address and inspect the URL carefully. If you see a link or button, you can Control-click it, select Copy Link, and then paste it into a text editor to see the actual URL and check it. Apple releases security patches through OS updates, so installing them as soon as possible is important. Macworld has several guides to help, including a guide on whether or not you need antivirus software, a list of Mac viruses, malware, and trojans, and a comparison of Mac security software.",
+    "author": "",
+    "published": "Wed, 02 Jul 2025 15:55:34 +0000",
+    "image": "https://www.macworld.com/wp-content/uploads/2025/07/mac-security-graphic.jpg?quality=50\u0026strip=all",
+    "source": "https://www.macworld.com/index.rss",
+    "categories": [
+      "MacOS, Security Software and Services"
+    ]
+  },
+  {
+    "id": "974b3098-abc7-497c-b93d-02e834503776",
+    "title": "Podcast Rewind: Podcasting with iPadOS 26 and a Game Boy Camera for iOS",
+    "link": "https://www.macstories.net/news/podcast-rewind-podcasting-with-ipados-26-and-a-game-boy-camera-for-ios/",
+    "description": "Enjoy the latest episodes from MacStories’ family of podcasts: AppStories This week, Federico records entirely on his iPad Pro using the new local capture feature in iPadOS 26. He and John discuss how this system feature changes remote podcasting, their experiences and experiments with macOS Tahoe and the new Spotlight, and why both have returned […]",
+    "author": "Devon Dundee",
+    "published": "Tue, 01 Jul 2025 19:47:57 +0000",
+    "image": "https://cdn.macstories.net/untitled-1723570559765.png",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "news",
+      "appstories",
+      "NPC",
+      "podcast"
+    ]
+  },
+  {
+    "id": "0913bfe5-4941-4fe3-9204-2771e112a312",
+    "title": "Cloudflare Introduces a Pay-to-Scrape Beta Program for Web Publishers",
+    "link": "https://www.macstories.net/news/cloudflare-introduces-a-pay-to-scrape-beta-program-for-web-publishers/",
+    "description": "Governments have largely been ineffective in regulating the unfettered scraping of the web by AI companies. Now, Cloudflare is taking a different approach, tackling the problem from a commercial angle with a beta program that charges AI bots each time they scrape a website. Cloudflare’s CEO, Matthew Prince told Ars Technica: Original content is what […]",
+    "author": "John Voorhees",
+    "published": "Tue, 01 Jul 2025 12:36:36 +0000",
+    "image": "",
+    "source": "https://www.macstories.net/feed",
+    "categories": [
+      "news",
+      "AI",
+      "artificial intelligence",
+      "regulation"
+    ]
+  }
+]
