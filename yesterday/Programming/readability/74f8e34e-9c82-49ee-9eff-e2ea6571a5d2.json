@@ -1,0 +1,21 @@
+{
+  "id": "74f8e34e-9c82-49ee-9eff-e2ea6571a5d2",
+  "title": "",
+  "link": "http://scripting.com/2025/07/05.html#a174648",
+  "description": "WordLand v0.5.19 -- Lots of little fixes.",
+  "author": "",
+  "published": "Sat, 05 Jul 2025 17:46:48 GMT",
+  "source": "http://scripting.com/rss.xml",
+  "categories": null,
+  "byline": "",
+  "length": 884,
+  "excerpt": "Dave Winer, OG blogger, podcaster, developed first apps in many categories. Old enough to know better. It's even worse than it appears.",
+  "siteName": "Scripting News",
+  "favicon": "",
+  "text": "It's even worse than it appears.. An improvement in WordLand on the server, we now post metadata to WordPress, along with the HTML rendering so that code that runs on the server can now access and possibly in the future even talk back to WordLand. You never know where this stuff can go if the developers take advantage of opportunities to interop. # tinyFeedReader is a hit. But the docs aren't clear enough. It has no user interface, it's a package you can include in a Node app that calls back to you when a new item comes in from one of the feeds you've told it to watch. It's a totally teeny little framework for a feed reader, you get all the standard stuff tucked away out of site, you write the functionality you want to implement. It would be a good thing to turn over to your AI programming partner. It's for people who want to add a feed reader to something else. #",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv id=\"idPageTopText\"\u003e\n\t\n\t\u003cp\u003eIt\u0026#39;s even worse than it appears..\u003c/p\u003e\n\t\u003c/div\u003e\u003cdiv id=\"idDayContainer\"\u003e\n\t\t\t\t\n\n\u003cp\u003e\u003ca name=\"a174731\"\u003e\u003c/a\u003eAn improvement in WordLand on \u003ca href=\"https://github.com/scripting/wpIdentity/blob/main/worknotes.md#7525-101112-am-by-dw\"\u003ethe server\u003c/a\u003e, we now post metadata to WordPress, along with the HTML rendering so that code that runs on the server can now access and possibly in the future even talk back to WordLand. You never know where this stuff can go if the developers take advantage of opportunities to interop. \u003cspan\u003e\u003ca href=\"http://scripting.com/2025/07/05.html#a174731\" title=\"Direct link to this item.\"\u003e#\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003ca name=\"a214224\"\u003e\u003c/a\u003e\u003ca href=\"https://github.com/scripting/tinyFeedReader\"\u003etinyFeedReader\u003c/a\u003e is a hit. But the docs aren\u0026#39;t clear enough. It has no user interface, it\u0026#39;s a package you can include in a Node app that calls back to you when a new item comes in from one of the feeds you\u0026#39;ve told it to watch. It\u0026#39;s a totally teeny little framework for a feed reader, you get all the standard stuff tucked away out of site, you write the functionality you want to implement. It would be a good thing to turn over to your AI programming partner. It\u0026#39;s for people who want to add a feed reader to something else. \u003cspan\u003e\u003ca href=\"http://scripting.com/2025/07/05.html#a214224\" title=\"Direct link to this item.\"\u003e#\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\n\n\t\t\t\t\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": null,
+  "modifiedTime": null
+}

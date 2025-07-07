@@ -1,0 +1,30 @@
+{
+  "id": "26092b05-2ed0-4215-9439-f4b418bd3489",
+  "title": "Programming problems that seem easy, but aren't, featuring Jon Skeet",
+  "link": "https://stackoverflow.blog/2025/07/01/programming-problems-that-seem-easy-but-aren-t-featuring-jon-skeet/",
+  "description": "Jon Skeet, the first Stack Overflow user with a million reputation, sits down with Ryan to share his wealth of knowledge on all things development: the deceptively simple but actually complicated problem of timezones, the importance of clear documentation for programmers, handling breaking changes and upgrading legacy systems, and the need for improved communication skills among developers.",
+  "author": "Phoebe Sajor",
+  "published": "Tue, 01 Jul 2025 07:40:00 GMT",
+  "source": "https://stackoverflow.blog/feed/",
+  "categories": [
+    "community",
+    "dev-life",
+    "developer-relations",
+    "developer-experience",
+    "code-quality",
+    "soft-skills",
+    "podcast",
+    "se-stackoverflow"
+  ],
+  "byline": "Phoebe Sajor",
+  "length": 681,
+  "excerpt": "Jon Skeet, for those not in the know, is legendary here at Stack Overflow. He even got his own Chuck Norris Facts-style jokes.",
+  "siteName": "",
+  "favicon": "https://stackoverflow.blog/apple-touch-icon.png",
+  "text": "Jon Skeet, for those not in the know, is legendary here at Stack Overflow. He even got his own Chuck Norris Facts-style jokes.Jon has graced the podcast before in the early days on episodes 4, 72, and 123.He’s so good at answering Stack Overflow questions that he appeared at Stack Overflow’s old NYC office and answered them in person.While he’s not the only million rep user, he was the first, so we ran the numbers on him.Have a question? Jon Skeet has probably answered it on Stack Overflow. You can also find him on Blue Sky.Looking for C# 3.5? Spoiler alert: you won’t find it. Learn why from Jon’s very helpful question What are the correct version numbers for C#?TRANSCRIPT",
+  "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/d2cb4c948681d5ccbb8ff46ed2d69c6f6b6a8990-800x420.jpg?w=1200\u0026fm=png\u0026auto=format",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv itemprop=\"articleBody\"\u003e\u003cfigure data-v-1be5f7c5=\"\"\u003e\u003c/figure\u003e\u003cp\u003eJon Skeet, for those not in the know, is legendary here at Stack Overflow. He even got \u003ca href=\"https://meta.stackexchange.com/questions/9134/jon-skeet-facts\"\u003ehis own Chuck Norris Facts-style jokes\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eJon has graced the podcast before in the early days on episodes \u003ca href=\"https://stackoverflow.blog/2011/05/11/se-podcast-04/\"\u003e4\u003c/a\u003e, \u003ca href=\"https://stackoverflow.blog/2009/10/30/podcast-72/\"\u003e72\u003c/a\u003e\u003cstrong\u003e,\u003c/strong\u003e and \u003ca href=\"https://stackoverflow.blog/2018/03/14/podcast-123-jon-skeet-wants-you-to-be-a-feminist/\"\u003e123\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eHe’s so good at answering Stack Overflow questions that he appeared at Stack Overflow’s old NYC office and \u003ca href=\"https://stackoverflow.blog/2018/05/01/jon-skeet-answers-your-questions-irl/\"\u003eanswered them in person\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eWhile he’s not the only million rep user, he was the first, so \u003ca href=\"https://stackoverflow.blog/2018/01/15/thanks-million-jon-skeet/\"\u003ewe ran the numbers on him\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eHave a question? Jon Skeet has probably answered it \u003ca href=\"https://stackoverflow.com/users/22656/jon-skeet\"\u003eon Stack Overflow\u003c/a\u003e. You can also find him on \u003ca href=\"https://bsky.app/profile/jonskeet.uk\"\u003eBlue Sky\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eLooking for C# 3.5? Spoiler alert: you won’t find it. Learn why from Jon’s very helpful question \u003ca href=\"https://stackoverflow.com/questions/247621/what-are-the-correct-version-numbers-for-c\"\u003eWhat are the correct version numbers for C#?\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://the-stack-overflow-podcast.simplecast.com/episodes/programming-problems-that-seem-easy-but-arent-featuring-jon-skeet/transcript\"\u003eTRANSCRIPT\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

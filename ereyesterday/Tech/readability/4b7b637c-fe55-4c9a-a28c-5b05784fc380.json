@@ -1,0 +1,28 @@
+{
+  "id": "4b7b637c-fe55-4c9a-a28c-5b05784fc380",
+  "title": "Provider of covert surveillance app spills passwords for 62,000 users",
+  "link": "https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/",
+  "description": "Creators say app is intended for parental monitoring. So why the emphasis on stealth?",
+  "author": "Dan Goodin",
+  "published": "Thu, 03 Jul 2025 19:36:44 +0000",
+  "source": "http://feeds.arstechnica.com/arstechnica/index",
+  "categories": [
+    "Biz \u0026 IT",
+    "Security",
+    "android",
+    "apps",
+    "privacy",
+    "surveillance"
+  ],
+  "byline": "Dan Goodin",
+  "length": 1293,
+  "excerpt": "Creators say app is intended for parental monitoring. So why the emphasis on stealth?",
+  "siteName": "Ars Technica",
+  "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+  "text": "The maker of a phone app that is advertised as providing a stealthy means for monitoring all activities on an Android device spilled email addresses, plain-text passwords, and other sensitive data belonging to 62,000 users, a researcher discovered recently. A security flaw in the app, branded Catwatchful, allowed researcher Eric Daigle to download a trove of sensitive data, which belonged to account holders who used the covert app to monitor phones. The leak, made possible by a SQL injection vulnerability, allowed anyone who exploited it to access the accounts and all data stored in them. Unstoppable Catwatchful creators emphasize the app's stealth and security. While the promoters claim the app is legal and intended for parents monitoring their children's online activities, the emphasis on stealth has raised concerns that it's being aimed at people with other agendas. \"Catwatchful is invisible,\" a page promoting the app says. \"It cannot be detected. It cannot be uninstalled. It cannot be stopped. It cannot be closed. Only you can access the information it collects.\" The promoters go on to say users \"can monitor a phone without [owners] knowing with mobile phone monitoring software. The app is invisible and undetectable on the phone. It works in a hidden and stealth mode.\"",
+  "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-surveillance-1152x648.jpg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n                      \n                      \n          \u003cp\u003eThe maker of a phone app that is advertised as providing a stealthy means for monitoring all activities on an Android device spilled email addresses, plain-text passwords, and other sensitive data belonging to 62,000 users, a researcher discovered recently.\u003c/p\u003e\n\u003cp\u003eA security flaw in the app, branded Catwatchful, allowed researcher Eric Daigle to download a \u003ca href=\"https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/\"\u003etrove of sensitive data\u003c/a\u003e, which belonged to account holders who used the covert app to monitor phones. The leak, made possible by a SQL injection vulnerability, allowed anyone who exploited it to access the accounts and all data stored in them.\u003c/p\u003e\n\u003ch2\u003eUnstoppable\u003c/h2\u003e\n\u003cp\u003eCatwatchful creators emphasize the app\u0026#39;s stealth and security. While the promoters claim the app is legal and intended for parents monitoring their children\u0026#39;s online activities, the emphasis on stealth has raised concerns that it\u0026#39;s being aimed at people with other agendas.\u003c/p\u003e\n\u003cp\u003e\u0026#34;Catwatchful is invisible,\u0026#34; a \u003ca href=\"https://archive.is/Fttgd#selection-1777.0-1777.166\"\u003epage\u003c/a\u003e promoting the app says. \u0026#34;It cannot be detected. It cannot be uninstalled. It cannot be stopped. It cannot be closed. Only you can access the information it collects.\u0026#34;\u003c/p\u003e\n\u003cp\u003eThe promoters go on to say users \u0026#34;can monitor a phone without [owners] knowing with mobile phone monitoring software. The app is invisible and undetectable on the phone. It works in a hidden and stealth mode.\u0026#34;\u003c/p\u003e\n\n          \n                      \n                  \u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-07-03T19:36:44Z",
+  "modifiedTime": "2025-07-03T19:36:44Z"
+}
