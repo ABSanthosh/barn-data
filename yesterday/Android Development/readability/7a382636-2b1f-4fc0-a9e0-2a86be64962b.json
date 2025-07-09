@@ -1,0 +1,26 @@
+{
+  "id": "7a382636-2b1f-4fc0-a9e0-2a86be64962b",
+  "title": "New live session: Mistakes You’re Making Using Kotlin Coroutines",
+  "link": "https://blog.kotlin-academy.com/new-live-session-mistakes-youre-making-using-kotlin-coroutines-e3d18676c046?source=rss----e57b304801ef---4",
+  "description": "",
+  "author": "Marcin Moskala",
+  "published": "Thu, 26 Jun 2025 17:12:00 GMT",
+  "source": "https://blog.kotlin-academy.com/feed",
+  "categories": [
+    "kotlin-beginners",
+    "kotlin-multiplatform",
+    "kotlin-coroutines",
+    "kotlin"
+  ],
+  "byline": "Marcin Moskala",
+  "length": 965,
+  "excerpt": "I’ve encountered far too many common coroutine mistakes — even among experienced developers. These issues often lead to subtle bugs and unpredictable behavior.",
+  "siteName": "Kt. Academy",
+  "favicon": "https://miro.medium.com/v2/resize:fill:256:256/1*2grDGjzH0tfX8XiaF4Izaw.png",
+  "text": "Hi Kotliner!I have two questions for you:How many coroutine mistakes have you seen?And a follow-up: how many have you actually fixed?I’ve encountered far too many common coroutine mistakes — even among experienced developers. These issues often lead to subtle bugs and unpredictable behavior.That’s why I’m hosting a free live webinar:Mistakes You’re Making Using Kotlin CoroutinesThis session is for anyone who wants to write safer, more predictable coroutine code. We’ll explore:How to properly start synchronous and asynchronous processesEffective use of dispatchersAvoiding common cancellation pitfallsHow not to break structured concurrency.My goal is to give you actionable insights you can apply immediately.Pick the slot that suits you:1:00pm CEST — convenient for Asia \u0026 Europe work hours6:00pm CEST — Americas-friendly, EU-eveningSeats are limited to ensure a smooth Q\u0026A — secure yours today.Click here to sign upSee you in the webinar!Best,Marcin Moskała",
+  "image": "https://miro.medium.com/v2/resize:fit:1200/1*GVAopoBnGNmkgQA9wZoe8Q.jpeg",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cdiv tabindex=\"-1\" aria-hidden=\"false\"\u003e\u003ca href=\"https://medium.com/@marcinmoskala?source=post_page---byline--e3d18676c046---------------------------------------\" rel=\"noopener follow\"\u003e\u003cdiv\u003e\u003cp\u003e\u003cimg alt=\"Marcin Moskala\" src=\"https://miro.medium.com/v2/resize:fill:64:64/1*2o0KnikamZji_OvyyIotuQ.jpeg\" width=\"32\" height=\"32\" loading=\"lazy\" data-testid=\"authorPhoto\"/\u003e\u003c/p\u003e\u003c/div\u003e\u003c/a\u003e\u003c/div\u003e\u003cfigure\u003e\u003c/figure\u003e\u003cp id=\"2f4d\"\u003eHi Kotliner!\u003c/p\u003e\u003cp id=\"5a11\"\u003eI have two questions for you:\u003c/p\u003e\u003cp id=\"e731\"\u003e\u003cstrong\u003eHow many coroutine mistakes have you seen?\u003c/strong\u003e\u003c/p\u003e\u003cp id=\"98df\"\u003eAnd a follow-up: \u003cstrong\u003ehow many have you actually fixed?\u003c/strong\u003e\u003c/p\u003e\u003cp id=\"0011\"\u003eI’ve encountered far too many common coroutine mistakes — even among experienced developers. These issues often lead to subtle bugs and unpredictable behavior.\u003c/p\u003e\u003cp id=\"d722\"\u003eThat’s why I’m hosting a\u003cstrong\u003e free live webinar\u003c/strong\u003e:\u003c/p\u003e\u003ch2 id=\"c86e\"\u003e\u003cstrong\u003e\u003cem\u003eMistakes You’re Making Using Kotlin Coroutines\u003c/em\u003e\u003c/strong\u003e\u003c/h2\u003e\u003cp id=\"9f3e\"\u003eThis session is for anyone who wants to write safer, more predictable coroutine code. We’ll explore:\u003c/p\u003e\u003cul\u003e\u003cli id=\"4355\"\u003eHow to properly start synchronous and asynchronous processes\u003c/li\u003e\u003cli id=\"f841\"\u003eEffective use of dispatchers\u003c/li\u003e\u003cli id=\"1482\"\u003eAvoiding common cancellation pitfalls\u003c/li\u003e\u003cli id=\"609d\"\u003eHow not to break structured concurrency.\u003c/li\u003e\u003c/ul\u003e\u003cp id=\"4c0d\"\u003eMy goal is to give you actionable insights you can apply immediately.\u003c/p\u003e\u003cp id=\"9ed9\"\u003ePick the slot that suits you:\u003c/p\u003e\u003cul\u003e\u003cli id=\"d0fd\"\u003e\u003cstrong\u003e1:00pm CEST\u003c/strong\u003e — convenient for Asia \u0026amp; Europe work hours\u003c/li\u003e\u003cli id=\"e265\"\u003e\u003cstrong\u003e6:00pm CEST\u003c/strong\u003e — Americas-friendly, EU-evening\u003c/li\u003e\u003c/ul\u003e\u003cp id=\"42b3\"\u003eSeats are limited to ensure a smooth Q\u0026amp;A — secure yours today.\u003c/p\u003e\u003cfigure\u003e\u003ca href=\"https://webinar.kt.academy/common-mistakes-05\"\u003e\u003c/a\u003e\u003cfigcaption\u003e\u003ca href=\"https://webinar.kt.academy/common-mistakes-05\" rel=\"noopener ugc nofollow\" target=\"_blank\"\u003e\u003cstrong\u003eClick here to sign up\u003c/strong\u003e\u003c/a\u003e\u003c/figcaption\u003e\u003c/figure\u003e\u003cp id=\"a06e\"\u003eSee you in the webinar!\u003c/p\u003e\u003cp id=\"9055\"\u003eBest,\u003c/p\u003e\u003cp id=\"0f02\"\u003eMarcin Moskała\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "2 min read",
+  "publishedTime": "2025-06-26T17:12:00.392Z",
+  "modifiedTime": null
+}
