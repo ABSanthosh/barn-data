@@ -1,0 +1,23 @@
+{
+  "id": "b764e005-30e5-4db7-9c11-771e4d76be5d",
+  "title": "Soundslice Adds ASCII Tab Support After ChatGPT Hallucinates Feature",
+  "link": "https://tech.slashdot.org/story/25/07/09/2247255/soundslice-adds-ascii-tab-support-after-chatgpt-hallucinates-feature?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+  "description": "After discovering that ChatGPT was falsely telling users that Soundslice could convert ASCII tablature into playable music, founder Adrian Holovaty decided to actually build the feature -- even though the app was never designed to support that format. TechCrunch reports: Soundslice is an app for teaching music, used by students and teachers. It's known for its video player synchronized to the music notations that guide users on how the notes should be played. It also offers a feature called \"sheet music scanner\" that allows users to upload an image of paper sheet music and, using AI, will automatically turn that into an interactive sheet, complete with notations. [Adrian Holovaty, founder of music-teaching platform Soundslice] carefully watches this feature's error logs to see what problems occur, where to add improvements, he said. That's where he started seeing the uploaded ChatGPT sessions. They were creating a bunch of error logs. Instead of images of sheet music, these were images of words and a box of symbols known as ASCII tablature. That's a basic text-based system used for guitar notations that uses a regular keyboard. (There's no treble key, for instance, on your standard QWERTY keyboard.) The volume of these ChatGPT session images was not so onerous that it was costing his company money to store them and crushing his app's bandwidth, Holovaty said. He was baffled, he wrote in a blog post about the situation. \"Our scanning system wasn't intended to support this style of notation. Why, then, were we being bombarded with so many ASCII tab ChatGPT screenshots? I was mystified for weeks -- until I messed around with ChatGPT myself.\" That's how he saw ChatGPT telling people they could hear this music by opening a Soundslice account and uploading the image of the chat session. Only, they couldn't. Uploading those images wouldn't translate the ASCII tab into audio notes. He was struck with a new problem. \"The main cost was reputational: New Soundslice users were going in with a false expectation. They'd been confidently told we would do something that we don't actually do,\" he described to TechCrunch. He and his team discussed their options: Slap disclaimers all over the site about it -- \"No, we can't turn a ChatGPT session into hearable music\" -- or build that feature into the scanner, even though he had never before considered supporting that offbeat musical notation system. He opted to build the feature. \"My feelings on this are conflicted. I'm happy to add a tool that helps people. But I feel like our hand was forced in a weird way. Should we really be developing features in response to misinformation?\" he wrote. Read more of this story at Slashdot.",
+  "author": "BeauHD",
+  "published": "2025-07-10T00:45:00+00:00",
+  "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "categories": [
+    "software"
+  ],
+  "byline": "",
+  "length": 1,
+  "excerpt": "×",
+  "siteName": "",
+  "favicon": "https://a.fsdn.com/sd/m/assets/apple-touch-icon-precomposed2X-e553cba2892b057428cabcdff1a372fc.png",
+  "text": "×",
+  "image": "",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\n\n\n\n\n\u003cdiv id=\"ccpa-modal\"\u003e\n        \u003cp\u003e\u003cspan id=\"modal-close\"\u003e×\u003c/span\u003e\u003c/p\u003e\n    \u003c/div\u003e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
