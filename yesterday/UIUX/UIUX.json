@@ -1,0 +1,197 @@
+[
+  {
+    "id": "fc740124-b7f4-4a51-bb8f-3de9c5951271",
+    "title": "Design Patterns For AI Interfaces",
+    "link": "https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
+    "description": "Designing a new AI feature? Where do you even begin? From first steps to design flows and interactions, here’s a simple, systematic approach to building AI experiences that stick.",
+    "author": "Vitaly Friedman",
+    "published": "Mon, 14 Jul 2025 15:00:00 GMT",
+    "image": "http://files.smashing.media/articles/design-patterns-ai-interfaces/design-patterns-ai-interfaces.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "45b986ff-b339-4b47-ae2d-be7962fe2dfd",
+    "title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research",
+    "link": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
+    "description": "The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the core principles of the WOZ method, explores advanced real-world applications, and highlights its unique value, including its relevance in the emerging field of agentic AI.",
+    "author": "Victor Yocco",
+    "published": "Thu, 10 Jul 2025 10:00:00 GMT",
+    "image": "http://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "a39d4a65-a5d2-4d87-807d-29e826234c92",
+    "title": "I Didn’t Think One-Click Retouching Could Look This Good — Then I Tried Retouch4me Face Make",
+    "link": "https://justcreative.com/retouch4me-face-make/",
+    "description": "I Didn’t Think One-Click Retouching Could Look This Good — Then I Tried Retouch4me Face Make Another AI photo editing tool? I’ll be honest; I didn’t expect much. At this ... Read more",
+    "author": "Sarika",
+    "published": "Fri, 04 Jul 2025 12:33:36 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2025/07/Photoshop-plugin-of-Retouch4me-Face-Make.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear"
+    ]
+  },
+  {
+    "id": "b84f8cf6-75cd-43c9-958d-f7736d2cb08c",
+    "title": "17+ Best Viking Fonts for Nordic Designs",
+    "link": "https://justcreative.com/best-viking-fonts/",
+    "description": "Board the longboats and bring our list of the best viking fonts to any of your projects. With any of these fonts, you can add a warrior's spirit.",
+    "author": "Jacob Cass",
+    "published": "Fri, 04 Jul 2025 04:00:59 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2022/11/Nordica-Font-600x400.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "best viking fonts",
+      "Fonts",
+      "Viking"
+    ]
+  },
+  {
+    "id": "f86e1abf-9c28-421a-8fa6-a510b7df100f",
+    "title": "Designing Scroll Behavior: When to Save a User’s Place",
+    "link": "https://www.nngroup.com/articles/saving-scroll-position/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "Save scroll position when users are likely to compare content in a long static list.",
+    "author": "Megan Chan",
+    "published": "Fri, 11 Jul 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "4e10932d-b4b0-4ead-a727-fbb9624dbab5",
+    "title": "UX Maturity Is a Living System, Not a Ladder",
+    "link": "https://www.nngroup.com/articles/ux-maturity-living-system/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "Focus on continuous reflection — not stage-hopping — to grow sustainable, resilient UX practices.",
+    "author": "Kate Kaplan",
+    "published": "Fri, 11 Jul 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "dd2717a8-8082-4060-a5db-63687801213d",
+    "title": "From UX designer to digital design superhuman",
+    "link": "https://uxdesign.cc/from-ux-designer-to-digital-design-superhuman-acd1f8725f44?source=rss----138adf9c44c---4",
+    "description": "Continue reading on UX Collective »",
+    "author": "Marcelo Ordenes",
+    "published": "Wed, 16 Jul 2025 00:55:13 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1536/1*4NpnYGNyOrdrJ5V2tH3Wig.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "user-experience",
+      "ux",
+      "ux-design",
+      "design-thinking",
+      "design"
+    ]
+  },
+  {
+    "id": "9233ce00-45e5-4ca9-9a49-1a3a5ceac9d1",
+    "title": "Why UX designers should care about model context protocol",
+    "link": "https://uxdesign.cc/why-ux-designers-should-care-about-model-context-protocol-24d34b02c1c9?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Erik Fadiman",
+    "published": "Wed, 16 Jul 2025 00:54:13 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*0PY2ahEMJhb62-Oi77fQtA.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "model-context-protocol",
+      "artificial-intelligence",
+      "design",
+      "ai",
+      "ux"
+    ]
+  },
+  {
+    "id": "55f8c7f0-b9bd-44b7-9793-6fa4d791a73a",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "4baaf742-75d4-452c-b1e4-395b777c842a",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "57f13693-3ea2-4c37-8284-af93c32b8691",
+    "title": "How to Group Your Sidebar Items for Better Findability",
+    "link": "https://uxmovement.com/navigation/how-to-group-your-sidebar-items-for-better-findability/",
+    "description": "When a sidebar contains many items, grouping is necessary to help users find them faster. However, most designers don’t group their sidebar items and force users to scan an entire list. This results in slow navigation times and poor findability. Grouping improves findability by enabling users to spot a group and scan the items in […] The post How to Group Your Sidebar Items for Better Findability first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:27:48 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "a3ceca60-fd91-4087-bf34-8fb92e6a5f8c",
+    "title": "How to Make Any Sidebar Menu Easier to Scan",
+    "link": "https://uxmovement.com/navigation/how-to-make-any-sidebar-menu-easier-to-scan/",
+    "description": "How easy to scan is your sidebar menu? If you haven’t optimized the spacing, users will likely spend more time navigating and finding items. Balancing the spacing in the sidebar can help users navigate faster and easier. A typical mistake designers make is adding too much or not enough space. Both can make scanning for […] The post How to Make Any Sidebar Menu Easier to Scan first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:24:10 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "3037abaa-5ff8-4d4f-958b-9ba05a451cd7",
+    "title": "Hiatus…indefinitely",
+    "link": "https://boxesandarrows.com/hiatus/",
+    "description": "Updated January 30, 2023 – Amy Jiménez Márquez After much internal debate, I’m placing the publication on indefinite hiatus. It’s a difficult decision, and if you have questions or want to talk about the future of Boxes and Arrows please contact me. Boxes and Arrows will continue as an archive freely available to readers. Thank you so much for your readership over the years. This isn’t the end of Boxes and Arrows. It’s simply a new chapter that is yet The post Hiatus…indefinitely appeared first on Boxes and Arrows.",
+    "author": "Amy Jiménez Márquez",
+    "published": "Tue, 05 Jul 2022 21:27:37 +0000",
+    "image": "",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "From the Editors"
+    ]
+  },
+  {
+    "id": "308c5765-c79b-4c00-a8f4-b14cab134f11",
+    "title": "Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap",
+    "link": "https://boxesandarrows.com/book-in-brief-trustworthy-how-the-smartest-brands-beat-cynicism-and-bridge-the-trust-gap/",
+    "description": "Designers can empower people to make confident decisions. Empowerment goes beyond just basic functionality: we help people meet their needs and gain a sense of fulfillment and knowledge through their interactions with screens, products, and services. Empowerment is the sense of confidence people gain by making decisions and feeling good about the decisions they make. Our users take that feeling into other interactions as well. Empowerment is at the core of trust, too. Today, cynicism undermines trust in the media, The post Book in brief — Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap appeared first on Boxes and Arrows.",
+    "author": "Margot Bloomstein",
+    "published": "Tue, 22 Mar 2022 10:00:00 +0000",
+    "image": "https://boxesandarrows.com/wp-content/uploads/2022/03/trustworthycover-1-253x300.png",
+    "source": "http://boxesandarrows.com/rss/",
+    "categories": [
+      "UX Design"
+    ]
+  }
+]

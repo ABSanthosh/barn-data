@@ -1,0 +1,30 @@
+{
+  "id": "f6d815bf-e71f-4c09-8641-094e29bcab77",
+  "title": "When SQL Meets Lambda Expressions",
+  "link": "https://blog.jooq.org/when-sql-meets-lambda-expressions/",
+  "description": "ARRAY types are a part of the ISO/IEC 9075 SQL standard. The standard specifies how to: But it is very unopinionated when it comes to function support. The ISO/IEC 9075-2:2023(E) 6.47 specifies concatenation of arrays, whereas the 6.48 section lists a not extremely useful TRIM_ARRAY function, exclusively (using which … Continue reading When SQL Meets Lambda Expressions →",
+  "author": "lukaseder",
+  "published": "Thu, 27 Mar 2025 13:04:44 +0000",
+  "source": "https://blog.jooq.org/feed",
+  "categories": [
+    "sql",
+    "array",
+    "array types",
+    "clickhouse",
+    "databricks",
+    "duckdb",
+    "Snowflake",
+    "Trino"
+  ],
+  "byline": "",
+  "length": 0,
+  "excerpt": "",
+  "siteName": "",
+  "favicon": "",
+  "text": "",
+  "image": "",
+  "html": "",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
