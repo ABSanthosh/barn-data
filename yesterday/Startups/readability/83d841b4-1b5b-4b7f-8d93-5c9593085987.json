@@ -1,0 +1,21 @@
+{
+  "id": "83d841b4-1b5b-4b7f-8d93-5c9593085987",
+  "title": "Snapsnob",
+  "link": "https://www.producthunt.com/posts/snapsnob",
+  "description": "",
+  "author": "Nurmukhamed",
+  "published": "2025-07-16T00:56:46-07:00",
+  "source": "https://www.producthunt.com/feed",
+  "categories": null,
+  "byline": "Nurmukhamed",
+  "length": 206,
+  "excerpt": "Snapsnob is a simple iOS app that helps you clean up your photo gallery. Swipe right to keep, left to delete, and double tap to add to favorites. Photos stay on your device - fast, private, and easy to use.",
+  "siteName": "Product Hunt",
+  "favicon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format",
+  "text": "Snapsnob is a simple iOS app that helps you clean up your photo gallery. Swipe right to keep, left to delete, and double tap to add to favorites. Photos stay on your device - fast, private, and easy to use.",
+  "image": "https://ph-files.imgix.net/d3f0a0d0-672a-4d8b-8a47-afa2e6c6d287.png?auto=format\u0026fit=crop\u0026frame=1\u0026h=512\u0026w=1024",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv data-sentry-component=\"TruncatableContent\" data-sentry-source-file=\"index.tsx\"\u003e\u003cp\u003eSnapsnob is a simple iOS app that helps you clean up your photo gallery. Swipe right to keep, left to delete, and double tap to add to favorites. Photos stay on your device - fast, private, and easy to use.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
