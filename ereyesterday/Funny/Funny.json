@@ -1,0 +1,420 @@
+[
+  {
+    "id": "bde9d58f-5212-496f-92d5-fb74b1411de4",
+    "title": "Echo Chamber",
+    "link": "https://xkcd.com/3116/",
+    "description": "",
+    "author": "",
+    "published": "Wed, 16 Jul 2025 04:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/echo_chamber.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "b728bc05-1590-42bc-add6-5d64dc09804d",
+    "title": "Unsolved Physics Problems",
+    "link": "https://xkcd.com/3115/",
+    "description": "",
+    "author": "",
+    "published": "Mon, 14 Jul 2025 04:00:00 -0000",
+    "image": "https://imgs.xkcd.com/comics/unsolved_physics_problems.png",
+    "source": "https://xkcd.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "5f26b013-6879-42b7-8699-b34400e60302",
+    "title": "CodeSOD: Just a Few Updates",
+    "link": "https://thedailywtf.com/articles/just-a-few-updates",
+    "description": "Misha has a co-worker who has unusual ideas about how database performance works. This co-worker, Ted, has a vague understanding that a SQL query optimizer will attempt to find the best execution path for a given query. Unfortunately, Ted has just enough knowledge to be dangerous; he believes that the job of a developer is to write SQL queries that will \"trick\" the optimizer into doing an even better job, somehow. This means that Ted loves subqueries. For example, let's say you had a table called tbl_updater, which is used to store pending changes for a batch operation that will later get applied. Each change in updater has a unique change key that identifies it. For reasons best not looked into too deeply, at some point in the lifecycle of a record in this table, the application needs to null out several key fields based on the change value. If you or I were writing this, we might do something like this: update tbl_updater set id = null, date = null, location = null, type = null, type_id = null where change = @change And this is how you know that you and I are fools, because we didn't use a single subquery. update tbl_updater set id = null where updater in (select updater from tbl_updater where change = @change) update tbl_updater set date = null where updater in (select updater from tbl_updater where change = @change) update tbl_updater set location = null where updater in (select updater from tbl_updater where change = @change) update tbl_updater set type = null where updater in (select updater from tbl_updater where change = @change) update tbl_updater set date = null where updater in (select updater from tbl_updater where change = @change) update tbl_updater set type_id = null where updater in (select updater from tbl_updater where change = @change) So here, Ted uses where updater in (subquery) which is certainly annoying and awkward, given that we know that change is a unique key. Maybe Ted didn't know that? Of course, one of the great powers of relational databases is that they offer data dictionaries so you can review the structure of tables before writing queries, so it's very easy to find out that the key is unique. But that simple ignorance doesn't explain why Ted broke it out into multiple updates. If insanity is doing the same thing again and again expecting different results, what does it mean when you actually do get different results but also could have just done all this once? Misha asked Ted why he took this approach. \"It's faster,\" he replied. When Misha showed benchmarks that proved it emphatically wasn't faster, he just shook his head. \"It's still faster this way.\" Faster than what? Misha wondered. [Advertisement] Picking up NuGet is easy. Getting good at it takes time. Download our guide to learn the best practice of NuGet for the Enterprise.",
+    "author": "Remy Porter",
+    "published": "Thu, 17 Jul 2025 06:30:00 GMT",
+    "image": "",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "CodeSOD"
+    ]
+  },
+  {
+    "id": "030a99aa-ae1f-4755-a830-b414d9bafc4a",
+    "title": "Representative Line: National Exclamations",
+    "link": "https://thedailywtf.com/articles/national-exclamations",
+    "description": "Carlos and Claire found themselves supporting a 3rd party logistics package, called IniFreight. Like most \"enterprise\" software, it was expensive, unreliable, and incredibly complicated. It had also been owned by four different companies during the time Carlos had supported it, as its various owners underwent a series of acquisitions. It kept them busy, which is better than being bored. One day, Claire asked Carlos, \"In SQL, what does an exclamation point mean?\" \"Like, as a negation? I don't think most SQL dialects support that.\" \"No, like-\" and Claire showed him the query. select * from valuation where origin_country \u003c '!' \"IniFreight, I presume?\" Carlos asked. \"Yeah. I assume this means, 'where origin country isn't blank?' But why not just check for NOT NULL?\" The why was easy to answer: origin_country had a constraint which prohibited nulls. But the input field didn't do a trim, so the field did allow whitespace only strings. The ! is the first printable, non-whitespace character in ASCII (which is what their database was using, because it was built before \"support wide character sets\" was a common desire). Unfortunately, this means that my micronation, which is simply spelled with the ASCII character 0x07 will never show up in their database. You might not think you're familiar with my country, but trust me- it'll ring a bell. [Advertisement] Utilize BuildMaster to release your software with confidence, at the pace your business demands. Download today!",
+    "author": "Remy Porter",
+    "published": "Wed, 16 Jul 2025 06:30:00 GMT",
+    "image": "https://thedailywtf.com/images/inedo/buildmaster-icon.png",
+    "source": "http://syndication.thedailywtf.com/TheDailyWtf",
+    "categories": [
+      "Representative Line"
+    ]
+  },
+  {
+    "id": "9ac4cb4e-f2d9-4e3a-b27a-d134445b1fb7",
+    "title": "They're doing it again",
+    "link": "http://theoatmeal.com/comics/squirrel_filming?no_popup=1",
+    "description": "A comic about an old couple recording a video of a squirrel and a cat.View on my website",
+    "author": "Matthew Inman",
+    "published": "2025-07-15T15:21:11+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/squirrel_filming_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "8bdfcd64-671c-4a60-933c-db54869a7833",
+    "title": "A toddler tells a joke",
+    "link": "http://theoatmeal.com/comics/toddler_joke?no_popup=1",
+    "description": "A comic about a toddler telling his first joke.View on my website",
+    "author": "Matthew Inman",
+    "published": "2025-07-09T21:58:45+01:00",
+    "image": "https://s3.amazonaws.com/theoatmeal-img/thumbnails/toddler_joke_big.png",
+    "source": "http://feeds.feedburner.com/oatmealfeed",
+    "categories": null
+  },
+  {
+    "id": "a8c5e75e-0c95-4f24-95ff-11b6bc1b7769",
+    "title": "Orcas Bringing Humans Gifts Of Food",
+    "link": "https://theonion.com/orcas-bringing-humans-gifts-of-food/",
+    "description": "Wild orcas have been observed intentionally offering humans pieces of fish, marine mammals, and even seaweed across 34 recorded instances, suggesting a rare form of cross-species cooperative behavior given they thrive on surplus prey. What do you think? The post Orcas Bringing Humans Gifts Of Food appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Thu, 17 Jul 2025 20:50:46 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2025/05/Face-Old-Woman.jpg?w=200",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "American Voices",
+      "Animals",
+      "Food",
+      "Vol 61: Issue 29"
+    ]
+  },
+  {
+    "id": "c92ff52b-239d-4142-8561-7dce6903fb55",
+    "title": "Elderly Woman Keeps Mind Active Justifying Trump’s Actions",
+    "link": "https://theonion.com/elderly-woman-keeps-mind-active-justifying-trumps-actions/",
+    "description": "LEXINGTON, KY—Stressing the importance of regularly performing mental gymnastics to prevent cognitive decline, local 80-year-old Edna Connolly confirmed Thursday that she keeps her mind active by justifying President Donald Trump’s actions. “I try to break out of my routine and engage my mind by rationalizing what the president is doing, even when it’s completely against […] The post Elderly Woman Keeps Mind Active Justifying Trump’s Actions appeared first on The Onion.",
+    "author": "The Onion Staff",
+    "published": "Thu, 17 Jul 2025 18:48:57 +0000",
+    "image": "",
+    "source": "https://www.theonion.com/rss",
+    "categories": [
+      "Local",
+      "Aging",
+      "Donald Trump",
+      "Vol 61: Issue 29"
+    ]
+  },
+  {
+    "id": "c87cc807-96e3-42cc-a0f1-20f7e9ca659f",
+    "title": "Sweater People",
+    "link": "https://awkwardfamilyphotos.com/sweater-people",
+    "description": "“Mom wanted a family photo. So… we family photo’d the heck out of it!” (submitted by Shawna)   The post Sweater People appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Team Awkward",
+    "published": "Thu, 03 Jul 2025 16:59:54 +0000",
+    "image": "https://s3.awkwardfamilyphotos.com/wp-content/uploads/2025/07/03095950/inbound237534454506147220-1024x768.jpg",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Family Portrait",
+      "Misc"
+    ]
+  },
+  {
+    "id": "23557e73-9936-4b2d-b29e-fae1144b2cd9",
+    "title": "The Wicker Man",
+    "link": "https://awkwardfamilyphotos.com/2025/07/01/the-wicker-man/",
+    "description": "“Just a totally natural looking family portrait of a massive wicker peacock chair. Oh and me, my dad, and my sister. We apparently took this as a “gift” for my mom, which is why she was missing. Clearly this is the gift she didn’t know she wanted.”   The post The Wicker Man appeared first on AwkwardFamilyPhotos.com.",
+    "author": "Jim Rowley",
+    "published": "Wed, 02 Jul 2025 04:02:56 +0000",
+    "image": "https://awkwardfamilyphotos.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-4.01.55-PM-1024x1019.jpg",
+    "source": "https://awkwardfamilyphotos.com/feed/",
+    "categories": [
+      "Photos"
+    ]
+  },
+  {
+    "id": "df68988e-785d-419b-9f9d-d6d804dad4ef",
+    "title": "Stephen Colbert Holds Off on Criticizing Paramount, President Trump in Gracious 'Late Show' Cancellation Announcement",
+    "link": "https://www.cracked.com/article_47438_stephen-colbert-holds-off-on-criticizing-paramount-president-trump-in-gracious-late-show-cancellation-announcement.html?newsletter-cat=comedy",
+    "description": "By Keegan Kelly Published: July 17th, 2025",
+    "author": "",
+    "published": "Thu, 17 Jul 2025 17:52:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "86beefce-09ea-4c5a-91dd-11e4505f05fa",
+    "title": "CBS Cancels Stephen Colbert and ‘The Late Night’ Franchise, Citing ‘Financial Reasons’",
+    "link": "https://www.cracked.com/article_47437_cbs-cancels-stephen-colbert-and-the-late-night-franchise-citing-financial-reasons.html?newsletter-cat=movies-tv",
+    "description": "By Keegan Kelly Published: July 17th, 2025",
+    "author": "",
+    "published": "Thu, 17 Jul 2025 17:19:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/CrackedRSS",
+    "categories": null
+  },
+  {
+    "id": "47c05ad2-8d1f-4ad9-97ac-51e618704ddc",
+    "title": "Comic for 2021.12.21",
+    "link": "http://explosm.net/comics/6060/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Tue, 21 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "da543f67-6097-45df-87a1-1f29c508ba9d",
+    "title": "Comic for 2021.12.20",
+    "link": "http://explosm.net/comics/6059/",
+    "description": "New Cyanide and Happiness Comic",
+    "author": "",
+    "published": "Mon, 20 Dec 2021 00:00:00 -0600",
+    "image": "",
+    "source": "http://feeds.feedburner.com/Explosm",
+    "categories": [
+      "Comics"
+    ]
+  },
+  {
+    "id": "7145744f-a55c-42bd-982d-16587580ce74",
+    "title": "Job applicant accidentally roasts the company during his job interview, CEO finds it hilariously honest and offers him the job: ‘One guy blinked so hard I thought he rebooted.'",
+    "link": "https://cheezburger.com/41556741/job-applicant-accidentally-roasts-the-company-during-his-job-interview-ceo-finds-it-hilariously",
+    "description": "Oh boy, that job market, am I right? Interview after interview and you still feel stuck in the mud. But there is hope yet! One Redditor found a fun little hack to get the job—and it involves roasting the CEO. Yup, you heard that correct. The guy doesn't suggest doing this any change you get, but he does encourage being completely honest during an interview. Still try to be as professional and diplomatic as possible. But if they're serving you bs, you should probably let the chef know, ya know? This guy really let the company he was interviewing for have it after he got asked the infamous question, \"Where do you see yourself in five years?\" A generic question that, honestly, no company really has any business asking. Like, they're interview for the job, that should be enough proof that this person wants to work here…",
+    "author": "Elna McHilderson",
+    "published": "Thu, 17 Jul 2025 17:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "management",
+      "salary",
+      "boss",
+      "employee",
+      "hourly",
+      "manager",
+      "hired",
+      "job",
+      "job hunt",
+      "work",
+      "coworkers",
+      "upper management",
+      "co-workers",
+      "ceo",
+      "employees",
+      "career",
+      "roast",
+      "supervisor",
+      "workplace",
+      "Reddit",
+      "company",
+      "job interview",
+      "business",
+      "funny"
+    ]
+  },
+  {
+    "id": "00ca5192-6d36-4cc3-97e3-db12b7a0d9e1",
+    "title": "Boss invited new hire to a 'casual dinner' at his house with him and his wife, confused employee contemplates whether they should accept: 'Is this weird?'",
+    "link": "https://cheezburger.com/41527557/boss-invited-new-hire-to-a-casual-dinner-at-his-house-with-him-and-his-wife-confused-employee",
+    "description": "Is it just me, or dinners with bosses are something we used to see quite a lot in old TV shows and movies? It's not a strange concept for a boss and their spouse to invite a new hire over to their house for a get-to-know-each-other dinner. It sounds completely reasonable to me. That being said, if my boss were to ever invite me over to dinner at his house, I would probably look at him as if he had just grown three heads. Not only would the offer sound bizarre coming from him, but I legitimately do not want to spend three hours in a strange house, awkwardly making small talk with my boss and his spouse, whom I have never met. We do enough bonding in the office; there is no need to involve our personal lives as well. But what can you do if the boss invites you over? It's not like you can actually tell them no… Getting an offer like this from the boss is not something anyone can ignore, which leads employees like the one in the story below into a spiral.",
+    "author": "Bar Mor Hazut",
+    "published": "Thu, 17 Jul 2025 15:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/failblog",
+    "categories": [
+      "boss",
+      "workplace-stories",
+      "employee",
+      "manager",
+      "job",
+      "tales-from-the-workplace",
+      "new hire",
+      "reddit story",
+      "ceo",
+      "advice",
+      "dinner",
+      "workplace",
+      "Reddit",
+      "company",
+      "business"
+    ]
+  },
+  {
+    "id": "d42257e8-17c4-4735-90a1-ef6ffc366563",
+    "title": "I Can Has Adventure — Join Duchess Dander's Summer Adventure to Save the Kingdom of Cheezburgia!",
+    "link": "https://cheezburger.com/33044743/i-can-has-adventure-join-duchess-danders-summer-adventure-to-save-the-kingdom-of-cheezburgia",
+    "description": "A whisker's whisper of adventure drifts across the rolling green hills of Cheezburgia, where every cobblestone street tells a tale of purring prosperity and playful pomp. Soon, this bright realm will be swept into an epic quest, led by one unlikely hero — her fate lies entirely in your paws, her destiny decided upon your choice, and each chapter of the story demands your input.Follow I Can Has Cheezburger's Facebook and Instagram pages to make sure you're part of the council of decisions, pushing the adventure forward with your choices.Prepare to step beyond the map's edge, where magic stirs and destiny meows…",
+    "author": "Ayala Sorotsky",
+    "published": "Thu, 17 Jul 2025 12:00:00 -0700",
+    "image": "https://i.chzbgr.com/completestore/25/7/14/Ws4eAAw4y0aefk8iUvKG2A2.png",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "kingdom",
+      "fantasy",
+      "geek",
+      "I Can Has Cheezburger",
+      "adorable",
+      "geeky",
+      "adorable cats",
+      "dnd",
+      "d\u0026d",
+      "cute",
+      "cute cats",
+      "dungeons \u0026 dragons",
+      "story",
+      "adventure",
+      "Cats",
+      "dungeons and dragons",
+      "d\u0026d",
+      "d\u0026d",
+      "d\u0026d",
+      "d\u0026d",
+      "d\u0026d",
+      "d\u0026d",
+      "d\u0026d",
+      "d\u0026d",
+      "d\u0026d"
+    ]
+  },
+  {
+    "id": "70c4cbc1-d770-42d8-ba4f-cda2f3050e0f",
+    "title": "Rare siamese cat with dwarfism, 'Baby B', steamrolls the internet by blepping every time she feels happy, making feline fanatics everywhere smile",
+    "link": "https://cheezburger.com/41508357/rare-siamese-cat-with-dwarfism-baby-b-steamrolls-the-internet-by-blepping-every-time-she-feels-happy",
+    "description": "Big cats, small cats, medium-sized cats, chonkers, and even smol cats are all loved here at the I Can Has Cheezburger offices. Let's just say that if it meows, it's getting snuggles around here. We spend our days writing about the funniest cat memes on the internet and some of the world's most famous felines, but on days like today, we are happy to introduce you to a fresh feline who is taking the internet by storm. She got the whole internet on her side with a single picture, and you might never have even heard of her!Meet 'Baby B', a Siamese cat with dwarfism who has the hissterical habit of blepping every time she feels happy. Not only are siamese cats not very common, but being born with dwarfism makes her especially unique as well. She's purrmanently kitten-sized, as if she needed anything else to make her even cuter. Scroll down to see more of Baby B's beautiful bleps below!Fluff. Chaos. Drama! Our weekly cat newsletter has it all -  subscribe here.",
+    "author": "Blake Seidel",
+    "published": "Thu, 17 Jul 2025 09:00:00 -0700",
+    "image": "",
+    "source": "http://feeds.feedburner.com/icanhascheezburger",
+    "categories": [
+      "blep",
+      "adorable",
+      "rare",
+      "cute cats",
+      "happy",
+      "Cats",
+      "animals",
+      "dwarfism",
+      "smile",
+      "siamese",
+      "cat lovers"
+    ]
+  },
+  {
+    "id": "778f8c64-f6f8-4a74-89a2-cd9e53245b00",
+    "title": "Discorbs",
+    "link": "https://www.penny-arcade.com/news/post/2025/07/16/discorbs",
+    "description": "Discord keeps adding delighters and sparklitos and all kinds of things they want me to do, use, or buy. I'm not certain we've achieved true enshittification but there is a lot of shit on there now and it's wigglin' 25/8.",
+    "author": "",
+    "published": "Wed, 16 Jul 2025 21:07:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "65038461-0680-4604-9251-7a8a4721fa8a",
+    "title": "This Once Famous Gen X Cartoonist is Revealing His Secrets",
+    "link": "https://www.penny-arcade.com/news/post/2025/07/16/this-once-famous-gen-x-cartoonist-is-revealing-his-secrets",
+    "description": "I recorded another timelapse of the comic creation and this time I remembered to turn it on before I started! Here’s a look at today’s comic strip from start to finish. Again, if you set the play back speed to 0.25 you approach something like real time but it’s important to note that it only records when I make a stroke so you don’t have all my pauses. While I’m drawing I’m also watching a show, pausing to think about what I’m gonna draw, talking with my kids as they come in and out, messing up and getting mad at myself, eating some lunch, and all that good stuff. This might make it look like I sit down and power through a comic without hesitation and with supreme confidence but I assure you that is not the case unless I am drawing live on stage at PAX.",
+    "author": "",
+    "published": "Wed, 16 Jul 2025 17:24:00 +0000",
+    "image": "",
+    "source": "https://www.penny-arcade.com/feed",
+    "categories": null
+  },
+  {
+    "id": "de90228d-4007-49fd-b4c9-c25a3a705da3",
+    "title": "Sunday Secrets",
+    "link": "https://postsecret.com/2025/07/13/sunday-secrets-562/",
+    "description": "Sunday Secrets began 20 years ago. This week I did not receive enough postcards to share back. Free your secrets today. The post Sunday Secrets appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sun, 13 Jul 2025 00:08:00 +0000",
+    "image": "https://i0.wp.com/postsecret.com/wp-content/uploads/2025/07/Screen-Shot-2024-03-25-at-1.05.52-PM.png?resize=520%2C315\u0026ssl=1",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "e4af96f8-0720-4f5a-86bb-8dc376a227f1",
+    "title": "Classic Secrets",
+    "link": "https://postsecret.com/2025/07/13/classic-secrets-568/",
+    "description": "The post Classic Secrets appeared first on PostSecret.",
+    "author": "Frank",
+    "published": "Sun, 13 Jul 2025 00:05:00 +0000",
+    "image": "https://i0.wp.com/postsecret.com/wp-content/uploads/2025/07/worship.jpg?resize=526%2C381\u0026ssl=1",
+    "source": "https://postsecret.com/feed/?alt=rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "55f667a4-72b1-4def-9771-fa10f53f81d2",
+    "title": "Saturday Morning Breakfast Cereal - Code",
+    "link": "https://www.smbc-comics.com/comic/code",
+    "description": "Click here to go see the bonus panel!Hovertext:Casual apocalyptic is my term for nude.Today's News:",
+    "author": "Zach Weinersmith",
+    "published": "Thu, 17 Jul 2025 11:20:00 -0400",
+    "image": "https://www.smbc-comics.com/comics/1752557080-20250718.png",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  },
+  {
+    "id": "66387d55-33e7-4d80-a815-0347d8a1da54",
+    "title": "Saturday Morning Breakfast Cereal - Boyfriend",
+    "link": "https://www.smbc-comics.com/comic/boyfriend",
+    "description": "Click here to go see the bonus panel!Hovertext:YOU GET OUT OF MY HOUSE BECAUSE I'VE CLEARLY KEPT YOU TOO LONG LET ME CALL YOU A CAB.Today's News:",
+    "author": "Zach Weinersmith",
+    "published": "Wed, 16 Jul 2025 11:20:00 -0400",
+    "image": "https://www.smbc-comics.com/comics/1752556983-20250717.png",
+    "source": "https://www.smbc-comics.com/comic/rss",
+    "categories": null
+  },
+  {
+    "id": "9354c909-12bf-4aa3-87e2-ebbedd029fec",
+    "title": "01/15/21 PHD comic: 'NEW BOOK! Out of Your Mind!'",
+    "link": "http://www.phdcomics.com/comics.php?f=2051",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"NEW BOOK! Out of Your Mind!\" - originally published 1/15/2021 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Mon, 31 Jan 2022 11:24:26 -0800",
+    "image": "http://www.phdcomics.com/comics/archive/phd011525s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  },
+  {
+    "id": "947a595c-447f-40c1-b78c-cca5f1533290",
+    "title": "08/31/23 PHD comic: 'New Book! Oliver's Great Big Universe!'",
+    "link": "http://www.phdcomics.com/comics.php?f=2050",
+    "description": "Piled Higher \u0026 Deeper by Jorge Cham www.phdcomics.com title: \"New Book! Oliver's Great Big Universe!\" - originally published 8/31/2023 For the latest news in PHD Comics, CLICK HERE!",
+    "author": "",
+    "published": "Tue, 14 Dec 2021 11:53:03 -0800",
+    "image": "http://www.phdcomics.com/comics/archive/phd083123s.gif",
+    "source": "http://phdcomics.com/gradfeed.php",
+    "categories": null
+  },
+  {
+    "id": "76ad4170-fa2c-440e-8e08-d7998b581260",
+    "title": "Utterly bewitched by books",
+    "link": "https://thebloggess.com/2025/07/16/utterly-bewitched-by-books/",
+    "description": "I’m a bit late with this because everything has been a bit upside down, but things are finally starting to feel a little bit better and so I am back to tell you about my favorite new July books! For the Fantastic Strangelings Book Club we’re sending you American Mythology by Giano Cromley, a quirky,Continue reading \"Utterly bewitched by books\"",
+    "author": "thebloggess",
+    "published": "Wed, 16 Jul 2025 23:03:08 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  },
+  {
+    "id": "6fd3e251-1111-4c35-b683-37cb00d07d54",
+    "title": "Wait…is this going to work?",
+    "link": "https://thebloggess.com/2025/07/08/wait-is-this-going-to-work/",
+    "description": "I have not been ignoring you but my blog has been broken and giving error messages every time I try to write, but I think maybe it’s fixed? I guess we’ll see if this goes through. I’m too tired to be entirely cohesive or funny but I wanted you to know that Hailey is homeContinue reading \"Wait…is this going to work?\"",
+    "author": "thebloggess",
+    "published": "Tue, 08 Jul 2025 19:38:03 +0000",
+    "image": "",
+    "source": "https://thebloggess.com/feed/",
+    "categories": [
+      "Random Crap"
+    ]
+  }
+]

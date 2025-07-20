@@ -1,0 +1,21 @@
+{
+  "id": "cf5086bd-7e44-4b92-b115-85201d04ca9a",
+  "title": "Three worthwhile articles yesterday",
+  "link": "https://martinfowler.com/articles/202507-three-links.html",
+  "description": "",
+  "author": "Martin Fowler",
+  "published": "2025-07-10T10:58:00-04:00",
+  "source": "https://martinfowler.com/feed.atom",
+  "categories": null,
+  "byline": "Martin Fowler: 10 Jul 2025",
+  "length": 866,
+  "excerpt": "a short post",
+  "siteName": "martinfowler.com",
+  "favicon": "",
+  "text": "Three articles I enjoyed yesterday: Stephen O’Grady talks about how Gen AI tools break two common constants with developer tools: they are willing to flit between Gen AI tools and they are willing to pay for them. This implies that it’s not too late for new tools to appear, and that enterprise adoption will be slowed by a lack of consensus on which direction to go. Pete Hodgson continues his excellent writing on Gen AI by proposing an approach to leading engineers towards an AI-assisted future, centered around a the concept of aligned autonomy. He advocates an explicit experimentation phase, followed by supporting adoption and measuring their impact. Charity Majors reflects on her career. I really resonated with her words: “I think I’m less interested in my own happiness (whatever that means) than I am interested in doing work that feels worth doing.”",
+  "image": "https://martinfowler.com/logo-sq.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\u003cp\u003eThree articles I enjoyed yesterday:\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://redmonk.com/sogrady/2025/07/09/promiscuity-of-modern-developers/\"\u003eStephen O’Grady\u003c/a\u003e talks about how Gen AI tools break two common constants with developer tools: they are willing to flit between Gen AI tools and they are willing to pay for them. This implies that it’s not too late for new tools to appear, and that enterprise adoption will be slowed by a lack of consensus on which direction to go.\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://blog.thepete.net/blog/2025/06/26/leading-your-engineers-towards-an-ai-assisted-future/\"\u003ePete Hodgson\u003c/a\u003e continues his excellent writing on Gen AI by proposing an approach to leading engineers towards an AI-assisted future, centered around a the concept of aligned autonomy. He advocates an explicit experimentation phase, followed by supporting adoption and measuring their impact.\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://charity.wtf/2025/07/09/thoughts-on-motivation-and-my-40-year-career/\"\u003eCharity Majors\u003c/a\u003e reflects on her career. I really resonated with her words: “I think I’m less interested in my own happiness (whatever that means) than I am interested in \u003cem\u003edoing work that feels worth doing\u003c/em\u003e.”\u003c/p\u003e\n\n\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": "2025-07-10T10:58:00-04:00"
+}
