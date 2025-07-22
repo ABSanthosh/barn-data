@@ -1,0 +1,1273 @@
+[
+  {
+    "id": "49dd483e-f551-4d10-8369-dce13354dcf3",
+    "title": "Building Open Infrastructure for AI with Illia Polosukhin",
+    "link": "https://softwareengineeringdaily.com/2025/07/17/building-open-infrastructure-for-ai-with-illia-polosukhin/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=building-open-infrastructure-for-ai-with-illia-polosukhin",
+    "description": "Illia Polosukhin is a veteran AI researcher and one of the original authors of the landmark Transformer paper, Attention is All You Need, which he co-authored during his time at Google Research. He has a deep background in machine learning and natural language processing, and has spent over a decade working at the intersection of The post Building Open Infrastructure for AI with Illia Polosukhin appeared first on Software Engineering Daily.",
+    "author": "SEDaily",
+    "published": "Thu, 17 Jul 2025 09:00:30 +0000",
+    "image": "https://traffic.megaphone.fm/SED6164910498.mp3",
+    "source": "https://softwareengineeringdaily.com/category/podcast/feed",
+    "categories": [
+      "All Content",
+      "Exclusive Content",
+      "Hosts",
+      "Podcast",
+      "AI researcher",
+      "Illia Polosukhin",
+      "intersection of AI",
+      "NEAR AI",
+      "Transformer model"
+    ]
+  },
+  {
+    "id": "1de3f6e6-2448-4ef5-8714-787d42337e44",
+    "title": "TypeScript with Jake Bailey",
+    "link": "https://softwareengineeringdaily.com/2025/07/15/typescript-with-jake-bailey/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=typescript-with-jake-bailey",
+    "description": "TypeScript is a statically typed superset of JavaScript that adds optional type annotations and modern language features to improve developer productivity and code safety. The TypeScript compiler performs type checking at compile time, catching errors before code is run, and also transforms TypeScript code into clean, standards-compliant JavaScript. Jake Bailey is Senior Software Engineer at The post TypeScript with Jake Bailey appeared first on Software Engineering Daily.",
+    "author": "SEDaily",
+    "published": "Tue, 15 Jul 2025 09:00:40 +0000",
+    "image": "https://traffic.megaphone.fm/SED5628982003.mp3",
+    "source": "https://softwareengineeringdaily.com/category/podcast/feed",
+    "categories": [
+      "All Content",
+      "Exclusive Content",
+      "Hosts",
+      "Josh Goldberg",
+      "Podcast",
+      "code safety",
+      "Jake Bailey",
+      "JavaScript",
+      "Microsoft",
+      "typescript"
+    ]
+  },
+  {
+    "id": "46b57801-9c4f-45fc-982b-b99e93c43e75",
+    "title": "The Insane Innovation of TI Calculator Hobbyists",
+    "link": "https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/",
+    "description": "Table of Contents The platform Programming model Software projects Phoenix Grayscale on the TI-84 Plus Game Boy emulator for the TI-84 Plus Shells TI-84+ USB mass storage driver KnightOS The Axe Parser project Unity: Native code on the TI-81 Operating system hacks Signing keys arTIfice Whence from here? Further reading In the mid-to-late 2000s, you either knew, or were, that kid in grade school. You know. The one who could put games on your graphing calculator. You may be surprised to learn that some of these people didn’t exist totally in a vaccuum. There was in fact a thriving scene of hackers who had bent these calculators to their will, writing games, math software, and more generally hacking on the platform just for the sake of it. True to my interests, it’s all deeply embedded, pushing the limits of platforms that were obsolete when they were released. I’ll take you through some of the highlights of Texas Instruments calculator hacking done over the past two and a half decades, along with an explanation of why these projects are so technically impressive. This is xkcd #768. There are also 768 bytes in the RAM buffer used to hold TI display bitmaps. This is not a coincidence because nothing is ever a coincidence with xkcd. (source) Note Wow, it’s been a while since I’ve written anything. In the space of a year I’ve gotten a new job, bought a house, moved. Life comes at you fast. Thanks to everyone who has emailed to check on me—and I apologize for not being super responsive over email. I do plan to continue the articles I’ve started! The platform Throughout the 90s and 2000s, TI released a succession of z80-based graphing calculators. You might have heard of the z80—it was an improved version of the Intel 8080 developed by Zilog. Yeah. It’s old.1 They were quite nice 45 years ago when they were released! All TI calculators generally had similar low-end specs: z80 processor usually clocked at 8 or 10MHz—and note that the z80 can only retire one instruction every 4 cycles. 96x64 black and white LCD (a few models had a larger screen but this was by far the most common. The latest models finally have higher resolution color screens.) A link port which (ab)used the 2.5mm headphone jack connector Generally, 32KB of RAM, and on the 83+ and later, anywhere from 100KB to 2MB of flash storage (“archive”) TI’s operating system “TI-OS” (they call it “EOS” but nobody else does). TI-OS has: Arithmetic and graphing engine TI-BASIC scripting language On the models with flash, support for launching large “apps” stored exclusively in flash Needless to say, this is the very definition of a constrained environment. The most popular graphing calculators were of course the TI-83/84 Plus, which every American student for the past decade and a half has probably seen. I will use “TI-84 Plus” throughout here because it’s very likely the model you’re familiar with; however, it was more often referred to as the TI-83 Plus because they were basically identical. The 84 Plus had USB and a redesigned case, but the system was the same. Programming model The z80 assembly2 programming environment was pretty spartan: there was no supervisor or memory protection, so if you had a bug you were probably going to crash the calculator (the dreaded “RAM Cleared” message). The z80 is an 8-bit machine, with 16-bit pointers, so although archive was technically memory mapped, it wouldn’t all fit—it was actually paged in to a 16KB “window”: This diagram is heavily simplified, but you’ll notice the lack of any horsepower at all. There were several guides for learning assembly, but the best was by Sean McLaughlin, Learn TI-83 Plus Assembly in 28 Days. TI provided a very good SDK documentation about subroutines provided by TI-OS (and official support for Asm() programs), and with that you pretty much had free rein over the system. Software projects Those who followed calculator hacking news will surely recognize the individuals I’m calling out here, either by their name or, more likely, by their handle. For my own part, I was almost entirely a lurker, largely due to the influence of my parents who were not keen on talking to people online. (Remember, high school.) I was, however, a pretty good self-taught calculator programmer—more on that in a later article… Note A fair number of these links are starting to rot because development happened 20 years ago. Please do email me with corrections if you find a newly dead link. And of course massive kudos to the Internet Archive for preserving it all! Phoenix Easily the most famous3 graphing calculator game is Phoenix by Patrick Davidson. It’s a top-down space shoot-em-up similar to the arcade game Galaxian. The reason it is famous is not because it is fun—although it is—nor because it’s well implemented—although it is. Rather, this game is famous because it is one of the oldest, and Patrick and others have ported it to nearly every single z80 calculator ever released. Grayscale on the TI-84 Plus The first thing I remember being really wowed by was an RPG game called Desolate by Patrick Prendergast (tr1p1ea), which boasted four level grayscale. On top of that the game was not just a tech demo; it had a fully featured storyline and pretty good sprite art.4 Most emulators were able to detect that the application was doing grayscale and produce a clean rendering of it How was this possible on a device with only a black and white screen? The answer was that if you flickered pixels on and off fast enough, they would appear gray. Naïve attempts at this led to horrible jittery messes and found it difficult to get over 3 colors (black, white, gray). In contrast, Durk Kingma’s grayscale library that Desolate used achieved really nice 4-gray art by careful timing and by dithering the flickered pixels so that not all were on or off at once. Graphics consumed the majority of the compute budget for the game—but such is life for most video games! Game Boy emulator for the TI-84 Plus TI wasn’t the only company using z80 processors. The original Game Boy used them too! A natural question arises: maybe, possibly, could you run a Game Boy game on a calculator in some sort of hypervisor? Brendan Fletcher (calc84maniac) put a ton of engineering into TI-Boy SE, which does exactly that! A Game Boy cartridge is fairly large—Pokémon Red’s ROM is 1MB—so TI-Boy solves this by packing the ROM into a “shell” flash app using a PC program. Of course, you had to bring your own Game Boy cartridge ROM. The next problem is that many Game Boy cartridges have more RAM (up to 128KiB) than the TI-84 Plus (32KiB). (The Game Boy had only 8KiB built in, but cartridges could supply extra.) Here we’d seem to be stuck: how can you possibly emulate extra RAM? Xavier Andréani (critor) observed that TI calculators did in fact have extra RAM because the ASIC containing the z80 had more RAM than was exposed by default. TI-Boy reverse engineered the special commands to the hardware to bank-switch these into address space! The result is impressive: TI-Boy playing Legend of Zelda (via ticalc.org) Shells On calculators released before the TI-83 Plus, there was no official way to launch assembly language programs. These calculators had to be hacked using various techniques. The solution for end users was a shell - a launcher program that handled the annoying bits of transferring control from the OS. Many shells also provided additional routines a program could call. On the TI-82, the Ash shell accomplished this by sending a specially-crafted memory backup to the calculator. When the calculator next handled a keypress, the memory image redirected the CPU into the setup code. In a sense, this technique is one of the oldest exploits for any TI calculator. The shell that you are most likely to remember is MirageOS for the 84+. MirageOS was a popular tag-along with games shared peer-to-peer with a link cable, because the games needed it to run. It was also a flash app, so it persisted through RAM clears. I remember not being entirely clear on why its splash screen was so elaborate when I first encountered it, but now I appreciate the artwork! Shells got more elaborate over time, culminating in Doors CS by Christopher Mitchell (KermMartian), which had icons for assembly programs, a cursor-based UI, and a bunch of routines for programs to use. TI-84+ USB mass storage driver The 84+ had a really wacky USB port: it was an On-the-Go port, very obscure when it was released. This technically meant that the 84+ could act as a USB host. Dan Englender’s Usb8x supplied the missing driver code, allowing you to use a mouse (of questionable utility), keyboard, or more importantly, a flash drive. The calculator’s boot code provided low-level USB routines for get/send, but the impressive part is the upper USB stack including the mass storage and FAT16 driver “msd8x”—all, of course, in z80 assembly! Usb8x enabled, among other things, a hilarious demo: Michael Vincent may be one of the only people to have ever watched The Matrix on his calculator. (via ticalc.org) KnightOS Drew DeVault (SirCmpwn) was working on a promising project replacing TI-OS entirely with a from-scratch Unix-inspired, multitasking system called KnightOS. The cool part about this system is that it drew a lot from the multitasking paradigms we take for granted on a Mac or Linux box, but did it all with barely any help from the hardware. Programs were relocatable, there was preemptive multitasking, and there were loadable libraries that worked exactly like shared objects do in Unix. There was also a “real” filesystem with directories, flash wear leveling, and a protocol to connect to a computer. (It even has its own USB PID—0xCA1C.) Of course, the whole thing was all carefully implemented in z80 assembly, and kernel and library routines documented the contents of each register. It’s not vaporware; there’s autogenerated builds you can download and install on your calculator, and the source is on GitHub. Unfortunately its broad scope prevented it from achieving a stable release, but the bones are there and they are cool. I actually contributed a little to this project: I remember just having learned about synchronization primitives (mutexes and condition variables) and I easily knew enough about the z80 to be able to implement them for KnightOS. The Axe Parser project As you might imagine, there are two problems with writing assembly programs. First, you generally need a PC to do it properly, and most budding programmers were in school for most of their day. Second, and more importantly, z80 assembly is pretty arcane if you’re coming from BASIC. With the Axe Parser5, Kevin Horowitz (Quigibo) attempted to solve these problems by creating a new programming language that compiled into native code on the calculator. Axe is an app that reads a “TI-BASIC program” written with the built-in editor, but Axe redefined the grammar and semantics to provide a language that was very well suited to writing games. It’s quite an elegant solution: using the built-in editor means Axe didn’t have to ship an editor for its language. Rather, Axe is a compiler—it spends its engineering budget on producing better assembly code, with pages and pages of forum threads devoted to optimization. And further, Axe is extensible with new primitives provided as “Axioms”—plugins that further manipulate the grammar of the language. Here’s a hello world program in Axe. The Str1 token has been co-opted into a 16-bit pointer variable—this compiles on-calculator to an assembly program called HELLO! :.HELLO :\"Hello World\"→Str1 :Disp Str1 Unity: Native code on the TI-81 The TI-81 was an absolute potato of a calculator. Not only did it lack archive memory, it also lacked a link port, and lacked the Asm() command, meaning you were stuck with TI-BASIC. Stuck, that is, until Ben Moody (floppusmaximus) released Unity, a loader that exploited a buffer overflow in the primitive TI-OS, then installed itself to help load other assembly programs. With no link port, how did you get Unity or other assembly programs on the calculator? You typed them in, by hand! The installation instructions are reminiscent of typing in BASIC programs out of BYTE magazine: I suspect Randy Compton, who originally discovered the OS bug, did so by dumping the ROM with physical disassembly. z80 assembly is extremely amenable to reverse engineering because it’s hand-written. Operating system hacks While most projects ran on TI-OS, some ran up against TI-OS in order to make the hardware do things that TI preferred they didn’t do. There were scruples. Most people wanted to avoid the ire of Texas Instruments because (a) even the threat of lawyers tends to have a chilling effect on high school students and (b) people generally wanted to avoid besmirching the community’s image. And so there were certain things that were mostly considered off-limits, namely programs that were designed to help cheat on tests. Signing keys Really all anyone wanted to do was run their own code on their own hardware. TI had a crude but effective cryptographic signature check for apps and operating systems, which used the Rabin cryptosystem. They had released the signing key for TI-83 Plus apps as part of the SDK. However, the other keys that allowed signing OS images for the 83+, 84+, and apps and operating systems for the TI-89, were still secret. Using math against calculator enthusiasts—what did TI expect to happen?! Ben Moody realized that the state of the art in 2009 was enough to directly crack the ten year old 512-bit keys. His post (enigmatically titled “Fun Number Theory Facts”) revealed that he had found the prime factors of the public key for the 83+ operating system. Initially flabbergasted, the community threw together a BOINC cluster which cracked all the remaining keys in a few weeks without breaking a sweat. Texas Instruments threw a tantrum, lobbing legal threats that were, frankly, 100% bullshit abuses of the DMCA. The Electronic Frontier Foundation intervened on the hobbyists' behalf, explaining to TI that there is nothing illegal about knowing the prime factors of certain integers. The whole thing earned its own Wikipedia article. Today, you can easily find these keys on any enthusiast site, including right here. arTIfice Fairly recently (late 2020), TI decided what everyone really needed was a cold shower, and announced they’d be disabling all this assembly business with a software update for the TI-84+ CE (the newest color calculator), dubiously claiming that this would improve exam security, etc, etc.6 To quote Lionel Debroux: This slam shuts [sic] a golden age of over two decades (!) of native code being officially supported on at least one actively maintained TI graphing calculator. […] Like all true calculator enthusiasts, we have hard feelings about the matter. The community had always been nice to TI - nothing really damaging for TI’s business was ever released over 20+ years! - but a moral barrier has probably been broken today… As an olive branch they offered Python bindings; everyone immediately pointed out that Python is wicked slow in embedded environments and absolutely cannot replicate what native code can do.7 If you’ve read this far, you’ll note this isn’t the first time TI has been a little tone-deaf toward enthusiasts. Enter arTIfice8 - a proper jailbreak for these calculators. You simply install the CabriJr geometry app, and open a special data file with it, and suddenly you’re presented with a menu allowing you to run whatever you like. What’s cool about this is that it’s a jailbreak, not just a sweet hack that uses the hardware. Just like you may be familiar with jailbreaking an iPhone or Xbox, starting from within the sandbox and getting out, this abuses bugs in the wildly complicated CabriJr geometry app (signed and blessed to run by TI) to reenable arbitrary code execution and literally pop a shell or install hooks into the OS.9 The arTIfice exploit is just 927 bytes, and it packs a simple UI and loader in behind the shellcode. Being this small, the underlying exploit is probably the lowest hanging fruit of plenty of zero-days in this and other TI software. So yeah, now exams are secure, or something. Whence from here? For every project I listed, there were ten others that I didn’t. (And if I missed yours, I mean no disrespect!) The breadth and depth of tinkering is staggering: I haven’t even touched the scene for the ARM-based Nspire. There are always challengers to Texas Instruments' entrenchment in high schools; Casio in particular has made some attractive devices. There has been a modest amount of scene releases for Casio calculators as well. The startup Numworks makes calculators based on a very capable STM32F429 microcontroller. Until recently, the Numworks had an open-source operating system and I had half-hoped that it might spark a renaissance of handheld calculators. The hardware is available and pretty nice, but they’ve closed the source code license, so I don’t think it will see any grassroots adoption by the calculator scene. But no matter the platform, the steady stream of bored nerds in high school cannot be quenched, and they will have the support of smart engineers with free time. In the true hacker spirit, I suspect people will continue to push the boundaries of whatever hardware they find in their hands. Further reading Casual readers may wish to browse ticalc.org’s news (which goes back to 1997) for the most interesting news, or spelunk in their massive archives. Or, dive into the phpBB rabbit holes of the community’s forums, some dead and some still thriving! ticalc.org: one part forum, one part news source, three parts massive archive of nearly all software released for any TI calculator Cemetech: fairly formal, moderate amount of chatter but with pretty good signal to noise ratio and with very knowledgeable people. Still very active. Omnimaga: less formal, lots of projects, with a sprawling offtopic section and very elaborate forum signatures. Datamath: a large “online museum” with hardware teardowns, reverse engineering, and documentation of nearly every calculator ever released. TI-Planet: a French forum that was linked a lot, with a large downloads section and active community; unfortunately I don’t know much about it firsthand because I don’t speak French. calc.org (Wayback link): also used to be called Dimension-TI. A now-defunct forum and download host. Unfortunately it was before my time and I don’t know much about it. Oh, and other calculator nerds: keep me honest. Corrections welcome by comment or email. A popular hobbyist project is to build your own homebrew z80 computer, precisely because it is so simple that you can understand the foundations of the system. My favorite is probably Jim MacAurthur’s beautiful minimal z80 in a laser cut case with a hand crank to single-step instructions! ↩︎ The z80 generally made life pretty difficult for people who attempted to make a good C compiler for it. I believe I have the only remaining copy of HITECH-C for DOS, which was actually a decent C compiler. As I said, more on that in a later article. ↩︎ Your fame results may vary. Seemed this way to me, anyway. ↩︎ It’s good enough to have garnered at least a few fan ports to ZX Spectrum and some old Soviet computers. ↩︎ Wow, the Axe user manual takes me back—it was my first exposure to xkcd! ↩︎ Feels like they got advice from the Playstation Linux team. ↩︎ As far as I can tell, they are likely using MicroPython—implementing a Python from scratch would be a huge task—but I can’t find any MIT license disclosure. ↩︎ Holy moly does this page cause my CPU fans to spin… ↩︎ I’ll point out that all these hooks were already possible and remain supported by the OS itself; it’s how apps like Inequalz (which graphs inequalities) work - they hook the graph equation screens and the drawing routines, using official APIs. ↩︎",
+    "author": "George Hilliard",
+    "published": "Wed, 06 Oct 2021 08:42:00 -0500",
+    "image": "https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/1996.png",
+    "source": "https://www.thirtythreeforty.net/posts/index.xml",
+    "categories": null
+  },
+  {
+    "id": "85a64d5e-4ed5-42ac-aace-986573f26e1f",
+    "title": "Hacking Reolink cameras for fun and profit",
+    "link": "https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/",
+    "description": "Table of Contents Sniffing traffic Dissecting traffic with Wireshark Inspecting the firmware Why doesn’t this camera support RTSP? Pwning the camera Low hanging fruit first Getting root Reversing the protocol Static analysis with Ghidra Strings: a bounty of information The Charlie Scrambler Dynamic analysis with gdb Feeding the watchdog Charlie strikes again A brief history of the Baichuan protocol Neolink: a new client Getting the video data Wrap it in maroon and white, er, RTSP Testing it with Blue Iris Future work Way back in late 2019, I dissected a Reolink B800 IP camera to demonstrate the various parts of an embedded Linux system. It’s fairly nice hardware, actually—it has a 4K video sensor, a microphone, power over Ethernet, and is nominally waterproof. And yes, it runs Linux. It came in a “kit” of six cameras and an NVR (a dedicated recording box that also powers the cameras). Unfortunately, the NVR is pretty anemic: it’s clearly an existing model with slight changes to support 4K cameras, and it struggles to support more than one viewer at a time. However, I bought these cameras because I believed they supported open standards such as ONVIF, so I’d just swap the NVR for a copy of Blue Iris running on my server. At the time, the Reolink support page clearly indicated that all of their non-battery-powered cameras supported RTSP. After the system was installed, it became apparent that the cameras did not in fact support RTSP—the only port open on them was port 9000. Then, barely outside my return window, Reolink updated their support page to say that the cameras would only work with their 8-channel NVR or proprietary viewer apps. This was, in the immortal words of Bill and Ted, bogus. Heinous. Most non-triumphant. Bogus enough that I decided to pwn the camera, reverse engineer the protocol, and write my own software to get the video stream. The end result is a new piece of open-source software called Neolink, which allows Blue Iris, Shinobi, or other NVR software to receive video from unmodified Reolink cameras. Here’s how I did it. Sniffing traffic As a first step, I fired up Wireshark and captured traffic between the camera and its official Reolink PC client1. The only thing that jumped out to me was the appearance of a sync word at the beginning of each packet, 0xf0debc0a. (In little endian, this is 0x0abcdef0.) On a lark, I Googled this, and actually found a project on GitHub from 2015 which was attempting to retrieve data from Swann cameras! A quick look at the code told me that although they share the sync word and packet header, the protocols for my camera and these older cameras were very different. The payload appeared to be encrypted in my captures. Furthermore, the code wouldn’t even run due to some questionable pointer juggling. Time to extract what I could—the header layout was correct—and move on. Dissecting traffic with Wireshark Always, always spend time developing debug or analysis tools. In my experience, such tools immediately pay back your time investment by a factor of 4 or more. With what I knew, I was able to write a “Baichuan” protocol dissector for Wireshark using Mika’s awesome tutorial. This was easy and fun: Wireshark lets you write dissectors in Lua (disclaimer: your definition of fun may vary). Now Wireshark could show me the payload lengths and message IDs. Not much, but it was a start. Inspecting the firmware In order to figure out whatever encryption and/or obfuscation the protocol was using, I planned to reverse engineer the firmware. I felt pretty confident that the underlying video was using a well-known protocol (especially since the camera seemed to have dedicated video encoding hardware). So “all” I’d have to do is reverse engineer the rest of the protocol. Easy peasy, right? Why doesn’t this camera support RTSP? As a quick aside, it’s natural to wonder why this camera doesn’t support RTSP and/or ONVIF. After all, plenty of other Reolink cameras do. Because I’d like to give them the benefit of the doubt, I’ll propose the possibility that Reolink ran out of storage on this camera and had to axe some features. After all, a 16MB flash chip would cost a whole 20 cents extra. This is just a cost-saving measure and definitely not vendor lock-in, hmmm? Pwning the camera Right, onward. With the protocol not immediately accessible, it was time to crack this camera open. My previous disassembly of the camera has already indicated that it uses SPI NOR flash—bog standard for a small Linux system like this. I was wanting to try out a really neat little SOIC socket I had discovered and ordered on Taobao a little while back. I desoldered the flash and soldered on a socket instead. The camera was now pwned, permanently—there was nothing I could do to brick it (I could always just reflash it with flashrom) and there was nothing Reolink could do to stop me from running my own code on it (since I had control of the first instruction executed, if need be2). With the flash now conveniently socketed, I dumped it and used binwalk to inspect the layout. Here’s the flash layout—the nice round byte offsets that engineers tend to pick.3 Bootloader, Linux uImage, squashfs rootfs, and JFFS2 persistent partition. DECIMAL HEXADECIMAL DESCRIPTION -------------------------------------------------------------------------------- 67266 0x106C2 eCos RTOS string reference 1769472 0x1B0000 uImage header 3604480 0x370000 Squashfs filesystem, little endian 7798784 0x770000 JFFS2 filesystem, little endian This also lines up nicely with this visualization of the flash image, made by a neat little tool called BinVis. binwalk also conveniently offers to unpack the filesystems it finds. Low hanging fruit first My first order of business was to find the actual camera binary. It was pretty easy to find; it’s sitting in its own directory at /mnt/app/dvr. The dvr binary also had an accompanying dvr.xml, which looked like a configuration file. A little grepping later, and… sure enough, here were the magic words ONVIF and RTSP! # .... push_server=\"pushx.reolink.com\" push_server_port=\"9501\" support_3gnet=\"0\" support_intelligence=\"0\" support_smartsearch=\"0\" support_onvif=\"0\" support_rtsp=\"0\" support_bc=\"1\" support_3dnr_config_interface=\"1\" default_3dnr_config=\"1\" # .... I suspected these were simply feature flags dictating to the software which features to enable. What if I just changed these zeros to ones? Rebuilding the rootfs wasn’t quite as easy as extracting it, but I cobbled together a command through trial and error. I wanted to get the squashfs format exactly the same as the one reported by binwalk, so that I could be sure that the stock kernel would mount it. Since I was mostly flying blind without a UART console, I didn’t want any trouble. $ mksquashfs new-squashfs-root/ new-squashfs.img -comp xz -b 262144 -all-root -noappend $ dd if=new-squashfs.img of=pwned.bin bs=1 seek=$((0x370000)) conv=notrunc $ flashrom -p ft2232_spi:type=2232H,port=A -w pwned.bin Alas, it was not to be this easy. The camera exhibited a remarkable lack of behavioral reform: no new ports opened, nothing. For comparison, I downloaded and unpacked a firmware update for a different Reolink camera that did support RTSP. The dvr binary for that camera was nearly 8 megabytes, while my victim’s was only a little over 3. Clearly, the engineers compiled out the unneeded bits. Getting root Fine. If Reolink has compiled the extra functionality out, then the least the camera could do is give me a shell. While I was here, I decided I’d make some, ahem, extra modifications. A quick Google did not yield prebuilt binaries of the tools I was looking for. Instead, I checked out a fresh copy of Buildroot and quickly set it up for a baseline MIPS configuration with static linking, then asked for copies of gdbserver, busybox with all the fixin’s, and strace: $ make qemu_mips32r2el_malta_defconfig $ make menuconfig # (with appropriate edits made) $ make busybox gdb strace Thirty minutes later, I had my tools. In the rootfs tree that binwalk had extracted, there’s the usual assortment of startup scripts in /etc/init.d. With my tricked-out Busybox copied to /bin, and a symlink created named telnetd, I added an extra line to one of the startup scripts: # Get a shell /bin/telnetd -l /bin/sh Fingers crossed, I reinstalled the flash and powered the camera. $ telnet 192.168.1.187 Trying 192.168.1.187... Connected to 192.168.1.187. Escape character is '^]'. /mnt/app # Mwahahaha. Reversing the protocol What to do with my newfound power? I planned to start with a static analysis of the firmware, first reverse engineering the encryption scheme. If I got stuck, I could interrogate the camera binary as it executed. Once I could undo the encryption, I’d be able to see what the actual protocol was like. Static analysis with Ghidra The traditional hobbyist tool for static analysis, IDA free edition, is no good here, because my binary is for MIPS, which the free IDA refuses to disassemble. Instead, the tool of choice is Ghidra, an astoundingly good open-source reverse engineering suite released by the NSA. Now, normally saying “I ran a binary the NSA gave me” will get you laughed out of the room. But Ghidra has been open source for a while now, so I feel reasonably safe installing it from the Arch Linux repository. If this website looks like it’s made by a government agency, it’s because it is. Ghidra is awesome. Seriously, this is a piece of software you’d have to pay $10000 for, and it should be your go-to for reverse engineering work. In addition to the disassembler and analyzer, Ghidra also includes a decompiler, which prints pseudo-C code instead of leaving you digging through MIPS assembly. It also re-analyzes in realtime as you annotate function arguments with type information and names. These features easily cut my time spent reverse engineering in half. So, armed with Ghidra and a false sense of confidence stemming from never having done any reverse engineering before, I went spelunking in the Baichuan binaries. Strings: a bounty of information There’s a reason most reverse engineers start by examining the strings in an unknown binary—it’s a technique that works. In my case, checking for strings in the desktop client and the firmware’s server yielded debug print statements, function names (which Ghidra automatically annotated), and a couple other oddball strings that I’ll talk about in a minute. Both codebases were clearly built around a shared proprietary “BCSDK” library. Searching for crypt yielded a couple of candidate functions that purported to perform encryption: Well, no RSA here, or anything resembling “real” encryption, except AES. (And I could find any AES keys embedded in the app in short order.) But what’s this string stuck nonchalantly in the middle of the others? That’s not a function name. I hit find-references and read the code that uses it. The Charlie Scrambler Ghidra took me to this gem of a function: Technically, this is the decryption function; there’s another one that works in reverse. It only takes a second to understand what’s going on here: the “encryption” scheme is simply: XOR the data with the string Charlie is the designer of P2P!!, then mix up the bytes. This isn’t encryption. This is just a scrambler. Bravo, Charlie, your “design” is permanently encoded in this protocol for all time. Don’t roll your own crypto, kids. Unfortunately, the Charlie Scrambler is only called from UDP functions (see the cross-reference at the bottom of the Ghidra window). This meant it wasn’t my pigeon; my camera uses TCP. At this point I had no idea which of the other “encryption” functions were the right one for my camera, so it was time to bring out my next weapon. Dynamic analysis with gdb With my shell access waiting, my next move was to attach a debugger and control the dvr program remotely from my workstation using my cross-compiled gdbserver and strace tools. My Busybox included an FTP server and a TCP wrapper: $ /bin/busybox tcpsvd -vE 0.0.0.0 21 ftpd / -w -A tcpsvd: listening on 0.0.0.0:21 With this setup I could push whatever tools I wanted to the camera filesystem, even though I hadn’t packed them into the firmware. I went through this process manually about twice before it became really tedious. This is the kind of thing it’s possible to automate with expect, a Tcl (!) program that pretends to be a console user. I scripted these interactions, which reduced the connect, tool push, and gdb setup to a simple: $ ./start-debug.exp An added benefit of this setup is that I could stick whatever gdb commands I wanted to run at startup at the end of the script, instead of writing a dedicated GDB script. These dynamic printf commands simply print in the GDB console when the camera hits a breakpoint, helpful for knowing which functions are being called without halting the camera: send_gdb \"dprintf *0x478908, \\\"_Nets_Without_Password_Login_V20\\\\n\\\"\" send_gdb \"dprintf *0x4780ac, \\\"FUN_004780ac\\\\n\\\"\" send_gdb \"dprintf *0x6310f0, \\\"Md5_string_encrypt\\\\n\\\"\" Feeding the watchdog After attaching and halting the dvr daemon, the camera promptly crashed and reset. After some quick investigation, the camera had a watchdog enabled at /dev/watchdog—a very common setup for embedded devices. I was doing open heart surgery on this software—I didn’t need some two-bit peripheral wandering by and hitting it with an AED! Busybox ships with a watchdog minder, so I simply fired it up: $ watchdog /dev/watchdog Problem solved. Charlie strikes again After my breakpoint was hit, I knew which encryption function I was dealing with: Nets_XmlEncryption. This was immediately good news, because after figuring out the encryption, I was likely dealing with nice ordinary XML, not some crazy half-baked bag of C structs. I took a look at the decompiled function in question in Ghidra, annotating as I went. Sure did look familiar… No engineering lessons had been learned during the redesign, and the influence of Charlie was alive and well! Here is the Charlie Scrambler back in force, but without the mixing step, and with a shorter key. Fine, whatever. Implementing the Scrambler in my Wireshark dissector didn’t take very long—although I was briefly baffled by a header of varying length depending on the message type. Once implemented, I was greeted with this glorious sight: Again, I highly recommend writing plugins for Wireshark. You can do it in Lua (or C if you’re that hardcore), and it only takes a couple hours to have a really nice debug tool. A brief history of the Baichuan protocol I won’t bore you with the gory details, but I’ll summarize my findings. The Baichuan protocol has had several iterations over the years. The very oldest seem to be UDP-based, using a proprietary SDK called TUTK, illicit copies of which can conveniently be found on GitHub. This is no longer used; it’s not even present in the camera code. The next variant is indeed a plaintext “bag of structs”, which consists of a header and a body specified by a message ID in the header. This “legacy variant” is briefly used on the B800 so that both clients can negotiate an upgrade to the “modern variant,” which is the scrambled XML-based scheme you see above. On top of this, modern messages can optionally have a payload. A certain XML message switches the entire message ID into “binary mode,” which supplies a raw data stream in subsequent messages. When the client sends a video-start command, the camera replies with a binary stream containing raw H.265 video. On top of that, the payload can also be more encrypted XML, separate from the main XML for some reason. On the whole, it’s really quite a pain to parse. Neolink: a new client Once my Wireshark dissector was humming along, it was time to write a new client. I wanted my software to be fast, high-level, and correct, since it would be part of a security system setup. That’s right: I rewrote Reolink’s software in Rust. Well, not exactly. Neolink is a new client completely from scratch. It speaks the same Baichuan protocol as the camera, and it extracts the video and forwards it to another real NVR client like Blue Iris over RTSP. The parsing code is somewhat hairy4, but other than that, it’s straightforward. Getting the video data Here’s all the client is capable of right now. It’s pretty easy to read if you want to look at the source. Send a legacy login message to get the camera to “upgrade” to modern messages. Note: this uses plain MD5 encryption for your password, another, um, interesting design choice. Use a password that isn’t in a rainbow table! Send a modern login message to actually authenticate to the camera. Send a start video request: let start_video = Bc::new_from_xml( BcMeta { msg_id: MSG_ID_VIDEO, client_idx: 0, encrypted: true, class: 0x6414, }, BcXml { preview: Some(Preview { version: xml_ver(), channel_id: 0, handle: 0, stream_type: \"mainStream\".to_string(), }), ..Default::default() }); sub_video.send(start_video)?; Spit out the binary data when it’s received: loop { let msg = sub_video.rx.recv_timeout(self.rx_timeout)?; if let BcBody::ModernMsg(ModernMsg { binary: Some(binary), .. }) = msg.body { data_out.write_all(binary.as_slice())?; } } Wrap it in maroon and white, er, RTSP5 For this part of the program I reached for Gstreamer, which ships with an RTSP server. Gstreamer is… complex. However, their examples are fantastic; they even provided a sample RTSP server in Rust! The general approach for feeding Gstreamer data from an arbitrary part of your program is to use a block called an appsrc. This lets you get a callback whenever Gstreamer wants data, or alternatively just push data whenever you have some and let Gstreamer handle scheduling it. The latter approach is the one I went with here, since the camera doesn’t wait for a signal to send video data. I wrapped everything in a Gstreamer pipeline: appsrc name=baichuan is-live=true emit-signals=false max-bytes=0 ! h265parse ! rtph265pay name=pay0 Testing it with Blue Iris The moment of truth arrived… could Blue Iris connect to my RTSP server and actually display the video? You bet. I present… me! In glorious 4K! Future work I’ve been soak-testing Neolink for a while now and I think it’s pretty stable. Going forward I’m packaging it up as a real Windows service (not a command line program) to run alongside Blue Iris on my server. Go look at it and download it for yourself! I’m also interested in getting Neolink working with other “NVR only” Reolink cameras, of which there are quite a few. So far I haven’t purchased any other hardware, so if you have one of these cameras, please get in touch so we can test it. It might Just Work out of the box. Port scan your cameras! If they have port 9000 available, chances are good that they speak the Baichuan protocol. This project was a “just right” intro to reverse engineering. Low-security systems like these let you teach yourself the principles without actively trying to thwart reverse engineering. I taught myself a lot, and I hope it provides a lot of value for folks who own these cameras. Finally, some shameless self-promotion: embedded Linux systems are actually pretty approachable! If you’d like to learn how to do this kind of thing, you might be interested in my Mastering Embedded Linux series, designed to help you become an expert in hacking low-cost embedded Linux systems just like this camera. If you enjoyed this, you can subscribe to my blog updates, or leave a comment below. Thanks for reading! The Reolink support forums always claim that their pages were “updated 8 hours ago.” This is obvious nonsense. They do update fairly frequently, but not constantly. ↩︎ This is exactly the point of secure boot schemes, where the immutable boot ROM validates code against immutable encryption keys, preventing tampering. Needless to say, this camera does not implement such niceties. ↩︎ binwalk also turns up a bunch of false positives, which are easy to ignore because they don’t have nice round offsets. ↩︎ Seriously, having packet decode be stateful is just ridiculous. ↩︎ Yes, I’m a proud Mississippi State University bulldog. You too can attend and become a computer engineer! ↩︎",
+    "author": "George Hilliard",
+    "published": "Sat, 16 May 2020 17:40:00 -0500",
+    "image": "https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/b800.jpg",
+    "source": "https://www.thirtythreeforty.net/posts/index.xml",
+    "categories": null
+  },
+  {
+    "id": "277dc2ba-351c-4de5-8607-ed6c70b51a39",
+    "title": "Somebody is in the room — did we just interview ChatGPT?",
+    "link": "https://engineering.prezi.com/somebody-is-in-the-room-did-we-just-interview-chatgpt-ab4e8dd5db28?source=rss----911e72786e31---4",
+    "description": "",
+    "author": "Máté Börcsök",
+    "published": "Wed, 09 Jul 2025 12:24:04 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*b3B3Jb8PtY-jm7_C5NcUng.png",
+    "source": "https://engineering.prezi.com/feed",
+    "categories": [
+      "hiring",
+      "interview",
+      "ai",
+      "software-engineering",
+      "prezi"
+    ]
+  },
+  {
+    "id": "a9037888-2774-4799-b32b-81abed5db8e7",
+    "title": "You’ll Rebuild Everything Every Four Years Anyway",
+    "link": "https://engineering.prezi.com/youll-rebuild-everything-every-four-years-anyway-b31ab0dcc17e?source=rss----911e72786e31---4",
+    "description": "",
+    "author": "Attila Vágó",
+    "published": "Fri, 04 Apr 2025 03:12:34 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*4gf5UDs9E97yw0c2E44Cag.jpeg",
+    "source": "https://engineering.prezi.com/feed",
+    "categories": [
+      "software-engineering",
+      "software-development",
+      "prezi",
+      "software-architecture",
+      "web-development"
+    ]
+  },
+  {
+    "id": "57a276d7-50aa-4a32-a3b1-f46d6b5aead8",
+    "title": "182: AI Assisted Coding",
+    "link": "https://www.programmingthrowdown.com/episodes/182-ai-assisted-coding/",
+    "description": "Intro topic: Getting an entry-level jobNews/Links:Mario Kart 64 Fully Decompiledhttps://gbatemp.net/threads/mario-kart-64-decompilation-project-reaches-100-completion.671104/Q-Learning is not yet scalablehttps://seohong.me/blog/q-learning-is-not-yet-scalable/Grover’s Algorithmhttps://www.youtube.com/watch?v=RQWpF2Gb-gU\u0026vl=enOrangePi has a RISC-V SBChttps://linuxgizmos.com/orangepi-rv2-a-cost-effective-risc-v-board-with-m-2-2280-slot-and-dual-gigabit-ethernet/Book of the ShowPatrickThe Will of the Many (James Islington)https://amzn.to/44DznszJasonThe Intelligence Traphttps://amzn.to/3TqoKCBPatreon Plug https://www.patreon.com/programmingthrowdown?ty=hTool of the ShowPatrick Pokemon Odysseyhttps://www.reddit.com/r/PokemonROMhacks/comments/1l9zdta/pok%C3%A9mon_odyssey_final_release/JasonNetflix Gameshttps://play.google.com/store/apps/dev?id=6891422865930303475\u0026hl=en_USTopic: WhySpeed up developmentCatch errors faster than type checking/compilingWriting tedious boilerplate codeAsk questions and learn local informationLook good for hiring managersHowExtensions for VSCode \u0026 other IDEs for inline suggestionsChat with a selection/fileCommand-line Tools run at the root directoryLocal vs CloudExamplesCopilot (VSCode extension)Use the experimental modeCursor (Custom IDE)Jumps to suggest changes in other placesSimilar to copilot experimental modeRooCode (VSCode extension) ★ Support this podcast on Patreon ★",
+    "author": "Patrick Wheeler and Jason Gauci",
+    "published": "Mon, 30 Jun 2025 15:59:38 -0500",
+    "image": "https://pdst.fm/e/media.transistor.fm/91ad8cee/bbdfdb90.mp3",
+    "source": "http://feeds.feedburner.com/ProgrammingThrowdown",
+    "categories": [
+      "copilot",
+      " code assist tooling",
+      " AI"
+    ]
+  },
+  {
+    "id": "33529f96-e061-41b9-8d98-6252924f46d4",
+    "title": "181: Memory Management",
+    "link": "https://www.programmingthrowdown.com/episodes/181-memory-management/",
+    "description": "Intro topic: Video Game PricesNews/Links:Step one: Jump in the Lava - Abyssofthttps://youtu.be/WdadpHLAfdA?si=oXYnhB0EdkR_RaPEScalable world models for continuous controlhttps://www.tdmpc2.com/Clever code is probably the worst code you could write - Engineer’s Codexhttps://read.engineerscodex.com/p/clever-code-is-probably-the-worstA new, open source text-to-speech model called Dia has arrived to challenge ElevenLabs, OpenAI and morehttps://venturebeat.com/ai/a-new-open-source-text-to-speech-model-called-dia-has-arrived-to-challenge-elevenlabs-openai-and-more/Book of the ShowPatrickThe Muscle Ladder - Jeff Nippardhttps://amzn.to/44DznszJasonMetaphysics of Warhttps://amzn.to/4jMjvZ5Patreon Plug https://www.patreon.com/programmingthrowdown?ty=hTool of the ShowPatrickPokemon Trading Card Game PocketJasonPhi-4https://huggingface.co/spaces/microsoft/phi-4-multimodalTopic: Memory ManagementMotivationAvoid thrashing / crashesAllocate resources efficientlyKeep high uptimeWhereOS LevelHeap managementVirtual MemoryLanguage/Compiler LevelCppGarbage collectionOwnershipToolsInstrumentationExport to Datadog / GrafanaPython: psutil \u0026 tracemallocValgrindWhat to do when your program uses too much memory?Reduce data sizesCompressionReferencesLazy initializerGenerators \u0026 Back PressureRing buffersArena allocatorsDisk based caching ★ Support this podcast on Patreon ★",
+    "author": "Patrick Wheeler and Jason Gauci",
+    "published": "Mon, 12 May 2025 10:00:00 -0500",
+    "image": "https://pdst.fm/e/media.transistor.fm/353d5585/fe789042.mp3",
+    "source": "http://feeds.feedburner.com/ProgrammingThrowdown",
+    "categories": [
+      "Programming Throwdown",
+      " Programming Languages",
+      "C",
+      "C",
+      "Java",
+      "Python",
+      "Objective C"
+    ]
+  },
+  {
+    "id": "8dc88674-c4a9-44b4-bf73-f099d1b56f45",
+    "title": "8 Best Keyboards for Programming in India 2025",
+    "link": "https://www.thecrazyprogrammer.com/2025/03/best-keyboards-for-programming-in-india.html",
+    "description": "For a lot of programmers, finding a decent keyboard will significantly boost their workflow environment. Here, in this article, you’ll find a list of best keyboards for programming and a strait-laced comparison between them. The programmers typically spend their days’ planning, writing, and checking code in their machine. The keyboard is, therefore, one of the … 8 Best Keyboards for Programming in India 2025 Read More » The post 8 Best Keyboards for Programming in India 2025 appeared first on The Crazy Programmer.",
+    "author": "Chirag Manghnani",
+    "published": "Sat, 01 Mar 2025 18:16:00 +0000",
+    "image": "http://thecrazyprogrammer.com/wp-content/uploads/2020/09/Redgear-Blaze.jpg",
+    "source": "https://www.thecrazyprogrammer.com/category/programming/feed",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": "975bc296-6c67-41b6-bd1d-08d42c3122a3",
+    "title": "Top 5 Best Coding Apps in 2025",
+    "link": "https://www.thecrazyprogrammer.com/2025/02/best-coding-apps.html",
+    "description": "We humans may be a little cunning and mischievous (nervous laugh!) but we surely are focused on various things. And when we are focused on something, we give it full priority to we matter it completely. Right? One of such things on which we are fully focused is learning. Our brain is a powerhouse which … Top 5 Best Coding Apps in 2025 Read More » The post Top 5 Best Coding Apps in 2025 appeared first on The Crazy Programmer.",
+    "author": "Neeraj Mishra",
+    "published": "Thu, 13 Feb 2025 10:47:00 +0000",
+    "image": "http://thecrazyprogrammer.com/wp-content/uploads/2020/06/SoloLearn.png",
+    "source": "https://www.thecrazyprogrammer.com/category/programming/feed",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": "450238df-b209-4463-b938-2ee9cdedd6f0",
+    "title": "Webcam randomly pausing in OBS, Discord, and websites - LSVCam and TikTok Studio",
+    "link": "http://feeds.hanselman.com/~/905963465/0/scotthanselman~Webcam-randomly-pausing-in-OBS-Discord-and-websites-LSVCam-and-TikTok-Studio",
+    "description": "I use my webcam constantly for streaming and I'm pretty familiar with all the internals and how the camera model on Windows works. I also use OBS extensively, so I regularly use the OBS virtual camera and flow everything through Open Broadcasting Studio. For my podcast, I use Zencastr which is a web-based app that talks to the webcam via the browser APIs. For YouTubes, I'll use Riverside or StreamYard, also webapps. I've done this reliably for the last several years without any trouble. Yesterday, I started seeing the most weird thing and it was absolutely perplexing and almost destroyed the day. I started seeing regular pauses in my webcam stream but only in two instances. The webcam would pause for 10-15 seconds every 90 or so seconds when access the Webcam in a browser I would see a long pause/hang in OBS when double clicking on my Video Source (Webcam) to view its properties Micah initially said USB but my usb bus and hubs have worked reliably for years. Thought something might have changed in my El Gato capture device, but that has also been rock solid for 1/2 a decade. Then I started exploring virtual cameras and looked in the windows camera dialog under settings for a list of all virtual cameras. Interestingly, virtual cameras don't get listed under Cameras in Settings in Windows: From what I can tell, there's no user interface to list out all of your cameras - virtual or otherwise - in windows. Here's a quick PowerShell script you can run to list out anything 'connected' that also includes the string \"cam\" in your local devicesGet-CimInstance -Namespace root\\cimv2 -ClassName Win32_PnPEntity | Where-Object { $_.Name -match 'Cam' } | Select-Object Name, Manufacturer, PNPDeviceID and my outputName Manufacturer PNPDeviceID---- ------------ -----------Cam Link 4K Microsoft USB\\VID_0FD9\u0026PID_0066\u0026MI_00\\7\u00263768531A\u00260\u00260000Digital Audio Interface (2- Cam Link 4K) Microsoft SWD\\MMDEVAPI\\{0.0.1.00000000}.{AF1690B6-CA2A-4AD3-AAFD-8DDEBB83DD4A}Logitech StreamCam WinUSB Logitech USB\\VID_046D\u0026PID_0893\u0026MI_04\\7\u0026E36D0CF\u00260\u00260004Logitech StreamCam (Generic USB Audio) USB\\VID_046D\u0026PID_0893\u0026MI_02\\7\u0026E36D0CF\u00260\u00260002Logitech StreamCam Logitech USB\\VID_046D\u0026PID_0893\u0026MI_00\\7\u0026E36D0CF\u00260\u00260000Remote Desktop Camera Bus Microsoft UMB\\UMB\\1\u0026841921D\u00260\u0026RDCAMERA_BUSCam Link 4K (Generic USB Audio) USB\\VID_0FD9\u0026PID_0066\u0026MI_03\\7\u00263768531A\u00260\u00260003Windows Virtual Camera Device Microsoft SWD\\VCAMDEVAPI\\B486E21F1D4BC97087EA831093E840AD2177E046699EFBF62B27304F5CCAEF57 However, when I list out my cameras using JavaScript enumerateDevices() like this// Put variables in global scope to make them available to the browser console.async function listWebcams() { try { const devices = await navigator.mediaDevices.enumerateDevices(); const webcams = devices.filter(device =\u003e device.kind === 'videoinput'); if (webcams.length \u003e 0) { console.log(\"Connected webcams:\"); webcams.forEach((webcam, index) =\u003e { console.log(`${index + 1}. ${webcam.label || `Camera ${index + 1}`}`); }); } else { console.log(\"No webcams found.\"); } } catch (error) { console.error(\"Error accessing media devices:\", error); }}listWebcams(); I would get:Connected webcams: test.html:11 1. Logitech StreamCam (046d:0893) test.html:11 2. OBS Virtual Camera (Windows Virtual Camera) test.html:11 3. Cam Link 4K (0fd9:0066) test.html:11 4. LSVCam test.html:11 5. OBS Virtual Camera So, what, what's LSVCam? And depending on how I'd call it I'd get the pause and getUserMedia error: NotReadableError NotReadableError: Could not start video source Some apps could see this LSVCam and others couldn't. OBS really dislikes it, browsers really dislike it and it seemed to HANG on enumeration of cameras. Why can parts of Windows see this camera and others can't? I don't know. Do you? Regardless, it turns that it appears once in my registry, here (this is a dump of the key, you just care about the Registry PATH)Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\\CLSID\\{860BB310-5D01-11d0-BD3B-00A0C911CE86}\\Instance\\LSVCam]\"FriendlyName\"=\"LSVCam\"\"CLSID\"=\"{BA80C4AD-8AED-4A61-B434-481D46216E45}\"\"FilterData\"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\\ 08,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\\ 00,00,00,38,00,00,00,48,00,00,00,76,69,64,73,00,00,10,00,80,00,00,aa,00,38,\\ 9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00 If you want to get rid of it, delete HKEY_CLASSES_ROOT\\CLSID\\{860BB310-5D01-11d0-BD3B-00A0C911CE86}\\Instance\\LSVCam WARNING: DO NOT delete the \\Instance, just the LSVCam and below. I am a random person on the internet and you got here by googling, so if you mess up your machine by going into RegEdit.exe, I'm sorry to this man, but it's above me now. Where did LSVCam.dll come from, you may ask? TikTok Live Studio, baby. Live Studio Video/Virtual Cam, I am guessing.Directory of C:\\Program Files\\TikTok LIVE Studio\\0.67.2\\resources\\app\\electron\\sdk\\lib\\MediaSDK_V109/18/2024 09:20 PM 218,984 LSVCam.dll 1 File(s) 218,984 bytes This is a regression that started recently for me, so it's my opinion that they are installing a virtual camera for their game streaming feature but they are doing it poorly. It's either not completely installed, or hangs on enumeration, but the result is you'll see hangs on camera enumeration in your apps, especually browser apps that poll for cameras changes or check on a timer. Nothing bad will happen if you delete the registry key BUT it'll show back up when you run TikTok Studio again. I still stream to TikTok, I just delete this key each time until someone on the TikTok Studio development team sees this blog post. Hope this helps!© 2025 Scott Hanselman. All rights reserved.",
+    "author": "Scott Hanselman",
+    "published": "Wed, 09 Oct 2024 19:32:28 GMT",
+    "image": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/730f6664b802_E062/image_thumb.png",
+    "source": "http://feeds.hanselman.com/ScottHanselman",
+    "categories": [
+      "Bugs"
+    ]
+  },
+  {
+    "id": "7e1027f5-04b6-46b7-b034-b3e1c08c6211",
+    "title": "Open Sourcing DOS 4",
+    "link": "http://feeds.hanselman.com/~/882544025/0/scotthanselman~Open-Sourcing-DOS",
+    "description": "See the canonical version of this blog post at the Microsoft Open Source Blog! Ten years ago, Microsoft released the source for MS-DOS 1.25 and 2.0 to the Computer History Museum, and then later republished them for reference purposes. This code holds an important place in history and is a fascinating read of an operating system that was written entirely in 8086 assembly code nearly 45 years ago. Today, in partnership with IBM and in the spirit of open innovation, we're releasing the source code to MS-DOS 4.00 under the MIT license. There's a somewhat complex and fascinating history behind the 4.0 versions of DOS, as Microsoft partnered with IBM for portions of the code but also created a branch of DOS called Multitasking DOS that did not see a wide release. https://github.com/microsoft/MS-DOS A young English researcher named Connor \"Starfrost\" Hyde recently corresponded with former Microsoft Chief Technical Officer Ray Ozzie about some of the software in his collection. Amongst the floppies, Ray found unreleased beta binaries of DOS 4.0 that he was sent while he was at Lotus. Starfrost reached out to the Microsoft Open Source Programs Office (OSPO) to explore releasing DOS 4 source, as he is working on documenting the relationship between DOS 4, MT-DOS, and what would eventually become OS/2. Some later versions of these Multitasking DOS binaries can be found around the internet, but these new Ozzie beta binaries appear to be much earlier, unreleased, and also include the ibmbio.com source.  Scott Hanselman, with the help of internet archivist and enthusiast Jeff Sponaugle, has imaged these original disks and carefully scanned the original printed documents from this \"Ozzie Drop\". Microsoft, along with our friends at IBM, think this is a fascinating piece of operating system history worth sharing.  Jeff Wilcox and OSPO went to the Microsoft Archives, and while they were unable to find the full source code for MT-DOS, they did find MS DOS 4.00, which we're releasing today, alongside these additional beta binaries, PDFs of the documentation, and disk images. We will continue to explore the archives and may update this release if more is discovered.  Thank you to Ray Ozzie, Starfrost, Jeff Sponaugle, Larry Osterman, our friends at the IBM OSPO, as well as the makers of such digital archeology software including, but not limited to Greaseweazle, Fluxengine, Aaru Data Preservation Suite, and the HxC Floppy Emulator. Above all, thank you to the original authors of this code, some of whom still work at Microsoft and IBM today! If you'd like to run this software yourself and explore, we have successfully run it directly on an original IBM PC XT, a newer Pentium, and within the open source PCem and 86box emulators.  © 2025 Scott Hanselman. All rights reserved.",
+    "author": "Scott Hanselman",
+    "published": "Thu, 25 Apr 2024 16:46:13 GMT",
+    "image": "https://www.hanselman.com/blog/content/binary/Windows-Live-Writer/Open-Sourcing-DOS-4_E712/clip_image002_5b6e1c02-95d8-4ee1-87af-ca53a8b0bd56.png",
+    "source": "http://feeds.hanselman.com/ScottHanselman",
+    "categories": [
+      "Open Source"
+    ]
+  },
+  {
+    "id": "209ba7a7-2768-4f99-a030-07a0b7639e0b",
+    "title": "diceomatic: a DSL for making children's dice games",
+    "link": "https://robertheaton.com/diceomatic/",
+    "description": "My five year-old is into football. Really, really, won’t-sit-down, won’t-let-anyone-else-sit-down into football. My wife and I spend every free minute taking half-hearted shots on goal; feigning agony as a daring counterattack puts us 23-0 down; and answering quiz questions about which hospital Harry Kane was born in. To buy us a minute to breathe and shower, I invented a game called “Dice Football”. In Dice Football you roll two 6-sided dice, add up the numbers, then consult a table to see what happens next. When the match is over you enter the results in your tournament tracker. Then you start the next match. Hopefully you don’t get bored for at least an hour. Dice Football is a single-player game, which means that no one has to win or lose, and that mummy and daddy get to do something else for a bit. (Here’s a printable rules sheet for Dice Football, and one for the tournament tracker.) Dice Football was a surprise, obsessive, breakout hit. As long as we kept our son fed with pens and exercise books, we could have all the showers we wanted. Dice Football was also a gateway into the world of dice-based simulation games, and over the following weeks I could barely keep up with my son’s appetite for new games. His favourite was “Dice US Federal Election,” where you roll dice to figure out which party wins each state, and when you’re finished you borrow daddy’s phone to add up the electoral college votes. As the games kept coming, I ran out of interesting ways to generate sums with 6-sided dice. I bought some 20-siders, and these big boys kept things interesting for another week or two. But I started to chafe against the limits of any kind of simple polyhedra. I started to get ambitious. I wanted to make games that used sums with arbitrarily customisable structure and difficulty. For example, instead of the simple A+B = ?? (where 1\u003c=A\u003c=6 AND 1\u003c=B\u003c=6) form of two 6-sided dice, I wanted sums like: A*B + C*D = ?? (for example: 4*2 + 14*3 = ??) And the addition portion crosses a 10 boundary And A*B \u003c 20 and C*D \u003c 50 And all variables are between 2 and 100 If the answer is even then it’s a goal for Chelsea; if it’s odd then it’s a goal for Liverpool. Or whatever. I couldn’t build these sums using dice, and I certainly wasn’t going to construct them by hand. I needed a way to generate an infinite stream of super-specific questions. So I wrote one: diceomatic. diceomatic diceomatic is a Python library for building highly-customisable, infinite dice games. For example, to generate a stream of questions using the example constraints listed above, you write: from diceomatic import * # Declare the variables a, b, c, d, e = variables([\"a\", \"b\", \"c\", \"d\", \"e\"]) vs = [a, b, c, d, e] # Declare the form of the equation lhs = Add(Multiply(a, b), Multiply(c, d)) rhs = e # Declare the constraints constraints = [ AdditionCrosses10Boundary(Multiply(a, b), Multiply(c, d)), IsLessThan(Multiply(a, b), Literal(20)), IsLessThan(Multiply(c, d), Literal(50)), Equal(lhs, rhs), ] # Declare the domains over which to search for valid sums domains = uniform_domains(vs, range(2, 100)) # Find variable bindings that form a valid equation bindings = find_bindings(vs, domains, constraints, n_bindings=10) # Print each set of bindings as an equation with a random value held out for bnd in bindings: lhs_expr = expression_string(lhs, bnd, hold_out=e) rhs_expr = expression_string(rhs, bnd, hold_out=e) print(f\"{lhs_expr} = {rhs_expr}\") This prints: 9 * 2 + 11 * 2 = __ 4 * 2 + 10 * 4 = __ 2 * 5 + 16 * 3 = __ 6 * 2 + 5 * 6 = __ # ...and so on... You can then save the sums as a PDF, print the PDF on a sheet of paper, and use it to power games of Extreme Dice Football. Advanced usage You can do much more than print the questions though! You have programmatic access to them, which means you can do anything you want. You can put them on a website, or a game, or an app. Your code knows what the correct answer to each question is, so it can check whether the player’s answer is correct. You can even automatically adjust the difficulty of the generated questions based on how the player does. For example, I made a Streamlit app for displaying sums and checking their answers, and I deployed it to Streamlit cloud. Now I can write a new game with new rules, program its format into into the app, hand my son an iPad, and have the iPad generate the equations of the form and difficulty needed to power the game. Truly a stream of infinite fun. Try it yourself Install diceomatic using: pip install diceomatic See the GitHub repo for docs and examples. PRs welcome! Links diceomatic on GitHub Dice US Federal Election Dice Football Tournament tracker",
+    "author": "",
+    "published": "Wed, 11 Jun 2025 00:00:00 +0000",
+    "image": "/images/sumchef/dice-football.png",
+    "source": "https://robertheaton.com/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "24100662-9a24-4e88-a801-0c51c3710b65",
+    "title": "MinorMiner: we turn your kid's maths homework into Bitcoin",
+    "link": "https://robertheaton.com/minor-miner/",
+    "description": "Hello! Hello! Welcome, welcome. My name is Hobert Reaton, and I’m here in this shabby motel conference room to present you with yet another once-in-a-lifetime investment opportunity. Look at this picture. Tell me what you see: Do you see learning? Self-improvement? The future leaders of our country? I’ll tell you what I see: wasted computing power. Between the ages of 5 and 18, the average child in full-time education completes about 5 maths worksheets a week. Each worksheet has 20 questions. This means that over the course of their school career, every single one of our kids performs about 80,000 calculations. At the moment we completely waste their work. A student figures out that 5+5=10 and 7x7=49. This motivates them; they’re energised by their success. But then what do we do with the fruits of their labour? Nothing! We throw the fruit away, to rot in the void. “We knew that already,” we tell our children. “Your ideas don’t matter.” Unlike the rest of society, I believe that kids deserve to feel appreciated. I believe that their achievements are valuable. That’s why I founded MinorMiner. What is MinorMiner? MinorMiner is a platform that allows school-age children to monetise their maths homework by using it to mine Bitcoin. Yes, you heard me. We send children their homework, they crunch through it, and then together we transform their sweat into digital gold. This isn’t some rinky-dink incentive program where we bribe children to care about multiplication. Homework is the essential raw material that feeds our machine. We need these kids. No kids; no Bitcoin. In order to understand the innovation that makes MinorMiner possible, we first need to understand how Bitcoin is mined today. Right now, people mine Bitcoin by using computers to solve complex mathematical puzzles. The puzzles look like this: Take the list of the Bitcoin transactions that have occurred since the last Bitcoin was mined. Check that they’re all correctly authorized and that none of them spend money that the creator doesn’t have. Choose a string of extra letters and numbers to add on to the end of this list (a nonce). This is your attempt to solve the puzzle. Pass the list and your extra characters through an extremely complex function called the SHA-256 hash function (technically you pass it through the function twice). The hash function chops and slices and spins and dices the input around, seemingly (but not actually) at random. At the end it spits out a number The puzzle that you’re trying to solve is: what combination of letters and numbers from step 2 cause the output from step 3 to be less than some small target number? Step 1 Collect valid Bitcoin transactions since last block Step 2 Add nonce Step 3 Pass transactions and nonce through hash function Step 4 Check if hash output is less than target NO - try again with new nonce Publish solution and claim reward YES - new bitcoin block mined! There’s no elegant way to solve these puzzles. The only thing for Bitcoin miners to do is to guess inputs to step 2, over and over and over again, until they find one that happens to satisfy the criteria in step 4. When a miner guesses a right answer we say that they’ve “mined” a new “block”. They attach their solution to the blockchain to show that they’ve verified the transactions in the block, and they’re rewarded with new bitcoin. Their work, along with a couple of extra steps that I’ve hand-waved over, ensures that the blockchain stays safe and secure. However, it also requires an incredible amount of electricity - around 150TWh per year, or 1% of the world’s total energy consumption. What if there was a better, more efficient way to achieve the same thing? This is where MinorMiner and school-aged children come in. “But Bitcoin mining sounds hard!” I hear you wail. “My child has only a rudimentary grasp of basic algorithms!” True, true - but the magic is that the children on our platform don’t need to know how to mine Bitcoin, and they won’t even know that they’re doing it. Our team has converted the SHA-256 hashing algorithm used by the bitcoin blockchain into a sequence of elementary arithmetic questions that even the dullest dullard can answer. Solving a blockchain puzzle used to require understanding and executing a SHA-256 hash. Now all it takes is skipping through a few trillion simple brainteasers. 5+3=? 10*5=? Is 102 bigger than 67? (y/n) And so on The kids do these sums - we take care of the rest. How does the MinorMiner platform work? The heart of MinorMiner is a centralised system that manages our mining. The system decomposes a SHA-256 hash computation into simple arithmetic questions, and works out which of these questions need answering next. Simple enough - but how do we get the questions to the kids? Three words: online maths quizzes. You see, MinorMiner also has a maths learning platform that we sell to schools all over the world. Our platform isn’t particularly good, but we give department heads a generous revenue share and so this tends not to matter. Once a teacher (or “distribution associate” as we like to call them) is set up on MinorMiner, they assign a quiz to their class as homework. In the evening their children (or “computation partners”) log into the MinorMiner portal and answer their quiz for the day, which consists of whatever questions our hashing system needs doing next. By way of compensation their distribution associate doesn’t give them a detention. We collect their answers and use them to continue calculating a hash. When one partner finishes their quiz, the next partner continues calculating from where they left off. We have to be careful - a hash is a delicate thing. One tiny mistake in one tiny step and - poof! - the whole calculation is completely, irreversibly screwed. That’s why send each calculation to two separate computation partners. If their answers disagree then we escalate to a slightly older partner to adjudicate. We maintain a rating for each partner based on their accuracy. If their rating drops below 4.3 stars then they are invited to undergo additional training to help them get back to the standard expected for MinorMiner partners. If such improvement is not forthcoming then they are invited to seek maths education elsewhere. Any questions so far? No? Then it’s time for me to show you our real technological breakthrough. CUDAAAAGH We write our mining code using a Python library called Centralized Underage Distributed Arithmetic - Automated Assignment And Group Hashing (CUDAAAAGH). CUDAAAAGH allows us to distribute any complex computation across an infinitely-scalable pool of computation partners. We’ve open-sourced it on GitHub and PyPi. To use it, we run pip install CUDAAAAGH and then use its CUDAAAAGHInt class everywhere we would normally use Python’s standard integer type. Aside from that, we write all of our code as normal. When we execute our program, CUDAAAAGH automatically offloads any arithmetic computations to our network of computation partners, instead of burdening our own CPUs. For example: from CUDAAAAGH import CUDAAAAGHInt x = CUDAAAAGHInt(5) y = x + CUDAAAAGHInt(10) # Behind the scenes, this sends the calculation \"5+10\" to a computation # partner. Execution pauses until we receive an answer. print(f\"The answer is: {y}\") # =\u003e 15 This works for all integer operations. For complex operations like XOR, CUDAAAAGH breaks them up into simpler additions and multiplications that will be more familiar to our computation partners. It then combines their answers behind the scenes to calculate the requested XOR: from CUDAAAAGH import CUDAAAAGHInt x = CUDAAAAGHInt(0b010100100) y = x ^ CUDAAAAGHInt(0b111100101) print(y) # =\u003e 321 And before you ask - yes you can absolutely use CUDAAAAGH to train AI models. Stick around until the end for more details. I know what you’re thinking: this is genius, it’s revolutionary, but Bitcoin mining is a game of speed. Is CUDAAAAGH fast enough? And to you I say: hell yes it’s almost fast enough, if you go by our 5-year projections and use our heterodox assumptions about the direction of the world economy. Hold onto your cheque books everybody. It’s time to mine Today, calculating a hash takes the MinorMiner platform about 7 billion operations. An off-the-shelf ten-year-old can perform one addition every 10 seconds. Including a generous sleeping allowance, this means that they can compute 1 hash every 2,000 years. On the other hand, specialized mining rigs can compute 1 hash every 0.00000000001 seconds, and new blocks are mined every 10 minutes. These numbers don’t work for MinorMiner - yet. Fortunately MinorMiner is in a fundamentally strong position in the value chain. We’re fuelled by exhaust work that was previously completely wasted, which means that we don’t need to be uber-efficient in order to be competitive. However, we do still need to complete each hash within the time it takes for a new block to be mined. Otherwise, even if we find a successful hash that would have mined us a block and won us some Bitcoin, someone else will have mined that block already. This is why MinorMiner’s number one focus is on turbo-charing our hashrate. Let me tell about our top three strategies: parallelisation, curriculum optimisation, and teacher incentive alignment. 1. Parallelisation First, parallelisation. Right now, a single partner works on a single hash. This means that even though adding more partners allows us to calculate more hashes at the same time, it doesn’t decrease the end-to-end time it takes to calculate a single hash. However, we can distribute work between computation partners far more cunningly than we do today. We can split up the calculations required to compute a hash into independent chunks, and we can give the chunks to different computation partners to work on in parallel. Once all of the chunks are done, we can combine them and take a big leap forward in a single hash, instead of many small leaps in lots of different hashes. Spreading out work like this allows us to decrease the time it takes us to calculate a single hash. This will significantly increase our competitiveness. “But Hobert, SHA-256 can’t be parallelised!” I hear you squawking. “It uses a sequential block structure, where the output of each block is the input to the next block! This means that you can’t calculate later blocks until you’ve first calculated earlier ones. This makes parallelisation impossible!” You’re right, oddly-well-informed heckler! Most implementations of SHA-256 can’t be usefully parallelised. However, remember that CUDAAAAGH breaks bitwise operations like AND, OR, and XOR into a large number of additions and multiplications. Many of the sub-calculations inside a single XOR operation are in fact independent and don’t depend on each other. This makes them easy to parallelise and get the massive speedups I’ve been promising. For example, here’s our current, naive implementation of XOR: class CUDAAAAGHInt: def __init__(self, val: int): self.val = val def __xor__(self, other: 'CUDAAAAGHInt') -\u003e 'CUDAAAAGHInt': result = CUDAAAAGHInt(0) # Calculate the value of each bit, and use bit-shifting to combine # them using standard integer arithemtic. for i in range(max(self.bit_length(), other.bit_length())): bit_self = self._ith_bit(CUDAAAAGHInt(i)) bit_other = other._ith_bit(CUDAAAAGHInt(i)) xor_bit = bit_self + bit_other - CUDAAAAGHInt(2) * bit_self * bit_other result += xor_bit \u003c\u003c CUDAAAAGHInt(i) return result def _ith_bit(self, i: 'CUDAAAAGHInt') -\u003e 'CUDAAAAGHInt': return CUDAAAAGHInt((self.val \u003e\u003e i.val) \u0026 1) def bit_length(self) -\u003e int: return self.val.bit_length() This implementation is serial and slow - just look at that for-loop! But now look even closer. Notice how each pass through the loop is entirely independent of all others. This means that we can calculate the value of each bit separately, in parallel, then combine all the results once we’re done. We can even compute bit_x and bit_y in parallel inside each loop. Combining these tricks gives us a parallel implementation that looks something like this: import asyncio class CUDAAAAGHInt: def __init__(self, val: int): self.val = val async def __xor__(self, other: 'CUDAAAAGHInt') -\u003e 'CUDAAAAGHInt': # Calculate a single bit XOR at position i async def compute_bit_xor(i: int) -\u003e 'CUDAAAAGHInt': bit_self_task = asyncio.create_task(self._ith_bit(CUDAAAAGHInt(i))) bit_other_task = asyncio.create_task(other._ith_bit(CUDAAAAGHInt(i))) bit_self = await bit_self_task bit_other = await bit_other_task xor_bit = bit_self + bit_other - CUDAAAAGHInt(2) * bit_self * bit_other return xor_bit \u003c\u003c CUDAAAAGHInt(i) # Determine the number of bits to process max_bits = max(self.bit_length(), other.bit_length()) # Calculate all bits concurrently tasks = [compute_bit_xor(i) for i in range(max_bits)] all_bits = await asyncio.gather(*tasks) # Sum the results result = CUDAAAAGHInt(0) for bit in all_bits: result = result + bit return result async def _ith_bit(self, i: 'CUDAAAAGHInt') -\u003e 'CUDAAAAGHInt': return CUDAAAAGHInt((self.val \u003e\u003e i.val) \u0026 1) def bit_length(self) -\u003e int: return self.val.bit_length() This will reduce the time it takes for us to calculate the XOR of two numbers M and N by a factor of about log2(max(M, N)). We’re mostly dealing with 32-bit integers, so this is a 5x speedup. I’m sure you’ve all noticed that we could use a map-reduce approach to turbocharge that last sum as well. I’m also sure that a couple of you have noticed that we could write a monad that allows us to elegantly parallelise everything, everywhere. I’m even more sure that one of you has already emailed me an implementation of this monad, written in a Lisp dialect that you designed yourself. Fair warning to that person - I am unlikely to read it. 2. Curriculum optimisation A 5x speedup in our xor implementation is very, very, deeply impressive, but it’s still a hack. Decomposing XOR calculations into additions and multiplications is fundamentally inefficient, and it imposes a hard ceiling on our performance. In order to achieve true speed and elegance, we need to perform the XOR directly, without splitting it up. The reason that we don’t do this already is because most children can’t calculate even a basic 8-bit XOR. I know! I was as shocked as you when I found out. But these kids aren’t stupid; their ignorance isn’t their fault. They’re being let down by a broken system that fails to teach them the skills they need to compete in today’s highly-specialised economy. This is why we’ve successfully lobbied to have XOR calculations added to the first grade syllabus, starting in the coming autumn term. We’ve produced a textbook containing all the important bitwise operations that every 7 year-old should know, including XOR, AND, OR, and bitshifts. This will allow us to ask our computation partners truly useful questions like What is 2136782 ^ 2136821?, instead of spoonfeeding them piles of simpler calculations. We predict that this will lead to a further hashrate speedup of approximately 100x, and we expect to start seeing results in Q1 next year, after the end-of-unit quizzes start to bite. “Teach a man to hash and you’ll etc etc.” But why stop with XORs? Think about how legacy mining has evolved over the last decade or so. The first Bitcoins were mined on normal computers, with normal CPUs. Nowadays all bitcoins are mined using specialised computers called ASICs, hardwired to calculates hashes and nothing out. In order to compete, we have to train human ASICs. Kids need to learn how to calculate a SHA-256 themselves, end-to-end. This is why we’re such vocal supporters of SB-1337 - “No Child Left Unmined.” SB-1337 will replace the outdated year 7 maths syllabus with an in-depth, end-to-end course on calculating SHA-256 hashes by hand. It will allow us to stop sending students trivial additions and multiplications, and send them real maths instead: Question 1: What is the SHA-256 hash of 01003ba3edfd7a...? (3 marks) Question 2: What is the SHA-256 hash of 01003ba3edfd7b...? (3 marks) We’ll be able to turn their homework directly into bitcoins, with no intermediate calculations required. At this point all we’ll need to do is scale. Which brings me to our final speedup technique: Teacher Incentive Alignment 3. Teacher Incentive Alignment At first some of our new Distribution Associates (or teachers, as they’re known as in the legacy system) were…hesitant to embrace our new, hash-centric curriculum. Fortunately this changed when they learned about our Teacher Incentive Alignment program (TIA). TIA allows us to compensate Distribution Associates for their hard work, using a sliding-scale fee for every billion hashes produced by their Computation Partners (or, “students”). With TIA, whenever we profit, they profit. The Computation Partners profit too of course, through the invaluable knowledge and practice that they get by participating in MinorMiner. We’ve found that Distribution Associates who are in the TIA program set 1,000,000% more homework questions than those who are not. For example, one particularly keen associate set their partners the following quiz: Question 1 of 1,471,126,723 What is the SHA-256 hash of 01003ba3edfd7a...? (0.0000000001 marks) Question 2 of 1,471,126,723 What is the SHA-256 hash of 01003ba3edfd7b...? (0.0000000001 marks) (and so on for 1,471,126,721 more questions) Some Associates were initially concerned that their Computation Partners might balk at such ambitious workloads, despite all the knowledge and hands-on-experience and so on that it would give them. They worried that some Partners might cheat and use specialized mining software to do their hashing homework for them. Fortunately we were able to use spreadsheets and a lot of winking to help most of them realise that this might not actually be a problem. MinorMiner would like to make it clear that we do not in any way condone cheating. Use of our Homework Submission APIs and their associated SDKs is strictly prohibited. So in short - yes, we are going to be fast enough. Through parallelisation, curriculum optimisation, and teacher incentive alignment, we believe that we are extremely well-positioned to speed up and scale massively in the coming years. Then what? From Bitcoin to AI After we’ve perfected the bitcoin use-case, we’ll pivot straight to AI. We’re already extending CUDAAAAGH with pytorch bindings that will allow users to run their training and inference code using our unique computing platform. Most children don’t know much matrix algebra, but matrix algebra is just addition and multiplication wrapped up in funny symbols. All we need to do is implement matrix multiplication using CUDAAAAGH and we’ll be very, very golden. And if our next legislative priority (SB-80085) passes, matrix algebra will soon be on the year eight curriculum too. It’s curriculum optimisation all over again. def matmul(m1: CUDAAAAGHMatrix, m2: CUDAAAAGHMatrix) -\u003e CUDAAAAGHMatrix: # (Implementation left as an exercise for the reader, you get # the joke by now) Applying CUDAAAAGH to AI raises some delightful philosophical questions. Were you already deeply confused about whether sufficiently advanced AI models should count as conscious beings? Are we going to be morally obliged to care about their welfare? How much more confusing do these questions become if the AI models are an emergent property of billions of children doing their maths homework? And what will we do after AI? Cloud computing, ladies and gentlemen, cloud computing. Children are commodity hardware. Our big, audacious goal is to implement an entire computer using them. Everywhere that a computer normally has an electron, we’ll replace it with a school-aged child doing their maths homework. CPUs become specialised children performing incredibly-specialised operations. Hard-drives become arrays of children remembering 1s and 0s. Motherboards become lines of children deciding what messages to send to the others. Think about the implications! Free computers for everyone! That’s all I have to say today, thank you for listening. Believe in children! Invest in the MinorMiner pre-seed! Form an orderly line! Make your cheques payable to “Hobert Reaton.” No madam, there’s no “LLC” at the end. Just “Hobert Reaton.” I also accept cash and a wide range of memecoins. Here’s my wallet address. Thank you. CUDAAAAGH is available on GitHub. It can also be installed from PyPi using pip install CUDAAAAGH although I can’t imagine why on earth you would do this.",
+    "author": "",
+    "published": "Wed, 14 May 2025 00:00:00 +0000",
+    "image": "/images/minor-miner/classroom.png",
+    "source": "https://robertheaton.com/feed.xml",
+    "categories": null
+  },
+  {
+    "id": "897e4d86-6325-41bf-a677-0205ff5e8756",
+    "title": "Testimony before the North Dakota Senate Industry, Business and Labor Committee",
+    "link": "https://signalvnoise.com/svn3/testimony-before-the-north-dakota-senate-industry-business-and-labor-committee/",
+    "description": "Chairman Klein and members of the Senate Industry, Business and Labor Committee- My name is David Heinemeier Hansson, and I’m the CTO and co-founder of Basecamp, a small internet company from Chicago that sells project-management software and email services. I first testified on the topic of big tech monopolies at the House Antitrust Subcommittee’s field… keep reading",
+    "author": "DHH",
+    "published": "Tue, 09 Feb 2021 18:04:30 +0000",
+    "image": "",
+    "source": "https://signalvnoise.com/posts.rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "98a721a0-ad6c-4aa8-b490-f89f301ce6f7",
+    "title": "Reiterating our Use Restrictions Policy",
+    "link": "https://signalvnoise.com/svn3/reiterating-our-use-restrictions-policy/",
+    "description": "The attack on the US Capitol, and subsequent threats of violence surrounding the inauguration of the new US administration, has moved us to reflect and reacquaint ourselves with the reality that however good the maker’s intentions, technology can amplify the ability to cause great harm. This includes us and our products at Basecamp. Therefore, we… keep reading",
+    "author": "Jason Fried",
+    "published": "Mon, 18 Jan 2021 17:11:00 +0000",
+    "image": "",
+    "source": "https://signalvnoise.com/posts.rss",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "c3add32e-e527-42aa-b124-aba62679aeea",
+    "title": "",
+    "link": "http://scripting.com/2025/07/20.html#a004019",
+    "description": "Today's song: When You Awake. You will remember everything.",
+    "author": "",
+    "published": "Mon, 21 Jul 2025 00:40:19 GMT",
+    "image": "",
+    "source": "http://scripting.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "44521a3e-84b9-4488-8cd4-90bca819c612",
+    "title": "",
+    "link": "http://scripting.com/2025/07/20.html#a163141",
+    "description": "Just listened to an episode of the New Yorker Radio Hour podcast with Michael Wolff, about the material he has on Jeffrey Epstein that he can't get anyone to publish, but maybe that'll change. In the interview it was remarkable how the reporter wanted to know just how bad Donald Trump is. That is no longer an interesting question. Didn't you see what happened on January 6? And have you seen the armed, masked, badgeless military in American streets, disappearing people. And the $80 billion they just took from the US Treasury to build a network of concentration camps and who knows what else. You can't get more bad than that. It's too late to still be talking about this bullshit.",
+    "author": "",
+    "published": "Sun, 20 Jul 2025 16:31:41 GMT",
+    "image": "https://imgs.scripting.com/2024/06/11/nakedJenToday.png",
+    "source": "http://scripting.com/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "5ed7193b-c665-4028-838f-c76927aeae4d",
+    "title": "SE Radio 677: Jacob Visovatti and Conner Goodrum on Testing ML Models for Enterprise Products",
+    "link": "http://se-radio.net/se-radio-677-jacob-visovatti-and-conner-goodrum-on-testing-ml-models-for-enterprise-products",
+    "description": "Jacob Visovatti and Conner Goodrum of Deepgram speak with host Kanchan Shringi about testing ML models for enterprise use and why it's critical for product reliability and quality. They discuss the challenges of testing machine learning models in enterprise environments, especially in foundational AI contexts. The conversation particularly highlights the differences in testing needs between companies that build ML models from scratch and those that rely on existing infrastructure. Jacob and Conner describe how testing is more complex in ML systems due to unstructured inputs, varied data distribution, and real-time use cases, in contrast to traditional software testing frameworks such as the testing pyramid. To address the difficulty of ensuring LLM quality, they advocate for iterative feedback loops, robust observability, and production-like testing environments. Both guests underscore that testing and quality assurance are interdisciplinary efforts that involve data scientists, ML engineers, software engineers, and product managers. Finally, this episode touches on the importance of synthetic data generation, fuzz testing, automated retraining pipelines, and responsible model deployment—especially when handling sensitive or regulated enterprise data. Brought to you by IEEE Computer Society and IEEE Software magazine.",
+    "author": "SE-Radio Team",
+    "published": "Tue, 15 Jul 2025 20:36:00 +0000",
+    "image": "https://traffic.libsyn.com/secure/seradio/677-jacob-visovatti-conner-goodrum-testing-ml-models.mp3?dest-id=23379",
+    "source": "http://feeds.feedburner.com/se-radio",
+    "categories": [
+      "RAG",
+      "Scalability",
+      "NLP",
+      "Observability",
+      "Prompt engineering",
+      "Synthetic data",
+      "Real-time feedback",
+      "Foundational AI",
+      "ML testing",
+      "Traditional software testing",
+      "LLM hallucinations",
+      "Speech-to-text",
+      "Data drift",
+      "Fuzz testing",
+      "Enterprise ML",
+      "Testing pyramid",
+      "Model latency"
+    ]
+  },
+  {
+    "id": "d0db52b5-cd36-4fbf-b678-32f010067828",
+    "title": "SE Radio 676: Samuel Colvin on the Pydantic Ecosystem",
+    "link": "http://se-radio.net/se-radio-676-samuel-colvin-on-the-pydantic-ecosystem",
+    "description": "Samuel Colvin, the CEO and founder of Pydantic, speaks with host Gregory M. Kapfhammer about the ecosystem of Pydantic’s Python frameworks, including Pydantic, Pydantic AI, and Pydantic Logfire. Along with discussing the design, implementation, and use of these frameworks, they dive into the refactoring of Pydantic and the follow-on performance improvements. They also explore ways in which Python programmers can use these three frameworks to build, test, evaluate, and monitor their own applications that interact with both local and cloud-based large language models. Brought to you by IEEE Computer Society and IEEE Software magazine.",
+    "author": "SE-Radio Team",
+    "published": "Thu, 10 Jul 2025 18:41:00 +0000",
+    "image": "https://traffic.libsyn.com/secure/seradio/676-samuel-colvin-pydantic-ecosystem.mp3?dest-id=23379",
+    "source": "http://feeds.feedburner.com/se-radio",
+    "categories": [
+      "logging",
+      "python",
+      "Observability",
+      "generative AI",
+      "LLMs",
+      "language model",
+      "data validation"
+    ]
+  },
+  {
+    "id": "7763e223-dd6f-47db-8326-49de1158d11a",
+    "title": "Optimizing Our E2E Pipeline",
+    "link": "https://slack.engineering/speedup-e2e-testing/",
+    "description": "In the world of DevOps and Developer Experience (DevXP), speed and efficiency can make a big difference on an engineer’s day-to-day tasks. Today, we’ll dive into how Slack’s DevXP team took some existing tools and used them to optimize an end-to-end (E2E) testing pipeline. This lowered build times and reduced redundant processes, saving both time… The post Optimizing Our E2E Pipeline appeared first on Engineering at Slack.",
+    "author": "Dan Carton",
+    "published": "Mon, 14 Apr 2025 09:00:30 +0000",
+    "image": "https://slack.engineering/wp-content/uploads/sites/7/2025/04/image4.png?w=640",
+    "source": "https://slack.engineering/feed",
+    "categories": [
+      "Uncategorized",
+      "ci-cd",
+      "developer-experience",
+      "developer-productivity",
+      "devops",
+      "frontend",
+      "testing"
+    ]
+  },
+  {
+    "id": "5afd7af9-c135-4d61-b755-a63ddb526f5f",
+    "title": "How we built enterprise search to be secure and private",
+    "link": "https://slack.engineering/how-we-built-enterprise-search-to-be-secure-and-private/",
+    "description": "Many don’t know that “Slack” is in fact a backronym—it stands for “Searchable Log of all Communication and Knowledge”. And these days, it’s not just a searchable log: with Slack AI, Slack is now an intelligent log, leveraging the latest in generative AI to securely surface powerful, time-saving insights. We built Slack AI from the… The post How we built enterprise search to be secure and private appeared first on Engineering at Slack.",
+    "author": "Ian Hoffman",
+    "published": "Fri, 07 Mar 2025 01:14:37 +0000",
+    "image": "https://slack.engineering/wp-content/uploads/sites/7/2025/03/enterprisesearch.png?w=640",
+    "source": "https://slack.engineering/feed",
+    "categories": [
+      "Uncategorized"
+    ]
+  },
+  {
+    "id": "4da0e0c3-1a4e-4d93-bbbf-34f292b571d1",
+    "title": "Incident Report: Spotify Outage on April 16, 2025",
+    "link": "https://engineering.atspotify.com/2025/5/incident-report-spotify-outage-on-april-16-2025/",
+    "description": "On April 16, Spotify experienced an outage that affected users worldwide. Here is what happened and what we... The post Incident Report: Spotify Outage on April 16, 2025 appeared first on Spotify Engineering.",
+    "author": "Spotify Engineering",
+    "published": "Fri, 09 May 2025 13:47:56 +0000",
+    "image": "",
+    "source": "https://labs.spotify.com/feed/",
+    "categories": [
+      "Infrastructure"
+    ]
+  },
+  {
+    "id": "a8b03ad1-0353-440a-b7c7-b7cbbdd7be1d",
+    "title": "Celebrating Five Years of Backstage: From Open Source Project to Enterprise Business",
+    "link": "https://engineering.atspotify.com/2025/4/celebrating-five-years-of-backstage/",
+    "description": "Did you know that we sell Spotify’s developer productivity tools and support to other companies, from online... The post Celebrating Five Years of Backstage: From Open Source Project to Enterprise Business appeared first on Spotify Engineering.",
+    "author": "Spotify Engineering",
+    "published": "Wed, 23 Apr 2025 14:23:12 +0000",
+    "image": "",
+    "source": "https://labs.spotify.com/feed/",
+    "categories": [
+      "Backstage",
+      "Developer Experience",
+      "Developer Tools",
+      "Open Source",
+      "Platform"
+    ]
+  },
+  {
+    "id": "0df3153d-77e1-425b-96f2-8ea28b6c610f",
+    "title": "How to do your job happier",
+    "link": "https://stackoverflow.blog/2025/07/18/how-to-do-your-job-happier/",
+    "description": "Research scientist John Flournoy sits down with Ryan and Eira to dive into the recent research around developer experience, including the nuances of measuring productivity, the potential reasons for variability in developer performance, and the impacts of collaboration and competition on developer efficiency.",
+    "author": "Phoebe Sajor",
+    "published": "Fri, 18 Jul 2025 07:40:00 GMT",
+    "image": "",
+    "source": "https://stackoverflow.blog/feed/",
+    "categories": [
+      "developer-experience",
+      "dev-life",
+      "dev-tools",
+      "developer-tools",
+      "research",
+      "se-tech",
+      "se-stackoverflow",
+      "podcast"
+    ]
+  },
+  {
+    "id": "b8caeda4-89e2-4114-b97a-b2920b6d0e94",
+    "title": "The Great Unracking: Saying goodbye to the servers at our physical datacenter",
+    "link": "https://stackoverflow.blog/2025/07/16/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/",
+    "description": "So long and thanks for all the bits!",
+    "author": "Ryan Donovan",
+    "published": "Wed, 16 Jul 2025 14:00:00 GMT",
+    "image": "",
+    "source": "https://stackoverflow.blog/feed/",
+    "categories": [
+      "se-stackoverflow",
+      "se-tech",
+      "server",
+      "cloud",
+      "engineering"
+    ]
+  },
+  {
+    "id": "8ebfaf05-f0d4-448d-80d3-3db84dcdee74",
+    "title": "OTP Authentication in Laravel \u0026 Vue.js for Secure Transactions",
+    "link": "https://stackabuse.com/otp-authentication-in-laravel-vue-js-for-secure-transactions/",
+    "description": "Introduction In today’s digital world, security is paramount, especially when dealing with sensitive data like user authentication and financial transactions. One of the most effective ways to enhance security is by implementing One-Time Password (OTP) authentication. This article explores how to implement OTP authentication in a Laravel backend with",
+    "author": "Ojekudo Oghenemaro Emmanuel",
+    "published": "Sun, 20 Apr 2025 08:04:07 GMT",
+    "image": "",
+    "source": "https://stackabuse.com/rss/",
+    "categories": [
+      "javascript",
+      "security",
+      "vue"
+    ]
+  },
+  {
+    "id": "299884e3-ffaf-4f5b-aa04-850fbb10b8b5",
+    "title": "Securing Your Email Sending With Python: Authentication and Encryption",
+    "link": "https://stackabuse.com/securing-your-email-sending-with-python-authentication-and-encryption/",
+    "description": "Email encryption and authentication are modern security techniques that you can use to protect your emails and their content from unauthorized access. Everyone, from individuals to business owners, uses emails for official communication, which may contain sensitive information. Therefore, securing emails is important, especially when cyberattacks like phishing, smishing, etc.",
+    "author": "Ivan Djuric",
+    "published": "Thu, 19 Sep 2024 02:29:13 GMT",
+    "image": "",
+    "source": "https://stackabuse.com/rss/",
+    "categories": [
+      "python",
+      "email"
+    ]
+  },
+  {
+    "id": "a39df26b-fed2-4561-8d99-4b45d8e3eb3a",
+    "title": "Understanding and Improving SwiftUI Performance",
+    "link": "https://medium.com/airbnb-engineering/understanding-and-improving-swiftui-performance-37b77ac61896?source=rss----53c7c27702d5---4",
+    "description": "",
+    "author": "Cal Stephens",
+    "published": "Tue, 24 Jun 2025 16:43:07 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*qBYJ9abMpZyuODmbHkYD5Q.jpeg",
+    "source": "https://medium.com/feed/airbnb-engineering",
+    "categories": [
+      "ios",
+      "swiftui",
+      "performance",
+      "engineering",
+      "mobile"
+    ]
+  },
+  {
+    "id": "2f965693-cef1-44bc-89ec-80d58051108f",
+    "title": "Load Testing with Impulse at Airbnb",
+    "link": "https://medium.com/airbnb-engineering/load-testing-with-impulse-at-airbnb-f466874d03d2?source=rss----53c7c27702d5---4",
+    "description": "",
+    "author": "Chenhao Yang",
+    "published": "Mon, 09 Jun 2025 17:45:39 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*3LijjQrJDLVA_ptfeRe83g.jpeg",
+    "source": "https://medium.com/feed/airbnb-engineering",
+    "categories": [
+      "tech",
+      "infrastructure",
+      "engineering",
+      "technology",
+      "load-testing"
+    ]
+  },
+  {
+    "id": "768cbf28-a463-44dd-9d56-5e57e4d22841",
+    "title": "Episode 159 - JetBrains Space",
+    "link": "https://cynical.dev/159",
+    "description": "In this episode we talk about JetBrains Space, with Valerie Andrianova.   Contacting Valerie Andrianova Website: https://www.jetbrains.com/ Twitter: https://twitter.com/va_leriya LinkedIn: https://www.linkedin.com/in/valerie-andrianova-1172031a/ Blog: https://blog.jetbrains.com/author/valerie-andrianova/ Episode Editing by - RJJ Software Ltd (https://rjj-software.co.uk/ )",
+    "author": "",
+    "published": "Mon, 28 Jun 2021 07:00:00 +0000",
+    "image": "https://archive.org/download/CynicalDeveloper/episode-159.mp3",
+    "source": "https://cynicaldeveloper.com/feed/podcast",
+    "categories": null
+  },
+  {
+    "id": "1e5044c5-16a9-4138-b4be-ee4b5ee53d5b",
+    "title": "Episode 158 - Code Reviews",
+    "link": "https://cynical.dev/158",
+    "description": "In this episode we talk about Code Reviews with Jordan Ambra   Contacting Jordan Ambra   Website: https://www.serenity.software Twitter: https://twitter.com/jordanambra LinkedIn: https://www.linkedin.com/in/jordanambra/   Episode Editing by - RJJ Software Ltd (https://rjj-software.co.uk/)",
+    "author": "",
+    "published": "Mon, 14 Jun 2021 07:00:00 +0000",
+    "image": "https://archive.org/download/CynicalDeveloper/episode-158.mp3",
+    "source": "https://cynicaldeveloper.com/feed/podcast",
+    "categories": null
+  },
+  {
+    "id": "e2b07cdb-2b70-40c7-9f9e-0113f14f04ae",
+    "title": "Deeper Dive into NX with Juri Strumpflohner",
+    "link": "https://6figuredev.com/podcast/deeper-dive-into-nx-with-juri-strumpflohner/",
+    "description": "Episode 250 Juri has been working as a software developer and architect for 10+ years, with technologies like Java, .Net, Node.js on the desktop, mobile as well as web. Lately he has mostly been focusing on frontend web development with JavaScript, on writing technical articles, and teaching.   Links https://juristr.com/ https://github.com/juristr https://twitter.com/juristr https://www.linkedin.com/in/juristr/ https://www.youtube.com/c/JuriStrumpflohner […] The post Deeper Dive into NX with Juri Strumpflohner appeared first on The 6 Figure Developer.",
+    "author": "John Callaway",
+    "published": "Mon, 15 Aug 2022 13:11:40 +0000",
+    "image": "https://media.blubrry.com/6figuredev/content.blubrry.com/6figuredev/6_Figure_Developer-250-Juri_Strumpflohner.mp3",
+    "source": "http://6figuredev.com/feed/rss/",
+    "categories": [
+      "Podcast",
+      ".net",
+      "dotnet",
+      "Juri Strumpflohner",
+      "lerna",
+      "nx"
+    ]
+  },
+  {
+    "id": "17856281-7009-4e14-8549-c03e2ef1fe40",
+    "title": "4 Essential AWS Solutions with Chris Judd",
+    "link": "https://6figuredev.com/podcast/4-essential-aws-solutions-with-chris-judd/",
+    "description": "Episode 249 Chris is CTO and partner at Manifest Solutions, Author, Java User Group leader, Java Champion, Trusted Technical Advisor, and Talent Developer.   Links https://javajudd.net/ https://twitter.com/javajudd https://www.juddsolutions.com/ https://www.linkedin.com/in/christophermjudd/   Resources https://aws.amazon.com/ https://aws.amazon.com/cdk/ https://aws.amazon.com/lambda/ https://aws.amazon.com/step-functions/ https://aws.amazon.com/ecs/ https://aws.amazon.com/eks/ https://www.terraform.io/ https://docs.aws.amazon.com/ https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html   “Tempting Time” by Animals As Leaders used with permissions – All Rights Reserved […] The post 4 Essential AWS Solutions with Chris Judd appeared first on The 6 Figure Developer.",
+    "author": "John Callaway",
+    "published": "Mon, 01 Aug 2022 13:11:00 +0000",
+    "image": "https://media.blubrry.com/6figuredev/content.blubrry.com/6figuredev/6_Figure_Developer-249-Chris_Judd.mp3",
+    "source": "http://6figuredev.com/feed/rss/",
+    "categories": [
+      "Podcast",
+      "aws",
+      "chris judd",
+      "java"
+    ]
+  },
+  {
+    "id": "250237ab-e9f7-4571-8664-3449441a03e1",
+    "title": "GitHub Availability Report: June 2025",
+    "link": "https://github.blog/news-insights/company-news/github-availability-report-june-2025/",
+    "description": "In June, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: June 2025 appeared first on The GitHub Blog.",
+    "author": "Jakub Oleksy",
+    "published": "Wed, 16 Jul 2025 21:06:17 +0000",
+    "image": "",
+    "source": "https://github.blog/feed/",
+    "categories": [
+      "Company news",
+      "News \u0026 insights",
+      "GitHub Availability Report"
+    ]
+  },
+  {
+    "id": "a742888c-df25-447d-a393-56e59db106c3",
+    "title": "How to catch GitHub Actions workflow injections before attackers do",
+    "link": "https://github.blog/security/vulnerability-research/how-to-catch-github-actions-workflow-injections-before-attackers-do/",
+    "description": "Strengthen your repositories against actions workflow injections — one of the most common vulnerabilities. The post How to catch GitHub Actions workflow injections before attackers do appeared first on The GitHub Blog.",
+    "author": "Dylan Birtolo",
+    "published": "Wed, 16 Jul 2025 16:00:00 +0000",
+    "image": "https://github.blog/wp-content/uploads/2025/07/vulnerabilities.png?resize=768%2C768",
+    "source": "https://github.blog/feed/",
+    "categories": [
+      "Security",
+      "Vulnerability research",
+      "code scanning",
+      "CodeQL"
+    ]
+  },
+  {
+    "id": "fa02d4a4-4ce1-42fd-9832-448559c42776",
+    "title": "More Pro Apps for Non-Pros - WWDC Keynote Recap with Kathy Campbell",
+    "link": "https://share.transistor.fm/s/88e9d51b",
+    "description": "Follow Kathy Campbell@mrssoupCheck out the Productivity in Tech YouTube Channelhttps://www.youtube.com/c/kjaymillerFollow Jay@kjaymillerMore Episodes and Things at https://podcast.productivityintech.com.Want to Support the Show?While you can't support the show directly you can support all the things Jay is up to by sponsoring him on GitHub!https://github.com/sponsors/kjaymiller/",
+    "author": "Jay Miller",
+    "published": "Tue, 08 Jun 2021 16:55:08 -0700",
+    "image": "https://media.transistor.fm/88e9d51b/25d5dd7b.mp3",
+    "source": "https://feeds.transistor.fm/productivity-in-tech-podcast",
+    "categories": [
+      "Productivity",
+      " Technology"
+    ]
+  },
+  {
+    "id": "a98c1017-73c2-4702-830d-be92160604cf",
+    "title": "The Queen of Apple Automation: Rosemary Orchard",
+    "link": "https://share.transistor.fm/s/f6991b0b",
+    "description": "Markers---00:00:00 - Rosemary Orchard00:04:54 - iOS Today00:06:50 - Nested Folders00:10:10 - Automator and Automating00:17:40 - Automating as a Developer00:31:38 - Closing00:34:24 - AftershowLinks iOS TodayNested FoldersAutomators.fmThe Podcast AnswermanBunches of Automation - AutomatorszapierIntegromatStreamDeckBunchFollow Rose- @Rosemaryorchard- WebsiteFollow Jayhttps://www.youtube.com/c/kjaymiller@kjaymillerMore Episodes and Things at https://podcast.productivityintech.com.Want to Support the Show?Support all the things Jay is up to by sponsoring him on GitHub!https://github.com/sponsors/kjaymiller/",
+    "author": "Jay Miller",
+    "published": "Tue, 01 Jun 2021 20:21:14 -0700",
+    "image": "https://media.transistor.fm/f6991b0b/03be8858.mp3",
+    "source": "https://feeds.transistor.fm/productivity-in-tech-podcast",
+    "categories": [
+      "Productivity",
+      " Technology"
+    ]
+  },
+  {
+    "id": "ae98ad43-e31f-40de-9958-79eaf7fddebc",
+    "title": "Microsoft Build: Responsible AI (Sarah Bird)",
+    "link": "https://thewomenintechshow.com/2023/08/01/microsoft-build-responsible-ai-sarah-bird/",
+    "description": "Sarah Bird, Engineering Lead at Microsoft talked about what responsible AI is and its main components and best practices. Sarah also explained what generative AI is and example metrics to evaluate systems that use it. At the end we talked about existing tools that can assist in developing AI systems.",
+    "author": "edaena",
+    "published": "Tue, 01 Aug 2023 15:18:20 +0000",
+    "image": "http://media.blubrry.com/thewomenintechshow/wintshow.files.wordpress.com/2023/08/5-sarah-bird.mp3",
+    "source": "https://thewomenintechshow.com/category/podcast/feed/",
+    "categories": [
+      "Microsoft",
+      "podcast",
+      "Artificial Intelligence",
+      "Generative AI",
+      "Microsoft Build",
+      "Program Manager",
+      "Software Development"
+    ]
+  },
+  {
+    "id": "28b0f375-ab93-427c-85b8-29b76aec35e0",
+    "title": "Microsoft Build: Application Security with Redis Cache (Shruti Pathak)",
+    "link": "https://thewomenintechshow.com/2023/07/24/microsoft-build-application-security-with-redis-cache-shruti-pathak/",
+    "description": "Shruti Pathak, Senior Product Manager at Microsoft, talked about optimizing web applications by using Redis cache and things to consider to make it secure. Shruti also explained what in-memory databases are and how they improve performance. At the end we also talked about the program manager and her experience transitioning from a software development role.",
+    "author": "edaena",
+    "published": "Tue, 25 Jul 2023 01:42:17 +0000",
+    "image": "http://media.blubrry.com/thewomenintechshow/wintshow.files.wordpress.com/2023/07/4_shruti_pathak.mp3",
+    "source": "https://thewomenintechshow.com/category/podcast/feed/",
+    "categories": [
+      "Microsoft",
+      "podcast",
+      "Microsoft Build",
+      "Program Manager",
+      "Software Development"
+    ]
+  },
+  {
+    "id": "0dfdaca4-657a-45f2-86b4-27aa4c65a27f",
+    "title": "How to do your job happier",
+    "link": "https://stackoverflow.blog/podcast/",
+    "description": "Read more findings from the Developer Success Lab here. Find John at his website and connect with him on LinkedIn.Congrats to user Matthieu M. who won a Populist badge for answering the question struct with 2 cells vs std::pair?.",
+    "author": "John Flournoy, Ryan Donovan",
+    "published": "Fri, 18 Jul 2025 04:20:00 +0000",
+    "image": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/ad3f322a-d228-4d45-87dc-59c8c3a293b1/audio/128/default.mp3?aid=rss_feed\u0026awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b\u0026awEpisodeId=ad3f322a-d228-4d45-87dc-59c8c3a293b1\u0026feed=XA_851k3",
+    "source": "https://feeds.simplecast.com/XA_851k3",
+    "categories": [
+      "developer experience",
+      " efficiency",
+      " science",
+      " developer efficiency",
+      " developer productivity",
+      " research",
+      " performance"
+    ]
+  },
+  {
+    "id": "1ed88196-55f4-41e3-bce6-1ec9128e3f2c",
+    "title": "Where we’re going, we don’t need fossil fuels",
+    "link": "https://stackoverflow.blog/podcast/",
+    "description": "Realta Fusion is making fusion real and tackling today’s clean energy issues with innovative technology. Follow them on LinkedIn.Connect with Kieran on LinkedIn. Shoutout to Lifeboat badge winner zathura, who was awarded the badge for answering Type of triangle in MySQL.",
+    "author": "Kieran Furlong, Ryan Donovan",
+    "published": "Tue, 15 Jul 2025 04:20:00 +0000",
+    "image": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/d811005f-eb69-44cc-8338-71a4fae63cdb/audio/128/default.mp3?aid=rss_feed\u0026awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b\u0026awEpisodeId=d811005f-eb69-44cc-8338-71a4fae63cdb\u0026feed=XA_851k3",
+    "source": "https://feeds.simplecast.com/XA_851k3",
+    "categories": [
+      "clean energy",
+      " energy",
+      " ai",
+      " data"
+    ]
+  },
+  {
+    "id": "edeb0674-aec6-44f8-8b78-9b66f8ff99c8",
+    "title": "📣 Action required: Upcoming Update to SoundCloud API id fields",
+    "link": "https://developers.soundcloud.com/blog/urn-num-to-string",
+    "description": "To all developers using SoundCloud’s public API — we’re introducing an important change that will affect how you reference resources like…",
+    "author": "",
+    "published": "Tue, 29 Apr 2025 00:00:00 GMT",
+    "image": "",
+    "source": "https://developers.soundcloud.com/blog/blog.rss",
+    "categories": null
+  },
+  {
+    "id": "5b975b29-6cfd-4ec8-b133-c577f37c7439",
+    "title": "New artist name field on our API",
+    "link": "https://developers.soundcloud.com/blog/api-artist-metadata",
+    "description": "A while ago we made an improvement to how track and artist information is displayed on SoundCloud, making it clearer and easier to…",
+    "author": "",
+    "published": "Thu, 03 Apr 2025 00:00:00 GMT",
+    "image": "/blog/static/67fb1b1c7ecb70113354cc23c4ddeed6/8ff1e/creepin.png",
+    "source": "https://developers.soundcloud.com/blog/blog.rss",
+    "categories": null
+  },
+  {
+    "id": "3e89555d-e356-4cd8-aefc-bd2be470eaed",
+    "title": "Let a thousand programming publications bloom.",
+    "link": "https://medium.com/better-programming/let-a-thousand-programming-publications-bloom-bf37baef8f27?source=rss----d0b105d10f0a---4",
+    "description": "",
+    "author": "Tony Stubblebine",
+    "published": "Fri, 10 Nov 2023 18:18:10 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*tKikPWjE4MZ5WgdfZuyvEg.png",
+    "source": "https://medium.com/feed/better-programming",
+    "categories": null
+  },
+  {
+    "id": "34963347-1b8a-491a-814d-982d0ef00d38",
+    "title": "Calling AWS Bedrock from code",
+    "link": "https://medium.com/better-programming/calling-aws-bedrock-from-code-3f456a51ff99?source=rss----d0b105d10f0a---4",
+    "description": "Using Python in a Jupyter notebookContinue reading on Better Programming »",
+    "author": "Thomas Reid",
+    "published": "Fri, 10 Nov 2023 17:35:02 GMT",
+    "image": "https://cdn-images-1.medium.com/max/600/1*iltZoO6rmWj_AnfNpJ1m-A.png",
+    "source": "https://medium.com/feed/better-programming",
+    "categories": [
+      "bedrock",
+      "python",
+      "llm",
+      "boto3",
+      "ai"
+    ]
+  },
+  {
+    "id": "5844aa66-b1be-418f-9d78-74eb37648d4b",
+    "title": "Behind the Scenes - A Glimpse into Tax Calculations",
+    "link": "https://www.etsy.com/codeascraft/behind-the-scenes---a-glimpse-to-tax-calculations?utm_source=OpenGraph\u0026utm_medium=PageTools\u0026utm_campaign=Share",
+    "description": "In the past, sellers were responsible for managing and fulfilling their own tax obligations. However, more and more jurisdictions are now requiring marketplaces such as Etsy to collect the tax from buyers and remit the tax to the relevant authorities. Etsy now plays an active role in collecting tax from buyers and remitting it all over the world. In this post, I will walk you through our tax calculation infrastructure and how we adapted to the ongoing increase in traffic and business needs over the years. The tax calculation workflow We determine tax whenever a buyer adds an item to their Etsy shopping cart. The tax determination is based on buyer and seller location and product category, and a set of tax rules and mappings. To handle the details of these calculations we partner with Vertex, and issue a call to their tax engine via the Quotation Request API to get the right amount to show in our buyer's cart. Vertex ensures accurate and efficient tax management and continuously updates the tax rules and rates for jurisdictions around the world. The two main API calls we use are Quotation Request and DistributeTaxRequest SOAP calls. When the buyer proceeds to payment, an order is created, and we call back to Vertex with a DistributeTaxRequest sending the order information and tax details. We sync information with Vertex through the order fulfillment lifecycle. To keep things up to date in case an order is canceled or a refund needs to be issued later on, we inform the details of the cancellation and refunds to the tax engine via DistributeTaxRequest. This ensures that when Vertex generates tax reports for us they will be based on a complete record of all the relevant transactions. Etsy collects the tax from the buyers and remits that tax to the taxing authority, when required. Generate tax details for reporting and audit purpose Vertex comes with a variety of report formats out of the box, and gives us tools to define our own. When Etsy calls the Distribute Tax API, Vertex saves the information we pass to it as raw metadata in its tax journal database. A daily cron job in Vertex then moves this data to the transaction detail table, populating it with tax info. When reports and audit data are generated, we download these reports and import to Etsy’s bigdata and the workflow completes. Mapping the Etsy taxonomy to tax categories Etsy maintains product categories to help our buyers find exactly the items they're looking for. To determine whether transactions are taxed or exempt it's not enough to know item prices and buyer locations: we have to map our product categories to Vertex's rule drivers. That was an effort involving not just engineering but also our tax and analytics teams, and with the wide range of Etsy taxonomy categories it was no small task. Handling increased API traffic Coping with the continuous increase in traffic and maintaining the best checkout experience without delays has been a challenge all the time. Out of the different upgrades we did, the most important ones were to switch to multiple instances for vertex calls and shadowing. Multiple Instance upgrade In our initial integration, we were using the same vertex instance for Quotation and Distribute calls. And the same instance was responsible for generating the reports. This report generation started to affect our checkout experience. Reports are generally used by our tax team and they run them on a regular basis. But on top of that, we also run daily reports to feed the data captured by Vertex back into our own system for analytics purposes. We solved this by routing the quotation calls to one instance and then distributing them to the other. This helped in maintaining a clear separation of functionalities, and avoided interference between the two processes. We had to align the configurations between the instances as well. Splitting up the quotation and distribution calls opened up the door to horizontal scaling, now we can add as many instances of each type and load balance the requests between instances. Eg: When a request type lists multiple instances, we load balance between the instances by using the cart_id for quotations and receipt_ids for distributes I.e. cart_id % quotation_instance_count Shadow logging Shadow logging the requests helped us to simulate the stress on Vertex and monitor the checkout experience. We used this technique multiple times in the past. Whenever we had situations like, for example, adding five hundred thousand more listings whose taxes would be passed through the Vertex engine, we were concerned that the increase in traffic might impact buyer experience. To ensure it wouldn't, we tested for a period of time by slowly ramping shadow requests to Vertex: \"Shadow requests\" are test requests that we send to Vertex from orders, but without applying the calculated tax details to buyers' carts. This will simulate the load on vertex and we can monitor the cart checkout experience. Once we have done shadowing and seen how well Vertex handled the increased traffic, we are confident that releasing the features ensures it would not have any performance implications. Conclusion Given the volume of increasing traffic and the data involved, we will have to keep improving our design to support those. We've also had to address analytics, reporting, configuration sync and many more in designing the system, but we'll leave that story for next time.",
+    "author": "Nancy Arnold",
+    "published": "Sat, 29 Mar 2025 06:03:23 -0400",
+    "image": "https://i.etsystatic.com/inv/b7e136/5660475277/inv_fullxfull.5660475277_6aqobaes.jpg?version=0",
+    "source": "https://codeascraft.com/feed/atom/",
+    "categories": null
+  },
+  {
+    "id": "90e055a1-e6cf-46a6-beab-930191fe42d8",
+    "title": "Adopting Jetpack Compose for Etsy’s Android App",
+    "link": "https://www.etsy.com/codeascraft/adopting-jetpack-compose-for-etsy39s-android-app?utm_source=OpenGraph\u0026utm_medium=PageTools\u0026utm_campaign=Share",
+    "description": "One of our Guiding Principles at Etsy is that we “commit to our craft.” This means that we have a culture of learning, in which we’re constantly looking for opportunities to improve and learn, adopt industry best practices, and share our findings with our colleagues and our community. As part of that process, Etsy recently adopted Jetpack Compose – Android's modern toolkit for defining native UIs – as our preferred means of building our Android app. The process of adoption consisted of a gradual expansion in the size and complexity of features built using Compose, eventually culminating in a full rewrite of one of the primary screens in the app. The results of that rewrite gave us the confidence to recommend Compose as the primary tool for our Android engineers to build UIs going forward. Adoption Our engineers are always investigating the latest industry trends and technologies, but in this case a more structured approach was warranted due to the central nature of UI toolkits in the development process. Several engineers on the Android team were assigned to study the existing Compose documentation and examples we had used in prior builds and then create a short curriculum based on what they learned. Over several months, the team held multiple information sessions with the entire Android group, showing how to use Compose to build simple versions of some of our real app screens. Part of our in-house curriculum for learning Jetpack Compose via small modules. Each module built upon the previous module to build more complex versions of various features in our real app. Next, our Design Systems team started creating Compose versions of our internal UI toolkit components, with the goal of having a complete Compose implementation of our design system before major adoption. Compose is designed for interoperability with our existing toolkit, XML Views, providing an uncomplicated migration path that enables us to start using these new toolkit components in our existing XML Views with minimal disruption. This was our first chance to validate that the performance of Compose would be as good as or better than our existing toolkit components. This also gave the wider Android community at Etsy a chance to start using Compose in their day-to-day work and get comfortable with the new patterns Compose introduced. A partial list of the design system components our team was able to make available in Compose. Our Design Systems team also made heavy use of one of Compose’s most powerful features: Previews. Compose Previews allow a developer to visualize Composables in as many configurations as they want using arbitrary test data, all without having to run the app on a device. Every time the team made a change to a Design Systems Composable, they could validate the effect in a wide range of scenarios. After a few months of building and adopting toolkit components in Compose, our team felt it was time for a more significant challenge: rebuilding an entire screen. To prevent inadvertently causing a disruption for buyers or sellers on Etsy, we chose a heavily used screen only available in our backend for development builds. This step exposed us to a much wider scope of concerns: navigation, system UI, data fetching using coroutines from our API, and the orchestration of multiple Compose components interacting with each other. Using Kotlin Flows, we worked out how to structure our business and UI logic around a unidirectional data flow, a key unlock for future integration of Compose with Macramé – our standard architecture for use across all screens in the Etsy app. With a full internal screen under our belts, it was time to put Compose in front of real users. A few complex bottom sheets were the next pieces of our app to get the Compose treatment. For the first time, we exposed a major part of our UI, now fully written in Compose, to buyers and sellers on Etsy. We also paired a simple version of our Macramé architecture with these bottom sheets to prove that the two were compatible. A bottom sheet fully using Compose hosted inside of a screen built using Views. After successfully rolling out bottom sheets using Compose, we saw an opportunity to adopt Compose on a larger scale in the Shop screen. The existing Shop screen code was confusing to follow and very difficult to run experiments on – limiting our ability to help sellers improve their virtual storefronts. Compose and Macramé held the promise of addressing all these concerns. The Shop screen, fully built using Compose. In just around three months, our small team completed the rebuild. Our first order of business was to run an A/B experiment on the Shop screen to compare old vs. new. The results gave Compose even better marks than we had hoped for. Initial screen rendering time improved by 5%, and subjective interactions with the Shop screen, like taps and scrolls, were quicker and more fluid. User analytics showed the new screen improved conversion rate, add to cart actions, checkout starts, shop favoriting, listing views, and more – meaning these changes made a tangible, positive impact for our sellers. For the engineers tasked with coding the Shop screen, the results were just as impressive. An internal survey of engineers who had worked with the Shop screen before the rewrite showed a significant improvement in overall developer satisfaction. Building features required fewer lines of code, our respondents told us, and thanks to the Macramé architecture, testing was much easier and enabled us to greatly increase test coverage of business logic. Similar to what we learned during the development of our Design System components, Compose Previews were called out as a superpower for covering edge cases, and engineers said they were excited to work in a codebase that now featured a modern toolkit. Learnings We've learned quite a lot about Compose on our path to adopting it: Because of the unidirectional data flow of our Macramé architecture and stateless components built with Compose, state is decoupled from the UI and business logic is isolated and testable. The combination of Macramé and Compose has become the standard way we build features for our app. Colocation of layout and display logic allows for much easier manipulation of spacing, margins, and padding when working with complex display logic. Dynamic spacing is extremely difficult to do with XML layouts alone, and requires code in separate files to keep it all in sync. Creating previews of all possible Compose states using mock data has eliminated a large source of rework, bugs, and bad experiences for our buyers. Our team found it easier to build lazy-style lists in Compose compared to managing all the pieces involved with using RecyclerView, especially horizontal lazy lists. Interoperability between Compose and Views in both directions enabled a gradual adoption of Compose. Animation of Composables can be triggered automatically by data changes–no writing extra code to start and stop the animations properly. While no individual tool is perfect, we’re excited about the opportunities and efficiencies Compose has unlocked for our teams. As with any new technology, there's a learning curve, and some bumps along the way. One issue we found was in a 3rd party library we use. While the library has support for Compose, at the time of the Shop screen conversion, that support was still in alpha stage. After extensive testing, we decided to move forward using the alpha version, but an incompatibility could have necessitated us finding an alternative solution. Another learning is that LazyRows and LazyColumns, while similar in some respects to RecyclerView, come with their own specific way of handling keys and item reuse. This new lazy list paradigm has occasionally tripped us up and resulted in some unexpected behavior. Conclusion We’re thrilled with our team’s progress and outcomes in adopting this new toolkit. We’ve now fully rewritten several key UI screens, including Listing, Favorites, Search, and Cart using Compose, with more to come. Compose has given us a set of tools that lets us be more productive when delivering new features to our buyers, and its gradual rollout in our codebase is a tangible example of the Etsy team's commitment to our craft.",
+    "author": "John Kalmi",
+    "published": "Tue, 28 Jan 2025 10:25:11 -0500",
+    "image": "https://i.etsystatic.com/inv/b7961f/6581128905/inv_fullxfull.6581128905_lyn8t9v6.jpg?version=0",
+    "source": "https://codeascraft.com/feed/atom/",
+    "categories": null
+  },
+  {
+    "id": "82183358-488c-4e4c-9c0c-fe1363c25d66",
+    "title": "The Road Not Taken is Guaranteed Minimum Income",
+    "link": "https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/",
+    "description": "The dream is incomplete until we share it with our fellow Americans.",
+    "author": "Jeff Atwood",
+    "published": "Thu, 20 Mar 2025 23:33:13 GMT",
+    "image": "https://blog.codinghorror.com/content/images/2025/03/IMG_7003-1.jpg",
+    "source": "https://feeds.feedburner.com/codinghorror",
+    "categories": [
+      "technology trends",
+      "society",
+      "activism",
+      "charitable giving",
+      "nonprofit organizations",
+      "guaranteed minimum income",
+      "stay gold"
+    ]
+  },
+  {
+    "id": "0504c752-f40c-4cf6-8ce5-3120996d9319",
+    "title": "Let's Talk About The American Dream",
+    "link": "https://blog.codinghorror.com/lets-talk-about-the-american-dream/",
+    "description": "A few months ago I wrote about what it means to stay gold — to hold on to the best parts of ourselves, our communities, and the American Dream itself. But staying gold isn’t passive. It takes work. It takes action. It takes hard conversations that ask",
+    "author": "Jeff Atwood",
+    "published": "Thu, 06 Mar 2025 01:27:31 GMT",
+    "image": "https://blog.codinghorror.com/content/images/2025/03/rebuildingamericandream25-page_v.2.jpg",
+    "source": "https://feeds.feedburner.com/codinghorror",
+    "categories": null
+  },
+  {
+    "id": "e878e1d5-3349-4110-b831-d67c2a73f0ef",
+    "title": "S27:E8 - Learning AI (Matt Eland)",
+    "link": "https://www.codenewbie.org/podcast/learning-ai",
+    "description": "Meet Matt Eland, AI Specialist at Leading EDJE. Matt shares what sparked his passion for AI years ago, why he’s made the decision to go back to school for his master's degree and how he aims to continue spreading his expertise with the community. Show Links Partner with Dev \u0026 CodeNewbie! (sponsor) Matt on Data Science Central Ohio .NET Developer Group Matt's Twitter Matt's GitHub Matt's LinkedIn",
+    "author": "CodeNewbie",
+    "published": "Wed, 22 May 2024 03:00:00 -0400",
+    "image": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/FOR8835558149.mp3?updated=1716333932",
+    "source": "http://feeds.codenewbie.org/cnpodcast.xml",
+    "categories": [
+      "Podcast"
+    ]
+  },
+  {
+    "id": "00b5ca27-d25d-4baa-87a5-59c97c451377",
+    "title": "S27:E7 - Tech and Art (Chris Immel)",
+    "link": "https://www.codenewbie.org/podcast/tech-and-art",
+    "description": "Meet Chris Immel, AI Engineer and Digital Artist at Luminifera Projects. Chris shares how he works to create a symbiosis between software development and art and why he remains optimistic when it comes to the AI revolution. Show Links Partner with Dev \u0026 CodeNewbie! (sponsor) Chris' Instagram Chris' Website Chris' GitHub Chris' LinkedIn",
+    "author": "CodeNewbie",
+    "published": "Wed, 15 May 2024 03:00:00 -0400",
+    "image": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/FOR3677516133.mp3?updated=1715705940",
+    "source": "http://feeds.codenewbie.org/cnpodcast.xml",
+    "categories": [
+      "Podcast"
+    ]
+  },
+  {
+    "id": "3936eeec-bed0-4049-9608-aa95f16538e4",
+    "title": "Suppressions of Suppressions",
+    "link": "https://overreacted.io/suppressions-of-suppressions/",
+    "description": "I heard you like linting.",
+    "author": "",
+    "published": "Wed, 11 Jun 2025 00:00:00 GMT",
+    "image": "",
+    "source": "https://overreacted.io/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "03f106dc-c468-4ad4-a106-b886fd4c8093",
+    "title": "I'm Doing a Little Consulting",
+    "link": "https://overreacted.io/im-doing-a-little-consulting/",
+    "description": "Personal update post.",
+    "author": "",
+    "published": "Wed, 11 Jun 2025 00:00:00 GMT",
+    "image": "",
+    "source": "https://overreacted.io/rss.xml",
+    "categories": null
+  },
+  {
+    "id": "cd8e68a8-016e-4d2f-9288-017daa9ff29e",
+    "title": "FLOSS Weekly: FLOSS Weekly Continues at Hackaday - Hackaday is the new home of FLOSS Weekly",
+    "link": "https://twit.tv/shows/floss-weekly/episodes/761b",
+    "description": "FLOSS Weekly continues with Jonathan Bennett at its new home at Hackaday. Host: Jonathan Bennett Visit hackaday.com/floss or search your favorite podcatcher to subscribe.",
+    "author": "TWiT",
+    "published": "Thu, 11 Jan 2024 00:00:00 PST",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/audio/floss/floss_761b/floss_761b.mp3",
+    "source": "https://feeds.twit.tv/floss.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Open Source",
+      "Software",
+      "Open Source Software"
+    ]
+  },
+  {
+    "id": "fff9ad88-db09-444b-9207-29869e22e086",
+    "title": "FLOSS Weekly 761: We Won! - The Victories of Free Software and Open Source",
+    "link": "https://twit.tv/shows/floss-weekly/episodes/761",
+    "description": "Doc Searls, Katherine Druckman, Dan Lynch, Simon Phipps, and Leo Laporte gather to celebrate the final victory of free software and open source—and the final FLOSS Weekly as well. Hosts: Doc Searls, Katherine Druckman, Dan Lynch, and Simon Phipps Guest: Leo Laporte Download or subscribe to this show at https://twit.tv/shows/floss-weekly Think your open source project should be on FLOSS Weekly? Email floss@twit.tv. Thanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music. Get episodes ad-free with Club TWiT at https://twit.tv/clubtwit Sponsors: bitwarden.com/twit kolide.com/floss",
+    "author": "TWiT",
+    "published": "Wed, 13 Dec 2023 13:30:00 PST",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/floss_761/3ccb17e9-1a70-473d-8703-0abed61f2d01/R1_floss0761.mp3",
+    "source": "https://feeds.twit.tv/floss.xml",
+    "categories": [
+      "News",
+      "Technology",
+      "Open Source",
+      "Software",
+      "TWiT",
+      " FLOSS Weekly",
+      " Doc Searls",
+      " Shawn Powers",
+      " Leo Laporte",
+      " Jonathan Bennett",
+      " dan lynch",
+      " simon phipps",
+      " Katherine Druckman",
+      " FLOSS",
+      " open source",
+      " open source podcast",
+      " free libre open source",
+      " open source victories",
+      " Open Source Software",
+      " eu open source"
+    ]
+  },
+  {
+    "id": "c1e9952b-47cd-445b-9cd1-2492b9620816",
+    "title": "Investigating Your Invisible Systems",
+    "link": "http://www.developertea.com",
+    "description": "This episode focuses again on the fundamental principle that your systems are perfectly designed for the outcomes you are experiencing, regardless of whether those systems were intentionally or accidentally created.Here are the key takeaways from the episode:Uncover how your systems, whether intentionally or accidentally designed, are perfectly configured for the outcomes you experience. The implication of design means choices have been made in setting up a system, but your intent is less important than the actual outcomes produced.Learn why your intent is less important than the actual outcomes when evaluating your systems. If your intent was the sole factor, everyone would achieve their desired results. Instead, systems should be judged by the outcomes they generate.Discover the concept of \"accidental design,\" where unseen factors influence system behaviour. This can be inspired by Goodhart's law, where a measure becomes a target and changes behaviour, or by environmental factors, such as how your workspace impacts your thinking and heart rate.Explore how \"invisible systems\" – the unexamined rules and assumptions that govern your daily life – profoundly influence your actions and results. These are forces changing your behaviour that you likely haven't evaluated, such as automatically accepting all meeting invites.Understand that human behaviour, including your own, can be an outcome of your systems. This perspective offers the highest leverage opportunity for change, as modifying the underlying system is more effective than relying on temporary motivation or addressing knowledge gaps in isolation.Realise that system boundaries are often arbitrary, and a system's design must account for all factors influencing its outcomes. For example, a quality assurance system cannot be considered good if it fails due to a \"talent\" issue; the talent pool and hiring procedures are part of the overall system affecting the outcome. Ignoring such factors because they fall outside perceived boundaries of responsibility can lead to irreducible or expensive risks.You are encouraged to investigate the invisible parts of your systems and write down the assumed rules that govern your life, even if you haven't evaluated their truth or helpfulness.📮 Ask a QuestionIf you enjoyed this episode and would like me to discuss a question that you have on the show, drop it over at: developertea.com.📮 Join the DiscordIf you want to be a part of a supportive community of engineers (non-engineers welcome!) working to improve their lives and careers, join us on the Developer Tea Discord community by visiting https://developertea.com/discord today!🧡 Leave a ReviewIf you're enjoying the show and want to support the content head over to iTunes and leave a review! It helps other developers discover the show and keep us focused on what matters to you.",
+    "author": "Jonathan Cutrell",
+    "published": "Thu, 17 Jul 2025 07:00:00 +0000",
+    "image": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/34b111cc-bd05-4ee7-94f9-97139ece614f/audio/f9d9cc97-daf8-4b0f-b8f7-03fdae486ae4/default_tc.mp3?aid=rss_feed\u0026feed=dLRotFGk",
+    "source": "https://feeds.simplecast.com/dLRotFGk",
+    "categories": null
+  },
+  {
+    "id": "80c61d8d-5c5e-41a7-8a9c-717a4d7e3e1e",
+    "title": "Perfection Is Fragile, and You Should Avoid It",
+    "link": "http://www.developertea.com",
+    "description": "This episode discusses why perfection is a dangerous and fragile goal, explaining how striving for 100% leads to unsustainable outlier states. It highlights how setting perfection as a bar can cause commitments to break and plans to fail due to a lack of slack, and offers strategies like building redundancy and planning with slack to achieve goals more effectively without relying on perfection.Uncover why perfection is a dangerous and fragile goal, as it often requires exorbitant, unsustainable effort and creates outlier states that are unlikely to be maintained, referencing the \"Wedies effect\" where things tend to regress to the mean.Learn how planning for 100% utilisation or setting perfection as a commitment can lead to fragility, causing plans to fail when unexpected changes occur or leading to giving up altogether once a \"perfect\" streak is broken.Discover practical strategies to avoid fragile perfectionism, such as planning with slack to accommodate change and building redundancy into your systems and personal commitments for more robust outcomes.Explore why actively avoiding requirements or expectations of perfection is crucial, as investing in it can be an exponential or even asymptotic step, leading to an unsustainable and fragile state.Note: sorry about the plane noise in the background. I decided to publish it, since it's imperfect (and that's kind of making the point!).📮 Ask a QuestionIf you enjoyed this episode and would like me to discuss a question that you have on the show, drop it over at: developertea.com.📮 Join the DiscordIf you want to be a part of a supportive community of engineers (non-engineers welcome!) working to improve their lives and careers, join us on the Developer Tea Discord community by visiting https://developertea.com/discord today!🧡 Leave a ReviewIf you're enjoying the show and want to support the content head over to iTunes and leave a review! It helps other developers discover the show and keep us focused on what matters to you.",
+    "author": "Jonathan Cutrell",
+    "published": "Wed, 9 Jul 2025 07:00:00 +0000",
+    "image": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/115dbd26-0a2b-4591-9dfb-3a728d18e054/audio/5e047736-d965-4fd3-989b-dc6a9bbb4d7a/default_tc.mp3?aid=rss_feed\u0026feed=dLRotFGk",
+    "source": "https://feeds.simplecast.com/dLRotFGk",
+    "categories": null
+  },
+  {
+    "id": "fa06333f-190e-469f-a300-2b2c5557e897",
+    "title": "Using AI to make lower-carbon, faster-curing concrete",
+    "link": "https://engineering.fb.com/2025/07/16/data-center-engineering/ai-make-lower-carbon-faster-curing-concrete/",
+    "description": "Meta has developed an open-source AI tool to design concrete mixes that are stronger, more sustainable, and ready to build with faster—speeding up construction while reducing environmental impact. The AI tool leverages Bayesian optimization, powered by Meta’s BoTorch and Ax frameworks, and was developed with Amrize and the University of Illinois Urbana-Champaign (U of I) [...] Read More... The post Using AI to make lower-carbon, faster-curing concrete appeared first on Engineering at Meta.",
+    "author": "",
+    "published": "Wed, 16 Jul 2025 12:00:16 +0000",
+    "image": "https://engineering.fb.com/wp-content/uploads/2025/07/Meta-green-AI-concrete-image-1.png",
+    "source": "https://engineering.fb.com/feed/",
+    "categories": [
+      "AI Research",
+      "Data Center Engineering",
+      "Open Source"
+    ]
+  },
+  {
+    "id": "ab50673f-5a98-4a98-af21-1beaeb10eea0",
+    "title": "An inside look at Meta’s transition from C to Rust on mobile",
+    "link": "https://engineering.fb.com/2025/07/01/developer-tools/an-inside-look-at-metas-transition-from-c-to-rust-on-mobile/",
+    "description": "Have you ever worked is legacy code? Are you curious what it takes to modernize systems at a massive scale? Pascal Hartig is joined on the latest Meta Tech Podcast by Elaine and Buping, two software engineers working on a bold project to rewrite the decades-old C code in one of Meta’s core messaging libraries [...] Read More... The post An inside look at Meta’s transition from C to Rust on mobile appeared first on Engineering at Meta.",
+    "author": "",
+    "published": "Tue, 01 Jul 2025 16:00:23 +0000",
+    "image": "",
+    "source": "https://engineering.fb.com/feed/",
+    "categories": [
+      "Culture",
+      "DevInfra",
+      "Meta Tech Podcast"
+    ]
+  },
+  {
+    "id": "ea83e7c8-6904-4499-9954-b7ef1c7a6332",
+    "title": "GitLab Duo Agent Platform Public Beta: Next-gen AI orchestration and more",
+    "link": "https://about.gitlab.com/blog/gitlab-duo-agent-platform-public-beta/",
+    "description": "",
+    "author": "Bill Staples",
+    "published": "2025-07-17T00:00:00.000Z",
+    "image": "",
+    "source": "https://about.gitlab.com/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "4cfaceeb-e080-429f-a3fc-96476888cc6c",
+    "title": "How we use GitLab to grow open source communities",
+    "link": "https://about.gitlab.com/blog/how-we-use-gitlab-to-grow-open-source-communities/",
+    "description": "",
+    "author": "Lee Tickett",
+    "published": "2025-07-15T00:00:00.000Z",
+    "image": "",
+    "source": "https://about.gitlab.com/atom.xml",
+    "categories": null
+  },
+  {
+    "id": "fcf6fd51-487e-47d3-9d09-37d386b97207",
+    "title": "Build with Veo 3, now available in the Gemini API",
+    "link": "https://developers.googleblog.com/en/veo-3-now-available-gemini-api/",
+    "description": "Veo 3, Google’s latest AI video generation model, is now available in paid preview via the Gemini API and Google AI Studio. Unveiled at Google I/O 2025, Veo 3 can generate both video and synchronized audio, including dialogue, background sounds, and even animal noises. This model delivers realistic visuals, natural lighting, and physics, with accurate lip syncing and sound that matches on-screen action.",
+    "author": "",
+    "published": "",
+    "image": "",
+    "source": "http://feeds.feedburner.com/GDBcode",
+    "categories": null
+  },
+  {
+    "id": "5ba12ba1-f57c-454c-9804-84cdc79ce676",
+    "title": "Stanford’s Marin foundation model: The first fully open model developed using JAX",
+    "link": "https://developers.googleblog.com/en/stanfords-marin-foundation-model-first-fully-open-model-developed-using-jax/",
+    "description": "The Marin project aims to expand the definition of 'open' in AI to include the entire scientific process, not just the model itself, by making the complete development journey accessible and reproducible. This effort, powered by the JAX framework and its Levanter tool, allows for deep scrutiny, trust in, and building upon foundation models, fostering a more transparent future for AI research.",
+    "author": "",
+    "published": "",
+    "image": "",
+    "source": "http://feeds.feedburner.com/GDBcode",
+    "categories": null
+  },
+  {
+    "id": "891289ae-5c8b-41a3-bf9e-8979634c33fd",
+    "title": "Online Learning and Economics",
+    "link": "https://www.youtube.com/watch?v=VSSZ86hcxF4",
+    "description": "",
+    "author": "Google TechTalks",
+    "published": "2025-04-15T15:13:36+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks",
+    "categories": null
+  },
+  {
+    "id": "17891294-1599-4e3a-a432-12d2e19ba003",
+    "title": "Go Meetup April 2025 - i18n Go Experiment",
+    "link": "https://www.youtube.com/watch?v=ZFXKzRag84c",
+    "description": "",
+    "author": "Google TechTalks",
+    "published": "2025-04-15T05:49:59+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks",
+    "categories": null
+  },
+  {
+    "id": "c07d925c-3b24-45bc-9917-8332bf4e9df5",
+    "title": "Remove Paywalls from Search Results",
+    "link": "https://medium.com/hackernoon/remove-paywalls-from-search-results-9b2a78053bec?source=rss----3a8144eabfe3---4",
+    "description": "",
+    "author": "#BlackLivesMatter",
+    "published": "Fri, 14 May 2021 13:35:18 GMT",
+    "image": "https://cdn-images-1.medium.com/max/784/1*kQx2xxgd7mjP6uTnYYjdgQ.png",
+    "source": "https://medium.com/feed/hackernoon",
+    "categories": [
+      "chrome-extension",
+      "paywall",
+      "search-results",
+      "remove-paywall",
+      "google"
+    ]
+  },
+  {
+    "id": "88c6d963-8c58-4714-b48b-45d190d85b6a",
+    "title": "NBA Bubbleball and NBA Revenue [Podcast with Washington Post]",
+    "link": "https://medium.com/hackernoon/nba-bubbleball-and-nba-revenue-podcast-with-washington-post-75c03541f064?source=rss----3a8144eabfe3---4",
+    "description": "",
+    "author": "ArtMap Inc.",
+    "published": "Mon, 15 Feb 2021 20:13:06 GMT",
+    "image": "https://medium.com/_/stat?event=post.clientViewed\u0026referrerSource=full_rss\u0026postId=75c03541f064",
+    "source": "https://medium.com/feed/hackernoon",
+    "categories": [
+      "nba-revenue",
+      "nba-bubble",
+      "nba",
+      "podcast",
+      "nba-revenue-podcast"
+    ]
+  },
+  {
+    "id": "73af6f3b-41ed-42e4-a477-595450f9bf35",
+    "title": "The Art of Assembly: Exploring Low-Level Mastery with Randall Hyde",
+    "link": "https://www.hanselminutes.com",
+    "description": "In this episode of Hanselminutes, Scott Hanselman talks with Randall Hyde, renowned for his expertise in programming and assembly language. Known as the creator of the Lisa Assembler and the author of The Art of Assembly Language and Write Great Code series, Randall shares his journey from developing in assembler for early computing systems to working on modern nuclear reactor control systems. He discusses the evolution of software development, the value of assembly language in today's programming landscape, teaching methodologies, and the balance between low-level understanding and high-level productivity.Key TopicsRandall Hyde's Academic and Professional Background (00:02.72)Assembly Language Beginnings with the Lisa Assembler (00:33.45)The Evolution of Randall's Work from Games to Nuclear Engineering (04:54.99)The Importance of Understanding Low-Level Machine Behavior (06:46.75)How Assembly Language Has Evolved and Its Modern Relevance (16:11.62)HLA (High-Level Assembler) as a Teaching Tool (20:20.46)The Rise of ARM Architectures and Changing Processor Technology (29:24.59)The Need for Efficient Code in the Multi-Core Era (33:31.42)Main TakeawaysLow-Level Understanding is Foundational: Randall emphasizes that understanding machine organization and low-level behavior is essential to writing better high-level code.Practical vs. Academic Learning: College enforces learning through structure, but much of coding excellence comes from individual, rigorous practice in understanding how systems work under the hood.Evolving Utility of Assembly Language: While assembly language isn’t a daily tool for most programmers, knowing it provides critical insights into low-level optimizations essential for performance-critical applications.Shift in Performance Gains: Modern compilers and multi-core systems have reduced the performance advantages of assembly, yet efficient code writing remains vital as architecture advances slow down.Accessible Education: Randall’s approach – from pioneering HLA as a bridge to assembly to his comprehensive Write Great Code series – has focused on making low-level concepts easier for new learners to grasp.Resources MentionedThe Art of Assembly Language by Randall HydeWrite Great Code Series (Volumes 1-4) by Randall HydeVolume 2: Thinking Low-Level, Writing High-LevelRANDALLHYDE.COM: Hyde's website for books, support materials, and resourcesNo Starch Press (Publisher): NoStarch.comFollow along for more insights, tips, and conversations with industry leaders. These show notes summarize key moments in the podcast for easy reference and understanding - these show notes were generated by a custom gpt-4o-nano model trained in previous episodes of Hanselminutes",
+    "author": "Scott Hanselman",
+    "published": "Thu, 17 Jul 2025 21:00:00 +0000",
+    "image": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/e1be7a33-8dae-467a-9df6-d58f0b932057/audio/b2d302de-5c5e-4e7f-9ff9-579efd51e691/default_tc.mp3?aid=rss_feed\u0026feed=gvtxUiIf",
+    "source": "https://feeds.simplecast.com/gvtxUiIf",
+    "categories": null
+  },
+  {
+    "id": "aaf0c7a7-6127-423b-9ff0-d4025ec3319f",
+    "title": "APIs as the Execution Layer of AI with Postman's Rodric Rabbah",
+    "link": "https://www.hanselminutes.com",
+    "description": "In this episode of Hanselminutes, Scott Hanselman chats with Roderick Rabah, Head of Product at Postman Flows, about the evolution of software development, the intersection of APIs and AI, and finding the \"right layer of abstraction\" for problem-solving. Drawing on his deep expertise in compiler optimization, distributed systems, and serverless computing, Rabah shares his perspectives on building tools that empower developers to create efficiently and explores the paradigm shift toward visual programming and AI-driven automation.The conversation dives into how Postman is innovating in the software space, how approaches to software engineering are transforming with generative AI, and why embracing new ways of working is critical for staying ahead in this rapidly evolving technological landscape.  Key Topics[01:08] Introduction of Roderick Rabah: From research scientist to API innovator[02:14] Evolution of software development: From FPGAs to serverless computing[03:23] APIs and AI: The transformative intersection powering workflows[05:33] The rise of tool-calling and agents: Simplifying backend tasks[07:33] Managing complexity: Why structured APIs make integration seamless[12:08] Visual programming languages: The paradigm shift for developers[16:42] Postman Flows: Building applications through visual workflows[20:24] Embracing generative AI: How senior and junior engineers benefit[29:02] Deploying with WebAssembly: Making cloud integration accessible[30:33] Reflections on the future of technology and its impact on software careersMain TakeawaysAPI + AI Integration: APIs combined with large language models are unlocking new capabilities for software development by abstracting complex operations and enabling automation.Visual Programming Paradigm Shift: Applications are increasingly built using visual workflows where developers focus on intent rather than low-level code implementation, driving efficiency and accessibility.Generative AI Empowerment: Generative AI tools are accelerating the pace of innovation, empowering engineers to fix bugs, streamline workflows, and manage edge cases efficiently.Structured APIs Critical for AI: Thoughtfully designed APIs with proper documentation and safeguards are essential to ensure that autonomous AI agents interact correctly and securely.Accessible Deployment: New runtime frameworks, like serverless with WebAssembly, make it easier for developers to deploy applications across the cloud, enabling broader adoption of AI-driven solutions.Notable Quotes\"Serverless is where you think about servers less.\" – Scott Hanselman\"At what point does communicating your intent to AI become programming again?\" – Roderick Rabah\"Visual programming resonates with builders because it matches the mental model of decomposing problems.\" – Roderick Rabah\"Technology transforms rapidly. You have to figure out how to wield this immense power.\" – Roderick Rabah\"Don’t throw away your critical thinking just because AI makes building faster.\" – Roderick RabahResources MentionedPostman Flows – Tools for visual programming and API integrations: postman.comReplit – Generative coding platform for automating development tasks: replit.comWebAssembly – Runtime framework for deploying serverless applications: webassembly.orgBooks on Compiler Theory: Suggested resource for expanding understanding of abstractionsFollow along for more insights, tips, and conversations with industry leaders. These show notes summarize key moments in the podcast for easy reference and understanding - these show notes were generated by a custom gpt-4o-nano model trained in previous episodes of Hanselminutes",
+    "author": "Scott Hanselman",
+    "published": "Thu, 10 Jul 2025 21:00:00 +0000",
+    "image": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/144421a8-13b5-491d-ae1b-d70d8eec39a9/audio/78752485-b32a-4a09-b523-b5373d1da4d2/default_tc.mp3?aid=rss_feed\u0026feed=gvtxUiIf",
+    "source": "https://feeds.simplecast.com/gvtxUiIf",
+    "categories": null
+  },
+  {
+    "id": "2b9c5789-d89c-4fe6-88ea-64665e1b1cc6",
+    "title": "AI Coding Tools Underperform in Field Study with Experienced Developers",
+    "link": "https://www.infoq.com/news/2025/07/ai-productivity/?utm_campaign=infoq_content\u0026utm_source=infoq\u0026utm_medium=feed\u0026utm_term=global",
+    "description": "Recent research reveals a surprising 19% increase in task completion time among developers using AI tools like Claude 3.5. Conducted by METR, this study highlights a \"perception gap\"—while developers felt faster, real-world performance lagged due to frictions with AI integration. These findings stress the need for rigorous evaluation of AI's impact in software development. By Matt Foster",
+    "author": "Matt Foster",
+    "published": "Sun, 20 Jul 2025 19:00:00 GMT",
+    "image": "https://res.infoq.com/news/2025/07/ai-productivity/en/headerimage/generatedHeaderImage-1752897810891.jpg",
+    "source": "https://feed.infoq.com",
+    "categories": [
+      "Software Development",
+      "Productivity",
+      "Developer Experience",
+      "Development",
+      "Architecture \u0026 Design",
+      "news"
+    ]
+  },
+  {
+    "id": "8c5ce419-19b2-4d95-ae4d-33dbbcccbcc9",
+    "title": "Pulumi Enables Direct Consumption of Terraform Modules",
+    "link": "https://www.infoq.com/news/2025/07/pulumi-terraform-module-support/?utm_campaign=infoq_content\u0026utm_source=infoq\u0026utm_medium=feed\u0026utm_term=global",
+    "description": "Pulumi now empowers developers to use Terraform modules directly, streamlining the migration process. This preview feature eliminates barriers, enabling seamless integration with existing Terraform code while allowing new projects in Pulumi. With robust support and a focus on gradual transitions, teams can modernize their infrastructure without a complete rewrite. By Mark Silvester",
+    "author": "Mark Silvester",
+    "published": "Sun, 20 Jul 2025 10:00:00 GMT",
+    "image": "https://res.infoq.com/news/2025/07/pulumi-terraform-module-support/en/headerimage/header-1752699630403.jpeg",
+    "source": "https://feed.infoq.com",
+    "categories": [
+      "Terraform",
+      "Infrastructure as Code",
+      "Development",
+      "Architecture \u0026 Design",
+      "DevOps",
+      "news"
+    ]
+  },
+  {
+    "id": "4eb771bf-987f-45c2-8065-d69bdb741b3f",
+    "title": "The Instagram Engineering Blog has a new location",
+    "link": "https://instagram-engineering.com/the-instagram-engineering-blog-has-a-new-location-85de9ab8d90f?source=rss----37dc2a3034f2---4",
+    "description": "",
+    "author": "Ryan Peterman",
+    "published": "Tue, 12 Jul 2022 17:00:22 GMT",
+    "image": "https://medium.com/_/stat?event=post.clientViewed\u0026referrerSource=full_rss\u0026postId=85de9ab8d90f",
+    "source": "https://instagram-engineering.com/feed/",
+    "categories": [
+      "software-engineering",
+      "instagram",
+      "computer-science",
+      "engineering"
+    ]
+  },
+  {
+    "id": "cad18fbb-d6f5-46e7-aba8-e38eab72dca4",
+    "title": "Five things I learned about working on content quality at Instagram",
+    "link": "https://instagram-engineering.com/five-things-i-learned-about-working-on-content-quality-at-instagram-5031b1342bea?source=rss----37dc2a3034f2---4",
+    "description": "",
+    "author": "Brunno Attorre",
+    "published": "Sat, 25 Jan 2020 01:13:36 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*M_vyOynSyXIXtH4V8kVMGg.png",
+    "source": "https://instagram-engineering.com/feed/",
+    "categories": [
+      "data",
+      "machine-learning",
+      "instagram"
+    ]
+  },
+  {
+    "id": "37346059-39b9-41ee-ab3e-a72740ef176a",
+    "title": "When SQL Meets Lambda Expressions",
+    "link": "https://blog.jooq.org/when-sql-meets-lambda-expressions/",
+    "description": "ARRAY types are a part of the ISO/IEC 9075 SQL standard. The standard specifies how to: But it is very unopinionated when it comes to function support. The ISO/IEC 9075-2:2023(E) 6.47 specifies concatenation of arrays, whereas the 6.48 section lists a not extremely useful TRIM_ARRAY function, exclusively (using which … Continue reading When SQL Meets Lambda Expressions →",
+    "author": "lukaseder",
+    "published": "Thu, 27 Mar 2025 13:04:44 +0000",
+    "image": "",
+    "source": "https://blog.jooq.org/feed",
+    "categories": [
+      "sql",
+      "array",
+      "array types",
+      "clickhouse",
+      "databricks",
+      "duckdb",
+      "Snowflake",
+      "Trino"
+    ]
+  },
+  {
+    "id": "c697564d-922e-4cbf-80d7-f9c8fa02b621",
+    "title": "Think About SQL MERGE in Terms of a RIGHT JOIN",
+    "link": "https://blog.jooq.org/think-about-sql-merge-in-terms-of-a-right-join/",
+    "description": "RIGHT JOIN is an esoteric feature in the SQL language, and hardly ever seen in the real world, because almost every RIGHT JOIN can just be expressed as an equivalent LEFT JOIN. The following two statements are equivalent: It’s not unreasonable to expect these two statements to produce the same execution plan on most RDBMS, … Continue reading Think About SQL MERGE in Terms of a RIGHT JOIN →",
+    "author": "lukaseder",
+    "published": "Thu, 13 Mar 2025 14:45:53 +0000",
+    "image": "",
+    "source": "https://blog.jooq.org/feed",
+    "categories": [
+      "sql",
+      "databricks",
+      "firebird",
+      "MERGE",
+      "outer join",
+      "PostgreSQL",
+      "RIGHT JOIN",
+      "SQL Server",
+      "WHEN MATCHED",
+      "WHEN NOT MATCHED",
+      "WHEN NOT MATCHED BY SOURCE"
+    ]
+  },
+  {
+    "id": "a8241be0-f7f6-4b0a-99b4-4e657f2d3b6d",
+    "title": "IntelliJ IDEA 2025.2 Beta: EAP Closure and Our New Approach to Release Updates",
+    "link": "https://blog.jetbrains.com/idea/2025/07/intellij-idea-2025-2-beta/",
+    "description": "The Beta version of IntelliJ IDEA 2025.2 is now available, marking the end of our Early Access Program for this release cycle. Download IntelliJ IDEA 2025.2 Beta Thank you to everyone who used the EAP builds, shared feedback, and helped shape this release. As we mentioned in the EAP opening post, we have moved away […]",
+    "author": "Maria Kosukhina",
+    "published": "Fri, 18 Jul 2025 13:09:06 +0000",
+    "image": "https://blog.jetbrains.com/wp-content/uploads/2025/07/IntelliJ-IDEA-2025.2-Beta.png",
+    "source": "https://blog.jetbrains.com/feed",
+    "categories": [
+      "eap",
+      "2025-2",
+      "intellij-idea",
+      "intellij-idea-2025-2",
+      "intellij-idea-2025-2-eap"
+    ]
+  },
+  {
+    "id": "8f603799-523a-48d1-9ed9-94e191969c06",
+    "title": "The Reworked Terminal Becomes the Default in 2025.2",
+    "link": "https://blog.jetbrains.com/platform/2025/07/the-reworked-terminal-becomes-the-default-in-2025-2/",
+    "description": "Starting from 2025.2, the default terminal implementation is now the reworked terminal. To create this new implementation, the classic terminal was rewritten almost from scratch to provide the technical foundation for new terminal features like visual separation of executed commands, AI integration, and the ability to work seamlessly in remote development scenarios. Functionally, it is […]",
+    "author": "Ekaterina Valeeva",
+    "published": "Fri, 18 Jul 2025 12:23:37 +0000",
+    "image": "https://blog.jetbrains.com/wp-content/uploads/2025/07/image-10.png",
+    "source": "https://blog.jetbrains.com/feed",
+    "categories": [
+      "news",
+      "terminal"
+    ]
+  },
+  {
+    "id": "ad5bbf24-b88c-4f2f-bca7-ac6696054e45",
+    "title": "Progress on the Block Protocol",
+    "link": "https://www.joelonsoftware.com/2022/12/19/progress-on-the-block-protocol/",
+    "description": "Since the 1990s, the web has been a publishing place for human-readable documents. Documents published on the web are in HTML. HTML has a little bit of… Read more \"Progress on the Block Protocol\"",
+    "author": "Joel Spolsky",
+    "published": "Mon, 19 Dec 2022 13:01:40 +0000",
+    "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2022/12/IMG_0203.webp?resize=730%2C730\u0026ssl=1",
+    "source": "https://www.joelonsoftware.com/feed/",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "14a1a2a9-b5bf-4bbe-abf8-a0f0cf330d62",
+    "title": "Making the web better. With blocks!",
+    "link": "https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/",
+    "description": "You’ve probably seen web editors based on the idea of blocks. I’m typing this in WordPress, which has a little + button that brings up a long… Read more \"Making the web better. With blocks!\"",
+    "author": "Joel Spolsky",
+    "published": "Thu, 27 Jan 2022 17:14:00 +0000",
+    "image": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2022/01/wordpressblocks.png?resize=260%2C573\u0026ssl=1",
+    "source": "https://www.joelonsoftware.com/feed/",
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "id": "1db858b5-9832-42f0-b6ed-ce36fc8bcdf8",
+    "title": "Three worthwhile articles yesterday",
+    "link": "https://martinfowler.com/articles/202507-three-links.html",
+    "description": "",
+    "author": "Martin Fowler",
+    "published": "2025-07-10T10:58:00-04:00",
+    "image": "",
+    "source": "https://martinfowler.com/feed.atom",
+    "categories": null
+  },
+  {
+    "id": "03bad360-884e-4c65-a9cf-220946a4ec38",
+    "title": "I still care about the code",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html",
+    "description": "",
+    "author": "",
+    "published": "2025-07-09T10:33:00-04:00",
+    "image": "",
+    "source": "https://martinfowler.com/feed.atom",
+    "categories": null
+  },
+  {
+    "id": "ef0908b5-415e-456b-a329-c90e1ad14d93",
+    "title": "How We're Preventing Breaking Changes in GraphQL APIs at Buffer — and Why It's Essential for Our Customers",
+    "link": "https://buffer.com/resources/how-were-preventing-breaking-changes-in-graphql-apis-at-buffer-and-why-its-essential-for-our-customers/",
+    "description": "As part of our commitment to transparency and building in public, Buffer engineer Joe Birch shares how we’re doing this for our own GraphQL API via the use of GitHub Actions.",
+    "author": "Joe Birch",
+    "published": "Fri, 12 Jul 2024 11:28:34 GMT",
+    "image": "https://buffer.com/resources/content/images/2024/07/Changes-in-GraphQL-APIs.png",
+    "source": "https://buffer.com/resources/overflow/rss/",
+    "categories": [
+      "Overflow",
+      "Open"
+    ]
+  },
+  {
+    "id": "7b1c64d0-62c8-4ce5-a9aa-41e3e9b19e6f",
+    "title": "Highlighting Text Input with Jetpack Compose",
+    "link": "https://buffer.com/resources/highlighting-text-input-with-jetpack-compose/",
+    "description": "We recently launched a new feature at Buffer, called Ideas. With Ideas, you can store all your best ideas, tweak them until they’re ready, and drop them straight into your Buffer queue. Now that Ideas has launched in our web and mobile apps, we have some time to",
+    "author": "Joe Birch",
+    "published": "Tue, 13 Dec 2022 18:32:36 GMT",
+    "image": "https://buffer.com/resources/content/images/2022/12/aaron-burden-Hzi7U2SZ2GE-unsplash.jpg",
+    "source": "https://buffer.com/resources/overflow/rss/",
+    "categories": [
+      "Overflow"
+    ]
+  },
+  {
+    "id": "8aa3dd54-f2b4-4343-8391-4e21d0b18bc0",
+    "title": "Behind the Streams: Live at Netflix. Part 1",
+    "link": "https://netflixtechblog.com/behind-the-streams-live-at-netflix-part-1-d23f917c2f40?source=rss----2615bd06b42e---4",
+    "description": "",
+    "author": "Netflix Technology Blog",
+    "published": "Tue, 15 Jul 2025 16:04:08 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*o1u1pYFC7BDuJSrT",
+    "source": "https://netflixtechblog.com/feed",
+    "categories": [
+      "live-streaming",
+      "architecture",
+      "netflix"
+    ]
+  },
+  {
+    "id": "6e8ad434-7e4a-47bb-88b2-494eb7c945a6",
+    "title": "Netflix Tudum Architecture: from CQRS with Kafka to CQRS with RAW Hollow",
+    "link": "https://netflixtechblog.com/netflix-tudum-architecture-from-cqrs-with-kafka-to-cqrs-with-raw-hollow-86d141b72e52?source=rss----2615bd06b42e---4",
+    "description": "",
+    "author": "Netflix Technology Blog",
+    "published": "Thu, 10 Jul 2025 19:31:06 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*5J0sqUrM77vCIDsM8wq_Dw.jpeg",
+    "source": "https://netflixtechblog.com/feed",
+    "categories": [
+      "data-architecture",
+      "cqrs",
+      "kafka",
+      "tudum"
+    ]
+  }
+]
