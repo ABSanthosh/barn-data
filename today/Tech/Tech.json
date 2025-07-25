@@ -1,0 +1,664 @@
+[
+  {
+    "id": "c5817293-059e-44b4-8a89-977e73e59f52",
+    "title": "Starlink outage: Service returns after over two hours down",
+    "link": "https://www.engadget.com/science/space/starlink-outage-service-returns-after-over-two-hours-down-204002942.html?src=rss",
+    "description": "SpaceX's Starlink satellite internet service experienced a global outage on Thursday that lasted for over two hours. Reports of connectivity issues started around 3:20PM ET, based on DownDetector. SpaceX didn't acknowledged the outage until 4:05PM ET, via a post on the Starlink X account. Service began to come back for some at around 5:30PM ET, and Michael Nicolls, Starlink's VP of engineering, said the provider had \"mostly recovered\" at 6:23PM ET. Users across the US, Europe, the UK and Asia reported issues on r/starlink, the service's Reddit page, and SpaceX even acknowledged the outage on Starlink's website. The company hasn't shared the number of people who were actually impacted, but it could be in the millions — as of the last Starlink network update, the service has over six million active customers globally. The initial announcement that SpaceX was working on a fix didn't explain what cause the outage or what was being done to restore service. \"Starlink is currently in a network outage and we are actively implementing a solution,\" the company's X post said. \"We appreciate your patience, we'll share an update once this issue is resolved.\" Starlink is currently in a network outage and we are actively implementing a solution. We appreciate your patience, we'll share an update once this issue is resolved.— Starlink (@Starlink) July 24, 2025 In announcing the service's recovery, Nicolls explained that the outage was due to a \"failure of key internal software services that operate the core network,\" rather than any issue with SpaceX's satellite constellation or other hardware problems. Nicolls added that Starlink will \"fully root cause this issue and ensure it does not occur again. Starlink has now mostly recovered from the network outage, which lasted approximately 2.5 hours. The outage was due to failure of key internal software services that operate the core network. We apologize for the temporary disruption in our service; we are deeply committed to… https://t.co/ffFYM1Z7tD— Michael Nicolls (@michaelnicollsx) July 24, 2025 Starlink is designed to be accessible where traditional service providers can't reach, making it a common option for van lifers and anyone living without traditional internet infrastructure. SpaceX has also partnered with companies like T-Mobile to use Starlink to extend smartphone connectivity outside the bounds of traditional cell networks. It's not clear how T-Mobile's Starlink service was impacted as by the outage. Update, July 24, 6:30PM ET: Article has been updated to reflect that Starlink service is restored.This article originally appeared on Engadget at https://www.engadget.com/science/space/starlink-outage-service-returns-after-over-two-hours-down-204002942.html?src=rss",
+    "author": "Ian Carlos Campbell",
+    "published": "Thu, 24 Jul 2025 22:41:06 +0000",
+    "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2Fea85b160-68cd-11f0-9f7f-736ed522e8eb\u0026resize=1400%2C787\u0026client=19f2b5e49a271b2bde77\u0026signature=6299858ebe6ee83ce2ceb16fb59ac0ffd8b729ef",
+    "source": "https://www.engadget.com/rss.xml",
+    "categories": [
+      "Technology \u0026 Electronics",
+      "site|engadget",
+      "provider_name|Engadget",
+      "region|US",
+      "language|en-US",
+      "author_name|Ian Carlos Campbell"
+    ]
+  },
+  {
+    "id": "b08d6e83-6f51-49cd-ab71-fd947e07ec5a",
+    "title": "FDA employees say the agency's Elsa generative AI hallucinates entire studies",
+    "link": "https://www.engadget.com/ai/fda-employees-say-the-agencys-elsa-generative-ai-hallucinates-entire-studies-203547157.html?src=rss",
+    "description": "Current and former members of the FDA told CNN about issues with the Elsa generative AI tool unveiled by the federal agency last month. Three employees said that in practice, Elsa has hallucinated nonexistent studies or misrepresented real research. \"Anything that you don't have time to double-check is unreliable,\" one source told the publication. \"It hallucinates confidently.\" Which isn't exactly ideal for a tool that's supposed to be speeding up the clinical review process and aiding with making efficient, informed decisions to benefit patients. Leadership at the FDA appeared unfazed by the potential problems posed by Elsa. \"I have not heard those specific concerns,\" FDA Commissioner Marty Makary told CNN. He also emphasized that using Elsa and participating in the training to use it are currently voluntary at the agency. A spokesperson for the Department of Health and Human Services told Engadget that \"the information provided by FDA to CNN was mischaracterized and taken out of context.\" The spokesperson also claimed that CNN led its story with \"disgruntled former employees and sources who have never even used the current version of Elsa.\" The agency claims to have guardrails and guidance for how its employees can use the tool, but its statement doesn’t address that Elsa, like any AI platform, can and will deliver incorrect or incomplete information at times. We have not yet received a response to our request for additional details. The CNN investigation highlighting these flaws with the FDA's artificial intelligence arrived on the same day as the White House introduced an \"AI Action Plan.\" The program presented AI development as a technological arms race that the US should win at all costs, and it laid out plans to remove \"red tape and onerous regulation\" in the sector. It also demanded that AI be free of \"ideological bias,\" or in other words, only following the biases of the current administration by removing mentions of climate change, misinformation, and diversity, equity and inclusion efforts. Considering each of those three topics has a documented impact on public health, the ability of tools like Elsa to provide genuine benefits to both the FDA and to US patients looks increasingly doubtful. Update, July 24, 2025, 6:35PM ET: Added a statement from the Department of Health and Human Services.This article originally appeared on Engadget at https://www.engadget.com/ai/fda-employees-say-the-agencys-elsa-generative-ai-hallucinates-entire-studies-203547157.html?src=rss",
+    "author": "Anna Washenko",
+    "published": "Thu, 24 Jul 2025 22:35:11 +0000",
+    "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2Fa286a8d0-6803-11f0-bfbd-ceee59a8bd5d\u0026resize=1400%2C933\u0026client=19f2b5e49a271b2bde77\u0026signature=0b8163e5bbafdc961fde4f589ba2c0e436f1e9a4",
+    "source": "https://www.engadget.com/rss.xml",
+    "categories": [
+      "Politics \u0026 Government",
+      "Health",
+      "Government Agencies",
+      "Government",
+      "site|engadget",
+      "provider_name|Engadget",
+      "region|US",
+      "language|en-US",
+      "author_name|Anna Washenko"
+    ]
+  },
+  {
+    "id": "9a252213-4043-4a2b-82aa-7719f2e092bc",
+    "title": "239: Did You Not Get Enough of Me",
+    "link": "http://relay.fm/analogue/239",
+    "description": "There's a lot in this one.",
+    "author": "Casey Liss and Myke Hurley",
+    "published": "Sat, 05 Jul 2025 19:30:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/traffic.libsyn.com/secure/analogue/analogue239.mp3",
+    "source": "https://www.relay.fm/analogue/feed",
+    "categories": null
+  },
+  {
+    "id": "c576bf87-b499-420c-afa4-885d3c54e2da",
+    "title": "238: A Specific Flavor of Juice",
+    "link": "http://relay.fm/analogue/238",
+    "description": "Preparing for WWDC, a baby update, and a remembrance.",
+    "author": "Casey Liss and Myke Hurley",
+    "published": "Sat, 07 Jun 2025 11:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/traffic.libsyn.com/secure/analogue/analogue238.mp3",
+    "source": "https://www.relay.fm/analogue/feed",
+    "categories": null
+  },
+  {
+    "id": "0a223d07-8a0a-47fc-935d-17bd381b2328",
+    "title": "Two major AI coding tools wiped out user data after making cascading mistakes",
+    "link": "https://arstechnica.com/information-technology/2025/07/ai-coding-assistants-chase-phantoms-destroy-real-user-data/",
+    "description": "\"I have failed you completely and catastrophically,\" wrote Gemini.",
+    "author": "Benj Edwards",
+    "published": "Thu, 24 Jul 2025 21:01:28 +0000",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/robot_haywire_hero_2-1152x648.jpg",
+    "source": "http://feeds.arstechnica.com/arstechnica/index",
+    "categories": [
+      "AI",
+      "Biz \u0026 IT",
+      "AI assistants",
+      "AI behavior",
+      "AI coding",
+      "AI confabulation",
+      "AI development",
+      "AI development tools",
+      "AI failures",
+      "AI hallucination",
+      "chatbots",
+      "confabulations",
+      "data science",
+      "Gemini CLI",
+      "generative ai",
+      "google",
+      "Jason Lemkin",
+      "large language models",
+      "machine learning",
+      "multimodal AI",
+      "Programming",
+      "Replit",
+      "vibe coding"
+    ]
+  },
+  {
+    "id": "7824b100-f5dd-428a-b1e3-34633e795d04",
+    "title": "Hackers—hope to defect to Russia? Don’t Google “defecting to Russia.”",
+    "link": "https://arstechnica.com/security/2025/07/hackers-hope-to-defect-to-russia-dont-google-defecting-to-russia/",
+    "description": "Criminals who get caught are, unsurprisingly, not always great at opsec.",
+    "author": "Nate Anderson",
+    "published": "Thu, 24 Jul 2025 20:25:56 +0000",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
+    "source": "http://feeds.arstechnica.com/arstechnica/index",
+    "categories": [
+      "Security",
+      "hacking",
+      "US Army",
+      "Wagenius"
+    ]
+  },
+  {
+    "id": "59c7d12b-e245-4ff3-8e69-dbd01af75ff4",
+    "title": "Nothing Phone 3: This is NOT a Flagship Phone (Review) | All Things Mobile",
+    "link": "https://www.youtube.com/watch?v=5Na2PAD8Znc",
+    "description": "",
+    "author": "CNET",
+    "published": "2025-07-24T12:00:20+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+    "categories": null
+  },
+  {
+    "id": "3df76f7d-5af6-45e7-afeb-52c9eb229e7c",
+    "title": "Toe-Spacers Can Help You Sleep?",
+    "link": "https://www.youtube.com/shorts/KqDal9U8gWQ",
+    "description": "",
+    "author": "CNET",
+    "published": "2025-07-21T15:12:28+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+    "categories": null
+  },
+  {
+    "id": "4efd7393-6497-42ae-a89c-bf4f0e4577ff",
+    "title": "615: I Have a Case, and I Pray",
+    "link": "http://relay.fm/clockwise/615",
+    "description": "Whether we buy AppleCare, how we clear out our inboxes, our smartwatch band habits, and travel tips for coming to America.",
+    "author": "Dan Moren and Mikah Sargent",
+    "published": "Wed, 23 Jul 2025 18:30:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise615.mp3",
+    "source": "https://www.relay.fm/clockwise/feed",
+    "categories": null
+  },
+  {
+    "id": "87032eb1-e375-4136-b774-a07a700345e0",
+    "title": "614: That Phantom Feeling",
+    "link": "http://relay.fm/clockwise/614",
+    "description": "Our MMORPG experience and enjoyment; how we pick restaurants or cafés on the road—Google Maps, Yelp, etc.; the tech we never leave home without and if it's more or less than before; and the arcade game we'd love to own as an original cabinet.",
+    "author": "Dan Moren and Mikah Sargent",
+    "published": "Wed, 16 Jul 2025 17:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise614.mp3",
+    "source": "https://www.relay.fm/clockwise/feed",
+    "categories": null
+  },
+  {
+    "id": "85e22567-e0e0-4c3a-b135-201c54fcbe61",
+    "title": "Starlink Restored After Hours-Long Outage Took Down Elon Musk's Satellite Internet Service",
+    "link": "https://www.cnet.com/home/internet/starlink-restored-after-hours-long-outage-took-down-elon-musks-satellite-internet-service/#ftag=CAD590a51e",
+    "description": "The global satellite internet service appears to be back up and running after a \"failure of key internal software services that operate the core network\" was repaired.",
+    "author": "Corinne Reichert",
+    "published": "Thu, 24 Jul 2025 23:55:00 +0000",
+    "image": "https://www.cnet.com/a/img/resize/c6dac977e675fb45b95f1f444e1137473dfb0485/hub/2025/07/24/9e0453d4-cd66-4e59-b301-0bf1da2e524c/gettyimages-2224910960.jpg?auto=webp\u0026fit=crop\u0026height=614\u0026width=1092",
+    "source": "https://www.cnet.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "ae7ac523-fc65-4cc8-b157-00eb0dd3a754",
+    "title": "T-Mobile and Starlink's $10 a Month Satellite Texting Service Is Live. Here's How It Works",
+    "link": "https://www.cnet.com/tech/mobile/t-mobile-and-starlinks-10-a-month-satellite-texting-service-is-live-heres-how-it-works/#ftag=CAD590a51e",
+    "description": "T-Satellite aims to eliminate cell phone dead zones, at least for texting. Learn who gets it free.",
+    "author": "Joe Supan",
+    "published": "Thu, 24 Jul 2025 23:45:00 +0000",
+    "image": "https://www.cnet.com/a/img/resize/f0babe4eb93509562d2fcf033e4719b1f5b6c242/hub/2025/07/23/d63765b1-82bc-4863-82c4-c616cacb0611/t-mobile-starlink2.jpg?auto=webp\u0026fit=crop\u0026height=614\u0026width=1092",
+    "source": "https://www.cnet.com/rss/news/",
+    "categories": null
+  },
+  {
+    "id": "a3126909-2e5f-4fa9-a408-4b7a9df005e8",
+    "title": "649: Prove It With Cameras",
+    "link": "https://atp.fm/649",
+    "description": "Pre-Show: Casey did Marco’s favorite thing CalDigit TS5+ (affiliate link) CalDigit TS5+ (product page) iperf3 Follow-up: F1 (the sport, not the movie) Apple expected to win 🇺🇸 rights F1 TV Vroom John’s video != Casey’s immersive ride-along To see the immersive ride-along, you need to be wearing a Vision Pro; scroll down on that link John’s toaster update AirPods \u0026 AppleCare+ Keratoconus Water resistance IP54 AirPods Express Replacement Service B\u0026H Reverting to “normal” tabs in Tahoe (via ST-S) defaults write -g NSSolariumWindowTabs -bool NO Low-cost Apple laptop with A18 Pro mandonam Apple sues leaker Jon Prosser for stealing iOS secrets 99% Invisible #626: Emoji Law Gruber’s theorized redactions Gruber’s predictions Cloudflare Declares Content Independence Day Press release ChangeDetection.io Stratechery (paywalled) Post-show: Marco solved sunscreen John’s hat that he likes John’s hat that is cheaper but that he likes less 🇯🇵 Skin Aqua Super Moisture UV Gel (eBay) 🇪🇺 La Roche-Posay Anthelios UVmune 400 Invisible Fluid, Non-Perfumed (eBay) Australian sunscreen video Members-only ATP Overtime: Is copying Apple hardware a good idea? Kuycon G32P 6K 32” IPS monitor Video review by Oliur / UltraLinx ASUS 32” 6K ProArt display Previously on ATP overtime D. Griffin Jones’ review of the 5K Studio Display Mark II coming in early 2026? Sponsored by: Squarespace: Save 10% off your first purchase of a website or domain using code atp. DeleteMe: Making it quick, easy and safe to remove your personal data online. Become a member for ATP Overtime, ad-free episodes, member specials, and our early-release, unedited “bootleg” feed!",
+    "author": "ATP",
+    "published": "Tue, 22 Jul 2025 20:10:43 +0000",
+    "image": "https://atp.fm/audio/rnj1bgvnrdzlmf94/atp649.mp3",
+    "source": "https://atp.fm/rss",
+    "categories": null
+  },
+  {
+    "id": "f2ffc764-283f-47bb-ac3b-a0bca9e1b69b",
+    "title": "648: Part of the Movement",
+    "link": "https://atp.fm/648",
+    "description": "Pre-Show: Live music \u0026 failed air conditioners 🗣️ New ATP Members Special: Tier List: Pizza Toppings Follow-up: Meta Hires Top Apple AI Models Executive SFSymbols 🤝🏻 Tahoe Folders Standard SFSymbol: xattr -w 'com.apple.icon.folder#S' '{\"sym\":\"camera.viewfinder\"}' folder Private SFSymbol: xattr-w 'com.apple.icon.folder#S' '{\"sym\":\"solar.system\"}' folder Random string: xattr -w 'com.apple.icon.folder#S' '{\"emoji\": \"HIMOM\"}' folder FB18022272: “summary” symbol missing in SF Symbols 7 developer beta Toolbars Safari Beta 1 image Beta 3 image The Guardian (good example for messing around with the toolbar) Terminal Beta 1 image Beta 3 image iOS 26 Beta 3 Direct video link _David Smith’s beta 2 (?) video Stephen Hackett’s beta 3 video Matt Birchler: Liquid glass, now with frosted tips Steve Troughton-Smith pours water on the fire YouTube’s new player UI “Clear” iPhone mock-up was by Gavin Nelson in April 2025 HDR controls in iOS 26 (via Gui Rambo) Demo project ✌️ out, Jeff Williams Gruber Gurman Casey ponders the purpose of AppleCare Casey in Dongletown Post-show: John \u0026 Casey review F1 Plumber Problem Guenther Steiner Brad Pitt drives a F1 car for the first time Vision Pro Brad Pitt ride-along (Vision Pro users, scroll down) Casey’s pinball machine Members-only ATP Overtime: 2020 Hindsight John Giannandrea Sponsored by: Notion: Your notes, docs, and projects in one space. Hello Fresh: America’s #1 meal kit. Become a member for ATP Overtime, ad-free episodes, member specials, and our early-release, unedited “bootleg” feed!",
+    "author": "ATP",
+    "published": "Thu, 17 Jul 2025 21:03:01 +0000",
+    "image": "https://atp.fm/audio/yw90rdvbmmhoauex/atp648.mp3",
+    "source": "https://atp.fm/rss",
+    "categories": null
+  },
+  {
+    "id": "dbe1fe68-b6cc-4252-bde1-8b90313f4964",
+    "title": "This Ultra-Repairable Bluetooth Speaker Addresses the Ugliest Part of Consumer Tech",
+    "link": "https://gizmodo.com/this-ultra-repairable-bluetooth-speaker-addresses-the-ugliest-part-of-consumer-tech-2000634005",
+    "description": "A new modular speaker from Teufel tries to fix one of the worst things about modern gadgets.",
+    "author": "James Pero",
+    "published": "Fri, 25 Jul 2025 01:00:49 +0000",
+    "image": "https://gizmodo.com/app/uploads/2025/07/teufelmynd.jpg",
+    "source": "https://gizmodo.com/rss",
+    "categories": [
+      "Gadgets",
+      "Bluetooth Speakers",
+      "Right to Repair"
+    ]
+  },
+  {
+    "id": "efa49b4c-7eb5-40af-9120-6183bc5d7785",
+    "title": "San Diego Comic-Con’s ‘Aztec Batman’ Trailer Explores Mythos, Culture, and Justice In a New Light",
+    "link": "https://gizmodo.com/sdcc-2025-aztec-batman-trailer-release-date-streaming-2000632984",
+    "description": "'Aztec Batman' will bring a bold new reimagining of the caped crusader's mythos this September.",
+    "author": "Isaiah Colbert",
+    "published": "Fri, 25 Jul 2025 00:30:51 +0000",
+    "image": "https://gizmodo.com/app/uploads/2025/07/SDCC-2025-Aztec-Batman_-Clash-of-Empires-Warner-Bros.-HBO-Max.jpg",
+    "source": "https://gizmodo.com/rss",
+    "categories": [
+      "Tech News",
+      "Trailers",
+      "Aztec Batman: Clash of Empires",
+      "Batman",
+      "DC Studios",
+      "HBO Max",
+      "San Diego Comic-Con"
+    ]
+  },
+  {
+    "id": "ff425ae2-14c5-47a2-ab9f-19765f364e13",
+    "title": "iOS 26 Hands-On: Liquid Glass!",
+    "link": "https://www.youtube.com/watch?v=FXrcFeuYtq8",
+    "description": "",
+    "author": "Marques Brownlee",
+    "published": "2025-07-24T17:41:59+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+    "categories": null
+  },
+  {
+    "id": "9b1bd0f5-f766-44c5-a1fb-37254e5a109e",
+    "title": "🚨 New YouTube Feature Alert 🚨",
+    "link": "https://www.youtube.com/shorts/rCllEeHXjUw",
+    "description": "",
+    "author": "Marques Brownlee",
+    "published": "2025-07-18T17:01:56+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+    "categories": null
+  },
+  {
+    "id": "7918eb82-462e-43cb-b0f5-7b397266c366",
+    "title": "Roasting Indian Gaming Setups",
+    "link": "https://www.youtube.com/watch?v=8oRj4wvomzs",
+    "description": "",
+    "author": "Linus Tech Tips",
+    "published": "2025-07-23T18:20:22+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+    "categories": null
+  },
+  {
+    "id": "b1ab9762-2980-456e-a999-4abb10be883e",
+    "title": "Fixing My Employee’s PC",
+    "link": "https://www.youtube.com/watch?v=ri456VSTGwA",
+    "description": "",
+    "author": "Linus Tech Tips",
+    "published": "2025-07-21T18:00:20+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+    "categories": null
+  },
+  {
+    "id": "2134ff82-9c80-4f1a-89b7-dac87813d8af",
+    "title": "Here's How iOS 26 Will Save You From Scam Texts",
+    "link": "https://lifehacker.com/tech/ios-26-scam-text-filter?utm_medium=RSS",
+    "description": "Scammers hate this one trick.",
+    "author": "Jake Peterson",
+    "published": "Thu, 24 Jul 2025 21:00:00 +0000",
+    "image": "",
+    "source": "https://lifehacker.com/rss",
+    "categories": [
+      "Tech"
+    ]
+  },
+  {
+    "id": "9d31688b-5a3d-4b1a-9ce7-6a863bcbfa0f",
+    "title": "Peloton Is Making It Easier to Train for a Hyrox Race",
+    "link": "https://lifehacker.com/health/peloton-hyrox-training-classes?utm_medium=RSS",
+    "description": "Hyrox is taking the fitness world by storm and now Peloton wants in.",
+    "author": "Lindsey Ellefson",
+    "published": "Thu, 24 Jul 2025 20:30:33 +0000",
+    "image": "https://lifehacker.com/imagery/articles/01K0YZKSQVNY2ZPVV97SKFZWT9/images-1.fill.size_2000x1133.v1753386444.png",
+    "source": "https://lifehacker.com/rss",
+    "categories": [
+      "Fitness"
+    ]
+  },
+  {
+    "id": "0ede24b3-453d-4f84-827c-ca3a8706bb01",
+    "title": "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
+    "link": "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019",
+    "description": "Comments",
+    "author": "",
+    "published": "Thu, 24 Jul 2025 21:59:19 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
+    "id": "845a88ff-8dc3-4cac-9d4a-688145d96897",
+    "title": "Graphene OS: a security-enhanced Android build",
+    "link": "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/",
+    "description": "Comments",
+    "author": "",
+    "published": "Thu, 24 Jul 2025 21:48:53 +0000",
+    "image": "",
+    "source": "https://news.ycombinator.com/rss",
+    "categories": null
+  },
+  {
+    "id": "6acb57d6-4e82-4b98-bd9a-3d0b21de516d",
+    "title": "470: Terminated",
+    "link": "http://relay.fm/rocket/470",
+    "description": "On the final episode of Rocket, awards are dispensed and reflections are had. Thanks for an amazing 9 years!",
+    "author": "Christina Warren, Brianna Wu, and Simone De Rochefort",
+    "published": "Thu, 28 Dec 2023 21:00:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/rocketrelay/rocket470.mp3",
+    "source": "https://www.relay.fm/rocket/feed",
+    "categories": null
+  },
+  {
+    "id": "2ff5ee66-5b4c-4249-9405-90a6655d93a7",
+    "title": "469: Very Large Online Problems",
+    "link": "http://relay.fm/rocket/469",
+    "description": "A major hack at Insomniac Games begs the question: why does this keep happening to Sony companies? Then, Apple may finally face patent consequences, as it halts sales of its newest Watches in the U.S.",
+    "author": "Christina Warren, Brianna Wu, and Simone De Rochefort",
+    "published": "Thu, 21 Dec 2023 16:15:00 GMT",
+    "image": "https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/rocketrelay/rocket469.mp3",
+    "source": "https://www.relay.fm/rocket/feed",
+    "categories": null
+  },
+  {
+    "id": "dcf802d8-f21c-4a0e-97e8-8508b866763b",
+    "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
+    "link": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
+    "description": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content creation and making creators' lives easier.Why You Need These AI Tools in 2025Content creation has become more demanding than ever. Whether you're a social media influencer, marketer, or business owner, keeping up with the constant need for fresh, engaging content can be overwhelming. That's where AI tools come in – they're not just fancy tech, they're your secret weapon for creating better content faster.Let's Dive Into the Top 10 AI Tools for 20251. ChatGPT: Content Ideation and ScriptwritingWhat Makes It Special: ChatGPT has evolved into a comprehensive content creation assistant by combining advanced language understanding with specialized content optimization features. Its ability to generate, edit, and optimize content while maintaining brand voice and industry expertise makes it an essential tool for creators who need to produce high-quality written content at scale.Key Features:Advanced content generationSEO optimizationBrand voice maintenanceResearch capabilitiesMulti-format adaptationPricing:Free tier availablePlus: $20/monthPro: $200/monthPerfect For: Content writers, marketers, and businesses needing consistent, high-quality written content.2. Canva Magic Studio: Visual Design and Social Media Content CreationWhat Makes It Special: Canva Magic Studio has transformed the graphic design landscape by combining its user-friendly interface with powerful AI capabilities. The platform's ability to understand design principles and automatically generate on-brand content while maintaining professional aesthetics makes it accessible for beginners while providing enough sophistication for professional designers.Key Features:AI design generationBrand kit integrationMagic resizeAnimation toolsTemplate libraryPricing:Free tier availablePro: $6.50/user/monthTeams: $5/user/monthPerfect For: Small businesses, social media managers, and anyone needing quick, professional-looking designs.3. RunwayML : AI Video GeneratorWhat Makes It Special: RunwayML stands out as the ultimate video creation powerhouse by combining professional-grade effects with user-friendly AI technology. Its game-changing ability to manipulate video content – from changing weather effects with a text prompt to removing objects seamlessly in real-time – makes it indispensable for creators who want to produce high-quality video content without getting bogged down by technical complexities.Key Features:Advanced video generation \u0026 editingReal-time visual effectsSmart motion trackingGreen screen effects without actual green screenAI-powered editing suitePricing:Free tier availableStandard: $12/monthPro: $28/monthUnlimited: $76/monthEnterprise: Custom PricePerfect For: Video creators, YouTubers, and social media managers who want to create professional-quality videos quickly. 4. MidJourney: AI Art GenerationWhat Makes It Special: Midjourney V6 has redefined AI image generation by mastering the nuances of professional photography and artistic style. Its ability to understand and execute complex creative directions – from specific lighting conditions to branded visual styles – while maintaining consistent quality across multiple generations makes it the go-to tool for creators who need stunning visuals that align perfectly with their brand identity.Key Features:Photorealistic image generationAdvanced style controlQuick generation timeCommercial usage rightsStrong community supportPricing:Basic: $10/monthStandard: $30/monthPro: $60/monthMega: $120/monthPerfect For: Social media managers, digital marketers, and anyone needing professional-quality visuals consistently.5. Synthesia: AI Avatar-Based Video CreationWhat Makes It Special: Synthesia has transformed video creation by making it possible to create professional-looking AI avatar videos in minutes. Its ability to generate natural-looking presentations in multiple languages with synchronized lip movements and gestures makes it invaluable for creators who need to produce video content at scale without the traditional filming process.Key Features:AI avatar Video creationMulti-language supportCustom avatar optionsProfessional templatesScript to video conversionPricing:Free tier availableStarter: $18/monthCreator: $64/monthEnterprise: Custom pricingPerfect For: Businesses and educators creating training videos, presentations, and multilingual content.6. Descript: Podcast and Video Editing with Transcription FeaturesWhat Makes It Special: Descript has transformed audio and video editing by making it as simple as editing a text document. Its innovative approach to media editing, combined with powerful AI features like automatic transcription and filler word removal, makes professional-quality editing accessible to creators of all skill levels.Key Features:Text-based video editingAutomatic transcriptionFiller word removalScreen recordingCollaborative editingPricing:Hobbyist: $12/monthCreator: $24/monthBusiness: $40/monthEnterprise: Custom pricingPerfect For: Podcasters, video creators, and teams needing efficient audio/video editing solutions.7. ElevenLabs: AI VOICE GENERATIONWhat Makes It Special: ElevenLabs has revolutionized voice synthesis by achieving unprecedented levels of natural speech quality and emotional expression. Its ability to clone voices accurately and generate multiple languages with proper accents and inflections makes it the ultimate tool for creators who need professional-quality voiceovers without the traditional recording process or voice actor limitations.Key Features:Ultra-realistic voice synthesisVoice cloning capabilityMulti-language supportEmotion controlReal-time generationPricing:Free tier availableStarter: $5/monthCreator: $11/monthPro: $99/monthScale: $330/monthBusiness: $1321/monthEnterprise: Custom pricingPerfect For: Podcasters, video creators, and content creators needing professional voiceovers in multiple languages.8. Tribescaler: Viral Content and Headline OptimizationWhat Makes It Special: Tribescaler brings a scientific approach to viral content creation by combining trend analysis with content optimization. Its powerful AI engine analyzes successful content patterns across platforms and provides actionable insights to help creators craft content that's more likely to go viral, while maintaining authenticity and audience engagement.Key Features:Viral content predictionTrend analysisContent optimizationPerformance trackingMulti-platform schedulingPricing:Free tier availablePro: $49/monthPerfect For: Content creators and social media managers focused on maximizing reach and engagement.9. Clickable: Automated Ad Creation and OptimizationWhat Makes It Special: Clickable revolutionizes ad creation by seamlessly blending data-driven insights with creative automation. Its ability to analyze brand assets and automatically generate platform-optimized ad variations while maintaining brand voice transforms the tedious process of ad creation into a streamlined, results-driven workflow that consistently delivers high-performing content.Key Features:Automated ad creationMulti-platform optimizationBuilt-in A/B testingPerformance analyticsTemplate libraryPerfect For: Digital marketers and businesses looking to scale their ad production efficiently.10. Copy AI What Makes It Special: CopyAI has established itself as a powerhouse in AI-powered copywriting by offering specialized content generation for various marketing formats. Its sophisticated understanding of marketing psychology and brand voice, combined with its ability to generate compelling copy across multiple formats and industries, makes it invaluable for marketers and content creators who need to produce engaging, conversion-focused content at scale.Key Features:Advanced marketing copy generationMultiple content type templatesBrand voice customizationMultilingual supportA/B testing variationsPricing:Free tier availablePro: $49/monthAdvanced: $249/monthEnterprise: Custom pricingPerfect For: Marketing teams, copywriters, and businesses needing high-converting marketing copy across multiple channels.ConclusionThe AI tools listed here are revolutionizing the content creation landscape in 2025, making it easier than ever to produce high-quality, engaging, and impactful content. By integrating these tools into your workflow, you can save time, unleash your creativity, and achieve better results.AI doesn't replace creativity; it amplifies it. As a content creator, your unique voice and vision are irreplaceable. These tools serve as enablers, helping you focus on what you do best—creating. Explore, experiment, and innovate. The future of content creation is here, and it's brimming with possibilities.Embrace these technologies, stay ahead of the curve, and watch your creative potential soar. The only limit is your imagination!Note: All features and pricing information are subject to change. Please verify current details with the respective platforms, Also this article contain affiliate links which means we make a small comission if yo buy any premium plan from our linksPricing updated on 01/02/ 2025",
+    "author": "Unknown",
+    "published": "Thu, 02 Jan 2025 09:26:00 +0000",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge5QgwLKWbavTUhIedQLI79z5BGD4h0ZoH4YMK6bGBL6fY4Je8R3GZurMZaJmtYirFS6pS-GgZD3xFAqfln8w8faEY2iDehndQNeez57DoiDsgYFJrIwMOLBjzcZiOJrqYDktm6pmRkwtprJChag0yQoeEZx1Pa_eKnt3kKzz69f-FSPWu_JXQxFq5Z8WZ/s16000/Blue%20Purple%20Futuristic%20Modern%203D%20Tech%20Company%20Business%20Presentation.jpg",
+    "source": "http://feeds.feedburner.com/TechCrunch",
+    "categories": null
+  },
+  {
+    "id": "07d26fff-767c-4b61-b16f-f3f8cdf63407",
+    "title": "LimeWire AI Studio Review 2023: Details, Pricing \u0026 Features",
+    "link": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
+    "description": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude of existing AI tools but also brings a fresh approach to content generation. LimeWire not only empowers users to create AI content but also provides creators with creative ways to share and monetize their creations.As we explore LimeWire, our aim is to uncover its features, benefits for creators, and the exciting possibilities it offers for AI content generation. This platform presents an opportunity for users to harness the power of AI in image creation, all while enjoying the advantages of a free and accessible service.Let's unravel the distinctive features that set LimeWire apart in the dynamic landscape of AI-powered tools, understanding how creators can leverage its capabilities to craft unique and engaging AI-generated images.IntroductionLimeWire, a name once associated with the notorious file-sharing tool from the 2000s, has undergone a significant transformation. The LimeWire we discuss today is not the file-sharing application of the past but has re-emerged as an entirely new entity—a cutting-edge AI content publishing platform.This revamped LimeWire invites users to register and unleash their creativity by crafting original AI content, which can then be shared and showcased on the LimeWire Studio. Notably, even acclaimed artists and musicians, such as Deadmau5, Soulja Boy, and Sean Kingston, have embraced this platform to publish their content in the form of NFT music, videos, and images.Beyond providing a space for content creation and sharing, LimeWire introduces monetization models to empower users to earn revenue from their creations. This includes avenues such as earning ad revenue and participating in the burgeoning market of Non-Fungible Tokens (NFTs). As we delve further, we'll explore these monetization strategies in more detail to provide a comprehensive understanding of LimeWire's innovative approach to content creation and distribution.LimeWire Studio welcomes content creators into its fold, providing a space to craft personalized AI-focused content for sharing with fans and followers. Within this creative hub, every piece of content generated becomes not just a creation but a unique asset—ownable and tradable. Fans have the opportunity to subscribe to creators' pages, immersing themselves in the creative journey and gaining ownership of digital collectibles that hold tradeable value within the LimeWire community. Notably, creators earn a 2.5% royalty each time their content is traded, adding a rewarding element to the creative process.The platform's flexibility is evident in its content publication options. Creators can choose to share their work freely with the public or opt for a premium subscription model, granting exclusive access to specialized content for subscribers.LimeWire AI StudioAs of the present moment, LimeWire focuses on AI Image Generation, offering a spectrum of creative possibilities to its user base. The platform, however, has ambitious plans on the horizon, aiming to broaden its offerings by introducing AI music and video generation tools in the near future. This strategic expansion promises creators even more avenues for expression and engagement with their audience, positioning LimeWire Studio as a dynamic and evolving platform within the realm of AI-powered content creation.AI Image Generation ToolsThe LimeWire AI image generation tool presents a versatile platform for both the creation and editing of images. Supporting advanced models such as Stable Diffusion 2.1, Stable Diffusion XL, and DALL-E 2, LimeWire offers a sophisticated toolkit for users to delve into the realm of generative AI art.Much like other tools in the generative AI landscape, LimeWire provides a range of options catering to various levels of complexity in image creation. Users can initiate the creative process with prompts as simple as a few words or opt for more intricate instructions, tailoring the output to their artistic vision. What sets LimeWire apart is its seamless integration of different AI models and design styles. Users have the flexibility to effortlessly switch between various AI models, exploring diverse design styles such as cinematic, digital art, pixel art, anime, analog film, and more. Each style imparts a distinctive visual identity to the generated AI art, enabling users to explore a broad spectrum of creative possibilities.The platform also offers additional features, including samplers, allowing users to fine-tune the quality and detail levels of their creations. Customization options and prompt guidance further enhance the user experience, providing a user-friendly interface for both novice and experienced creators. if (typeof atAsyncOptions !== 'object') var atAsyncOptions = []; atAsyncOptions.push({ 'key': '504b591a28719b1270e09aa4045e24ab', 'format': 'js', 'async': true, 'container': 'atContainer-504b591a28719b1270e09aa4045e24ab', 'params' : {} }); var script = document.createElement('script'); script.type = \"text/javascript\"; script.async = true; script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/504b591a28719b1270e09aa4045e24ab/invoke.js'; document.getElementsByTagName('head')[0].appendChild(script); Excitingly, LimeWire is actively developing its proprietary AI model, signaling ongoing innovation and enhancements to its image generation capabilities. This upcoming addition holds the promise of further expanding the creative horizons for LimeWire users, making it an evolving and dynamic platform within the landscape of AI-driven art and image creation.Sign Up Now To Get Free CreditsAutomatically Mint Your Content As NFTsUpon completing your creative endeavor on LimeWire, the platform allows you the option to publish your content. An intriguing feature follows this step: LimeWire automates the process of minting your creation as a Non-Fungible Token (NFT), utilizing either the Polygon or Algorand blockchain. This transformative step imbues your artwork with a unique digital signature, securing its authenticity and ownership in the decentralized realm.Creators on LimeWire hold the power to decide the accessibility of their NFT creations. By opting for a public release, the content becomes discoverable by anyone, fostering a space for engagement and interaction. Furthermore, this choice opens the avenue for enthusiasts to trade the NFTs, adding a layer of community involvement to the artistic journey.Alternatively, LimeWire acknowledges the importance of exclusivity. Creators can choose to share their posts exclusively with their premium subscribers. In doing so, the content remains a special offering solely for dedicated fans, creating an intimate and personalized experience within the LimeWire community. This flexibility in sharing options emphasizes LimeWire's commitment to empowering creators with choices in how they connect with their audience and distribute their digital creations.After creating your content, you can choose to publish the content. It will automatically mint your creation as an NFT on the Polygon or Algorand blockchain. You can also choose whether to make it public or subscriber-only.If you make it public, anyone can discover your content and even trade the NFTs. If you choose to share the post only with your premium subscribers, it will be exclusive only to your fans.Earn Revenue From Your ContentAdditionally, you can earn ad revenue from your content creations as well.When you publish content on LimeWire, you will receive 70% of all ad revenue from other users who view your images, music, and videos on the platform.This revenue model will be much more beneficial to designers. You can experiment with the AI image and content generation tools and share your creations while earning a small income on the side.LMWR TokensThe revenue you earn from your creations will come in the form of LMWR tokens, LimeWire’s own cryptocurrency.Your earnings will be paid every month in LMWR, which you can then trade on many popular crypto exchange platforms like Kraken, ByBit, and UniSwap.You can also use your LMWR tokens to pay for prompts when using LimeWire generative AI tools.Pricing PlansYou can sign up to LimeWire to use its AI tools for free. You will receive 10 credits to use and generate up to 20 AI images per day. You will also receive 50% of the ad revenue share. However, you will get more benefits with premium plans.Basic plan: For $9.99 per month, you will get 1,000 credits per month, up to 2 ,000 image generations, early access to new AI models, and 50% ad revenue shareAdvanced plan: For $29 per month, you will get 3750 credits per month, up to 7500 image generations, early access to new AI models, and 60% ad revenue sharePro plan: For $49 per month, you will get 5,000 credits per month, up to 10,000 image generations, early access to new AI models, and 70% ad revenue share if (typeof atAsyncOptions !== 'object') var atAsyncOptions = []; atAsyncOptions.push({ 'key': '2060cf2f0491455d459b6b7a0ee275f3', 'format': 'js', 'async': true, 'container': 'atContainer-2060cf2f0491455d459b6b7a0ee275f3', 'params' : {} }); var script = document.createElement('script'); script.type = \"text/javascript\"; script.async = true; script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/2060cf2f0491455d459b6b7a0ee275f3/invoke.js'; document.getElementsByTagName('head')[0].appendChild(script); Pro Plus plan: For $99 per month, you will get 11,250 credits per month, up to 2 2,500 image generations, early access to new AI models, and 70% ad revenue shareWith all premium plans, you will receive a Pro profile badge, full creation history, faster image generation, and no ads.Sign Up Now To Get Free CreditsConclusionIn conclusion, LimeWire emerges as a democratizing force in the creative landscape, providing an inclusive platform where anyone can unleash their artistic potential and effortlessly share their work. With the integration of AI, LimeWire eliminates traditional barriers, empowering designers, musicians, and artists to publish their creations and earn revenue with just a few clicks.The ongoing commitment of LimeWire to innovation is evident in its plans to enhance generative AI tools with new features and models. The upcoming expansion to include music and video generation tools holds the promise of unlocking even more possibilities for creators. It sparks anticipation about the diverse and innovative ways in which artists will leverage these tools to produce and publish their own unique creations.For those eager to explore, LimeWire's AI tools are readily accessible for free, providing an opportunity to experiment and delve into the world of generative art. As LimeWire continues to evolve, creators are encouraged to stay tuned for the launch of its forthcoming AI music and video generation tools, promising a future brimming with creative potential and endless artistic exploration",
+    "author": "Unknown",
+    "published": "Tue, 12 Dec 2023 16:10:00 +0000",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjpMlV4umM2-ZY3vAwynTzCWwbk5_pjVyGQqGGftHzeOmpTyc4aYApxfanU29DyPfjUZz5ZhhDojKe8mpYUG6tcEezDQrg1NTDr8XOBequWD3LOpUKpea4AiaB5mhPpYZSxtk2lRfHnCSNhyphenhyphenXm53l80cTMNA_KtCMfDd9PQNzYWp6A4ylQJtUy_-7GpWsF/w640-h354/limewire-studio.jpg",
+    "source": "http://feeds.feedburner.com/TechCrunch",
+    "categories": [
+      "Ai"
+    ]
+  },
+  {
+    "id": "2f2b64bc-18f4-41df-af46-0eafcd8e11f3",
+    "title": "Scientists Are Developing Artificial Blood That Could Save Lives In Emergencies",
+    "link": "https://science.slashdot.org/story/25/07/25/004220/scientists-are-developing-artificial-blood-that-could-save-lives-in-emergencies?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Scientists at the University of Maryland are developing ErythroMer, a freeze-dried artificial blood substitute made from hemoglobin encased in fat bubbles, designed to be shelf-stable for years and reconstituted with water in emergencies. With promising animal trial results and significant funding from the Department of Defense, the team aims to begin human testing within two years. NPR reports: \"The No. 1 cause of preventable death on the battlefield is hemorrhage still today,\" says Col. Jeremy Pamplin, the project manager at the Defense Advanced Research Projects Agency. \"That's a real problem for the military and for the civilian world.\" [Dr. Allan Doctor, a scientist at the University of Maryland working to develop the artificial blood substitute] is optimistic his team may be on the brink of solving that problem with ... ErythroMer. Doctor co-founded KaloCyte to develop the blood and serves on the board and as the firm's chief scientific officer. \"We've been able to successfully recapitulate all the functions of blood that are important for a resuscitation in a system that can be stored for years at ambient temperature and be used at the scene of an accident,\" he says. [...] Doctor's team has tested their artificial blood on hundreds of rabbits and so far it looks safe and effective. \"It would change the way that we could take care of people who are bleeding outside of hospitals,\" Doctor says. \"It'd be transformative.\" [...] While the results so far seem like cause for optimism, Doctor says he still needs to prove to the Food and Drug Administration that his artificial blood would be safe and effective for people. But he hopes to start testing it in humans within two years. A Japanese team is already testing a similar synthetic blood in people. \"I'm very hopeful,\" Doctor says. While promising, some experts remain cautious, noting that past attempts at artificial blood ultimately proved unsafe. \"I think it's a reasonable approach,\" says Tim Estep, a scientist at Chart Biotech Consulting who consults with companies developing artificial blood. \"But because this field has been so challenging, the proof will be in the clinical trials,\" he adds. \"While I'm overall optimistic, placing a bet on any one technology right now is overall difficult.\" Read more of this story at Slashdot.",
+    "author": "BeauHD",
+    "published": "2025-07-25T01:00:00+00:00",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+    "categories": [
+      "medicine"
+    ]
+  },
+  {
+    "id": "d35debd0-02f5-4c4a-b4a5-8571833396ac",
+    "title": "Intel Will Shed 24,000 Employees This Year, Retreat In Germany, Poland, Costa Rica, and Ohio",
+    "link": "https://hardware.slashdot.org/story/25/07/24/2339237/intel-will-shed-24000-employees-this-year-retreat-in-germany-poland-costa-rica-and-ohio?utm_source=rss1.0mainlinkanon\u0026utm_medium=feed",
+    "description": "Intel announced it will cut approximately 24,000 jobs in 2025 and cancel or scale back projects in Germany, Poland, Costa Rica, and Ohio as part of CEO Lip-Bu Tan's sweeping restructuring efforts. By the end of the year, the struggling chipmaker plans to have \"just around 75,000 'core employees' in total,\" according to The Verge. \"It's not clear if the layoffs will slow now that we're over halfway through the year, but Intel states today that it has already 'completed the majority of the planned headcount actions it announced last quarter to reduce its core workforce by approximately 15 percent.'\" From the report: Intel employed 109,800 people at the end of 2024, of which 99,500 were \"core employees,\" so the company is pushing out around 24,000 people this year -- shrinking Intel by roughly one-quarter. (It has also divested other businesses, shrinking the larger organization as well.) [...] Today, on the company's earnings call, Intel's says that Intel had overinvested in new factories before it had secured enough demand, that its factories had become \"needlessly fragmented,\" and that it needs to grow its capacity \"in lock step\" with achieving actual milestones. \"I do not subscribe to the belief that if you build it, they will come. Under my leadership, we will build what customers need when they need it, and earn their trust,\" says Tan. Now, in Germany and Poland, where Intel was planning to spend tens of billions of dollars respectively on \"mega-fabs\" that would employ 3,000 workers, and on an assembly and test facility that would employ 2,000 workers, the company will \"no longer move forward with planned projects\" and is apparently axing them entirely. Intel has had a presence in Poland since 1993, however, and the company did not say its R\u0026D facilities there are closing. (Intel had previously pressed pause on the new Germany and Poland projects \"by approximately two years\" back in 2024.) In Costa Rica, where Intel employs over 3,400 people, the company will \"consolidate its assembly and test operations in Costa Rica into its larger sites in Vietnam.\" Metzger tells The Verge that over 2,000 Costa Rica employees should remain to work in engineering and corporate, though. The company is also cutting back in Ohio: \"Intel will further slow the pace of construction in Ohio to ensure spending is aligned with market demand.\" Intel CFO David Zinsner says Intel will continue to make investments there, though, and construction will continue. Read more of this story at Slashdot.",
+    "author": "BeauHD",
+    "published": "2025-07-24T23:42:00+00:00",
+    "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "source": "http://rss.slashdot.org/Slashdot/slashdotMain",
+    "categories": [
+      "intel"
+    ]
+  },
+  {
+    "id": "03d34b9a-9f8e-4e4c-a314-56df69cdfbde",
+    "title": "Swiss startup says its AI weather forecaster beats Microsoft, Google",
+    "link": "https://thenextweb.com/news/swiss-startup-jua-ai-weather-forecaster-outperforms-microsoft-google",
+    "description": "Swiss startup Jua has launched an AI-powered weather forecaster that it says beats leading models from tech giants — potentially making it the world’s most accurate weather forecasting system. Jua claims its model — dubbed EPT-2 — is faster and more accurate than both Microsoft’s Aurora and Google DeepMind’s Graphcast. In separate, peer-reviewed studies, both of those models were shown to be more accurate than the European Centre for Medium-Range Weather Forecasts (ECMWF)’s ENS forecast, widely regarded as the world leader. Jua backs up its bold claims with a new report, published today, that puts EPT-2 head-to-head with top-tier models…This story continues at The Next WebOr just read more coverage about: Google",
+    "author": "Siôn Geschwindt",
+    "published": "Thu, 24 Jul 2025 13:24:27 +0000",
+    "image": "https://img-cdn.tnwcdn.com/image?fit=796%2C417\u0026url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F12%2Fgoogle-deepmind-AI-weather-forecast-gencast.jpg\u0026signature=c4416721ebc9d1389220b9f7122c6901",
+    "source": "https://thenextweb.com/feed/",
+    "categories": [
+      "Startups and technology",
+      "Sustainability",
+      "Artificial Intelligence",
+      "Next Featured"
+    ]
+  },
+  {
+    "id": "4589ce85-866e-4dfa-a1f7-109554cfb070",
+    "title": "Vibe coding platform Lovable becomes fastest-growing software startup ever",
+    "link": "https://thenextweb.com/news/vibe-coding-platform-lovable-becomes-historys-fastest-growing-software-startup",
+    "description": "Swedish AI startup Lovable says it has surpassed $100mn in annual recurring revenue (ARR) just eight months after launch. This makes it the fastest-ever software company to reach the milestone — eclipsing the historically rapid growth rates of companies such as Cursor and Wiz.  Lovable’s rise stems from the popularity of its generative AI platform. The system allows non-technical users to build apps or websites based on simple text prompts.  The platform is the brainchild of Anton Osika, who co-founded Lovable in 2023. “I decided what we needed to do is build for the 99% who do not create software,” he…This story continues at The Next Web",
+    "author": "Siôn Geschwindt",
+    "published": "Thu, 24 Jul 2025 11:03:23 +0000",
+    "image": "https://img-cdn.tnwcdn.com/image?fit=796%2C417\u0026url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2025%2F07%2F01938c14-fbd1-7090-b136-1328926ab8fd.png\u0026signature=8425e47a57de4da7e24bdedc136ab6b7",
+    "source": "https://thenextweb.com/feed/",
+    "categories": [
+      "Deep tech",
+      "Startups and technology",
+      "Next Featured",
+      "Investors and funding"
+    ]
+  },
+  {
+    "id": "2ebd8f9a-b784-4b5a-afd5-fa08a561cc40",
+    "title": "OpenAI could drop GPT-5 in August, report says. Catch up on the latest rumors and leaks.",
+    "link": "https://mashable.com/article/chatgpt-5-release-date",
+    "description": "A new report claims that ChatGPT 5 from OpenAI could arrive as soon as this August. Catch up on all the latest GPT 5 leaks, rumors, and news.",
+    "author": "",
+    "published": "Thu, 24 Jul 2025 22:25:52 +0000",
+    "image": "https://helios-i.mashable.com/imagery/articles/00UvvlO9uLBH4KP7p8yx29b/hero-image.jpg",
+    "source": "http://feeds.mashable.com/Mashable",
+    "categories": null
+  },
+  {
+    "id": "73f67089-70d0-462c-b6b4-164387293ac9",
+    "title": "Starlink is down: Satellite internet customers report outage as company responds",
+    "link": "https://mashable.com/article/starlink-outage-july-24",
+    "description": "On the afternoon of Thursday, July 24, Starlink users reported the satellite internet service was down.",
+    "author": "",
+    "published": "Thu, 24 Jul 2025 22:21:36 +0000",
+    "image": "https://helios-i.mashable.com/imagery/articles/00PLOROA2gw0n3JC7Em5rMd/hero-image.jpg",
+    "source": "http://feeds.mashable.com/Mashable",
+    "categories": null
+  },
+  {
+    "id": "5d347356-83b2-47df-a892-3ba911c79562",
+    "title": "TWiT 1041: A $4 Bill - DOGE Kills Free Tax Tool",
+    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1041",
+    "description": "Coldplay kiss-cam flap proves we're already our own surveillance state Amazon Ring Cashes in on Techno-Authoritarianism and Mass Surveillance OpenAI LLM's gold medal-level performance on the world's most prestigious math competition Thinking Machines Lab Raises $2 Billion at $10 Billion Valuation The Epic Battle for AI Talent—With Exploding Offers, Secret Deals and Tears Trump Signs Stablecoin Bill, Delivering Win for Crypto Industry Engadget Podcast: Ancestra director Eliza McNitt defends AI as a creative tool DOGE staffer with access to Americans' personal data leaked private xAI API key DOGE Put Free Tax Filing Tool on Chopping Block After One Meeting With Lobbyists EU backs down on Big Tech tax ahead of US trade deal Reddit begins age verification checks for UK users Roblox will require a facial scan or government ID to have unfiltered chats EU to test age-check app under new child safety rules - 9to5Mac Trump administration to spend $1 billion on 'offensive' hacking operations | TechCrunch A Little-Known Microsoft Program Could Expose the Defense Department to Chinese Hackers Uber to invest in Lucid and Nuro in massive robotaxi deal YouTuber leaked iOS secrets via friend spying on dev's phone, Apple lawsuit claims This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It I Tested the Galaxy Z Fold 7: It's Slim, Powerful and Surprisingly Practical Host: Leo Laporte Guests: Abrar Al-Heeti, Iain Thomson, and Devindra Hardawar Download or subscribe to This Week in Tech at https://twit.tv/shows/this-week-in-tech Join Club TWiT for Ad-Free Podcasts! Support what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: https://twit.tv/clubtwit Sponsors: ZipRecruiter.com/Twit helixsleep.com/twit uscloud.com zscaler.com/security storyblok.com/twittv-25 code TWIT25",
+    "author": "TWiT",
+    "published": "Sun, 20 Jul 2025 19:55:20 PDT",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1041/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R6_twit1041.mp3",
+    "source": "https://feeds.twit.tv/twit.xml",
+    "categories": [
+      "News",
+      "Tech News",
+      "TWiT",
+      " This Week in Tech",
+      " Leo Laporte",
+      " coldplay",
+      " kisscam",
+      " meta openai",
+      " Mark Zuckerberg",
+      " sam altman",
+      " trump",
+      " stablecoin",
+      " ancestra",
+      " eliza mcnitt",
+      " darren aronovsky",
+      " Doge",
+      " irs",
+      " reddit",
+      " Roblox",
+      " Microsoft",
+      " uber",
+      " lucid",
+      " nuro",
+      " iOS",
+      " Apple",
+      " samsung"
+    ]
+  },
+  {
+    "id": "28c7b68e-c9e0-4f96-9cb9-71fa8e3dcc67",
+    "title": "TWiT 1040: The $100,000 Stapler - Veo 3 and Deepfakes",
+    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1040",
+    "description": "A New Era of Internet Regulation Is About to Begin Australia is quietly rolling out age checks for search engines like Google Bluesky is rolling out age verification in the UK House \"crypto week\" could change how Americans use, save money Latest stablecoin bill addresses foreign issuers, national security safeguards Grok team apologizes for the chatbot's 'horrific behavior' and blames 'MechaHitler' on a bad update Grok 4 seems to consult Elon Musk to answer controversial questions European Union Unveils Rules for Powerful A.I. Systems Gemini can now turn your photos into video with Veo 3 Denmark to tackle deepfakes by giving people copyright to their own features Belkin shutting down these Wemo smart home products in 2026 It's YouTube vs. Netflix as the Streaming Wars Come Down to 2 Jack Dorsey launches a WhatsApp messaging rival built on Bluetooth GameStop's Nintendo Switch 2 stapler sells for more than $100,000 on eBay after viral mishap Professor Oak's voice actor, James Carter Cathcart, has died Host: Leo Laporte Guests: Harper Reed and Amy Webb Download or subscribe to This Week in Tech at https://twit.tv/shows/this-week-in-tech Join Club TWiT for Ad-Free Podcasts! Support what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: https://twit.tv/clubtwit Sponsors: expressvpn.com/twit NetSuite.com/TWIT bitwarden.com/twit shopify.com/twit oracle.com/twit",
+    "author": "TWiT",
+    "published": "Sun, 13 Jul 2025 17:05:44 PDT",
+    "image": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1040/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R3_twit1040.mp3",
+    "source": "https://feeds.twit.tv/twit.xml",
+    "categories": [
+      "News",
+      "Tech News",
+      "TWiT",
+      " This Week in Tech",
+      " Leo Laporte",
+      " Amy Webb",
+      " harper reed",
+      " audtralia",
+      " Google",
+      " bluesky",
+      " UK",
+      " stablecoin",
+      " Grok",
+      " elon musk",
+      " gemini",
+      " Veo 3",
+      " denmark",
+      " Deepfakes",
+      " belkin",
+      " wemo",
+      " YouTube",
+      " netflix",
+      " jack dorsey",
+      " whatsapp",
+      " bluetooth",
+      " gamestop",
+      " nintendo",
+      " switch 2"
+    ]
+  },
+  {
+    "id": "2de0765d-38a0-4e10-9b86-ea3b2ad2e47c",
+    "title": "Is the Fuji X-E5 the Best Tiny Camera for Travel?",
+    "link": "https://www.youtube.com/watch?v=akv2IvHwGJw",
+    "description": "",
+    "author": "The Verge",
+    "published": "2025-07-24T14:00:08+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+    "categories": null
+  },
+  {
+    "id": "cbc11f65-f121-49c1-8b82-000f5d6f5cb8",
+    "title": "This 3D-printed flight simulator was one of many booths we got to see at Open Sauce this year!",
+    "link": "https://www.youtube.com/shorts/2_hVGkwJtps",
+    "description": "",
+    "author": "The Verge",
+    "published": "2025-07-23T17:09:47+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+    "categories": null
+  },
+  {
+    "id": "c98e873f-8015-42cb-b125-6119f59bf053",
+    "title": "Google Play Points members are about to get Fantastic perks",
+    "link": "https://blog.google/products/google-play/comic-con-2025/",
+    "description": "Google Play Points members can earn prizes and rewards on Google Play and at Comic-Con®",
+    "author": "Aurash MahbodVice President and General ManagerGames on Google Play",
+    "published": "Thu, 24 Jul 2025 16:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SDCC_collab_film_header-fcp-gs-.max-600x600.format-webp.webp",
+    "source": "https://www.blog.google/rss/",
+    "categories": [
+      "Google Play"
+    ]
+  },
+  {
+    "id": "e20688cb-8273-4867-8a70-58ce57accbd4",
+    "title": "Web Guide: An experimental AI-organized search results page",
+    "link": "https://blog.google/products/search/web-guide-labs/",
+    "description": "We’re launching Web Guide, a Search Labs experiment that uses AI to intelligently organize the search results page, making it easier to find information and web pages.",
+    "author": "Austin WuGroup Product ManagerSearch",
+    "published": "Thu, 24 Jul 2025 16:00:00 +0000",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebGuide_Hero.max-600x600.format-webp.webp",
+    "source": "https://www.blog.google/rss/",
+    "categories": [
+      "Search",
+      "AI"
+    ]
+  },
+  {
+    "id": "41528e8e-6abc-494c-b4e1-0f66084d0ce4",
+    "title": "Paramount-Skydance merger approved after companies agree to government speech demands",
+    "link": "https://www.theverge.com/news/713587/paramount-skydance-merger-approved-fcc-speech-dei-bias",
+    "description": "The Federal Communications Commission (FCC) has approved Skydance’s $8 billion purchase of CBS-owner Paramount after the companies agreed to end diversity, equity, and inclusion (DEI) programs but feature a “diversity of viewpoints from across the political and ideological spectrum.” In light of the Trump administration’s critiques of CBS’s alleged anti-conservative bias — including collecting a […]",
+    "author": "Lauren Feiner",
+    "published": "2025-07-24T19:57:14-04:00",
+    "image": "",
+    "source": "https://www.theverge.com/rss/index.xml",
+    "categories": [
+      "Business",
+      "Entertainment",
+      "Film",
+      "News",
+      "Policy",
+      "Streaming",
+      "TV Shows"
+    ]
+  },
+  {
+    "id": "03599460-7616-4f16-86c5-33a7740884e7",
+    "title": "Starlink’s satellite internet is back online after a massive outage",
+    "link": "https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline",
+    "description": "Starlink users reported they couldn’t connect to SpaceX’s satellite internet service for a few hours on Thursday afternoon before service was eventually restored. Widespread Starlink outages, like the ones we reported on in 2022 and 2023, have been rare, and this appears to be the first one in 2025. The outage began around 3:15PM ET […]",
+    "author": "Richard Lawler",
+    "published": "2025-07-24T18:53:02-04:00",
+    "image": "",
+    "source": "https://www.theverge.com/rss/index.xml",
+    "categories": [
+      "News",
+      "Science",
+      "Space",
+      "SpaceX"
+    ]
+  },
+  {
+    "id": "c2e41687-a435-468e-a650-9f8ffe63d7ca",
+    "title": "What’s a UV Printer?!",
+    "link": "https://www.youtube.com/shorts/ID2AaCxQIYA",
+    "description": "",
+    "author": "Unbox Therapy",
+    "published": "2025-07-24T16:18:54+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
+    "categories": null
+  },
+  {
+    "id": "29555de8-ae06-4362-aeae-652c85c2baed",
+    "title": "Sony Sent a Special Box...",
+    "link": "https://www.youtube.com/shorts/doS9tRuVHFg",
+    "description": "",
+    "author": "Unbox Therapy",
+    "published": "2025-07-20T14:02:07+00:00",
+    "image": "",
+    "source": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
+    "categories": null
+  },
+  {
+    "id": "504add3d-40a6-4ed2-9832-22e97178fd68",
+    "title": "Google Earnings, Google Flips the Switch on Cloud, Search Notes",
+    "link": "https://stratechery.com/2025/google-earnings-google-flips-the-switch-on-cloud-search-notes/",
+    "description": "Google doubles down on AI in the cloud",
+    "author": "Ben Thompson",
+    "published": "Thu, 24 Jul 2025 10:43:40 +0000",
+    "image": "",
+    "source": "http://stratechery.com/feed/",
+    "categories": [
+      "Daily Update"
+    ]
+  },
+  {
+    "id": "f9d14e7b-2946-4e37-83bb-8b35549f627c",
+    "title": "Netflix Earnings, Apple and F1",
+    "link": "https://stratechery.com/2025/netflix-earnings-apple-and-f1/",
+    "description": "Netflix advertising will change the service; then, F1 might be headed to Apple TV, and it might work.",
+    "author": "Ben Thompson",
+    "published": "Tue, 22 Jul 2025 12:59:25 +0000",
+    "image": "",
+    "source": "http://stratechery.com/feed/",
+    "categories": [
+      "Daily Update"
+    ]
+  }
+]
