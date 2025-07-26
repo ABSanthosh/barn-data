@@ -1,0 +1,21 @@
+{
+  "id": "d122ed12-a98b-4431-9549-63493adf8a8b",
+  "title": "New 64-bit requirement for watchOS apps",
+  "link": "https://developer.apple.com/news/?id=zt8rydnt",
+  "description": "Beginning April 2026, watchOS apps uploaded to App Store Connect must also include 64-bit support and be built with the watchOS 26 SDK. To enable 64-bit support in your project, we recommend using the default Xcode build setting of “Standard architectures” to build a single binary with 64-bit code.You can test ARM64 compatibility for your apps in the Xcode Simulator, and on Apple Watch Series 9 or 10, Apple Watch SE (2nd generation) or Apple Watch Ultra 2 running watchOS 11 or watchOS 26 beta.Learn more about the SDKs included in Xcode",
+  "author": "",
+  "published": "Tue, 22 Jul 2025 06:00:43 PDT",
+  "source": "https://developer.apple.com/news/rss/news.rss",
+  "categories": null,
+  "byline": "Apple Inc.",
+  "length": 574,
+  "excerpt": "Beginning April 2026, watchOS apps uploaded to App Store Connect must also include 64-bit support and be built with the watchOS 26 SDK. To enable 64-bit support in your project, we recommend using the default Xcode build setting of “Standard architectures” to build a single binary with 64-bit code.You can test ARM64 compatibility for your apps in the Xcode Simulator, and on Apple Watch Series 9 or 10, Apple Watch SE (2nd generation) or Apple Watch Ultra 2 running watchOS 11 or watchOS 26 beta.Learn more about the SDKs included in Xcode",
+  "siteName": "",
+  "favicon": "",
+  "text": "July 22, 2025 Beginning April 2026, watchOS apps uploaded to App Store Connect must also include 64-bit support and be built with the watchOS 26 SDK. To enable 64-bit support in your project, we recommend using the default Xcode build setting of “Standard architectures” to build a single binary with 64-bit code.You can test ARM64 compatibility for your apps in the Xcode Simulator, and on Apple Watch Series 9 or 10, Apple Watch SE (2nd generation) or Apple Watch Ultra 2 running watchOS 11 or watchOS 26 beta.Learn more about the SDKs included in Xcode",
+  "image": "https://developer.apple.com/news/images/og/watchos-26-og.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003csection id=\"main\" role=\"main\"\u003e\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\u003carticle id=\"article-zt8rydnt\"\u003e\n\t\t\t\t\t\t\u003csection\u003e\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cp\u003e\u003cimg src=\"https://developer.apple.com/assets/elements/icons/watchos-26/watchos-26-128x128_2x.png\" width=\"128\" height=\"128\" alt=\"New 64-bit requirement for watchOS apps\" data-hires=\"false\"/\u003e\n\t\t\t\t\t\t\t\t\t\u003c/p\u003e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\u003cdiv\u003e\n\t\t\t\t\t\t\t\t\t\u003cp\u003eJuly 22, 2025\u003c/p\u003e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003cdiv\u003e\u003cp\u003eBeginning April 2026, watchOS apps uploaded to App Store Connect must also include 64-bit support and be built with the \u003ca href=\"https://developer.apple.com/watchos/whats-new/\"\u003ewatchOS 26\u003c/a\u003e SDK. To enable 64-bit support in your project, we recommend using the default Xcode build setting of “Standard architectures” to build a single binary with 64-bit code.\u003c/p\u003e\u003cp\u003eYou can test ARM64 compatibility for your apps in the Xcode Simulator, and on Apple Watch Series 9 or 10, Apple Watch SE (2nd generation) or Apple Watch Ultra 2 running watchOS 11 or watchOS 26 beta.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://developer.apple.com/support/xcode/\"\u003eLearn more about the SDKs included \u003cspan\u003ein Xcode\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/div\u003e\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u003c/section\u003e\n\n\n\t\t\t\t\t\u003c/article\u003e\n\t\t\t\t\t\t\t\t\t\u003c/section\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}

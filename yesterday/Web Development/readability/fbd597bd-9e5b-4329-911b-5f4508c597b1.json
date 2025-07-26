@@ -1,0 +1,21 @@
+{
+  "id": "fbd597bd-9e5b-4329-911b-5f4508c597b1",
+  "title": "What's new in DevTools, Chrome 139",
+  "link": "https://developer.chrome.com/blog/new-in-devtools-139?hl=en",
+  "description": "A more reliable and productive Chrome DevTools, support for arbitrary image upload in AI assistance for styling, and more.",
+  "author": "",
+  "published": "Tue, 22 Jul 2025 07:00:00 GMT",
+  "source": "https://developer.chrome.com/static/blog/feed.xml",
+  "categories": null,
+  "byline": "GitHub",
+  "length": 811,
+  "excerpt": "A more reliable and productive Chrome DevTools, support for arbitrary image upload in AI assistance for styling, and more.",
+  "siteName": "Chrome for Developers",
+  "favicon": "https://www.gstatic.com/devrel-devsite/prod/vbad538e1d00a1e89dedb22ab9f1082402199c262867d664247ae54051f01abb8/chrome/images/favicon.png",
+  "text": "Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates. Last updated 2025-07-22 UTC. [[[\"Easy to understand\",\"easyToUnderstand\",\"thumb-up\"],[\"Solved my problem\",\"solvedMyProblem\",\"thumb-up\"],[\"Other\",\"otherUp\",\"thumb-up\"]],[[\"Missing the information I need\",\"missingTheInformationINeed\",\"thumb-down\"],[\"Too complicated / too many steps\",\"tooComplicatedTooManySteps\",\"thumb-down\"],[\"Out of date\",\"outOfDate\",\"thumb-down\"],[\"Samples / code issue\",\"samplesCodeIssue\",\"thumb-down\"],[\"Other\",\"otherDown\",\"thumb-down\"]],[\"Last updated 2025-07-22 UTC.\"],[],[]]",
+  "image": "https://developer.chrome.com/static/blog/new-in-devtools-139/image/WNDT139-Canary.png",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv\u003e\n  \u003cp\u003eExcept as otherwise noted, the content of this page is licensed under the \u003ca href=\"https://creativecommons.org/licenses/by/4.0/\"\u003eCreative Commons Attribution 4.0 License\u003c/a\u003e, and code samples are licensed under the \u003ca href=\"https://www.apache.org/licenses/LICENSE-2.0\"\u003eApache 2.0 License\u003c/a\u003e. For details, see the \u003ca href=\"https://developers.google.com/site-policies\"\u003eGoogle Developers Site Policies\u003c/a\u003e. Java is a registered trademark of Oracle and/or its affiliates.\u003c/p\u003e\n  \u003cp\u003eLast updated 2025-07-22 UTC.\u003c/p\u003e\n\u003c/div\u003e\u003cp\u003e\n  \n  \n    \u003ctemplate\u003e\n      [[[\u0026#34;Easy to understand\u0026#34;,\u0026#34;easyToUnderstand\u0026#34;,\u0026#34;thumb-up\u0026#34;],[\u0026#34;Solved my problem\u0026#34;,\u0026#34;solvedMyProblem\u0026#34;,\u0026#34;thumb-up\u0026#34;],[\u0026#34;Other\u0026#34;,\u0026#34;otherUp\u0026#34;,\u0026#34;thumb-up\u0026#34;]],[[\u0026#34;Missing the information I need\u0026#34;,\u0026#34;missingTheInformationINeed\u0026#34;,\u0026#34;thumb-down\u0026#34;],[\u0026#34;Too complicated / too many steps\u0026#34;,\u0026#34;tooComplicatedTooManySteps\u0026#34;,\u0026#34;thumb-down\u0026#34;],[\u0026#34;Out of date\u0026#34;,\u0026#34;outOfDate\u0026#34;,\u0026#34;thumb-down\u0026#34;],[\u0026#34;Samples / code issue\u0026#34;,\u0026#34;samplesCodeIssue\u0026#34;,\u0026#34;thumb-down\u0026#34;],[\u0026#34;Other\u0026#34;,\u0026#34;otherDown\u0026#34;,\u0026#34;thumb-down\u0026#34;]],[\u0026#34;Last updated 2025-07-22 UTC.\u0026#34;],[],[]]\n    \u003c/template\u003e\n  \n\u003c/p\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
