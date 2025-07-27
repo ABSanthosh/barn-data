@@ -1,0 +1,171 @@
+[
+  {
+    "id": "0186573a-b445-472b-a49b-8c8b79af6136",
+    "title": "Designing Better UX For Left-Handed People",
+    "link": "https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/",
+    "description": "Today, roughly 10% of people are left-handed. Yet most products — digital and physical — aren’t designed with it in mind. Let’s change that. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
+    "author": "Vitaly Friedman",
+    "published": "Fri, 25 Jul 2025 15:00:00 GMT",
+    "image": "http://files.smashing.media/articles/designing-better-ux-left-handed-people/designing-better-ux-left-handed-people.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "540f1a7d-e1cf-414c-8781-4c2a6561ea2c",
+    "title": "Handling JavaScript Event Listeners With Parameters",
+    "link": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
+    "description": "Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event listener needs parameters? That’s where things get interesting. Amejimaobari Ollornwi shares which JavaScript features make handling parameters with event handlers both possible and well-supported.",
+    "author": "Amejimaobari Ollornwi",
+    "published": "Mon, 21 Jul 2025 10:00:00 GMT",
+    "image": "http://files.smashing.media/articles/handling-javascript-event-listeners-parameters/handling-javascript-event-listeners-parameters.jpg",
+    "source": "https://www.smashingmagazine.com/feed",
+    "categories": null
+  },
+  {
+    "id": "41df79f8-6eec-4841-80bc-01bedc934179",
+    "title": "I Didn’t Think One-Click Retouching Could Look This Good — Then I Tried Retouch4me Face Make",
+    "link": "https://justcreative.com/retouch4me-face-make/",
+    "description": "I Didn’t Think One-Click Retouching Could Look This Good — Then I Tried Retouch4me Face Make Another AI photo editing tool? I’ll be honest; I didn’t expect much. At this ... Read more",
+    "author": "Sarika",
+    "published": "Fri, 04 Jul 2025 12:33:36 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2025/07/Photoshop-plugin-of-Retouch4me-Face-Make.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Tools \u0026 Gear"
+    ]
+  },
+  {
+    "id": "dbffab5c-1515-4a56-9bc6-c20c737c150e",
+    "title": "17+ Best Viking Fonts for Nordic Designs",
+    "link": "https://justcreative.com/best-viking-fonts/",
+    "description": "Board the longboats and bring our list of the best viking fonts to any of your projects. With any of these fonts, you can add a warrior's spirit.",
+    "author": "Jacob Cass",
+    "published": "Fri, 04 Jul 2025 04:00:59 +0000",
+    "image": "https://justcreative.com/wp-content/uploads/2022/11/Nordica-Font-600x400.png",
+    "source": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+    "categories": [
+      "Typography",
+      "best viking fonts",
+      "Fonts",
+      "Viking"
+    ]
+  },
+  {
+    "id": "7fdc350d-dbe3-463f-8ea4-1c6f290e86aa",
+    "title": "UX Strategies for Complex-Application Design",
+    "link": "https://www.nngroup.com/articles/strategies-complex-application-design/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "UX in complex, specialized domains requires adapting familiar methods across the design lifecycle to address domain constraints and expert-user needs.",
+    "author": "Kate Kaplan",
+    "published": "Fri, 25 Jul 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "a9fdf63e-0018-4773-83f0-b281fbc97849",
+    "title": "Mixed-Methods Research: Combining Qualitative and Quantitative Data",
+    "link": "https://www.nngroup.com/articles/mixed-methods-research/?utm_source=rss\u0026utm_medium=feed\u0026utm_campaign=rss-syndication",
+    "description": "Mixed-methods research combines qualitative and quantitative methods to explore a single research question.",
+    "author": "Rachel Banawa",
+    "published": "Fri, 25 Jul 2025 17:00:00 +0000",
+    "image": "",
+    "source": "https://www.nngroup.com/feed/rss/",
+    "categories": [
+      "Article"
+    ]
+  },
+  {
+    "id": "a90e7524-a618-4ce9-898d-da44d85742aa",
+    "title": "Unveiling Inspiring UI Design Examples and Insights",
+    "link": "https://usabilitygeek.com/unveiling-inspiring-ui-design-examples-and-insights/",
+    "description": "User Interface (UI) design serves as the critical link connecting users with digital products, culminating in seamless and delightful experiences. UI design is more than just entertaining visuals; it’s the magic wand that transforms digital interactions into seamless and pleasant experiences. Whether you’re a seasoned UI design expert or someone just beginning to explore this […] The post Unveiling Inspiring UI Design Examples and Insights appeared first on Usability Geek",
+    "author": "Mads Soegaard",
+    "published": "Tue, 02 Jan 2024 18:18:36 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "UX Guidelines",
+      "Interface and Navigation",
+      "UI Design",
+      "User Experience",
+      "User Interface Design"
+    ]
+  },
+  {
+    "id": "74c60004-89d5-4a39-ad12-d960d72b86c8",
+    "title": "Top 6 Trends in Product Development You Need to Know",
+    "link": "https://usabilitygeek.com/top-6-trends-in-product-development-you-need-to-know/",
+    "description": "Product development has been a hit sauce for the last two years now. Not participating in this debate seems challenging when all that’s been trending is the widespread hiring of expert product managers to changes in product development aspects. Whether you’re building physical products or a software solution, this comprehensive list of product development trends […] The post Top 6 Trends in Product Development You Need to Know appeared first on Usability Geek",
+    "author": "Paige Griffin",
+    "published": "Thu, 24 Mar 2022 17:02:35 +0000",
+    "image": "",
+    "source": "https://usabilitygeek.com/feed/",
+    "categories": [
+      "Business",
+      "Customer Experience",
+      "product development"
+    ]
+  },
+  {
+    "id": "63c111be-96ac-4ace-ac8d-1c87aa6a1243",
+    "title": "Vanilla moments",
+    "link": "https://uxdesign.cc/vanilla-moments-5cbea27e2724?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Kelly Smith",
+    "published": "Fri, 25 Jul 2025 11:22:39 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*tXhlyCbb4eQoXnHbTYxHGg.png",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "design",
+      "editor-picks",
+      "product-design",
+      "ux",
+      "ux-design"
+    ]
+  },
+  {
+    "id": "1da0bb05-ce21-4c57-93ed-5dc2cd587b01",
+    "title": "11 lessons from a year of using AI in my daily work",
+    "link": "https://uxdesign.cc/11-lessons-from-a-year-of-using-ai-in-my-daily-work-f03c18c7f861?source=rss----138adf9c44c---4",
+    "description": "",
+    "author": "Jan Takacs",
+    "published": "Thu, 24 Jul 2025 11:19:13 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*tqB3QC4rRHOHnxL0E-HCNw.jpeg",
+    "source": "https://uxdesign.cc/feed",
+    "categories": [
+      "product-design",
+      "ai",
+      "learning",
+      "ux",
+      "design"
+    ]
+  },
+  {
+    "id": "9624729b-ad11-487f-8175-987ce48cb6eb",
+    "title": "How to Group Your Sidebar Items for Better Findability",
+    "link": "https://uxmovement.com/navigation/how-to-group-your-sidebar-items-for-better-findability/",
+    "description": "When a sidebar contains many items, grouping is necessary to help users find them faster. However, most designers don’t group their sidebar items and force users to scan an entire list. This results in slow navigation times and poor findability. Grouping improves findability by enabling users to spot a group and scan the items in […] The post How to Group Your Sidebar Items for Better Findability first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:27:48 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": "49165961-d842-4014-8ba5-921c0c714a5b",
+    "title": "How to Make Any Sidebar Menu Easier to Scan",
+    "link": "https://uxmovement.com/navigation/how-to-make-any-sidebar-menu-easier-to-scan/",
+    "description": "How easy to scan is your sidebar menu? If you haven’t optimized the spacing, users will likely spend more time navigating and finding items. Balancing the spacing in the sidebar can help users navigate faster and easier. A typical mistake designers make is adding too much or not enough space. Both can make scanning for […] The post How to Make Any Sidebar Menu Easier to Scan first appeared on UX Movement.",
+    "author": "anthony",
+    "published": "Wed, 19 Mar 2025 15:24:10 +0000",
+    "image": "",
+    "source": "https://uxmovement.com/feed/",
+    "categories": [
+      "Navigation"
+    ]
+  }
+]

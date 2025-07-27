@@ -1,0 +1,21 @@
+{
+  "id": "e14bb37f-6a4a-4be0-bc30-8ce928face3b",
+  "title": "Elastic Copilot",
+  "link": "https://www.producthunt.com/posts/elastic-copilot",
+  "description": "",
+  "author": "Andrew Mikhov",
+  "published": "2025-07-23T13:57:54-07:00",
+  "source": "https://www.producthunt.com/feed",
+  "categories": null,
+  "byline": "Israel Akintunde",
+  "length": 242,
+  "excerpt": "Elastic Copilot is an AI agent for VS Code that codes end‑to‑end. It plans and writes features, understands huge codebases, fixes bugs, writes docs and runs browser, terminal and CI tasks. Built on Claude, GPT and Gemini; full‑context coding.",
+  "siteName": "Product Hunt",
+  "favicon": "https://ph-static.imgix.net/ph-ios-icon.png?auto=format",
+  "text": "Elastic Copilot is an AI agent for VS Code that codes end‑to‑end. It plans and writes features, understands huge codebases, fixes bugs, writes docs and runs browser, terminal and CI tasks. Built on Claude, GPT and Gemini; full‑context coding.",
+  "image": "https://ph-files.imgix.net/dff6d6d1-0866-4f96-9f7a-26e1c0c9eaf6.png?auto=format\u0026fit=crop\u0026frame=1\u0026h=512\u0026w=1024",
+  "html": "\u003cdiv id=\"readability-page-1\" class=\"page\"\u003e\u003cdiv data-sentry-component=\"TruncatableContent\" data-sentry-source-file=\"index.tsx\"\u003e\u003cp\u003eElastic Copilot is an AI agent for VS Code that codes end‑to‑end. It plans and writes features, understands huge codebases, fixes bugs, writes docs and runs browser, terminal and CI tasks. Built on Claude, GPT and Gemini; full‑context coding.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e",
+  "readingTime": "Less than 1 min",
+  "publishedTime": null,
+  "modifiedTime": null
+}
